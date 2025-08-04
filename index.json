@@ -1,5 +1,5 @@
 {
-    "last_update": 1754328014,
+    "last_update": 1754328195,
     "regions": {
         "europe": {
             "data_file": "accounts/europe/accounts.json",
@@ -13,7 +13,11 @@
         "southeast_asia": {
             "last_update": 1754328014,
             "total_accounts": 233
+        },
+        "unknown": {
+            "last_update": 1754328195,
+            "total_accounts": 1
         }
     },
-    "total_accounts": 264
+    "total_accounts": 265
 }
