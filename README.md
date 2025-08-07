@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-06 14:43:13 UTC`  
-**Total Accounts Tracked**: `324`  
+**Last Updated**: `2025-08-07 15:00:27 UTC`  
+**Total Accounts Tracked**: `332`  
 
 ## About This Database
 
@@ -87,7 +87,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `34.48.22.1` (`1.22.48.34.bc.googleusercontent.com`)  
 - **Provider**: `Google LLC` (ASN396982)  
 
-- **Total Accounts**: `47`  
+- **Total Accounts**: `48`  
 - **Tracked Latest Registered Account**: `War_Driver`  
   - Date: `Aug 5, 2025, 8:49:04 PM`  
 - **Tracked Earliest Registered Account**: `Limit`  
@@ -139,7 +139,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `259`  
+- **Total Accounts**: `266`  
 - **Tracked Latest Registered Account**: `NiNi`  
   - Date: `Aug 3, 2025, 8:53:58 PM`  
 - **Tracked Earliest Registered Account**: `Yuzukiii`  
