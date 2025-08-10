@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-09 13:21:54 UTC`  
-**Total Accounts Tracked**: `348`  
+**Last Updated**: `2025-08-10 16:09:38 UTC`  
+**Total Accounts Tracked**: `465`  
 
 ## About This Database
 
@@ -59,7 +59,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.133.10.120` (`None`)  
 - **Provider**: `Tencent Cloud Computing (Beijing) Co. Ltd.` (ASN132203)  
 
-- **Total Accounts**: `0`  
+- **Total Accounts**: `22`  
+- **Tracked Latest Registered Account**: `Fuzan`  
+  - Date: `Aug 10, 2025, 10:39:34 PM`  
+- **Tracked Earliest Registered Account**: `mi4mp`  
+  - Date: `Mar 19, 2025, 2:00:06 PM`  
 
 ### Europe
 
@@ -67,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `15`  
+- **Total Accounts**: `28`  
 - **Tracked Latest Registered Account**: `KandiQueen`  
   - Date: `Jul 14, 2025, 6:46:40 PM`  
 - **Tracked Earliest Registered Account**: `Asa Akira.`  
@@ -87,7 +91,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `34.48.22.1` (`1.22.48.34.bc.googleusercontent.com`)  
 - **Provider**: `Google LLC` (ASN396982)  
 
-- **Total Accounts**: `48`  
+- **Total Accounts**: `52`  
 - **Tracked Latest Registered Account**: `War_Driver`  
   - Date: `Aug 5, 2025, 8:49:04 PM`  
 - **Tracked Earliest Registered Account**: `Limit`  
@@ -139,11 +143,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `273`  
-- **Tracked Latest Registered Account**: `⁰Rosalia⁰`  
-  - Date: `Aug 6, 2025, 2:11:48 AM`  
-- **Tracked Earliest Registered Account**: `Yuzukiii`  
-  - Date: `Aug 11, 2022, 7:33:55 AM`  
+- **Total Accounts**: `351`  
+- **Tracked Latest Registered Account**: `Myrandiel`  
+  - Date: `Aug 9, 2025, 1:43:31 AM`  
+- **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
+  - Date: `Aug 11, 2022, 7:33:41 AM`  
 
 
 *Auto-updated hourly* | [View Raw Data](https://github.com/soevielofficial/tofgm-database)
