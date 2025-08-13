@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-12 13:59:32 UTC`  
-**Total Accounts Tracked**: `491`  
+**Last Updated**: `2025-08-13 15:53:25 UTC`  
+**Total Accounts Tracked**: `520`  
 
 ## About This Database
 
@@ -59,9 +59,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.133.10.120` (`None`)  
 - **Provider**: `Tencent Cloud Computing (Beijing) Co. Ltd.` (ASN132203)  
 
-- **Total Accounts**: `23`  
-- **Tracked Latest Registered Account**: `Korewadoda`  
-  - Date: `Aug 11, 2025, 7:41:11 PM`  
+- **Total Accounts**: `24`  
+- **Tracked Latest Registered Account**: `ShadowFire`  
+  - Date: `Aug 12, 2025, 8:04:58 AM`  
 - **Tracked Earliest Registered Account**: `mi4mp`  
   - Date: `Mar 19, 2025, 2:00:06 PM`  
 
@@ -71,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `28`  
+- **Total Accounts**: `36`  
 - **Tracked Latest Registered Account**: `KandiQueen`  
   - Date: `Jul 14, 2025, 6:46:40 PM`  
 - **Tracked Earliest Registered Account**: `Asa Akira.`  
@@ -143,9 +143,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `376`  
-- **Tracked Latest Registered Account**: `dazirt`  
-  - Date: `Aug 12, 2025, 1:32:16 AM`  
+- **Total Accounts**: `396`  
+- **Tracked Latest Registered Account**: `Smile`  
+  - Date: `Aug 13, 2025, 2:17:58 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
