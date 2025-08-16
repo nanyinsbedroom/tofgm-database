@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-14 16:00:33 UTC`  
-**Total Accounts Tracked**: `537`  
+**Last Updated**: `2025-08-16 16:24:05 UTC`  
+**Total Accounts Tracked**: `562`  
 
 ## About This Database
 
@@ -59,9 +59,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.133.10.120` (`None`)  
 - **Provider**: `Tencent Cloud Computing (Beijing) Co. Ltd.` (ASN132203)  
 
-- **Total Accounts**: `24`  
-- **Tracked Latest Registered Account**: `ShadowFire`  
-  - Date: `Aug 12, 2025, 8:04:58 AM`  
+- **Total Accounts**: `27`  
+- **Tracked Latest Registered Account**: `Nightfall`  
+  - Date: `Aug 14, 2025, 8:40:42 PM`  
 - **Tracked Earliest Registered Account**: `mi4mp`  
   - Date: `Mar 19, 2025, 2:00:06 PM`  
 
@@ -143,7 +143,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `411`  
+- **Total Accounts**: `433`  
 - **Tracked Latest Registered Account**: `Smile`  
   - Date: `Aug 13, 2025, 2:17:58 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
