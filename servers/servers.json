@@ -1,16 +1,26 @@
 {
   "os": {
     "Asia Pacific": {
-      "IP Address": "43.133.10.120",
-      "Hostname": "None",
-      "ASN": "132203",
-      "ISP": "Tencent Cloud Computing (Beijing) Co. Ltd.",
-      "Services": "Datacenter",
-      "Country": "Japan",
-      "State Region": "Tokyo",
-      "City": "Tokyo",
-      "Latitude": "35.6895 (35° 41′ 22.20″ N)",
-      "Longitude": "139.6923 (139° 41′ 32.36″ E)"
+      "Other Server": {
+        "IP Address": "43.133.10.120",
+        "Hostname": "None",
+        "ASN": "132203",
+        "ISP": "Tencent Cloud Computing (Beijing) Co. Ltd.",
+        "Country": "Japan",
+        "City": "Tokyo",
+        "Latitude": "35.6895",
+        "Longitude": "139.6923"
+      },
+      "The Morning Star": {
+        "IP Address": "43.130.245.27",
+        "Hostname": "43.130.245.27",
+        "ASN": "132203",
+        "ISP": "Tencent Cloud Computing (Beijing) Co. Ltd.",
+        "Country": "Japan",
+        "City": "Tokyo",
+        "Latitude": "35.6895",
+        "Longitude": "139.6923"
+      }
     },
     "Europe": {
       "IP Address": "43.131.36.29",
@@ -28,7 +38,7 @@
       "IP Address": "8.213.133.1",
       "Hostname": "ht1.pwrdoverseagame.com",
       "ASN": "45102",
-      "ISP": "Alibaba Cloud (Singapore) Private Limited",
+      "ISP": "Alibaba Cloud (Singapore) Private Limited.",
       "Services": "Datacenter",
       "Country": "Korea",
       "State Region": "Seoul",
@@ -37,16 +47,26 @@
       "Longitude": "126.9772 (126° 58′ 37.93″ E)"
     },
     "North America": {
-      "IP Address": "34.48.22.1",
-      "Hostname": "1.22.48.34.bc.googleusercontent.com",
-      "ASN": "396982",
-      "ISP": "Google LLC",
-      "Services": "Datacenter",
-      "Country": "United States",
-      "State Region": "Virginia",
-      "City": "Ashburn",
-      "Latitude": "39.0395 (39° 2′ 22.11″ N)",
-      "Longitude": "-77.4918 (77° 29′ 30.50″ W)"
+      "Other Server": {
+        "IP Address": "34.48.22.1",
+        "Hostname": "1.22.48.34.bc.googleusercontent.com",
+        "ASN": "396982",
+        "ISP": "Google LLC",
+        "Country": "United States",
+        "City": "Ashburn",
+        "Latitude": "39.0395",
+        "Longitude": "-77.4918"
+      },
+      "Rainbow Road": {
+        "IP Address": "34.145.251.156",
+        "Hostname": "156.251.145.34.bc.googleusercontent.com",
+        "ASN": "396982",
+        "ISP": "Google LLC",
+        "Country": "United States",
+        "City": "Ashburn",
+        "Latitude": "39.0395",
+        "Longitude": "-77.4918"
+      }
     },
     "PS-America": {
       "IP Address": "34.95.80.31",
