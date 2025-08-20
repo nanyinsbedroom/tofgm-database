@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-18 14:20:26 UTC`  
-**Total Accounts Tracked**: `579`  
+**Last Updated**: `2025-08-19 14:39:27 UTC`  
+**Total Accounts Tracked**: `583`  
 
 ## About This Database
 
@@ -55,9 +55,9 @@ Data collection depends on third-party programs and manual verification.
 
 ### Asia Pacific
 
-- **Location**: `Tokyo, Japan`  
-- **Network**: `43.133.10.120` (`None`)  
-- **Provider**: `Tencent Cloud Computing (Beijing) Co. Ltd.` (ASN132203)  
+- **Location**: `unknown, unknown`  
+- **Network**: `unknown` (`unknown`)  
+- **Provider**: `unknown` (ASNunknown)  
 
 - **Total Accounts**: `27`  
 - **Tracked Latest Registered Account**: `Nightfall`  
@@ -81,15 +81,15 @@ Data collection depends on third-party programs and manual verification.
 
 - **Location**: `Seoul, Korea`  
 - **Network**: `8.213.133.1` (`ht1.pwrdoverseagame.com`)  
-- **Provider**: `Alibaba Cloud (Singapore) Private Limited` (ASN45102)  
+- **Provider**: `Alibaba Cloud (Singapore) Private Limited.` (ASN45102)  
 
 - **Total Accounts**: `0`  
 
 ### North America
 
-- **Location**: `Ashburn, United States`  
-- **Network**: `34.48.22.1` (`1.22.48.34.bc.googleusercontent.com`)  
-- **Provider**: `Google LLC` (ASN396982)  
+- **Location**: `unknown, unknown`  
+- **Network**: `unknown` (`unknown`)  
+- **Provider**: `unknown` (ASNunknown)  
 
 - **Total Accounts**: `54`  
 - **Tracked Latest Registered Account**: `War_Driver`  
@@ -143,7 +143,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `450`  
+- **Total Accounts**: `454`  
 - **Tracked Latest Registered Account**: `luck_for_you`  
   - Date: `Aug 18, 2025, 7:44:49 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
