@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-23 14:12:16 UTC`  
-**Total Accounts Tracked**: `622`  
+**Last Updated**: `2025-08-24 15:46:31 UTC`  
+**Total Accounts Tracked**: `634`  
 
 ## About This Database
 
@@ -71,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `50`  
+- **Total Accounts**: `53`  
 - **Tracked Latest Registered Account**: `KandiQueen`  
   - Date: `Jul 14, 2025, 6:46:40 PM`  
 - **Tracked Earliest Registered Account**: `Ogaw​a`  
@@ -91,9 +91,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `54`  
-- **Tracked Latest Registered Account**: `War_Driver`  
-  - Date: `Aug 5, 2025, 8:49:04 PM`  
+- **Total Accounts**: `61`  
+- **Tracked Latest Registered Account**: `ashers`  
+  - Date: `Aug 10, 2025, 10:30:18 PM`  
 - **Tracked Earliest Registered Account**: `Limit`  
   - Date: `Aug 10, 2022, 7:31:35 PM`  
 
@@ -143,7 +143,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `479`  
+- **Total Accounts**: `481`  
 - **Tracked Latest Registered Account**: `ดูดจิ๋มริมบึง`  
   - Date: `Aug 23, 2025, 4:10:16 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
