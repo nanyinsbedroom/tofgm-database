@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-08-28 16:11:08 UTC`  
-**Total Accounts Tracked**: `714`  
+**Last Updated**: `2025-08-29 15:25:37 UTC`  
+**Total Accounts Tracked**: `752`  
 
 ## About This Database
 
@@ -59,11 +59,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `27`  
-- **Tracked Latest Registered Account**: `Nightfall`  
-  - Date: `Aug 14, 2025, 8:40:42 PM`  
-- **Tracked Earliest Registered Account**: `mi4mp`  
-  - Date: `Mar 19, 2025, 2:00:06 PM`  
+- **Total Accounts**: `30`  
+- **Tracked Latest Registered Account**: `リヨン`  
+  - Date: `Aug 28, 2025, 5:57:24 PM`  
+- **Tracked Earliest Registered Account**: `ほむら.`  
+  - Date: `Aug 11, 2022, 9:28:24 AM`  
 
 ### Europe
 
@@ -71,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `70`  
+- **Total Accounts**: `79`  
 - **Tracked Latest Registered Account**: `Dyrachok`  
   - Date: `Aug 23, 2025, 2:36:59 PM`  
 - **Tracked Earliest Registered Account**: `Ogaw​a`  
@@ -143,9 +143,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `543`  
-- **Tracked Latest Registered Account**: `Rafecia`  
-  - Date: `Aug 23, 2025, 10:15:02 PM`  
+- **Total Accounts**: `569`  
+- **Tracked Latest Registered Account**: `Misty_ris`  
+  - Date: `Aug 29, 2025, 6:54:46 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
