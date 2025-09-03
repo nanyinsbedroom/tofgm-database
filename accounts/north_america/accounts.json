@@ -1,15 +1,5 @@
 {
     "accounts": {
-        "0": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 2,
-            "last_seen": 1756049430,
-            "name": "male_player_C_2147464181",
-            "registered": "Jan 1, 1, 12:00:00 AM",
-            "role_id": 0,
-            "server_region": "north_america"
-        },
         "51543902539876": {
             "crew_id": 717259550433,
             "crew_name": "♥︎GreatJourney★",
@@ -540,6 +530,16 @@
             "role_id": 51629802234846,
             "server_region": "north_america"
         },
+        "51629802256393": {
+            "crew_id": 1206885822190,
+            "crew_name": "Haneul",
+            "gender": 1,
+            "last_seen": 1756921191,
+            "name": "SolemnLight",
+            "registered": "Jul 28, 2024, 10:28:00 PM",
+            "role_id": 51629802256393,
+            "server_region": "north_america"
+        },
         "51629802314620": {
             "crew_id": 983547522788,
             "crew_name": "Antiquus",
@@ -623,6 +623,6 @@
     },
     "accounts_total": 62,
     "created": 1753804860,
-    "last_updated": 1756245550,
+    "last_updated": 1756921191,
     "server_region": "north_america"
 }
