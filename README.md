@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-05 15:53:36 UTC`  
-**Total Accounts Tracked**: `897`  
+**Last Updated**: `2025-09-06 15:48:39 UTC`  
+**Total Accounts Tracked**: `994`  
 
 ## About This Database
 
@@ -59,11 +59,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `42`  
-- **Tracked Latest Registered Account**: `_Nexus`  
-  - Date: `Aug 28, 2025, 10:36:54 PM`  
-- **Tracked Earliest Registered Account**: `ほむら.`  
-  - Date: `Aug 11, 2022, 9:28:24 AM`  
+- **Total Accounts**: `124`  
+- **Tracked Latest Registered Account**: `ツナ缶`  
+  - Date: `Sep 6, 2025, 6:23:16 PM`  
+- **Tracked Earliest Registered Account**: `アッキー♂`  
+  - Date: `Aug 11, 2022, 8:50:42 AM`  
 
 ### Europe
 
@@ -135,7 +135,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.157.160.30` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `0`  
+- **Total Accounts**: `9`  
+- **Tracked Latest Registered Account**: `Rios`  
+  - Date: `Sep 5, 2025, 4:43:53 PM`  
+- **Tracked Earliest Registered Account**: `ztruu$`  
+  - Date: `Aug 10, 2022, 8:26:58 PM`  
 
 ### Southeast Asia
 
@@ -143,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `679`  
-- **Tracked Latest Registered Account**: `shines27`  
-  - Date: `Sep 5, 2025, 9:47:57 PM`  
+- **Total Accounts**: `685`  
+- **Tracked Latest Registered Account**: `K-VYN`  
+  - Date: `Sep 6, 2025, 3:11:04 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
