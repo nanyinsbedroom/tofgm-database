@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-06 15:48:39 UTC`  
-**Total Accounts Tracked**: `994`  
+**Last Updated**: `2025-09-07 16:04:54 UTC`  
+**Total Accounts Tracked**: `1,122`  
 
 ## About This Database
 
@@ -59,11 +59,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `124`  
-- **Tracked Latest Registered Account**: `ツナ缶`  
-  - Date: `Sep 6, 2025, 6:23:16 PM`  
-- **Tracked Earliest Registered Account**: `アッキー♂`  
-  - Date: `Aug 11, 2022, 8:50:42 AM`  
+- **Total Accounts**: `169`  
+- **Tracked Latest Registered Account**: `Emmy`  
+  - Date: `Sep 7, 2025, 3:58:23 AM`  
+- **Tracked Earliest Registered Account**: `玖薙  奏華`  
+  - Date: `Aug 11, 2022, 8:33:41 AM`  
 
 ### Europe
 
@@ -71,9 +71,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `100`  
-- **Tracked Latest Registered Account**: `Piuwi`  
-  - Date: `Sep 4, 2025, 5:48:42 PM`  
+- **Total Accounts**: `135`  
+- **Tracked Latest Registered Account**: `ХочуПукнуть`  
+  - Date: `Sep 6, 2025, 4:54:31 PM`  
 - **Tracked Earliest Registered Account**: `Luki™`  
   - Date: `Aug 11, 2022, 1:35:48 AM`  
 
@@ -91,9 +91,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `62`  
-- **Tracked Latest Registered Account**: `ashers`  
-  - Date: `Aug 10, 2025, 10:30:18 PM`  
+- **Total Accounts**: `93`  
+- **Tracked Latest Registered Account**: `oWrathz`  
+  - Date: `Sep 7, 2025, 6:57:01 AM`  
 - **Tracked Earliest Registered Account**: `Limit`  
   - Date: `Aug 10, 2022, 7:31:35 PM`  
 
@@ -135,11 +135,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.157.160.30` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `9`  
-- **Tracked Latest Registered Account**: `Rios`  
-  - Date: `Sep 5, 2025, 4:43:53 PM`  
-- **Tracked Earliest Registered Account**: `ztruu$`  
-  - Date: `Aug 10, 2022, 8:26:58 PM`  
+- **Total Accounts**: `21`  
+- **Tracked Latest Registered Account**: `Shooter-Man `  
+  - Date: `Sep 5, 2025, 5:36:08 PM`  
+- **Tracked Earliest Registered Account**: `Kalixto`  
+  - Date: `Aug 10, 2022, 7:36:43 PM`  
 
 ### Southeast Asia
 
@@ -147,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`None`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `685`  
-- **Tracked Latest Registered Account**: `K-VYN`  
-  - Date: `Sep 6, 2025, 3:11:04 PM`  
+- **Total Accounts**: `689`  
+- **Tracked Latest Registered Account**: `R.Y.U.J.I`  
+  - Date: `Sep 7, 2025, 12:21:46 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
