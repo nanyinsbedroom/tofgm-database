@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-07 16:04:54 UTC`  
-**Total Accounts Tracked**: `1,122`  
+**Last Updated**: `2025-09-08 14:45:45 UTC`  
+**Total Accounts Tracked**: `1,176`  
 
 ## About This Database
 
@@ -59,7 +59,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `169`  
+- **Total Accounts**: `183`  
 - **Tracked Latest Registered Account**: `Emmy`  
   - Date: `Sep 7, 2025, 3:58:23 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
@@ -68,10 +68,10 @@ Data collection depends on third-party programs and manual verification.
 ### Europe
 
 - **Location**: `Frankfurt am Main, Germany`  
-- **Network**: `43.131.36.29` (`None`)  
+- **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `135`  
+- **Total Accounts**: `137`  
 - **Tracked Latest Registered Account**: `ХочуПукнуть`  
   - Date: `Sep 6, 2025, 4:54:31 PM`  
 - **Tracked Earliest Registered Account**: `Luki™`  
@@ -80,7 +80,7 @@ Data collection depends on third-party programs and manual verification.
 ### Korea
 
 - **Location**: `Seoul, Korea`  
-- **Network**: `8.213.133.1` (`ht1.pwrdoverseagame.com`)  
+- **Network**: `8.213.133.1` (`8.213.133.1`)  
 - **Provider**: `Alibaba Cloud (Singapore) Private Limited.` (ASN45102)  
 
 - **Total Accounts**: `0`  
@@ -91,7 +91,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `93`  
+- **Total Accounts**: `96`  
 - **Tracked Latest Registered Account**: `oWrathz`  
   - Date: `Sep 7, 2025, 6:57:01 AM`  
 - **Tracked Earliest Registered Account**: `Limit`  
@@ -109,7 +109,7 @@ Data collection depends on third-party programs and manual verification.
 
 - **Location**: `Tokyo, Japan`  
 - **Network**: `8.209.205.12` (`8.209.205.12`)  
-- **Provider**: `Alibaba Cloud (Singapore) Private Limited` (ASN45102)  
+- **Provider**: `Alibaba Cloud (Singapore) Private Limited.` (ASN45102)  
 
 - **Total Accounts**: `0`  
 
@@ -132,10 +132,10 @@ Data collection depends on third-party programs and manual verification.
 ### South America
 
 - **Location**: `Sao Paulo, Brazil`  
-- **Network**: `43.157.160.30` (`None`)  
+- **Network**: `43.157.160.30` (`43.157.160.30`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `21`  
+- **Total Accounts**: `25`  
 - **Tracked Latest Registered Account**: `Shooter-Man `  
   - Date: `Sep 5, 2025, 5:36:08 PM`  
 - **Tracked Earliest Registered Account**: `Kalixto`  
@@ -144,10 +144,10 @@ Data collection depends on third-party programs and manual verification.
 ### Southeast Asia
 
 - **Location**: `Singapore, Singapore`  
-- **Network**: `43.156.79.146` (`None`)  
+- **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `689`  
+- **Total Accounts**: `722`  
 - **Tracked Latest Registered Account**: `R.Y.U.J.I`  
   - Date: `Sep 7, 2025, 12:21:46 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
