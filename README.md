@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-15 15:28:03 UTC`  
-**Total Accounts Tracked**: `1,727`  
+**Last Updated**: `2025-09-16 15:24:00 UTC`  
+**Total Accounts Tracked**: `1,879`  
 
 ## About This Database
 
@@ -59,7 +59,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `336`  
+- **Total Accounts**: `356`  
 - **Tracked Latest Registered Account**: `mokya`  
   - Date: `Sep 11, 2025, 2:59:21 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
@@ -71,11 +71,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `250`  
-- **Tracked Latest Registered Account**: `Intus`  
-  - Date: `Sep 12, 2025, 8:48:03 PM`  
-- **Tracked Earliest Registered Account**: `Luki™`  
-  - Date: `Aug 11, 2022, 1:35:48 AM`  
+- **Total Accounts**: `357`  
+- **Tracked Latest Registered Account**: `Elioren`  
+  - Date: `Sep 15, 2025, 12:59:32 PM`  
+- **Tracked Earliest Registered Account**: `Nazzu`  
+  - Date: `Aug 11, 2022, 1:34:03 AM`  
 
 ### Korea
 
@@ -147,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `877`  
-- **Tracked Latest Registered Account**: `Lukas123`  
-  - Date: `Sep 14, 2025, 2:45:08 PM`  
+- **Total Accounts**: `902`  
+- **Tracked Latest Registered Account**: `Cr0s8f1r3`  
+  - Date: `Sep 15, 2025, 9:56:02 AM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
