@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-16 15:24:00 UTC`  
-**Total Accounts Tracked**: `1,879`  
+**Last Updated**: `2025-09-17 15:56:37 UTC`  
+**Total Accounts Tracked**: `1,657`  
 
 ## About This Database
 
@@ -59,9 +59,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `356`  
-- **Tracked Latest Registered Account**: `mokya`  
-  - Date: `Sep 11, 2025, 2:59:21 AM`  
+- **Total Accounts**: `370`  
+- **Tracked Latest Registered Account**: `BellFlora`  
+  - Date: `Sep 16, 2025, 1:30:56 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
   - Date: `Aug 11, 2022, 8:33:41 AM`  
 
@@ -71,11 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `357`  
-- **Tracked Latest Registered Account**: `Elioren`  
-  - Date: `Sep 15, 2025, 12:59:32 PM`  
-- **Tracked Earliest Registered Account**: `Nazzu`  
-  - Date: `Aug 11, 2022, 1:34:03 AM`  
+- **Total Accounts**: `0`  
 
 ### Korea
 
@@ -91,7 +87,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `211`  
+- **Total Accounts**: `224`  
 - **Tracked Latest Registered Account**: `Honoka`  
   - Date: `Sep 11, 2025, 10:55:01 PM`  
 - **Tracked Earliest Registered Account**: `Limit`  
@@ -135,9 +131,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.157.160.30` (`43.157.160.30`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `39`  
-- **Tracked Latest Registered Account**: `Yuukizin`  
-  - Date: `Sep 13, 2025, 3:18:46 AM`  
+- **Total Accounts**: `47`  
+- **Tracked Latest Registered Account**: `Shrj l`  
+  - Date: `Sep 14, 2025, 1:21:32 AM`  
 - **Tracked Earliest Registered Account**: `Shirase `  
   - Date: `Aug 10, 2022, 7:35:40 PM`  
 
@@ -147,9 +143,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `902`  
-- **Tracked Latest Registered Account**: `Cr0s8f1r3`  
-  - Date: `Sep 15, 2025, 9:56:02 AM`  
+- **Total Accounts**: `905`  
+- **Tracked Latest Registered Account**: `Luxepher`  
+  - Date: `Sep 15, 2025, 4:04:01 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
