@@ -1,5 +1,15 @@
 {
     "accounts": {
+        "0": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 2,
+            "last_seen": 1758171972,
+            "name": "female_player_C_2147462146",
+            "registered": "1年1月1日 上午12:00:00",
+            "role_id": 0,
+            "server_region": "回溯"
+        },
         "63574105916241": {
             "crew_id": 605590403538,
             "crew_name": "mia后援会",
@@ -20,6 +30,26 @@
             "role_id": 63574105942560,
             "server_region": "回溯"
         },
+        "63574105955128": {
+            "crew_id": 996432427474,
+            "crew_name": "幻策司梦阁",
+            "gender": 1,
+            "last_seen": 1758171972,
+            "name": "雅尔塔",
+            "registered": "2023年12月14日 下午4:58:08",
+            "role_id": 63574105955128,
+            "server_region": "回溯"
+        },
+        "63574106187270": {
+            "crew_id": 1138166348243,
+            "crew_name": "桃花海",
+            "gender": 1,
+            "last_seen": 1758171972,
+            "name": "风景真美你也是",
+            "registered": "2024年1月20日 下午3:27:45",
+            "role_id": 63574106187270,
+            "server_region": "回溯"
+        },
         "63574106216836": {
             "crew_id": 0,
             "crew_name": "",
@@ -38,6 +68,16 @@
             "name": "洪泛",
             "registered": "2024年1月27日 下午11:45:07",
             "role_id": 63574106232093,
+            "server_region": "回溯"
+        },
+        "63578401727077": {
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
+            "gender": 1,
+            "last_seen": 1758171972,
+            "name": "林间雀",
+            "registered": "2024年10月29日 下午11:53:43",
+            "role_id": 63578401727077,
             "server_region": "回溯"
         },
         "63578401946581": {
@@ -101,8 +141,8 @@
             "server_region": "回溯"
         }
     },
-    "accounts_total": 10,
+    "accounts_total": 14,
     "created": 1758107405,
-    "last_updated": 1758171852,
+    "last_updated": 1758171972,
     "server_region": "回溯"
 }
