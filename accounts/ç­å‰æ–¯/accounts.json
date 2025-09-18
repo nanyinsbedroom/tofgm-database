@@ -1,15 +1,5 @@
 {
     "accounts": {
-        "0": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 2,
-            "last_seen": 1758192832,
-            "name": "female_player_C_2147012054",
-            "registered": "1年1月1日 上午12:00:00",
-            "role_id": 0,
-            "server_region": "班吉斯"
-        },
         "60563333878319": {
             "crew_id": 2486786078600,
             "crew_name": "奥林匹斯",
@@ -218,6 +208,16 @@
             "name": "奈乃兔",
             "registered": "2025年5月22日 下午12:48:48",
             "role_id": 60567630791344,
+            "server_region": "班吉斯"
+        },
+        "60567630793664": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": 1758214170,
+            "name": "烧鸡不是纯麦",
+            "registered": "2025年6月19日 下午11:35:47",
+            "role_id": 60567630793664,
             "server_region": "班吉斯"
         },
         "60567630793984": {
@@ -504,7 +504,7 @@
             "crew_id": 4294981407,
             "crew_name": "喵喵屋",
             "gender": 1,
-            "last_seen": 1758211262,
+            "last_seen": 1758214170,
             "name": "无言喵喵落",
             "registered": "2021年12月16日 下午6:10:16",
             "role_id": 60636348312405,
@@ -630,6 +630,16 @@
             "role_id": 60992830581019,
             "server_region": "班吉斯"
         },
+        "60992830588359": {
+            "crew_id": 17179883385,
+            "crew_name": "异环",
+            "gender": 1,
+            "last_seen": 1758214170,
+            "name": "焰之嫉妒魔女",
+            "registered": "2021年12月16日 下午12:03:57",
+            "role_id": 60992830588359,
+            "server_region": "班吉斯"
+        },
         "60992830790416": {
             "crew_id": 25769817977,
             "crew_name": "风华",
@@ -744,7 +754,7 @@
             "crew_id": 154618836860,
             "crew_name": "幻月之镜",
             "gender": 1,
-            "last_seen": 1758211262,
+            "last_seen": 1758214170,
             "name": "柠檬果冻茶",
             "registered": "2021年12月16日 上午8:13:46",
             "role_id": 61018600380490,
@@ -1134,7 +1144,7 @@
             "crew_id": 266287986476,
             "crew_name": "星奈海",
             "gender": 1,
-            "last_seen": 1758188629,
+            "last_seen": 1758214170,
             "name": "最爱烧妇蜜桃臀",
             "registered": "2021年12月19日 下午5:37:29",
             "role_id": 62285615771621,
@@ -1221,8 +1231,8 @@
             "server_region": "班吉斯"
         }
     },
-    "accounts_total": 122,
+    "accounts_total": 123,
     "created": 1758086949,
-    "last_updated": 1758214110,
+    "last_updated": 1758214170,
     "server_region": "班吉斯"
 }
