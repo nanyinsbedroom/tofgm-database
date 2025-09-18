@@ -1,5 +1,15 @@
 {
     "accounts": {
+        "0": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 2,
+            "last_seen": 1758175197,
+            "name": "female_player_C_2147427226",
+            "registered": "1年1月1日 上午12:00:00",
+            "role_id": 0,
+            "server_region": "回溯"
+        },
         "63574105916241": {
             "crew_id": 605590403538,
             "crew_name": "mia后援会",
@@ -88,6 +98,16 @@
             "name": "已老实",
             "registered": "2024年6月10日 下午8:20:54",
             "role_id": 63578401525453,
+            "server_region": "回溯"
+        },
+        "63578401580090": {
+            "crew_id": 2117418891731,
+            "crew_name": "Mujica",
+            "gender": 1,
+            "last_seen": 1758175197,
+            "name": "玖依小桃",
+            "registered": "2024年7月7日 下午11:34:57",
+            "role_id": 63578401580090,
             "server_region": "回溯"
         },
         "63578401616899": {
@@ -301,8 +321,8 @@
             "server_region": "回溯"
         }
     },
-    "accounts_total": 30,
+    "accounts_total": 32,
     "created": 1758107405,
-    "last_updated": 1758175017,
+    "last_updated": 1758175197,
     "server_region": "回溯"
 }
