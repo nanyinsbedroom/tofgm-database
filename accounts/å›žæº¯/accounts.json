@@ -1,15 +1,5 @@
 {
     "accounts": {
-        "0": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 2,
-            "last_seen": 1758174477,
-            "name": "female_player_C_2147315900",
-            "registered": "1年1月1日 上午12:00:00",
-            "role_id": 0,
-            "server_region": "回溯"
-        },
         "63574105916241": {
             "crew_id": 605590403538,
             "crew_name": "mia后援会",
@@ -78,6 +68,16 @@
             "name": "洪泛",
             "registered": "2024年1月27日 下午11:45:07",
             "role_id": 63574106232093,
+            "server_region": "回溯"
+        },
+        "63574106306075": {
+            "crew_id": 360777267666,
+            "crew_name": "回溯",
+            "gender": 0,
+            "last_seen": 1758175017,
+            "name": "坤坤1234",
+            "registered": "2024年2月6日 下午4:22:11",
+            "role_id": 63574106306075,
             "server_region": "回溯"
         },
         "63578401525453": {
@@ -204,7 +204,7 @@
             "crew_id": 0,
             "crew_name": "",
             "gender": 1,
-            "last_seen": 1758174477,
+            "last_seen": 1758175017,
             "name": "王者归来，",
             "registered": "2025年9月15日 下午2:08:44",
             "role_id": 63578401953536,
@@ -303,6 +303,6 @@
     },
     "accounts_total": 30,
     "created": 1758107405,
-    "last_updated": 1758174837,
+    "last_updated": 1758175017,
     "server_region": "回溯"
 }
