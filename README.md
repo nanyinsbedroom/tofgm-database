@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-17 15:56:37 UTC`  
-**Total Accounts Tracked**: `1,657`  
+**Last Updated**: `2025-09-18 16:04:02 UTC`  
+**Total Accounts Tracked**: `2,136`  
 
 ## About This Database
 
@@ -59,7 +59,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `370`  
+- **Total Accounts**: `381`  
 - **Tracked Latest Registered Account**: `BellFlora`  
   - Date: `Sep 16, 2025, 1:30:56 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
@@ -71,7 +71,11 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `0`  
+- **Total Accounts**: `385`  
+- **Tracked Latest Registered Account**: `Elioren`  
+  - Date: `Sep 15, 2025, 12:59:32 PM`  
+- **Tracked Earliest Registered Account**: `Noelle`  
+  - Date: `Aug 11, 2022, 1:32:34 AM`  
 
 ### Korea
 
@@ -143,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `905`  
-- **Tracked Latest Registered Account**: `Luxepher`  
-  - Date: `Sep 15, 2025, 4:04:01 PM`  
+- **Total Accounts**: `918`  
+- **Tracked Latest Registered Account**: `Zephyra`  
+  - Date: `Sep 18, 2025, 4:08:27 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
