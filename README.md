@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-18 16:04:02 UTC`  
-**Total Accounts Tracked**: `2,136`  
+**Last Updated**: `2025-09-19 16:11:59 UTC`  
+**Total Accounts Tracked**: `2,259`  
 
 ## About This Database
 
@@ -71,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `385`  
+- **Total Accounts**: `414`  
 - **Tracked Latest Registered Account**: `Elioren`  
   - Date: `Sep 15, 2025, 12:59:32 PM`  
 - **Tracked Earliest Registered Account**: `Noelle`  
@@ -147,7 +147,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `918`  
+- **Total Accounts**: `937`  
 - **Tracked Latest Registered Account**: `Zephyra`  
   - Date: `Sep 18, 2025, 4:08:27 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
