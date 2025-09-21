@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-20 16:07:19 UTC`  
-**Total Accounts Tracked**: `2,285`  
+**Last Updated**: `2025-09-21 15:54:04 UTC`  
+**Total Accounts Tracked**: `2,395`  
 
 ## About This Database
 
@@ -59,9 +59,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `389`  
-- **Tracked Latest Registered Account**: `BellFlora`  
-  - Date: `Sep 16, 2025, 1:30:56 AM`  
+- **Total Accounts**: `444`  
+- **Tracked Latest Registered Account**: `ryubinnlin`  
+  - Date: `Sep 16, 2025, 6:19:35 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
   - Date: `Aug 11, 2022, 8:33:41 AM`  
 
@@ -91,7 +91,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `224`  
+- **Total Accounts**: `230`  
 - **Tracked Latest Registered Account**: `Honoka`  
   - Date: `Sep 11, 2025, 10:55:01 PM`  
 - **Tracked Earliest Registered Account**: `Limit`  
@@ -147,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `955`  
-- **Tracked Latest Registered Account**: `Periq`  
-  - Date: `Sep 20, 2025, 3:49:33 PM`  
+- **Total Accounts**: `1,001`  
+- **Tracked Latest Registered Account**: `Hayaya`  
+  - Date: `Sep 21, 2025, 12:50:09 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
