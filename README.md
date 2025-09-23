@@ -1,7 +1,7 @@
 <h1 align='center'>Tower of Fantasy | Game Manager Database</h1>
 
-**Last Updated**: `2025-09-22 15:49:10 UTC`  
-**Total Accounts Tracked**: `2,510`  
+**Last Updated**: `2025-09-23 16:11:24 UTC`  
+**Total Accounts Tracked**: `2,625`  
 
 ## About This Database
 
@@ -59,7 +59,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `unknown` (`unknown`)  
 - **Provider**: `unknown` (ASNunknown)  
 
-- **Total Accounts**: `444`  
+- **Total Accounts**: `485`  
 - **Tracked Latest Registered Account**: `ryubinnlin`  
   - Date: `Sep 16, 2025, 6:19:35 AM`  
 - **Tracked Earliest Registered Account**: `玖薙  奏華`  
@@ -71,7 +71,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.131.36.29` (`43.131.36.29`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `414`  
+- **Total Accounts**: `424`  
 - **Tracked Latest Registered Account**: `Elioren`  
   - Date: `Sep 15, 2025, 12:59:32 PM`  
 - **Tracked Earliest Registered Account**: `Noelle`  
@@ -135,7 +135,7 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.157.160.30` (`43.157.160.30`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `47`  
+- **Total Accounts**: `54`  
 - **Tracked Latest Registered Account**: `Shrj l`  
   - Date: `Sep 14, 2025, 1:21:32 AM`  
 - **Tracked Earliest Registered Account**: `Shirase `  
@@ -147,9 +147,9 @@ Data collection depends on third-party programs and manual verification.
 - **Network**: `43.156.79.146` (`43.156.79.146`)  
 - **Provider**: `Aceville Pte.Ltd.` (ASN132203)  
 
-- **Total Accounts**: `1,039`  
-- **Tracked Latest Registered Account**: `Magic`  
-  - Date: `Sep 22, 2025, 11:54:07 AM`  
+- **Total Accounts**: `1,086`  
+- **Tracked Latest Registered Account**: `gaemu01`  
+  - Date: `Sep 23, 2025, 6:15:45 PM`  
 - **Tracked Earliest Registered Account**: `ChodeRed_Sama`  
   - Date: `Aug 11, 2022, 7:33:41 AM`  
 
