@@ -1201,10 +1201,10 @@
             "server_region": "southeast_asia"
         },
         "68732361720145": {
-            "crew_id": 3414499016329,
-            "crew_name": "Eclipse Kitchen",
+            "crew_id": 0,
+            "crew_name": "",
             "gender": 0,
-            "last_seen": 1758544099,
+            "last_seen": 1758885078,
             "name": "Jotoz",
             "registered": "Aug 16, 2022, 10:17:17 AM",
             "role_id": 68732361720145,
@@ -2970,6 +2970,16 @@
             "role_id": 68753836508046,
             "server_region": "southeast_asia"
         },
+        "68753836514896": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": 1758885078,
+            "name": "PI",
+            "registered": "Aug 12, 2022, 3:03:11 PM",
+            "role_id": 68753836514896,
+            "server_region": "southeast_asia"
+        },
         "68753836522338": {
             "crew_id": 0,
             "crew_name": "",
@@ -2988,6 +2998,16 @@
             "name": "Riae",
             "registered": "Aug 14, 2022, 1:50:59 PM",
             "role_id": 68753836530181,
+            "server_region": "southeast_asia"
+        },
+        "68753836530335": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": 1758885078,
+            "name": "QiqiHadid",
+            "registered": "Aug 14, 2022, 2:20:24 PM",
+            "role_id": 68753836530335,
             "server_region": "southeast_asia"
         },
         "68753836532202": {
@@ -9224,7 +9244,7 @@
             "crew_id": 0,
             "crew_name": "",
             "gender": 1,
-            "last_seen": 1758626139,
+            "last_seen": 1758885078,
             "name": "Kamatarie",
             "registered": "Aug 11, 2022, 11:20:37 AM",
             "role_id": 68788196227075,
@@ -11029,10 +11049,20 @@
             "registered": "Aug 11, 2025, 6:57:59 AM",
             "role_id": 8607118756282295,
             "server_region": "southeast_asia"
+        },
+        "8607118756288994": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 1,
+            "last_seen": 1758885078,
+            "name": "Kyoroo",
+            "registered": "Sep 26, 2025, 6:14:27 PM",
+            "role_id": 8607118756288994,
+            "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1103,
+    "accounts_total": 1106,
     "created": 1753795148,
-    "last_updated": 1758885018,
+    "last_updated": 1758885078,
     "server_region": "southeast_asia"
 }
