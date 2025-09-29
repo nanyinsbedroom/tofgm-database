@@ -4,7 +4,7 @@
 
 <div align="center"> <a href="https://nanyinsbedroom.github.io" target="_blank"> <img src="https://img.shields.io/badge/Database-Webview-blue?style=for-the-badge&logo=github" alt="Database Webview" /> </a> <a href="https://discord.gg/Bs5cPKumFX" target="_blank"> <img src="https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord" alt="Discord Community" /> </a> </div>
 
-> **Important Notice: Player Data Tracking System**
+> **Important Notice:**
 >
 > This system is a semi-automated tool for tracking player population data and is **not affiliated with, endorsed by, or supported by Hotta Studio or the official Tower of Fantasy service.**
 >
