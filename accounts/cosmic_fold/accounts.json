@@ -2223,8 +2223,8 @@
         "63582695851964": {
             "crew_id": 21474851284,
             "crew_name": "高级美容院",
-            "gender": 0,
-            "last_seen": 1758902135,
+            "gender": 1,
+            "last_seen": 1759955128,
             "name": "竺梓",
             "registered": "2025年9月25日 下午6:22:54",
             "role_id": 63582695851964,
@@ -3994,7 +3994,7 @@
             "crew_id": 403726940628,
             "crew_name": "可爱",
             "gender": 1,
-            "last_seen": 1759598800,
+            "last_seen": 1759955128,
             "name": "拉娜",
             "registered": "2025年9月25日 下午6:46:35",
             "role_id": 63582695853615,
@@ -5154,7 +5154,7 @@
             "crew_id": 8589949396,
             "crew_name": "星辰",
             "gender": 1,
-            "last_seen": 1759688062,
+            "last_seen": 1759955128,
             "name": "打酱油的",
             "registered": "2025年9月25日 下午7:06:56",
             "role_id": 63582695855164,
@@ -14401,10 +14401,10 @@
             "server_region": "cosmic_fold"
         },
         "63582695867193": {
-            "crew_id": 146028902868,
-            "crew_name": "NOVA学院",
+            "crew_id": 0,
+            "crew_name": "",
             "gender": 0,
-            "last_seen": 1758905882,
+            "last_seen": 1759955128,
             "name": "小游民",
             "registered": "2025年9月26日 上午7:59:36",
             "role_id": 63582695867193,
@@ -18270,6 +18270,16 @@
             "role_id": 63582695893482,
             "server_region": "cosmic_fold"
         },
+        "63582695893763": {
+            "crew_id": 0,
+            "crew_name": "",
+            "gender": 0,
+            "last_seen": 1759955128,
+            "name": "郎",
+            "registered": "2025年10月1日 上午6:12:21",
+            "role_id": 63582695893763,
+            "server_region": "cosmic_fold"
+        },
         "63582695894414": {
             "crew_id": 725849487828,
             "crew_name": "投降喵",
@@ -19651,8 +19661,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 1965,
+    "accounts_total": 1966,
     "created": 1758803451,
-    "last_updated": 1759954588,
+    "last_updated": 1759955128,
     "server_region": "cosmic_fold"
 }
