@@ -1598,8 +1598,11 @@
         "51599737097186": {
             "crew_id": 2637109931749,
             "crew_name": "Coalition XII",
+            "equipping_title": "1_4_3_27",
             "gender": 1,
-            "last_seen": 1753806662,
+            "hp": 2750689.75,
+            "last_seen": 1760385481,
+            "level": 100,
             "name": "pixxlla",
             "registered": "Aug 10, 2022, 9:34:36 PM",
             "role_id": 51599737097186,
@@ -3323,6 +3326,19 @@
             "role_id": 51629802335461,
             "server_region": "north_america"
         },
+        "51629802338082": {
+            "crew_id": 55834586853,
+            "crew_name": "F2PAnonymous",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 515308.0625,
+            "last_seen": 1760385481,
+            "level": 53,
+            "name": "Energy",
+            "registered": "Oct 10, 2025, 11:44:54 PM",
+            "role_id": 51629802338082,
+            "server_region": "north_america"
+        },
         "51629802338356": {
             "crew_id": 0,
             "crew_name": "",
@@ -3679,8 +3695,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 363,
+    "accounts_total": 364,
     "created": 1753804860,
-    "last_updated": 1760385361,
+    "last_updated": 1760385481,
     "server_region": "north_america"
 }
