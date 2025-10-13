@@ -343,8 +343,11 @@
         "47248936358861": {
             "crew_id": 10063108385529,
             "crew_name": "Baby Ghost",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "last_seen": 1760008747,
+            "hp": 1921945.875,
+            "last_seen": 1760354634,
+            "level": 100,
             "name": "EXORCISMUS",
             "registered": "Jun 3, 2023, 5:12:20 PM",
             "role_id": 47248936358861,
@@ -9479,6 +9482,19 @@
             "role_id": 47343427943751,
             "server_region": "asia_pacific"
         },
+        "47343427944293": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": 1760354634,
+            "level": 2,
+            "name": "フィリアス",
+            "registered": "Oct 13, 2025, 1:21:41 PM",
+            "role_id": 47343427944293,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -9752,8 +9768,11 @@
         "47356309477369": {
             "crew_id": 4260607568644,
             "crew_name": "ตำหนักเทพเมฆา",
+            "equipping_title": "1_6_3_1",
             "gender": 1,
-            "last_seen": 1759589246,
+            "hp": 2437611.5,
+            "last_seen": 1760354634,
+            "level": 100,
             "name": "Chikanobu",
             "registered": "Aug 14, 2022, 8:20:05 AM",
             "role_id": 47356309477369,
@@ -11630,8 +11649,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1162,
+    "accounts_total": 1163,
     "created": 1754829154,
-    "last_updated": 1760354478,
+    "last_updated": 1760354634,
     "server_region": "asia_pacific"
 }
