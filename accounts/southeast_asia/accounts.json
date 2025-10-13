@@ -1839,8 +1839,11 @@
         "68736656668465": {
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759233726,
+            "hp": 2452685.0,
+            "last_seen": 1760350531,
+            "level": 100,
             "name": "Reina ",
             "registered": "Aug 13, 2022, 8:12:03 AM",
             "role_id": 68736656668465,
@@ -7588,8 +7591,11 @@
         "68775311725960": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
+            "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "last_seen": 1756109467,
+            "hp": 2180507.25,
+            "last_seen": 1760350531,
+            "level": 100,
             "name": "KaiMeera",
             "registered": "Mar 2, 2025, 7:39:36 PM",
             "role_id": 68775311725960,
@@ -14193,6 +14199,6 @@
     },
     "accounts_total": 1416,
     "created": 1753795148,
-    "last_updated": 1760350291,
+    "last_updated": 1760350531,
     "server_region": "southeast_asia"
 }
