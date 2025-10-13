@@ -1248,8 +1248,11 @@
         "51582557226177": {
             "crew_id": 794568961770,
             "crew_name": "Revolution",
+            "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 0,
-            "last_seen": 1757696455,
+            "hp": 2632949.5,
+            "last_seen": 1760385541,
+            "level": 100,
             "name": "Mike2Skummy",
             "registered": "Aug 10, 2022, 7:38:00 PM",
             "role_id": 51582557226177,
@@ -3621,6 +3624,19 @@
             "role_id": 51672751631233,
             "server_region": "north_america"
         },
+        "51672751633626": {
+            "crew_id": 609885368063,
+            "crew_name": "☆Starfall☆",
+            "equipping_title": "☆Freya☆'s Apprentice,0",
+            "gender": 1,
+            "hp": 1501518.875,
+            "last_seen": 1760385541,
+            "level": 100,
+            "name": "Luna Hellscythe",
+            "registered": "Aug 21, 2025, 2:22:34 AM",
+            "role_id": 51672751633626,
+            "server_region": "north_america"
+        },
         "51672751636275": {
             "crew_id": 420906807039,
             "crew_name": "Maid Café",
@@ -3695,8 +3711,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 364,
+    "accounts_total": 365,
     "created": 1753804860,
-    "last_updated": 1760385481,
+    "last_updated": 1760385541,
     "server_region": "north_america"
 }
