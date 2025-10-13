@@ -2556,8 +2556,11 @@
         "51629802225883": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "last_seen": 1757696755,
+            "hp": 706038.9375,
+            "last_seen": 1760389335,
+            "level": 91,
             "name": "Abigalle",
             "registered": "Apr 26, 2024, 9:35:54 PM",
             "role_id": 51629802225883,
@@ -3558,6 +3561,19 @@
             "role_id": 51629802338785,
             "server_region": "north_america"
         },
+        "51629802338831": {
+            "crew_id": 4982162075368,
+            "crew_name": "Elysium",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 214386.484375,
+            "last_seen": 1760389335,
+            "level": 39,
+            "name": "faethryn",
+            "registered": "Oct 12, 2025, 1:27:58 AM",
+            "role_id": 51629802338831,
+            "server_region": "north_america"
+        },
         "51629802339082": {
             "crew_id": 0,
             "crew_name": "",
@@ -3966,8 +3982,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 383,
+    "accounts_total": 384,
     "created": 1753804860,
-    "last_updated": 1760389275,
+    "last_updated": 1760389335,
     "server_region": "north_america"
 }
