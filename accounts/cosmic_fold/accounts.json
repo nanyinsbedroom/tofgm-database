@@ -693,8 +693,11 @@
         "63582695850524": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "last_seen": 1758895836,
+            "hp": 473166.375,
+            "last_seen": 1760380041,
+            "level": 58,
             "name": "灰名_",
             "registered": "2025年9月25日 下午6:07:07",
             "role_id": 63582695850524,
@@ -5434,6 +5437,19 @@
             "name": "Chlorellion",
             "registered": "2025年9月25日 下午7:10:43",
             "role_id": 63582695855358,
+            "server_region": "cosmic_fold"
+        },
+        "63582695855369": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 450086.59375,
+            "last_seen": 1760380041,
+            "level": 58,
+            "name": "阿莉西亚",
+            "registered": "2025年9月25日 下午7:10:55",
+            "role_id": 63582695855369,
             "server_region": "cosmic_fold"
         },
         "63582695855375": {
@@ -18825,6 +18841,19 @@
             "role_id": 63582695890240,
             "server_region": "cosmic_fold"
         },
+        "63582695890277": {
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 202429.0,
+            "last_seen": 1760380041,
+            "level": 57,
+            "name": "黐埋嚟托咩",
+            "registered": "2025年9月30日 上午1:35:21",
+            "role_id": 63582695890277,
+            "server_region": "cosmic_fold"
+        },
         "63582695890485": {
             "crew_id": 81604393428,
             "crew_name": "子凝",
@@ -19033,6 +19062,19 @@
             "name": "雾大喵",
             "registered": "2025年10月1日 上午11:15:16",
             "role_id": 63582695894414,
+            "server_region": "cosmic_fold"
+        },
+        "63582695894487": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176366.40625,
+            "last_seen": 1760380041,
+            "level": 54,
+            "name": "每天开心快乐",
+            "registered": "2025年10月1日 上午11:36:29",
+            "role_id": 63582695894487,
             "server_region": "cosmic_fold"
         },
         "63582695894542": {
@@ -19646,6 +19688,19 @@
             "name": "林林森",
             "registered": "2025年10月3日 下午2:13:22",
             "role_id": 63582695902779,
+            "server_region": "cosmic_fold"
+        },
+        "63582695902932": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 421862.59375,
+            "last_seen": 1760380041,
+            "level": 58,
+            "name": "Jusper007",
+            "registered": "2025年10月3日 下午2:55:03",
+            "role_id": 63582695902932,
             "server_region": "cosmic_fold"
         },
         "63582695903048": {
@@ -20798,8 +20853,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2077,
+    "accounts_total": 2081,
     "created": 1758803451,
-    "last_updated": 1760379981,
+    "last_updated": 1760380041,
     "server_region": "cosmic_fold"
 }
