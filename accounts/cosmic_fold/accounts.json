@@ -2243,8 +2243,11 @@
         "63582695851959": {
             "crew_id": 34359753172,
             "crew_name": "魔法少女",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": 1759568814,
+            "hp": 473527.71875,
+            "last_seen": 1760379981,
+            "level": 58,
             "name": "糖水仙",
             "registered": "2025年9月25日 下午6:22:45",
             "role_id": 63582695851959,
@@ -4173,8 +4176,11 @@
         "63582695853678": {
             "crew_id": 64424524244,
             "crew_name": "烧鸡",
+            "equipping_title": "WorldBossDamage_4;玛格玛;94",
             "gender": 1,
-            "last_seen": 1759688302,
+            "hp": 480422.125,
+            "last_seen": 1760379981,
+            "level": 58,
             "name": "队伍已满",
             "registered": "2025年9月25日 下午6:47:41",
             "role_id": 63582695853678,
@@ -9758,6 +9764,19 @@
             "name": "瓶子酱",
             "registered": "2025年9月25日 下午8:46:24",
             "role_id": 63582695859717,
+            "server_region": "cosmic_fold"
+        },
+        "63582695859719": {
+            "crew_id": 55834589652,
+            "crew_name": "镜花堂",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 471218.0,
+            "last_seen": 1760379981,
+            "level": 58,
+            "name": "神尊",
+            "registered": "2025年9月25日 下午8:46:25",
+            "role_id": 63582695859719,
             "server_region": "cosmic_fold"
         },
         "63582695859722": {
@@ -15793,6 +15812,19 @@
             "role_id": 63582695870797,
             "server_region": "cosmic_fold"
         },
+        "63582695870813": {
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "WorldBossDamage_4;阿比斯;伊娃;37",
+            "gender": 0,
+            "hp": 473775.21875,
+            "last_seen": 1760379981,
+            "level": 58,
+            "name": "千卜",
+            "registered": "2025年9月26日 下午5:56:41",
+            "role_id": 63582695870813,
+            "server_region": "cosmic_fold"
+        },
         "63582695870898": {
             "crew_id": 0,
             "crew_name": "",
@@ -19023,6 +19055,19 @@
             "role_id": 63582695894771,
             "server_region": "cosmic_fold"
         },
+        "63582695894858": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 111227.796875,
+            "last_seen": 1760379981,
+            "level": 48,
+            "name": "jiruicong",
+            "registered": "2025年10月1日 下午1:19:44",
+            "role_id": 63582695894858,
+            "server_region": "cosmic_fold"
+        },
         "63582695895060": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
@@ -20003,6 +20048,19 @@
             "role_id": 63582695906759,
             "server_region": "cosmic_fold"
         },
+        "63582695906773": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71111.0,
+            "last_seen": 1760379981,
+            "level": 25,
+            "name": "xran",
+            "registered": "2025年10月4日 下午5:29:13",
+            "role_id": 63582695906773,
+            "server_region": "cosmic_fold"
+        },
         "63582695906791": {
             "crew_id": 0,
             "crew_name": "",
@@ -20740,8 +20798,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2073,
+    "accounts_total": 2077,
     "created": 1758803451,
-    "last_updated": 1760379921,
+    "last_updated": 1760379981,
     "server_region": "cosmic_fold"
 }
