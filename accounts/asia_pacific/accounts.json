@@ -1213,8 +1213,11 @@
         "47261820282273": {
             "crew_id": 274877917948,
             "crew_name": "Flower",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760109628,
+            "hp": 2900695.5,
+            "last_seen": 1760355435,
+            "level": 100,
             "name": "ア　ム",
             "registered": "Jan 3, 2023, 9:22:58 AM",
             "role_id": 47261820282273,
@@ -2019,6 +2022,19 @@
             "name": "アイフォー",
             "registered": "Aug 14, 2022, 1:09:49 AM",
             "role_id": 47279000054942,
+            "server_region": "asia_pacific"
+        },
+        "47279000061423": {
+            "crew_id": 146028899108,
+            "crew_name": "ZZZ",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2277386.25,
+            "last_seen": 1760355435,
+            "level": 100,
+            "name": "白浜ビーチ",
+            "registered": "Aug 14, 2022, 1:36:57 PM",
+            "role_id": 47279000061423,
             "server_region": "asia_pacific"
         },
         "47279000063983": {
@@ -4126,8 +4142,11 @@
         "47321949694085": {
             "crew_id": 541165890314,
             "crew_name": "りんゆかチャンネル",
+            "equipping_title": "1_1_27_1",
             "gender": 1,
-            "last_seen": 1760109808,
+            "hp": 3205951.0,
+            "last_seen": 1760355435,
+            "level": 100,
             "name": "Rodford",
             "registered": "Aug 11, 2022, 6:09:37 PM",
             "role_id": 47321949694085,
@@ -12078,8 +12097,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1190,
+    "accounts_total": 1191,
     "created": 1754829154,
-    "last_updated": 1760355375,
+    "last_updated": 1760355435,
     "server_region": "asia_pacific"
 }
