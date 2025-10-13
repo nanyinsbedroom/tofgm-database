@@ -1354,8 +1354,11 @@
         "55864639651316": {
             "crew_id": 2087354118865,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "1_6_1_8",
             "gender": 1,
-            "last_seen": 1757958750,
+            "hp": 50155.0,
+            "last_seen": 1760375876,
+            "level": 100,
             "name": "Aremerel",
             "registered": "Aug 11, 2022, 5:59:25 PM",
             "role_id": 55864639651316,
@@ -2177,6 +2180,19 @@
             "role_id": 55894704428597,
             "server_region": "europe"
         },
+        "55894704439115": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "2_2_0_23",
+            "gender": 1,
+            "hp": 50155.0,
+            "last_seen": 1760375876,
+            "level": 100,
+            "name": "Silmeria​",
+            "registered": "Aug 12, 2022, 6:46:13 PM",
+            "role_id": 55894704439115,
+            "server_region": "europe"
+        },
         "55894704440917": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
@@ -2563,6 +2579,19 @@
             "role_id": 55916179324431,
             "server_region": "europe"
         },
+        "55920474207003": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "2_8_0_3",
+            "gender": 0,
+            "hp": 31549.66796875,
+            "last_seen": 1760375876,
+            "level": 100,
+            "name": "I V I ",
+            "registered": "Aug 11, 2022, 3:13:41 PM",
+            "role_id": 55920474207003,
+            "server_region": "europe"
+        },
         "55920474208879": {
             "crew_id": 777389093596,
             "crew_name": "Tea Syndicate",
@@ -2698,8 +2727,11 @@
         "55920474281313": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "2_8_0_2",
             "gender": 0,
-            "last_seen": 1759526348,
+            "hp": 50155.0,
+            "last_seen": 1760375876,
+            "level": 100,
             "name": "Aftar",
             "registered": "Sep 9, 2022, 8:07:09 PM",
             "role_id": 55920474281313,
@@ -5613,8 +5645,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 542,
+    "accounts_total": 544,
     "created": 1753816624,
-    "last_updated": 1760375756,
+    "last_updated": 1760375876,
     "server_region": "europe"
 }
