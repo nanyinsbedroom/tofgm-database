@@ -231,8 +231,11 @@
         "55838870025499": {
             "crew_id": 2031519544009,
             "crew_name": "Banda",
+            "equipping_title": "1_4_3_26",
             "gender": 0,
-            "last_seen": 1759526588,
+            "hp": 2673759.25,
+            "last_seen": 1760375576,
+            "level": 100,
             "name": "Азайя",
             "registered": "May 31, 2023, 8:24:52 PM",
             "role_id": 55838870025499,
@@ -246,6 +249,32 @@
             "name": "Perona Princess",
             "registered": "Jun 7, 2023, 9:59:28 PM",
             "role_id": 55838870025597,
+            "server_region": "europe"
+        },
+        "55838870026882": {
+            "crew_id": 2031519544009,
+            "crew_name": "Banda",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 773062.1875,
+            "last_seen": 1760375576,
+            "level": 100,
+            "name": ".Ingrid.#a",
+            "registered": "Jun 10, 2023, 6:50:10 PM",
+            "role_id": 55838870026882,
+            "server_region": "europe"
+        },
+        "55838870028734": {
+            "crew_id": 2031519544009,
+            "crew_name": "Banda",
+            "equipping_title": "1_1_11_1",
+            "gender": 1,
+            "hp": 1944655.75,
+            "last_seen": 1760375576,
+            "level": 100,
+            "name": "Smorodina",
+            "registered": "Jun 14, 2023, 2:12:46 PM",
+            "role_id": 55838870028734,
             "server_region": "europe"
         },
         "55843164785495": {
@@ -3421,6 +3450,19 @@
             "role_id": 55963424177597,
             "server_region": "europe"
         },
+        "55963424182648": {
+            "crew_id": 2031519544009,
+            "crew_name": "Banda",
+            "equipping_title": "2_5_0_5",
+            "gender": 1,
+            "hp": 3029737.0,
+            "last_seen": 1760375576,
+            "level": 100,
+            "name": "Shibuichi",
+            "registered": "Aug 23, 2023, 5:45:31 PM",
+            "role_id": 55963424182648,
+            "server_region": "europe"
+        },
         "55963424203483": {
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
@@ -3977,6 +4019,19 @@
             "name": "Takaa Shigani",
             "registered": "Oct 28, 2024, 10:11:49 PM",
             "role_id": 55963424630559,
+            "server_region": "europe"
+        },
+        "55963424639908": {
+            "crew_id": 2031519544009,
+            "crew_name": "Banda",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 1891157.375,
+            "last_seen": 1760375576,
+            "level": 100,
+            "name": "hayseee",
+            "registered": "Nov 24, 2024, 5:00:39 PM",
+            "role_id": 55963424639908,
             "server_region": "europe"
         },
         "55963424645509": {
@@ -4691,8 +4746,11 @@
         "55963424720292": {
             "crew_id": 2031519544009,
             "crew_name": "Banda",
-            "gender": 1,
-            "last_seen": 1759524246,
+            "equipping_title": "1_1_13_1",
+            "gender": 0,
+            "hp": 1299019.5,
+            "last_seen": 1760375576,
+            "level": 100,
             "name": "DriveLord",
             "registered": "Aug 11, 2025, 7:07:58 PM",
             "role_id": 55963424720292,
@@ -5465,8 +5523,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 532,
+    "accounts_total": 536,
     "created": 1753816624,
-    "last_updated": 1760375456,
+    "last_updated": 1760375576,
     "server_region": "europe"
 }
