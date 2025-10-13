@@ -3220,8 +3220,11 @@
         "47300474851080": {
             "crew_id": 330712492805,
             "crew_name": "Cherry Tea",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "last_seen": 1760279799,
+            "hp": 2311125.75,
+            "last_seen": 1760356516,
+            "level": 100,
             "name": "Ashyboy1200",
             "registered": "Aug 11, 2022, 1:43:52 PM",
             "role_id": 47300474851080,
@@ -5706,8 +5709,11 @@
         "47343426545616": {
             "crew_id": 2104533986052,
             "crew_name": "แมวสยามสีส้ม",
+            "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "last_seen": 1760271870,
+            "hp": 2427713.75,
+            "last_seen": 1760356516,
+            "level": 100,
             "name": "3LackPea12L",
             "registered": "Oct 30, 2023, 8:17:45 PM",
             "role_id": 47343426545616,
@@ -10444,6 +10450,19 @@
             "role_id": 47352014566209,
             "server_region": "asia_pacific"
         },
+        "47356309418631": {
+            "crew_id": 2177548430084,
+            "crew_name": "Red Fang Squad",
+            "equipping_title": "1_8_1_1",
+            "gender": 0,
+            "hp": 1931935.125,
+            "last_seen": 1760356516,
+            "level": 100,
+            "name": "RuZeu",
+            "registered": "Aug 13, 2022, 5:07:41 AM",
+            "role_id": 47356309418631,
+            "server_region": "asia_pacific"
+        },
         "47356309444778": {
             "crew_id": 0,
             "crew_name": "",
@@ -11416,6 +11435,19 @@
             "name": "在りし日のシャーリー",
             "registered": "Feb 26, 2023, 4:35:52 AM",
             "role_id": 47386375003749,
+            "server_region": "asia_pacific"
+        },
+        "47390669147228": {
+            "crew_id": 90194324217,
+            "crew_name": "Saints",
+            "equipping_title": "GemDNK's Successor,1",
+            "gender": 1,
+            "hp": 2299165.0,
+            "last_seen": 1760356516,
+            "level": 100,
+            "name": "♪小空♪",
+            "registered": "Oct 21, 2022, 1:59:04 AM",
+            "role_id": 47390669147228,
             "server_region": "asia_pacific"
         },
         "47390669154442": {
@@ -12471,8 +12503,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1214,
+    "accounts_total": 1216,
     "created": 1754829154,
-    "last_updated": 1760356456,
+    "last_updated": 1760356516,
     "server_region": "asia_pacific"
 }
