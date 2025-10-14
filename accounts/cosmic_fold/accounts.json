@@ -5623,8 +5623,11 @@
         "63582695854324": {
             "crew_id": 197568510420,
             "crew_name": "末班车",
+            "equipping_title": "WorldBossDamage_3;晦暝·饕餮;29",
             "gender": 1,
-            "last_seen": 1758901438,
+            "hp": 187591.859375,
+            "last_seen": 1760448667,
+            "level": 59,
             "name": "七月铃",
             "registered": "2025年9月25日 下午6:57:13",
             "role_id": 63582695854324,
@@ -20190,10 +20193,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695875253": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759956677,
+            "hp": 298950.375,
+            "last_seen": 1760448667,
+            "level": 59,
             "name": "请你安静丶",
             "registered": "2025年9月27日 上午3:10:29",
             "role_id": 63582695875253,
@@ -25445,6 +25451,19 @@
             "role_id": 63582695916795,
             "server_region": "cosmic_fold"
         },
+        "63582695916867": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 62873.6171875,
+            "last_seen": 1760448667,
+            "level": 45,
+            "name": "无拘",
+            "registered": "2025年10月7日 下午6:22:39",
+            "role_id": 63582695916867,
+            "server_region": "cosmic_fold"
+        },
         "63582695916930": {
             "crew_id": 730144455124,
             "crew_name": "新人频道",
@@ -26696,6 +26715,19 @@
             "role_id": 63582695928122,
             "server_region": "cosmic_fold"
         },
+        "63582695928159": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 51296.0,
+            "last_seen": 1760448667,
+            "level": 17,
+            "name": "丶O丶",
+            "registered": "2025年10月14日 下午7:31:14",
+            "role_id": 63582695928159,
+            "server_region": "cosmic_fold"
+        },
         "63582695928233": {
             "crew_id": 0,
             "crew_name": "",
@@ -26892,8 +26924,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2528,
+    "accounts_total": 2530,
     "created": 1758803451,
-    "last_updated": 1760448607,
+    "last_updated": 1760448667,
     "server_region": "cosmic_fold"
 }
