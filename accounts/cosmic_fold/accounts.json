@@ -5802,6 +5802,19 @@
             "role_id": 63582695854798,
             "server_region": "cosmic_fold"
         },
+        "63582695854800": {
+            "crew_id": 55834589652,
+            "crew_name": "镜花堂",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 542484.1875,
+            "last_seen": 1760446746,
+            "level": 59,
+            "name": "薄荷猫猫",
+            "registered": "2025年9月25日 下午7:01:40",
+            "role_id": 63582695854800,
+            "server_region": "cosmic_fold"
+        },
         "63582695854803": {
             "crew_id": 34359753172,
             "crew_name": "魔法少女",
@@ -8249,8 +8262,11 @@
         "63582695857420": {
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759958481,
+            "hp": 556667.4375,
+            "last_seen": 1760446746,
+            "level": 59,
             "name": "乌萨奇大人",
             "registered": "2025年9月25日 下午7:47:22",
             "role_id": 63582695857420,
@@ -8908,8 +8924,11 @@
         "63582695858083": {
             "crew_id": 193273543124,
             "crew_name": "天使社",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759958842,
+            "hp": 427584.5625,
+            "last_seen": 1760446746,
+            "level": 59,
             "name": "巫浅雨",
             "registered": "2025年9月25日 下午8:02:30",
             "role_id": 63582695858083,
@@ -9529,8 +9548,11 @@
         "63582695858543": {
             "crew_id": 8589949396,
             "crew_name": "星辰",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759593079,
+            "hp": 513726.03125,
+            "last_seen": 1760446746,
+            "level": 59,
             "name": "夕雾",
             "registered": "2025年9月25日 下午8:14:20",
             "role_id": 63582695858543,
@@ -15775,8 +15797,11 @@
         "63582695865308": {
             "crew_id": 622770272724,
             "crew_name": "净土",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759592899,
+            "hp": 496252.875,
+            "last_seen": 1760446746,
+            "level": 59,
             "name": "参於",
             "registered": "2025年9月26日 上午12:31:31",
             "role_id": 63582695865308,
@@ -16424,10 +16449,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695866679": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 274877921748,
+            "crew_name": "早睡早起",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758908106,
+            "hp": 480431.34375,
+            "last_seen": 1760446746,
+            "level": 59,
             "name": "心雨",
             "registered": "2025年9月26日 上午5:05:19",
             "role_id": 63582695866679,
@@ -21062,8 +21090,8 @@
             "crew_name": "破晓",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 484447.09375,
-            "last_seen": 1760436054,
+            "hp": 484446.40625,
+            "last_seen": 1760446746,
             "level": 59,
             "name": "陪我看海吧",
             "registered": "2025年9月28日 下午4:42:37",
@@ -25129,6 +25157,19 @@
             "role_id": 63582695925448,
             "server_region": "cosmic_fold"
         },
+        "63582695925547": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 46170.0,
+            "last_seen": 1760446746,
+            "level": 12,
+            "name": "白凶我",
+            "registered": "2025年10月12日 下午5:43:03",
+            "role_id": 63582695925547,
+            "server_region": "cosmic_fold"
+        },
         "63582695926117": {
             "crew_id": 0,
             "crew_name": "",
@@ -25702,8 +25743,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2439,
+    "accounts_total": 2441,
     "created": 1758803451,
-    "last_updated": 1760446686,
+    "last_updated": 1760446746,
     "server_region": "cosmic_fold"
 }
