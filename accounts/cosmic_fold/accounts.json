@@ -17690,8 +17690,11 @@
         "63582695869053": {
             "crew_id": 296352758228,
             "crew_name": "星落西洲",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1759603106,
+            "hp": 215493.03125,
+            "last_seen": 1760449328,
+            "level": 58,
             "name": "幻花水月",
             "registered": "2025年9月26日 下午1:54:50",
             "role_id": 63582695869053,
@@ -22329,6 +22332,19 @@
             "role_id": 63582695887714,
             "server_region": "cosmic_fold"
         },
+        "63582695887792": {
+            "crew_id": 236223216084,
+            "crew_name": "恶魔",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 130241.3984375,
+            "last_seen": 1760449328,
+            "level": 52,
+            "name": "小柒",
+            "registered": "2025年9月29日 下午1:12:35",
+            "role_id": 63582695887792,
+            "server_region": "cosmic_fold"
+        },
         "63582695887807": {
             "crew_id": 386547071444,
             "crew_name": "猫猫乐园",
@@ -25193,6 +25209,19 @@
             "role_id": 63582695909950,
             "server_region": "cosmic_fold"
         },
+        "63582695909989": {
+            "crew_id": 622770272724,
+            "crew_name": "净土",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 424783.8125,
+            "last_seen": 1760449328,
+            "level": 59,
+            "name": "如意",
+            "registered": "2025年10月5日 下午4:43:41",
+            "role_id": 63582695909989,
+            "server_region": "cosmic_fold"
+        },
         "63582695910075": {
             "crew_id": 261993019860,
             "crew_name": "幻想乡",
@@ -26402,6 +26431,19 @@
             "role_id": 63582695923867,
             "server_region": "cosmic_fold"
         },
+        "63582695923986": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 69089.046875,
+            "last_seen": 1760449328,
+            "level": 22,
+            "name": "爽快的炒饭",
+            "registered": "2025年10月11日 下午9:16:36",
+            "role_id": 63582695923986,
+            "server_region": "cosmic_fold"
+        },
         "63582695924100": {
             "crew_id": 0,
             "crew_name": "",
@@ -26501,6 +26543,19 @@
             "name": "人工降雪",
             "registered": "2025年10月12日 上午11:28:32",
             "role_id": 63582695924813,
+            "server_region": "cosmic_fold"
+        },
+        "63582695924868": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 91801.0,
+            "last_seen": 1760449328,
+            "level": 29,
+            "name": "猪妞公主",
+            "registered": "2025年10月12日 下午12:01:12",
+            "role_id": 63582695924868,
             "server_region": "cosmic_fold"
         },
         "63582695925331": {
@@ -27648,8 +27703,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2585,
+    "accounts_total": 2589,
     "created": 1758803451,
-    "last_updated": 1760449268,
+    "last_updated": 1760449328,
     "server_region": "cosmic_fold"
 }
