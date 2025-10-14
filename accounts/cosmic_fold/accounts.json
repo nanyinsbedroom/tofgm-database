@@ -19397,8 +19397,11 @@
         "63582695890948": {
             "crew_id": 614180338132,
             "crew_name": "梦想夏乡",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1759687762,
+            "hp": 336974.21875,
+            "last_seen": 1760436654,
+            "level": 57,
             "name": "无离",
             "registered": "2025年9月30日 上午11:25:39",
             "role_id": 63582695890948,
@@ -20724,6 +20727,19 @@
             "role_id": 63582695906773,
             "server_region": "cosmic_fold"
         },
+        "63582695906788": {
+            "crew_id": 128849033684,
+            "crew_name": "神待少女",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 349885.28125,
+            "last_seen": 1760436654,
+            "level": 58,
+            "name": "悸丶",
+            "registered": "2025年10月4日 下午5:32:48",
+            "role_id": 63582695906788,
+            "server_region": "cosmic_fold"
+        },
         "63582695906791": {
             "crew_id": 0,
             "crew_name": "",
@@ -21593,6 +21609,19 @@
             "role_id": 63582695925386,
             "server_region": "cosmic_fold"
         },
+        "63582695925448": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30026.0,
+            "last_seen": 1760436654,
+            "level": 8,
+            "name": "白河关所",
+            "registered": "2025年10月12日 下午4:51:41",
+            "role_id": 63582695925448,
+            "server_region": "cosmic_fold"
+        },
         "63582695926179": {
             "crew_id": 1279900269012,
             "crew_name": "兴欣",
@@ -21723,6 +21752,19 @@
             "role_id": 63582695927924,
             "server_region": "cosmic_fold"
         },
+        "63582695927988": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 23793.0,
+            "last_seen": 1760436654,
+            "level": 9,
+            "name": "初音未来。",
+            "registered": "2025年10月14日 下午4:40:29",
+            "role_id": 63582695927988,
+            "server_region": "cosmic_fold"
+        },
         "63582695928051": {
             "crew_id": 0,
             "crew_name": "",
@@ -21776,8 +21818,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2149,
+    "accounts_total": 2152,
     "created": 1758803451,
-    "last_updated": 1760436594,
+    "last_updated": 1760436654,
     "server_region": "cosmic_fold"
 }
