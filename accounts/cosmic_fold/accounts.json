@@ -1538,8 +1538,11 @@
         "63582695850986": {
             "crew_id": 21474851284,
             "crew_name": "高级美容院",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758811412,
+            "hp": 456558.59375,
+            "last_seen": 1760449628,
+            "level": 58,
             "name": "致命黑兰",
             "registered": "2025年9月25日 下午6:11:37",
             "role_id": 63582695850986,
@@ -12720,6 +12723,19 @@
             "role_id": 63582695861255,
             "server_region": "cosmic_fold"
         },
+        "63582695861265": {
+            "crew_id": 60129556948,
+            "crew_name": "舟有舟道",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 407932.375,
+            "last_seen": 1760449628,
+            "level": 58,
+            "name": "月宫兔鞠",
+            "registered": "2025年9月25日 下午9:34:18",
+            "role_id": 63582695861265,
+            "server_region": "cosmic_fold"
+        },
         "63582695861268": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
@@ -23043,6 +23059,19 @@
             "role_id": 63582695892422,
             "server_region": "cosmic_fold"
         },
+        "63582695892942": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 239849.609375,
+            "last_seen": 1760449628,
+            "level": 56,
+            "name": "白色枫叶",
+            "registered": "2025年9月30日 下午10:31:42",
+            "role_id": 63582695892942,
+            "server_region": "cosmic_fold"
+        },
         "63582695892984": {
             "crew_id": 1185410988500,
             "crew_name": "暂无公会",
@@ -27761,8 +27790,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2593,
+    "accounts_total": 2595,
     "created": 1758803451,
-    "last_updated": 1760449568,
+    "last_updated": 1760449628,
     "server_region": "cosmic_fold"
 }
