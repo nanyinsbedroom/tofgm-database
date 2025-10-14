@@ -1999,8 +1999,11 @@
         "63582695851493": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1759037578,
+            "hp": 461558.0,
+            "last_seen": 1760440798,
+            "level": 59,
             "name": "嫆鸢",
             "registered": "2025年9月25日 下午6:17:05",
             "role_id": 63582695851493,
@@ -19741,6 +19744,19 @@
             "role_id": 63582695881501,
             "server_region": "cosmic_fold"
         },
+        "63582695881513": {
+            "crew_id": 304942692820,
+            "crew_name": "快乐老家",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 290335.875,
+            "last_seen": 1760440798,
+            "level": 59,
+            "name": "香草巧巧杯",
+            "registered": "2025年9月27日 下午11:12:16",
+            "role_id": 63582695881513,
+            "server_region": "cosmic_fold"
+        },
         "63582695881545": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
@@ -21746,6 +21762,19 @@
             "role_id": 63582695901476,
             "server_region": "cosmic_fold"
         },
+        "63582695901519": {
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 424308.0,
+            "last_seen": 1760440798,
+            "level": 58,
+            "name": "小老头",
+            "registered": "2025年10月3日 上午1:30:25",
+            "role_id": 63582695901519,
+            "server_region": "cosmic_fold"
+        },
         "63582695901573": {
             "crew_id": 244813150676,
             "crew_name": "原神",
@@ -21847,6 +21876,19 @@
             "name": "联想",
             "registered": "2025年10月3日 下午1:24:20",
             "role_id": 63582695902632,
+            "server_region": "cosmic_fold"
+        },
+        "63582695902714": {
+            "crew_id": 1395864386004,
+            "crew_name": "后乐园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 112240.8125,
+            "last_seen": 1760440798,
+            "level": 50,
+            "name": "悡",
+            "registered": "2025年10月3日 下午1:47:11",
+            "role_id": 63582695902714,
             "server_region": "cosmic_fold"
         },
         "63582695902719": {
@@ -23412,6 +23454,19 @@
             "role_id": 63582695919004,
             "server_region": "cosmic_fold"
         },
+        "63582695919284": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 123702.765625,
+            "last_seen": 1760440798,
+            "level": 53,
+            "name": "阿泽·",
+            "registered": "2025年10月8日 下午5:14:39",
+            "role_id": 63582695919284,
+            "server_region": "cosmic_fold"
+        },
         "63582695920203": {
             "crew_id": 0,
             "crew_name": "",
@@ -23581,6 +23636,19 @@
             "name": "合金布狼牙S",
             "registered": "2025年10月11日 下午5:07:33",
             "role_id": 63582695923647,
+            "server_region": "cosmic_fold"
+        },
+        "63582695923663": {
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 235075.6875,
+            "last_seen": 1760440798,
+            "level": 58,
+            "name": "墨尛",
+            "registered": "2025年10月11日 下午5:21:20",
+            "role_id": 63582695923663,
             "server_region": "cosmic_fold"
         },
         "63582695923733": {
@@ -24153,8 +24221,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2324,
+    "accounts_total": 2329,
     "created": 1758803451,
-    "last_updated": 1760440738,
+    "last_updated": 1760440798,
     "server_region": "cosmic_fold"
 }
