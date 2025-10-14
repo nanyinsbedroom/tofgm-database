@@ -884,8 +884,11 @@
         "55856049735775": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "1_8_0_25",
             "gender": 0,
-            "last_seen": 1757957970,
+            "hp": 2586968.0,
+            "last_seen": 1760458455,
+            "level": 100,
             "name": " Groß",
             "registered": "Aug 13, 2022, 5:50:51 AM",
             "role_id": 55856049735775,
@@ -2054,6 +2057,19 @@
             "name": "Frost Shimmer",
             "registered": "Aug 17, 2022, 4:31:16 PM",
             "role_id": 55886114539710,
+            "server_region": "europe"
+        },
+        "55886114619502": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "Saiko__'s Mentor,0",
+            "gender": 0,
+            "hp": 2084953.5,
+            "last_seen": 1760458455,
+            "level": 100,
+            "name": "Exetior",
+            "registered": "Mar 28, 2023, 4:36:02 PM",
+            "role_id": 55886114619502,
             "server_region": "europe"
         },
         "55886114658045": {
@@ -5888,8 +5904,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 562,
+    "accounts_total": 563,
     "created": 1753816624,
-    "last_updated": 1760458155,
+    "last_updated": 1760458455,
     "server_region": "europe"
 }
