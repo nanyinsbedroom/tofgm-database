@@ -4338,6 +4338,19 @@
             "role_id": 63582695853228,
             "server_region": "cosmic_fold"
         },
+        "63582695853237": {
+            "crew_id": 47244655060,
+            "crew_name": "竖锯",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 437323.1875,
+            "last_seen": 1760449448,
+            "level": 59,
+            "name": "沙哈拉",
+            "registered": "2025年9月25日 下午6:40:46",
+            "role_id": 63582695853237,
+            "server_region": "cosmic_fold"
+        },
         "63582695853255": {
             "crew_id": 0,
             "crew_name": "",
@@ -24621,10 +24634,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695906149": {
-            "crew_id": 463856482772,
-            "crew_name": "驴人众",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759679531,
+            "hp": 282941.625,
+            "last_seen": 1760449448,
+            "level": 59,
             "name": "卿月",
             "registered": "2025年10月4日 下午2:40:29",
             "role_id": 63582695906149,
@@ -27221,6 +27237,19 @@
             "role_id": 63582695927949,
             "server_region": "cosmic_fold"
         },
+        "63582695927963": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 12735.19140625,
+            "last_seen": 1760449448,
+            "level": 21,
+            "name": "八二年的拉菲",
+            "registered": "2025年10月14日 下午4:14:23",
+            "role_id": 63582695927963,
+            "server_region": "cosmic_fold"
+        },
         "63582695927967": {
             "crew_id": 0,
             "crew_name": "",
@@ -27716,8 +27745,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2590,
+    "accounts_total": 2592,
     "created": 1758803451,
-    "last_updated": 1760449388,
+    "last_updated": 1760449448,
     "server_region": "cosmic_fold"
 }
