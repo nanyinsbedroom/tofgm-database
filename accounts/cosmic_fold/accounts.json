@@ -1065,8 +1065,11 @@
         "63582695850791": {
             "crew_id": 197568510420,
             "crew_name": "末班车",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758902435,
+            "hp": 473486.3125,
+            "last_seen": 1760436895,
+            "level": 59,
             "name": "梦想成为大T王",
             "registered": "2025年9月25日 下午6:09:50",
             "role_id": 63582695850791,
@@ -6837,6 +6840,19 @@
             "name": "三曰月",
             "registered": "2025年9月25日 下午7:35:10",
             "role_id": 63582695856845,
+            "server_region": "cosmic_fold"
+        },
+        "63582695856850": {
+            "crew_id": 12884916692,
+            "crew_name": "喵御宅",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 488620.46875,
+            "last_seen": 1760436895,
+            "level": 59,
+            "name": "薫風と風薫る",
+            "registered": "2025年9月25日 下午7:35:19",
+            "role_id": 63582695856850,
             "server_region": "cosmic_fold"
         },
         "63582695856853": {
@@ -16565,6 +16581,19 @@
             "role_id": 63582695871891,
             "server_region": "cosmic_fold"
         },
+        "63582695871899": {
+            "crew_id": 562640730580,
+            "crew_name": "莫塔里",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 444987.59375,
+            "last_seen": 1760436895,
+            "level": 58,
+            "name": "龙娘大胜利",
+            "registered": "2025年9月26日 下午7:59:02",
+            "role_id": 63582695871899,
+            "server_region": "cosmic_fold"
+        },
         "63582695871934": {
             "crew_id": 0,
             "crew_name": "",
@@ -17559,10 +17588,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695873953": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758911108,
+            "hp": 510307.71875,
+            "last_seen": 1760436895,
+            "level": 59,
             "name": "酸辣胖头鱼",
             "registered": "2025年9月26日 下午11:18:44",
             "role_id": 63582695873953,
@@ -19045,6 +19077,19 @@
             "role_id": 63582695885340,
             "server_region": "cosmic_fold"
         },
+        "63582695885399": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 200389.59375,
+            "last_seen": 1760436895,
+            "level": 56,
+            "name": "繁星之刻",
+            "registered": "2025年9月28日 下午8:04:51",
+            "role_id": 63582695885399,
+            "server_region": "cosmic_fold"
+        },
         "63582695885411": {
             "crew_id": 0,
             "crew_name": "",
@@ -19882,6 +19927,19 @@
             "name": "万亩斜阳",
             "registered": "2025年10月1日 下午9:54:08",
             "role_id": 63582695896970,
+            "server_region": "cosmic_fold"
+        },
+        "63582695897269": {
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "WorldBossDamage_4;晦暝·姹鲛;47",
+            "gender": 1,
+            "hp": 550709.6875,
+            "last_seen": 1760436895,
+            "level": 59,
+            "name": "霜叶小千代",
+            "registered": "2025年10月1日 下午11:07:36",
+            "role_id": 63582695897269,
             "server_region": "cosmic_fold"
         },
         "63582695897289": {
@@ -21915,8 +21973,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2159,
+    "accounts_total": 2163,
     "created": 1758803451,
-    "last_updated": 1760436835,
+    "last_updated": 1760436895,
     "server_region": "cosmic_fold"
 }
