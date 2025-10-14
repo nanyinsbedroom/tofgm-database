@@ -5538,8 +5538,11 @@
         "63582695854165": {
             "crew_id": 42949687764,
             "crew_name": "莫凡俱乐部",
+            "equipping_title": "WorldBossDamage_4;朱厌;92",
             "gender": 0,
-            "last_seen": 1759688002,
+            "hp": 544233.25,
+            "last_seen": 1760450229,
+            "level": 59,
             "name": "夜雨风歌",
             "registered": "2025年9月25日 下午6:55:13",
             "role_id": 63582695854165,
@@ -9230,6 +9233,19 @@
             "name": "洛猪灵波",
             "registered": "2025年9月25日 下午8:04:08",
             "role_id": 63582695858136,
+            "server_region": "cosmic_fold"
+        },
+        "63582695858137": {
+            "crew_id": 614180338132,
+            "crew_name": "梦想夏乡",
+            "equipping_title": "WorldBossDamage_4;阿比斯;海拉;92",
+            "gender": 1,
+            "hp": 485534.40625,
+            "last_seen": 1760450229,
+            "level": 59,
+            "name": "天夏",
+            "registered": "2025年9月25日 下午8:04:10",
+            "role_id": 63582695858137,
             "server_region": "cosmic_fold"
         },
         "63582695858141": {
@@ -24552,6 +24568,19 @@
             "role_id": 63582695905286,
             "server_region": "cosmic_fold"
         },
+        "63582695905374": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 99346.265625,
+            "last_seen": 1760450229,
+            "level": 39,
+            "name": "胡油蛋糕",
+            "registered": "2025年10月4日 上午10:08:52",
+            "role_id": 63582695905374,
+            "server_region": "cosmic_fold"
+        },
         "63582695905438": {
             "crew_id": 0,
             "crew_name": "",
@@ -25619,6 +25648,19 @@
             "role_id": 63582695912085,
             "server_region": "cosmic_fold"
         },
+        "63582695912199": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 125402.765625,
+            "last_seen": 1760450229,
+            "level": 57,
+            "name": "iroha",
+            "registered": "2025年10月6日 上午9:37:53",
+            "role_id": 63582695912199,
+            "server_region": "cosmic_fold"
+        },
         "63582695912486": {
             "crew_id": 1000727394772,
             "crew_name": "小疯",
@@ -25951,6 +25993,19 @@
             "name": "木花喵",
             "registered": "2025年10月7日 下午5:54:42",
             "role_id": 63582695916795,
+            "server_region": "cosmic_fold"
+        },
+        "63582695916861": {
+            "crew_id": 90194328020,
+            "crew_name": "墨影千秋",
+            "equipping_title": "2_2_0_19",
+            "gender": 1,
+            "hp": 470905.8125,
+            "last_seen": 1760450229,
+            "level": 59,
+            "name": "I你别找草I",
+            "registered": "2025年10月7日 下午6:20:52",
+            "role_id": 63582695916861,
             "server_region": "cosmic_fold"
         },
         "63582695916867": {
@@ -27191,6 +27246,19 @@
             "role_id": 63582695927690,
             "server_region": "cosmic_fold"
         },
+        "63582695927701": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 23571.0,
+            "last_seen": 1760450229,
+            "level": 7,
+            "name": "叶落玉",
+            "registered": "2025年10月14日 下午12:03:54",
+            "role_id": 63582695927701,
+            "server_region": "cosmic_fold"
+        },
         "63582695927706": {
             "crew_id": 1413044255188,
             "crew_name": "肝肝肝",
@@ -27829,8 +27897,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2598,
+    "accounts_total": 2603,
     "created": 1758803451,
-    "last_updated": 1760450169,
+    "last_updated": 1760450229,
     "server_region": "cosmic_fold"
 }
