@@ -216,8 +216,11 @@
         "68723771741111": {
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1760288473,
+            "hp": 1976575.25,
+            "last_seen": 1760444985,
+            "level": 100,
             "name": "Edochi",
             "registered": "Aug 12, 2022, 1:03:29 AM",
             "role_id": 68723771741111,
@@ -1439,6 +1442,19 @@
             "role_id": 68732361703608,
             "server_region": "southeast_asia"
         },
+        "68732361708083": {
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2277519.75,
+            "last_seen": 1760444985,
+            "level": 100,
+            "name": "◄ Hinata ►",
+            "registered": "Aug 14, 2022, 4:32:51 PM",
+            "role_id": 68732361708083,
+            "server_region": "southeast_asia"
+        },
         "68732361711902": {
             "crew_id": 2516850851459,
             "crew_name": "Schwarz Studio",
@@ -2004,8 +2020,11 @@
         "68736656713330": {
             "crew_id": 4105988750989,
             "crew_name": "Millennium",
+            "equipping_title": " Arisu 's Mentor,0",
             "gender": 0,
-            "last_seen": 1760194104,
+            "hp": 2335002.25,
+            "last_seen": 1760444985,
+            "level": 100,
             "name": "Nutナット",
             "registered": "Aug 24, 2022, 9:45:26 AM",
             "role_id": 68736656713330,
@@ -2024,8 +2043,11 @@
         "68736656718786": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1756021542,
+            "hp": 1905552.625,
+            "last_seen": 1760444985,
+            "level": 100,
             "name": "Petani kecil",
             "registered": "Aug 26, 2022, 5:31:45 PM",
             "role_id": 68736656718786,
@@ -2802,8 +2824,11 @@
         "68740951653226": {
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1755361265,
+            "hp": 2424755.25,
+            "last_seen": 1760444985,
+            "level": 100,
             "name": "abFighter",
             "registered": "Sep 23, 2022, 12:24:05 PM",
             "role_id": 68740951653226,
@@ -6268,10 +6293,13 @@
             "server_region": "southeast_asia"
         },
         "68775311519916": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 3719441694345,
+            "crew_name": "REBIRTH",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759055829,
+            "hp": 2712345.5,
+            "last_seen": 1760444985,
+            "level": 100,
             "name": "usagi",
             "registered": "Aug 5, 2023, 7:59:40 PM",
             "role_id": 68775311519916,
@@ -7958,10 +7986,13 @@
             "server_region": "southeast_asia"
         },
         "68775311729024": {
-            "crew_id": 1421634190994,
-            "crew_name": "Lunar Exclaire",
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1758794291,
+            "hp": 1249929.75,
+            "last_seen": 1760444985,
+            "level": 97,
             "name": "tt",
             "registered": "Mar 22, 2025, 11:16:23 AM",
             "role_id": 68775311729024,
@@ -14573,8 +14604,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1432,
+    "accounts_total": 1433,
     "created": 1753795148,
-    "last_updated": 1760444925,
+    "last_updated": 1760444985,
     "server_region": "southeast_asia"
 }
