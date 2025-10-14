@@ -1681,11 +1681,14 @@
             "server_region": "cosmic_fold"
         },
         "63582695851182": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758811833,
-            "name": "十王星南",
+            "hp": 514614.5625,
+            "last_seen": 1760441518,
+            "level": 59,
+            "name": "蓦然..",
             "registered": "2025年9月25日 下午6:13:35",
             "role_id": 63582695851182,
             "server_region": "cosmic_fold"
@@ -1888,6 +1891,19 @@
             "registered": "2025年9月25日 下午6:15:31",
             "role_id": 63582695851338,
             "server_region": "unknown"
+        },
+        "63582695851352": {
+            "crew_id": 25769818580,
+            "crew_name": "破晓",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 432036.28125,
+            "last_seen": 1760441518,
+            "level": 59,
+            "name": "一夜春风来",
+            "registered": "2025年9月25日 下午6:15:40",
+            "role_id": 63582695851352,
+            "server_region": "cosmic_fold"
         },
         "63582695851359": {
             "crew_id": 81604393428,
@@ -6608,8 +6624,11 @@
         "63582695855875": {
             "crew_id": 154618837460,
             "crew_name": "十月天宫",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "last_seen": 1758909727,
+            "hp": 479857.34375,
+            "last_seen": 1760441518,
+            "level": 59,
             "name": "不破·真广",
             "registered": "2025年9月25日 下午7:18:40",
             "role_id": 63582695855875,
@@ -10962,6 +10981,19 @@
             "name": "弑魂",
             "registered": "2025年9月25日 下午8:51:31",
             "role_id": 63582695859879,
+            "server_region": "cosmic_fold"
+        },
+        "63582695859904": {
+            "crew_id": 167503739348,
+            "crew_name": "无上散人",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 464985.5625,
+            "last_seen": 1760441518,
+            "level": 59,
+            "name": "Hibiko",
+            "registered": "2025年9月25日 下午8:52:23",
+            "role_id": 63582695859904,
             "server_region": "cosmic_fold"
         },
         "63582695859914": {
@@ -24727,8 +24759,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2367,
+    "accounts_total": 2369,
     "created": 1758803451,
-    "last_updated": 1760441398,
+    "last_updated": 1760441518,
     "server_region": "cosmic_fold"
 }
