@@ -482,8 +482,8 @@
             "crew_name": "星辰",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 409301.84375,
-            "last_seen": 1760447286,
+            "hp": 478195.1875,
+            "last_seen": 1760453402,
             "level": 59,
             "name": "Viers",
             "registered": "2025年9月25日 下午6:03:55",
@@ -6197,8 +6197,11 @@
         "63582695854901": {
             "crew_id": 253403085268,
             "crew_name": "解谜者的茶会",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758818983,
+            "hp": 313326.75,
+            "last_seen": 1760453402,
+            "level": 58,
             "name": "八爪",
             "registered": "2025年9月25日 下午7:03:04",
             "role_id": 63582695854901,
@@ -11490,6 +11493,19 @@
             "role_id": 63582695859632,
             "server_region": "cosmic_fold"
         },
+        "63582695859634": {
+            "crew_id": 25769818580,
+            "crew_name": "破晓",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 189679.03125,
+            "last_seen": 1760453402,
+            "level": 59,
+            "name": "秋流",
+            "registered": "2025年9月25日 下午8:43:55",
+            "role_id": 63582695859634,
+            "server_region": "cosmic_fold"
+        },
         "63582695859639": {
             "crew_id": 0,
             "crew_name": "",
@@ -11866,6 +11882,19 @@
             "name": "幻塔挺好吃",
             "registered": "2025年9月25日 下午8:53:36",
             "role_id": 63582695859949,
+            "server_region": "cosmic_fold"
+        },
+        "63582695859954": {
+            "crew_id": 12884916692,
+            "crew_name": "喵御宅",
+            "equipping_title": "WorldBossDamage_3;晶核重蹄;科尔顿;21",
+            "gender": 1,
+            "hp": 213758.0,
+            "last_seen": 1760453402,
+            "level": 59,
+            "name": "小梦",
+            "registered": "2025年9月25日 下午8:53:41",
+            "role_id": 63582695859954,
             "server_region": "cosmic_fold"
         },
         "63582695859982": {
@@ -24835,6 +24864,19 @@
             "role_id": 63582695900046,
             "server_region": "cosmic_fold"
         },
+        "63582695900319": {
+            "crew_id": 399431973332,
+            "crew_name": "世界之树",
+            "equipping_title": "WorldBossDamage_4;晦暝·姹鲛;40",
+            "gender": 1,
+            "hp": 338621.625,
+            "last_seen": 1760453402,
+            "level": 59,
+            "name": "愿望单",
+            "registered": "2025年10月2日 下午7:29:38",
+            "role_id": 63582695900319,
+            "server_region": "cosmic_fold"
+        },
         "63582695900331": {
             "crew_id": 0,
             "crew_name": "",
@@ -29162,8 +29204,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2698,
+    "accounts_total": 2701,
     "created": 1758803451,
-    "last_updated": 1760453282,
+    "last_updated": 1760453402,
     "server_region": "cosmic_fold"
 }
