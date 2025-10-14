@@ -3314,8 +3314,11 @@
         "55950538970640": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
+            "equipping_title": "DarkBaum's Apprentice,0",
             "gender": 1,
-            "last_seen": 1759526348,
+            "hp": 1733578.125,
+            "last_seen": 1760458936,
+            "level": 100,
             "name": "Enfer",
             "registered": "Aug 11, 2022, 6:34:22 PM",
             "role_id": 55950538970640,
@@ -3469,7 +3472,7 @@
             "equipping_title": "Enfer's Mentor,0",
             "gender": 0,
             "hp": 2345010.5,
-            "last_seen": 1760373140,
+            "last_seen": 1760458936,
             "level": 100,
             "name": "DarkBaum",
             "registered": "Aug 12, 2022, 5:41:01 PM",
@@ -5607,6 +5610,19 @@
             "role_id": 55963424731243,
             "server_region": "europe"
         },
+        "55963424731306": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 185116.359375,
+            "last_seen": 1760458936,
+            "level": 41,
+            "name": "Trintoria",
+            "registered": "Oct 12, 2025, 1:56:57 AM",
+            "role_id": 55963424731306,
+            "server_region": "europe"
+        },
         "55963424731931": {
             "crew_id": 0,
             "crew_name": "",
@@ -5943,8 +5959,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 566,
+    "accounts_total": 567,
     "created": 1753816624,
-    "last_updated": 1760458876,
+    "last_updated": 1760458936,
     "server_region": "europe"
 }
