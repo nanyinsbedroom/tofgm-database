@@ -7433,8 +7433,11 @@
         "63582695856688": {
             "crew_id": 210453412308,
             "crew_name": "异环",
+            "equipping_title": "WorldBossDamage_4;晶核重蹄;科尔顿;85",
             "gender": 1,
-            "last_seen": 1759681753,
+            "hp": 277113.53125,
+            "last_seen": 1760446626,
+            "level": 59,
             "name": "欧皇呀",
             "registered": "2025年9月25日 下午7:31:39",
             "role_id": 63582695856688,
@@ -8321,6 +8324,19 @@
             "name": "黑饭君",
             "registered": "2025年9月25日 下午7:48:30",
             "role_id": 63582695857474,
+            "server_region": "cosmic_fold"
+        },
+        "63582695857479": {
+            "crew_id": 210453412308,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 418766.59375,
+            "last_seen": 1760446626,
+            "level": 59,
+            "name": "吃饭放盐",
+            "registered": "2025年9月25日 下午7:48:35",
+            "role_id": 63582695857479,
             "server_region": "cosmic_fold"
         },
         "63582695857481": {
@@ -16292,11 +16308,14 @@
             "server_region": "cosmic_fold"
         },
         "63582695866422": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 60129556948,
+            "crew_name": "舟有舟道",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759037578,
-            "name": "枯竹",
+            "hp": 496980.3125,
+            "last_seen": 1760446626,
+            "level": 59,
+            "name": "城南旧絮",
             "registered": "2025年9月26日 上午3:16:13",
             "role_id": 63582695866422,
             "server_region": "cosmic_fold"
@@ -18791,6 +18810,19 @@
             "name": "梅依",
             "registered": "2025年9月26日 下午9:27:13",
             "role_id": 63582695872761,
+            "server_region": "cosmic_fold"
+        },
+        "63582695872764": {
+            "crew_id": 167503739348,
+            "crew_name": "无上散人",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 450280.8125,
+            "last_seen": 1760446626,
+            "level": 59,
+            "name": "爆炒三月七",
+            "registered": "2025年9月26日 下午9:27:29",
+            "role_id": 63582695872764,
             "server_region": "cosmic_fold"
         },
         "63582695872768": {
@@ -21496,6 +21528,19 @@
             "name": "罐头",
             "registered": "2025年9月29日 上午10:54:36",
             "role_id": 63582695887459,
+            "server_region": "cosmic_fold"
+        },
+        "63582695887714": {
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 407121.59375,
+            "last_seen": 1760446626,
+            "level": 58,
+            "name": "云泽药师",
+            "registered": "2025年9月29日 下午12:43:42",
+            "role_id": 63582695887714,
             "server_region": "cosmic_fold"
         },
         "63582695887807": {
@@ -25631,8 +25676,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2434,
+    "accounts_total": 2437,
     "created": 1758803451,
-    "last_updated": 1760446566,
+    "last_updated": 1760446626,
     "server_region": "cosmic_fold"
 }
