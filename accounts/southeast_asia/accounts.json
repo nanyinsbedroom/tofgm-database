@@ -5170,8 +5170,11 @@
         "68762426598055": {
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759929472,
+            "hp": 3024325.25,
+            "last_seen": 1760530615,
+            "level": 100,
             "name": "L-Dlan",
             "registered": "Jun 17, 2023, 10:21:06 AM",
             "role_id": 68762426598055,
@@ -5198,10 +5201,13 @@
             "server_region": "southeast_asia"
         },
         "68762426601958": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758199172,
+            "hp": 3092669.5,
+            "last_seen": 1760530615,
+            "level": 100,
             "name": "x Factor",
             "registered": "Jul 13, 2023, 1:48:33 PM",
             "role_id": 68762426601958,
@@ -7251,10 +7257,13 @@
             "server_region": "southeast_asia"
         },
         "68775311659945": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758199172,
+            "hp": 2888420.5,
+            "last_seen": 1760530615,
+            "level": 100,
             "name": "JustLazySoWhat",
             "registered": "Apr 16, 2024, 9:37:29 PM",
             "role_id": 68775311659945,
@@ -14824,6 +14833,6 @@
     },
     "accounts_total": 1444,
     "created": 1753795148,
-    "last_updated": 1760465901,
+    "last_updated": 1760530615,
     "server_region": "southeast_asia"
 }
