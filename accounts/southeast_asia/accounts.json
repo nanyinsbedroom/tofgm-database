@@ -2549,8 +2549,11 @@
         "68740951588230": {
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
+            "equipping_title": "1_8_1_1",
             "gender": 0,
-            "last_seen": 1760288593,
+            "hp": 2610095.0,
+            "last_seen": 1760532948,
+            "level": 100,
             "name": "Aurel샤이",
             "registered": "Aug 11, 2022, 1:11:33 PM",
             "role_id": 68740951588230,
@@ -7879,8 +7882,11 @@
         "68775311724977": {
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
+            "equipping_title": "1_1_29_1",
             "gender": 1,
-            "last_seen": 1754836360,
+            "hp": 2441730.5,
+            "last_seen": 1760532948,
+            "level": 100,
             "name": "Fern",
             "registered": "Feb 27, 2025, 2:50:16 PM",
             "role_id": 68775311724977,
@@ -11838,6 +11844,19 @@
             "role_id": 68779606293114,
             "server_region": "southeast_asia"
         },
+        "68779606295140": {
+            "crew_id": 562640731778,
+            "crew_name": "FridayKnight",
+            "equipping_title": "2_3_0_1",
+            "gender": 1,
+            "hp": 2238047.75,
+            "last_seen": 1760532948,
+            "level": 100,
+            "name": "Miorie",
+            "registered": "Aug 11, 2022, 12:21:49 PM",
+            "role_id": 68779606295140,
+            "server_region": "southeast_asia"
+        },
         "68779606297112": {
             "crew_id": 184683609733,
             "crew_name": "Guardian",
@@ -14932,8 +14951,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1449,
+    "accounts_total": 1450,
     "created": 1753795148,
-    "last_updated": 1760532708,
+    "last_updated": 1760532948,
     "server_region": "southeast_asia"
 }
