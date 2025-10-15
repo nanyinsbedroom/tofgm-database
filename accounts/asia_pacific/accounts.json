@@ -3444,8 +3444,11 @@
         "47300474937479": {
             "crew_id": 4788888546053,
             "crew_name": "アストラ町内会",
+            "equipping_title": "リンちゃん（本物）'s Mentor,0",
             "gender": 0,
-            "last_seen": 1760278718,
+            "hp": 2370822.25,
+            "last_seen": 1760535650,
+            "level": 100,
             "name": "ジャスホイ",
             "registered": "Aug 21, 2022, 8:35:59 PM",
             "role_id": 47300474937479,
@@ -6719,6 +6722,19 @@
             "role_id": 47343427753716,
             "server_region": "asia_pacific"
         },
+        "47343427755680": {
+            "crew_id": 6176162982659,
+            "crew_name": "月が綺麗ですね。",
+            "equipping_title": "オルテンシア　's Apprentice,0",
+            "gender": 0,
+            "hp": 1909141.0,
+            "last_seen": 1760535650,
+            "level": 100,
+            "name": "まぃぷ",
+            "registered": "Nov 17, 2024, 9:11:27 PM",
+            "role_id": 47343427755680,
+            "server_region": "asia_pacific"
+        },
         "47343427759527": {
             "crew_id": 1357209676545,
             "crew_name": "Hakuu Shrine",
@@ -9556,6 +9572,19 @@
             "name": "月光刑事91",
             "registered": "Oct 11, 2025, 4:57:41 PM",
             "role_id": 47343427942065,
+            "server_region": "asia_pacific"
+        },
+        "47343427942329": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1760535650,
+            "level": 1,
+            "name": "stargazer_13",
+            "registered": "Oct 12, 2025, 12:15:46 AM",
+            "role_id": 47343427942329,
             "server_region": "asia_pacific"
         },
         "47343427942362": {
@@ -12720,8 +12749,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1229,
+    "accounts_total": 1231,
     "created": 1754829154,
-    "last_updated": 1760535590,
+    "last_updated": 1760535650,
     "server_region": "asia_pacific"
 }
