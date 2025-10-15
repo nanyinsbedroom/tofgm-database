@@ -6801,8 +6801,11 @@
         "63582695855480": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
+            "equipping_title": "1_1_10_1",
             "gender": 1,
-            "last_seen": 1759687762,
+            "hp": 537975.0,
+            "last_seen": 1760546193,
+            "level": 59,
             "name": "饮水思渊",
             "registered": "2025年9月25日 下午7:13:08",
             "role_id": 63582695855480,
@@ -24889,6 +24892,19 @@
             "role_id": 63582695897772,
             "server_region": "cosmic_fold"
         },
+        "63582695897832": {
+            "crew_id": 266287987156,
+            "crew_name": "记录的地平线",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 496900.125,
+            "last_seen": 1760546193,
+            "level": 59,
+            "name": "黑漆影光",
+            "registered": "2025年10月2日 上午3:03:52",
+            "role_id": 63582695897832,
+            "server_region": "cosmic_fold"
+        },
         "63582695897924": {
             "crew_id": 682899814868,
             "crew_name": "味真足",
@@ -27912,13 +27928,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695920629": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 60129556948,
+            "crew_name": "舟有舟道",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 173119.65625,
-            "last_seen": 1760449208,
-            "level": 55,
+            "hp": 365416.65625,
+            "last_seen": 1760546193,
+            "level": 57,
             "name": "异界转生",
             "registered": "2025年10月9日 下午1:03:29",
             "role_id": 63582695920629,
@@ -29762,8 +29778,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2743,
+    "accounts_total": 2744,
     "created": 1758803451,
-    "last_updated": 1760546133,
+    "last_updated": 1760546193,
     "server_region": "cosmic_fold"
 }
