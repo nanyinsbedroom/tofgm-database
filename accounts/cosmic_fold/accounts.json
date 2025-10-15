@@ -5581,10 +5581,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695854005": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 253403085268,
+            "crew_name": "解谜者的茶会",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "last_seen": 1758895536,
+            "hp": 439897.9375,
+            "last_seen": 1760546254,
+            "level": 58,
             "name": "逍遥丨恃憶沧桑",
             "registered": "2025年9月25日 下午6:52:46",
             "role_id": 63582695854005,
@@ -28529,6 +28532,19 @@
             "role_id": 63582695925893,
             "server_region": "cosmic_fold"
         },
+        "63582695926061": {
+            "crew_id": 528280992212,
+            "crew_name": "星月",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 89976.796875,
+            "last_seen": 1760546254,
+            "level": 36,
+            "name": "纾夙",
+            "registered": "2025年10月12日 下午10:50:46",
+            "role_id": 63582695926061,
+            "server_region": "cosmic_fold"
+        },
         "63582695926093": {
             "crew_id": 0,
             "crew_name": "",
@@ -29778,8 +29794,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2744,
+    "accounts_total": 2745,
     "created": 1758803451,
-    "last_updated": 1760546193,
+    "last_updated": 1760546254,
     "server_region": "cosmic_fold"
 }
