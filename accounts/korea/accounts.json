@@ -1,5 +1,18 @@
 {
     "accounts": {
+        "42945811784404000": {
+            "crew_id": 867593392893,
+            "crew_name": "별",
+            "equipping_title": "2_2_0_24",
+            "gender": 1,
+            "hp": 2654838.0,
+            "last_seen": 1760537468,
+            "level": 100,
+            "name": "라플라스",
+            "registered": "Aug 11, 2022, 9:06:02 AM",
+            "role_id": 42945811784404000,
+            "server_region": "korea"
+        },
         "42945811784432898": {
             "crew_id": 867593392893,
             "crew_name": "별",
@@ -105,8 +118,11 @@
         "42945811784487338": {
             "crew_id": 867593392893,
             "crew_name": "별",
+            "equipping_title": "2_2_0_26",
             "gender": 1,
-            "last_seen": 1758708481,
+            "hp": 2535895.75,
+            "last_seen": 1760537468,
+            "level": 100,
             "name": " 라플라스",
             "registered": "Oct 16, 2022, 11:58:34 AM",
             "role_id": 42945811784487338,
@@ -630,8 +646,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 59,
+    "accounts_total": 60,
     "created": 1757257775,
-    "last_updated": 1760537348,
+    "last_updated": 1760537468,
     "server_region": "korea"
 }
