@@ -23,8 +23,11 @@
         "42945811784436855": {
             "crew_id": 605600387841,
             "crew_name": "Chaos",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1760111249,
+            "hp": 2432450.0,
+            "last_seen": 1760536765,
+            "level": 100,
             "name": " 하영",
             "registered": "Aug 11, 2022, 9:28:03 PM",
             "role_id": 42945811784436855,
@@ -33,8 +36,11 @@
         "42945811784438956": {
             "crew_id": 1937040249597,
             "crew_name": "츄르",
+            "equipping_title": "Title_Korea34_os12",
             "gender": 0,
-            "last_seen": 1760111309,
+            "hp": 2153131.0,
+            "last_seen": 1760536765,
+            "level": 100,
             "name": "반주희",
             "registered": "Aug 11, 2022, 10:35:39 PM",
             "role_id": 42945811784438956,
@@ -43,8 +49,11 @@
         "42945811784439921": {
             "crew_id": 1937040249597,
             "crew_name": "츄르",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760111249,
+            "hp": 2745664.0,
+            "last_seen": 1760536765,
+            "level": 100,
             "name": "그리폰",
             "registered": "Aug 11, 2022, 11:14:24 PM",
             "role_id": 42945811784439921,
@@ -63,8 +72,11 @@
         "42945811784443577": {
             "crew_id": 1937040249597,
             "crew_name": "츄르",
+            "equipping_title": "Title_KoreaAnniversary22",
             "gender": 1,
-            "last_seen": 1760111249,
+            "hp": 1327749.625,
+            "last_seen": 1760536765,
+            "level": 100,
             "name": "길드는 츄르",
             "registered": "Aug 12, 2022, 2:56:59 AM",
             "role_id": 42945811784443577,
@@ -264,6 +276,19 @@
             "name": "팔안",
             "registered": "Aug 11, 2022, 2:19:41 PM",
             "role_id": 42945816079384266,
+            "server_region": "korea"
+        },
+        "42945816079392149": {
+            "crew_id": 17189868288,
+            "crew_name": "크라운산도",
+            "equipping_title": "1_6_1_1",
+            "gender": 1,
+            "hp": 2117773.0,
+            "last_seen": 1760536765,
+            "level": 100,
+            "name": "빵드",
+            "registered": "Aug 11, 2022, 8:19:50 PM",
+            "role_id": 42945816079392149,
             "server_region": "korea"
         },
         "42945816079395169": {
@@ -512,6 +537,19 @@
             "role_id": 42945824669327949,
             "server_region": "korea"
         },
+        "42945828964270547": {
+            "crew_id": 605600387841,
+            "crew_name": "Chaos",
+            "equipping_title": "1_6_1_8",
+            "gender": 1,
+            "hp": 2391422.0,
+            "last_seen": 1760536765,
+            "level": 100,
+            "name": " 청 ",
+            "registered": "Aug 11, 2022, 9:00:17 AM",
+            "role_id": 42945828964270547,
+            "server_region": "korea"
+        },
         "42945828964281730": {
             "crew_id": 605600387841,
             "crew_name": "Chaos",
@@ -576,8 +614,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 56,
+    "accounts_total": 58,
     "created": 1757257775,
-    "last_updated": 1760536705,
+    "last_updated": 1760536765,
     "server_region": "korea"
 }
