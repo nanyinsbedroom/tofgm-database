@@ -3807,8 +3807,11 @@
         "55963424322611": {
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
+            "equipping_title": "3_2023",
             "gender": 1,
-            "last_seen": 1754768859,
+            "hp": 1883847.875,
+            "last_seen": 1760553964,
+            "level": 100,
             "name": "FeeltheRock",
             "registered": "Nov 19, 2023, 11:39:44 AM",
             "role_id": 55963424322611,
@@ -5352,6 +5355,19 @@
             "role_id": 55963424724798,
             "server_region": "europe"
         },
+        "55963424724872": {
+            "crew_id": 2031519544009,
+            "crew_name": "Banda",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1333487.0,
+            "last_seen": 1760553964,
+            "level": 100,
+            "name": "Yuricide",
+            "registered": "Sep 5, 2025, 7:13:50 AM",
+            "role_id": 55963424724872,
+            "server_region": "europe"
+        },
         "55963424725070": {
             "crew_id": 0,
             "crew_name": "",
@@ -5959,8 +5975,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 567,
+    "accounts_total": 568,
     "created": 1753816624,
-    "last_updated": 1760553724,
+    "last_updated": 1760553964,
     "server_region": "europe"
 }
