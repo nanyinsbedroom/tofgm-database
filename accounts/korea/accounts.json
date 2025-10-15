@@ -406,8 +406,11 @@
         "42945816079532387": {
             "crew_id": 30074770174,
             "crew_name": "아이",
+            "equipping_title": "국가권력급's Enlightener,1",
             "gender": 0,
-            "last_seen": 1757339923,
+            "hp": 2596351.5,
+            "last_seen": 1760536130,
+            "level": 100,
             "name": "야미게임",
             "registered": "Aug 7, 2023, 1:42:58 AM",
             "role_id": 42945816079532387,
@@ -523,6 +526,19 @@
             "role_id": 42945828964282663,
             "server_region": "korea"
         },
+        "42945828964297127": {
+            "crew_id": 751629275902,
+            "crew_name": "민초단",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2374947.75,
+            "last_seen": 1760536130,
+            "level": 100,
+            "name": "짱새v",
+            "registered": "Aug 11, 2022, 9:10:55 PM",
+            "role_id": 42945828964297127,
+            "server_region": "korea"
+        },
         "42945828964300787": {
             "crew_id": 12894900989,
             "crew_name": "개척자",
@@ -554,8 +570,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 55,
+    "accounts_total": 56,
     "created": 1757257775,
-    "last_updated": 1760536010,
+    "last_updated": 1760536130,
     "server_region": "korea"
 }
