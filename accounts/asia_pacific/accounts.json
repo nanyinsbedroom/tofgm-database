@@ -504,10 +504,13 @@
             "server_region": "asia_pacific"
         },
         "47253230232484": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 2211908168471,
+            "crew_name": "アスノヨゾラ",
+            "equipping_title": "-toyomi-'s Mentor,0",
             "gender": 0,
-            "last_seen": 1758889712,
+            "hp": 2429993.75,
+            "last_seen": 1760535890,
+            "level": 100,
             "name": "くるぶし.",
             "registered": "Aug 12, 2022, 2:18:04 AM",
             "role_id": 47253230232484,
@@ -11276,6 +11279,19 @@
             "role_id": 47373489829037,
             "server_region": "asia_pacific"
         },
+        "47377784250209": {
+            "crew_id": 2211908168471,
+            "crew_name": "アスノヨゾラ",
+            "equipping_title": "Overseas2_12",
+            "gender": 1,
+            "hp": 2135689.5,
+            "last_seen": 1760535890,
+            "level": 100,
+            "name": "-toyomi-",
+            "registered": "Aug 15, 2022, 9:16:04 PM",
+            "role_id": 47377784250209,
+            "server_region": "asia_pacific"
+        },
         "47377784293616": {
             "crew_id": 0,
             "crew_name": "",
@@ -11835,6 +11851,19 @@
             "name": "Celia",
             "registered": "Mar 6, 2025, 11:06:35 PM",
             "role_id": 47433618823982,
+            "server_region": "asia_pacific"
+        },
+        "47433618824219": {
+            "crew_id": 42949684004,
+            "crew_name": "烧鸡",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 1479170.875,
+            "last_seen": 1760535890,
+            "level": 100,
+            "name": "Peach_mint",
+            "registered": "Mar 7, 2025, 5:51:42 AM",
+            "role_id": 47433618824219,
             "server_region": "asia_pacific"
         },
         "47433618827125": {
@@ -12788,8 +12817,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1234,
+    "accounts_total": 1236,
     "created": 1754829154,
-    "last_updated": 1760535830,
+    "last_updated": 1760535890,
     "server_region": "asia_pacific"
 }
