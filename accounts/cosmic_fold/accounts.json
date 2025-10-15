@@ -17722,10 +17722,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695866163": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 206158445012,
+            "crew_name": "鲸置异化",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758908466,
+            "hp": 287002.8125,
+            "last_seen": 1760552331,
+            "level": 59,
             "name": "七夜姬子",
             "registered": "2025年9月26日 上午2:10:33",
             "role_id": 63582695866163,
@@ -30562,6 +30565,19 @@
             "role_id": 63582695929917,
             "server_region": "cosmic_fold"
         },
+        "63582695929929": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 36697.0,
+            "last_seen": 1760552331,
+            "level": 9,
+            "name": "阿咖玛",
+            "registered": "2025年10月16日 上午1:08:45",
+            "role_id": 63582695929929,
+            "server_region": "cosmic_fold"
+        },
         "63582695929962": {
             "crew_id": 1108101577172,
             "crew_name": "镜花水月",
@@ -30576,8 +30592,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2804,
+    "accounts_total": 2805,
     "created": 1758803451,
-    "last_updated": 1760552271,
+    "last_updated": 1760552331,
     "server_region": "cosmic_fold"
 }
