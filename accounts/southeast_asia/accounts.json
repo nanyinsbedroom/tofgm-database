@@ -1651,8 +1651,11 @@
         "68732361746047": {
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
+            "equipping_title": "1_9_0_2",
             "gender": 1,
-            "last_seen": 1758634673,
+            "hp": 2191771.25,
+            "last_seen": 1760626163,
+            "level": 100,
             "name": "g4m3r2",
             "registered": "Aug 24, 2022, 8:50:13 PM",
             "role_id": 68732361746047,
@@ -2158,7 +2161,7 @@
             "equipping_title": "Overseas2_10",
             "gender": 0,
             "hp": 2388563.5,
-            "last_seen": 1760621698,
+            "last_seen": 1760626163,
             "level": 100,
             "name": "xY2x",
             "registered": "Sep 1, 2022, 1:50:50 AM",
@@ -6388,6 +6391,19 @@
             "name": "Coelica",
             "registered": "Aug 21, 2022, 9:08:13 PM",
             "role_id": 68775311389750,
+            "server_region": "southeast_asia"
+        },
+        "68775311391039": {
+            "crew_id": 206158446212,
+            "crew_name": "CASTLE",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1926636.875,
+            "last_seen": 1760626163,
+            "level": 100,
+            "name": "Hoshi_RO",
+            "registered": "Aug 23, 2022, 2:53:47 PM",
+            "role_id": 68775311391039,
             "server_region": "southeast_asia"
         },
         "68775311498072": {
@@ -15321,8 +15337,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1469,
+    "accounts_total": 1470,
     "created": 1753795148,
-    "last_updated": 1760625863,
+    "last_updated": 1760626163,
     "server_region": "southeast_asia"
 }
