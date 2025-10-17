@@ -1951,8 +1951,11 @@
         "60649233202578": {
             "crew_id": 1408749287209,
             "crew_name": "情书",
+            "equipping_title": "1_4_6_5",
             "gender": 1,
-            "last_seen": 1758122735,
+            "hp": 1920175.0,
+            "last_seen": 1760698500,
+            "level": 100,
             "name": "约尔福杰",
             "registered": "2021年12月16日 上午10:37:13",
             "role_id": 60649233202578,
@@ -2430,8 +2433,11 @@
         "61010010444656": {
             "crew_id": 2044404447000,
             "crew_name": "漂移猫车驾校",
+            "equipping_title": "绯红结系是异环的导师,0",
             "gender": 1,
-            "last_seen": 1759646291,
+            "hp": 2048768.25,
+            "last_seen": 1760698500,
+            "level": 100,
             "name": "凌金奈金凌",
             "registered": "2021年12月16日 上午8:04:38",
             "role_id": 61010010444656,
@@ -2710,8 +2716,11 @@
         "61078729937270": {
             "crew_id": 833223669626,
             "crew_name": "天空之城",
+            "equipping_title": "后藤一里”的学徒,0",
             "gender": 1,
-            "last_seen": 1759645810,
+            "hp": 2514255.75,
+            "last_seen": 1760698500,
+            "level": 100,
             "name": "后藤二里”",
             "registered": "2021年12月16日 下午1:22:31",
             "role_id": 61078729937270,
@@ -2790,6 +2799,19 @@
             "role_id": 61087319867569,
             "server_region": "visser_aida"
         },
+        "61091614824529": {
+            "crew_id": 17179883385,
+            "crew_name": "异环",
+            "equipping_title": "明儿卸载的导师,0",
+            "gender": 1,
+            "hp": 2532653.5,
+            "last_seen": 1760698500,
+            "level": 100,
+            "name": "千反田愛瑠",
+            "registered": "2021年12月16日 上午9:07:26",
+            "role_id": 61091614824529,
+            "server_region": "visser_aida"
+        },
         "61091614854767": {
             "crew_id": 68719490851,
             "crew_name": "世界樹之葉",
@@ -2803,8 +2825,11 @@
         "61095909799733": {
             "crew_id": 481036351355,
             "crew_name": "清璃一梦",
+            "equipping_title": "2_2_0_12",
             "gender": 1,
-            "last_seen": 1758192832,
+            "hp": 1519182.125,
+            "last_seen": 1760698500,
+            "level": 100,
             "name": "苍痕#a",
             "registered": "2021年12月16日 上午10:19:07",
             "role_id": 61095909799733,
@@ -3067,6 +3092,19 @@
             "name": "草莓芭菲冰柠乐",
             "registered": "2021年12月16日 下午12:54:22",
             "role_id": 61435212222480,
+            "server_region": "visser_aida"
+        },
+        "61435212224792": {
+            "crew_id": 266287986476,
+            "crew_name": "星奈海",
+            "equipping_title": "龙幽悠的后继者,1",
+            "gender": 1,
+            "hp": 2300024.25,
+            "last_seen": 1760698500,
+            "level": 100,
+            "name": "热甜饼和冷牛奶",
+            "registered": "2021年12月16日 下午3:44:00",
+            "role_id": 61435212224792,
             "server_region": "visser_aida"
         },
         "61435212237050": {
@@ -4072,8 +4110,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 402,
+    "accounts_total": 404,
     "created": 1758086949,
-    "last_updated": 1760698439,
+    "last_updated": 1760698500,
     "server_region": "visser_aida"
 }
