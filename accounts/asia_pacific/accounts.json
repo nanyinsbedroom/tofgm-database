@@ -674,8 +674,11 @@
         "47257525165653": {
             "crew_id": 2379411892987,
             "crew_name": "Lumière",
+            "equipping_title": "2_5_0_6",
             "gender": 1,
-            "last_seen": 1759668665,
+            "hp": 3442811.75,
+            "last_seen": 1760704342,
+            "level": 100,
             "name": "ヒマリス",
             "registered": "Aug 11, 2022, 9:10:21 AM",
             "role_id": 47257525165653,
@@ -1971,8 +1974,8 @@
             "crew_name": "オルレアンの日誌…..〆",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2425892.5,
-            "last_seen": 1760354954,
+            "hp": 2405575.75,
+            "last_seen": 1760704342,
             "level": 100,
             "name": "ラフランスたまちゃん",
             "registered": "Aug 11, 2022, 9:05:50 AM",
@@ -2862,8 +2865,11 @@
         "47291884971582": {
             "crew_id": 1859720850197,
             "crew_name": "Various Colors葬",
+            "equipping_title": "まっくす4's Mentor,0",
             "gender": 0,
-            "last_seen": 1760273559,
+            "hp": 2277539.25,
+            "last_seen": 1760704342,
+            "level": 100,
             "name": "ミスター　ティ",
             "registered": "Aug 15, 2022, 5:20:46 PM",
             "role_id": 47291884971582,
@@ -5273,6 +5279,19 @@
             "role_id": 47343424539595,
             "server_region": "asia_pacific"
         },
+        "47343424541373": {
+            "crew_id": 4294978319,
+            "crew_name": "クロスギルド",
+            "equipping_title": "1_6_4_23",
+            "gender": 1,
+            "hp": 2909895.25,
+            "last_seen": 1760704342,
+            "level": 100,
+            "name": "アリサ",
+            "registered": "Aug 12, 2022, 10:24:57 AM",
+            "role_id": 47343424541373,
+            "server_region": "asia_pacific"
+        },
         "47343424548621": {
             "crew_id": 4294978319,
             "crew_name": "クロスギルド",
@@ -5420,6 +5439,19 @@
             "name": "ｾｰﾗｰちびムーン",
             "registered": "Aug 23, 2022, 7:15:32 AM",
             "role_id": 47343424603139,
+            "server_region": "asia_pacific"
+        },
+        "47343424603273": {
+            "crew_id": 4294978319,
+            "crew_name": "クロスギルド",
+            "equipping_title": "2_5_0_6",
+            "gender": 0,
+            "hp": 2634941.75,
+            "last_seen": 1760704342,
+            "level": 100,
+            "name": "塩野おにぎり",
+            "registered": "Aug 23, 2022, 10:30:20 AM",
+            "role_id": 47343424603273,
             "server_region": "asia_pacific"
         },
         "47343424603930": {
@@ -6393,6 +6425,19 @@
             "name": "kokaku-kissa",
             "registered": "Apr 25, 2024, 6:09:56 PM",
             "role_id": 47343427374715,
+            "server_region": "asia_pacific"
+        },
+        "47343427377780": {
+            "crew_id": 4294978319,
+            "crew_name": "クロスギルド",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 363231.0625,
+            "last_seen": 1760704342,
+            "level": 100,
+            "name": "Arisa4",
+            "registered": "Apr 26, 2024, 7:47:44 PM",
+            "role_id": 47343427377780,
             "server_region": "asia_pacific"
         },
         "47343427378030": {
@@ -13135,8 +13180,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1257,
+    "accounts_total": 1260,
     "created": 1754829154,
-    "last_updated": 1760704222,
+    "last_updated": 1760704342,
     "server_region": "asia_pacific"
 }
