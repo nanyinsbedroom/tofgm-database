@@ -83,8 +83,11 @@
         "60563335230657": {
             "crew_id": 120259098390,
             "crew_name": "茶馆",
+            "equipping_title": "1_1_21_1",
             "gender": 1,
-            "last_seen": 1759645810,
+            "hp": 1610664.5,
+            "last_seen": 1760698439,
+            "level": 100,
             "name": "不要给我哇哇叫",
             "registered": "2024年5月6日 下午2:40:39",
             "role_id": 60563335230657,
@@ -528,6 +531,19 @@
             "name": "诡叙诗",
             "registered": "2024年10月27日 上午12:26:47",
             "role_id": 60567630537574,
+            "server_region": "visser_aida"
+        },
+        "60567630538187": {
+            "crew_id": 5029406717725,
+            "crew_name": "恋爱脑",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 553215.0,
+            "last_seen": 1760698439,
+            "level": 73,
+            "name": "洪梅姐",
+            "registered": "2024年10月31日 下午8:55:08",
+            "role_id": 60567630538187,
             "server_region": "visser_aida"
         },
         "60567630567858": {
@@ -1852,8 +1868,11 @@
         "60636348347945": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
+            "equipping_title": "卷卷鳕的后继者,1",
             "gender": 1,
-            "last_seen": 1759760971,
+            "hp": 2307908.0,
+            "last_seen": 1760698439,
+            "level": 100,
             "name": "木木mu",
             "registered": "2021年12月22日 下午6:18:59",
             "role_id": 60636348347945,
@@ -2388,8 +2407,11 @@
         "61005715505883": {
             "crew_id": 416611841916,
             "crew_name": "一堆大佬",
+            "equipping_title": "1_6_1_2",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 2065121.125,
+            "last_seen": 1760698439,
+            "level": 100,
             "name": "明儿卸载",
             "registered": "2021年12月17日 下午8:32:18",
             "role_id": 61005715505883,
@@ -2849,6 +2871,19 @@
             "name": "无敌者",
             "registered": "2021年12月16日 上午8:34:02",
             "role_id": 61422327308993,
+            "server_region": "visser_aida"
+        },
+        "61422327312321": {
+            "crew_id": 68719491049,
+            "crew_name": "提瓦特料理",
+            "equipping_title": "3_2021",
+            "gender": 1,
+            "hp": 1414885.125,
+            "last_seen": 1760698439,
+            "level": 100,
+            "name": "魔法少女若木子",
+            "registered": "2021年12月16日 上午9:31:37",
+            "role_id": 61422327312321,
             "server_region": "visser_aida"
         },
         "61422327316384": {
@@ -3666,8 +3701,11 @@
         "62285617378438": {
             "crew_id": 2486786078600,
             "crew_name": "奥林匹斯",
+            "equipping_title": "1_9_0_4",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 1908229.875,
+            "last_seen": 1760698439,
+            "level": 100,
             "name": "夜.镆.",
             "registered": "2024年8月31日 下午11:21:21",
             "role_id": 62285617378438,
@@ -4034,8 +4072,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 400,
+    "accounts_total": 402,
     "created": 1758086949,
-    "last_updated": 1760380582,
+    "last_updated": 1760698439,
     "server_region": "visser_aida"
 }
