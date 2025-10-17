@@ -1,5 +1,18 @@
 {
     "accounts": {
+        "2": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 2,
+            "hp": 1.0,
+            "last_seen": 1760695411,
+            "level": 60,
+            "name": "小田切紘",
+            "registered": "1年1月1日 上午12:00:00",
+            "role_id": 2,
+            "server_region": "cosmic_fold"
+        },
         "63582695849991": {
             "crew_id": 8589949396,
             "crew_name": "星辰",
@@ -31665,8 +31678,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2885,
+    "accounts_total": 2886,
     "created": 1758803451,
-    "last_updated": 1760693368,
+    "last_updated": 1760695411,
     "server_region": "cosmic_fold"
 }
