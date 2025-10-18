@@ -9978,6 +9978,19 @@
             "role_id": 63582695857867,
             "server_region": "cosmic_fold"
         },
+        "63582695857896": {
+            "crew_id": 296352758228,
+            "crew_name": "星落西洲",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 345673.0,
+            "last_seen": 1760796882,
+            "level": 60,
+            "name": "星星眨了眼",
+            "registered": "2025年9月25日 下午7:58:00",
+            "role_id": 63582695857896,
+            "server_region": "cosmic_fold"
+        },
         "63582695857933": {
             "crew_id": 184683608532,
             "crew_name": "天月之境",
@@ -24304,9 +24317,9 @@
             "crew_name": "镜花堂",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 475549.65625,
-            "last_seen": 1760552211,
-            "level": 59,
+            "hp": 492212.0,
+            "last_seen": 1760796882,
+            "level": 60,
             "name": "小苦艾Ya",
             "registered": "2025年9月28日 上午12:24:22",
             "role_id": 63582695881950,
@@ -33889,10 +33902,23 @@
             "registered": "2025年10月18日 下午2:06:59",
             "role_id": 63582695933298,
             "server_region": "cosmic_fold"
+        },
+        "63582695933945": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39714.0,
+            "last_seen": 1760796882,
+            "level": 11,
+            "name": "余木柒",
+            "registered": "2025年10月18日 下午7:25:20",
+            "role_id": 63582695933945,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3050,
+    "accounts_total": 3052,
     "created": 1758803451,
-    "last_updated": 1760796822,
+    "last_updated": 1760796882,
     "server_region": "cosmic_fold"
 }
