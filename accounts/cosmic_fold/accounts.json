@@ -2817,8 +2817,11 @@
         "63582695851740": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": 1758895656,
+            "hp": 722769.0,
+            "last_seen": 1760775938,
+            "level": 60,
             "name": "小笼包",
             "registered": "2025年9月25日 下午6:19:51",
             "role_id": 63582695851740,
@@ -6687,11 +6690,11 @@
         "63582695854800": {
             "crew_id": 55834589652,
             "crew_name": "镜花堂",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "听雨朩的导师,0",
             "gender": 1,
-            "hp": 542484.1875,
-            "last_seen": 1760446746,
-            "level": 59,
+            "hp": 573443.1875,
+            "last_seen": 1760775938,
+            "level": 61,
             "name": "薄荷猫猫",
             "registered": "2025年9月25日 下午7:01:40",
             "role_id": 63582695854800,
@@ -7808,10 +7811,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695856014": {
-            "crew_id": 34359753172,
-            "crew_name": "魔法少女",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758903900,
+            "hp": 495778.40625,
+            "last_seen": 1760775938,
+            "level": 61,
             "name": "Delong",
             "registered": "2025年9月25日 下午7:20:39",
             "role_id": 63582695856014,
@@ -11239,6 +11245,19 @@
             "name": "喵夜梓",
             "registered": "2025年9月25日 下午8:22:28",
             "role_id": 63582695858869,
+            "server_region": "cosmic_fold"
+        },
+        "63582695858870": {
+            "crew_id": 339302431188,
+            "crew_name": "幻神",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 557049.875,
+            "last_seen": 1760775938,
+            "level": 61,
+            "name": "哈哈你爹来咯",
+            "registered": "2025年9月25日 下午8:22:29",
+            "role_id": 63582695858870,
             "server_region": "cosmic_fold"
         },
         "63582695858885": {
@@ -19185,9 +19204,9 @@
             "crew_name": "神待少女",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 487422.125,
-            "last_seen": 1760447046,
-            "level": 59,
+            "hp": 534456.0,
+            "last_seen": 1760775938,
+            "level": 60,
             "name": "mapleice",
             "registered": "2025年9月26日 上午9:46:55",
             "role_id": 63582695867743,
@@ -27830,6 +27849,19 @@
             "role_id": 63582695903333,
             "server_region": "cosmic_fold"
         },
+        "63582695903337": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 385270.1875,
+            "last_seen": 1760775938,
+            "level": 59,
+            "name": "皮蛋solo粥",
+            "registered": "2025年10月3日 下午4:58:40",
+            "role_id": 63582695903337,
+            "server_region": "cosmic_fold"
+        },
         "63582695903372": {
             "crew_id": 0,
             "crew_name": "",
@@ -33467,8 +33499,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3019,
+    "accounts_total": 3021,
     "created": 1758803451,
-    "last_updated": 1760775878,
+    "last_updated": 1760775938,
     "server_region": "cosmic_fold"
 }
