@@ -8846,6 +8846,19 @@
             "role_id": 63582695857117,
             "server_region": "cosmic_fold"
         },
+        "63582695857123": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "WorldBossDamage_1;急冻机甲;3",
+            "gender": 0,
+            "hp": 570185.0625,
+            "last_seen": 1760772815,
+            "level": 61,
+            "name": "猞猁",
+            "registered": "2025年9月25日 下午7:41:07",
+            "role_id": 63582695857123,
+            "server_region": "cosmic_fold"
+        },
         "63582695857145": {
             "crew_id": 253403085268,
             "crew_name": "解谜者的茶会",
@@ -20338,8 +20351,11 @@
         "63582695871461": {
             "crew_id": 38654720468,
             "crew_name": "萌团",
+            "equipping_title": "WorldBossDamage_3;英招;30",
             "gender": 1,
-            "last_seen": 1759593019,
+            "hp": 579180.4375,
+            "last_seen": 1760772815,
+            "level": 61,
             "name": "金色の闇影",
             "registered": "2025年9月26日 下午7:09:14",
             "role_id": 63582695871461,
@@ -20738,8 +20754,11 @@
         "63582695872131": {
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760224470,
+            "hp": 472380.03125,
+            "last_seen": 1760772815,
+            "level": 60,
             "name": "芝士顶真",
             "registered": "2025年9月26日 下午8:24:10",
             "role_id": 63582695872131,
@@ -27517,6 +27536,19 @@
             "role_id": 63582695904663,
             "server_region": "cosmic_fold"
         },
+        "63582695904758": {
+            "crew_id": 1486058699220,
+            "crew_name": "秋天的风",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 160004.40625,
+            "last_seen": 1760772815,
+            "level": 58,
+            "name": "明月1",
+            "registered": "2025年10月4日 上午12:30:51",
+            "role_id": 63582695904758,
+            "server_region": "cosmic_fold"
+        },
         "63582695904908": {
             "crew_id": 0,
             "crew_name": "",
@@ -29174,6 +29206,19 @@
             "role_id": 63582695913120,
             "server_region": "cosmic_fold"
         },
+        "63582695913469": {
+            "crew_id": 1486058699220,
+            "crew_name": "秋天的风",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101135.390625,
+            "last_seen": 1760772815,
+            "level": 58,
+            "name": "别再喵喵叫了",
+            "registered": "2025年10月6日 下午5:21:57",
+            "role_id": 63582695913469,
+            "server_region": "cosmic_fold"
+        },
         "63582695913506": {
             "crew_id": 1421634189780,
             "crew_name": "逐梦",
@@ -29208,6 +29253,32 @@
             "name": "灵汐汐子",
             "registered": "2025年10月6日 下午5:47:43",
             "role_id": 63582695913567,
+            "server_region": "cosmic_fold"
+        },
+        "63582695913659": {
+            "crew_id": 1486058699220,
+            "crew_name": "秋天的风",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 99629.390625,
+            "last_seen": 1760772815,
+            "level": 58,
+            "name": "序列九_观众",
+            "registered": "2025年10月6日 下午6:15:40",
+            "role_id": 63582695913659,
+            "server_region": "cosmic_fold"
+        },
+        "63582695913921": {
+            "crew_id": 1486058699220,
+            "crew_name": "秋天的风",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 99629.390625,
+            "last_seen": 1760772815,
+            "level": 58,
+            "name": "序列八读心者",
+            "registered": "2025年10月6日 下午7:35:45",
+            "role_id": 63582695913921,
             "server_region": "cosmic_fold"
         },
         "63582695913927": {
@@ -32657,8 +32728,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 2959,
+    "accounts_total": 2964,
     "created": 1758803451,
-    "last_updated": 1760772755,
+    "last_updated": 1760772815,
     "server_region": "cosmic_fold"
 }
