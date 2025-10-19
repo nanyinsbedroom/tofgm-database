@@ -559,6 +559,19 @@
             "role_id": 60567630538187,
             "server_region": "visser_aida"
         },
+        "60567630538859": {
+            "crew_id": 4247722669849,
+            "crew_name": "狼来了",
+            "equipping_title": "沙耶の歌的学徒,0",
+            "gender": 1,
+            "hp": 932568.0625,
+            "last_seen": 1760888423,
+            "level": 100,
+            "name": "哈基蛋",
+            "registered": "2024年11月5日 下午12:18:40",
+            "role_id": 60567630538859,
+            "server_region": "visser_aida"
+        },
         "60567630567858": {
             "crew_id": 64424523548,
             "crew_name": "魔女的茶会",
@@ -1081,8 +1094,11 @@
         "60580513721198": {
             "crew_id": 833223669626,
             "crew_name": "天空之城",
+            "equipping_title": "2_2_0_11",
             "gender": 1,
-            "last_seen": 1759646111,
+            "hp": 2141476.25,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "吃不饱的兔子",
             "registered": "2021年12月16日 上午9:25:54",
             "role_id": 60580513721198,
@@ -1561,8 +1577,11 @@
         "60606283553960": {
             "crew_id": 154618836860,
             "crew_name": "幻月之境",
+            "equipping_title": "一辈子我相伴的导师,0",
             "gender": 1,
-            "last_seen": 1759338014,
+            "hp": 2143696.0,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "呐诺哒",
             "registered": "2021年12月17日 下午6:31:44",
             "role_id": 60606283553960,
@@ -1696,6 +1715,19 @@
             "name": "呆懒呆鱼呆",
             "registered": "2021年12月17日 下午9:17:31",
             "role_id": 60619168452025,
+            "server_region": "visser_aida"
+        },
+        "60619168454182": {
+            "crew_id": 4294981499,
+            "crew_name": "莉可丽丝",
+            "equipping_title": "シャミ子★的启迪人,1",
+            "gender": 1,
+            "hp": 1960654.875,
+            "last_seen": 1760888423,
+            "level": 100,
+            "name": "兮雨瑶",
+            "registered": "2021年12月18日 上午4:38:29",
+            "role_id": 60619168454182,
             "server_region": "visser_aida"
         },
         "60619168461631": {
@@ -1854,8 +1886,11 @@
         "60636348296194": {
             "crew_id": 1958505101084,
             "crew_name": "星海旅人",
+            "equipping_title": "溯回音沢的后继者,1",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 1512311.25,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "人靓声劲甜",
             "registered": "2021年12月16日 上午9:36:06",
             "role_id": 60636348296194,
@@ -2218,9 +2253,12 @@
         },
         "60992830581019": {
             "crew_id": 154618836860,
-            "crew_name": "幻月之镜",
+            "crew_name": "幻月之境",
+            "equipping_title": "1_8_0_9",
             "gender": 1,
-            "last_seen": 1758528011,
+            "hp": 2290697.75,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "万晴",
             "registered": "2021年12月16日 上午8:53:48",
             "role_id": 60992830581019,
@@ -2464,9 +2502,12 @@
         },
         "61005715525202": {
             "crew_id": 154618836860,
-            "crew_name": "幻月之镜",
+            "crew_name": "幻月之境",
+            "equipping_title": "诗羽白的后继者,1",
             "gender": 0,
-            "last_seen": 1758296131,
+            "hp": 2298393.0,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "诗夏",
             "registered": "2021年12月28日 下午3:07:45",
             "role_id": 61005715525202,
@@ -3667,8 +3708,11 @@
         "61525406531517": {
             "crew_id": 193273542637,
             "crew_name": "幻塔之巅",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 1675231.875,
+            "last_seen": 1760888423,
+            "level": 100,
             "name": "深海娑娜",
             "registered": "2021年12月16日 上午10:56:03",
             "role_id": 61525406531517,
@@ -4171,8 +4215,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 408,
+    "accounts_total": 410,
     "created": 1758086949,
-    "last_updated": 1760888363,
+    "last_updated": 1760888423,
     "server_region": "visser_aida"
 }
