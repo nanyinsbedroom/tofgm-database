@@ -1445,9 +1445,9 @@
             "crew_name": "末班车",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 473486.3125,
-            "last_seen": 1760436895,
-            "level": 59,
+            "hp": 503092.4375,
+            "last_seen": 1760889625,
+            "level": 61,
             "name": "梦想成为大T王",
             "registered": "2025年9月25日 下午6:09:50",
             "role_id": 63582695850791,
@@ -1815,9 +1815,9 @@
             "crew_name": "魔女之旅",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 547348.5625,
-            "last_seen": 1760436174,
-            "level": 59,
+            "hp": 261508.5,
+            "last_seen": 1760889625,
+            "level": 61,
             "name": "Klian",
             "registered": "2025年9月25日 下午6:11:46",
             "role_id": 63582695850999,
@@ -12149,6 +12149,19 @@
             "role_id": 63582695859246,
             "server_region": "unknown"
         },
+        "63582695859250": {
+            "crew_id": 820338768340,
+            "crew_name": "抵达深空",
+            "equipping_title": "WorldBossDamage_3;阿比斯;伊娃;24",
+            "gender": 1,
+            "hp": 363056.8125,
+            "last_seen": 1760889625,
+            "level": 61,
+            "name": "收吐蕃米的豆腐",
+            "registered": "2025年9月25日 下午8:33:02",
+            "role_id": 63582695859250,
+            "server_region": "cosmic_fold"
+        },
         "63582695859253": {
             "crew_id": 0,
             "crew_name": "",
@@ -14839,6 +14852,19 @@
             "name": "月涟B",
             "registered": "2025年9月25日 下午9:48:45",
             "role_id": 63582695861679,
+            "server_region": "cosmic_fold"
+        },
+        "63582695861680": {
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 585700.5625,
+            "last_seen": 1760889625,
+            "level": 61,
+            "name": "梅及笄",
+            "registered": "2025年9月25日 下午9:48:47",
+            "role_id": 63582695861680,
             "server_region": "cosmic_fold"
         },
         "63582695861684": {
@@ -18947,6 +18973,19 @@
             "name": "墨枫",
             "registered": "2025年9月26日 上午3:00:35",
             "role_id": 63582695866361,
+            "server_region": "cosmic_fold"
+        },
+        "63582695866382": {
+            "crew_id": 369367202260,
+            "crew_name": "白夜的魔眼",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 518354.09375,
+            "last_seen": 1760889625,
+            "level": 61,
+            "name": "芝士丁真",
+            "registered": "2025年9月26日 上午3:04:27",
+            "role_id": 63582695866382,
             "server_region": "cosmic_fold"
         },
         "63582695866422": {
@@ -26517,6 +26556,19 @@
             "role_id": 63582695891550,
             "server_region": "cosmic_fold"
         },
+        "63582695891569": {
+            "crew_id": 253403085268,
+            "crew_name": "解谜者的茶会",
+            "equipping_title": "摸鱼....的导师,0",
+            "gender": 1,
+            "hp": 568022.125,
+            "last_seen": 1760889625,
+            "level": 61,
+            "name": "洛斯里克奶淇琳",
+            "registered": "2025年9月30日 下午3:52:03",
+            "role_id": 63582695891569,
+            "server_region": "cosmic_fold"
+        },
         "63582695891577": {
             "crew_id": 184683608532,
             "crew_name": "天月之境",
@@ -27984,6 +28036,19 @@
             "name": "安靜",
             "registered": "2025年10月2日 下午8:24:52",
             "role_id": 63582695900530,
+            "server_region": "cosmic_fold"
+        },
+        "63582695900583": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 390543.3125,
+            "last_seen": 1760889625,
+            "level": 61,
+            "name": "无机质",
+            "registered": "2025年10月2日 下午8:37:40",
+            "role_id": 63582695900583,
             "server_region": "cosmic_fold"
         },
         "63582695900588": {
@@ -34408,8 +34473,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3087,
+    "accounts_total": 3092,
     "created": 1758803451,
-    "last_updated": 1760889564,
+    "last_updated": 1760889625,
     "server_region": "cosmic_fold"
 }
