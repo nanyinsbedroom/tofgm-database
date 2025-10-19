@@ -9894,8 +9894,11 @@
         "63582695857656": {
             "crew_id": 429496744404,
             "crew_name": "一个人呆着",
+            "equipping_title": "WorldBossDamage_2;巴巴罗萨;8",
             "gender": 1,
-            "last_seen": 1759684538,
+            "hp": 503333.34375,
+            "last_seen": 1760889564,
+            "level": 61,
             "name": "四脚吞金兽",
             "registered": "2025年9月25日 下午7:52:54",
             "role_id": 63582695857656,
@@ -26354,6 +26357,19 @@
             "role_id": 63582695890664,
             "server_region": "cosmic_fold"
         },
+        "63582695890700": {
+            "crew_id": 622770272724,
+            "crew_name": "净土",
+            "equipping_title": "2_2_0_19",
+            "gender": 1,
+            "hp": 630787.3125,
+            "last_seen": 1760889564,
+            "level": 61,
+            "name": "海瑟ovo",
+            "registered": "2025年9月30日 上午9:20:22",
+            "role_id": 63582695890700,
+            "server_region": "cosmic_fold"
+        },
         "63582695890859": {
             "crew_id": 562640730580,
             "crew_name": "莫塔里",
@@ -31485,6 +31501,19 @@
             "role_id": 63582695921920,
             "server_region": "cosmic_fold"
         },
+        "63582695922050": {
+            "crew_id": 339302431188,
+            "crew_name": "幻神",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 350183.40625,
+            "last_seen": 1760889564,
+            "level": 60,
+            "name": "来点小黄瓜",
+            "registered": "2025年10月10日 下午2:01:50",
+            "role_id": 63582695922050,
+            "server_region": "cosmic_fold"
+        },
         "63582695922066": {
             "crew_id": 0,
             "crew_name": "",
@@ -33650,6 +33679,19 @@
             "role_id": 63582695929281,
             "server_region": "cosmic_fold"
         },
+        "63582695929447": {
+            "crew_id": 38654720468,
+            "crew_name": "萌团",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 440005.90625,
+            "last_seen": 1760889564,
+            "level": 60,
+            "name": "徐阳",
+            "registered": "2025年10月15日 下午7:29:40",
+            "role_id": 63582695929447,
+            "server_region": "cosmic_fold"
+        },
         "63582695929502": {
             "crew_id": 1176821053908,
             "crew_name": "眉间雪",
@@ -33934,6 +33976,19 @@
             "name": "绮雪",
             "registered": "2025年10月16日 下午8:16:12",
             "role_id": 63582695930753,
+            "server_region": "cosmic_fold"
+        },
+        "63582695930889": {
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 167189.8125,
+            "last_seen": 1760889564,
+            "level": 50,
+            "name": "三笠！",
+            "registered": "2025年10月16日 下午9:58:51",
+            "role_id": 63582695930889,
             "server_region": "cosmic_fold"
         },
         "63582695930902": {
@@ -34353,8 +34408,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3083,
+    "accounts_total": 3087,
     "created": 1758803451,
-    "last_updated": 1760889504,
+    "last_updated": 1760889564,
     "server_region": "cosmic_fold"
 }
