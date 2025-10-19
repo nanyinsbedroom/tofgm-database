@@ -133,8 +133,11 @@
         "62281320771054": {
             "crew_id": 1297080137893,
             "crew_name": "七宫",
+            "equipping_title": "2_2_0_4",
             "gender": 1,
-            "last_seen": 1759849987,
+            "hp": 1135607.125,
+            "last_seen": 1760896828,
+            "level": 100,
             "name": "铃玖",
             "registered": "2021年12月16日 上午9:23:16",
             "role_id": 62281320771054,
@@ -368,6 +371,19 @@
             "name": "血老板",
             "registered": "2021年12月16日 上午10:10:10",
             "role_id": 62328565412954,
+            "server_region": "ark_calculus"
+        },
+        "62332860376220": {
+            "crew_id": 38654720273,
+            "crew_name": "烧鸡",
+            "equipping_title": "1_4_3_5",
+            "gender": 1,
+            "hp": 2332944.0,
+            "last_seen": 1760896828,
+            "level": 100,
+            "name": "玊萳",
+            "registered": "2021年12月16日 上午8:36:59",
+            "role_id": 62332860376220,
             "server_region": "ark_calculus"
         },
         "62332860383567": {
@@ -1141,8 +1157,8 @@
             "server_region": "ark_calculus"
         }
     },
-    "accounts_total": 114,
+    "accounts_total": 115,
     "created": 1758713877,
-    "last_updated": 1759851789,
+    "last_updated": 1760896828,
     "server_region": "ark_calculus"
 }
