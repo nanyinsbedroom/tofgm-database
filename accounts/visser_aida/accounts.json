@@ -263,6 +263,19 @@
             "role_id": 60567629882215,
             "server_region": "visser_aida"
         },
+        "60567629882592": {
+            "crew_id": 4294981499,
+            "crew_name": "莉可丽丝",
+            "equipping_title": "1_6_1_7",
+            "gender": 1,
+            "hp": 1500631.5,
+            "last_seen": 1760888363,
+            "level": 100,
+            "name": "芯片直感",
+            "registered": "2023年2月16日 下午3:22:46",
+            "role_id": 60567629882592,
+            "server_region": "visser_aida"
+        },
         "60567629970071": {
             "crew_id": 2044404447000,
             "crew_name": "漂移猫车驾校",
@@ -864,6 +877,19 @@
             "name": "诸天万界天尊",
             "registered": "2025年9月30日 下午8:46:13",
             "role_id": 60567630863851,
+            "server_region": "visser_aida"
+        },
+        "60567630864700": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 359860.875,
+            "last_seen": 1760888363,
+            "level": 33,
+            "name": "风铃1",
+            "registered": "2025年10月19日 下午1:53:08",
+            "role_id": 60567630864700,
             "server_region": "visser_aida"
         },
         "60571923775614": {
@@ -1977,8 +2003,11 @@
         "60649233207873": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
+            "equipping_title": "诗夏的启迪人,1",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 2288719.25,
+            "last_seen": 1760888363,
+            "level": 100,
             "name": "诗羽白",
             "registered": "2021年12月16日 下午12:37:58",
             "role_id": 60649233207873,
@@ -3083,8 +3112,11 @@
         "61430917241891": {
             "crew_id": 1958505101084,
             "crew_name": "星海旅人",
+            "equipping_title": "2_2_0_21",
             "gender": 1,
-            "last_seen": 1758724084,
+            "hp": 2173553.0,
+            "last_seen": 1760888363,
+            "level": 100,
             "name": "魔法少女Eula",
             "registered": "2021年12月16日 上午8:16:43",
             "role_id": 61430917241891,
@@ -3722,6 +3754,19 @@
             "role_id": 62281320766726,
             "server_region": "visser_aida"
         },
+        "62281320774364": {
+            "crew_id": 266287986476,
+            "crew_name": "星奈海",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2613144.25,
+            "last_seen": 1760888363,
+            "level": 100,
+            "name": "　尤娜　",
+            "registered": "2021年12月16日 上午9:43:41",
+            "role_id": 62281320774364,
+            "server_region": "visser_aida"
+        },
         "62285615771621": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
@@ -4126,8 +4171,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 405,
+    "accounts_total": 408,
     "created": 1758086949,
-    "last_updated": 1760888303,
+    "last_updated": 1760888363,
     "server_region": "visser_aida"
 }
