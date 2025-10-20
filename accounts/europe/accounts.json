@@ -880,8 +880,11 @@
         "55856049732610": {
             "crew_id": 133143999181,
             "crew_name": "New Era",
+            "equipping_title": "Title_tencentshare_os_14",
             "gender": 0,
-            "last_seen": 1757192524,
+            "hp": 2993047.0,
+            "last_seen": 1760979651,
+            "level": 100,
             "name": " Kaionary",
             "registered": "Aug 13, 2022, 1:10:22 AM",
             "role_id": 55856049732610,
@@ -951,6 +954,19 @@
             "name": "Anarchy7",
             "registered": "Aug 20, 2022, 7:44:33 PM",
             "role_id": 55856049770402,
+            "server_region": "europe"
+        },
+        "55856049780671": {
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2903801.0,
+            "last_seen": 1760979651,
+            "level": 100,
+            "name": "Katherine Isley",
+            "registered": "Aug 23, 2022, 12:23:33 AM",
+            "role_id": 55856049780671,
             "server_region": "europe"
         },
         "55856049790571": {
@@ -1814,6 +1830,32 @@
             "name": "Allynna ツ",
             "registered": "Jan 8, 2023, 7:06:17 AM",
             "role_id": 55873229674692,
+            "server_region": "europe"
+        },
+        "55873229780338": {
+            "crew_id": 6287832134353,
+            "crew_name": "Devils of Chaos",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 2690037.5,
+            "last_seen": 1760979651,
+            "level": 100,
+            "name": "Jane-Doe",
+            "registered": "Jun 30, 2023, 11:06:19 PM",
+            "role_id": 55873229780338,
+            "server_region": "europe"
+        },
+        "55877524523476": {
+            "crew_id": 725849486034,
+            "crew_name": "Harmony",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2323836.25,
+            "last_seen": 1760979651,
+            "level": 100,
+            "name": "Voye",
+            "registered": "Aug 11, 2022, 1:36:53 AM",
+            "role_id": 55877524523476,
             "server_region": "europe"
         },
         "55877524525285": {
@@ -3537,6 +3579,19 @@
             "name": "Eretia",
             "registered": "Aug 18, 2022, 9:42:28 PM",
             "role_id": 55950539032114,
+            "server_region": "europe"
+        },
+        "55950539051302": {
+            "crew_id": 8589947620,
+            "crew_name": "ColdHeart",
+            "equipping_title": "Elogane's Mentor,0",
+            "gender": 1,
+            "hp": 2568491.75,
+            "last_seen": 1760979651,
+            "level": 100,
+            "name": "こよみあ",
+            "registered": "Sep 24, 2022, 2:02:08 AM",
+            "role_id": 55950539051302,
             "server_region": "europe"
         },
         "55954833937162": {
@@ -6243,8 +6298,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 587,
+    "accounts_total": 591,
     "created": 1753816624,
-    "last_updated": 1760979591,
+    "last_updated": 1760979651,
     "server_region": "europe"
 }
