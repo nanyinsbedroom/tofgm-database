@@ -194,8 +194,11 @@
         "55838869897029": {
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1757186680,
+            "hp": 2076338.375,
+            "last_seen": 1760979531,
+            "level": 100,
             "name": "Terrockan",
             "registered": "Aug 29, 2022, 1:36:49 AM",
             "role_id": 55838869897029,
@@ -1174,6 +1177,19 @@
             "name": "Darkеn",
             "registered": "Jul 2, 2023, 7:43:24 PM",
             "role_id": 55856049912094,
+            "server_region": "europe"
+        },
+        "55860344652383": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2995944.75,
+            "last_seen": 1760979531,
+            "level": 100,
+            "name": "iRays",
+            "registered": "Aug 11, 2022, 1:35:09 AM",
+            "role_id": 55860344652383,
             "server_region": "europe"
         },
         "55860344653060": {
@@ -6201,8 +6217,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 584,
+    "accounts_total": 585,
     "created": 1753816624,
-    "last_updated": 1760979471,
+    "last_updated": 1760979531,
     "server_region": "europe"
 }
