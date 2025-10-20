@@ -3553,8 +3553,11 @@
         "68749541521474": {
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "Title_iwshare_os_24",
             "gender": 1,
-            "last_seen": 1759765703,
+            "hp": 1766260.125,
+            "last_seen": 1760976314,
+            "level": 100,
             "name": "ⓔⓛ",
             "registered": "Aug 11, 2022, 11:55:22 AM",
             "role_id": 68749541521474,
@@ -13785,10 +13788,10 @@
         "68783901253837": {
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "1_12_0_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2425587.25,
-            "last_seen": 1760621277,
+            "hp": 2426420.5,
+            "last_seen": 1760976314,
             "level": 100,
             "name": "UruoiNari",
             "registered": "Aug 11, 2022, 9:32:28 AM",
@@ -15768,10 +15771,13 @@
             "server_region": "southeast_asia"
         },
         "68805376096655": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 34359754369,
+            "crew_name": "Phantasia ",
+            "equipping_title": "2_2_0_18",
             "gender": 1,
-            "last_seen": 1759232245,
+            "hp": 2816814.0,
+            "last_seen": 1760976314,
+            "level": 100,
             "name": "Arckeis",
             "registered": "Aug 11, 2022, 8:57:22 PM",
             "role_id": 68805376096655,
@@ -16685,6 +16691,6 @@
     },
     "accounts_total": 1550,
     "created": 1753795148,
-    "last_updated": 1760976254,
+    "last_updated": 1760976314,
     "server_region": "southeast_asia"
 }
