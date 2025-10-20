@@ -575,8 +575,11 @@
         "63574105960312": {
             "crew_id": 8589949395,
             "crew_name": "星期三",
+            "equipping_title": "2_2_0_19",
             "gender": 1,
-            "last_seen": 1759857373,
+            "hp": 667472.75,
+            "last_seen": 1760970353,
+            "level": 62,
             "name": "流年已逝",
             "registered": "2023年12月14日 下午7:43:26",
             "role_id": 63574105960312,
@@ -606,6 +609,19 @@
             "name": "月眷桜似卿",
             "registered": "2023年12月14日 下午8:00:54",
             "role_id": 63574105960896,
+            "server_region": "time_travel"
+        },
+        "63574105961834": {
+            "crew_id": 8589949395,
+            "crew_name": "星期三",
+            "equipping_title": "2_11_1_2",
+            "gender": 0,
+            "hp": 640699.9375,
+            "last_seen": 1760970353,
+            "level": 62,
+            "name": "兰云汐",
+            "registered": "2023年12月14日 下午8:28:07",
+            "role_id": 63574105961834,
             "server_region": "time_travel"
         },
         "63574105962391": {
@@ -773,6 +789,19 @@
             "name": "gateos",
             "registered": "2023年12月15日 下午3:15:47",
             "role_id": 63574105975284,
+            "server_region": "time_travel"
+        },
+        "63574105979102": {
+            "crew_id": 8589949395,
+            "crew_name": "星期三",
+            "equipping_title": "西木野真姬的导师,0",
+            "gender": 1,
+            "hp": 325400.0625,
+            "last_seen": 1760970353,
+            "level": 62,
+            "name": "寒风酱",
+            "registered": "2023年12月15日 下午7:44:41",
+            "role_id": 63574105979102,
             "server_region": "time_travel"
         },
         "63574105979307": {
@@ -1000,12 +1029,25 @@
             "crew_name": "星期三",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 628606.375,
-            "last_seen": 1760563364,
-            "level": 60,
+            "hp": 341337.21875,
+            "last_seen": 1760970353,
+            "level": 62,
             "name": "Ol咕噜咕噜lO",
             "registered": "2023年12月22日 上午4:06:36",
             "role_id": 63574106041169,
+            "server_region": "time_travel"
+        },
+        "63574106042732": {
+            "crew_id": 4518305610195,
+            "crew_name": "JK玉足妹",
+            "equipping_title": "2_11_1_2",
+            "gender": 1,
+            "hp": 566121.5625,
+            "last_seen": 1760970353,
+            "level": 62,
+            "name": "双清.",
+            "registered": "2023年12月22日 下午3:27:44",
+            "role_id": 63574106042732,
             "server_region": "time_travel"
         },
         "63574106044849": {
@@ -1026,6 +1068,19 @@
             "name": "雨札",
             "registered": "2023年12月24日 上午9:53:12",
             "role_id": 63574106057123,
+            "server_region": "time_travel"
+        },
+        "63574106068326": {
+            "crew_id": 1769526540754,
+            "crew_name": "山海阁",
+            "equipping_title": "0_8_0_33",
+            "gender": 1,
+            "hp": 529896.1875,
+            "last_seen": 1760970353,
+            "level": 61,
+            "name": "上啊死啊",
+            "registered": "2023年12月26日 上午3:20:59",
+            "role_id": 63574106068326,
             "server_region": "time_travel"
         },
         "63574106069140": {
@@ -2814,9 +2869,9 @@
             "crew_name": "小怪兽",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 557590.125,
-            "last_seen": 1760684095,
-            "level": 60,
+            "hp": 299835.53125,
+            "last_seen": 1760970353,
+            "level": 62,
             "name": "Heterodoxy",
             "registered": "2025年9月27日 上午8:16:32",
             "role_id": 63578401960939,
@@ -2959,6 +3014,19 @@
             "role_id": 63578401966409,
             "server_region": "time_travel"
         },
+        "63578401966479": {
+            "crew_id": 781684062674,
+            "crew_name": "喵喵喵",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 241036.0,
+            "last_seen": 1760970353,
+            "level": 59,
+            "name": "清寥",
+            "registered": "2025年10月11日 下午7:10:29",
+            "role_id": 63578401966479,
+            "server_region": "time_travel"
+        },
         "63578401966782": {
             "crew_id": 5016521816531,
             "crew_name": "爱哥恋妹",
@@ -3038,8 +3106,8 @@
             "server_region": "time_travel"
         }
     },
-    "accounts_total": 268,
+    "accounts_total": 273,
     "created": 1758107405,
-    "last_updated": 1760970293,
+    "last_updated": 1760970353,
     "server_region": "time_travel"
 }
