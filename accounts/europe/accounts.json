@@ -1585,13 +1585,13 @@
             "server_region": "europe"
         },
         "55868934589241": {
-            "crew_id": 369367200464,
-            "crew_name": "Yakuza",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2042697.0,
-            "last_seen": 1760373260,
-            "level": 100,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
             "name": "Seele",
             "registered": "Aug 11, 2022, 1:56:30 AM",
             "role_id": 55868934589241,
@@ -2018,6 +2018,19 @@
             "name": "Psygnosis",
             "registered": "Oct 26, 2022, 12:57:08 AM",
             "role_id": 55881819667306,
+            "server_region": "europe"
+        },
+        "55886114457725": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
+            "name": "Shahai$",
+            "registered": "Aug 11, 2022, 1:39:29 AM",
+            "role_id": 55886114457725,
             "server_region": "europe"
         },
         "55886114463631": {
@@ -4619,6 +4632,19 @@
             "role_id": 55963424669627,
             "server_region": "europe"
         },
+        "55963424671213": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Mevipa's Apprentice,0",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
+            "name": "Lumine",
+            "registered": "Feb 25, 2025, 11:39:10 AM",
+            "role_id": 55963424671213,
+            "server_region": "europe"
+        },
         "55963424672938": {
             "crew_id": 0,
             "crew_name": "",
@@ -4799,10 +4825,13 @@
             "server_region": "europe"
         },
         "55963424695296": {
-            "crew_id": 21474849503,
-            "crew_name": "LightningGate",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1754768739,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
             "name": "Amarisia ",
             "registered": "May 3, 2025, 5:24:27 PM",
             "role_id": 55963424695296,
@@ -6144,10 +6173,13 @@
             "server_region": "europe"
         },
         "55972013918416": {
-            "crew_id": 14340895814374,
-            "crew_name": "melkyway",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_11_1",
             "gender": 1,
-            "last_seen": 1757785888,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
             "name": "wufia",
             "registered": "Mar 30, 2023, 8:11:59 PM",
             "role_id": 55972013918416,
@@ -6164,13 +6196,13 @@
             "server_region": "europe"
         },
         "55972014010560": {
-            "crew_id": 14340895814374,
-            "crew_name": "melkyway",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 1,
-            "hp": 2047573.625,
-            "last_seen": 1760980352,
-            "level": 100,
+            "hp": 354.0,
+            "last_seen": 1760981658,
+            "level": 1,
             "name": "Densiava",
             "registered": "May 8, 2023, 9:13:32 PM",
             "role_id": 55972014010560,
@@ -6349,8 +6381,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 594,
+    "accounts_total": 596,
     "created": 1753816624,
-    "last_updated": 1760980817,
+    "last_updated": 1760981658,
     "server_region": "europe"
 }
