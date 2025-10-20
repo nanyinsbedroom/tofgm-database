@@ -880,6 +880,19 @@
             "role_id": 55856049728448,
             "server_region": "europe"
         },
+        "55856049730054": {
+            "crew_id": 73014457035,
+            "crew_name": "Чистилище",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 318325.6875,
+            "last_seen": 1760982818,
+            "level": 100,
+            "name": "イセル",
+            "registered": "Aug 12, 2022, 2:01:04 PM",
+            "role_id": 55856049730054,
+            "server_region": "europe"
+        },
         "55856049730419": {
             "crew_id": 717259551437,
             "crew_name": "Лукоморье",
@@ -1040,6 +1053,19 @@
             "name": "Outfaer",
             "registered": "Sep 3, 2022, 9:06:32 PM",
             "role_id": 55856049805389,
+            "server_region": "europe"
+        },
+        "55856049807679": {
+            "crew_id": 897648177869,
+            "crew_name": "Rus Brotherhood",
+            "equipping_title": "Title_HalfAnniversary_os_2",
+            "gender": 1,
+            "hp": 2466149.25,
+            "last_seen": 1760982818,
+            "level": 100,
+            "name": "Izanami Shinji",
+            "registered": "Sep 5, 2022, 8:24:38 AM",
+            "role_id": 55856049807679,
             "server_region": "europe"
         },
         "55856049809356": {
@@ -1397,8 +1423,11 @@
         "55864639636361": {
             "crew_id": 734439420623,
             "crew_name": "Диван у Камина",
+            "equipping_title": "2_10_1_3",
             "gender": 0,
-            "last_seen": 1757960541,
+            "hp": 2772011.25,
+            "last_seen": 1760982818,
+            "level": 100,
             "name": "NeverDance",
             "registered": "Aug 11, 2022, 8:29:35 AM",
             "role_id": 55864639636361,
@@ -1486,8 +1515,11 @@
         "55864639654253": {
             "crew_id": 734439420623,
             "crew_name": "Диван у Камина",
+            "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "last_seen": 1757960541,
+            "hp": 2124285.5,
+            "last_seen": 1760982818,
+            "level": 100,
             "name": "_Tenri_",
             "registered": "Aug 11, 2022, 10:20:24 PM",
             "role_id": 55864639654253,
@@ -4050,7 +4082,7 @@
             "equipping_title": "2_3_0_1",
             "gender": 1,
             "hp": 1519780.625,
-            "last_seen": 1760374942,
+            "last_seen": 1760982818,
             "level": 100,
             "name": "DimLvlTest",
             "registered": "Oct 23, 2023, 1:00:46 AM",
@@ -6513,8 +6545,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 605,
+    "accounts_total": 607,
     "created": 1753816624,
-    "last_updated": 1760982758,
+    "last_updated": 1760982818,
     "server_region": "europe"
 }
