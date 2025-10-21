@@ -4821,8 +4821,11 @@
         "55963424669627": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
+            "equipping_title": "  CmeTanKa's Apprentice,0",
             "gender": 1,
-            "last_seen": 1758209907,
+            "hp": 1848319.375,
+            "last_seen": 1761068365,
+            "level": 100,
             "name": "Labubu",
             "registered": "Feb 19, 2025, 1:37:29 PM",
             "role_id": 55963424669627,
@@ -5724,10 +5727,13 @@
             "server_region": "europe"
         },
         "55963424723048": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 1,
-            "last_seen": 1757192464,
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "Overseas2_7",
+            "gender": 0,
+            "hp": 1460712.75,
+            "last_seen": 1761068365,
+            "level": 100,
             "name": "Mienna",
             "registered": "Aug 25, 2025, 10:53:31 PM",
             "role_id": 55963424723048,
@@ -6274,6 +6280,19 @@
             "role_id": 55963424732128,
             "server_region": "europe"
         },
+        "55963424732191": {
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 645981.375,
+            "last_seen": 1761068365,
+            "level": 62,
+            "name": "Miko Chan",
+            "registered": "Oct 15, 2025, 2:38:01 PM",
+            "role_id": 55963424732191,
+            "server_region": "europe"
+        },
         "55967718837209": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -6606,8 +6625,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 611,
+    "accounts_total": 612,
     "created": 1753816624,
-    "last_updated": 1761068245,
+    "last_updated": 1761068365,
     "server_region": "europe"
 }
