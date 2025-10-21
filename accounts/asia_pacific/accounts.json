@@ -102,8 +102,11 @@
         "47248935265939": {
             "crew_id": 4294978315,
             "crew_name": "アイダの惑星",
+            "equipping_title": "1_1_10_1",
             "gender": 1,
-            "last_seen": 1760167881,
+            "hp": 2436935.5,
+            "last_seen": 1761071426,
+            "level": 100,
             "name": "アイソレ$",
             "registered": "Aug 11, 2022, 10:49:13 PM",
             "role_id": 47248935265939,
@@ -1247,12 +1250,12 @@
         "47261820243612": {
             "crew_id": 171798702865,
             "crew_name": "Bonsai",
-            "equipping_title": "None",
+            "equipping_title": "1_8_0_25",
             "gender": 1,
-            "hp": 1939347.25,
-            "last_seen": 1760372960,
+            "hp": 2394243.0,
+            "last_seen": 1761071426,
             "level": 100,
-            "name": "はるなー♡",
+            "name": "Tokai♡Teio",
             "registered": "Sep 14, 2022, 8:23:23 AM",
             "role_id": 47261820243612,
             "server_region": "asia_pacific"
@@ -6397,7 +6400,7 @@
             "equipping_title": "2_10_1_4",
             "gender": 1,
             "hp": 2187287.0,
-            "last_seen": 1761070526,
+            "last_seen": 1761071426,
             "level": 100,
             "name": "雪猫ねこ",
             "registered": "Apr 21, 2024, 2:52:47 PM",
@@ -6575,7 +6578,7 @@
             "equipping_title": "Devanamko's Successor,1",
             "gender": 1,
             "hp": 2301569.25,
-            "last_seen": 1761070587,
+            "last_seen": 1761071426,
             "level": 100,
             "name": "Жозетта",
             "registered": "Jun 15, 2024, 3:46:53 PM",
@@ -10711,6 +10714,19 @@
             "role_id": 47343427945309,
             "server_region": "asia_pacific"
         },
+        "47343427946362": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 60783.1484375,
+            "last_seen": 1761071426,
+            "level": 21,
+            "name": "岩田シベリア",
+            "registered": "Oct 21, 2025, 9:26:30 PM",
+            "role_id": 47343427946362,
+            "server_region": "asia_pacific"
+        },
         "47343427946423": {
             "crew_id": 0,
             "crew_name": "",
@@ -11303,7 +11319,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 2429389.25,
-            "last_seen": 1761070526,
+            "last_seen": 1761071426,
             "level": 100,
             "name": "Celty Terror",
             "registered": "Aug 15, 2022, 3:58:56 AM",
@@ -11406,7 +11422,7 @@
             "equipping_title": "1_5_1_1",
             "gender": 0,
             "hp": 2720899.5,
-            "last_seen": 1760535290,
+            "last_seen": 1761071426,
             "level": 100,
             "name": "タタリウンカミ",
             "registered": "Aug 15, 2022, 7:51:27 AM",
@@ -13248,8 +13264,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1265,
+    "accounts_total": 1266,
     "created": 1754829154,
-    "last_updated": 1761070827,
+    "last_updated": 1761071426,
     "server_region": "asia_pacific"
 }
