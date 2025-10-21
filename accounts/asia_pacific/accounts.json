@@ -6572,8 +6572,11 @@
         "47343427516795": {
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
+            "equipping_title": "Devanamko's Successor,1",
             "gender": 1,
-            "last_seen": 1760279679,
+            "hp": 2301569.25,
+            "last_seen": 1761070587,
+            "level": 100,
             "name": "Жозетта",
             "registered": "Jun 15, 2024, 3:46:53 PM",
             "role_id": 47343427516795,
@@ -12895,6 +12898,19 @@
             "role_id": 47433618935269,
             "server_region": "asia_pacific"
         },
+        "47433618935755": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 348065.5625,
+            "last_seen": 1761070587,
+            "level": 48,
+            "name": "Reya#a",
+            "registered": "Aug 25, 2025, 5:55:30 AM",
+            "role_id": 47433618935755,
+            "server_region": "asia_pacific"
+        },
         "47433618937815": {
             "crew_id": 0,
             "crew_name": "",
@@ -13180,8 +13196,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1260,
+    "accounts_total": 1261,
     "created": 1754829154,
-    "last_updated": 1761070526,
+    "last_updated": 1761070587,
     "server_region": "asia_pacific"
 }
