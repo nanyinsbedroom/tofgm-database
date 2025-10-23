@@ -630,8 +630,11 @@
         "55851754731140": {
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
+            "equipping_title": "Overseas2_10",
             "gender": 1,
-            "last_seen": 1759087487,
+            "hp": 3077680.0,
+            "last_seen": 1761241770,
+            "level": 100,
             "name": "Naellia",
             "registered": "Aug 11, 2022, 5:01:20 AM",
             "role_id": 55851754731140,
@@ -4004,6 +4007,19 @@
             "role_id": 55963423922124,
             "server_region": "europe"
         },
+        "55963423945560": {
+            "crew_id": 2697239474913,
+            "crew_name": "Asylum",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2623557.0,
+            "last_seen": 1761241770,
+            "level": 100,
+            "name": "Ziiria",
+            "registered": "Aug 22, 2022, 7:16:13 PM",
+            "role_id": 55963423945560,
+            "server_region": "europe"
+        },
         "55963423946894": {
             "crew_id": 365072233182,
             "crew_name": "French Guild",
@@ -6868,8 +6884,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 630,
+    "accounts_total": 631,
     "created": 1753816624,
-    "last_updated": 1761241710,
+    "last_updated": 1761241770,
     "server_region": "europe"
 }
