@@ -1923,8 +1923,11 @@
         "47274705048109": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
+            "equipping_title": "♡ tuu's Successor,1",
             "gender": 0,
-            "last_seen": 1757868269,
+            "hp": 2874748.0,
+            "last_seen": 1761311161,
+            "level": 100,
             "name": "Weke",
             "registered": "Aug 11, 2022, 1:32:30 PM",
             "role_id": 47274705048109,
@@ -3134,6 +3137,19 @@
             "name": "ハマグリさん",
             "registered": "Aug 11, 2022, 9:56:36 AM",
             "role_id": 47296179874825,
+            "server_region": "asia_pacific"
+        },
+        "47296179880452": {
+            "crew_id": 962072685316,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 3158320.75,
+            "last_seen": 1761311161,
+            "level": 100,
+            "name": "桃狐",
+            "registered": "Aug 11, 2022, 11:43:54 AM",
+            "role_id": 47296179880452,
             "server_region": "asia_pacific"
         },
         "47296179887005": {
@@ -13683,8 +13699,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1295,
+    "accounts_total": 1296,
     "created": 1754829154,
-    "last_updated": 1761311041,
+    "last_updated": 1761311161,
     "server_region": "asia_pacific"
 }
