@@ -508,8 +508,11 @@
         "47253230216314": {
             "crew_id": 1421634185978,
             "crew_name": "めりーとあそぼ",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1760271390,
+            "hp": 2442110.25,
+            "last_seen": 1761310369,
+            "level": 100,
             "name": "　リユウ　",
             "registered": "Aug 11, 2022, 4:35:44 PM",
             "role_id": 47253230216314,
@@ -759,7 +762,7 @@
             "equipping_title": "2_8_0_3",
             "gender": 1,
             "hp": 1550005.625,
-            "last_seen": 1761124745,
+            "last_seen": 1761310369,
             "level": 100,
             "name": "なゆら",
             "registered": "Aug 11, 2022, 9:07:35 PM",
@@ -5615,6 +5618,19 @@
             "role_id": 47343425379209,
             "server_region": "asia_pacific"
         },
+        "47343425627922": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 696418.9375,
+            "last_seen": 1761310369,
+            "level": 99,
+            "name": "Risea",
+            "registered": "Jun 17, 2023, 3:35:09 PM",
+            "role_id": 47343425627922,
+            "server_region": "asia_pacific"
+        },
         "47343425628827": {
             "crew_id": 0,
             "crew_name": "",
@@ -6576,6 +6592,19 @@
             "role_id": 47343427420290,
             "server_region": "asia_pacific"
         },
+        "47343427425684": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2024",
+            "gender": 0,
+            "hp": 823242.9375,
+            "last_seen": 1761310369,
+            "level": 100,
+            "name": "Vally",
+            "registered": "May 11, 2024, 12:40:42 PM",
+            "role_id": 47343427425684,
+            "server_region": "asia_pacific"
+        },
         "47343427430658": {
             "crew_id": 0,
             "crew_name": "",
@@ -6693,8 +6722,8 @@
             "crew_name": "Green Tea",
             "equipping_title": "azriq's Apprentice,0",
             "gender": 1,
-            "hp": 1881211.875,
-            "last_seen": 1761304009,
+            "hp": 1889869.75,
+            "last_seen": 1761310369,
             "level": 100,
             "name": "heh12",
             "registered": "Jun 19, 2024, 11:29:47 PM",
@@ -10947,7 +10976,7 @@
             "equipping_title": "2_10_1_5",
             "gender": 1,
             "hp": 1586288.25,
-            "last_seen": 1761304009,
+            "last_seen": 1761310369,
             "level": 100,
             "name": "がーねっと",
             "registered": "Aug 16, 2022, 11:12:12 PM",
@@ -13454,8 +13483,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1279,
+    "accounts_total": 1281,
     "created": 1754829154,
-    "last_updated": 1761304069,
+    "last_updated": 1761310369,
     "server_region": "asia_pacific"
 }
