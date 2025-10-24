@@ -7391,8 +7391,8 @@
             "crew_name": "月明かりに照らされて",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1751069.75,
-            "last_seen": 1760704042,
+            "hp": 1703355.875,
+            "last_seen": 1761310921,
             "level": 100,
             "name": "SEIYA",
             "registered": "Feb 26, 2025, 2:08:26 AM",
@@ -9584,10 +9584,13 @@
             "server_region": "asia_pacific"
         },
         "47343427938296": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 21474847524,
+            "crew_name": "Morning Star",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "last_seen": 1759668905,
+            "hp": 1165482.5,
+            "last_seen": 1761310921,
+            "level": 98,
             "name": "仮面舞踏会",
             "registered": "Oct 5, 2025, 9:46:11 PM",
             "role_id": 47343427938296,
@@ -10089,6 +10092,19 @@
             "name": "stargazer_13",
             "registered": "Oct 12, 2025, 12:15:46 AM",
             "role_id": 47343427942329,
+            "server_region": "asia_pacific"
+        },
+        "47343427942333": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 872043.9375,
+            "last_seen": 1761310921,
+            "level": 81,
+            "name": "Serri",
+            "registered": "Oct 12, 2025, 12:27:04 AM",
+            "role_id": 47343427942333,
             "server_region": "asia_pacific"
         },
         "47343427942362": {
@@ -12823,6 +12839,19 @@
             "role_id": 47433618893699,
             "server_region": "asia_pacific"
         },
+        "47433618893707": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 668285.3125,
+            "last_seen": 1761310921,
+            "level": 82,
+            "name": "Shiara",
+            "registered": "Jun 6, 2025, 6:58:45 PM",
+            "role_id": 47433618893707,
+            "server_region": "asia_pacific"
+        },
         "47433618895611": {
             "crew_id": 0,
             "crew_name": "",
@@ -13487,6 +13516,32 @@
             "role_id": 47433618943604,
             "server_region": "asia_pacific"
         },
+        "47433618943733": {
+            "crew_id": 330712492805,
+            "crew_name": "Cherry Tea",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1063607.0,
+            "last_seen": 1761310921,
+            "level": 84,
+            "name": "DropShot",
+            "registered": "Sep 20, 2025, 11:09:37 PM",
+            "role_id": 47433618943733,
+            "server_region": "asia_pacific"
+        },
+        "47433618943734": {
+            "crew_id": 330712492805,
+            "crew_name": "Cherry Tea",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 1144541.625,
+            "last_seen": 1761310921,
+            "level": 87,
+            "name": "JaqAttack",
+            "registered": "Sep 20, 2025, 11:10:07 PM",
+            "role_id": 47433618943734,
+            "server_region": "asia_pacific"
+        },
         "47433618944054": {
             "crew_id": 4260607568644,
             "crew_name": "ตำหนักเทพเมฆา",
@@ -13583,8 +13638,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1288,
+    "accounts_total": 1292,
     "created": 1754829154,
-    "last_updated": 1761310861,
+    "last_updated": 1761310921,
     "server_region": "asia_pacific"
 }
