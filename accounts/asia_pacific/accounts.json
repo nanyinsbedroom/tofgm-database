@@ -1231,7 +1231,7 @@
             "equipping_title": "Tencent_Sever_4",
             "gender": 1,
             "hp": 1745557.75,
-            "last_seen": 1761311522,
+            "last_seen": 1761416305,
             "level": 100,
             "name": "ふさちゃん。",
             "registered": "Aug 11, 2022, 11:38:52 PM",
@@ -1307,7 +1307,7 @@
             "equipping_title": "Tencent_Sever_4",
             "gender": 1,
             "hp": 2480709.5,
-            "last_seen": 1761311522,
+            "last_seen": 1761416305,
             "level": 100,
             "name": "ららちゃん。",
             "registered": "Aug 21, 2022, 9:07:20 PM",
@@ -2340,8 +2340,8 @@
             "crew_name": "SmileLive",
             "equipping_title": " Venti$'s Apprentice,0",
             "gender": 0,
-            "hp": 984465.0625,
-            "last_seen": 1760703982,
+            "hp": 1042838.75,
+            "last_seen": 1761416305,
             "level": 100,
             "name": "木之本さくらたん",
             "registered": "Aug 15, 2022, 1:33:36 AM",
@@ -3172,10 +3172,10 @@
             "crew_name": "LaVieEnRose",
             "equipping_title": "Tencent_Sever_12",
             "gender": 1,
-            "hp": 2050284.875,
-            "last_seen": 1760355975,
+            "hp": 2050285.125,
+            "last_seen": 1761416305,
             "level": 100,
-            "name": "サフィニア",
+            "name": "ニア　",
             "registered": "Aug 11, 2022, 9:42:23 AM",
             "role_id": 47296179873637,
             "server_region": "asia_pacific"
@@ -4407,8 +4407,11 @@
         "47313359854229": {
             "crew_id": 5338644359931,
             "crew_name": "幻のリリカル団",
+            "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "last_seen": 1760166860,
+            "hp": 2615705.25,
+            "last_seen": 1761416305,
+            "level": 100,
             "name": "花園凛々蝶",
             "registered": "Oct 9, 2022, 9:50:01 AM",
             "role_id": 47313359854229,
@@ -11235,6 +11238,19 @@
             "role_id": 47343427946888,
             "server_region": "asia_pacific"
         },
+        "47343427947224": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16758.021484375,
+            "last_seen": 1761416305,
+            "level": 14,
+            "name": "emmyy",
+            "registered": "Oct 25, 2025, 11:56:59 AM",
+            "role_id": 47343427947224,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -13891,8 +13907,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1308,
+    "accounts_total": 1309,
     "created": 1754829154,
-    "last_updated": 1761311882,
+    "last_updated": 1761416305,
     "server_region": "asia_pacific"
 }
