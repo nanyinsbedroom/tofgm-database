@@ -527,8 +527,11 @@
         "47253230207733": {
             "crew_id": 4552665344762,
             "crew_name": "エリシオン",
+            "equipping_title": "1_1_3_1",
             "gender": 0,
-            "last_seen": 1760024851,
+            "hp": 3012631.0,
+            "last_seen": 1761482579,
+            "level": 100,
             "name": "マサーキ",
             "registered": "Aug 11, 2022, 12:09:39 PM",
             "role_id": 47253230207733,
@@ -12879,6 +12882,19 @@
             "role_id": 47382079263914,
             "server_region": "asia_pacific"
         },
+        "47382079290811": {
+            "crew_id": 6180457949955,
+            "crew_name": "オルレアンの日誌…..〆",
+            "equipping_title": "Title_tencentshare_os_15",
+            "gender": 1,
+            "hp": 2888842.0,
+            "last_seen": 1761482579,
+            "level": 100,
+            "name": "せぶん",
+            "registered": "Aug 18, 2022, 9:30:48 AM",
+            "role_id": 47382079290811,
+            "server_region": "asia_pacific"
+        },
         "47382079299761": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
@@ -14488,8 +14504,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1350,
+    "accounts_total": 1351,
     "created": 1754829154,
-    "last_updated": 1761482518,
+    "last_updated": 1761482579,
     "server_region": "asia_pacific"
 }
