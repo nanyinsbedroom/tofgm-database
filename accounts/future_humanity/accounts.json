@@ -1,5 +1,18 @@
 {
     "accounts": {
+        "60563333873853": {
+            "crew_id": 841813604117,
+            "crew_name": "ASOUL",
+            "equipping_title": "今天吃什么嘉然的导师,0",
+            "gender": 1,
+            "hp": 1729593.25,
+            "last_seen": 1761472948,
+            "level": 100,
+            "name": "Dipper",
+            "registered": "2021年12月16日 下午8:34:12",
+            "role_id": 60563333873853,
+            "server_region": "future_humanity"
+        },
         "60563333880682": {
             "crew_id": 7670811604757,
             "crew_name": "云中歌",
@@ -133,8 +146,11 @@
         "60563335258437": {
             "crew_id": 14078902810389,
             "crew_name": "音悠酱主播团",
+            "equipping_title": "2_10_1_5",
             "gender": 1,
-            "last_seen": 1759854011,
+            "hp": 992658.0625,
+            "last_seen": 1761472948,
+            "level": 100,
             "name": "洛斯琳原味黑丝",
             "registered": "2024年5月24日 下午5:39:29",
             "role_id": 60563335258437,
@@ -936,6 +952,19 @@
             "role_id": 61422327325832,
             "server_region": "future_humanity"
         },
+        "61435212264500": {
+            "crew_id": 15079630190357,
+            "crew_name": "魅魔",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 982336.5,
+            "last_seen": 1761472948,
+            "level": 81,
+            "name": "开，",
+            "registered": "2022年1月22日 上午12:52:49",
+            "role_id": 61435212264500,
+            "server_region": "future_humanity"
+        },
         "61469571980482": {
             "crew_id": 493921253141,
             "crew_name": "璀璨星海",
@@ -1040,8 +1069,8 @@
             "server_region": "future_humanity"
         }
     },
-    "accounts_total": 100,
+    "accounts_total": 102,
     "created": 1758711045,
-    "last_updated": 1761472887,
+    "last_updated": 1761472948,
     "server_region": "future_humanity"
 }
