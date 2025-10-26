@@ -1246,8 +1246,11 @@
         "60584809769181": {
             "crew_id": 25769817880,
             "crew_name": "白晝梦",
+            "equipping_title": "2_10_3_1",
             "gender": 1,
-            "last_seen": 1759340151,
+            "hp": 1469791.875,
+            "last_seen": 1761507242,
+            "level": 100,
             "name": "卡莱恩茜",
             "registered": "2023年4月4日 上午12:24:38",
             "role_id": 60584809769181,
@@ -2699,6 +2702,19 @@
             "role_id": 61018600392798,
             "server_region": "visser_aida"
         },
+        "61022895366632": {
+            "crew_id": 266287986476,
+            "crew_name": "星奈海",
+            "equipping_title": "3_2021",
+            "gender": 1,
+            "hp": 1593869.75,
+            "last_seen": 1761507242,
+            "level": 100,
+            "name": "hui5",
+            "registered": "2021年12月16日 下午6:06:31",
+            "role_id": 61022895366632,
+            "server_region": "visser_aida"
+        },
         "61027190319296": {
             "crew_id": 515396089737,
             "crew_name": "樱花庄",
@@ -2807,6 +2823,19 @@
             "name": "じ☆ve☆雪梅香",
             "registered": "2021年12月16日 上午8:09:27",
             "role_id": 61048665149485,
+            "server_region": "visser_aida"
+        },
+        "61048665178261": {
+            "crew_id": 68719491049,
+            "crew_name": "提瓦特料理",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 1306134.5,
+            "last_seen": 1761507242,
+            "level": 100,
+            "name": "柚子花",
+            "registered": "2021年12月16日 下午10:08:11",
+            "role_id": 61048665178261,
             "server_region": "visser_aida"
         },
         "61052960117744": {
@@ -4331,8 +4360,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 418,
+    "accounts_total": 420,
     "created": 1758086949,
-    "last_updated": 1760971974,
+    "last_updated": 1761507242,
     "server_region": "visser_aida"
 }
