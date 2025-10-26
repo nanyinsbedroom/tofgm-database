@@ -746,8 +746,11 @@
         "63574105955128": {
             "crew_id": 996432427474,
             "crew_name": "幻策司梦阁",
+            "equipping_title": "2_10_1_1",
             "gender": 1,
-            "last_seen": 1758725105,
+            "hp": 433387.0,
+            "last_seen": 1761503491,
+            "level": 64,
             "name": "雅尔塔",
             "registered": "2023年12月14日 下午4:58:08",
             "role_id": 63574105955128,
@@ -1361,6 +1364,19 @@
             "role_id": 63574106017715,
             "server_region": "time_travel"
         },
+        "63574106020162": {
+            "crew_id": 73014458834,
+            "crew_name": "爱意",
+            "equipping_title": "1_3_1_4",
+            "gender": 0,
+            "hp": 529096.1875,
+            "last_seen": 1761503491,
+            "level": 63,
+            "name": "骁云彻",
+            "registered": "2023年12月18日 下午9:13:55",
+            "role_id": 63574106020162,
+            "server_region": "time_travel"
+        },
         "63574106024806": {
             "crew_id": 1224065694162,
             "crew_name": "白月旅团",
@@ -1457,6 +1473,19 @@
             "name": "Daxuan",
             "registered": "2023年12月21日 下午5:48:36",
             "role_id": 63574106038332,
+            "server_region": "time_travel"
+        },
+        "63574106040787": {
+            "crew_id": 8589949395,
+            "crew_name": "星期三",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 531695.875,
+            "last_seen": 1761503491,
+            "level": 65,
+            "name": "猫.",
+            "registered": "2023年12月22日 上午12:41:11",
+            "role_id": 63574106040787,
             "server_region": "time_travel"
         },
         "63574106041169": {
@@ -4049,6 +4078,19 @@
             "role_id": 63578401963939,
             "server_region": "time_travel"
         },
+        "63578401965382": {
+            "crew_id": 4934917437907,
+            "crew_name": "宇宙海贼战队",
+            "equipping_title": "WorldBossDamage_4;阿比斯;伊娃;82",
+            "gender": 1,
+            "hp": 645868.4375,
+            "last_seen": 1761503491,
+            "level": 65,
+            "name": "海贼连者豪快粉",
+            "registered": "2025年10月6日 下午9:24:59",
+            "role_id": 63578401965382,
+            "server_region": "time_travel"
+        },
         "63578401965429": {
             "crew_id": 1211180792275,
             "crew_name": "清雨鸣泠",
@@ -4320,8 +4362,8 @@
             "server_region": "time_travel"
         }
     },
-    "accounts_total": 365,
+    "accounts_total": 368,
     "created": 1758107405,
-    "last_updated": 1761503371,
+    "last_updated": 1761503491,
     "server_region": "time_travel"
 }
