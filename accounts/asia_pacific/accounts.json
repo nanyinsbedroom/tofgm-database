@@ -3626,8 +3626,11 @@
         "47300474850935": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "last_seen": 1757420747,
+            "hp": 2340311.25,
+            "last_seen": 1761482887,
+            "level": 100,
             "name": "セキュリティ部門警備員",
             "registered": "Aug 11, 2022, 1:41:21 PM",
             "role_id": 47300474850935,
@@ -8781,8 +8784,11 @@
         "47343427925498": {
             "crew_id": 18223546247951,
             "crew_name": "Flonac",
+            "equipping_title": "2_2_0_18",
             "gender": 0,
-            "last_seen": 1759667644,
+            "hp": 974799.4375,
+            "last_seen": 1761482887,
+            "level": 100,
             "name": "余接",
             "registered": "Aug 11, 2025, 11:15:29 AM",
             "role_id": 47343427925498,
@@ -10413,6 +10419,19 @@
             "role_id": 47343427940016,
             "server_region": "asia_pacific"
         },
+        "47343427940308": {
+            "crew_id": 47244651259,
+            "crew_name": "もみじ組",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 609201.9375,
+            "last_seen": 1761482887,
+            "level": 78,
+            "name": "レイ・デュラリス",
+            "registered": "Oct 8, 2025, 8:28:13 PM",
+            "role_id": 47343427940308,
+            "server_region": "asia_pacific"
+        },
         "47343427940334": {
             "crew_id": 5338644359931,
             "crew_name": "幻のリリカル団",
@@ -11970,6 +11989,19 @@
             "name": "Asmophel",
             "registered": "Aug 13, 2022, 10:49:35 AM",
             "role_id": 47352014464103,
+            "server_region": "asia_pacific"
+        },
+        "47352014472772": {
+            "crew_id": 30064782097,
+            "crew_name": "Painful Chicken",
+            "equipping_title": "Title_tencentshare_os_15",
+            "gender": 0,
+            "hp": 1920177.5,
+            "last_seen": 1761482887,
+            "level": 100,
+            "name": "iiii#a",
+            "registered": "Aug 13, 2022, 1:09:34 PM",
+            "role_id": 47352014472772,
             "server_region": "asia_pacific"
         },
         "47352014477115": {
@@ -14189,6 +14221,19 @@
             "role_id": 47433618933291,
             "server_region": "asia_pacific"
         },
+        "47433618933850": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 953535.5,
+            "last_seen": 1761482887,
+            "level": 85,
+            "name": "RA. HOSIRO",
+            "registered": "Aug 19, 2025, 4:16:08 PM",
+            "role_id": 47433618933850,
+            "server_region": "asia_pacific"
+        },
         "47433618934162": {
             "crew_id": 0,
             "crew_name": "",
@@ -14549,8 +14594,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1354,
+    "accounts_total": 1357,
     "created": 1754829154,
-    "last_updated": 1761482827,
+    "last_updated": 1761482887,
     "server_region": "asia_pacific"
 }
