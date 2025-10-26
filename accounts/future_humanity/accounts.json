@@ -160,8 +160,11 @@
         "60563334793891": {
             "crew_id": 4329327048469,
             "crew_name": "梦之彼岸",
+            "equipping_title": "魔法少女茓满精的导师,0",
             "gender": 1,
-            "last_seen": 1759853951,
+            "hp": 2334347.5,
+            "last_seen": 1761473791,
+            "level": 100,
             "name": "梓℡",
             "registered": "2023年1月6日 上午12:23:39",
             "role_id": 60563334793891,
@@ -987,6 +990,19 @@
             "role_id": 60563335953063,
             "server_region": "future_humanity"
         },
+        "60563335953600": {
+            "crew_id": 7322919253781,
+            "crew_name": "雾巷猫",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 784922.0,
+            "last_seen": 1761473791,
+            "level": 72,
+            "name": "蝶恋纸鸢",
+            "registered": "2025年10月1日 下午12:28:00",
+            "role_id": 60563335953600,
+            "server_region": "future_humanity"
+        },
         "60563335954660": {
             "crew_id": 0,
             "crew_name": "",
@@ -1374,8 +1390,8 @@
             "server_region": "future_humanity"
         }
     },
-    "accounts_total": 125,
+    "accounts_total": 126,
     "created": 1758711045,
-    "last_updated": 1761473730,
+    "last_updated": 1761473791,
     "server_region": "future_humanity"
 }
