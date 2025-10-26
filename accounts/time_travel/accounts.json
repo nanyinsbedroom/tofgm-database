@@ -26,8 +26,11 @@
         "63574105915876": {
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
+            "equipping_title": "1_10_0_4",
             "gender": 1,
-            "last_seen": 1758710729,
+            "hp": 716141.625,
+            "last_seen": 1761463275,
+            "level": 65,
             "name": "雪喵喵",
             "registered": "2023年12月14日 上午10:00:07",
             "role_id": 63574105915876,
@@ -495,6 +498,19 @@
             "role_id": 63574105944934,
             "server_region": "time_travel"
         },
+        "63574105945584": {
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 673298.6875,
+            "last_seen": 1761463275,
+            "level": 65,
+            "name": "虞衡司　烟渺　",
+            "registered": "2023年12月14日 下午12:12:00",
+            "role_id": 63574105945584,
+            "server_region": "time_travel"
+        },
         "63574105946103": {
             "crew_id": 201863477714,
             "crew_name": "七宫",
@@ -710,9 +726,9 @@
             "crew_name": "星期三",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 667472.75,
-            "last_seen": 1760970353,
-            "level": 62,
+            "hp": 735970.0,
+            "last_seen": 1761463275,
+            "level": 65,
             "name": "流年已逝",
             "registered": "2023年12月14日 下午7:43:26",
             "role_id": 63574105960312,
@@ -2909,6 +2925,19 @@
             "role_id": 63578401835387,
             "server_region": "time_travel"
         },
+        "63578401839642": {
+            "crew_id": 270582954450,
+            "crew_name": "绝幻",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 62151.0,
+            "last_seen": 1761463275,
+            "level": 30,
+            "name": "婷婷吧",
+            "registered": "2025年3月21日 下午7:07:13",
+            "role_id": 63578401839642,
+            "server_region": "time_travel"
+        },
         "63578401844346": {
             "crew_id": 0,
             "crew_name": "",
@@ -2966,6 +2995,19 @@
             "name": "器械科技",
             "registered": "2025年5月12日 下午3:32:39",
             "role_id": 63578401877946,
+            "server_region": "time_travel"
+        },
+        "63578401884854": {
+            "crew_id": 798863931858,
+            "crew_name": "★千年魔法使",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 500985.3125,
+            "last_seen": 1761463275,
+            "level": 64,
+            "name": "飞起几脚",
+            "registered": "2025年5月26日 下午5:38:06",
+            "role_id": 63578401884854,
             "server_region": "time_travel"
         },
         "63578401886197": {
@@ -3875,8 +3917,8 @@
             "server_region": "time_travel"
         }
     },
-    "accounts_total": 331,
+    "accounts_total": 334,
     "created": 1758107405,
-    "last_updated": 1761462974,
+    "last_updated": 1761463275,
     "server_region": "time_travel"
 }
