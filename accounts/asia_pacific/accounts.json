@@ -2055,8 +2055,11 @@
         "47274705080525": {
             "crew_id": 30064782079,
             "crew_name": "腐海ノ民",
+            "equipping_title": "HuntingRank_1;imitation_11;2",
             "gender": 0,
-            "last_seen": 1760274327,
+            "hp": 2816089.0,
+            "last_seen": 1761482158,
+            "level": 100,
             "name": "tkcs",
             "registered": "Aug 12, 2022, 4:09:20 PM",
             "role_id": 47274705080525,
@@ -3020,6 +3023,19 @@
             "role_id": 47291884903282,
             "server_region": "asia_pacific"
         },
+        "47291884907921": {
+            "crew_id": 794568960785,
+            "crew_name": "たまめいと",
+            "equipping_title": "1_3_1_4",
+            "gender": 1,
+            "hp": 2629678.25,
+            "last_seen": 1761482158,
+            "level": 100,
+            "name": "ジティナ",
+            "registered": "Aug 11, 2022, 10:23:57 AM",
+            "role_id": 47291884907921,
+            "server_region": "asia_pacific"
+        },
         "47291884908949": {
             "crew_id": 1138166344451,
             "crew_name": "FATO",
@@ -3124,8 +3140,8 @@
             "crew_name": "Various Colors葬",
             "equipping_title": "まっくす4's Mentor,0",
             "gender": 0,
-            "hp": 2277539.25,
-            "last_seen": 1760704342,
+            "hp": 2298154.75,
+            "last_seen": 1761482158,
             "level": 100,
             "name": "ミスター　ティ",
             "registered": "Aug 15, 2022, 5:20:46 PM",
@@ -6134,10 +6150,13 @@
             "server_region": "asia_pacific"
         },
         "47343426100186": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 6176162982659,
+            "crew_name": "月が綺麗ですね。",
+            "equipping_title": "2_12_1_1",
             "gender": 1,
-            "last_seen": 1758889712,
+            "hp": 2705977.25,
+            "last_seen": 1761482158,
+            "level": 100,
             "name": "そっくりさんin第三村",
             "registered": "Aug 8, 2023, 10:27:28 AM",
             "role_id": 47343426100186,
@@ -6261,6 +6280,19 @@
             "name": "＊Sinon＊",
             "registered": "Sep 2, 2023, 6:21:38 PM",
             "role_id": 47343426271051,
+            "server_region": "asia_pacific"
+        },
+        "47343426278001": {
+            "crew_id": 94489291516,
+            "crew_name": "Neko ⅽCafe",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1704247.125,
+            "last_seen": 1761482158,
+            "level": 100,
+            "name": "✿FiatLux ❀",
+            "registered": "Sep 3, 2023, 11:07:24 PM",
+            "role_id": 47343426278001,
             "server_region": "asia_pacific"
         },
         "47343426311532": {
@@ -6678,8 +6710,8 @@
             "crew_name": "腐海ノ民",
             "equipping_title": "2_2_0_15",
             "gender": 1,
-            "hp": 1747904.75,
-            "last_seen": 1761310981,
+            "hp": 1801950.0,
+            "last_seen": 1761482158,
             "level": 100,
             "name": "鷹司正接",
             "registered": "Feb 22, 2024, 10:03:34 AM",
@@ -7586,6 +7618,19 @@
             "name": "01ap",
             "registered": "Nov 29, 2024, 7:10:03 PM",
             "role_id": 47343427770185,
+            "server_region": "asia_pacific"
+        },
+        "47343427772961": {
+            "crew_id": 30064782079,
+            "crew_name": "腐海ノ民",
+            "equipping_title": "Title_iwshare_os_24",
+            "gender": 1,
+            "hp": 29247.412109375,
+            "last_seen": 1761482158,
+            "level": 100,
+            "name": "高嶺日陰蝶余弦",
+            "registered": "Dec 1, 2024, 7:26:35 PM",
+            "role_id": 47343427772961,
             "server_region": "asia_pacific"
         },
         "47343427773250": {
@@ -14401,8 +14446,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1344,
+    "accounts_total": 1347,
     "created": 1754829154,
-    "last_updated": 1761481978,
+    "last_updated": 1761482158,
     "server_region": "asia_pacific"
 }
