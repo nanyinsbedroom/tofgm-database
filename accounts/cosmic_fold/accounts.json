@@ -8856,13 +8856,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695856779": {
-            "crew_id": 34359753172,
-            "crew_name": "魔法少女",
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 575001.0625,
-            "last_seen": 1760889444,
-            "level": 61,
+            "hp": 680654.1875,
+            "last_seen": 1761548835,
+            "level": 65,
             "name": "loznes",
             "registered": "2025年9月25日 下午7:33:34",
             "role_id": 63582695856779,
@@ -15661,9 +15661,12 @@
         },
         "63582695862382": {
             "crew_id": 146028902868,
-            "crew_name": "NOVA学院",
+            "crew_name": "146028902868",
+            "equipping_title": "WorldBossDamage_1;急冻机甲;3",
             "gender": 1,
-            "last_seen": 1758906965,
+            "hp": 502563.125,
+            "last_seen": 1761548835,
+            "level": 65,
             "name": "伊莉雅丝菲尔",
             "registered": "2025年9月25日 下午10:13:46",
             "role_id": 63582695862382,
@@ -33038,6 +33041,19 @@
             "role_id": 63582695926834,
             "server_region": "cosmic_fold"
         },
+        "63582695926845": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 141626.59375,
+            "last_seen": 1761548835,
+            "level": 59,
+            "name": "玄宁",
+            "registered": "2025年10月13日 下午6:08:15",
+            "role_id": 63582695926845,
+            "server_region": "cosmic_fold"
+        },
         "63582695926882": {
             "crew_id": 0,
             "crew_name": "",
@@ -35066,6 +35082,19 @@
             "role_id": 63582695944209,
             "server_region": "cosmic_fold"
         },
+        "63582695944423": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 116164.203125,
+            "last_seen": 1761548835,
+            "level": 50,
+            "name": "野结衣二号",
+            "registered": "2025年10月27日 上午6:24:18",
+            "role_id": 63582695944423,
+            "server_region": "cosmic_fold"
+        },
         "63582695944585": {
             "crew_id": 0,
             "crew_name": "",
@@ -35080,8 +35109,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3135,
+    "accounts_total": 3137,
     "created": 1758803451,
-    "last_updated": 1761548466,
+    "last_updated": 1761548835,
     "server_region": "cosmic_fold"
 }
