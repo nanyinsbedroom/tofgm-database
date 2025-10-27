@@ -2251,8 +2251,11 @@
         "68736656635454": {
             "crew_id": 12884917892,
             "crew_name": "ELYSIUM",
+            "equipping_title": "1_5_1_1",
             "gender": 1,
-            "last_seen": 1757279128,
+            "hp": 2043823.5,
+            "last_seen": 1761560060,
+            "level": 100,
             "name": "xanite",
             "registered": "Aug 11, 2022, 8:26:14 PM",
             "role_id": 68736656635454,
@@ -4975,8 +4978,11 @@
         "68758131532974": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1754756152,
+            "hp": 2004821.125,
+            "last_seen": 1761560060,
+            "level": 100,
             "name": "Hazeell",
             "registered": "Aug 18, 2022, 5:04:06 AM",
             "role_id": 68758131532974,
@@ -18390,6 +18396,6 @@
     },
     "accounts_total": 1653,
     "created": 1753795148,
-    "last_updated": 1761559820,
+    "last_updated": 1761560060,
     "server_region": "southeast_asia"
 }
