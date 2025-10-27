@@ -14674,8 +14674,11 @@
         "63582695861341": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759603166,
+            "hp": 273031.0,
+            "last_seen": 1761552203,
+            "level": 61,
             "name": "仁",
             "registered": "2025年9月25日 下午9:37:46",
             "role_id": 63582695861341,
@@ -24884,6 +24887,19 @@
             "name": "十号荒天帝",
             "registered": "2025年9月27日 下午7:19:11",
             "role_id": 63582695879763,
+            "server_region": "cosmic_fold"
+        },
+        "63582695879768": {
+            "crew_id": 730144455124,
+            "crew_name": "新人频道",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 500602.84375,
+            "last_seen": 1761552203,
+            "level": 62,
+            "name": "奈叶",
+            "registered": "2025年9月27日 下午7:19:31",
+            "role_id": 63582695879768,
             "server_region": "cosmic_fold"
         },
         "63582695879833": {
@@ -35945,8 +35961,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3199,
+    "accounts_total": 3200,
     "created": 1758803451,
-    "last_updated": 1761552143,
+    "last_updated": 1761552203,
     "server_region": "cosmic_fold"
 }
