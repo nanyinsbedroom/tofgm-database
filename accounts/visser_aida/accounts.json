@@ -502,8 +502,11 @@
         "60567630272169": {
             "crew_id": 270582953855,
             "crew_name": "不氪金联盟",
+            "equipping_title": "1_8_0_35",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 1569281.25,
+            "last_seen": 1761572274,
+            "level": 100,
             "name": "烽火裁决",
             "registered": "2024年7月3日 下午4:28:58",
             "role_id": 60567630272169,
@@ -2589,6 +2592,19 @@
             "role_id": 60627758410909,
             "server_region": "visser_aida"
         },
+        "60627758599263": {
+            "crew_id": 270582953855,
+            "crew_name": "不氪金联盟",
+            "equipping_title": "2_10_1_6",
+            "gender": 1,
+            "hp": 1824051.0,
+            "last_seen": 1761572274,
+            "level": 100,
+            "name": "温柔半两__",
+            "registered": "2022年7月6日 下午1:09:21",
+            "role_id": 60627758599263,
+            "server_region": "visser_aida"
+        },
         "60627758852554": {
             "crew_id": 249108117292,
             "crew_name": "晚风",
@@ -3917,12 +3933,12 @@
         "61078729937270": {
             "crew_id": 833223669626,
             "crew_name": "天空之城",
-            "equipping_title": "i波奇酱i的学徒,0",
+            "equipping_title": "月西江的导师,0",
             "gender": 1,
             "hp": 2514255.75,
-            "last_seen": 1760971674,
+            "last_seen": 1761572274,
             "level": 100,
-            "name": "后藤二里”",
+            "name": "七月兮",
             "registered": "2021年12月16日 下午1:22:31",
             "role_id": 61078729937270,
             "server_region": "visser_aida"
@@ -4427,7 +4443,7 @@
             "equipping_title": "龙幽悠的后继者,1",
             "gender": 1,
             "hp": 1965622.25,
-            "last_seen": 1761567844,
+            "last_seen": 1761572274,
             "level": 100,
             "name": "热甜饼和冷牛奶",
             "registered": "2021年12月16日 下午3:44:00",
@@ -5732,8 +5748,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 520,
+    "accounts_total": 521,
     "created": 1758086949,
-    "last_updated": 1761572154,
+    "last_updated": 1761572274,
     "server_region": "visser_aida"
 }
