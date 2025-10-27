@@ -5052,8 +5052,11 @@
         "55963424561859": {
             "crew_id": 777389093596,
             "crew_name": "Tea Syndicate",
+            "equipping_title": "Title_tencentshare_os_17",
             "gender": 0,
-            "last_seen": 1756838115,
+            "hp": 1837793.5,
+            "last_seen": 1761601186,
+            "level": 100,
             "name": "xddvideos.com",
             "registered": "Jun 2, 2024, 8:04:12 PM",
             "role_id": 55963424561859,
@@ -7044,6 +7047,19 @@
             "role_id": 55963424733513,
             "server_region": "europe"
         },
+        "55963424733818": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2015.3968505859375,
+            "last_seen": 1761601186,
+            "level": 7,
+            "name": "Crustay",
+            "registered": "Oct 27, 2025, 7:29:27 PM",
+            "role_id": 55963424733818,
+            "server_region": "europe"
+        },
         "55963424733840": {
             "crew_id": 0,
             "crew_name": "",
@@ -7450,8 +7466,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 672,
+    "accounts_total": 673,
     "created": 1753816624,
-    "last_updated": 1761601065,
+    "last_updated": 1761601186,
     "server_region": "europe"
 }
