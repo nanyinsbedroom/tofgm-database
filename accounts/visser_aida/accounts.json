@@ -950,6 +950,19 @@
             "role_id": 60567630863851,
             "server_region": "visser_aida"
         },
+        "60567630864601": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 764964.9375,
+            "last_seen": 1761567001,
+            "level": 64,
+            "name": "AnywaySJ",
+            "registered": "2025年10月16日 下午8:16:51",
+            "role_id": 60567630864601,
+            "server_region": "visser_aida"
+        },
         "60567630864700": {
             "crew_id": 0,
             "crew_name": "",
@@ -2224,8 +2237,11 @@
         "60644938227257": {
             "crew_id": 571230664488,
             "crew_name": "咸鱼几条",
+            "equipping_title": "3_2021",
             "gender": 1,
-            "last_seen": 1758124357,
+            "hp": 948145.8125,
+            "last_seen": 1761567001,
+            "level": 100,
             "name": "江姜酱",
             "registered": "2021年12月16日 上午8:55:19",
             "role_id": 60644938227257,
@@ -4587,8 +4603,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 437,
+    "accounts_total": 438,
     "created": 1758086949,
-    "last_updated": 1761566941,
+    "last_updated": 1761567001,
     "server_region": "visser_aida"
 }
