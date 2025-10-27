@@ -253,8 +253,11 @@
         "55838869985629": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
+            "equipping_title": "1_1_17_1",
             "gender": 1,
-            "last_seen": 1757960661,
+            "hp": 2080600.75,
+            "last_seen": 1761603607,
+            "level": 100,
             "name": "Apostassya",
             "registered": "Feb 26, 2023, 1:35:41 PM",
             "role_id": 55838869985629,
@@ -2443,6 +2446,19 @@
             "name": "Caellum",
             "registered": "Aug 11, 2022, 9:28:42 AM",
             "role_id": 55881819508055,
+            "server_region": "europe"
+        },
+        "55881819652554": {
+            "crew_id": 64424522451,
+            "crew_name": "Moonlight",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2249942.75,
+            "last_seen": 1761603607,
+            "level": 100,
+            "name": "DoomKelly",
+            "registered": "Aug 16, 2022, 1:40:10 AM",
+            "role_id": 55881819652554,
             "server_region": "europe"
         },
         "55881819667306": {
@@ -7903,8 +7919,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 705,
+    "accounts_total": 706,
     "created": 1753816624,
-    "last_updated": 1761603487,
+    "last_updated": 1761603607,
     "server_region": "europe"
 }
