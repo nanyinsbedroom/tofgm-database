@@ -642,8 +642,11 @@
         "55851754725560": {
             "crew_id": 781684060899,
             "crew_name": "Heavens Souls",
+            "equipping_title": "NicoNicoNii's Enlightener,1",
             "gender": 1,
-            "last_seen": 1759610477,
+            "hp": 2970400.25,
+            "last_seen": 1761603187,
+            "level": 100,
             "name": "Angostura",
             "registered": "Aug 11, 2022, 2:31:46 AM",
             "role_id": 55851754725560,
@@ -869,8 +872,11 @@
         "55856049693053": {
             "crew_id": 274877919949,
             "crew_name": "HANAMI",
+            "equipping_title": "HuntingRank_1;imitation_17;1",
             "gender": 1,
-            "last_seen": 1755978094,
+            "hp": 2748179.5,
+            "last_seen": 1761603187,
+            "level": 100,
             "name": " Enju ",
             "registered": "Aug 11, 2022, 2:34:40 AM",
             "role_id": 55856049693053,
@@ -2273,8 +2279,8 @@
             "crew_name": "Harmony",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 1269844.25,
-            "last_seen": 1760374942,
+            "hp": 2574892.25,
+            "last_seen": 1761603187,
             "level": 100,
             "name": "Dai Mashuhime",
             "registered": "Aug 11, 2022, 3:06:17 AM",
@@ -2368,6 +2374,19 @@
             "name": "Melti",
             "registered": "Aug 11, 2022, 2:03:11 AM",
             "role_id": 55881819492596,
+            "server_region": "europe"
+        },
+        "55881819493574": {
+            "crew_id": 489626284754,
+            "crew_name": "PapuArmy",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2012757.75,
+            "last_seen": 1761603187,
+            "level": 100,
+            "name": " Ari16",
+            "registered": "Aug 11, 2022, 2:13:34 AM",
+            "role_id": 55881819493574,
             "server_region": "europe"
         },
         "55881819506489": {
@@ -2559,6 +2578,19 @@
             "name": "Freistunde",
             "registered": "Aug 11, 2022, 10:20:03 AM",
             "role_id": 55886114490177,
+            "server_region": "europe"
+        },
+        "55886114496799": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "1_8_1_1",
+            "gender": 0,
+            "hp": 2688614.5,
+            "last_seen": 1761603187,
+            "level": 100,
+            "name": "Alpakami",
+            "registered": "Aug 11, 2022, 7:13:03 PM",
+            "role_id": 55886114496799,
             "server_region": "europe"
         },
         "55886114497003": {
@@ -4598,6 +4630,19 @@
             "role_id": 55963424208549,
             "server_region": "europe"
         },
+        "55963424211325": {
+            "crew_id": 73014457035,
+            "crew_name": "Чистилище",
+            "equipping_title": " Shi's Enlightener,1",
+            "gender": 1,
+            "hp": 2514573.75,
+            "last_seen": 1761603187,
+            "level": 100,
+            "name": "SouLost",
+            "registered": "Sep 7, 2023, 10:20:37 PM",
+            "role_id": 55963424211325,
+            "server_region": "europe"
+        },
         "55963424220982": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
@@ -6456,10 +6501,13 @@
             "server_region": "europe"
         },
         "55963424724222": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 489626284753,
+            "crew_name": "Serenity",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757786069,
+            "hp": 1112453.25,
+            "last_seen": 1761603187,
+            "level": 100,
             "name": "JohnPWG",
             "registered": "Aug 31, 2025, 11:01:36 PM",
             "role_id": 55963424724222,
@@ -7800,8 +7848,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 698,
+    "accounts_total": 701,
     "created": 1753816624,
-    "last_updated": 1761603126,
+    "last_updated": 1761603187,
     "server_region": "europe"
 }
