@@ -5482,8 +5482,11 @@
         "63582695853511": {
             "crew_id": 81604393428,
             "crew_name": "子凝",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758900608,
+            "hp": 459797.21875,
+            "last_seen": 1761550759,
+            "level": 63,
             "name": "江小鱼丿",
             "registered": "2025年9月25日 下午6:44:58",
             "role_id": 63582695853511,
@@ -21082,8 +21085,11 @@
         "63582695870324": {
             "crew_id": 60129556948,
             "crew_name": "舟有舟道",
+            "equipping_title": "WorldBossDamage_4;晦暝·饕餮;37",
             "gender": 1,
-            "last_seen": 1760225635,
+            "hp": 623665.3125,
+            "last_seen": 1761550759,
+            "level": 65,
             "name": "FLAST",
             "registered": "2025年9月26日 下午4:54:47",
             "role_id": 63582695870324,
@@ -31640,6 +31646,19 @@
             "role_id": 63582695916867,
             "server_region": "cosmic_fold"
         },
+        "63582695916899": {
+            "crew_id": 154618837460,
+            "crew_name": "十月天宫",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 562283.875,
+            "last_seen": 1761550759,
+            "level": 64,
+            "name": "草莓二代",
+            "registered": "2025年10月7日 下午6:37:04",
+            "role_id": 63582695916899,
+            "server_region": "cosmic_fold"
+        },
         "63582695916930": {
             "crew_id": 730144455124,
             "crew_name": "新人频道",
@@ -32531,6 +32550,19 @@
             "name": "赵磊007",
             "registered": "2025年10月11日 上午4:02:50",
             "role_id": 63582695923157,
+            "server_region": "cosmic_fold"
+        },
+        "63582695923187": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110977.203125,
+            "last_seen": 1761550759,
+            "level": 63,
+            "name": "红光大佬",
+            "registered": "2025年10月11日 上午5:33:42",
+            "role_id": 63582695923187,
             "server_region": "cosmic_fold"
         },
         "63582695923357": {
@@ -35534,8 +35566,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3169,
+    "accounts_total": 3171,
     "created": 1758803451,
-    "last_updated": 1761550699,
+    "last_updated": 1761550759,
     "server_region": "cosmic_fold"
 }
