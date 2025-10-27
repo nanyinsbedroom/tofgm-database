@@ -556,7 +556,7 @@
             "equipping_title": "2_10_1_5",
             "gender": 1,
             "hp": 2030531.0,
-            "last_seen": 1761567904,
+            "last_seen": 1761568076,
             "level": 100,
             "name": "苏渘",
             "registered": "2024年9月5日 下午3:20:04",
@@ -2675,7 +2675,7 @@
             "equipping_title": "2_12_1_1",
             "gender": 1,
             "hp": 1943023.125,
-            "last_seen": 1761567121,
+            "last_seen": 1761568076,
             "level": 100,
             "name": "地狱猫#a#a",
             "registered": "2021年12月25日 上午12:44:13",
@@ -3429,7 +3429,7 @@
             "equipping_title": "1_8_0_33",
             "gender": 1,
             "hp": 2489928.5,
-            "last_seen": 1761567784,
+            "last_seen": 1761568076,
             "level": 100,
             "name": "白無御靈",
             "registered": "2021年12月16日 上午10:04:36",
@@ -3495,8 +3495,11 @@
         "61083024910664": {
             "crew_id": 154618836860,
             "crew_name": "幻月之境",
+            "equipping_title": "2_2_0_11",
             "gender": 1,
-            "last_seen": 1759404203,
+            "hp": 2298920.5,
+            "last_seen": 1761568076,
+            "level": 100,
             "name": "夏心怡",
             "registered": "2021年12月16日 下午5:33:50",
             "role_id": 61083024910664,
@@ -4916,6 +4919,19 @@
             "role_id": 62736587522714,
             "server_region": "visser_aida"
         },
+        "62736587566158": {
+            "crew_id": 2486786078600,
+            "crew_name": "奥林匹斯",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2219267.0,
+            "last_seen": 1761568076,
+            "level": 100,
+            "name": "羲王",
+            "registered": "2023年1月27日 下午10:24:49",
+            "role_id": 62736587566158,
+            "server_region": "visser_aida"
+        },
         "62745177305146": {
             "crew_id": 1958505101084,
             "crew_name": "星海旅人",
@@ -5037,8 +5053,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 470,
+    "accounts_total": 471,
     "created": 1758086949,
-    "last_updated": 1761567904,
+    "last_updated": 1761568076,
     "server_region": "visser_aida"
 }
