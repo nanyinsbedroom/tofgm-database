@@ -46,8 +46,11 @@
         "63582695849998": {
             "crew_id": 17179883988,
             "crew_name": "月影",
+            "equipping_title": "1_4_7_3",
             "gender": 1,
-            "last_seen": 1758902135,
+            "hp": 468997.25,
+            "last_seen": 1761550639,
+            "level": 65,
             "name": "青玉案",
             "registered": "2025年9月25日 下午6:01:29",
             "role_id": 63582695849998,
@@ -1447,6 +1450,19 @@
             "name": "小心火烛",
             "registered": "2025年9月25日 下午6:09:35",
             "role_id": 63582695850768,
+            "server_region": "cosmic_fold"
+        },
+        "63582695850771": {
+            "crew_id": 34359753172,
+            "crew_name": "魔法少女",
+            "equipping_title": "2_8_0_6",
+            "gender": 1,
+            "hp": 679871.5625,
+            "last_seen": 1761550639,
+            "level": 65,
+            "name": "音无zzz",
+            "registered": "2025年9月25日 下午6:09:38",
+            "role_id": 63582695850771,
             "server_region": "cosmic_fold"
         },
         "63582695850786": {
@@ -6323,6 +6339,19 @@
             "role_id": 63582695854073,
             "server_region": "cosmic_fold"
         },
+        "63582695854097": {
+            "crew_id": 25769818580,
+            "crew_name": "破晓",
+            "equipping_title": "2_2_0_19",
+            "gender": 1,
+            "hp": 679778.375,
+            "last_seen": 1761550639,
+            "level": 64,
+            "name": "烛天南",
+            "registered": "2025年9月25日 下午6:54:06",
+            "role_id": 63582695854097,
+            "server_region": "cosmic_fold"
+        },
         "63582695854101": {
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
@@ -7081,6 +7110,19 @@
             "name": "终末",
             "registered": "2025年9月25日 下午7:05:10",
             "role_id": 63582695855051,
+            "server_region": "cosmic_fold"
+        },
+        "63582695855094": {
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "纳西妲的兰那罗的导师,0",
+            "gender": 1,
+            "hp": 592136.1875,
+            "last_seen": 1761550639,
+            "level": 65,
+            "name": "清晨阳光和你",
+            "registered": "2025年9月25日 下午7:05:46",
+            "role_id": 63582695855094,
             "server_region": "cosmic_fold"
         },
         "63582695855095": {
@@ -8175,7 +8217,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 677966.3125,
-            "last_seen": 1761548405,
+            "last_seen": 1761550639,
             "level": 65,
             "name": "粥粥还是周周",
             "registered": "2025年9月25日 下午7:22:58",
@@ -20615,11 +20657,11 @@
         "63582695869271": {
             "crew_id": 38654720468,
             "crew_name": "萌团",
-            "equipping_title": "WorldBossDamage_4;晦暝·姹鲛;38",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 496047.03125,
-            "last_seen": 1760773596,
-            "level": 61,
+            "hp": 609482.625,
+            "last_seen": 1761550639,
+            "level": 64,
             "name": "王曦芽儿油",
             "registered": "2025年9月26日 下午2:29:31",
             "role_id": 63582695869271,
@@ -21322,6 +21364,19 @@
             "name": "冲鸭",
             "registered": "2025年9月26日 下午6:28:33",
             "role_id": 63582695871105,
+            "server_region": "cosmic_fold"
+        },
+        "63582695871187": {
+            "crew_id": 261993019860,
+            "crew_name": "幻想乡",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 384599.375,
+            "last_seen": 1761550639,
+            "level": 63,
+            "name": "汀",
+            "registered": "2025年9月26日 下午6:37:40",
+            "role_id": 63582695871187,
             "server_region": "cosmic_fold"
         },
         "63582695871251": {
@@ -32120,6 +32175,19 @@
             "role_id": 63582695921408,
             "server_region": "cosmic_fold"
         },
+        "63582695921439": {
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 501330.4375,
+            "last_seen": 1761550639,
+            "level": 65,
+            "name": "信浓",
+            "registered": "2025年10月9日 下午11:21:35",
+            "role_id": 63582695921439,
+            "server_region": "cosmic_fold"
+        },
         "63582695921486": {
             "crew_id": 0,
             "crew_name": "",
@@ -35388,8 +35456,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3158,
+    "accounts_total": 3163,
     "created": 1758803451,
-    "last_updated": 1761549316,
+    "last_updated": 1761550639,
     "server_region": "cosmic_fold"
 }
