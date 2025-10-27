@@ -162,8 +162,11 @@
         "60567628827891": {
             "crew_id": 120259098390,
             "crew_name": "茶馆",
+            "equipping_title": "1_2021",
             "gender": 1,
-            "last_seen": 1759406619,
+            "hp": 2546428.25,
+            "last_seen": 1761568256,
+            "level": 100,
             "name": "狩猎神明的猎人",
             "registered": "2021年12月16日 下午12:10:57",
             "role_id": 60567628827891,
@@ -461,6 +464,19 @@
             "role_id": 60567630272169,
             "server_region": "visser_aida"
         },
+        "60567630276196": {
+            "crew_id": 103079229226,
+            "crew_name": "星陨阁",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 1802843.625,
+            "last_seen": 1761568256,
+            "level": 100,
+            "name": "Candy羽",
+            "registered": "2024年7月9日 下午7:23:37",
+            "role_id": 60567630276196,
+            "server_region": "visser_aida"
+        },
         "60567630278756": {
             "crew_id": 68719491049,
             "crew_name": "提瓦特料理",
@@ -597,6 +613,19 @@
             "name": "ItsArtter",
             "registered": "2024年9月26日 下午2:45:20",
             "role_id": 60567630491276,
+            "server_region": "visser_aida"
+        },
+        "60567630492230": {
+            "crew_id": 438086678307,
+            "crew_name": "墨影千秋",
+            "equipping_title": "2_10_1_5",
+            "gender": 0,
+            "hp": 1788875.125,
+            "last_seen": 1761568256,
+            "level": 100,
+            "name": "本小白",
+            "registered": "2024年10月1日 下午3:41:38",
+            "role_id": 60567630492230,
             "server_region": "visser_aida"
         },
         "60567630493009": {
@@ -1403,6 +1432,19 @@
             "role_id": 60584808690879,
             "server_region": "visser_aida"
         },
+        "60584808700123": {
+            "crew_id": 1958505101084,
+            "crew_name": "星海旅人",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 2131611.75,
+            "last_seen": 1761568256,
+            "level": 100,
+            "name": "坠落の地狱火",
+            "registered": "2021年12月16日 下午3:57:34",
+            "role_id": 60584808700123,
+            "server_region": "visser_aida"
+        },
         "60584808758493": {
             "crew_id": 296352757530,
             "crew_name": "桃源仙境",
@@ -1810,6 +1852,19 @@
             "name": "看看尼的",
             "registered": "2022年12月30日 下午2:16:09",
             "role_id": 60597694526640,
+            "server_region": "visser_aida"
+        },
+        "60597694670463": {
+            "crew_id": 1395864385310,
+            "crew_name": "柑蕉桔梨萝柚",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2262468.75,
+            "last_seen": 1761568256,
+            "level": 100,
+            "name": "鱼渺渺",
+            "registered": "2023年3月3日 上午7:54:23",
+            "role_id": 60597694670463,
             "server_region": "visser_aida"
         },
         "60597694741269": {
@@ -2561,6 +2616,19 @@
             "role_id": 60644938243057,
             "server_region": "visser_aida"
         },
+        "60644938261746": {
+            "crew_id": 1271310333719,
+            "crew_name": "绝幻",
+            "equipping_title": "1_6_1_2",
+            "gender": 1,
+            "hp": 2297057.5,
+            "last_seen": 1761568256,
+            "level": 100,
+            "name": "卡嘉丽的梦",
+            "registered": "2021年12月18日 上午3:07:42",
+            "role_id": 60644938261746,
+            "server_region": "visser_aida"
+        },
         "60644938280405": {
             "crew_id": 12884916007,
             "crew_name": "丨神芸学都丨",
@@ -2805,7 +2873,7 @@
             "equipping_title": "2_10_3_1",
             "gender": 1,
             "hp": 2602727.0,
-            "last_seen": 1761567494,
+            "last_seen": 1761568256,
             "level": 100,
             "name": "月泷千辰",
             "registered": "2021年12月16日 下午8:03:42",
@@ -5237,8 +5305,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 484,
+    "accounts_total": 489,
     "created": 1758086949,
-    "last_updated": 1761568196,
+    "last_updated": 1761568256,
     "server_region": "visser_aida"
 }
