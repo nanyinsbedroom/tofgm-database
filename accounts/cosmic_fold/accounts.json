@@ -23712,8 +23712,8 @@
             "crew_name": "群星",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 649804.5625,
-            "last_seen": 1761548466,
+            "hp": 580971.5,
+            "last_seen": 1761549015,
             "level": 65,
             "name": "Phantom",
             "registered": "2025年9月27日 上午8:26:33",
@@ -24133,7 +24133,7 @@
             "equipping_title": "1_6_2_1",
             "gender": 1,
             "hp": 335870.78125,
-            "last_seen": 1761548405,
+            "last_seen": 1761549015,
             "level": 65,
             "name": "王登登",
             "registered": "2025年9月27日 下午2:56:41",
@@ -25313,6 +25313,19 @@
             "name": "尤璃",
             "registered": "2025年9月28日 上午11:46:31",
             "role_id": 63582695883364,
+            "server_region": "cosmic_fold"
+        },
+        "63582695883497": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "1_3_2_1",
+            "gender": 1,
+            "hp": 401344.9375,
+            "last_seen": 1761549015,
+            "level": 65,
+            "name": "ayash",
+            "registered": "2025年9月28日 下午12:19:48",
+            "role_id": 63582695883497,
             "server_region": "cosmic_fold"
         },
         "63582695883547": {
@@ -31631,6 +31644,19 @@
             "role_id": 63582695918271,
             "server_region": "cosmic_fold"
         },
+        "63582695918343": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 195082.796875,
+            "last_seen": 1761549015,
+            "level": 57,
+            "name": "晓绪",
+            "registered": "2025年10月8日 上午10:22:05",
+            "role_id": 63582695918343,
+            "server_region": "cosmic_fold"
+        },
         "63582695918386": {
             "crew_id": 0,
             "crew_name": "",
@@ -35232,8 +35258,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3146,
+    "accounts_total": 3148,
     "created": 1758803451,
-    "last_updated": 1761548955,
+    "last_updated": 1761549015,
     "server_region": "cosmic_fold"
 }
