@@ -2515,8 +2515,11 @@
         "55886114473178": {
             "crew_id": 2138893726420,
             "crew_name": "Architects",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757963183,
+            "hp": 2120699.75,
+            "last_seen": 1761603126,
+            "level": 100,
             "name": "karkar.",
             "registered": "Aug 11, 2022, 5:47:39 AM",
             "role_id": 55886114473178,
@@ -2995,8 +2998,11 @@
         "55898999370760": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
+            "equipping_title": "Allynna's Apprentice,0",
             "gender": 1,
-            "last_seen": 1759525567,
+            "hp": 2654118.5,
+            "last_seen": 1761603126,
+            "level": 100,
             "name": "Erufu",
             "registered": "Aug 11, 2022, 5:05:01 AM",
             "role_id": 55898999370760,
@@ -4110,8 +4116,8 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "DarkBaum's Apprentice,0",
             "gender": 1,
-            "hp": 1932015.75,
-            "last_seen": 1761410918,
+            "hp": 1979091.5,
+            "last_seen": 1761603126,
             "level": 100,
             "name": "Enfer",
             "registered": "Aug 11, 2022, 6:34:22 PM",
@@ -4183,7 +4189,7 @@
             "equipping_title": "Tencent_Sever_85",
             "gender": 0,
             "hp": 2007090.5,
-            "last_seen": 1760375756,
+            "last_seen": 1761603126,
             "level": 100,
             "name": "Wouter",
             "registered": "Aug 12, 2022, 2:00:20 PM",
@@ -4215,8 +4221,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2005832.875,
-            "last_seen": 1760458876,
+            "hp": 2011936.75,
+            "last_seen": 1761603126,
             "level": 100,
             "name": "CoolSam",
             "registered": "Aug 18, 2022, 6:01:38 PM",
@@ -4281,8 +4287,8 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "Enfer's Mentor,0",
             "gender": 0,
-            "hp": 2432063.0,
-            "last_seen": 1761410918,
+            "hp": 2467873.0,
+            "last_seen": 1761603126,
             "level": 100,
             "name": "DarkBaum",
             "registered": "Aug 12, 2022, 5:41:01 PM",
@@ -4531,6 +4537,19 @@
             "name": "Sdellie",
             "registered": "Aug 7, 2023, 4:33:37 PM",
             "role_id": 55963424137139,
+            "server_region": "europe"
+        },
+        "55963424146217": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 205388.53125,
+            "last_seen": 1761603126,
+            "level": 31,
+            "name": "losss",
+            "registered": "Aug 10, 2023, 4:19:43 PM",
+            "role_id": 55963424146217,
             "server_region": "europe"
         },
         "55963424177597": {
@@ -7219,6 +7238,19 @@
             "role_id": 55963424733410,
             "server_region": "europe"
         },
+        "55963424733450": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13310.8505859375,
+            "last_seen": 1761603126,
+            "level": 29,
+            "name": "Veilora",
+            "registered": "Oct 25, 2025, 7:06:14 AM",
+            "role_id": 55963424733450,
+            "server_region": "europe"
+        },
         "55963424733493": {
             "crew_id": 0,
             "crew_name": "",
@@ -7768,8 +7800,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 696,
+    "accounts_total": 698,
     "created": 1753816624,
-    "last_updated": 1761603066,
+    "last_updated": 1761603126,
     "server_region": "europe"
 }
