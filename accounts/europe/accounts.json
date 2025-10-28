@@ -2071,8 +2071,11 @@
         "55868934606450": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
+            "equipping_title": "Overseas2_10",
             "gender": 0,
-            "last_seen": 1757796239,
+            "hp": 2125576.0,
+            "last_seen": 1761670950,
+            "level": 100,
             "name": "PSL95",
             "registered": "Aug 11, 2022, 10:05:04 AM",
             "role_id": 55868934606450,
@@ -2745,6 +2748,19 @@
             "role_id": 55886114490177,
             "server_region": "europe"
         },
+        "55886114493852": {
+            "crew_id": 2697239474913,
+            "crew_name": "Asylum",
+            "equipping_title": "1_1_14_1",
+            "gender": 0,
+            "hp": 2463880.75,
+            "last_seen": 1761670950,
+            "level": 100,
+            "name": "ApophisVio",
+            "registered": "Aug 11, 2022, 1:49:21 PM",
+            "role_id": 55886114493852,
+            "server_region": "europe"
+        },
         "55886114496799": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
@@ -3044,10 +3060,10 @@
         "55894704439115": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "2_2_0_23",
+            "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": 1760375876,
+            "hp": 2618909.5,
+            "last_seen": 1761670950,
             "level": 100,
             "name": "Silmeria​",
             "registered": "Aug 12, 2022, 6:46:13 PM",
@@ -8308,8 +8324,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 735,
+    "accounts_total": 736,
     "created": 1753816624,
-    "last_updated": 1761670830,
+    "last_updated": 1761670950,
     "server_region": "europe"
 }
