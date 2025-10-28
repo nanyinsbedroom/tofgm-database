@@ -1213,8 +1213,11 @@
         "55856049770402": {
             "crew_id": 2538325684941,
             "crew_name": "  ",
+            "equipping_title": "Neyara的启迪人,1",
             "gender": 0,
-            "last_seen": 1757188758,
+            "hp": 2880099.0,
+            "last_seen": 1761675208,
+            "level": 100,
             "name": "Anarchy7",
             "registered": "Aug 20, 2022, 7:44:33 PM",
             "role_id": 55856049770402,
@@ -3296,6 +3299,45 @@
             "role_id": 55898999393659,
             "server_region": "europe"
         },
+        "55898999501751": {
+            "crew_id": 5012226847451,
+            "crew_name": "Sleepless Roses",
+            "equipping_title": "1_6_0_1",
+            "gender": 1,
+            "hp": 2050928.625,
+            "last_seen": 1761675208,
+            "level": 100,
+            "name": "NicoIe",
+            "registered": "Jan 25, 2023, 5:27:34 PM",
+            "role_id": 55898999501751,
+            "server_region": "europe"
+        },
+        "55898999501773": {
+            "crew_id": 5012226847451,
+            "crew_name": "Sleepless Roses",
+            "equipping_title": "3_2023",
+            "gender": 0,
+            "hp": 1647836.25,
+            "last_seen": 1761675208,
+            "level": 100,
+            "name": "Carter.*",
+            "registered": "Jan 25, 2023, 9:24:43 PM",
+            "role_id": 55898999501773,
+            "server_region": "europe"
+        },
+        "55898999501801": {
+            "crew_id": 5012226847451,
+            "crew_name": "Sleepless Roses",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1610436.125,
+            "last_seen": 1761675208,
+            "level": 100,
+            "name": "Danny ♡",
+            "registered": "Jan 26, 2023, 5:27:45 PM",
+            "role_id": 55898999501801,
+            "server_region": "europe"
+        },
         "55903294334802": {
             "crew_id": 296352756428,
             "crew_name": "Celerity",
@@ -5028,6 +5070,19 @@
             "name": "Ingetiondr$",
             "registered": "Nov 7, 2023, 10:58:20 PM",
             "role_id": 55963424305710,
+            "server_region": "europe"
+        },
+        "55963424321551": {
+            "crew_id": 2538325684941,
+            "crew_name": "  ",
+            "equipping_title": "Anarchy7的启迪人,1",
+            "gender": 1,
+            "hp": 1923786.125,
+            "last_seen": 1761675208,
+            "level": 100,
+            "name": "雪片",
+            "registered": "Nov 18, 2023, 6:44:46 PM",
+            "role_id": 55963424321551,
             "server_region": "europe"
         },
         "55963424322611": {
@@ -8405,8 +8460,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 742,
+    "accounts_total": 746,
     "created": 1753816624,
-    "last_updated": 1761675147,
+    "last_updated": 1761675208,
     "server_region": "europe"
 }
