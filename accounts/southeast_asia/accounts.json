@@ -681,10 +681,10 @@
         "68723771891517": {
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
-            "equipping_title": "HuntingRank_1;imitation_21;1",
+            "equipping_title": "2_2_0_21",
             "gender": 1,
             "hp": 2189673.75,
-            "last_seen": 1761512594,
+            "last_seen": 1761651514,
             "level": 100,
             "name": "pmeimei",
             "registered": "Jun 10, 2023, 4:47:40 PM",
@@ -5659,8 +5659,11 @@
         "68762426413788": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_8_0_32",
             "gender": 0,
-            "last_seen": 1758536256,
+            "hp": 2696244.75,
+            "last_seen": 1761651514,
+            "level": 100,
             "name": "Chef Coral",
             "registered": "Aug 11, 2022, 8:13:27 AM",
             "role_id": 68762426413788,
@@ -5940,8 +5943,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2414247.0,
-            "last_seen": 1761488522,
+            "hp": 2414247.25,
+            "last_seen": 1761651514,
             "level": 100,
             "name": "eScaρe",
             "registered": "Aug 12, 2022, 7:00:12 AM",
@@ -6889,6 +6892,19 @@
             "name": "Tokitsune",
             "registered": "Aug 11, 2022, 7:59:36 AM",
             "role_id": 68771016344692,
+            "server_region": "southeast_asia"
+        },
+        "68771016347530": {
+            "crew_id": 2555505557133,
+            "crew_name": "Moonheart",
+            "equipping_title": "Tencent_Sever_122",
+            "gender": 0,
+            "hp": 2310106.0,
+            "last_seen": 1761651514,
+            "level": 100,
+            "name": "Hardwell",
+            "registered": "Aug 11, 2022, 8:23:43 AM",
+            "role_id": 68771016347530,
             "server_region": "southeast_asia"
         },
         "68771016348345": {
@@ -13146,13 +13162,13 @@
             "server_region": "southeast_asia"
         },
         "68775311753359": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "HuntingRank_2;imitation_12;9",
+            "crew_id": 124554067597,
+            "crew_name": "Infinite TH",
+            "equipping_title": "HuntingRank_3;imitation_46;13",
             "gender": 0,
-            "hp": 1365155.0,
-            "last_seen": 1761155137,
-            "level": 97,
+            "hp": 1426290.25,
+            "last_seen": 1761651514,
+            "level": 99,
             "name": "Oguri Cap",
             "registered": "Oct 1, 2025, 2:45:00 PM",
             "role_id": 68775311753359,
@@ -14227,13 +14243,13 @@
             "server_region": "southeast_asia"
         },
         "68775311755033": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 3414499016329,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_6_3_1",
             "gender": 1,
-            "hp": 10404.3935546875,
-            "last_seen": 1760717765,
-            "level": 16,
+            "hp": 697083.0,
+            "last_seen": 1761651514,
+            "level": 81,
             "name": "Kokooo",
             "registered": "Oct 17, 2025, 10:04:52 PM",
             "role_id": 68775311755033,
@@ -18717,8 +18733,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1676,
+    "accounts_total": 1677,
     "created": 1753795148,
-    "last_updated": 1761650920,
+    "last_updated": 1761651514,
     "server_region": "southeast_asia"
 }
