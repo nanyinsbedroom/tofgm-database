@@ -36,8 +36,11 @@
         "47248935239518": {
             "crew_id": 12884912889,
             "crew_name": "幻塔ファミリア",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "last_seen": 1760025031,
+            "hp": 3292281.5,
+            "last_seen": 1761676892,
+            "level": 100,
             "name": "ヒロポニン",
             "registered": "Aug 11, 2022, 10:40:35 AM",
             "role_id": 47248935239518,
@@ -6127,6 +6130,19 @@
             "role_id": 47343424606249,
             "server_region": "asia_pacific"
         },
+        "47343424612039": {
+            "crew_id": 7593502190329,
+            "crew_name": "Luminescence",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2118376.5,
+            "last_seen": 1761676892,
+            "level": 100,
+            "name": "WhateverWe",
+            "registered": "Aug 31, 2022, 6:07:32 PM",
+            "role_id": 47343424612039,
+            "server_region": "asia_pacific"
+        },
         "47343424613508": {
             "crew_id": 1138166344451,
             "crew_name": "FATO",
@@ -12045,6 +12061,19 @@
             "role_id": 47343427948148,
             "server_region": "asia_pacific"
         },
+        "47343427948153": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2065.16796875,
+            "last_seen": 1761676892,
+            "level": 6,
+            "name": "soranaxui",
+            "registered": "Oct 29, 2025, 2:43:31 AM",
+            "role_id": 47343427948153,
+            "server_region": "asia_pacific"
+        },
         "47343427948158": {
             "crew_id": 0,
             "crew_name": "",
@@ -14945,8 +14974,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1381,
+    "accounts_total": 1383,
     "created": 1754829154,
-    "last_updated": 1761676832,
+    "last_updated": 1761676892,
     "server_region": "asia_pacific"
 }
