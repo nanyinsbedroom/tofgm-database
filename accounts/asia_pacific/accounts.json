@@ -26,8 +26,11 @@
         "47248935234336": {
             "crew_id": 326417525509,
             "crew_name": "桜カフェ",
+            "equipping_title": "Title_tencentshare_os_21",
             "gender": 0,
-            "last_seen": 1760274567,
+            "hp": 2650773.75,
+            "last_seen": 1761739201,
+            "level": 100,
             "name": "レイアン",
             "registered": "Aug 11, 2022, 9:14:50 AM",
             "role_id": 47248935234336,
@@ -1049,10 +1052,10 @@
         "47257526107764": {
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
-            "equipping_title": "fortune 's Mentor,0",
+            "equipping_title": "1_6_4_17",
             "gender": 1,
-            "hp": 2163831.25,
-            "last_seen": 1761483428,
+            "hp": 2131053.5,
+            "last_seen": 1761739201,
             "level": 100,
             "name": "しのちゃん。",
             "registered": "Feb 26, 2023, 8:56:00 AM",
@@ -2234,10 +2237,13 @@
             "server_region": "asia_pacific"
         },
         "47274705081697": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 124554062588,
+            "crew_name": "ふぇありー",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758890794,
+            "hp": 2824069.5,
+            "last_seen": 1761739201,
+            "level": 100,
             "name": "ここあろ",
             "registered": "Aug 12, 2022, 5:15:23 PM",
             "role_id": 47274705081697,
@@ -2274,6 +2280,19 @@
             "name": "久夜",
             "registered": "Aug 14, 2022, 7:16:59 PM",
             "role_id": 47274705098337,
+            "server_region": "asia_pacific"
+        },
+        "47274705122856": {
+            "crew_id": 7340099119872,
+            "crew_name": "低スペックチーム",
+            "equipping_title": "2_2_0_23",
+            "gender": 0,
+            "hp": 1393839.75,
+            "last_seen": 1761739201,
+            "level": 100,
+            "name": "ショクタロウ",
+            "registered": "Aug 20, 2022, 3:28:07 AM",
+            "role_id": 47274705122856,
             "server_region": "asia_pacific"
         },
         "47274705140965": {
@@ -12930,8 +12949,8 @@
             "crew_name": "ซามูไรพเนจร",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2443405.75,
-            "last_seen": 1761482398,
+            "hp": 2447521.75,
+            "last_seen": 1761739201,
             "level": 100,
             "name": "Rurouni Kenshin",
             "registered": "Aug 14, 2022, 8:20:05 AM",
@@ -15488,8 +15507,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1417,
+    "accounts_total": 1418,
     "created": 1754829154,
-    "last_updated": 1761739087,
+    "last_updated": 1761739201,
     "server_region": "asia_pacific"
 }
