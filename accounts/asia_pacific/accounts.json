@@ -3856,8 +3856,11 @@
         "47300474844951": {
             "crew_id": 3693671885573,
             "crew_name": "Async",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1760276753,
+            "hp": 2799668.25,
+            "last_seen": 1761739742,
+            "level": 100,
             "name": "えねex",
             "registered": "Aug 11, 2022, 12:18:03 PM",
             "role_id": 47300474844951,
@@ -4138,8 +4141,8 @@
             "crew_name": "Async",
             "equipping_title": "Title_tencentshare_os_18",
             "gender": 1,
-            "hp": 2473845.5,
-            "last_seen": 1761481737,
+            "hp": 2318172.5,
+            "last_seen": 1761739742,
             "level": 100,
             "name": "セーラ・ルイーズ",
             "registered": "Aug 17, 2022, 8:45:45 AM",
@@ -9100,8 +9103,11 @@
         "47343427906583": {
             "crew_id": 541165890314,
             "crew_name": "りんゆかチャンネル",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": 1757756382,
+            "hp": 1434037.0,
+            "last_seen": 1761739742,
+            "level": 100,
             "name": "みしまか",
             "registered": "May 18, 2025, 4:25:52 PM",
             "role_id": 47343427906583,
@@ -13021,6 +13027,19 @@
             "role_id": 47356309418631,
             "server_region": "asia_pacific"
         },
+        "47356309444247": {
+            "crew_id": 6347961674499,
+            "crew_name": "Family",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2811908.5,
+            "last_seen": 1761739742,
+            "level": 100,
+            "name": "杏仁-annin",
+            "registered": "Aug 13, 2022, 6:02:34 PM",
+            "role_id": 47356309444247,
+            "server_region": "asia_pacific"
+        },
         "47356309444778": {
             "crew_id": 0,
             "crew_name": "",
@@ -13609,6 +13628,19 @@
             "name": "アヤメ#e",
             "registered": "Aug 15, 2022, 4:09:08 PM",
             "role_id": 47373489320875,
+            "server_region": "asia_pacific"
+        },
+        "47373489324742": {
+            "crew_id": 2491081042710,
+            "crew_name": "団欒の笑う門",
+            "equipping_title": "2_2_0_21",
+            "gender": 1,
+            "hp": 2815381.25,
+            "last_seen": 1761739742,
+            "level": 100,
+            "name": "めるてぃー",
+            "registered": "Aug 15, 2022, 6:04:57 PM",
+            "role_id": 47373489324742,
             "server_region": "asia_pacific"
         },
         "47373489327239": {
@@ -15724,8 +15756,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1434,
+    "accounts_total": 1436,
     "created": 1754829154,
-    "last_updated": 1761739682,
+    "last_updated": 1761739742,
     "server_region": "asia_pacific"
 }
