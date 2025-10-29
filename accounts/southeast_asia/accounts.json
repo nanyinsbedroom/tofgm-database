@@ -7528,8 +7528,11 @@
         "68775311333158": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1756490975,
+            "hp": 1160235.25,
+            "last_seen": 1761759122,
+            "level": 100,
             "name": "AhogeSSR",
             "registered": "Aug 11, 2022, 4:38:29 PM",
             "role_id": 68775311333158,
@@ -10906,7 +10909,7 @@
             "equipping_title": "1_6_2_2",
             "gender": 1,
             "hp": 1136388.5,
-            "last_seen": 1761672141,
+            "last_seen": 1761759122,
             "level": 100,
             "name": "Novice",
             "registered": "Jul 5, 2025, 1:39:20 PM",
@@ -10984,6 +10987,19 @@
             "name": "Meong",
             "registered": "Jul 13, 2025, 6:46:32 PM",
             "role_id": 68775311742655,
+            "server_region": "southeast_asia"
+        },
+        "68775311742808": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71158.9609375,
+            "last_seen": 1761759122,
+            "level": 21,
+            "name": "hailuapro2",
+            "registered": "Jul 14, 2025, 1:17:25 PM",
+            "role_id": 68775311742808,
             "server_region": "southeast_asia"
         },
         "68775311742814": {
@@ -16746,6 +16762,19 @@
             "role_id": 68788196262762,
             "server_region": "southeast_asia"
         },
+        "68788196270480": {
+            "crew_id": 4294983306,
+            "crew_name": "Scarlet",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 648593.1875,
+            "last_seen": 1761759122,
+            "level": 100,
+            "name": "Nagisa",
+            "registered": "Aug 13, 2022, 6:22:01 PM",
+            "role_id": 68788196270480,
+            "server_region": "southeast_asia"
+        },
         "68788196273045": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
@@ -19252,8 +19281,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1710,
+    "accounts_total": 1712,
     "created": 1753795148,
-    "last_updated": 1761742739,
+    "last_updated": 1761759122,
     "server_region": "southeast_asia"
 }
