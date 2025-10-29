@@ -829,8 +829,11 @@
         "47257525166472": {
             "crew_id": 124554062588,
             "crew_name": "ふぇありー",
+            "equipping_title": "NullNullプリン的学徒,0",
             "gender": 0,
-            "last_seen": 1759399800,
+            "hp": 2918216.25,
+            "last_seen": 1761738460,
+            "level": 100,
             "name": "Miksya",
             "registered": "Aug 11, 2022, 9:20:23 AM",
             "role_id": 47257525166472,
@@ -3965,6 +3968,19 @@
             "role_id": 47300474869753,
             "server_region": "asia_pacific"
         },
+        "47300474889412": {
+            "crew_id": 90194324235,
+            "crew_name": "ノーゲーム・ノーライフ",
+            "equipping_title": "Tencent_Sever_13",
+            "gender": 1,
+            "hp": 2794882.75,
+            "last_seen": 1761738460,
+            "level": 100,
+            "name": " るーあ",
+            "registered": "Aug 12, 2022, 2:16:04 PM",
+            "role_id": 47300474889412,
+            "server_region": "asia_pacific"
+        },
         "47300474902317": {
             "crew_id": 1142461311749,
             "crew_name": "たむさん",
@@ -4351,8 +4367,11 @@
         "47304769863676": {
             "crew_id": 6725918796544,
             "crew_name": "LaVieEnRose",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759590507,
+            "hp": 2516237.0,
+            "last_seen": 1761738460,
+            "level": 100,
             "name": "有電",
             "registered": "Aug 13, 2022, 8:48:56 AM",
             "role_id": 47304769863676,
@@ -4894,6 +4913,19 @@
             "name": "ユー・リンチー",
             "registered": "Aug 11, 2022, 12:59:13 PM",
             "role_id": 47317654714061,
+            "server_region": "asia_pacific"
+        },
+        "47317654714689": {
+            "crew_id": 283467852553,
+            "crew_name": "フェアリーテイル",
+            "equipping_title": "1_8_0_29",
+            "gender": 1,
+            "hp": 2226348.75,
+            "last_seen": 1761738460,
+            "level": 100,
+            "name": "itu_ciel",
+            "registered": "Aug 11, 2022, 1:08:16 PM",
+            "role_id": 47317654714689,
             "server_region": "asia_pacific"
         },
         "47317654716640": {
@@ -15300,8 +15332,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1406,
+    "accounts_total": 1408,
     "created": 1754829154,
-    "last_updated": 1761678644,
+    "last_updated": 1761738460,
     "server_region": "asia_pacific"
 }
