@@ -1354,8 +1354,8 @@
             "crew_name": "ももぐみ",
             "equipping_title": "2_10_1_3",
             "gender": 1,
-            "hp": 2697422.75,
-            "last_seen": 1761482338,
+            "hp": 2589058.25,
+            "last_seen": 1761739382,
             "level": 100,
             "name": "ちむたま",
             "registered": "Aug 11, 2022, 3:43:36 PM",
@@ -3688,6 +3688,19 @@
             "role_id": 47296179937612,
             "server_region": "asia_pacific"
         },
+        "47296179937772": {
+            "crew_id": 962072685316,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "あかほま的学徒,0",
+            "gender": 1,
+            "hp": 2280075.25,
+            "last_seen": 1761739382,
+            "level": 100,
+            "name": "ムザカ",
+            "registered": "Aug 15, 2022, 3:35:20 PM",
+            "role_id": 47296179937772,
+            "server_region": "asia_pacific"
+        },
         "47296179943682": {
             "crew_id": 0,
             "crew_name": "",
@@ -3762,10 +3775,13 @@
             "server_region": "asia_pacific"
         },
         "47296180406649": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 962072685316,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757929659,
+            "hp": 2298468.25,
+            "last_seen": 1761739382,
+            "level": 100,
             "name": "エヴンハキア",
             "registered": "Jan 26, 2023, 10:05:53 PM",
             "role_id": 47296180406649,
@@ -5832,6 +5848,19 @@
             "name": "ｓｊ",
             "registered": "Aug 12, 2022, 12:44:43 PM",
             "role_id": 47334834618249,
+            "server_region": "asia_pacific"
+        },
+        "47334834633416": {
+            "crew_id": 6158983113475,
+            "crew_name": "Re：ゼロから始める幻塔生活 ",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2081243.875,
+            "last_seen": 1761739382,
+            "level": 100,
+            "name": "あちまる#c",
+            "registered": "Aug 12, 2022, 11:01:03 PM",
+            "role_id": 47334834633416,
             "server_region": "asia_pacific"
         },
         "47334834645811": {
@@ -7981,7 +8010,7 @@
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 0,
             "hp": 1354973.5,
-            "last_seen": 1761677622,
+            "last_seen": 1761739382,
             "level": 100,
             "name": "アキナ･ｱｽﾗｰﾀﾞ･ｴﾘｯｸ",
             "registered": "Aug 26, 2024, 1:27:59 AM",
@@ -15536,8 +15565,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1420,
+    "accounts_total": 1422,
     "created": 1754829154,
-    "last_updated": 1761739322,
+    "last_updated": 1761739382,
     "server_region": "asia_pacific"
 }
