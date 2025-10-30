@@ -4521,10 +4521,10 @@
         "47300474937479": {
             "crew_id": 4788888546053,
             "crew_name": "アストラ町内会",
-            "equipping_title": "リンちゃん（本物）'s Mentor,0",
+            "equipping_title": "リンちゃん（本物）的导师,0",
             "gender": 0,
-            "hp": 2380258.5,
-            "last_seen": 1761310741,
+            "hp": 2382887.75,
+            "last_seen": 1761837647,
             "level": 100,
             "name": "ジャスホイ",
             "registered": "Aug 21, 2022, 8:35:59 PM",
@@ -4663,8 +4663,11 @@
         "47300475939372": {
             "crew_id": 6287832132355,
             "crew_name": "Sweet Memoria",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1757161377,
+            "hp": 1999469.75,
+            "last_seen": 1761837647,
+            "level": 100,
             "name": "jas62",
             "registered": "May 28, 2023, 2:56:05 PM",
             "role_id": 47300475939372,
@@ -7413,7 +7416,7 @@
             "equipping_title": "yukinago的后继者,1",
             "gender": 1,
             "hp": 2341134.25,
-            "last_seen": 1761677072,
+            "last_seen": 1761837647,
             "level": 100,
             "name": "amanoikusa",
             "registered": "Aug 20, 2023, 3:29:16 PM",
@@ -13758,12 +13761,25 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1008.31298828125,
-            "last_seen": 1761755874,
-            "level": 3,
+            "hp": 14607.23046875,
+            "last_seen": 1761837647,
+            "level": 22,
             "name": "kingbee",
             "registered": "Oct 30, 2025, 1:18:05 AM",
             "role_id": 47343427948385,
+            "server_region": "asia_pacific"
+        },
+        "47343427948422": {
+            "crew_id": 47244651259,
+            "crew_name": "もみじ組",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56430.1171875,
+            "last_seen": 1761837647,
+            "level": 26,
+            "name": "Aiurav",
+            "registered": "Oct 30, 2025, 5:37:06 AM",
+            "role_id": 47343427948422,
             "server_region": "asia_pacific"
         },
         "47343427948428": {
@@ -15140,6 +15156,19 @@
             "role_id": 47382079263914,
             "server_region": "asia_pacific"
         },
+        "47382079277896": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1310037.375,
+            "last_seen": 1761837647,
+            "level": 100,
+            "name": "ティッキー・テン",
+            "registered": "Aug 17, 2022, 10:55:37 PM",
+            "role_id": 47382079277896,
+            "server_region": "asia_pacific"
+        },
         "47382079290811": {
             "crew_id": 6180457949955,
             "crew_name": "オルレアンの日誌…..〆",
@@ -15643,8 +15672,11 @@
         "47433618817264": {
             "crew_id": 25769814820,
             "crew_name": "幻塔の白騎士",
+            "equipping_title": "ka‐pi的学徒,0",
             "gender": 1,
-            "last_seen": 1759589606,
+            "hp": 1437538.375,
+            "last_seen": 1761837647,
+            "level": 100,
             "name": "ついぷい",
             "registered": "Feb 27, 2025, 8:44:08 PM",
             "role_id": 47433618817264,
@@ -17131,8 +17163,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1536,
+    "accounts_total": 1538,
     "created": 1754829154,
-    "last_updated": 1761837587,
+    "last_updated": 1761837647,
     "server_region": "asia_pacific"
 }
