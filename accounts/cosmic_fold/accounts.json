@@ -1731,8 +1731,11 @@
         "63582695850892": {
             "crew_id": 154618837460,
             "crew_name": "十月天宫",
+            "equipping_title": "1_1_20_1",
             "gender": 1,
-            "last_seen": 1759574997,
+            "hp": 649205.0625,
+            "last_seen": 1761850384,
+            "level": 67,
             "name": "古战场逃兵",
             "registered": "2025年9月25日 下午6:10:45",
             "role_id": 63582695850892,
@@ -13344,10 +13347,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695859850": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 17179883988,
+            "crew_name": "月影",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "last_seen": 1758810932,
+            "hp": 713563.0625,
+            "last_seen": 1761850384,
+            "level": 67,
             "name": "老六",
             "registered": "2025年9月25日 下午8:50:28",
             "role_id": 63582695859850,
@@ -24891,11 +24897,11 @@
         "63582695877976": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 335870.78125,
-            "last_seen": 1761549015,
-            "level": 65,
+            "hp": 715319.75,
+            "last_seen": 1761850384,
+            "level": 67,
             "name": "王登登",
             "registered": "2025年9月27日 下午2:56:41",
             "role_id": 63582695877976,
@@ -25794,6 +25800,19 @@
             "name": "喜欢排骨猪脚",
             "registered": "2025年9月27日 下午11:39:15",
             "role_id": 63582695881683,
+            "server_region": "cosmic_fold"
+        },
+        "63582695881751": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "WorldBossDamage_4;阿比斯;海拉;71",
+            "gender": 1,
+            "hp": 660711.3125,
+            "last_seen": 1761850384,
+            "level": 67,
+            "name": "无敌糖球子",
+            "registered": "2025年9月27日 下午11:51:48",
+            "role_id": 63582695881751,
             "server_region": "cosmic_fold"
         },
         "63582695881759": {
@@ -27209,6 +27228,19 @@
             "name": "荡然",
             "registered": "2025年9月29日 下午1:17:23",
             "role_id": 63582695887807,
+            "server_region": "cosmic_fold"
+        },
+        "63582695887821": {
+            "crew_id": 90194328020,
+            "crew_name": "墨影千秋",
+            "equipping_title": "1_9_0_1",
+            "gender": 0,
+            "hp": 532586.9375,
+            "last_seen": 1761850384,
+            "level": 65,
+            "name": "好想成为人类啊",
+            "registered": "2025年9月29日 下午1:20:48",
+            "role_id": 63582695887821,
             "server_region": "cosmic_fold"
         },
         "63582695887935": {
@@ -34292,6 +34324,19 @@
             "role_id": 63582695926179,
             "server_region": "cosmic_fold"
         },
+        "63582695926207": {
+            "crew_id": 369367202260,
+            "crew_name": "白夜的魔眼",
+            "equipping_title": "晓月秋暝的学徒,0",
+            "gender": 1,
+            "hp": 414761.0,
+            "last_seen": 1761850384,
+            "level": 63,
+            "name": "Eartha",
+            "registered": "2025年10月13日 上午12:42:53",
+            "role_id": 63582695926207,
+            "server_region": "cosmic_fold"
+        },
         "63582695926248": {
             "crew_id": 0,
             "crew_name": "",
@@ -37022,6 +37067,19 @@
             "role_id": 63582695944745,
             "server_region": "cosmic_fold"
         },
+        "63582695946213": {
+            "crew_id": 708669618644,
+            "crew_name": "世界BOSS",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 116195.40625,
+            "last_seen": 1761850384,
+            "level": 40,
+            "name": "夜之风",
+            "registered": "2025年10月29日 上午3:28:01",
+            "role_id": 63582695946213,
+            "server_region": "cosmic_fold"
+        },
         "63582695946230": {
             "crew_id": 0,
             "crew_name": "",
@@ -37075,8 +37133,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3285,
+    "accounts_total": 3289,
     "created": 1758803451,
-    "last_updated": 1761850083,
+    "last_updated": 1761850384,
     "server_region": "cosmic_fold"
 }
