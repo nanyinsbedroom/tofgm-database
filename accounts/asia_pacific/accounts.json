@@ -3530,8 +3530,11 @@
         "47287590057480": {
             "crew_id": 8499740289785,
             "crew_name": "VOC",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1757253992,
+            "hp": 2277536.75,
+            "last_seen": 1761839016,
+            "level": 100,
             "name": "Kuld",
             "registered": "Sep 15, 2022, 9:30:29 PM",
             "role_id": 47287590057480,
@@ -7767,8 +7770,11 @@
         "47343426386853": {
             "crew_id": 798863928080,
             "crew_name": "ぽんぽん☆ぺいん",
+            "equipping_title": "耳かきがゴリゴリ的导师,0",
             "gender": 1,
-            "last_seen": 1760276873,
+            "hp": 321933.59375,
+            "last_seen": 1761839016,
+            "level": 100,
             "name": "天梨羽かんな",
             "registered": "Sep 27, 2023, 1:24:49 AM",
             "role_id": 47343426386853,
@@ -8738,8 +8744,11 @@
         "47343427519810": {
             "crew_id": 794568960785,
             "crew_name": "たまめいと",
+            "equipping_title": "2_10_1_6",
             "gender": 1,
-            "last_seen": 1759589126,
+            "hp": 1383382.125,
+            "last_seen": 1761839016,
+            "level": 100,
             "name": "深藍うるみ",
             "registered": "Jun 17, 2024, 12:31:05 AM",
             "role_id": 47343427519810,
@@ -10120,7 +10129,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 314857.90625,
-            "last_seen": 1761754565,
+            "last_seen": 1761839016,
             "level": 98,
             "name": "キング山田",
             "registered": "May 31, 2025, 6:04:47 PM",
@@ -16384,6 +16393,19 @@
             "role_id": 47433618851877,
             "server_region": "asia_pacific"
         },
+        "47433618852982": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9915.4755859375,
+            "last_seen": 1761839016,
+            "level": 14,
+            "name": "Wirbelstorm",
+            "registered": "Apr 13, 2025, 2:22:27 AM",
+            "role_id": 47433618852982,
+            "server_region": "asia_pacific"
+        },
         "47433618858856": {
             "crew_id": 240518179620,
             "crew_name": "MYDIQBIG",
@@ -17602,8 +17624,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1569,
+    "accounts_total": 1570,
     "created": 1754829154,
-    "last_updated": 1761838956,
+    "last_updated": 1761839016,
     "server_region": "asia_pacific"
 }
