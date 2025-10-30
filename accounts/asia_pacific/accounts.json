@@ -1765,10 +1765,13 @@
             "server_region": "asia_pacific"
         },
         "47261820262167": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 21474847495,
+            "crew_name": "はらぺこっ",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1758463312,
+            "hp": 1830944.25,
+            "last_seen": 1761838895,
+            "level": 100,
             "name": "Ayusta",
             "registered": "Oct 5, 2022, 9:42:55 PM",
             "role_id": 47261820262167,
@@ -11567,6 +11570,19 @@
             "role_id": 47343427936866,
             "server_region": "asia_pacific"
         },
+        "47343427936872": {
+            "crew_id": 519691053818,
+            "crew_name": "Fate™",
+            "equipping_title": "1_6_3_1",
+            "gender": 1,
+            "hp": 1146290.125,
+            "last_seen": 1761838895,
+            "level": 93,
+            "name": "KeiLagChua",
+            "registered": "Oct 1, 2025, 10:28:45 AM",
+            "role_id": 47343427936872,
+            "server_region": "asia_pacific"
+        },
         "47343427937036": {
             "crew_id": 541165890314,
             "crew_name": "りんゆかチャンネル",
@@ -12481,9 +12497,9 @@
             "crew_name": "クロスギルド",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 989978.6875,
-            "last_seen": 1761677501,
-            "level": 93,
+            "hp": 1132158.5,
+            "last_seen": 1761838895,
+            "level": 95,
             "name": "ヒデヨシ",
             "registered": "Oct 11, 2025, 4:42:56 PM",
             "role_id": 47343427942055,
@@ -16319,6 +16335,19 @@
             "role_id": 47433618835462,
             "server_region": "asia_pacific"
         },
+        "47433618839184": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 1376143.125,
+            "last_seen": 1761838895,
+            "level": 100,
+            "name": "ulik",
+            "registered": "Mar 26, 2025, 1:43:47 PM",
+            "role_id": 47433618839184,
+            "server_region": "asia_pacific"
+        },
         "47433618844323": {
             "crew_id": 0,
             "crew_name": "",
@@ -17570,8 +17599,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1567,
+    "accounts_total": 1569,
     "created": 1754829154,
-    "last_updated": 1761838835,
+    "last_updated": 1761838895,
     "server_region": "asia_pacific"
 }
