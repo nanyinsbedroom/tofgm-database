@@ -2544,8 +2544,8 @@
             "crew_name": "Dahlia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 3158931.0,
-            "last_seen": 1761739803,
+            "hp": 2909571.0,
+            "last_seen": 1761838054,
             "level": 100,
             "name": "こはら",
             "registered": "Aug 11, 2022, 8:32:25 AM",
@@ -3096,8 +3096,11 @@
         "47283294970615": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1756480176,
+            "hp": 1082952.375,
+            "last_seen": 1761838054,
+            "level": 100,
             "name": "ほむら.",
             "registered": "Aug 11, 2022, 9:28:24 AM",
             "role_id": 47283294970615,
@@ -11836,6 +11839,19 @@
             "role_id": 47343427939151,
             "server_region": "asia_pacific"
         },
+        "47343427939197": {
+            "crew_id": 17974438144783,
+            "crew_name": "Lamia",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 1067680.25,
+            "last_seen": 1761838054,
+            "level": 81,
+            "name": "Venezee",
+            "registered": "Oct 6, 2025, 11:54:35 PM",
+            "role_id": 47343427939197,
+            "server_region": "asia_pacific"
+        },
         "47343427939254": {
             "crew_id": 0,
             "crew_name": "",
@@ -17218,8 +17234,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1542,
+    "accounts_total": 1543,
     "created": 1754829154,
-    "last_updated": 1761837827,
+    "last_updated": 1761838054,
     "server_region": "asia_pacific"
 }
