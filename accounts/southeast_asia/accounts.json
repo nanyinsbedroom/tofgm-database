@@ -1659,8 +1659,8 @@
             "crew_name": "ExilesMY",
             "equipping_title": "Chino的后继者,1",
             "gender": 0,
-            "hp": 2080628.625,
-            "last_seen": 1761842525,
+            "hp": 2265222.0,
+            "last_seen": 1761911756,
             "level": 100,
             "name": "Exy.",
             "registered": "Aug 11, 2022, 6:03:26 PM",
@@ -2746,8 +2746,11 @@
         "68736656746593": {
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
+            "equipping_title": "ღSILVYღ的导师,0",
             "gender": 1,
-            "last_seen": 1758623228,
+            "hp": 1624818.5,
+            "last_seen": 1761911756,
+            "level": 100,
             "name": "Liychii",
             "registered": "Sep 10, 2022, 9:53:51 AM",
             "role_id": 68736656746593,
@@ -6817,8 +6820,11 @@
         "68766721401255": {
             "crew_id": 2555505557133,
             "crew_name": "Moonheart",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760297596,
+            "hp": 1269126.375,
+            "last_seen": 1761911756,
+            "level": 100,
             "name": "曼珠沙華・蛸焼",
             "registered": "Aug 11, 2022, 3:34:25 PM",
             "role_id": 68766721401255,
@@ -10850,6 +10856,19 @@
             "name": "Drashel",
             "registered": "Jun 13, 2025, 6:55:58 PM",
             "role_id": 68775311739419,
+            "server_region": "southeast_asia"
+        },
+        "68775311740072": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 377607.5,
+            "last_seen": 1761911756,
+            "level": 100,
+            "name": "流萤",
+            "registered": "Jun 17, 2025, 4:55:44 AM",
+            "role_id": 68775311740072,
             "server_region": "southeast_asia"
         },
         "68775311740255": {
@@ -17407,7 +17426,7 @@
             "equipping_title": "ZerozXZenith的学徒,0",
             "gender": 1,
             "hp": 2546400.5,
-            "last_seen": 1761842525,
+            "last_seen": 1761911756,
             "level": 100,
             "name": "xrosa",
             "registered": "Aug 24, 2022, 1:23:38 PM",
@@ -19598,8 +19617,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1732,
+    "accounts_total": 1733,
     "created": 1753795148,
-    "last_updated": 1761909469,
+    "last_updated": 1761911756,
     "server_region": "southeast_asia"
 }
