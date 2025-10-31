@@ -3383,8 +3383,11 @@
         "63582695851964": {
             "crew_id": 21474851284,
             "crew_name": "高级美容院",
+            "equipping_title": "2_8_0_4",
             "gender": 1,
-            "last_seen": 1759955128,
+            "hp": 700456.6875,
+            "last_seen": 1761912439,
+            "level": 67,
             "name": "竺梓",
             "registered": "2025年9月25日 下午6:22:54",
             "role_id": 63582695851964,
@@ -7878,10 +7881,13 @@
             "server_region": "unknown"
         },
         "63582695855586": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 25769818580,
+            "crew_name": "破晓",
+            "equipping_title": "2_10_1_12",
             "gender": 0,
-            "last_seen": 1758805991,
+            "hp": 624234.5625,
+            "last_seen": 1761912439,
+            "level": 67,
             "name": "一路向北",
             "registered": "2025年9月25日 下午7:15:23",
             "role_id": 63582695855586,
@@ -37257,6 +37263,6 @@
     },
     "accounts_total": 3297,
     "created": 1758803451,
-    "last_updated": 1761912379,
+    "last_updated": 1761912439,
     "server_region": "cosmic_fold"
 }
