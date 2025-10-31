@@ -53,8 +53,11 @@
         "60563333878319": {
             "crew_id": 2486786078600,
             "crew_name": "奥林匹斯",
+            "equipping_title": "1_6_1_8",
             "gender": 1,
-            "last_seen": 1758122795,
+            "hp": 2360594.5,
+            "last_seen": 1761917442,
+            "level": 100,
             "name": "花譜　",
             "registered": "2021年12月17日 上午12:21:25",
             "role_id": 60563333878319,
@@ -1392,6 +1395,19 @@
             "role_id": 60576218776915,
             "server_region": "visser_aida"
         },
+        "60576218791238": {
+            "crew_id": 416611841916,
+            "crew_name": "一堆大佬",
+            "equipping_title": "1_1_30_1",
+            "gender": 1,
+            "hp": 1996081.75,
+            "last_seen": 1761917442,
+            "level": 100,
+            "name": "？？？？#a",
+            "registered": "2021年12月19日 上午8:41:56",
+            "role_id": 60576218791238,
+            "server_region": "visser_aida"
+        },
         "60576218796049": {
             "crew_id": 0,
             "crew_name": "",
@@ -2128,6 +2144,19 @@
             "name": "星空棒棒糖丶",
             "registered": "2024年6月25日 下午4:00:43",
             "role_id": 60597695016408,
+            "server_region": "visser_aida"
+        },
+        "60601988546950": {
+            "crew_id": 150323869473,
+            "crew_name": "九域",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 1482266.5,
+            "last_seen": 1761917442,
+            "level": 100,
+            "name": "枣铃",
+            "registered": "2021年12月16日 上午8:00:06",
+            "role_id": 60601988546950,
             "server_region": "visser_aida"
         },
         "60601988553555": {
@@ -4104,6 +4133,19 @@
             "role_id": 61095909813966,
             "server_region": "visser_aida"
         },
+        "61095909818426": {
+            "crew_id": 468151449372,
+            "crew_name": "晓",
+            "equipping_title": "2_2_0_30",
+            "gender": 0,
+            "hp": 2397107.5,
+            "last_seen": 1761917442,
+            "level": 100,
+            "name": "蛋糕挞手",
+            "registered": "2021年12月16日 下午8:58:21",
+            "role_id": 61095909818426,
+            "server_region": "visser_aida"
+        },
         "61422327302506": {
             "crew_id": 25769817880,
             "crew_name": "白晝梦",
@@ -5774,8 +5816,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 523,
+    "accounts_total": 526,
     "created": 1758086949,
-    "last_updated": 1761572334,
+    "last_updated": 1761917442,
     "server_region": "visser_aida"
 }
