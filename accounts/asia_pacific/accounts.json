@@ -9114,16 +9114,19 @@
             "server_region": "asia_pacific"
         },
         "47343427525319": {
-            "crew_id": "25769814788",
+            "crew_id": 25769814788,
             "crew_name": "Green Tea",
             "equipping_title": "azriq的学徒,0",
-            "gender": "1",
-            "hp": "2167080.75",
-            "last_seen": "1761754565",
-            "level": "100",
+            "gender": 1,
+            "hp": 2140145.25,
+            "last_seen": 1762003083,
+            "level": 100,
             "name": "heh12",
+            "name_history": [
+                "heh12"
+            ],
             "registered": "Jun 19, 2024, 11:29:47 PM",
-            "role_id": "47343427525319",
+            "role_id": 47343427525319,
             "server_region": "asia_pacific"
         },
         "47343427526933": {
@@ -18049,6 +18052,6 @@
     },
     "accounts_total": 1588,
     "created": "1754829154",
-    "last_updated": 1762003023,
+    "last_updated": 1762003083,
     "server_region": "asia_pacific"
 }
