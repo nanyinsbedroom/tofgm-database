@@ -283,6 +283,22 @@
             "role_id": "64445984300721",
             "server_region": "south_america"
         },
+        "64445984315402": {
+            "crew_id": 356482300581,
+            "crew_name": "Aceldama",
+            "equipping_title": "1_6_1_8",
+            "gender": 0,
+            "hp": 1907495.0,
+            "last_seen": 1762004105,
+            "level": 100,
+            "name": "Taarna",
+            "name_history": [
+                "Taarna"
+            ],
+            "registered": "Aug 12, 2022, 3:52:13 AM",
+            "role_id": 64445984315402,
+            "server_region": "south_america"
+        },
         "64445984315876": {
             "crew_id": "777389095578",
             "crew_name": "YoRHa",
@@ -962,6 +978,22 @@
             "role_id": "64493229249169",
             "server_region": "south_america"
         },
+        "64493229251787": {
+            "crew_id": 6395206318760,
+            "crew_name": "Forever",
+            "equipping_title": "  Hotaru 的导师,0",
+            "gender": 1,
+            "hp": 1569535.25,
+            "last_seen": 1762004105,
+            "level": 100,
+            "name": "Sone_ss",
+            "name_history": [
+                "Sone_ss"
+            ],
+            "registered": "Mar 19, 2025, 6:35:20 PM",
+            "role_id": 64493229251787,
+            "server_region": "south_america"
+        },
         "64493229252555": {
             "crew_id": 21474851498,
             "crew_name": "Ragnarock ",
@@ -1375,13 +1407,19 @@
             "server_region": "south_america"
         },
         "64497523888165": {
-            "crew_id": "3676492020378",
+            "crew_id": 3676492020378,
             "crew_name": "TENGU",
-            "gender": "0",
-            "last_seen": "1757773473",
+            "equipping_title": "2_10_1_4",
+            "gender": 0,
+            "hp": 2368814.5,
+            "last_seen": 1762004105,
+            "level": 100,
             "name": "Frethr",
+            "name_history": [
+                "Frethr"
+            ],
             "registered": "Aug 10, 2022, 10:06:51 PM",
-            "role_id": "64497523888165",
+            "role_id": 64497523888165,
             "server_region": "south_america"
         },
         "64497523905099": {
@@ -1460,8 +1498,8 @@
             "server_region": "south_america"
         }
     },
-    "accounts_total": 127,
+    "accounts_total": 129,
     "created": "1757168442",
-    "last_updated": 1762004045,
+    "last_updated": 1762004105,
     "server_region": "south_america"
 }
