@@ -831,6 +831,22 @@
             "role_id": "47253230849115",
             "server_region": "asia_pacific"
         },
+        "47253231092676": {
+            "crew_id": 6141803244282,
+            "crew_name": "LATAM EN ASIA",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1809027.25,
+            "last_seen": 1762001339,
+            "level": 100,
+            "name": "Klarios",
+            "name_history": [
+                "Klarios"
+            ],
+            "registered": "Mar 29, 2023, 6:48:46 AM",
+            "role_id": 47253231092676,
+            "server_region": "asia_pacific"
+        },
         "47253231303661": {
             "crew_id": "21474847495",
             "crew_name": "はらぺこっ",
@@ -4335,13 +4351,19 @@
             "server_region": "asia_pacific"
         },
         "47300474844275": {
-            "crew_id": "0",
-            "crew_name": "",
-            "gender": "1",
-            "last_seen": "1758889712",
+            "crew_id": 8499740289785,
+            "crew_name": "VOC",
+            "equipping_title": "Title_HalfAnniversary_os_1",
+            "gender": 1,
+            "hp": 2411055.5,
+            "last_seen": 1762001339,
+            "level": 100,
             "name": "Vesperine",
+            "name_history": [
+                "Vesperine"
+            ],
             "registered": "Aug 11, 2022, 12:10:44 PM",
-            "role_id": "47300474844275",
+            "role_id": 47300474844275,
             "server_region": "asia_pacific"
         },
         "47300474844409": {
@@ -17817,8 +17839,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1577,
+    "accounts_total": 1578,
     "created": "1754829154",
-    "last_updated": 1762001279,
+    "last_updated": 1762001339,
     "server_region": "asia_pacific"
 }
