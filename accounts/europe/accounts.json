@@ -2871,16 +2871,19 @@
             "server_region": "europe"
         },
         "55886114493852": {
-            "crew_id": "2697239474913",
+            "crew_id": 2697239474913,
             "crew_name": "Asylum",
             "equipping_title": "1_1_14_1",
-            "gender": "0",
-            "hp": "2463880.75",
-            "last_seen": "1761670950",
-            "level": "100",
+            "gender": 0,
+            "hp": 2465199.5,
+            "last_seen": 1762009477,
+            "level": 100,
             "name": "ApophisVio",
+            "name_history": [
+                "ApophisVio"
+            ],
             "registered": "Aug 11, 2022, 1:49:21 PM",
-            "role_id": "55886114493852",
+            "role_id": 55886114493852,
             "server_region": "europe"
         },
         "55886114496799": {
@@ -8785,6 +8788,6 @@
     },
     "accounts_total": 760,
     "created": "1753816624",
-    "last_updated": 1762002902,
+    "last_updated": 1762009477,
     "server_region": "europe"
 }
