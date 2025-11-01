@@ -6480,13 +6480,19 @@
             "server_region": "southeast_asia"
         },
         "68762426536015": {
-            "crew_id": "1129576414858",
+            "crew_id": 1129576414858,
             "crew_name": "UQHolderTH",
-            "gender": "1",
-            "last_seen": "1754255957",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1918750.75,
+            "last_seen": 1761998697,
+            "level": 100,
             "name": "12456",
+            "name_history": [
+                "12456"
+            ],
             "registered": "Sep 26, 2022, 11:15:59 AM",
-            "role_id": "68762426536015",
+            "role_id": 68762426536015,
             "server_region": "southeast_asia"
         },
         "68762426540424": {
@@ -16242,16 +16248,19 @@
             "server_region": "southeast_asia"
         },
         "68779606353758": {
-            "crew_id": "3723736661641",
+            "crew_id": 3723736661641,
             "crew_name": "Aspen",
             "equipping_title": "1_1_26_1",
-            "gender": "1",
-            "hp": "2202413.75",
-            "last_seen": "1761319217",
-            "level": "100",
+            "gender": 1,
+            "hp": 2008182.625,
+            "last_seen": 1761998697,
+            "level": 100,
             "name": "オクタ-taheZz",
+            "name_history": [
+                "オクタ-taheZz"
+            ],
             "registered": "Aug 16, 2022, 6:33:51 AM",
-            "role_id": "68779606353758",
+            "role_id": 68779606353758,
             "server_region": "southeast_asia"
         },
         "68779606355673": {
@@ -17361,6 +17370,22 @@
             "name": "004-Frigg",
             "registered": "Aug 24, 2022, 1:38:32 AM",
             "role_id": "68788196302994",
+            "server_region": "southeast_asia"
+        },
+        "68788196305505": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 1847563.75,
+            "last_seen": 1761998697,
+            "level": 100,
+            "name": "NorausagI",
+            "name_history": [
+                "NorausagI"
+            ],
+            "registered": "Aug 28, 2022, 12:46:05 PM",
+            "role_id": 68788196305505,
             "server_region": "southeast_asia"
         },
         "68788196307538": {
@@ -19309,6 +19334,22 @@
             "role_id": "68809671059342",
             "server_region": "southeast_asia"
         },
+        "68809671060764": {
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2354988.75,
+            "last_seen": 1761998697,
+            "level": 100,
+            "name": "llAdelenell",
+            "name_history": [
+                "llAdelenell"
+            ],
+            "registered": "Aug 20, 2022, 10:24:33 AM",
+            "role_id": 68809671060764,
+            "server_region": "southeast_asia"
+        },
         "68809671070284": {
             "crew_id": "0",
             "crew_name": "",
@@ -19506,13 +19547,19 @@
             "server_region": "southeast_asia"
         },
         "68822555991303": {
-            "crew_id": "206158446212",
+            "crew_id": 206158446212,
             "crew_name": "CASTLE",
-            "gender": "0",
-            "last_seen": "1760289134",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2178611.75,
+            "last_seen": 1761998697,
+            "level": 100,
             "name": "น้อย support me",
+            "name_history": [
+                "น้อย support me"
+            ],
             "registered": "Jun 5, 2023, 3:10:25 PM",
-            "role_id": "68822555991303",
+            "role_id": 68822555991303,
             "server_region": "southeast_asia"
         },
         "68822555992224": {
@@ -19526,8 +19573,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1699,
+    "accounts_total": 1701,
     "created": "1753795148",
-    "last_updated": 1761998637,
+    "last_updated": 1761998697,
     "server_region": "southeast_asia"
 }
