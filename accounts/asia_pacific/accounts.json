@@ -2698,16 +2698,19 @@
             "server_region": "asia_pacific"
         },
         "47279000006861": {
-            "crew_id": "15444702407439",
+            "crew_id": 15444702407439,
             "crew_name": "Dahlia",
             "equipping_title": "Title_iwshare_os_8",
-            "gender": "0",
-            "hp": "2497770.25",
-            "last_seen": "1761838234",
-            "level": "100",
+            "gender": 0,
+            "hp": 2497770.25,
+            "last_seen": 1762001158,
+            "level": 100,
             "name": "エミリエス",
+            "name_history": [
+                "エミリエス"
+            ],
             "registered": "Aug 11, 2022, 11:09:49 AM",
-            "role_id": "47279000006861",
+            "role_id": 47279000006861,
             "server_region": "asia_pacific"
         },
         "47279000007187": {
@@ -17756,6 +17759,6 @@
     },
     "accounts_total": 1574,
     "created": "1754829154",
-    "last_updated": 1762001098,
+    "last_updated": 1762001158,
     "server_region": "asia_pacific"
 }
