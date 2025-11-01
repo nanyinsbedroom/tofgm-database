@@ -1194,10 +1194,13 @@
             "crew_name": "New Era",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 0,
-            "hp": 2993047.0,
-            "last_seen": 1760979651,
+            "hp": 2503343.5,
+            "last_seen": 1762033273,
             "level": 100,
             "name": " Kaionary",
+            "name_history": [
+                " Kaionary"
+            ],
             "registered": "Aug 13, 2022, 1:10:22 AM",
             "role_id": 55856049732610,
             "server_region": "europe"
@@ -3281,6 +3284,22 @@
             "role_id": 55886114541043,
             "server_region": "europe"
         },
+        "55886114570051": {
+            "crew_id": 2138893726420,
+            "crew_name": "Architects",
+            "equipping_title": "Title_tencentshare_os_4",
+            "gender": 0,
+            "hp": 2333651.75,
+            "last_seen": 1762033273,
+            "level": 100,
+            "name": "Mondy.",
+            "name_history": [
+                "Mondy."
+            ],
+            "registered": "Sep 18, 2022, 11:29:27 AM",
+            "role_id": 55886114570051,
+            "server_region": "europe"
+        },
         "55886114619502": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
@@ -3654,11 +3673,17 @@
             "server_region": "europe"
         },
         "55894704489596": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 2538325684941,
+            "crew_name": "  ",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757956141,
+            "hp": 2584652.0,
+            "last_seen": 1762033273,
+            "level": 100,
             "name": "TsuyuHorizon",
+            "name_history": [
+                "TsuyuHorizon"
+            ],
             "registered": "Sep 2, 2022, 7:33:11 PM",
             "role_id": 55894704489596,
             "server_region": "europe"
@@ -4109,6 +4134,22 @@
             "role_id": 55911884288522,
             "server_region": "europe"
         },
+        "55911884295907": {
+            "crew_id": 489626284753,
+            "crew_name": "Serenity",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1234107.125,
+            "last_seen": 1762033273,
+            "level": 100,
+            "name": "darks#d#a",
+            "name_history": [
+                "darks#d#a"
+            ],
+            "registered": "Aug 11, 2022, 7:58:02 PM",
+            "role_id": 55911884295907,
+            "server_region": "europe"
+        },
         "55911884298131": {
             "crew_id": 0,
             "crew_name": "",
@@ -4214,6 +4255,22 @@
             "role_id": 55916179279694,
             "server_region": "europe"
         },
+        "55916179285563": {
+            "crew_id": 5012226847451,
+            "crew_name": "Sleepless Roses",
+            "equipping_title": "Tencent_Sever_77",
+            "gender": 0,
+            "hp": 1967633.875,
+            "last_seen": 1762033273,
+            "level": 100,
+            "name": "L3G1-0N",
+            "name_history": [
+                "L3G1-0N"
+            ],
+            "registered": "Aug 13, 2022, 11:46:14 AM",
+            "role_id": 55916179285563,
+            "server_region": "europe"
+        },
         "55916179286651": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
@@ -4287,6 +4344,22 @@
             "name": "ZeroX5",
             "registered": "Dec 3, 2022, 4:00:03 PM",
             "role_id": 55916179344562,
+            "server_region": "europe"
+        },
+        "55920474200512": {
+            "crew_id": 34359751382,
+            "crew_name": "Bad Company",
+            "equipping_title": "Title_tencentshare_os_14",
+            "gender": 1,
+            "hp": 1585771.625,
+            "last_seen": 1762033273,
+            "level": 100,
+            "name": "sssftcore",
+            "name_history": [
+                "sssftcore"
+            ],
+            "registered": "Aug 11, 2022, 2:08:24 PM",
+            "role_id": 55920474200512,
             "server_region": "europe"
         },
         "55920474207003": {
@@ -9418,8 +9491,8 @@
             "crew_name": "ColdHeart",
             "equipping_title": "2_10_0_4",
             "gender": 0,
-            "hp": 1865218.25,
-            "last_seen": 1762019734,
+            "hp": 1876229.25,
+            "last_seen": 1762033273,
             "level": 100,
             "name": "woltanes",
             "name_history": [
@@ -9528,8 +9601,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 797,
+    "accounts_total": 801,
     "created": "1753816624",
-    "last_updated": 1762033213,
+    "last_updated": 1762033273,
     "server_region": "europe"
 }
