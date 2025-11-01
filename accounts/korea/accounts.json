@@ -154,16 +154,19 @@
             "server_region": "korea"
         },
         "42945811784487338": {
-            "crew_id": "867593392893",
+            "crew_id": 867593392893,
             "crew_name": "별",
             "equipping_title": "2_2_0_26",
-            "gender": "1",
-            "hp": "2535895.75",
-            "last_seen": "1760537468",
-            "level": "100",
+            "gender": 1,
+            "hp": 2389642.75,
+            "last_seen": 1762011582,
+            "level": 100,
             "name": " 라플라스",
+            "name_history": [
+                " 라플라스"
+            ],
             "registered": "Oct 16, 2022, 11:58:34 AM",
-            "role_id": "42945811784487338",
+            "role_id": 42945811784487338,
             "server_region": "korea"
         },
         "42945811784490276": {
@@ -1109,6 +1112,6 @@
     },
     "accounts_total": 92,
     "created": "1757257775",
-    "last_updated": 1762011342,
+    "last_updated": 1762011582,
     "server_region": "korea"
 }
