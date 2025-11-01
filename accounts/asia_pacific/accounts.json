@@ -275,6 +275,22 @@
             "role_id": "47248935356136",
             "server_region": "asia_pacific"
         },
+        "47248935473710": {
+            "crew_id": 326417525509,
+            "crew_name": "桜カフェ",
+            "equipping_title": "Title_tencentshare_os_13",
+            "gender": 1,
+            "hp": 2034257.875,
+            "last_seen": 1762002061,
+            "level": 100,
+            "name": "エクレア",
+            "name_history": [
+                "エクレア"
+            ],
+            "registered": "Nov 19, 2022, 8:09:57 PM",
+            "role_id": 47248935473710,
+            "server_region": "asia_pacific"
+        },
         "47248935478730": {
             "crew_id": "5531917888271",
             "crew_name": "交錯せし青眼",
@@ -2497,16 +2513,19 @@
             "server_region": "asia_pacific"
         },
         "47274705080525": {
-            "crew_id": "30064782079",
+            "crew_id": 30064782079,
             "crew_name": "腐海ノ民",
             "equipping_title": "HuntingRank_1;imitation_11;2",
-            "gender": "0",
-            "hp": "2816089.0",
-            "last_seen": "1761482158",
-            "level": "100",
+            "gender": 0,
+            "hp": 2673955.25,
+            "last_seen": 1762002061,
+            "level": 100,
             "name": "tkcs",
+            "name_history": [
+                "tkcs"
+            ],
             "registered": "Aug 12, 2022, 4:09:20 PM",
-            "role_id": "47274705080525",
+            "role_id": 47274705080525,
             "server_region": "asia_pacific"
         },
         "47274705081697": {
@@ -3710,13 +3729,19 @@
             "server_region": "asia_pacific"
         },
         "47291884901849": {
-            "crew_id": "3324304698115",
+            "crew_id": 3324304698115,
             "crew_name": "COLORS",
-            "gender": "0",
-            "last_seen": "1759400581",
+            "equipping_title": "Title_tencentshare_os_17",
+            "gender": 0,
+            "hp": 2510851.0,
+            "last_seen": 1762002061,
+            "level": 100,
             "name": " のりお ",
+            "name_history": [
+                " のりお "
+            ],
             "registered": "Aug 11, 2022, 9:04:08 AM",
-            "role_id": "47291884901849",
+            "role_id": 47291884901849,
             "server_region": "asia_pacific"
         },
         "47291884903282": {
@@ -18016,8 +18041,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1587,
+    "accounts_total": 1588,
     "created": "1754829154",
-    "last_updated": 1762002000,
+    "last_updated": 1762002061,
     "server_region": "asia_pacific"
 }
