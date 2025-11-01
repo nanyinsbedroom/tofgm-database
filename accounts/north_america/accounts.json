@@ -2160,9 +2160,15 @@
         "51599737139243": {
             "crew_id": 1056561966818,
             "crew_name": "Grand Order",
+            "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "last_seen": 1759291631,
+            "hp": 2770868.5,
+            "last_seen": 1762020155,
+            "level": 100,
             "name": "GaoGaiGar",
+            "name_history": [
+                "GaoGaiGar"
+            ],
             "registered": "Aug 12, 2022, 3:15:23 AM",
             "role_id": 51599737139243,
             "server_region": "north_america"
@@ -2535,6 +2541,22 @@
             "name": "Afinity Gen",
             "registered": "Aug 10, 2022, 11:04:37 PM",
             "role_id": 51616916971175,
+            "server_region": "north_america"
+        },
+        "51616916982730": {
+            "crew_id": 2899102936810,
+            "crew_name": "Soul Rescuers",
+            "equipping_title": "Title_iwshare_os_8",
+            "gender": 1,
+            "hp": 1928780.25,
+            "last_seen": 1762020155,
+            "level": 100,
+            "name": "Arikado33",
+            "name_history": [
+                "Arikado33"
+            ],
+            "registered": "Aug 11, 2022, 2:48:45 AM",
+            "role_id": 51616916982730,
             "server_region": "north_america"
         },
         "51616916993668": {
@@ -3172,6 +3194,22 @@
             "role_id": 51629802185632,
             "server_region": "north_america"
         },
+        "51629802187318": {
+            "crew_id": 6227702591201,
+            "crew_name": "Tower of Heroes",
+            "equipping_title": "Title_tencentshare_os_15",
+            "gender": 1,
+            "hp": 1555291.625,
+            "last_seen": 1762020155,
+            "level": 100,
+            "name": "evcrlasting",
+            "name_history": [
+                "evcrlasting"
+            ],
+            "registered": "Feb 17, 2024, 6:13:35 PM",
+            "role_id": 51629802187318,
+            "server_region": "north_america"
+        },
         "51629802198258": {
             "crew_id": 803158896357,
             "crew_name": "Solstice",
@@ -3313,9 +3351,15 @@
         "51629802232747": {
             "crew_id": 47244652263,
             "crew_name": "Crusaders",
+            "equipping_title": "2_8_0_9",
             "gender": 0,
-            "last_seen": 1757696334,
+            "hp": 2168065.0,
+            "last_seen": 1762020155,
+            "level": 100,
             "name": "Ember Drifts",
+            "name_history": [
+                "Ember Drifts"
+            ],
             "registered": "May 14, 2024, 2:55:09 PM",
             "role_id": 51629802232747,
             "server_region": "north_america"
@@ -5324,8 +5368,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 475,
+    "accounts_total": 477,
     "created": 1753804860,
-    "last_updated": 1762020095,
+    "last_updated": 1762020155,
     "server_region": "north_america"
 }
