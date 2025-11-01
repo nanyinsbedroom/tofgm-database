@@ -304,16 +304,19 @@
             "server_region": "south_america"
         },
         "64454574214160": {
-            "crew_id": "25769818789",
+            "crew_id": 25769818789,
             "crew_name": "BRASIL",
             "equipping_title": "3_2022",
-            "gender": "0",
-            "hp": "2291852.0",
-            "last_seen": "1761989560",
-            "level": "100",
+            "gender": 0,
+            "hp": 2291852.0,
+            "last_seen": 1762003804,
+            "level": 100,
             "name": "hatsuune mikü",
+            "name_history": [
+                "hatsuune mikü"
+            ],
             "registered": "Aug 10, 2022, 8:03:05 PM",
-            "role_id": "64454574214160",
+            "role_id": 64454574214160,
             "server_region": "south_america"
         },
         "64454574260562": {
@@ -1315,6 +1318,6 @@
     },
     "accounts_total": 118,
     "created": "1757168442",
-    "last_updated": 1762003383,
+    "last_updated": 1762003804,
     "server_region": "south_america"
 }
