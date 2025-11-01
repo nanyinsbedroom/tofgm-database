@@ -437,6 +437,22 @@
             "role_id": 8598528822097211,
             "server_region": "ps_europe"
         },
+        "8598528822097945": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16324.9501953125,
+            "last_seen": 1762006428,
+            "level": 10,
+            "name": "Sennade",
+            "name_history": [
+                "Sennade"
+            ],
+            "registered": "Oct 30, 2025, 9:03:24 AM",
+            "role_id": 8598528822097945,
+            "server_region": "ps_europe"
+        },
         "8598528822098372": {
             "crew_id": 6768870460497,
             "crew_name": "«RaW»",
@@ -563,6 +579,22 @@
             ],
             "registered": "Nov 1, 2025, 2:02:06 PM",
             "role_id": 8598528822099899,
+            "server_region": "ps_europe"
+        },
+        "8598528822099900": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2140.55322265625,
+            "last_seen": 1762006428,
+            "level": 6,
+            "name": "Guraga",
+            "name_history": [
+                "Guraga"
+            ],
+            "registered": "Nov 1, 2025, 2:02:43 PM",
+            "role_id": 8598528822099900,
             "server_region": "ps_europe"
         },
         "8598528822099913": {
@@ -859,8 +891,8 @@
             "server_region": "ps_europe"
         }
     },
-    "accounts_total": 57,
+    "accounts_total": 59,
     "created": 1761831151,
-    "last_updated": 1762006368,
+    "last_updated": 1762006428,
     "server_region": "ps_europe"
 }
