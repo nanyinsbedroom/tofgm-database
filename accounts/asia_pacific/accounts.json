@@ -11536,16 +11536,19 @@
             "server_region": "asia_pacific"
         },
         "47343427934106": {
-            "crew_id": "5652176972539",
+            "crew_id": 5652176972539,
             "crew_name": "tiro finale",
-            "equipping_title": "HuntingRank_3;imitation_53;20",
-            "gender": "1",
-            "hp": "1070749.0",
-            "last_seen": "1760373020",
-            "level": "93",
+            "equipping_title": "2_10_0_6",
+            "gender": 1,
+            "hp": 1190921.5,
+            "last_seen": 1762001880,
+            "level": 100,
             "name": "H O T A R U",
+            "name_history": [
+                "H O T A R U"
+            ],
             "registered": "Sep 21, 2025, 8:52:26 PM",
-            "role_id": "47343427934106",
+            "role_id": 47343427934106,
             "server_region": "asia_pacific"
         },
         "47343427934111": {
@@ -17889,6 +17892,6 @@
     },
     "accounts_total": 1581,
     "created": "1754829154",
-    "last_updated": 1762001820,
+    "last_updated": 1762001880,
     "server_region": "asia_pacific"
 }
