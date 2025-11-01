@@ -3402,16 +3402,19 @@
             "server_region": "europe"
         },
         "55903294350453": {
-            "crew_id": "2538325684941",
+            "crew_id": 2538325684941,
             "crew_name": "  ",
             "equipping_title": "Title_iwshare_os_24",
-            "gender": "0",
-            "hp": "1672819.625",
-            "last_seen": "1761670709",
-            "level": "100",
+            "gender": 0,
+            "hp": 1679297.375,
+            "last_seen": 1762002722,
+            "level": 100,
             "name": "Doryiama",
+            "name_history": [
+                "Doryiama"
+            ],
             "registered": "Aug 11, 2022, 10:49:35 AM",
-            "role_id": "55903294350453",
+            "role_id": 55903294350453,
             "server_region": "europe"
         },
         "55903294351577": {
@@ -5697,16 +5700,19 @@
             "server_region": "europe"
         },
         "55963424568264": {
-            "crew_id": "4814658351820",
+            "crew_id": 4814658351820,
             "crew_name": "New Hope",
-            "equipping_title": "Syren's Successor,1",
-            "gender": "1",
-            "hp": "1433847.5",
-            "last_seen": "1761602886",
-            "level": "100",
+            "equipping_title": "Syren的后继者,1",
+            "gender": 1,
+            "hp": 2285471.0,
+            "last_seen": 1762002722,
+            "level": 100,
             "name": "Zaira",
+            "name_history": [
+                "Zaira"
+            ],
             "registered": "Jun 13, 2024, 6:42:54 PM",
-            "role_id": "55963424568264",
+            "role_id": 55963424568264,
             "server_region": "europe"
         },
         "55963424579160": {
@@ -8607,6 +8613,6 @@
     },
     "accounts_total": 750,
     "created": "1753816624",
-    "last_updated": 1762002662,
+    "last_updated": 1762002722,
     "server_region": "europe"
 }
