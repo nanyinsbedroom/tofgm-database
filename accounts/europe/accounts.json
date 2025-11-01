@@ -3148,13 +3148,19 @@
             "server_region": "europe"
         },
         "55894704403377": {
-            "crew_id": "0",
-            "crew_name": "",
-            "gender": "0",
-            "last_seen": "1758222051",
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "Ari_AnemoHeart的启迪人,1",
+            "gender": 0,
+            "hp": 2428157.0,
+            "last_seen": 1762009717,
+            "level": 100,
             "name": "Exterminatus",
+            "name_history": [
+                "Exterminatus"
+            ],
             "registered": "Aug 11, 2022, 3:49:27 AM",
-            "role_id": "55894704403377",
+            "role_id": 55894704403377,
             "server_region": "europe"
         },
         "55894704409146": {
@@ -8924,6 +8930,6 @@
     },
     "accounts_total": 767,
     "created": "1753816624",
-    "last_updated": 1762009597,
+    "last_updated": 1762009717,
     "server_region": "europe"
 }
