@@ -1862,16 +1862,19 @@
             "server_region": "southeast_asia"
         },
         "68732361721345": {
-            "crew_id": "2516850851459",
+            "crew_id": 2516850851459,
             "crew_name": "Schwarz Studio",
             "equipping_title": "2_2_0_21",
-            "gender": "1",
-            "hp": "2677088.5",
-            "last_seen": "1761985833",
-            "level": "100",
+            "gender": 1,
+            "hp": 2385607.25,
+            "last_seen": 1761995123,
+            "level": 100,
             "name": "Inorinae",
+            "name_history": [
+                "Inorinae"
+            ],
             "registered": "Aug 16, 2022, 2:46:16 PM",
-            "role_id": "68732361721345",
+            "role_id": 68732361721345,
             "server_region": "southeast_asia"
         },
         "68732361722341": {
@@ -19433,6 +19436,6 @@
     },
     "accounts_total": 1697,
     "created": "1753795148",
-    "last_updated": 1761994943,
+    "last_updated": 1761995123,
     "server_region": "southeast_asia"
 }
