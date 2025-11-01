@@ -3376,19 +3376,19 @@
             "server_region": "southeast_asia"
         },
         "68740951607904": {
-            "crew_id": "1662152359567",
+            "crew_id": 1662152359567,
             "crew_name": "Luminous",
             "equipping_title": "1_6_4_17",
-            "gender": "1",
-            "hp": "2369043.0",
-            "last_seen": "1761991511",
-            "level": "100",
+            "gender": 1,
+            "hp": 2369043.0,
+            "last_seen": 1761998637,
+            "level": 100,
             "name": "woniee",
             "name_history": [
                 "woniee"
             ],
             "registered": "Aug 12, 2022, 11:10:27 AM",
-            "role_id": "68740951607904",
+            "role_id": 68740951607904,
             "server_region": "southeast_asia"
         },
         "68740951613144": {
@@ -10340,16 +10340,19 @@
             "server_region": "southeast_asia"
         },
         "68775311727626": {
-            "crew_id": "532575960705",
+            "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "Title_KoreaAnniversary23",
-            "gender": "1",
-            "hp": "1404609.75",
-            "last_seen": "1761666476",
-            "level": "100",
+            "gender": 1,
+            "hp": 1405955.0,
+            "last_seen": 1761998637,
+            "level": 100,
             "name": "Buncu",
+            "name_history": [
+                "Buncu"
+            ],
             "registered": "Mar 11, 2025, 7:49:40 PM",
-            "role_id": "68775311727626",
+            "role_id": 68775311727626,
             "server_region": "southeast_asia"
         },
         "68775311727634": {
@@ -13239,16 +13242,19 @@
             "server_region": "southeast_asia"
         },
         "68775311751435": {
-            "crew_id": "532575960705",
+            "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "1_7_1_1",
-            "gender": "1",
-            "hp": "1225133.875",
-            "last_seen": "1761660824",
-            "level": "100",
+            "gender": 1,
+            "hp": 1284382.625,
+            "last_seen": 1761998637,
+            "level": 100,
             "name": "♥ โมจิ ♥",
+            "name_history": [
+                "♥ โมจิ ♥"
+            ],
             "registered": "Sep 17, 2025, 5:56:01 PM",
-            "role_id": "68775311751435",
+            "role_id": 68775311751435,
             "server_region": "southeast_asia"
         },
         "68775311751442": {
@@ -19522,6 +19528,6 @@
     },
     "accounts_total": 1699,
     "created": "1753795148",
-    "last_updated": 1761998457,
+    "last_updated": 1761998637,
     "server_region": "southeast_asia"
 }
