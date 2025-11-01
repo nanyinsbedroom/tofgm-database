@@ -1662,13 +1662,19 @@
             "server_region": "europe"
         },
         "55860344694506": {
-            "crew_id": "1653562421982",
+            "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "gender": "1",
-            "last_seen": "1759610357",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2200644.25,
+            "last_seen": 1762010259,
+            "level": 100,
             "name": "Nozn",
+            "name_history": [
+                "Nozn"
+            ],
             "registered": "Aug 11, 2022, 2:25:22 PM",
-            "role_id": "55860344694506",
+            "role_id": 55860344694506,
             "server_region": "europe"
         },
         "55860344695145": {
@@ -1758,6 +1764,22 @@
             "name": "Madam Mersedes",
             "registered": "Aug 22, 2022, 9:58:01 PM",
             "role_id": "55860344764081",
+            "server_region": "europe"
+        },
+        "55860344775325": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1357217.0,
+            "last_seen": 1762010259,
+            "level": 100,
+            "name": "K423#e",
+            "name_history": [
+                "K423#e"
+            ],
+            "registered": "Sep 10, 2022, 2:28:04 PM",
+            "role_id": 55860344775325,
             "server_region": "europe"
         },
         "55860344784264": {
@@ -1876,16 +1898,19 @@
             "server_region": "europe"
         },
         "55864639647997": {
-            "crew_id": "489626284753",
+            "crew_id": 489626284753,
             "crew_name": "Serenity",
-            "equipping_title": "2_2_0_27",
-            "gender": "0",
-            "hp": "3201550.5",
-            "last_seen": "1760979591",
-            "level": "100",
+            "equipping_title": "1_1_30_1",
+            "gender": 0,
+            "hp": 2717215.0,
+            "last_seen": 1762010259,
+            "level": 100,
             "name": "ρнιℓѕкα ツ",
+            "name_history": [
+                "ρнιℓѕкα ツ"
+            ],
             "registered": "Aug 11, 2022, 1:48:44 PM",
-            "role_id": "55864639647997",
+            "role_id": 55864639647997,
             "server_region": "europe"
         },
         "55864639648574": {
@@ -2156,6 +2181,22 @@
             "name": "PSL95",
             "registered": "Aug 11, 2022, 10:05:04 AM",
             "role_id": "55868934606450",
+            "server_region": "europe"
+        },
+        "55868934608181": {
+            "crew_id": 163208770274,
+            "crew_name": "WeebMasters",
+            "equipping_title": "AlFinal.001的学徒,0",
+            "gender": 0,
+            "hp": 2115518.25,
+            "last_seen": 1762010259,
+            "level": 100,
+            "name": "ATSUSHI#l",
+            "name_history": [
+                "ATSUSHI#l"
+            ],
+            "registered": "Aug 11, 2022, 10:13:39 AM",
+            "role_id": 55868934608181,
             "server_region": "europe"
         },
         "55868934619084": {
@@ -2453,7 +2494,7 @@
             "equipping_title": "3_2023",
             "gender": 0,
             "hp": 2129253.75,
-            "last_seen": 1762002842,
+            "last_seen": 1762010259,
             "level": 100,
             "name": "Devil Jr",
             "name_history": [
@@ -2560,7 +2601,7 @@
             "equipping_title": "Exterminatus的后继者,1",
             "gender": 1,
             "hp": 2318274.75,
-            "last_seen": 1762002842,
+            "last_seen": 1762010259,
             "level": 100,
             "name": "Ari_AnemoHeart",
             "name_history": [
@@ -6386,6 +6427,22 @@
             "role_id": "55963424687375",
             "server_region": "europe"
         },
+        "55963424687989": {
+            "crew_id": 1666447323853,
+            "crew_name": "Elysian Realm",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 1022610.5,
+            "last_seen": 1762010259,
+            "level": 85,
+            "name": " ••••Eren",
+            "name_history": [
+                " ••••Eren"
+            ],
+            "registered": "Apr 6, 2025, 1:34:54 PM",
+            "role_id": 55963424687989,
+            "server_region": "europe"
+        },
         "55963424691429": {
             "crew_id": "2723009278671",
             "crew_name": "Ɽ₳₲₦₳ⱤØ₭",
@@ -6545,6 +6602,22 @@
             "name": "Розочка",
             "registered": "May 12, 2025, 4:42:30 PM",
             "role_id": "55963424697528",
+            "server_region": "europe"
+        },
+        "55963424698423": {
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "HuntingRank_3;imitation_53;16",
+            "gender": 1,
+            "hp": 1360683.0,
+            "last_seen": 1762010259,
+            "level": 100,
+            "name": "Jaylene",
+            "name_history": [
+                "Jaylene"
+            ],
+            "registered": "May 15, 2025, 6:05:06 PM",
+            "role_id": 55963424698423,
             "server_region": "europe"
         },
         "55963424698541": {
@@ -8975,8 +9048,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 769,
+    "accounts_total": 773,
     "created": "1753816624",
-    "last_updated": 1762010199,
+    "last_updated": 1762010259,
     "server_region": "europe"
 }
