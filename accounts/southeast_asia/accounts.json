@@ -3455,10 +3455,13 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "2_2_0_15",
             "gender": 1,
-            "hp": 2363765.75,
-            "last_seen": 1761985893,
+            "hp": 2114093.5,
+            "last_seen": 1761991270,
             "level": 100,
             "name": "The Herta 银狼",
+            "name_history": [
+                "The Herta 银狼"
+            ],
             "registered": "Aug 13, 2022, 12:55:57 PM",
             "role_id": 68740951617956,
             "server_region": "southeast_asia"
@@ -5353,7 +5356,7 @@
             "equipping_title": "1_1_28_1",
             "gender": 0,
             "hp": 2698083.25,
-            "last_seen": 1761991210,
+            "last_seen": 1761991270,
             "level": 100,
             "name": "Pua",
             "name_history": [
@@ -6896,7 +6899,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1269126.375,
-            "last_seen": 1761991210,
+            "last_seen": 1761991270,
             "level": 100,
             "name": "曼珠沙華・蛸焼",
             "name_history": [
@@ -7690,6 +7693,22 @@
             "name": "EnGoNori",
             "registered": "Aug 11, 2022, 10:12:59 AM",
             "role_id": 68775311317906,
+            "server_region": "southeast_asia"
+        },
+        "68775311318947": {
+            "crew_id": 184683609733,
+            "crew_name": "Guardian",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1912831.0,
+            "last_seen": 1761991270,
+            "level": 100,
+            "name": " Reiko",
+            "name_history": [
+                " Reiko"
+            ],
+            "registered": "Aug 11, 2022, 10:17:36 AM",
+            "role_id": 68775311318947,
             "server_region": "southeast_asia"
         },
         "68775311319511": {
@@ -9653,6 +9672,22 @@
             "role_id": 68775311709525,
             "server_region": "southeast_asia"
         },
+        "68775311710466": {
+            "crew_id": 3723736661641,
+            "crew_name": "Aspen",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1232812.0,
+            "last_seen": 1761991270,
+            "level": 100,
+            "name": "Nolo Gareng",
+            "name_history": [
+                "Nolo Gareng"
+            ],
+            "registered": "Nov 27, 2024, 10:40:56 PM",
+            "role_id": 68775311710466,
+            "server_region": "southeast_asia"
+        },
         "68775311710664": {
             "crew_id": 0,
             "crew_name": "",
@@ -10408,10 +10443,13 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1283571.875,
-            "last_seen": 1760622779,
-            "level": 98,
+            "hp": 1276551.875,
+            "last_seen": 1761991270,
+            "level": 100,
             "name": "tt",
+            "name_history": [
+                "tt"
+            ],
             "registered": "Mar 22, 2025, 11:16:23 AM",
             "role_id": 68775311729024,
             "server_region": "southeast_asia"
@@ -16971,9 +17009,12 @@
             "equipping_title": "FriK√SweetEyes的后继者,1",
             "gender": 1,
             "hp": 2869721.5,
-            "last_seen": 1761842525,
+            "last_seen": 1761991270,
             "level": 100,
             "name": "RuneStone",
+            "name_history": [
+                "RuneStone"
+            ],
             "registered": "Aug 11, 2022, 12:55:50 PM",
             "role_id": 68788196231468,
             "server_region": "southeast_asia"
@@ -18394,7 +18435,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 2275890.25,
-            "last_seen": 1761991210,
+            "last_seen": 1761991270,
             "level": 100,
             "name": "pesy",
             "name_history": [
@@ -18509,9 +18550,15 @@
         "68801081178337": {
             "crew_id": 347892366985,
             "crew_name": "Nox Society",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1759234266,
+            "hp": 1838015.0,
+            "last_seen": 1761991270,
+            "level": 100,
             "name": "SeLLen#a",
+            "name_history": [
+                "SeLLen#a"
+            ],
             "registered": "Aug 19, 2022, 4:16:50 AM",
             "role_id": 68801081178337,
             "server_region": "southeast_asia"
@@ -19838,8 +19885,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1747,
+    "accounts_total": 1749,
     "created": 1753795148,
-    "last_updated": 1761991210,
+    "last_updated": 1761991270,
     "server_region": "southeast_asia"
 }
