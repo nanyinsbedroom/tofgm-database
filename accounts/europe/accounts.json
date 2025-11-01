@@ -106,13 +106,19 @@
             "server_region": "europe"
         },
         "55838869847308": {
-            "crew_id": "188978574034",
+            "crew_id": 188978574034,
             "crew_name": "HollowHearts",
-            "gender": "1",
-            "last_seen": "1759526408",
+            "equipping_title": "2_2_0_17",
+            "gender": 1,
+            "hp": 1967506.625,
+            "last_seen": 1762010319,
+            "level": 100,
             "name": "hirachie",
+            "name_history": [
+                "hirachie"
+            ],
             "registered": "Aug 11, 2022, 3:12:38 PM",
-            "role_id": "55838869847308",
+            "role_id": 55838869847308,
             "server_region": "europe"
         },
         "55838869848532": {
@@ -5774,6 +5780,22 @@
             "role_id": "55963424476008",
             "server_region": "europe"
         },
+        "55963424478563": {
+            "crew_id": 536870925014,
+            "crew_name": "Hello Kitty ",
+            "equipping_title": "Title_iwshare_os_24",
+            "gender": 0,
+            "hp": 1809352.0,
+            "last_seen": 1762010319,
+            "level": 100,
+            "name": "ushkuynik",
+            "name_history": [
+                "ushkuynik"
+            ],
+            "registered": "Mar 12, 2024, 7:54:29 PM",
+            "role_id": 55963424478563,
+            "server_region": "europe"
+        },
         "55963424478601": {
             "crew_id": "5012226847451",
             "crew_name": "Sleepless Roses",
@@ -6050,13 +6072,19 @@
             "server_region": "europe"
         },
         "55963424603054": {
-            "crew_id": "188978574034",
+            "crew_id": 188978574034,
             "crew_name": "HollowHearts",
-            "gender": "0",
-            "last_seen": "1759526408",
+            "equipping_title": "1_1_27_1",
+            "gender": 0,
+            "hp": 1823386.75,
+            "last_seen": 1762010319,
+            "level": 100,
             "name": " Nagumo",
+            "name_history": [
+                " Nagumo"
+            ],
             "registered": "Aug 20, 2024, 4:46:12 PM",
-            "role_id": "55963424603054",
+            "role_id": 55963424603054,
             "server_region": "europe"
         },
         "55963424604015": {
@@ -9048,8 +9076,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 773,
+    "accounts_total": 774,
     "created": "1753816624",
-    "last_updated": 1762010259,
+    "last_updated": 1762010319,
     "server_region": "europe"
 }
