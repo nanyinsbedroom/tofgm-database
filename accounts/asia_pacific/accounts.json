@@ -3262,16 +3262,19 @@
             "server_region": "asia_pacific"
         },
         "47283294983110": {
-            "crew_id": "141733931777",
+            "crew_id": 141733931777,
             "crew_name": "神々の楽園",
             "equipping_title": "1_4_7_1",
-            "gender": "1",
-            "hp": "1907234.75",
-            "last_seen": "1761987937",
-            "level": "100",
+            "gender": 1,
+            "hp": 1980854.25,
+            "last_seen": 1762001279,
+            "level": 100,
             "name": "ﾉﾚミナ",
+            "name_history": [
+                "ﾉﾚミナ"
+            ],
             "registered": "Aug 11, 2022, 1:23:20 PM",
-            "role_id": "47283294983110",
+            "role_id": 47283294983110,
             "server_region": "asia_pacific"
         },
         "47283294990870": {
@@ -4300,13 +4303,19 @@
             "server_region": "asia_pacific"
         },
         "47300474835708": {
-            "crew_id": "1138166344451",
+            "crew_id": 1138166344451,
             "crew_name": "FATO",
-            "gender": "1",
-            "last_seen": "1757422068",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 2951036.0,
+            "last_seen": 1762001279,
+            "level": 100,
             "name": "ナイン",
+            "name_history": [
+                "ナイン"
+            ],
             "registered": "Aug 11, 2022, 10:49:07 AM",
-            "role_id": "47300474835708",
+            "role_id": 47300474835708,
             "server_region": "asia_pacific"
         },
         "47300474837849": {
@@ -7367,16 +7376,19 @@
             "server_region": "asia_pacific"
         },
         "47343424603273": {
-            "crew_id": "4294978319",
+            "crew_id": 4294978319,
             "crew_name": "クロスギルド",
             "equipping_title": "2_5_0_6",
-            "gender": "0",
-            "hp": "2742390.25",
-            "last_seen": "1761739502",
-            "level": "100",
+            "gender": 0,
+            "hp": 2478123.25,
+            "last_seen": 1762001279,
+            "level": 100,
             "name": "塩野おにぎり",
+            "name_history": [
+                "塩野おにぎり"
+            ],
             "registered": "Aug 23, 2022, 10:30:20 AM",
-            "role_id": "47343424603273",
+            "role_id": 47343424603273,
             "server_region": "asia_pacific"
         },
         "47343424603930": {
@@ -8576,6 +8588,38 @@
             "name": "海色",
             "registered": "Mar 29, 2024, 8:31:12 AM",
             "role_id": "47343427278103",
+            "server_region": "asia_pacific"
+        },
+        "47343427287309": {
+            "crew_id": 575525628667,
+            "crew_name": "女神の祝福",
+            "equipping_title": "Title_iwshare_os_24",
+            "gender": 1,
+            "hp": 1851962.75,
+            "last_seen": 1762001279,
+            "level": 100,
+            "name": "鴇ちゃん",
+            "name_history": [
+                "鴇ちゃん"
+            ],
+            "registered": "Mar 31, 2024, 9:36:37 AM",
+            "role_id": 47343427287309,
+            "server_region": "asia_pacific"
+        },
+        "47343427290782": {
+            "crew_id": 21474847495,
+            "crew_name": "はらぺこっ",
+            "equipping_title": "2_3_0_3",
+            "gender": 0,
+            "hp": 1656888.875,
+            "last_seen": 1762001279,
+            "level": 100,
+            "name": "jitown",
+            "name_history": [
+                "jitown"
+            ],
+            "registered": "Apr 1, 2024, 3:02:34 AM",
+            "role_id": 47343427290782,
             "server_region": "asia_pacific"
         },
         "47343427315514": {
@@ -10315,6 +10359,22 @@
             "name": "キング（ベイツ氏虫）",
             "registered": "Jun 9, 2025, 7:46:03 PM",
             "role_id": "47343427912430",
+            "server_region": "asia_pacific"
+        },
+        "47343427913109": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 1412822.625,
+            "last_seen": 1762001279,
+            "level": 100,
+            "name": "かしみあ",
+            "name_history": [
+                "かしみあ"
+            ],
+            "registered": "Jun 13, 2025, 1:40:38 AM",
+            "role_id": 47343427913109,
             "server_region": "asia_pacific"
         },
         "47343427915363": {
@@ -17757,8 +17817,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1574,
+    "accounts_total": 1577,
     "created": "1754829154",
-    "last_updated": 1762001158,
+    "last_updated": 1762001279,
     "server_region": "asia_pacific"
 }
