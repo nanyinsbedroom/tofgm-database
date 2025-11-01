@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "8602823788950066": {
+            "crew_id": 4844725112889,
+            "crew_name": "ゴールドコア教に入ろう！ ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 891458.0625,
+            "last_seen": 1762009116,
+            "level": 100,
+            "name": "パリピ教祖ハメキル3",
+            "name_history": [
+                "パリピ教祖ハメキル3"
+            ],
+            "registered": "Jan 22, 2024, 5:09:46 AM",
+            "role_id": 8602823788950066,
+            "server_region": "ps_east_asia"
+        },
         "8602823788998074": {
             "crew_id": 0,
             "crew_name": "",
@@ -52,6 +68,38 @@
             "role_id": 8602823789008104,
             "server_region": "ps_east_asia"
         },
+        "8602823789008508": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2921.48095703125,
+            "last_seen": 1762009116,
+            "level": 10,
+            "name": "Minaka Akari ",
+            "name_history": [
+                "Minaka Akari "
+            ],
+            "registered": "Nov 1, 2025, 10:13:53 PM",
+            "role_id": 8602823789008508,
+            "server_region": "ps_east_asia"
+        },
+        "8602823789008520": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2140.55322265625,
+            "last_seen": 1762009116,
+            "level": 6,
+            "name": "SamVelken",
+            "name_history": [
+                "SamVelken"
+            ],
+            "registered": "Nov 1, 2025, 11:27:28 PM",
+            "role_id": 8602823789008520,
+            "server_region": "ps_east_asia"
+        },
         "8602828083898518": {
             "crew_id": 4101695770681,
             "crew_name": "音ライン",
@@ -69,8 +117,8 @@
             "server_region": "ps_east_asia"
         }
     },
-    "accounts_total": 5,
+    "accounts_total": 8,
     "created": 1761831823,
-    "last_updated": 1762009056,
+    "last_updated": 1762009116,
     "server_region": "ps_east_asia"
 }
