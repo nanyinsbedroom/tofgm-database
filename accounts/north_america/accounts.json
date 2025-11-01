@@ -932,16 +932,19 @@
             "server_region": "north_america"
         },
         "51561082529343": {
-            "crew_id": "2637109931749",
+            "crew_id": 2637109931749,
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "2_2_0_21",
-            "gender": "1",
-            "hp": "2770783.75",
-            "last_seen": "1761686156",
-            "level": "100",
+            "gender": 1,
+            "hp": 2723938.0,
+            "last_seen": 1762000016,
+            "level": 100,
             "name": "Sasha",
+            "name_history": [
+                "Sasha"
+            ],
             "registered": "Mar 14, 2023, 2:02:14 AM",
-            "role_id": "51561082529343",
+            "role_id": 51561082529343,
             "server_region": "north_america"
         },
         "51561082530586": {
@@ -5012,6 +5015,6 @@
     },
     "accounts_total": 458,
     "created": "1753804860",
-    "last_updated": 1761999655,
+    "last_updated": 1762000016,
     "server_region": "north_america"
 }
