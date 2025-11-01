@@ -2387,13 +2387,19 @@
             "server_region": "europe"
         },
         "55877524526962": {
-            "crew_id": "725849486034",
+            "crew_id": 725849486034,
             "crew_name": "Harmony",
-            "gender": "0",
-            "last_seen": "1757960541",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2408302.0,
+            "last_seen": 1762002481,
+            "level": 100,
             "name": "Dunidan",
+            "name_history": [
+                "Dunidan"
+            ],
             "registered": "Aug 11, 2022, 1:43:59 AM",
-            "role_id": "55877524526962",
+            "role_id": 55877524526962,
             "server_region": "europe"
         },
         "55877524527221": {
@@ -4031,16 +4037,19 @@
             "server_region": "europe"
         },
         "55929064141636": {
-            "crew_id": "0",
-            "crew_name": "",
-            "equipping_title": "Lyzaria's Apprentice,0",
-            "gender": "1",
-            "hp": "354.0",
-            "last_seen": "1760376056",
-            "level": "1",
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "Lyzaria的学徒,0",
+            "gender": 0,
+            "hp": 1679089.625,
+            "last_seen": 1762002481,
+            "level": 100,
             "name": "AIlyne​",
+            "name_history": [
+                "AIlyne​"
+            ],
             "registered": "Aug 11, 2022, 5:41:49 PM",
-            "role_id": "55929064141636",
+            "role_id": 55929064141636,
             "server_region": "europe"
         },
         "55929064155948": {
@@ -5723,16 +5732,19 @@
             "server_region": "europe"
         },
         "55963424614131": {
-            "crew_id": "133143999181",
+            "crew_id": 133143999181,
             "crew_name": "New Era",
             "equipping_title": "1_7_1_1",
-            "gender": "0",
-            "hp": "1841131.625",
-            "last_seen": "1760374942",
-            "level": "100",
+            "gender": 0,
+            "hp": 1829401.75,
+            "last_seen": 1762002481,
+            "level": 100,
             "name": "Zhestbbb$",
+            "name_history": [
+                "Zhestbbb$"
+            ],
             "registered": "Sep 15, 2024, 4:27:20 AM",
-            "role_id": "55963424614131",
+            "role_id": 55963424614131,
             "server_region": "europe"
         },
         "55963424617810": {
@@ -8518,6 +8530,6 @@
     },
     "accounts_total": 748,
     "created": "1753816624",
-    "last_updated": 1762002421,
+    "last_updated": 1762002481,
     "server_region": "europe"
 }
