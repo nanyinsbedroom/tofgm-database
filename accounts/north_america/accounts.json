@@ -2348,10 +2348,13 @@
             "crew_name": "Michi Pizzería",
             "equipping_title": "1_8_0_32",
             "gender": 0,
-            "hp": 2275371.0,
-            "last_seen": 1760385961,
+            "hp": 2306601.75,
+            "last_seen": 1762035034,
             "level": 100,
             "name": "Luxvax",
+            "name_history": [
+                "Luxvax"
+            ],
             "registered": "Aug 10, 2022, 9:40:16 PM",
             "role_id": 51604032067862,
             "server_region": "north_america"
@@ -2630,6 +2633,22 @@
             "role_id": 51612622027674,
             "server_region": "north_america"
         },
+        "51612622034484": {
+            "crew_id": 803158896357,
+            "crew_name": "Solstice",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2455444.75,
+            "last_seen": 1762035034,
+            "level": 100,
+            "name": "まとい",
+            "name_history": [
+                "まとい"
+            ],
+            "registered": "Aug 11, 2022, 8:22:09 PM",
+            "role_id": 51612622034484,
+            "server_region": "north_america"
+        },
         "51612622079047": {
             "crew_id": 0,
             "crew_name": "",
@@ -2771,7 +2790,7 @@
             "equipping_title": "Gogglez的启迪人,1",
             "gender": 1,
             "hp": 2550122.0,
-            "last_seen": 1762033694,
+            "last_seen": 1762035034,
             "level": 100,
             "name": "AzuraKun",
             "name_history": [
@@ -5651,8 +5670,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 493,
+    "accounts_total": 494,
     "created": 1753804860,
-    "last_updated": 1762034974,
+    "last_updated": 1762035034,
     "server_region": "north_america"
 }
