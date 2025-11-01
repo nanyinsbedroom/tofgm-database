@@ -732,9 +732,15 @@
         "68728066670967": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
+            "equipping_title": "2_2_0_1",
             "gender": 1,
-            "last_seen": 1757330548,
+            "hp": 2302699.25,
+            "last_seen": 1762032706,
+            "level": 100,
             "name": "Rinoa Hātirī",
+            "name_history": [
+                "Rinoa Hātirī"
+            ],
             "registered": "Aug 11, 2022, 7:42:52 AM",
             "role_id": 68728066670967,
             "server_region": "southeast_asia"
@@ -785,9 +791,15 @@
         "68728066674619": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
+            "equipping_title": "Title_txAnniversary01",
             "gender": 0,
-            "last_seen": 1757070269,
+            "hp": 2490005.0,
+            "last_seen": 1762032706,
+            "level": 100,
             "name": "Sukōru Reonhāto",
+            "name_history": [
+                "Sukōru Reonhāto"
+            ],
             "registered": "Aug 11, 2022, 8:58:20 AM",
             "role_id": 68728066674619,
             "server_region": "southeast_asia"
@@ -1244,6 +1256,22 @@
             ],
             "registered": "Dec 25, 2022, 8:58:09 PM",
             "role_id": 68728066761736,
+            "server_region": "southeast_asia"
+        },
+        "68728066857672": {
+            "crew_id": 313532628610,
+            "crew_name": "Rex Incognito",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 1409204.875,
+            "last_seen": 1762032706,
+            "level": 100,
+            "name": "Fionna #c",
+            "name_history": [
+                "Fionna #c"
+            ],
+            "registered": "Mar 30, 2023, 11:57:34 PM",
+            "role_id": 68728066857672,
             "server_region": "southeast_asia"
         },
         "68728066857913": {
@@ -1819,9 +1847,15 @@
         "68732361684103": {
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
+            "equipping_title": "1_2022",
             "gender": 1,
-            "last_seen": 1757884441,
+            "hp": 1893552.75,
+            "last_seen": 1762032706,
+            "level": 100,
             "name": "No_4",
+            "name_history": [
+                "No_4"
+            ],
             "registered": "Aug 12, 2022, 4:19:59 PM",
             "role_id": 68732361684103,
             "server_region": "southeast_asia"
@@ -20107,8 +20141,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1713,
+    "accounts_total": 1714,
     "created": 1753795148,
-    "last_updated": 1762032645,
+    "last_updated": 1762032706,
     "server_region": "southeast_asia"
 }
