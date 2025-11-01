@@ -1330,10 +1330,13 @@
             "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": "1",
-            "hp": "2719832.25",
-            "last_seen": "1760878950",
+            "hp": "2606539.500000",
+            "last_seen": "1762013974",
             "level": "100",
             "name": "aonnml",
+            "name_history": [
+                "aonnml"
+            ],
             "registered": "Aug 11, 2022, 8:14:24 AM",
             "role_id": "68732361643410",
             "server_region": "southeast_asia"
@@ -17230,19 +17233,19 @@
             "server_region": "southeast_asia"
         },
         "68788196231468": {
-            "crew_id": 365072236176,
+            "crew_id": "365072236176",
             "crew_name": "Fairy Tail",
             "equipping_title": "FriK√SweetEyes的后继者,1",
-            "gender": 1,
-            "hp": 2879321.5,
-            "last_seen": 1761999475,
-            "level": 100,
+            "gender": "1",
+            "hp": "2898521.500000",
+            "last_seen": "1762013974",
+            "level": "100",
             "name": "RuneStone",
             "name_history": [
                 "RuneStone"
             ],
             "registered": "Aug 11, 2022, 12:55:50 PM",
-            "role_id": 68788196231468,
+            "role_id": "68788196231468",
             "server_region": "southeast_asia"
         },
         "68788196232377": {
@@ -17914,6 +17917,22 @@
             "name": "Tonarisu",
             "registered": "Aug 15, 2022, 10:52:29 PM",
             "role_id": "68792491237986",
+            "server_region": "southeast_asia"
+        },
+        "68792491250000": {
+            "crew_id": "532575960705",
+            "crew_name": "Origin",
+            "equipping_title": "ZerozXZenith的学徒,0",
+            "gender": "1",
+            "hp": "2416664.250000",
+            "last_seen": "1762013974",
+            "level": "100",
+            "name": "xrosa",
+            "name_history": [
+                "xrosa"
+            ],
+            "registered": "Aug 24, 2022, 1:23:38 PM",
+            "role_id": "68792491250000",
             "server_region": "southeast_asia"
         },
         "68792491262198": {
@@ -19733,8 +19752,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1702,
+    "accounts_total": 1703,
     "created": "1753795148",
-    "last_updated": 1762013914,
+    "last_updated": 1762013974,
     "server_region": "southeast_asia"
 }
