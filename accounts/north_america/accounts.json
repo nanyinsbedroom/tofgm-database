@@ -3569,16 +3569,19 @@
             "server_region": "north_america"
         },
         "51629802329297": {
-            "crew_id": "0",
+            "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_1_22_1",
-            "gender": "0",
-            "hp": "1040050.9375",
-            "last_seen": "1761683749",
-            "level": "98",
+            "gender": 0,
+            "hp": 1040050.9375,
+            "last_seen": 1762000076,
+            "level": 98,
             "name": "Orochimaru",
+            "name_history": [
+                "Orochimaru"
+            ],
             "registered": "Aug 27, 2025, 3:23:08 PM",
-            "role_id": "51629802329297",
+            "role_id": 51629802329297,
             "server_region": "north_america"
         },
         "51629802329908": {
@@ -5015,6 +5018,6 @@
     },
     "accounts_total": 458,
     "created": "1753804860",
-    "last_updated": 1762000016,
+    "last_updated": 1762000076,
     "server_region": "north_america"
 }
