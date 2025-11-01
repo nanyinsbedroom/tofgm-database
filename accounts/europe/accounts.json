@@ -1204,6 +1204,22 @@
             "role_id": "55856049744989",
             "server_region": "europe"
         },
+        "55856049754652": {
+            "crew_id": 133143999181,
+            "crew_name": "New Era",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2328419.25,
+            "last_seen": 1762010199,
+            "level": 100,
+            "name": "            ",
+            "name_history": [
+                "            "
+            ],
+            "registered": "Aug 16, 2022, 9:05:45 PM",
+            "role_id": 55856049754652,
+            "server_region": "europe"
+        },
         "55856049761223": {
             "crew_id": "2495376011981",
             "crew_name": "Date A Live",
@@ -1765,13 +1781,19 @@
             "server_region": "europe"
         },
         "55864639619758": {
-            "crew_id": "489626284753",
+            "crew_id": 489626284753,
             "crew_name": "Serenity",
-            "gender": "0",
-            "last_seen": "1757786580",
+            "equipping_title": "Dad‎dy的启迪人,1",
+            "gender": 0,
+            "hp": 2715423.0,
+            "last_seen": 1762010199,
+            "level": 100,
             "name": "Ogaw​a",
+            "name_history": [
+                "Ogaw​a"
+            ],
             "registered": "Aug 11, 2022, 1:38:29 AM",
-            "role_id": "55864639619758",
+            "role_id": 55864639619758,
             "server_region": "europe"
         },
         "55864639621463": {
@@ -4440,7 +4462,7 @@
             "equipping_title": "STelepov的学徒,0",
             "gender": 0,
             "hp": 1312826.25,
-            "last_seen": 1762002542,
+            "last_seen": 1762010199,
             "level": 100,
             "name": "Leo220",
             "name_history": [
@@ -6701,16 +6723,19 @@
             "server_region": "europe"
         },
         "55963424709121": {
-            "crew_id": "322122560209",
+            "crew_id": 322122560209,
             "crew_name": "Apocalypse ",
             "equipping_title": "1_6_2_1",
-            "gender": "1",
-            "hp": "1787607.25",
-            "last_seen": "1761068245",
-            "level": "100",
+            "gender": 1,
+            "hp": 1832962.625,
+            "last_seen": 1762010199,
+            "level": 100,
             "name": "Aeryn Sun",
+            "name_history": [
+                "Aeryn Sun"
+            ],
             "registered": "Jun 24, 2025, 8:34:24 PM",
-            "role_id": "55963424709121",
+            "role_id": 55963424709121,
             "server_region": "europe"
         },
         "55963424709189": {
@@ -8898,16 +8923,19 @@
             "server_region": "europe"
         },
         "55976308990051": {
-            "crew_id": "2697239474913",
+            "crew_id": 2697239474913,
             "crew_name": "Asylum",
-            "equipping_title": "Kanatsuki's Successor,1",
-            "gender": "0",
-            "hp": "2421633.25",
-            "last_seen": "1760456473",
-            "level": "100",
+            "equipping_title": "Kanatsuki的后继者,1",
+            "gender": 0,
+            "hp": 2669030.25,
+            "last_seen": 1762010199,
+            "level": 100,
             "name": " Kyri",
+            "name_history": [
+                " Kyri"
+            ],
             "registered": "May 30, 2023, 8:44:00 AM",
-            "role_id": "55976308990051",
+            "role_id": 55976308990051,
             "server_region": "europe"
         },
         "55976308995371": {
@@ -8947,8 +8975,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 768,
+    "accounts_total": 769,
     "created": "1753816624",
-    "last_updated": 1762010138,
+    "last_updated": 1762010199,
     "server_region": "europe"
 }
