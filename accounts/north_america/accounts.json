@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "51543902519794": {
+            "crew_id": 803158896357,
+            "crew_name": "Solstice",
+            "equipping_title": "2_5_0_6",
+            "gender": 0,
+            "hp": 2079406.25,
+            "last_seen": 1762000316,
+            "level": 100,
+            "name": "Hurpy",
+            "name_history": [
+                "Hurpy"
+            ],
+            "registered": "Aug 10, 2022, 7:36:04 PM",
+            "role_id": 51543902519794,
+            "server_region": "north_america"
+        },
         "51543902524627": {
             "crew_id": "717259550433",
             "crew_name": "♥︎GreatJourney★",
@@ -974,13 +990,19 @@
             "server_region": "north_america"
         },
         "51565377363781": {
-            "crew_id": "3633542344423",
+            "crew_id": 3633542344423,
             "crew_name": "EverꙞgaꙞrꙞden",
-            "gender": "0",
-            "last_seen": "1754838329",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2109591.5,
+            "last_seen": 1762000316,
+            "level": 100,
             "name": "CYBERGAMER",
+            "name_history": [
+                "CYBERGAMER"
+            ],
             "registered": "Aug 10, 2022, 8:20:28 PM",
-            "role_id": "51565377363781",
+            "role_id": 51565377363781,
             "server_region": "north_america"
         },
         "51565377366612": {
@@ -1507,6 +1529,22 @@
             "role_id": "51582557245228",
             "server_region": "north_america"
         },
+        "51582557254693": {
+            "crew_id": 12884913898,
+            "crew_name": "Requiem",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 1864700.375,
+            "last_seen": 1762000316,
+            "level": 100,
+            "name": "Yuriga",
+            "name_history": [
+                "Yuriga"
+            ],
+            "registered": "Aug 11, 2022, 11:23:49 AM",
+            "role_id": 51582557254693,
+            "server_region": "north_america"
+        },
         "51582557260844": {
             "crew_id": "4294979298",
             "crew_name": "Sovereign",
@@ -1702,6 +1740,22 @@
             "role_id": "51591147226584",
             "server_region": "north_america"
         },
+        "51591147230727": {
+            "crew_id": 38654717676,
+            "crew_name": "Dreamlight",
+            "equipping_title": "Overseas2_7",
+            "gender": 0,
+            "hp": 1489691.125,
+            "last_seen": 1762000316,
+            "level": 100,
+            "name": "WolfBoy039",
+            "name_history": [
+                "WolfBoy039"
+            ],
+            "registered": "Aug 16, 2022, 1:11:43 PM",
+            "role_id": 51591147230727,
+            "server_region": "north_america"
+        },
         "51591147231772": {
             "crew_id": "3633542344423",
             "crew_name": "EverꙞgaꙞrꙞden",
@@ -1760,6 +1814,22 @@
             "name": "Odezsa",
             "registered": "Aug 11, 2022, 8:56:10 PM",
             "role_id": "51595442168318",
+            "server_region": "north_america"
+        },
+        "51595442174635": {
+            "crew_id": 2637109931749,
+            "crew_name": "♥︎ Coalition ♡",
+            "equipping_title": "Tian Lаng的启迪人,1",
+            "gender": 0,
+            "hp": 2380512.5,
+            "last_seen": 1762000316,
+            "level": 100,
+            "name": "Kuba",
+            "name_history": [
+                "Kuba"
+            ],
+            "registered": "Aug 12, 2022, 3:18:58 AM",
+            "role_id": 51595442174635,
             "server_region": "north_america"
         },
         "51595442192242": {
@@ -5134,8 +5204,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 465,
+    "accounts_total": 469,
     "created": "1753804860",
-    "last_updated": 1762000256,
+    "last_updated": 1762000316,
     "server_region": "north_america"
 }
