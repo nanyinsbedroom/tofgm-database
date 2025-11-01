@@ -183,7 +183,7 @@
             "equipping_title": "1_1_27_1",
             "gender": 0,
             "hp": 1842396.75,
-            "last_seen": 1762014696,
+            "last_seen": 1762021977,
             "level": 100,
             "name": "Aile Hato",
             "name_history": [
@@ -1403,7 +1403,7 @@
             "equipping_title": "slime-X的学徒,0",
             "gender": 0,
             "hp": 1965931.125,
-            "last_seen": 1762013854,
+            "last_seen": 1762021977,
             "level": 100,
             "name": "Biriiii",
             "name_history": [
@@ -1881,11 +1881,17 @@
             "server_region": "southeast_asia"
         },
         "68732361696129": {
-            "crew_id": 562640731778,
-            "crew_name": "FridayKnight",
-            "gender": 0,
-            "last_seen": 1759845837,
-            "name": "✂ кιм",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_10_1_3",
+            "gender": 1,
+            "hp": 1732928.125,
+            "last_seen": 1762021977,
+            "level": 100,
+            "name": "°✿Noun",
+            "name_history": [
+                "°✿Noun"
+            ],
             "registered": "Aug 13, 2022, 1:19:26 PM",
             "role_id": 68732361696129,
             "server_region": "southeast_asia"
@@ -2155,8 +2161,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 2364679.25,
-            "last_seen": 1761994702,
+            "hp": 2367780.5,
+            "last_seen": 1762021977,
             "level": 100,
             "name": "_IRISs_",
             "name_history": [
@@ -4643,9 +4649,15 @@
         "68749541575326": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1756657174,
-            "name": "Chef Mashiro",
+            "hp": 1586167.375,
+            "last_seen": 1762021977,
+            "level": 100,
+            "name": "Chef Uika",
+            "name_history": [
+                "Chef Uika"
+            ],
             "registered": "Aug 16, 2022, 7:18:25 AM",
             "role_id": 68749541575326,
             "server_region": "southeast_asia"
@@ -20027,6 +20039,6 @@
     },
     "accounts_total": 1712,
     "created": 1753795148,
-    "last_updated": 1762021917,
+    "last_updated": 1762021977,
     "server_region": "southeast_asia"
 }
