@@ -7704,16 +7704,19 @@
             "server_region": "southeast_asia"
         },
         "68775311317152": {
-            "crew_id": "184683609733",
+            "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "None",
-            "gender": "1",
-            "hp": "2483111.0",
-            "last_seen": "1761416185",
-            "level": "100",
+            "gender": 1,
+            "hp": 2483109.5,
+            "last_seen": 1761998457,
+            "level": 100,
             "name": "Rim",
+            "name_history": [
+                "Rim"
+            ],
             "registered": "Aug 11, 2022, 10:09:21 AM",
-            "role_id": "68775311317152",
+            "role_id": 68775311317152,
             "server_region": "southeast_asia"
         },
         "68775311317906": {
@@ -19519,6 +19522,6 @@
     },
     "accounts_total": 1699,
     "created": "1753795148",
-    "last_updated": 1761997676,
+    "last_updated": 1761998457,
     "server_region": "southeast_asia"
 }
