@@ -384,16 +384,19 @@
             "server_region": "korea"
         },
         "42945816079377312": {
-            "crew_id": "17189868286",
+            "crew_id": 17189868286,
             "crew_name": "쿵야",
             "equipping_title": "None",
-            "gender": "1",
-            "hp": "2786986.0",
-            "last_seen": "1760537348",
-            "level": "100",
+            "gender": 1,
+            "hp": 2624788.5,
+            "last_seen": 1762011222,
+            "level": 100,
             "name": "시엣트",
+            "name_history": [
+                "시엣트"
+            ],
             "registered": "Aug 11, 2022, 10:00:37 AM",
-            "role_id": "42945816079377312",
+            "role_id": 42945816079377312,
             "server_region": "korea"
         },
         "42945816079377873": {
@@ -859,6 +862,22 @@
             "role_id": "42945824669318058",
             "server_region": "korea"
         },
+        "42945824669324244": {
+            "crew_id": 17189868286,
+            "crew_name": "쿵야",
+            "equipping_title": "1_1_24_1",
+            "gender": 1,
+            "hp": 1975093.75,
+            "last_seen": 1762011222,
+            "level": 100,
+            "name": "에이미 플리에",
+            "name_history": [
+                "에이미 플리에"
+            ],
+            "registered": "Aug 11, 2022, 2:26:55 PM",
+            "role_id": 42945824669324244,
+            "server_region": "korea"
+        },
         "42945824669327949": {
             "crew_id": "1099521626880",
             "crew_name": "자유길드",
@@ -1072,8 +1091,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 90,
+    "accounts_total": 91,
     "created": "1757257775",
-    "last_updated": 1762011161,
+    "last_updated": 1762011222,
     "server_region": "korea"
 }
