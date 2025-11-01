@@ -17575,16 +17575,19 @@
             "server_region": "southeast_asia"
         },
         "68792491220037": {
-            "crew_id": "2314987388549",
+            "crew_id": 2314987388549,
             "crew_name": "Waifu",
-            "equipping_title": "Sheilala's Successor,1",
-            "gender": "1",
-            "hp": "2352431.5",
-            "last_seen": "1761593978",
-            "level": "100",
+            "equipping_title": "Sheilala的后继者,1",
+            "gender": 1,
+            "hp": 2402312.75,
+            "last_seen": 1761997315,
+            "level": 100,
             "name": "Qenobu",
+            "name_history": [
+                "Qenobu"
+            ],
             "registered": "Aug 12, 2022, 9:37:20 PM",
-            "role_id": "68792491220037",
+            "role_id": 68792491220037,
             "server_region": "southeast_asia"
         },
         "68792491221543": {
@@ -19516,6 +19519,6 @@
     },
     "accounts_total": 1699,
     "created": "1753795148",
-    "last_updated": 1761996955,
+    "last_updated": 1761997315,
     "server_region": "southeast_asia"
 }
