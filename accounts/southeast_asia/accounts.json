@@ -1113,12 +1113,15 @@
         "68728066750218": {
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "1_1_11_1",
+            "equipping_title": "2_2_0_21",
             "gender": 0,
-            "hp": 2690566.75,
-            "last_seen": 1760907727,
+            "hp": 2653187.0,
+            "last_seen": 1762021857,
             "level": 100,
             "name": "NonCanonKid",
+            "name_history": [
+                "NonCanonKid"
+            ],
             "registered": "Aug 28, 2022, 1:33:15 AM",
             "role_id": 68728066750218,
             "server_region": "southeast_asia"
@@ -1184,10 +1187,13 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "1_6_1_8",
             "gender": 0,
-            "hp": 2762726.25,
-            "last_seen": 1760623559,
+            "hp": 3557810.5,
+            "last_seen": 1762021857,
             "level": 100,
             "name": "GhostCube",
+            "name_history": [
+                "GhostCube"
+            ],
             "registered": "Oct 31, 2022, 1:55:46 AM",
             "role_id": 68728066760299,
             "server_region": "southeast_asia"
@@ -3233,6 +3239,22 @@
             "role_id": 68740951582624,
             "server_region": "southeast_asia"
         },
+        "68740951582961": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1490114.125,
+            "last_seen": 1762021857,
+            "level": 100,
+            "name": "Izu",
+            "name_history": [
+                "Izu"
+            ],
+            "registered": "Aug 11, 2022, 10:39:11 AM",
+            "role_id": 68740951582961,
+            "server_region": "southeast_asia"
+        },
         "68740951584152": {
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
@@ -3662,12 +3684,15 @@
         "68740951650127": {
             "crew_id": 1563368111749,
             "crew_name": "Eroge",
-            "equipping_title": "Ayin's Successor,1",
+            "equipping_title": "Ayin的后继者,1",
             "gender": 0,
-            "hp": 1821146.375,
-            "last_seen": 1761155137,
+            "hp": 1870351.5,
+            "last_seen": 1762021857,
             "level": 100,
             "name": "Salmon Sammy",
+            "name_history": [
+                "Salmon Sammy"
+            ],
             "registered": "Sep 2, 2022, 7:32:15 AM",
             "role_id": 68740951650127,
             "server_region": "southeast_asia"
@@ -9111,10 +9136,13 @@
             "crew_name": "•RASCAL•",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 2199143.5,
-            "last_seen": 1761760684,
+            "hp": 1885043.0,
+            "last_seen": 1762021857,
             "level": 100,
             "name": "A K I N A",
+            "name_history": [
+                "A K I N A"
+            ],
             "registered": "Jan 25, 2024, 5:56:34 AM",
             "role_id": 68775311622093,
             "server_region": "southeast_asia"
@@ -17596,9 +17624,15 @@
         "68788196286950": {
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757417649,
+            "hp": 1531668.5,
+            "last_seen": 1762021857,
+            "level": 100,
             "name": "anfield#a#a",
+            "name_history": [
+                "anfield#a#a"
+            ],
             "registered": "Aug 16, 2022, 4:04:31 AM",
             "role_id": 68788196286950,
             "server_region": "southeast_asia"
@@ -19950,8 +19984,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1709,
+    "accounts_total": 1710,
     "created": 1753795148,
-    "last_updated": 1762021556,
+    "last_updated": 1762021857,
     "server_region": "southeast_asia"
 }
