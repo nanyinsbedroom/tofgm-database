@@ -1070,10 +1070,13 @@
             "crew_name": "HANAMI",
             "equipping_title": "HuntingRank_1;imitation_17;1",
             "gender": 1,
-            "hp": 2748179.5,
-            "last_seen": 1761603187,
+            "hp": 2468243.25,
+            "last_seen": 1762111783,
             "level": 100,
             "name": " Enju ",
+            "name_history": [
+                " Enju "
+            ],
             "registered": "Aug 11, 2022, 2:34:40 AM",
             "role_id": 55856049693053,
             "server_region": "europe"
@@ -2093,6 +2096,22 @@
             "role_id": 55864639645151,
             "server_region": "europe"
         },
+        "55864639646087": {
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "1_7_1_3",
+            "gender": 0,
+            "hp": 339857.5,
+            "last_seen": 1762111783,
+            "level": 100,
+            "name": "Yuki Shirayuki",
+            "name_history": [
+                "Yuki Shirayuki"
+            ],
+            "registered": "Aug 11, 2022, 1:07:53 PM",
+            "role_id": 55864639646087,
+            "server_region": "europe"
+        },
         "55864639647997": {
             "crew_id": 489626284753,
             "crew_name": "Serenity",
@@ -2676,11 +2695,17 @@
             "server_region": "europe"
         },
         "55873229600774": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "last_seen": 1758207099,
+            "hp": 0.0,
+            "last_seen": 1762111783,
+            "level": 100,
             "name": "AlFinal.001",
+            "name_history": [
+                "AlFinal.001"
+            ],
             "registered": "Aug 12, 2022, 5:03:50 PM",
             "role_id": 55873229600774,
             "server_region": "europe"
@@ -5596,12 +5621,15 @@
         "55954833967699": {
             "crew_id": 2087354118865,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
-            "equipping_title": "Enfer's Mentor,0",
+            "equipping_title": "Enfer的导师,0",
             "gender": 0,
-            "hp": 2467873.0,
-            "last_seen": 1761603126,
+            "hp": 2412712.5,
+            "last_seen": 1762111783,
             "level": 100,
             "name": "DarkBaum",
+            "name_history": [
+                "DarkBaum"
+            ],
             "registered": "Aug 12, 2022, 5:41:01 PM",
             "role_id": 55954833967699,
             "server_region": "europe"
@@ -5622,9 +5650,15 @@
         "55954833995461": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1757944812,
+            "hp": 633197.375,
+            "last_seen": 1762111783,
+            "level": 100,
             "name": " Zula",
+            "name_history": [
+                " Zula"
+            ],
             "registered": "Aug 16, 2022, 10:38:57 AM",
             "role_id": 55954833995461,
             "server_region": "europe"
@@ -6141,6 +6175,22 @@
             "name": "LukPL",
             "registered": "Dec 3, 2023, 8:28:01 PM",
             "role_id": 55963424343819,
+            "server_region": "europe"
+        },
+        "55963424345512": {
+            "crew_id": 34359751382,
+            "crew_name": "Bad Company",
+            "equipping_title": "2_2_0_27",
+            "gender": 0,
+            "hp": 4828220.0,
+            "last_seen": 1762111783,
+            "level": 100,
+            "name": "Obese",
+            "name_history": [
+                "Obese"
+            ],
+            "registered": "Dec 5, 2023, 10:40:04 AM",
+            "role_id": 55963424345512,
             "server_region": "europe"
         },
         "55963424345621": {
@@ -9847,8 +9897,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 813,
+    "accounts_total": 815,
     "created": "1753816624",
-    "last_updated": 1762111722,
+    "last_updated": 1762111783,
     "server_region": "europe"
 }
