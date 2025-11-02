@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "42945811784401329": {
+            "crew_id": 5012236833533,
+            "crew_name": "간지",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2898574.25,
+            "last_seen": 1762074789,
+            "level": 100,
+            "name": "시그너스",
+            "name_history": [
+                "시그너스"
+            ],
+            "registered": "Aug 11, 2022, 8:53:33 AM",
+            "role_id": 42945811784401329,
+            "server_region": "korea"
+        },
         "42945811784404000": {
             "crew_id": 867593392893,
             "crew_name": "별",
@@ -207,10 +223,13 @@
             "crew_name": "츄르",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1703244.125,
-            "last_seen": 1761987756,
+            "hp": 1703244.25,
+            "last_seen": 1762074789,
             "level": 100,
             "name": "StarDusts",
+            "name_history": [
+                "StarDusts"
+            ],
             "registered": "May 3, 2023, 10:16:51 PM",
             "role_id": 42945811784506097,
             "server_region": "korea"
@@ -1116,8 +1135,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 92,
+    "accounts_total": 93,
     "created": 1757257775,
-    "last_updated": 1762074729,
+    "last_updated": 1762074789,
     "server_region": "korea"
 }
