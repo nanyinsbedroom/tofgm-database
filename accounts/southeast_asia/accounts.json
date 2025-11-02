@@ -9452,8 +9452,8 @@
             "crew_name": "Soft Doll",
             "equipping_title": "2_2_0_2",
             "gender": 0,
-            "hp": 2204705.0,
-            "last_seen": 1761994883,
+            "hp": 2232635.5,
+            "last_seen": 1762074185,
             "level": 100,
             "name": "Eikons",
             "name_history": [
@@ -11210,9 +11210,15 @@
         "68775311735261": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
+            "equipping_title": "1_7_1_2",
             "gender": 0,
-            "last_seen": 1758625959,
+            "hp": 1621107.125,
+            "last_seen": 1762074185,
+            "level": 100,
             "name": "Arlde",
+            "name_history": [
+                "Arlde"
+            ],
             "registered": "May 10, 2025, 12:15:12 AM",
             "role_id": 68775311735261,
             "server_region": "southeast_asia"
@@ -12704,12 +12710,15 @@
         "68775311747377": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_6_3_1",
+            "equipping_title": "Gondhez的学徒,0",
             "gender": 1,
-            "hp": 428096.8125,
-            "last_seen": 1760723237,
+            "hp": 775736.4375,
+            "last_seen": 1762074185,
             "level": 100,
             "name": "Kunoichi",
+            "name_history": [
+                "Kunoichi"
+            ],
             "registered": "Aug 15, 2025, 5:29:31 PM",
             "role_id": 68775311747377,
             "server_region": "southeast_asia"
@@ -19161,10 +19170,13 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1372051.75,
-            "last_seen": 1761985893,
+            "hp": 1438718.25,
+            "last_seen": 1762074185,
             "level": 100,
             "name": "taranta147",
+            "name_history": [
+                "taranta147"
+            ],
             "registered": "Aug 13, 2022, 12:56:56 PM",
             "role_id": 68801081155927,
             "server_region": "southeast_asia"
@@ -20272,6 +20284,6 @@
     },
     "accounts_total": 1720,
     "created": 1753795148,
-    "last_updated": 1762074125,
+    "last_updated": 1762074185,
     "server_region": "southeast_asia"
 }
