@@ -2872,10 +2872,13 @@
             "crew_name": "ミスティルテイン",
             "equipping_title": "2_10_2_2",
             "gender": 1,
-            "hp": 2526875.75,
-            "last_seen": 1761838775,
+            "hp": 2521677.0,
+            "last_seen": 1762075991,
             "level": 100,
             "name": "小向ゆう",
+            "name_history": [
+                "小向ゆう"
+            ],
             "registered": "Aug 11, 2022, 10:12:42 AM",
             "role_id": 47279000005206,
             "server_region": "asia_pacific"
@@ -3495,7 +3498,7 @@
             "equipping_title": "1_4_7_1",
             "gender": 1,
             "hp": 1980854.25,
-            "last_seen": 1762001279,
+            "last_seen": 1762075991,
             "level": 100,
             "name": "ﾉﾚミナ",
             "name_history": [
@@ -5311,6 +5314,22 @@
             "role_id": 47304769819847,
             "server_region": "asia_pacific"
         },
+        "47304769822264": {
+            "crew_id": 8589945607,
+            "crew_name": "midnightsky",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1730802.25,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": "チュンセ",
+            "name_history": [
+                "チュンセ"
+            ],
+            "registered": "Aug 11, 2022, 3:27:21 PM",
+            "role_id": 47304769822264,
+            "server_region": "asia_pacific"
+        },
         "47304769827161": {
             "crew_id": 283467852553,
             "crew_name": "フェアリーテイル",
@@ -5879,6 +5898,22 @@
             "name": "amema",
             "registered": "Aug 11, 2022, 6:06:39 PM",
             "role_id": 47313359759545,
+            "server_region": "asia_pacific"
+        },
+        "47313359761703": {
+            "crew_id": 16196321684239,
+            "crew_name": "みあもーれ",
+            "equipping_title": "めぷちん的导师,0",
+            "gender": 1,
+            "hp": 2451321.5,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": "おらるく",
+            "name_history": [
+                "おらるく"
+            ],
+            "registered": "Aug 11, 2022, 6:39:56 PM",
+            "role_id": 47313359761703,
             "server_region": "asia_pacific"
         },
         "47313359762720": {
@@ -7395,6 +7430,22 @@
             "role_id": 47339129588598,
             "server_region": "asia_pacific"
         },
+        "47339129593757": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_2",
+            "gender": 1,
+            "hp": 1990381.375,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": " Sue",
+            "name_history": [
+                " Sue"
+            ],
+            "registered": "Aug 13, 2022, 5:08:01 AM",
+            "role_id": 47339129593757,
+            "server_region": "asia_pacific"
+        },
         "47339129599511": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
@@ -7413,6 +7464,22 @@
             "name": "だりゅ",
             "registered": "Aug 13, 2022, 9:46:40 PM",
             "role_id": 47339129601435,
+            "server_region": "asia_pacific"
+        },
+        "47339129605362": {
+            "crew_id": 1675037256458,
+            "crew_name": "荒野に彷徨うギルド",
+            "equipping_title": "Tencent_Sever_22",
+            "gender": 0,
+            "hp": 2121461.5,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": " Maestrale",
+            "name_history": [
+                " Maestrale"
+            ],
+            "registered": "Aug 14, 2022, 4:03:13 PM",
+            "role_id": 47339129605362,
             "server_region": "asia_pacific"
         },
         "47339129605692": {
@@ -9180,6 +9247,22 @@
             "name": "オリビア",
             "registered": "Apr 14, 2024, 3:51:31 PM",
             "role_id": 47343427338339,
+            "server_region": "asia_pacific"
+        },
+        "47343427348527": {
+            "crew_id": 648540072703,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1644883.125,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": "Hoshi Chan",
+            "name_history": [
+                "Hoshi Chan"
+            ],
+            "registered": "Apr 17, 2024, 6:39:44 PM",
+            "role_id": 47343427348527,
             "server_region": "asia_pacific"
         },
         "47343427350552": {
@@ -17467,6 +17550,22 @@
             "role_id": 47433618852982,
             "server_region": "asia_pacific"
         },
+        "47433618858562": {
+            "crew_id": 25769814820,
+            "crew_name": "幻塔の白騎士",
+            "equipping_title": "1_1_30_1",
+            "gender": 1,
+            "hp": 1607904.0,
+            "last_seen": 1762075991,
+            "level": 100,
+            "name": "nyack",
+            "name_history": [
+                "nyack"
+            ],
+            "registered": "Apr 20, 2025, 9:39:04 AM",
+            "role_id": 47433618858562,
+            "server_region": "asia_pacific"
+        },
         "47433618858856": {
             "crew_id": 240518179620,
             "crew_name": "MYDIQBIG",
@@ -18632,8 +18731,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1618,
+    "accounts_total": 1624,
     "created": 1754829154,
-    "last_updated": 1762075931,
+    "last_updated": 1762075991,
     "server_region": "asia_pacific"
 }
