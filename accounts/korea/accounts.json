@@ -162,6 +162,22 @@
             "role_id": 42945811784473652,
             "server_region": "korea"
         },
+        "42945811784483009": {
+            "crew_id": 120269083391,
+            "crew_name": "트리니티",
+            "equipping_title": "벤츄린的导师,0",
+            "gender": 1,
+            "hp": 2595343.0,
+            "last_seen": 1762080266,
+            "level": 100,
+            "name": "珍惜一切",
+            "name_history": [
+                "珍惜一切"
+            ],
+            "registered": "Aug 31, 2022, 7:23:34 PM",
+            "role_id": 42945811784483009,
+            "server_region": "korea"
+        },
         "42945811784487007": {
             "crew_id": 1937040249597,
             "crew_name": "츄르",
@@ -693,12 +709,15 @@
         "42945816079532387": {
             "crew_id": 30074770174,
             "crew_name": "아이",
-            "equipping_title": "국가권력급's Enlightener,1",
+            "equipping_title": "국가권력급的启迪人,1",
             "gender": 0,
-            "hp": 2620431.25,
-            "last_seen": 1760794336,
+            "hp": 2816743.0,
+            "last_seen": 1762080266,
             "level": 100,
             "name": "야미게임",
+            "name_history": [
+                "야미게임"
+            ],
             "registered": "Aug 7, 2023, 1:42:58 AM",
             "role_id": 42945816079532387,
             "server_region": "korea"
@@ -1135,8 +1154,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 93,
+    "accounts_total": 94,
     "created": 1757257775,
-    "last_updated": 1762075030,
+    "last_updated": 1762080266,
     "server_region": "korea"
 }
