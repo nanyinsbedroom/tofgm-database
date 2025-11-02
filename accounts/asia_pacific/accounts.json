@@ -1347,9 +1347,12 @@
             "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
             "hp": 2188338.0,
-            "last_seen": 1761310741,
+            "last_seen": 1762077144,
             "level": 100,
             "name": "やーちゃん　",
+            "name_history": [
+                "やーちゃん　"
+            ],
             "registered": "Apr 15, 2023, 3:44:18 PM",
             "role_id": 47257526152334,
             "server_region": "asia_pacific"
@@ -1942,6 +1945,22 @@
             "name": "ぼーるどっ",
             "registered": "Aug 22, 2022, 2:47:50 PM",
             "role_id": 47261820227270,
+            "server_region": "asia_pacific"
+        },
+        "47261820232181": {
+            "crew_id": 124554062588,
+            "crew_name": "ふぇありー",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2118996.5,
+            "last_seen": 1762077144,
+            "level": 100,
+            "name": "RK800#c",
+            "name_history": [
+                "RK800#c"
+            ],
+            "registered": "Aug 26, 2022, 1:42:50 PM",
+            "role_id": 47261820232181,
             "server_region": "asia_pacific"
         },
         "47261820240505": {
@@ -18865,6 +18884,22 @@
             "role_id": 47433618938231,
             "server_region": "asia_pacific"
         },
+        "47433618938508": {
+            "crew_id": 146028899108,
+            "crew_name": "ZZZ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1315415.875,
+            "last_seen": 1762077144,
+            "level": 100,
+            "name": "Elsky",
+            "name_history": [
+                "Elsky"
+            ],
+            "registered": "Sep 3, 2025, 12:42:06 AM",
+            "role_id": 47433618938508,
+            "server_region": "asia_pacific"
+        },
         "47433618939026": {
             "crew_id": 146028899108,
             "crew_name": "ZZZ",
@@ -19090,8 +19125,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1644,
+    "accounts_total": 1646,
     "created": 1754829154,
-    "last_updated": 1762077084,
+    "last_updated": 1762077144,
     "server_region": "asia_pacific"
 }
