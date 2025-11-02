@@ -3123,10 +3123,13 @@
             "crew_name": "Elysium",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2178312.0,
-            "last_seen": 1760375756,
+            "hp": 1990772.125,
+            "last_seen": 1762113948,
             "level": 100,
             "name": "veza#c",
+            "name_history": [
+                "veza#c"
+            ],
             "registered": "Aug 27, 2022, 1:08:20 AM",
             "role_id": 55877524600664,
             "server_region": "europe"
@@ -4801,9 +4804,15 @@
         "55920474210141": {
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
+            "equipping_title": "Overseas2_7",
             "gender": 0,
-            "last_seen": 1758222398,
+            "hp": 2049002.375,
+            "last_seen": 1762113948,
+            "level": 100,
             "name": "Dr.Housemeister",
+            "name_history": [
+                "Dr.Housemeister"
+            ],
             "registered": "Aug 11, 2022, 4:25:51 PM",
             "role_id": 55920474210141,
             "server_region": "europe"
@@ -10304,6 +10313,6 @@
     },
     "accounts_total": 836,
     "created": "1753816624",
-    "last_updated": 1762113767,
+    "last_updated": 1762113948,
     "server_region": "europe"
 }
