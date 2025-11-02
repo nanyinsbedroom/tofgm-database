@@ -928,11 +928,33 @@
         "42945824669327949": {
             "crew_id": 1099521626880,
             "crew_name": "자유길드",
+            "equipping_title": "Overseas2_7",
             "gender": 0,
-            "last_seen": 1759822656,
+            "hp": 2665226.0,
+            "last_seen": 1762080327,
+            "level": 100,
             "name": "또하나",
+            "name_history": [
+                "또하나"
+            ],
             "registered": "Aug 11, 2022, 4:23:26 PM",
             "role_id": 42945824669327949,
+            "server_region": "korea"
+        },
+        "42945824669332303": {
+            "crew_id": 17189868288,
+            "crew_name": "크라운산도",
+            "equipping_title": "korea_6",
+            "gender": 1,
+            "hp": 2502577.25,
+            "last_seen": 1762080327,
+            "level": 100,
+            "name": " 아드리아나 리베라 ",
+            "name_history": [
+                " 아드리아나 리베라 "
+            ],
+            "registered": "Aug 11, 2022, 6:54:02 PM",
+            "role_id": 42945824669332303,
             "server_region": "korea"
         },
         "42945828964270547": {
@@ -1154,8 +1176,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 94,
+    "accounts_total": 95,
     "created": 1757257775,
-    "last_updated": 1762080266,
+    "last_updated": 1762080327,
     "server_region": "korea"
 }
