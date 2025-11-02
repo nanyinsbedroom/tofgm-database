@@ -276,9 +276,15 @@
         "68723771729427": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
+            "equipping_title": "みあセンパイ的导师,0",
             "gender": 0,
-            "last_seen": 1757923516,
+            "hp": 2499669.5,
+            "last_seen": 1762119266,
+            "level": 100,
             "name": "ハルペ",
+            "name_history": [
+                "ハルペ"
+            ],
             "registered": "Aug 11, 2022, 4:27:53 PM",
             "role_id": 68723771729427,
             "server_region": "southeast_asia"
@@ -2665,10 +2671,13 @@
             "crew_name": "ELYSIUM",
             "equipping_title": "1_5_1_1",
             "gender": 1,
-            "hp": 2043823.5,
-            "last_seen": 1761560060,
+            "hp": 2049761.625,
+            "last_seen": 1762119266,
             "level": 100,
             "name": "xanite",
+            "name_history": [
+                "xanite"
+            ],
             "registered": "Aug 11, 2022, 8:26:14 PM",
             "role_id": 68736656635454,
             "server_region": "southeast_asia"
@@ -21030,6 +21039,6 @@
     },
     "accounts_total": 1746,
     "created": 1753795148,
-    "last_updated": 1762119206,
+    "last_updated": 1762119266,
     "server_region": "southeast_asia"
 }
