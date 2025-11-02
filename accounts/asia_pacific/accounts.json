@@ -5259,9 +5259,12 @@
             "equipping_title": "リンちゃん（本物）的导师,0",
             "gender": 0,
             "hp": 2382887.75,
-            "last_seen": 1761837647,
+            "last_seen": 1762077324,
             "level": 100,
             "name": "ジャスホイ",
+            "name_history": [
+                "ジャスホイ"
+            ],
             "registered": "Aug 21, 2022, 8:35:59 PM",
             "role_id": 47300474937479,
             "server_region": "asia_pacific"
@@ -15465,6 +15468,22 @@
             "role_id": 47343427948598,
             "server_region": "asia_pacific"
         },
+        "47343427949018": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2141.287109375,
+            "last_seen": 1762077324,
+            "level": 11,
+            "name": "SendaiMiyagi",
+            "name_history": [
+                "SendaiMiyagi"
+            ],
+            "registered": "Nov 1, 2025, 6:49:49 PM",
+            "role_id": 47343427949018,
+            "server_region": "asia_pacific"
+        },
         "47343427949024": {
             "crew_id": 0,
             "crew_name": "",
@@ -19205,8 +19224,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1651,
+    "accounts_total": 1652,
     "created": 1754829154,
-    "last_updated": 1762077264,
+    "last_updated": 1762077324,
     "server_region": "asia_pacific"
 }
