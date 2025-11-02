@@ -9868,12 +9868,15 @@
         "68775311624249": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "3_2024",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1305617.25,
-            "last_seen": 1761399731,
+            "hp": 1274562.0,
+            "last_seen": 1762121371,
             "level": 100,
             "name": "TaroKun",
+            "name_history": [
+                "TaroKun"
+            ],
             "registered": "Jan 29, 2024, 9:02:09 AM",
             "role_id": 68775311624249,
             "server_region": "southeast_asia"
@@ -21102,6 +21105,6 @@
     },
     "accounts_total": 1749,
     "created": 1753795148,
-    "last_updated": 1762121130,
+    "last_updated": 1762121371,
     "server_region": "southeast_asia"
 }
