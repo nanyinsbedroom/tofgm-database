@@ -406,6 +406,22 @@
             "role_id": 55843164790652,
             "server_region": "europe"
         },
+        "55843164791442": {
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "2_5_0_6",
+            "gender": 0,
+            "hp": 1943808.375,
+            "last_seen": 1762111722,
+            "level": 100,
+            "name": "Marzipan",
+            "name_history": [
+                "Marzipan"
+            ],
+            "registered": "Aug 11, 2022, 2:30:42 AM",
+            "role_id": 55843164791442,
+            "server_region": "europe"
+        },
         "55843164792885": {
             "crew_id": 781684060899,
             "crew_name": "Heavens Souls",
@@ -1371,10 +1387,13 @@
             "crew_name": "  ",
             "equipping_title": "Neyara的启迪人,1",
             "gender": 0,
-            "hp": 2880099.0,
-            "last_seen": 1761675208,
+            "hp": 1440049.5,
+            "last_seen": 1762111722,
             "level": 100,
             "name": "Anarchy7",
+            "name_history": [
+                "Anarchy7"
+            ],
             "registered": "Aug 20, 2022, 7:44:33 PM",
             "role_id": 55856049770402,
             "server_region": "europe"
@@ -3622,6 +3641,22 @@
             "role_id": 55894704409146,
             "server_region": "europe"
         },
+        "55894704413746": {
+            "crew_id": 120259097293,
+            "crew_name": "Адепты Бура",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2501952.0,
+            "last_seen": 1762111722,
+            "level": 100,
+            "name": "Himlin",
+            "name_history": [
+                "Himlin"
+            ],
+            "registered": "Aug 11, 2022, 8:40:05 AM",
+            "role_id": 55894704413746,
+            "server_region": "europe"
+        },
         "55894704416826": {
             "crew_id": 38654718669,
             "crew_name": "The_Void",
@@ -3680,10 +3715,13 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2618909.5,
-            "last_seen": 1761670950,
+            "hp": 0.0,
+            "last_seen": 1762111722,
             "level": 100,
             "name": "Silmeria​",
+            "name_history": [
+                "Silmeria​"
+            ],
             "registered": "Aug 12, 2022, 6:46:13 PM",
             "role_id": 55894704439115,
             "server_region": "europe"
@@ -7355,9 +7393,15 @@
         "55963424700297": {
             "crew_id": 5634997105357,
             "crew_name": "Tower of Dance",
+            "equipping_title": "1_3_1_5",
             "gender": 1,
-            "last_seen": 1757962703,
+            "hp": 1369857.75,
+            "last_seen": 1762111722,
+            "level": 100,
             "name": "Sarash",
+            "name_history": [
+                "Sarash"
+            ],
             "registered": "May 21, 2025, 12:44:29 PM",
             "role_id": 55963424700297,
             "server_region": "europe"
@@ -9803,8 +9847,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 811,
+    "accounts_total": 813,
     "created": "1753816624",
-    "last_updated": 1762111662,
+    "last_updated": 1762111722,
     "server_region": "europe"
 }
