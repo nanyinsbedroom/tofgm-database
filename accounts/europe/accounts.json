@@ -1459,9 +1459,15 @@
         "55856049796212": {
             "crew_id": 133143999181,
             "crew_name": "New Era",
+            "equipping_title": "         的学徒,0",
             "gender": 1,
-            "last_seen": 1756835163,
+            "hp": 2579575.25,
+            "last_seen": 1762112444,
+            "level": 100,
             "name": "アニメZAIKA",
+            "name_history": [
+                "アニメZAIKA"
+            ],
             "registered": "Aug 30, 2022, 1:56:01 AM",
             "role_id": 55856049796212,
             "server_region": "europe"
@@ -4438,9 +4444,15 @@
         "55911884344582": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
+            "equipping_title": "dausted的启迪人,1",
             "gender": 0,
-            "last_seen": 1757957069,
+            "hp": 2831738.0,
+            "last_seen": 1762112444,
+            "level": 100,
             "name": "Eos",
+            "name_history": [
+                "Eos"
+            ],
             "registered": "Aug 20, 2022, 12:24:33 PM",
             "role_id": 55911884344582,
             "server_region": "europe"
@@ -10022,6 +10034,6 @@
     },
     "accounts_total": 821,
     "created": "1753816624",
-    "last_updated": 1762112384,
+    "last_updated": 1762112444,
     "server_region": "europe"
 }
