@@ -2562,9 +2562,12 @@
             "equipping_title": "2_2_0_21",
             "gender": 0,
             "hp": 2877025.0,
-            "last_seen": 1761838775,
+            "last_seen": 1762075571,
             "level": 100,
             "name": "Weke",
+            "name_history": [
+                "Weke"
+            ],
             "registered": "Aug 11, 2022, 1:32:30 PM",
             "role_id": 47274705048109,
             "server_region": "asia_pacific"
@@ -7217,9 +7220,15 @@
         "47339129542763": {
             "crew_id": 6347961674499,
             "crew_name": "Family",
+            "equipping_title": "Title_iwshare_os_24",
             "gender": 1,
-            "last_seen": 1759402382,
+            "hp": 2173460.75,
+            "last_seen": 1762075571,
+            "level": 100,
             "name": "スノードロップ",
+            "name_history": [
+                "スノードロップ"
+            ],
             "registered": "Aug 11, 2022, 9:45:04 PM",
             "role_id": 47339129542763,
             "server_region": "asia_pacific"
@@ -17857,6 +17866,22 @@
             "role_id": 47433618928470,
             "server_region": "asia_pacific"
         },
+        "47433618928512": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 738093.1875,
+            "last_seen": 1762075571,
+            "level": 79,
+            "name": "Yolospoi",
+            "name_history": [
+                "Yolospoi"
+            ],
+            "registered": "Aug 6, 2025, 12:45:30 AM",
+            "role_id": 47433618928512,
+            "server_region": "asia_pacific"
+        },
         "47433618928860": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
@@ -18445,8 +18470,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1608,
+    "accounts_total": 1609,
     "created": 1754829154,
-    "last_updated": 1762075511,
+    "last_updated": 1762075571,
     "server_region": "asia_pacific"
 }
