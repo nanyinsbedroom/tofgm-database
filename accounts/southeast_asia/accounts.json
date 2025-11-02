@@ -757,9 +757,15 @@
         "68728066670968": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1759752947,
+            "hp": 2182155.25,
+            "last_seen": 1762079693,
+            "level": 100,
             "name": "SleepyHil",
+            "name_history": [
+                "SleepyHil"
+            ],
             "registered": "Aug 11, 2022, 7:42:54 AM",
             "role_id": 68728066670968,
             "server_region": "southeast_asia"
@@ -867,8 +873,8 @@
             "crew_name": "♣️HOSHI星",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2787726.5,
-            "last_seen": 1761996654,
+            "hp": 2788927.0,
+            "last_seen": 1762079693,
             "level": 100,
             "name": "Snow Ais",
             "name_history": [
@@ -2016,7 +2022,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 2500059.25,
-            "last_seen": 1762077806,
+            "last_seen": 1762079693,
             "level": 100,
             "name": "Jotoz",
             "name_history": [
@@ -4202,6 +4208,22 @@
             "role_id": 68745246559859,
             "server_region": "southeast_asia"
         },
+        "68745246577138": {
+            "crew_id": 1421634190994,
+            "crew_name": "Lunar Exclaire",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1790660.5,
+            "last_seen": 1762079693,
+            "level": 100,
+            "name": "Freddy_Fornix",
+            "name_history": [
+                "Freddy_Fornix"
+            ],
+            "registered": "Aug 12, 2022, 1:53:56 PM",
+            "role_id": 68745246577138,
+            "server_region": "southeast_asia"
+        },
         "68745246580672": {
             "crew_id": 0,
             "crew_name": "",
@@ -5384,7 +5406,7 @@
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
             "hp": 2265308.25,
-            "last_seen": 1762014696,
+            "last_seen": 1762079693,
             "level": 100,
             "name": "Sylvia Megami",
             "name_history": [
@@ -5629,9 +5651,15 @@
         "68758131495525": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
+            "equipping_title": "1_8_0_30",
             "gender": 0,
-            "last_seen": 1759234387,
+            "hp": 2374302.5,
+            "last_seen": 1762079693,
+            "level": 100,
             "name": "shira_nai",
+            "name_history": [
+                "shira_nai"
+            ],
             "registered": "Aug 13, 2022, 11:53:27 AM",
             "role_id": 68758131495525,
             "server_region": "southeast_asia"
@@ -5900,7 +5928,7 @@
             "equipping_title": "Tencent_Sever_119",
             "gender": 0,
             "hp": 2184080.25,
-            "last_seen": 1762077866,
+            "last_seen": 1762079693,
             "level": 100,
             "name": "( Kuro )",
             "name_history": [
@@ -12983,10 +13011,13 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2433150.0,
-            "last_seen": 1761909469,
+            "hp": 1398609.0,
+            "last_seen": 1762079693,
             "level": 100,
             "name": "あおい",
+            "name_history": [
+                "あおい"
+            ],
             "registered": "Aug 21, 2025, 11:38:17 PM",
             "role_id": 68775311748637,
             "server_region": "southeast_asia"
@@ -14016,6 +14047,22 @@
             "name": "GravityGate",
             "registered": "Sep 19, 2025, 9:00:51 PM",
             "role_id": 68775311751750,
+            "server_region": "southeast_asia"
+        },
+        "68775311751752": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 400525.25,
+            "last_seen": 1762079693,
+            "level": 97,
+            "name": "Reika",
+            "name_history": [
+                "Reika"
+            ],
+            "registered": "Sep 19, 2025, 9:14:25 PM",
+            "role_id": 68775311751752,
             "server_region": "southeast_asia"
         },
         "68775311751883": {
@@ -20514,8 +20561,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1727,
+    "accounts_total": 1729,
     "created": 1753795148,
-    "last_updated": 1762079633,
+    "last_updated": 1762079693,
     "server_region": "southeast_asia"
 }
