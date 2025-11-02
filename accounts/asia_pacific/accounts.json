@@ -5,10 +5,13 @@
             "crew_name": "エリシオン",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2870902.25,
-            "last_seen": 1761838535,
+            "hp": 2874502.0,
+            "last_seen": 1762089946,
             "level": 100,
             "name": "ナント",
+            "name_history": [
+                "ナント"
+            ],
             "registered": "Aug 11, 2022, 8:54:15 AM",
             "role_id": 47248935232213,
             "server_region": "asia_pacific"
@@ -4007,6 +4010,22 @@
             "name": "月海 詩乃",
             "registered": "Nov 9, 2022, 7:48:43 PM",
             "role_id": 47287590069650,
+            "server_region": "asia_pacific"
+        },
+        "47287590542320": {
+            "crew_id": 2044404443899,
+            "crew_name": "Horizon",
+            "equipping_title": "1_1_10_2",
+            "gender": 1,
+            "hp": 1443813.375,
+            "last_seen": 1762089946,
+            "level": 100,
+            "name": "naurin",
+            "name_history": [
+                "naurin"
+            ],
+            "registered": "Feb 2, 2023, 1:33:11 PM",
+            "role_id": 47287590542320,
             "server_region": "asia_pacific"
         },
         "47287590971584": {
@@ -15112,6 +15131,22 @@
             "role_id": 47343427947224,
             "server_region": "asia_pacific"
         },
+        "47343427947274": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 665664.25,
+            "last_seen": 1762089946,
+            "level": 60,
+            "name": "melun",
+            "name_history": [
+                "melun"
+            ],
+            "registered": "Oct 25, 2025, 4:33:42 PM",
+            "role_id": 47343427947274,
+            "server_region": "asia_pacific"
+        },
         "47343427947408": {
             "crew_id": 0,
             "crew_name": "",
@@ -19374,8 +19409,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1661,
+    "accounts_total": 1663,
     "created": 1754829154,
-    "last_updated": 1762089826,
+    "last_updated": 1762089946,
     "server_region": "asia_pacific"
 }
