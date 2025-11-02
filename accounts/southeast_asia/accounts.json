@@ -5077,11 +5077,17 @@
             "server_region": "southeast_asia"
         },
         "68753836504299": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1662152359567,
+            "crew_name": "Luminous",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758626199,
+            "hp": 2120756.5,
+            "last_seen": 1762079633,
+            "level": 100,
             "name": " Nhiv ",
+            "name_history": [
+                " Nhiv "
+            ],
             "registered": "Aug 11, 2022, 8:00:56 PM",
             "role_id": 68753836504299,
             "server_region": "southeast_asia"
@@ -6424,6 +6430,22 @@
             "name": "Chef Coral",
             "registered": "Aug 11, 2022, 8:13:27 AM",
             "role_id": 68762426413788,
+            "server_region": "southeast_asia"
+        },
+        "68762426415954": {
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "HuntingRank_1;imitation_61;1",
+            "gender": 1,
+            "hp": 2679592.5,
+            "last_seen": 1762079633,
+            "level": 100,
+            "name": "AnemoneEldraine",
+            "name_history": [
+                "AnemoneEldraine"
+            ],
+            "registered": "Aug 11, 2022, 8:32:07 AM",
+            "role_id": 68762426415954,
             "server_region": "southeast_asia"
         },
         "68762426420156": {
@@ -14898,9 +14920,12 @@
             "equipping_title": "あおい的学徒,0",
             "gender": 0,
             "hp": 1045479.8125,
-            "last_seen": 1761909469,
+            "last_seen": 1762079633,
             "level": 98,
             "name": "ランガ",
+            "name_history": [
+                "ランガ"
+            ],
             "registered": "Oct 6, 2025, 6:38:50 PM",
             "role_id": 68775311753715,
             "server_region": "southeast_asia"
@@ -19128,7 +19153,7 @@
             "equipping_title": "ChangIi的导师,0",
             "gender": 1,
             "hp": 2248276.0,
-            "last_seen": 1762079306,
+            "last_seen": 1762079633,
             "level": 100,
             "name": "- S T E F -",
             "name_history": [
@@ -19321,7 +19346,7 @@
             "equipping_title": "2_2_0_18",
             "gender": 1,
             "hp": 1438718.25,
-            "last_seen": 1762074185,
+            "last_seen": 1762079633,
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -19510,7 +19535,7 @@
             "equipping_title": "Furinya的后继者,1",
             "gender": 1,
             "hp": 2596308.25,
-            "last_seen": 1762079306,
+            "last_seen": 1762079633,
             "level": 100,
             "name": "IA.Baguette",
             "name_history": [
@@ -20489,8 +20514,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1726,
+    "accounts_total": 1727,
     "created": 1753795148,
-    "last_updated": 1762079426,
+    "last_updated": 1762079633,
     "server_region": "southeast_asia"
 }
