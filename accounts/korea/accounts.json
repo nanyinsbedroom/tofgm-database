@@ -46,11 +46,17 @@
             "server_region": "korea"
         },
         "42945811784432898": {
-            "crew_id": 867593392893,
-            "crew_name": "별",
+            "crew_id": 1937040249597,
+            "crew_name": "츄르",
+            "equipping_title": "1_4_1_4",
             "gender": 1,
-            "last_seen": 1759823076,
+            "hp": 2702998.5,
+            "last_seen": 1762081589,
+            "level": 100,
             "name": "Taksaka",
+            "name_history": [
+                "Taksaka"
+            ],
             "registered": "Aug 11, 2022, 7:01:58 PM",
             "role_id": 42945811784432898,
             "server_region": "korea"
@@ -287,8 +293,8 @@
             "crew_name": "츄르",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1703244.25,
-            "last_seen": 1762074789,
+            "hp": 1885968.25,
+            "last_seen": 1762081589,
             "level": 100,
             "name": "StarDusts",
             "name_history": [
@@ -1328,6 +1334,6 @@
     },
     "accounts_total": 104,
     "created": 1757257775,
-    "last_updated": 1762081469,
+    "last_updated": 1762081589,
     "server_region": "korea"
 }
