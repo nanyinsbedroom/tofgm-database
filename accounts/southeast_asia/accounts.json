@@ -2580,9 +2580,15 @@
         "68736656626797": {
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
+            "equipping_title": "Chykina的学徒,0",
             "gender": 1,
-            "last_seen": 1758036000,
+            "hp": 1422257.75,
+            "last_seen": 1762115598,
+            "level": 100,
             "name": "Refain",
+            "name_history": [
+                "Refain"
+            ],
             "registered": "Aug 11, 2022, 1:40:14 PM",
             "role_id": 68736656626797,
             "server_region": "southeast_asia"
@@ -20935,6 +20941,6 @@
     },
     "accounts_total": 1744,
     "created": 1753795148,
-    "last_updated": 1762115538,
+    "last_updated": 1762115598,
     "server_region": "southeast_asia"
 }
