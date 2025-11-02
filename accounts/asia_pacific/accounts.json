@@ -5319,7 +5319,7 @@
             "equipping_title": "リンちゃん（本物）的导师,0",
             "gender": 0,
             "hp": 2382887.75,
-            "last_seen": 1762077324,
+            "last_seen": 1762090067,
             "level": 100,
             "name": "ジャスホイ",
             "name_history": [
@@ -9136,9 +9136,12 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 1268039.625,
-            "last_seen": 1761837707,
+            "last_seen": 1762090067,
             "level": 100,
             "name": "ルスユウ",
+            "name_history": [
+                "ルスユウ"
+            ],
             "registered": "Jan 4, 2024, 9:22:44 PM",
             "role_id": 47343426864729,
             "server_region": "asia_pacific"
@@ -15595,6 +15598,22 @@
             "role_id": 47343427948598,
             "server_region": "asia_pacific"
         },
+        "47343427948841": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25875.46875,
+            "last_seen": 1762090067,
+            "level": 27,
+            "name": "CHeeseBoige",
+            "name_history": [
+                "CHeeseBoige"
+            ],
+            "registered": "Nov 1, 2025, 1:24:21 AM",
+            "role_id": 47343427948841,
+            "server_region": "asia_pacific"
+        },
         "47343427948949": {
             "crew_id": 0,
             "crew_name": "",
@@ -19415,8 +19434,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1663,
+    "accounts_total": 1664,
     "created": 1754829154,
-    "last_updated": 1762090007,
+    "last_updated": 1762090067,
     "server_region": "asia_pacific"
 }
