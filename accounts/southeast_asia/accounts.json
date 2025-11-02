@@ -5520,9 +5520,15 @@
         "68758131442625": {
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1757279608,
+            "hp": 1953811.25,
+            "last_seen": 1762120950,
+            "level": 100,
             "name": "L. A. G boss",
+            "name_history": [
+                "L. A. G boss"
+            ],
             "registered": "Aug 11, 2022, 7:39:05 AM",
             "role_id": 68758131442625,
             "server_region": "southeast_asia"
@@ -21080,6 +21086,6 @@
     },
     "accounts_total": 1748,
     "created": 1753795148,
-    "last_updated": 1762120889,
+    "last_updated": 1762120950,
     "server_region": "southeast_asia"
 }
