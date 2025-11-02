@@ -521,10 +521,13 @@
             "crew_name": "Phantasia ",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 2583530.0,
-            "last_seen": 1761513256,
+            "hp": 2751568.5,
+            "last_seen": 1762078647,
             "level": 100,
             "name": "KalitoTamayuki",
+            "name_history": [
+                "KalitoTamayuki"
+            ],
             "registered": "Aug 23, 2022, 2:57:19 AM",
             "role_id": 68723771808330,
             "server_region": "southeast_asia"
@@ -2473,9 +2476,12 @@
             "equipping_title": "1_1_26_1",
             "gender": 0,
             "hp": 2592022.0,
-            "last_seen": 1761648533,
+            "last_seen": 1762078647,
             "level": 100,
             "name": "DraGnEe1",
+            "name_history": [
+                "DraGnEe1"
+            ],
             "registered": "Aug 11, 2022, 2:23:09 PM",
             "role_id": 68736656627984,
             "server_region": "southeast_asia"
@@ -4405,9 +4411,15 @@
         "68749541510494": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_6_1_1",
             "gender": 1,
-            "last_seen": 1759700819,
+            "hp": 2247010.5,
+            "last_seen": 1762078647,
+            "level": 100,
             "name": "papa231",
+            "name_history": [
+                "papa231"
+            ],
             "registered": "Aug 11, 2022, 8:52:36 AM",
             "role_id": 68749541510494,
             "server_region": "southeast_asia"
@@ -9123,10 +9135,13 @@
             "crew_name": "Moonheart",
             "equipping_title": "2_10_1_2",
             "gender": 0,
-            "hp": 2235394.5,
-            "last_seen": 1761659246,
+            "hp": 2105137.25,
+            "last_seen": 1762078647,
             "level": 100,
             "name": "SmolKalito",
+            "name_history": [
+                "SmolKalito"
+            ],
             "registered": "Nov 15, 2023, 10:59:00 PM",
             "role_id": 68775311587279,
             "server_region": "southeast_asia"
@@ -20403,10 +20418,26 @@
             "registered": "Jun 10, 2023, 2:55:58 AM",
             "role_id": 68822555992224,
             "server_region": "southeast_asia"
+        },
+        "8607118756189532": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_1_0_2",
+            "gender": 0,
+            "hp": 2415252.5,
+            "last_seen": 1762078647,
+            "level": 100,
+            "name": "蓝水晶红宝石",
+            "name_history": [
+                "蓝水晶红宝石"
+            ],
+            "registered": "Aug 23, 2023, 5:28:15 PM",
+            "role_id": 8607118756189532,
+            "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1723,
+    "accounts_total": 1724,
     "created": 1753795148,
-    "last_updated": 1762078166,
+    "last_updated": 1762078647,
     "server_region": "southeast_asia"
 }
