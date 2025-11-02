@@ -5062,10 +5062,13 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 3209658.25,
-            "last_seen": 1761491431,
+            "hp": 2701826.75,
+            "last_seen": 1762117282,
             "level": 100,
             "name": "wz_nu",
+            "name_history": [
+                "wz_nu"
+            ],
             "registered": "Aug 22, 2022, 2:42:29 AM",
             "role_id": 68749541589806,
             "server_region": "southeast_asia"
@@ -6162,9 +6165,15 @@
         "68758131580522": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759310469,
+            "hp": 2369614.5,
+            "last_seen": 1762117282,
+            "level": 100,
             "name": "Gakure",
+            "name_history": [
+                "Gakure"
+            ],
             "registered": "Sep 8, 2022, 3:26:12 PM",
             "role_id": 68758131580522,
             "server_region": "southeast_asia"
@@ -6187,8 +6196,8 @@
             "crew_name": "Luminous",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2419952.5,
-            "last_seen": 1762074065,
+            "hp": 2418882.5,
+            "last_seen": 1762117282,
             "level": 100,
             "name": "Ahsokka",
             "name_history": [
@@ -17605,8 +17614,8 @@
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 1,
-            "hp": 2387137.5,
-            "last_seen": 1762013854,
+            "hp": 2387138.0,
+            "last_seen": 1762117282,
             "level": 100,
             "name": "2E",
             "name_history": [
@@ -18838,8 +18847,8 @@
             "crew_name": "Tea Party",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2708012.25,
-            "last_seen": 1761991511,
+            "hp": 2735938.0,
+            "last_seen": 1762117282,
             "level": 100,
             "name": "Angelingca",
             "name_history": [
@@ -20258,8 +20267,8 @@
             "crew_name": "FridayKnight",
             "equipping_title": "Tencent_Sever_130",
             "gender": 1,
-            "hp": 2586276.0,
-            "last_seen": 1762087695,
+            "hp": 2582109.25,
+            "last_seen": 1762117282,
             "level": 100,
             "name": "Loope",
             "name_history": [
@@ -20956,6 +20965,6 @@
     },
     "accounts_total": 1744,
     "created": 1753795148,
-    "last_updated": 1762117162,
+    "last_updated": 1762117282,
     "server_region": "southeast_asia"
 }
