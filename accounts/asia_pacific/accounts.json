@@ -3352,9 +3352,15 @@
         "47283294980101": {
             "crew_id": 889058241281,
             "crew_name": "NOAH",
+            "equipping_title": "Tencent_Sever_9",
             "gender": 0,
-            "last_seen": 1760273071,
+            "hp": 2063589.375,
+            "last_seen": 1762075210,
+            "level": 100,
             "name": "ミミリャ",
+            "name_history": [
+                "ミミリャ"
+            ],
             "registered": "Aug 11, 2022, 12:22:55 PM",
             "role_id": 47283294980101,
             "server_region": "asia_pacific"
@@ -3744,11 +3750,17 @@
             "server_region": "asia_pacific"
         },
         "47291884896363": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 1,
-            "last_seen": 1759402683,
+            "crew_id": 3324304698115,
+            "crew_name": "COLORS",
+            "equipping_title": "HuntingRank_2;imitation_22;5",
+            "gender": 0,
+            "hp": 2593087.75,
+            "last_seen": 1762075210,
+            "level": 100,
             "name": "Rain3jkd7h",
+            "name_history": [
+                "Rain3jkd7h"
+            ],
             "registered": "Aug 11, 2022, 8:33:27 AM",
             "role_id": 47291884896363,
             "server_region": "asia_pacific"
@@ -8852,9 +8864,15 @@
         "47343427315514": {
             "crew_id": 326417525509,
             "crew_name": "桜カフェ",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": 1759588585,
+            "hp": 2250762.25,
+            "last_seen": 1762075210,
+            "level": 100,
             "name": "Crealidelle",
+            "name_history": [
+                "Crealidelle"
+            ],
             "registered": "Apr 7, 2024, 10:37:54 PM",
             "role_id": 47343427315514,
             "server_region": "asia_pacific"
@@ -15187,6 +15205,22 @@
             "role_id": 47356309492358,
             "server_region": "asia_pacific"
         },
+        "47356309494482": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1689798.875,
+            "last_seen": 1762075210,
+            "level": 100,
+            "name": "ばんばー",
+            "name_history": [
+                "ばんばー"
+            ],
+            "registered": "Aug 19, 2022, 8:09:29 PM",
+            "role_id": 47356309494482,
+            "server_region": "asia_pacific"
+        },
         "47356310519648": {
             "crew_id": 0,
             "crew_name": "",
@@ -16120,6 +16154,22 @@
             "name": "にわか者",
             "registered": "Aug 16, 2022, 1:35:11 PM",
             "role_id": 47382079240806,
+            "server_region": "asia_pacific"
+        },
+        "47382079256125": {
+            "crew_id": 55834585881,
+            "crew_name": "　",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 1866799.25,
+            "last_seen": 1762075210,
+            "level": 100,
+            "name": "サッチン#e",
+            "name_history": [
+                "サッチン#e"
+            ],
+            "registered": "Aug 17, 2022, 1:01:32 AM",
+            "role_id": 47382079256125,
             "server_region": "asia_pacific"
         },
         "47382079257335": {
@@ -18151,8 +18201,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1593,
+    "accounts_total": 1595,
     "created": 1754829154,
-    "last_updated": 1762075150,
+    "last_updated": 1762075210,
     "server_region": "asia_pacific"
 }
