@@ -3628,10 +3628,13 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 2456066.25,
-            "last_seen": 1761384802,
+            "hp": 2153354.75,
+            "last_seen": 1762168195,
             "level": 100,
             "name": "SayaKoceng",
+            "name_history": [
+                "SayaKoceng"
+            ],
             "registered": "Aug 11, 2022, 11:14:16 AM",
             "role_id": 68740951584152,
             "server_region": "southeast_asia"
@@ -8855,9 +8858,15 @@
         "68775311335821": {
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
+            "equipping_title": "1_8_0_24",
             "gender": 1,
-            "last_seen": 1758622083,
+            "hp": 2722329.0,
+            "last_seen": 1762168195,
+            "level": 100,
             "name": "Shiba Inu​",
+            "name_history": [
+                "Shiba Inu​"
+            ],
             "registered": "Aug 11, 2022, 7:19:35 PM",
             "role_id": 68775311335821,
             "server_region": "southeast_asia"
@@ -21398,6 +21407,6 @@
     },
     "accounts_total": 1760,
     "created": 1753795148,
-    "last_updated": 1762168135,
+    "last_updated": 1762168195,
     "server_region": "southeast_asia"
 }
