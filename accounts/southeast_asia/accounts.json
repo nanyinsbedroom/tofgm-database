@@ -12235,9 +12235,15 @@
         "68775311740255": {
             "crew_id": 1129576414858,
             "crew_name": "UQHolderTH",
+            "equipping_title": "3_2025",
             "gender": 1,
-            "last_seen": 1759662625,
+            "hp": 1057559.5,
+            "last_seen": 1762167774,
+            "level": 100,
             "name": "くごミ",
+            "name_history": [
+                "くごミ"
+            ],
             "registered": "Jun 18, 2025, 8:56:05 AM",
             "role_id": 68775311740255,
             "server_region": "southeast_asia"
@@ -20127,9 +20133,15 @@
         "68801081132872": {
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1758280829,
+            "hp": 2320786.75,
+            "last_seen": 1762167774,
+            "level": 100,
             "name": "Naehel",
+            "name_history": [
+                "Naehel"
+            ],
             "registered": "Aug 11, 2022, 10:39:36 PM",
             "role_id": 68801081132872,
             "server_region": "southeast_asia"
@@ -21359,6 +21371,6 @@
     },
     "accounts_total": 1760,
     "created": 1753795148,
-    "last_updated": 1762167714,
+    "last_updated": 1762167774,
     "server_region": "southeast_asia"
 }
