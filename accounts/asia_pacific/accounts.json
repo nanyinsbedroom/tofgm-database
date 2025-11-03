@@ -788,10 +788,13 @@
             "crew_name": "エリシオン",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2498941.5,
-            "last_seen": 1761482827,
+            "hp": 2392897.5,
+            "last_seen": 1762174025,
             "level": 100,
             "name": "SASAO餡",
+            "name_history": [
+                "SASAO餡"
+            ],
             "registered": "Aug 11, 2022, 12:32:27 PM",
             "role_id": 47253230208585,
             "server_region": "asia_pacific"
@@ -1787,7 +1790,7 @@
             "equipping_title": "Tencent_Sever_4",
             "gender": 1,
             "hp": 2540251.25,
-            "last_seen": 1762075270,
+            "last_seen": 1762174025,
             "level": 100,
             "name": "クルミ",
             "name_history": [
@@ -7706,10 +7709,13 @@
             "crew_name": "りんゆかチャンネル",
             "equipping_title": "1_1_27_1",
             "gender": 1,
-            "hp": 3205951.0,
-            "last_seen": 1760355435,
+            "hp": 2490070.25,
+            "last_seen": 1762174025,
             "level": 100,
             "name": "Rodford",
+            "name_history": [
+                "Rodford"
+            ],
             "registered": "Aug 11, 2022, 6:09:37 PM",
             "role_id": 47321949694085,
             "server_region": "asia_pacific"
@@ -12883,10 +12889,13 @@
             "crew_name": "基本ソロ無言",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 1422385.5,
-            "last_seen": 1761677501,
+            "hp": 1427509.5,
+            "last_seen": 1762174025,
             "level": 100,
             "name": "ToshiK",
+            "name_history": [
+                "ToshiK"
+            ],
             "registered": "May 4, 2025, 6:21:07 AM",
             "role_id": 47343427902292,
             "server_region": "asia_pacific"
@@ -19506,10 +19515,13 @@
             "crew_name": "月が綺麗ですね。",
             "equipping_title": "しのちゃん。的导师,0",
             "gender": 1,
-            "hp": 2388071.5,
-            "last_seen": 1761741115,
+            "hp": 2399635.0,
+            "last_seen": 1762174025,
             "level": 100,
             "name": " 雪凪",
+            "name_history": [
+                " 雪凪"
+            ],
             "registered": "Aug 26, 2022, 8:19:21 PM",
             "role_id": 47382079327481,
             "server_region": "asia_pacific"
@@ -19718,6 +19730,22 @@
             ],
             "registered": "Aug 28, 2022, 1:05:00 AM",
             "role_id": 47386374261423,
+            "server_region": "asia_pacific"
+        },
+        "47386374274843": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_5_1_1",
+            "gender": 1,
+            "hp": 1859079.5,
+            "last_seen": 1762174025,
+            "level": 100,
+            "name": "小日向ゆの",
+            "name_history": [
+                "小日向ゆの"
+            ],
+            "registered": "Sep 19, 2022, 8:50:06 PM",
+            "role_id": 47386374274843,
             "server_region": "asia_pacific"
         },
         "47386374279580": {
@@ -21618,8 +21646,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1778,
+    "accounts_total": 1779,
     "created": 1754829154,
-    "last_updated": 1762173965,
+    "last_updated": 1762174025,
     "server_region": "asia_pacific"
 }
