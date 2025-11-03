@@ -1124,12 +1124,15 @@
         "68728066708671": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
-            "equipping_title": "1_12_0_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2845155.25,
-            "last_seen": 1760532587,
+            "hp": 2874620.75,
+            "last_seen": 1762175228,
             "level": 100,
             "name": "Newones",
+            "name_history": [
+                "Newones"
+            ],
             "registered": "Aug 12, 2022, 1:47:49 PM",
             "role_id": 68728066708671,
             "server_region": "southeast_asia"
@@ -2568,9 +2571,15 @@
         "68736656617622": {
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759086032,
+            "hp": 2421543.0,
+            "last_seen": 1762175228,
+            "level": 100,
             "name": "aLenka",
+            "name_history": [
+                "aLenka"
+            ],
             "registered": "Aug 11, 2022, 9:10:03 AM",
             "role_id": 68736656617622,
             "server_region": "southeast_asia"
@@ -2989,10 +2998,13 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2565030.75,
-            "last_seen": 1761660643,
+            "hp": 2704256.25,
+            "last_seen": 1762175228,
             "level": 100,
             "name": "Mirianne",
+            "name_history": [
+                "Mirianne"
+            ],
             "registered": "Aug 17, 2022, 2:53:20 AM",
             "role_id": 68736656695046,
             "server_region": "southeast_asia"
@@ -7009,8 +7021,8 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2684086.25,
-            "last_seen": 1762091690,
+            "hp": 2701031.0,
+            "last_seen": 1762175228,
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -7121,9 +7133,15 @@
         "68762426433034": {
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
+            "equipping_title": "1_4_3_29",
             "gender": 0,
-            "last_seen": 1759918757,
+            "hp": 2720656.0,
+            "last_seen": 1762175228,
+            "level": 100,
             "name": "Aliceline",
+            "name_history": [
+                "Aliceline"
+            ],
             "registered": "Aug 11, 2022, 2:52:57 PM",
             "role_id": 68762426433034,
             "server_region": "southeast_asia"
@@ -7686,10 +7704,13 @@
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 3024325.25,
-            "last_seen": 1760530615,
+            "hp": 2352435.25,
+            "last_seen": 1762175228,
             "level": 100,
             "name": "L-Dlan",
+            "name_history": [
+                "L-Dlan"
+            ],
             "registered": "Jun 17, 2023, 10:21:06 AM",
             "role_id": 68762426598055,
             "server_region": "southeast_asia"
@@ -10521,10 +10542,13 @@
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2888420.5,
-            "last_seen": 1760530615,
+            "hp": 2432856.25,
+            "last_seen": 1762175228,
             "level": 100,
             "name": "JustLazySoWhat",
+            "name_history": [
+                "JustLazySoWhat"
+            ],
             "registered": "Apr 16, 2024, 9:37:29 PM",
             "role_id": 68775311659945,
             "server_region": "southeast_asia"
@@ -21827,6 +21851,6 @@
     },
     "accounts_total": 1781,
     "created": 1753795148,
-    "last_updated": 1762175168,
+    "last_updated": 1762175228,
     "server_region": "southeast_asia"
 }
