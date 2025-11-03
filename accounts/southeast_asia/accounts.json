@@ -1638,10 +1638,13 @@
             "crew_name": "Tea Party",
             "equipping_title": "Chef RinSaMa的学徒,0",
             "gender": 1,
-            "hp": 1819076.75,
-            "last_seen": 1761842525,
+            "hp": 1823177.5,
+            "last_seen": 1762167834,
             "level": 100,
             "name": "Winter Neko",
+            "name_history": [
+                "Winter Neko"
+            ],
             "registered": "Aug 11, 2022, 8:34:12 AM",
             "role_id": 68732361645182,
             "server_region": "southeast_asia"
@@ -2126,10 +2129,13 @@
             "crew_name": "VN-Archon",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2504213.0,
-            "last_seen": 1760792714,
+            "hp": 2512576.0,
+            "last_seen": 1762167834,
             "level": 100,
             "name": "ViBa",
+            "name_history": [
+                "ViBa"
+            ],
             "registered": "Aug 13, 2022, 7:19:28 PM",
             "role_id": 68732361699866,
             "server_region": "southeast_asia"
@@ -4215,9 +4221,15 @@
         "68740951742147": {
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
+            "equipping_title": "1_8_0_26",
             "gender": 1,
-            "last_seen": 1758623228,
+            "hp": 2191869.25,
+            "last_seen": 1762167834,
+            "level": 100,
             "name": "Chihuahua​",
+            "name_history": [
+                "Chihuahua​"
+            ],
             "registered": "Jan 27, 2023, 6:54:08 PM",
             "role_id": 68740951742147,
             "server_region": "southeast_asia"
@@ -5821,8 +5833,8 @@
             "crew_name": "ARCHIVE",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 2272731.0,
-            "last_seen": 1762087153,
+            "hp": 2272730.75,
+            "last_seen": 1762167834,
             "level": 100,
             "name": "Zenxlay",
             "name_history": [
@@ -7246,10 +7258,13 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2714451.0,
-            "last_seen": 1761911936,
+            "hp": 2276448.75,
+            "last_seen": 1762167834,
             "level": 100,
             "name": "MoMoTaRo๛",
+            "name_history": [
+                "MoMoTaRo๛"
+            ],
             "registered": "Aug 13, 2022, 12:51:47 AM",
             "role_id": 68762426463458,
             "server_region": "southeast_asia"
@@ -10689,9 +10704,15 @@
         "68775311697147": {
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "2_1_0_1",
             "gender": 1,
-            "last_seen": 1758281549,
+            "hp": 1725552.125,
+            "last_seen": 1762167834,
+            "level": 100,
             "name": "MAPLE V2",
+            "name_history": [
+                "MAPLE V2"
+            ],
             "registered": "Sep 13, 2024, 5:08:38 PM",
             "role_id": 68775311697147,
             "server_region": "southeast_asia"
@@ -21371,6 +21392,6 @@
     },
     "accounts_total": 1760,
     "created": 1753795148,
-    "last_updated": 1762167774,
+    "last_updated": 1762167834,
     "server_region": "southeast_asia"
 }
