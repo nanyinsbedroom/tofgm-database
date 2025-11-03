@@ -121,10 +121,13 @@
             "crew_name": "Sylvae Custodes",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2268311.5,
-            "last_seen": 1761483067,
+            "hp": 2264166.5,
+            "last_seen": 1762174266,
             "level": 100,
             "name": "KeiSch",
+            "name_history": [
+                "KeiSch"
+            ],
             "registered": "Aug 11, 2022, 11:35:50 AM",
             "role_id": 47248935241830,
             "server_region": "asia_pacific"
@@ -3104,10 +3107,13 @@
             "crew_name": "ふぇありー",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2824069.5,
-            "last_seen": 1761739201,
+            "hp": 2838469.5,
+            "last_seen": 1762174266,
             "level": 100,
             "name": "ここあろ",
+            "name_history": [
+                "ここあろ"
+            ],
             "registered": "Aug 12, 2022, 5:15:23 PM",
             "role_id": 47274705081697,
             "server_region": "asia_pacific"
@@ -5081,12 +5087,15 @@
         "47291886022012": {
             "crew_id": 3053721758464,
             "crew_name": "Archivist",
-            "equipping_title": "1_6_4_35",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2306091.25,
-            "last_seen": 1761738640,
+            "hp": 2044020.75,
+            "last_seen": 1762174266,
             "level": 100,
             "name": "かーす",
+            "name_history": [
+                "かーす"
+            ],
             "registered": "May 14, 2023, 5:01:31 PM",
             "role_id": 47291886022012,
             "server_region": "asia_pacific"
@@ -5783,6 +5792,22 @@
             "name": "HeyOrange",
             "registered": "Aug 11, 2022, 6:12:45 PM",
             "role_id": 47300474861816,
+            "server_region": "asia_pacific"
+        },
+        "47300474865274": {
+            "crew_id": 4788888546053,
+            "crew_name": "アストラ町内会",
+            "equipping_title": "1_1_11_1",
+            "gender": 1,
+            "hp": 2400723.0,
+            "last_seen": 1762174266,
+            "level": 100,
+            "name": "みするぎ",
+            "name_history": [
+                "みするぎ"
+            ],
+            "registered": "Aug 11, 2022, 7:38:19 PM",
+            "role_id": 47300474865274,
             "server_region": "asia_pacific"
         },
         "47300474865305": {
@@ -8298,6 +8323,22 @@
             "role_id": 47330539617130,
             "server_region": "asia_pacific"
         },
+        "47330539617442": {
+            "crew_id": 871878372108,
+            "crew_name": "†もちもちねこねこ†",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2742277.0,
+            "last_seen": 1762174266,
+            "level": 100,
+            "name": "たみゅ",
+            "name_history": [
+                "たみゅ"
+            ],
+            "registered": "Aug 11, 2022, 4:33:59 PM",
+            "role_id": 47330539617442,
+            "server_region": "asia_pacific"
+        },
         "47330539625843": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
@@ -8713,11 +8754,33 @@
         "47334834591950": {
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "last_seen": 1759399800,
+            "hp": 2049310.875,
+            "last_seen": 1762174266,
+            "level": 100,
             "name": "なおちゃん。",
+            "name_history": [
+                "なおちゃん。"
+            ],
             "registered": "Aug 11, 2022, 7:33:38 PM",
             "role_id": 47334834591950,
+            "server_region": "asia_pacific"
+        },
+        "47334834598690": {
+            "crew_id": 970662619904,
+            "crew_name": "Nazarick",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2565935.0,
+            "last_seen": 1762174266,
+            "level": 100,
+            "name": "Akane​",
+            "name_history": [
+                "Akane​"
+            ],
+            "registered": "Aug 11, 2022, 9:20:44 PM",
+            "role_id": 47334834598690,
             "server_region": "asia_pacific"
         },
         "47334834600577": {
@@ -17115,6 +17178,22 @@
             "role_id": 47343427947758,
             "server_region": "asia_pacific"
         },
+        "47343427947875": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 410699.5625,
+            "last_seen": 1762174266,
+            "level": 53,
+            "name": "PandoraVIISins",
+            "name_history": [
+                "PandoraVIISins"
+            ],
+            "registered": "Oct 27, 2025, 8:45:33 PM",
+            "role_id": 47343427947875,
+            "server_region": "asia_pacific"
+        },
         "47343427948030": {
             "crew_id": 0,
             "crew_name": "",
@@ -19811,11 +19890,17 @@
             "server_region": "asia_pacific"
         },
         "47382079373120": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 3324304698115,
+            "crew_name": "COLORS",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758632007,
+            "hp": 2384143.5,
+            "last_seen": 1762174266,
+            "level": 100,
             "name": "laulah",
+            "name_history": [
+                "laulah"
+            ],
             "registered": "Nov 18, 2022, 11:19:18 PM",
             "role_id": 47382079373120,
             "server_region": "asia_pacific"
@@ -19924,9 +20009,15 @@
         "47386374293977": {
             "crew_id": 798863928080,
             "crew_name": "ぽんぽん☆ぺいん",
+            "equipping_title": "メスガキ界的导师,0",
             "gender": 1,
-            "last_seen": 1760276873,
+            "hp": 1411457.75,
+            "last_seen": 1762174266,
+            "level": 100,
             "name": "座天座あこ",
+            "name_history": [
+                "座天座あこ"
+            ],
             "registered": "Nov 5, 2022, 12:53:26 PM",
             "role_id": 47386374293977,
             "server_region": "asia_pacific"
@@ -21786,8 +21877,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1787,
+    "accounts_total": 1791,
     "created": 1754829154,
-    "last_updated": 1762174206,
+    "last_updated": 1762174266,
     "server_region": "asia_pacific"
 }
