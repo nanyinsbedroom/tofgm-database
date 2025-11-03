@@ -5626,9 +5626,15 @@
         "68758131441868": {
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759769966,
+            "hp": 1945435.125,
+            "last_seen": 1762175168,
+            "level": 100,
             "name": "Yuzukiii",
+            "name_history": [
+                "Yuzukiii"
+            ],
             "registered": "Aug 11, 2022, 7:33:55 AM",
             "role_id": 68758131441868,
             "server_region": "southeast_asia"
@@ -6717,7 +6723,7 @@
             "equipping_title": "1_1_30_1",
             "gender": 0,
             "hp": 2556353.5,
-            "last_seen": 1762087153,
+            "last_seen": 1762175168,
             "level": 100,
             "name": "GespenstMkI",
             "name_history": [
@@ -8884,8 +8890,8 @@
             "crew_name": "Guardian",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2483111.0,
-            "last_seen": 1762014515,
+            "hp": 2503998.25,
+            "last_seen": 1762175168,
             "level": 100,
             "name": "Rim",
             "name_history": [
@@ -9653,6 +9659,22 @@
             "role_id": 68775311554747,
             "server_region": "southeast_asia"
         },
+        "68775311558633": {
+            "crew_id": 124554067597,
+            "crew_name": "Infinite TH",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1620427.375,
+            "last_seen": 1762175168,
+            "level": 100,
+            "name": "เOวีจัง",
+            "name_history": [
+                "เOวีจัง"
+            ],
+            "registered": "Sep 27, 2023, 12:22:22 AM",
+            "role_id": 68775311558633,
+            "server_region": "southeast_asia"
+        },
         "68775311559483": {
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
@@ -9688,9 +9710,12 @@
             "equipping_title": "2_10_1_6",
             "gender": 1,
             "hp": 2182820.75,
-            "last_seen": 1761822207,
+            "last_seen": 1762175168,
             "level": 100,
             "name": "Amimima",
+            "name_history": [
+                "Amimima"
+            ],
             "registered": "Oct 1, 2023, 9:36:34 PM",
             "role_id": 68775311561400,
             "server_region": "southeast_asia"
@@ -21800,8 +21825,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1780,
+    "accounts_total": 1781,
     "created": 1753795148,
-    "last_updated": 1762174988,
+    "last_updated": 1762175168,
     "server_region": "southeast_asia"
 }
