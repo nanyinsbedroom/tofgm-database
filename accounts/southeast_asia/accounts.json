@@ -15050,9 +15050,15 @@
         "68775311752336": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "last_seen": 1759662865,
+            "hp": 787589.125,
+            "last_seen": 1762174747,
+            "level": 75,
             "name": "BOSS-EH",
+            "name_history": [
+                "BOSS-EH"
+            ],
             "registered": "Sep 26, 2025, 9:32:45 AM",
             "role_id": 68775311752336,
             "server_region": "southeast_asia"
@@ -21704,6 +21710,6 @@
     },
     "accounts_total": 1775,
     "created": 1753795148,
-    "last_updated": 1762174627,
+    "last_updated": 1762174747,
     "server_region": "southeast_asia"
 }
