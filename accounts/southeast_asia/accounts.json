@@ -1967,9 +1967,15 @@
         "68732361673139": {
             "crew_id": 30064787075,
             "crew_name": "Dark Firefly",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1754842178,
+            "hp": 1996232.875,
+            "last_seen": 1762169758,
+            "level": 100,
             "name": "Skarn",
+            "name_history": [
+                "Skarn"
+            ],
             "registered": "Aug 12, 2022, 12:43:54 AM",
             "role_id": 68732361673139,
             "server_region": "southeast_asia"
@@ -2764,9 +2770,15 @@
         "68736656636196": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1753877512,
+            "hp": 2345102.5,
+            "last_seen": 1762169758,
+            "level": 100,
             "name": "Eidoss",
+            "name_history": [
+                "Eidoss"
+            ],
             "registered": "Aug 11, 2022, 9:13:28 PM",
             "role_id": 68736656636196,
             "server_region": "southeast_asia"
@@ -4995,10 +5007,13 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2060350.75,
-            "last_seen": 1760352597,
+            "hp": 2049873.875,
+            "last_seen": 1762169758,
             "level": 100,
             "name": "Elena Starfist",
+            "name_history": [
+                "Elena Starfist"
+            ],
             "registered": "Aug 12, 2022, 5:48:45 PM",
             "role_id": 68749541551438,
             "server_region": "southeast_asia"
@@ -17934,7 +17949,7 @@
             "equipping_title": "Title_iwplay33_os06",
             "gender": 0,
             "hp": 2406717.0,
-            "last_seen": 1762092110,
+            "last_seen": 1762169758,
             "level": 100,
             "name": "CHaNoNo",
             "name_history": [
@@ -21540,6 +21555,6 @@
     },
     "accounts_total": 1767,
     "created": 1753795148,
-    "last_updated": 1762169578,
+    "last_updated": 1762169758,
     "server_region": "southeast_asia"
 }
