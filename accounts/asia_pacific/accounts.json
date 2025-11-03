@@ -3275,9 +3275,15 @@
         "47279000039954": {
             "crew_id": 6158983113475,
             "crew_name": "Re：ゼロから始める幻塔生活 ",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "last_seen": 1760110588,
+            "hp": 2657174.5,
+            "last_seen": 1762171861,
+            "level": 100,
             "name": "Kororo#k",
+            "name_history": [
+                "Kororo#k"
+            ],
             "registered": "Aug 12, 2022, 4:25:52 PM",
             "role_id": 47279000039954,
             "server_region": "asia_pacific"
@@ -4511,10 +4517,13 @@
             "crew_name": "月が綺麗ですね。",
             "equipping_title": "桃郷的导师,0",
             "gender": 1,
-            "hp": 2924112.25,
-            "last_seen": 1761838294,
+            "hp": 2895778.25,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "れふ子",
+            "name_history": [
+                "れふ子"
+            ],
             "registered": "Aug 12, 2022, 1:42:02 AM",
             "role_id": 47291884932959,
             "server_region": "asia_pacific"
@@ -5505,6 +5514,22 @@
             "name": "毬藻すずらん",
             "registered": "Aug 14, 2022, 3:14:07 PM",
             "role_id": 47300474910724,
+            "server_region": "asia_pacific"
+        },
+        "47300474912496": {
+            "crew_id": 541165890314,
+            "crew_name": "りんゆかチャンネル",
+            "equipping_title": "1_6_0_1",
+            "gender": 0,
+            "hp": 2718510.75,
+            "last_seen": 1762171861,
+            "level": 100,
+            "name": "小五郎",
+            "name_history": [
+                "小五郎"
+            ],
+            "registered": "Aug 14, 2022, 7:34:13 PM",
+            "role_id": 47300474912496,
             "server_region": "asia_pacific"
         },
         "47300474913394": {
@@ -8393,7 +8418,7 @@
             "equipping_title": "亜早夜的学徒,0",
             "gender": 1,
             "hp": 2021890.375,
-            "last_seen": 1762090848,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "果菜",
             "name_history": [
@@ -9939,12 +9964,15 @@
         "47343427103389": {
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
-            "equipping_title": "balanarka 's Mentor,0",
+            "equipping_title": "balanarka 的导师,0",
             "gender": 1,
-            "hp": 2226420.5,
-            "last_seen": 1761127629,
+            "hp": 2328469.5,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "rocketbunny",
+            "name_history": [
+                "rocketbunny"
+            ],
             "registered": "Feb 25, 2024, 4:29:22 PM",
             "role_id": 47343427103389,
             "server_region": "asia_pacific"
@@ -12423,6 +12451,22 @@
             "name": "たたのの",
             "registered": "Jul 12, 2025, 10:27:07 AM",
             "role_id": 47343427918496,
+            "server_region": "asia_pacific"
+        },
+        "47343427919594": {
+            "crew_id": 648540072703,
+            "crew_name": "Alter",
+            "equipping_title": "1_1_24_1",
+            "gender": 1,
+            "hp": 1482322.375,
+            "last_seen": 1762171861,
+            "level": 100,
+            "name": "Knyaz_Yuri",
+            "name_history": [
+                "Knyaz_Yuri"
+            ],
+            "registered": "Jul 18, 2025, 3:49:56 PM",
+            "role_id": 47343427919594,
             "server_region": "asia_pacific"
         },
         "47343427919648": {
@@ -18206,10 +18250,13 @@
             "crew_name": "Various Colors葬",
             "equipping_title": "みさき的学徒,0",
             "gender": 1,
-            "hp": 2372726.5,
-            "last_seen": 1761677261,
+            "hp": 2372725.5,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "みるくてぃ　",
+            "name_history": [
+                "みるくてぃ　"
+            ],
             "registered": "Sep 1, 2022, 10:59:38 PM",
             "role_id": 47377784348177,
             "server_region": "asia_pacific"
@@ -18396,10 +18443,13 @@
             "crew_name": "COLORS",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2565855.0,
-            "last_seen": 1761838354,
+            "hp": 2571496.75,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "亀ちゃん.",
+            "name_history": [
+                "亀ちゃん."
+            ],
             "registered": "Aug 19, 2022, 10:24:04 PM",
             "role_id": 47382079304812,
             "server_region": "asia_pacific"
@@ -18760,9 +18810,12 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 674300.5625,
-            "last_seen": 1761987937,
+            "last_seen": 1762171861,
             "level": 100,
             "name": "グレフォもどき",
+            "name_history": [
+                "グレフォもどき"
+            ],
             "registered": "Dec 7, 2022, 7:07:36 PM",
             "role_id": 47386374301638,
             "server_region": "asia_pacific"
@@ -20541,8 +20594,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1721,
+    "accounts_total": 1723,
     "created": 1754829154,
-    "last_updated": 1762091389,
+    "last_updated": 1762171861,
     "server_region": "asia_pacific"
 }
