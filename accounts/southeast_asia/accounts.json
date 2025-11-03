@@ -62,12 +62,15 @@
         "68723771706549": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "  REN   's Apprentice,0",
+            "equipping_title": "  REN   的学徒,0",
             "gender": 0,
-            "hp": 2474793.5,
-            "last_seen": 1761512534,
+            "hp": 2430525.0,
+            "last_seen": 1762194720,
             "level": 100,
             "name": "Sylaver",
+            "name_history": [
+                "Sylaver"
+            ],
             "registered": "Aug 11, 2022, 8:01:30 AM",
             "role_id": 68723771706549,
             "server_region": "southeast_asia"
@@ -3771,10 +3774,10 @@
         "68740951585318": {
             "crew_id": 184683609733,
             "crew_name": "Guardian",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "2_5_0_6",
             "gender": 1,
-            "hp": 2434686.25,
-            "last_seen": 1762014756,
+            "hp": 2393884.25,
+            "last_seen": 1762194720,
             "level": 100,
             "name": "Ａｒｔｇｕｎ",
             "name_history": [
@@ -12276,10 +12279,13 @@
             "crew_name": "Nekomimi",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 591558.0625,
-            "last_seen": 1760959905,
+            "hp": 428128.03125,
+            "last_seen": 1762194720,
             "level": 100,
             "name": "ImCarlotta",
+            "name_history": [
+                "ImCarlotta"
+            ],
             "registered": "May 14, 2025, 2:31:05 AM",
             "role_id": 68775311735922,
             "server_region": "southeast_asia"
@@ -20271,10 +20277,10 @@
         "68796786204586": {
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
-            "equipping_title": "Title_HalfAnniversary_os_2",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 1658457.125,
-            "last_seen": 1762169578,
+            "hp": 1502876.75,
+            "last_seen": 1762194720,
             "level": 100,
             "name": "N.4th",
             "name_history": [
@@ -21977,6 +21983,6 @@
     },
     "accounts_total": 1787,
     "created": 1753795148,
-    "last_updated": 1762194359,
+    "last_updated": 1762194720,
     "server_region": "southeast_asia"
 }
