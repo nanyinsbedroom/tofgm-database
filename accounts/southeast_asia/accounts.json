@@ -333,10 +333,13 @@
             "crew_name": "Solo Play PH",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2974449.75,
-            "last_seen": 1761491371,
+            "hp": 2881031.0,
+            "last_seen": 1762194058,
             "level": 100,
             "name": "Manong Guard",
+            "name_history": [
+                "Manong Guard"
+            ],
             "registered": "Aug 11, 2022, 11:58:12 PM",
             "role_id": 68723771739531,
             "server_region": "southeast_asia"
@@ -531,6 +534,22 @@
             ],
             "registered": "Aug 16, 2022, 3:25:35 PM",
             "role_id": 68723771788776,
+            "server_region": "southeast_asia"
+        },
+        "68723771790104": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Title_iwshare_os_8",
+            "gender": 1,
+            "hp": 1088921.5,
+            "last_seen": 1762194058,
+            "level": 100,
+            "name": "Miko Yotsuya ♠",
+            "name_history": [
+                "Miko Yotsuya ♠"
+            ],
+            "registered": "Aug 16, 2022, 7:48:37 PM",
+            "role_id": 68723771790104,
             "server_region": "southeast_asia"
         },
         "68723771793965": {
@@ -2680,6 +2699,22 @@
             "name": "Gojira ツ",
             "registered": "Aug 11, 2022, 12:04:26 PM",
             "role_id": 68736656624190,
+            "server_region": "southeast_asia"
+        },
+        "68736656624963": {
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 1524700.5,
+            "last_seen": 1762194058,
+            "level": 100,
+            "name": "Rittokung",
+            "name_history": [
+                "Rittokung"
+            ],
+            "registered": "Aug 11, 2022, 12:31:44 PM",
+            "role_id": 68736656624963,
             "server_region": "southeast_asia"
         },
         "68736656625154": {
@@ -7124,10 +7159,13 @@
             "crew_name": "Oncilla",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2754051.5,
-            "last_seen": 1760534929,
+            "hp": 2246902.5,
+            "last_seen": 1762194058,
             "level": 100,
             "name": "Prof. CHECKMATE",
+            "name_history": [
+                "Prof. CHECKMATE"
+            ],
             "registered": "Aug 11, 2022, 12:13:58 PM",
             "role_id": 68762426428125,
             "server_region": "southeast_asia"
@@ -21931,8 +21969,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1785,
+    "accounts_total": 1787,
     "created": 1753795148,
-    "last_updated": 1762193998,
+    "last_updated": 1762194058,
     "server_region": "southeast_asia"
 }
