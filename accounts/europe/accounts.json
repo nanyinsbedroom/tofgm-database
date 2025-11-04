@@ -2533,9 +2533,15 @@
         "55864639692146": {
             "crew_id": 489626284753,
             "crew_name": "Serenity",
+            "equipping_title": "Overseas2_10",
             "gender": 0,
-            "last_seen": 1757960301,
+            "hp": 2071309.5,
+            "last_seen": 1762278242,
+            "level": 100,
             "name": "Depeche Mode",
+            "name_history": [
+                "Depeche Mode"
+            ],
             "registered": "Aug 19, 2022, 9:02:26 PM",
             "role_id": 55864639692146,
             "server_region": "europe"
@@ -11131,6 +11137,6 @@
     },
     "accounts_total": 883,
     "created": "1753816624",
-    "last_updated": 1762278182,
+    "last_updated": 1762278242,
     "server_region": "europe"
 }
