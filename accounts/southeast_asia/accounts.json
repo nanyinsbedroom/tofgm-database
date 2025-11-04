@@ -189,10 +189,10 @@
         "68723771721270": {
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
-            "equipping_title": "Overseas2_7",
+            "equipping_title": "Title_HalfAnniversary_os_1",
             "gender": 1,
-            "hp": 1277888.625,
-            "last_seen": 1762091870,
+            "hp": 2307866.25,
+            "last_seen": 1762253228,
             "level": 100,
             "name": " Han",
             "name_history": [
@@ -9594,10 +9594,13 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2378788.5,
-            "last_seen": 1761759602,
+            "hp": 2388666.5,
+            "last_seen": 1762253228,
             "level": 100,
             "name": "Nanto",
+            "name_history": [
+                "Nanto"
+            ],
             "registered": "Jul 23, 2023, 4:02:04 AM",
             "role_id": 68775311502826,
             "server_region": "southeast_asia"
@@ -9605,9 +9608,15 @@
         "68775311515445": {
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1756571007,
+            "hp": 2227892.5,
+            "last_seen": 1762253228,
+            "level": 100,
             "name": "Lechesis",
+            "name_history": [
+                "Lechesis"
+            ],
             "registered": "Jul 30, 2023, 7:20:22 AM",
             "role_id": 68775311515445,
             "server_region": "southeast_asia"
@@ -14196,10 +14205,13 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "2_2_0_22",
             "gender": 0,
-            "hp": 1054277.5,
-            "last_seen": 1761759602,
+            "hp": 1079537.75,
+            "last_seen": 1762253228,
             "level": 100,
             "name": "→ Kawaii〆peиΛ•",
+            "name_history": [
+                "→ Kawaii〆peиΛ•"
+            ],
             "registered": "Aug 28, 2025, 7:33:23 AM",
             "role_id": 68775311749801,
             "server_region": "southeast_asia"
@@ -22149,6 +22161,22 @@
             "role_id": 8607118756214631,
             "server_region": "southeast_asia"
         },
+        "8607118756254992": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "1_4_7_1",
+            "gender": 1,
+            "hp": 2531599.0,
+            "last_seen": 1762253228,
+            "level": 100,
+            "name": "Lulu2ycrc3",
+            "name_history": [
+                "Lulu2ycrc3"
+            ],
+            "registered": "Jul 8, 2024, 3:55:41 AM",
+            "role_id": 8607118756254992,
+            "server_region": "southeast_asia"
+        },
         "8607118756294701": {
             "crew_id": 0,
             "crew_name": "",
@@ -22166,8 +22194,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1795,
+    "accounts_total": 1796,
     "created": 1753795148,
-    "last_updated": 1762252988,
+    "last_updated": 1762253228,
     "server_region": "southeast_asia"
 }
