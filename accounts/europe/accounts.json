@@ -3062,6 +3062,22 @@
             "role_id": 55877524527221,
             "server_region": "europe"
         },
+        "55877524529702": {
+            "crew_id": 489626284754,
+            "crew_name": "PapuArmy",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2253989.0,
+            "last_seen": 1762277220,
+            "level": 100,
+            "name": "  Licht",
+            "name_history": [
+                "  Licht"
+            ],
+            "registered": "Aug 11, 2022, 2:58:02 AM",
+            "role_id": 55877524529702,
+            "server_region": "europe"
+        },
         "55877524530227": {
             "crew_id": 725849486034,
             "crew_name": "Harmony",
@@ -4792,10 +4808,13 @@
             "crew_name": "Rebirth",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "hp": 2502406.75,
-            "last_seen": 1761602706,
+            "hp": 2517673.5,
+            "last_seen": 1762277220,
             "level": 100,
             "name": "ZeroX5",
+            "name_history": [
+                "ZeroX5"
+            ],
             "registered": "Dec 3, 2022, 4:00:03 PM",
             "role_id": 55916179344562,
             "server_region": "europe"
@@ -7101,6 +7120,22 @@
             "role_id": 55963424579160,
             "server_region": "europe"
         },
+        "55963424580517": {
+            "crew_id": 5854040437455,
+            "crew_name": "Moonshine",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1719614.5,
+            "last_seen": 1762277220,
+            "level": 100,
+            "name": "Alinya",
+            "name_history": [
+                "Alinya"
+            ],
+            "registered": "Jul 8, 2024, 9:48:15 PM",
+            "role_id": 55963424580517,
+            "server_region": "europe"
+        },
         "55963424581208": {
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
@@ -7344,12 +7379,15 @@
         "55963424639908": {
             "crew_id": 2031519544009,
             "crew_name": "Banda",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1891157.375,
-            "last_seen": 1760375576,
+            "hp": 1813154.625,
+            "last_seen": 1762277220,
             "level": 100,
             "name": "hayseee",
+            "name_history": [
+                "hayseee"
+            ],
             "registered": "Nov 24, 2024, 5:00:39 PM",
             "role_id": 55963424639908,
             "server_region": "europe"
@@ -10405,6 +10443,38 @@
             "role_id": 55976308996164,
             "server_region": "europe"
         },
+        "8598528821561551": {
+            "crew_id": 17181871185,
+            "crew_name": "Void",
+            "equipping_title": "1_4_3_20",
+            "gender": 0,
+            "hp": 2766252.75,
+            "last_seen": 1762277220,
+            "level": 100,
+            "name": "Purple Angel",
+            "name_history": [
+                "Purple Angel"
+            ],
+            "registered": "Aug 6, 2023, 10:49:29 AM",
+            "role_id": 8598528821561551,
+            "server_region": "europe"
+        },
+        "8598528821565694": {
+            "crew_id": 2469608197201,
+            "crew_name": "Dystopia",
+            "equipping_title": "Nemuri的后继者,1",
+            "gender": 1,
+            "hp": 2204857.75,
+            "last_seen": 1762277220,
+            "level": 100,
+            "name": "Black Diamant",
+            "name_history": [
+                "Black Diamant"
+            ],
+            "registered": "Aug 8, 2023, 3:05:50 PM",
+            "role_id": 8598528821565694,
+            "server_region": "europe"
+        },
         "8598528821567063": {
             "crew_id": 2469608197201,
             "crew_name": "Dystopia",
@@ -10436,10 +10506,26 @@
             "registered": "Oct 24, 2024, 11:02:28 AM",
             "role_id": 8598528821886951,
             "server_region": "europe"
+        },
+        "8598541706550184": {
+            "crew_id": 2495378000980,
+            "crew_name": "Lost Player",
+            "equipping_title": "Title_KoreaAnniversary23",
+            "gender": 1,
+            "hp": 2275724.75,
+            "last_seen": 1762277220,
+            "level": 100,
+            "name": "Uzi82",
+            "name_history": [
+                "Uzi82"
+            ],
+            "registered": "Aug 17, 2023, 9:45:08 PM",
+            "role_id": 8598541706550184,
+            "server_region": "europe"
         }
     },
-    "accounts_total": 843,
+    "accounts_total": 848,
     "created": "1753816624",
-    "last_updated": 1762277160,
+    "last_updated": 1762277220,
     "server_region": "europe"
 }
