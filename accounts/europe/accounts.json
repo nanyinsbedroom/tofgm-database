@@ -2887,9 +2887,15 @@
         "55873229554285": {
             "crew_id": 2087354118865,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1757961982,
+            "hp": 1420160.5,
+            "last_seen": 1762278002,
+            "level": 100,
             "name": "Nazzu",
+            "name_history": [
+                "Nazzu"
+            ],
             "registered": "Aug 11, 2022, 1:34:03 AM",
             "role_id": 55873229554285,
             "server_region": "europe"
@@ -3073,6 +3079,22 @@
             "role_id": 55873229634002,
             "server_region": "europe"
         },
+        "55873229642767": {
+            "crew_id": 2138893726420,
+            "crew_name": "Architects",
+            "equipping_title": "1_1_7_2",
+            "gender": 1,
+            "hp": 1752722.0,
+            "last_seen": 1762278002,
+            "level": 100,
+            "name": "InkSan",
+            "name_history": [
+                "InkSan"
+            ],
+            "registered": "Aug 21, 2022, 12:59:53 PM",
+            "role_id": 55873229642767,
+            "server_region": "europe"
+        },
         "55873229658519": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
@@ -3152,6 +3174,22 @@
             ],
             "registered": "Jun 30, 2023, 11:06:19 PM",
             "role_id": 55873229780338,
+            "server_region": "europe"
+        },
+        "55873229781934": {
+            "crew_id": 5012226847451,
+            "crew_name": "Sleepless Roses",
+            "equipping_title": "2_8_0_3",
+            "gender": 0,
+            "hp": 1978840.375,
+            "last_seen": 1762278002,
+            "level": 100,
+            "name": "Falmer",
+            "name_history": [
+                "Falmer"
+            ],
+            "registered": "Jul 21, 2023, 11:05:45 AM",
+            "role_id": 55873229781934,
             "server_region": "europe"
         },
         "55877524521187": {
@@ -6040,8 +6078,8 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2669780.0,
-            "last_seen": 1762113707,
+            "hp": 2659780.0,
+            "last_seen": 1762278002,
             "level": 100,
             "name": "Diabolistka",
             "name_history": [
@@ -7543,8 +7581,8 @@
             "crew_name": "ColdHeart",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2604957.5,
-            "last_seen": 1762112023,
+            "hp": 2525350.5,
+            "last_seen": 1762278002,
             "level": 100,
             "name": "Vояѕо",
             "name_history": [
@@ -11027,8 +11065,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 877,
+    "accounts_total": 879,
     "created": "1753816624",
-    "last_updated": 1762277821,
+    "last_updated": 1762278002,
     "server_region": "europe"
 }
