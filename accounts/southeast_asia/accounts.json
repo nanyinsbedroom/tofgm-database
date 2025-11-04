@@ -6273,8 +6273,8 @@
             "crew_name": "Phantasia ",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2467720.25,
-            "last_seen": 1762074065,
+            "hp": 2525463.75,
+            "last_seen": 1762271848,
             "level": 100,
             "name": "Wulfstan",
             "name_history": [
@@ -7063,8 +7063,8 @@
             "crew_name": "Phantasia ",
             "equipping_title": "3_2023",
             "gender": 0,
-            "hp": 2176964.75,
-            "last_seen": 1762074065,
+            "hp": 2270298.5,
+            "last_seen": 1762271848,
             "level": 100,
             "name": "MacKenzee",
             "name_history": [
@@ -7150,9 +7150,15 @@
         "68758131638776": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
+            "equipping_title": "1_7_1_3",
             "gender": 1,
-            "last_seen": 1757938291,
+            "hp": 2246866.5,
+            "last_seen": 1762271848,
+            "level": 100,
             "name": "Natsfluw",
+            "name_history": [
+                "Natsfluw"
+            ],
             "registered": "Jul 13, 2023, 1:18:08 AM",
             "role_id": 68758131638776,
             "server_region": "southeast_asia"
@@ -11401,6 +11407,22 @@
             "name": "Spy♥",
             "registered": "Nov 5, 2024, 9:57:29 PM",
             "role_id": 68775311706799,
+            "server_region": "southeast_asia"
+        },
+        "68775311709482": {
+            "crew_id": 4544075415181,
+            "crew_name": "SHUTINS",
+            "equipping_title": "Title_KoreaAnniversary23",
+            "gender": 1,
+            "hp": 356645.375,
+            "last_seen": 1762271848,
+            "level": 100,
+            "name": "Gundam-00",
+            "name_history": [
+                "Gundam-00"
+            ],
+            "registered": "Nov 21, 2024, 12:43:04 PM",
+            "role_id": 68775311709482,
             "server_region": "southeast_asia"
         },
         "68775311709525": {
@@ -18136,6 +18158,22 @@
             "role_id": 68775311756685,
             "server_region": "southeast_asia"
         },
+        "68775311756687": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1864.6259765625,
+            "last_seen": 1762271848,
+            "level": 7,
+            "name": "Shiniao",
+            "name_history": [
+                "Shiniao"
+            ],
+            "registered": "Nov 4, 2025, 11:31:46 PM",
+            "role_id": 68775311756687,
+            "server_region": "southeast_asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -22564,8 +22602,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1809,
+    "accounts_total": 1811,
     "created": 1753795148,
-    "last_updated": 1762271728,
+    "last_updated": 1762271848,
     "server_region": "southeast_asia"
 }
