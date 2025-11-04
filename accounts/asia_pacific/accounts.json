@@ -2498,10 +2498,13 @@
             "crew_name": "【新時代】",
             "equipping_title": "1_4_8_8",
             "gender": 1,
-            "hp": 2795774.5,
-            "last_seen": 1761739923,
+            "hp": 2702548.25,
+            "last_seen": 1762250705,
             "level": 100,
             "name": "ぐみちゃん。",
+            "name_history": [
+                "ぐみちゃん。"
+            ],
             "registered": "Aug 11, 2022, 8:52:35 PM",
             "role_id": 47266115126596,
             "server_region": "asia_pacific"
@@ -3807,6 +3810,22 @@
             "name": "rasuta#c$",
             "registered": "Sep 12, 2022, 12:10:34 AM",
             "role_id": 47279000113042,
+            "server_region": "asia_pacific"
+        },
+        "47279000119559": {
+            "crew_id": 6266357295875,
+            "crew_name": "始まりのニョ",
+            "equipping_title": "2_10_0_6",
+            "gender": 1,
+            "hp": 2175960.5,
+            "last_seen": 1762250705,
+            "level": 100,
+            "name": "雌犬ルドルフ",
+            "name_history": [
+                "雌犬ルドルフ"
+            ],
+            "registered": "Sep 25, 2022, 6:58:14 PM",
+            "role_id": 47279000119559,
             "server_region": "asia_pacific"
         },
         "47279000124125": {
@@ -6981,6 +7000,22 @@
             "role_id": 47313359736083,
             "server_region": "asia_pacific"
         },
+        "47313359739343": {
+            "crew_id": 3423088945928,
+            "crew_name": "ワイワイ探検隊",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1895076.375,
+            "last_seen": 1762250705,
+            "level": 100,
+            "name": "ゆず❀",
+            "name_history": [
+                "ゆず❀"
+            ],
+            "registered": "Aug 11, 2022, 11:30:02 AM",
+            "role_id": 47313359739343,
+            "server_region": "asia_pacific"
+        },
         "47313359740367": {
             "crew_id": 0,
             "crew_name": "",
@@ -7135,6 +7170,22 @@
             "name": "Elsia",
             "registered": "Aug 11, 2022, 6:56:44 PM",
             "role_id": 47313359762720,
+            "server_region": "asia_pacific"
+        },
+        "47313359767907": {
+            "crew_id": 3423088945928,
+            "crew_name": "ワイワイ探検隊",
+            "equipping_title": "2_10_3_1",
+            "gender": 0,
+            "hp": 1917887.875,
+            "last_seen": 1762250705,
+            "level": 100,
+            "name": "アマテラス　",
+            "name_history": [
+                "アマテラス　"
+            ],
+            "registered": "Aug 11, 2022, 8:50:08 PM",
+            "role_id": 47313359767907,
             "server_region": "asia_pacific"
         },
         "47313359768095": {
@@ -11853,6 +11904,22 @@
             "name": "となりのトトロとトロ♪",
             "registered": "Aug 17, 2024, 9:27:27 PM",
             "role_id": 47343427633564,
+            "server_region": "asia_pacific"
+        },
+        "47343427639168": {
+            "crew_id": 3423088945928,
+            "crew_name": "ワイワイ探検隊",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 1537497.875,
+            "last_seen": 1762250705,
+            "level": 100,
+            "name": "苺乃 ここあ",
+            "name_history": [
+                "苺乃 ここあ"
+            ],
+            "registered": "Aug 21, 2024, 2:28:07 PM",
+            "role_id": 47343427639168,
             "server_region": "asia_pacific"
         },
         "47343427639550": {
@@ -22199,8 +22266,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1810,
+    "accounts_total": 1814,
     "created": 1754829154,
-    "last_updated": 1762250645,
+    "last_updated": 1762250705,
     "server_region": "asia_pacific"
 }
