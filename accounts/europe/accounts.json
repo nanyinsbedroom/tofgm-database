@@ -140,9 +140,15 @@
         "55838869848532": {
             "crew_id": 2031519544009,
             "crew_name": "Banda",
-            "gender": 1,
-            "last_seen": 1757962223,
+            "equipping_title": "2_2_0_2",
+            "gender": 0,
+            "hp": 2159702.5,
+            "last_seen": 1762278303,
+            "level": 100,
             "name": "HARUZUKI",
+            "name_history": [
+                "HARUZUKI"
+            ],
             "registered": "Aug 11, 2022, 4:30:20 PM",
             "role_id": 55838869848532,
             "server_region": "europe"
@@ -244,10 +250,13 @@
             "crew_name": "Banda",
             "equipping_title": "1_4_3_26",
             "gender": 0,
-            "hp": 2673759.25,
-            "last_seen": 1760375576,
+            "hp": 2751845.25,
+            "last_seen": 1762278303,
             "level": 100,
             "name": "Азайя",
+            "name_history": [
+                "Азайя"
+            ],
             "registered": "May 31, 2023, 8:24:52 PM",
             "role_id": 55838870025499,
             "server_region": "europe"
@@ -3403,9 +3412,15 @@
         "55877524548217": {
             "crew_id": 725849486034,
             "crew_name": "Harmony",
+            "equipping_title": "Mini Seask的导师,0",
             "gender": 0,
-            "last_seen": 1758657948,
+            "hp": 2207231.25,
+            "last_seen": 1762278303,
+            "level": 100,
             "name": "Seask",
+            "name_history": [
+                "Seask"
+            ],
             "registered": "Aug 11, 2022, 6:41:29 PM",
             "role_id": 55877524548217,
             "server_region": "europe"
@@ -5592,9 +5607,15 @@
         "55929064161635": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "2_2_0_21",
             "gender": 0,
-            "last_seen": 1757943791,
+            "hp": 2904760.75,
+            "last_seen": 1762278303,
+            "level": 100,
             "name": "Shino  Asada",
+            "name_history": [
+                "Shino  Asada"
+            ],
             "registered": "Aug 12, 2022, 6:23:07 AM",
             "role_id": 55929064161635,
             "server_region": "europe"
@@ -5677,9 +5698,15 @@
         "55929064215926": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1757960481,
+            "hp": 2483196.25,
+            "last_seen": 1762278303,
+            "level": 100,
             "name": "Kerosine",
+            "name_history": [
+                "Kerosine"
+            ],
             "registered": "Sep 3, 2022, 9:29:12 PM",
             "role_id": 55929064215926,
             "server_region": "europe"
@@ -10666,10 +10693,13 @@
             "crew_name": "Rebirth",
             "equipping_title": "Title_txcreatos_01",
             "gender": 1,
-            "hp": 2386606.75,
-            "last_seen": 1761410497,
+            "hp": 2511655.0,
+            "last_seen": 1762278303,
             "level": 100,
             "name": "ke11ox",
+            "name_history": [
+                "ke11ox"
+            ],
             "registered": "Aug 14, 2022, 4:18:48 AM",
             "role_id": 55972013815973,
             "server_region": "europe"
@@ -11137,6 +11167,6 @@
     },
     "accounts_total": 883,
     "created": "1753816624",
-    "last_updated": 1762278242,
+    "last_updated": 1762278303,
     "server_region": "europe"
 }
