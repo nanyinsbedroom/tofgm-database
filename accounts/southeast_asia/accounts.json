@@ -1453,10 +1453,13 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "1_1_29_1",
             "gender": 1,
-            "hp": 2799910.5,
-            "last_seen": 1761826307,
+            "hp": 2648030.0,
+            "last_seen": 1762258628,
             "level": 100,
             "name": "雪色みゆ",
+            "name_history": [
+                "雪色みゆ"
+            ],
             "registered": "Oct 30, 2022, 1:36:59 AM",
             "role_id": 68728066760260,
             "server_region": "southeast_asia"
@@ -2327,7 +2330,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 2500059.25,
-            "last_seen": 1762079693,
+            "last_seen": 1762258628,
             "level": 100,
             "name": "Jotoz",
             "name_history": [
@@ -6330,8 +6333,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2116321.0,
-            "last_seen": 1762169578,
+            "hp": 2274436.0,
+            "last_seen": 1762258628,
             "level": 100,
             "name": "ThunderNight",
             "name_history": [
@@ -6421,11 +6424,17 @@
             "server_region": "southeast_asia"
         },
         "68758131526798": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 0,
-            "last_seen": 1759055829,
+            "crew_id": 206158446212,
+            "crew_name": "CASTLE",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2436866.75,
+            "last_seen": 1762258628,
+            "level": 100,
             "name": "HeLic",
+            "name_history": [
+                "HeLic"
+            ],
             "registered": "Aug 17, 2022, 6:52:44 AM",
             "role_id": 68758131526798,
             "server_region": "southeast_asia"
@@ -19574,10 +19583,13 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_2_0_27",
             "gender": 1,
-            "hp": 2221015.5,
-            "last_seen": 1761512534,
+            "hp": 2012976.25,
+            "last_seen": 1762258628,
             "level": 100,
             "name": "Meowbie15",
+            "name_history": [
+                "Meowbie15"
+            ],
             "registered": "Aug 12, 2022, 2:48:18 AM",
             "role_id": 68788196251982,
             "server_region": "southeast_asia"
@@ -20572,8 +20584,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2761993.75,
-            "last_seen": 1762121010,
+            "hp": 2781193.75,
+            "last_seen": 1762258628,
             "level": 100,
             "name": "Chef★RollsRoyce",
             "name_history": [
@@ -22381,6 +22393,6 @@
     },
     "accounts_total": 1801,
     "created": 1753795148,
-    "last_updated": 1762258568,
+    "last_updated": 1762258628,
     "server_region": "southeast_asia"
 }
