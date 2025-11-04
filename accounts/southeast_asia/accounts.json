@@ -7231,10 +7231,13 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 1694722.625,
-            "last_seen": 1761393714,
+            "hp": 1716295.625,
+            "last_seen": 1762259530,
             "level": 100,
             "name": "ahn-jiwon",
+            "name_history": [
+                "ahn-jiwon"
+            ],
             "registered": "Aug 11, 2022, 9:14:38 AM",
             "role_id": 68762426420156,
             "server_region": "southeast_asia"
@@ -21675,6 +21678,22 @@
             "role_id": 68805376124086,
             "server_region": "southeast_asia"
         },
+        "68805376126024": {
+            "crew_id": 3414499016329,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_4_8_6",
+            "gender": 1,
+            "hp": 2025172.125,
+            "last_seen": 1762259530,
+            "level": 100,
+            "name": "ななこ",
+            "name_history": [
+                "ななこ"
+            ],
+            "registered": "Aug 13, 2022, 9:24:54 AM",
+            "role_id": 68805376126024,
+            "server_region": "southeast_asia"
+        },
         "68805376126603": {
             "crew_id": 0,
             "crew_name": "",
@@ -22472,8 +22491,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1804,
+    "accounts_total": 1805,
     "created": 1753795148,
-    "last_updated": 1762259470,
+    "last_updated": 1762259530,
     "server_region": "southeast_asia"
 }
