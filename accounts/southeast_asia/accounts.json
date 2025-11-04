@@ -797,8 +797,8 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "Chykina的启迪人,1",
             "gender": 1,
-            "hp": 2481862.0,
-            "last_seen": 1762014876,
+            "hp": 2406364.5,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Λrubedo",
             "name_history": [
@@ -5484,8 +5484,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1586167.375,
-            "last_seen": 1762021977,
+            "hp": 1655431.375,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Chef Uika",
             "name_history": [
@@ -6532,10 +6532,13 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1835408.25,
-            "last_seen": 1761485935,
+            "hp": 2254542.25,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Chikina",
+            "name_history": [
+                "Chikina"
+            ],
             "registered": "Aug 16, 2022, 11:51:41 AM",
             "role_id": 68758131521470,
             "server_region": "southeast_asia"
@@ -9180,8 +9183,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2327224.0,
-            "last_seen": 1762087153,
+            "hp": 2085142.0,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "ʍisty",
             "name_history": [
@@ -9194,9 +9197,15 @@
         "68771016452069": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
+            "equipping_title": "Tencent_Sever_122",
             "gender": 0,
-            "last_seen": 1756571367,
+            "hp": 2038356.25,
+            "last_seen": 1762272592,
+            "level": 100,
             "name": "Fuyuki",
+            "name_history": [
+                "Fuyuki"
+            ],
             "registered": "Aug 30, 2022, 7:32:56 AM",
             "role_id": 68771016452069,
             "server_region": "southeast_asia"
@@ -9556,8 +9565,8 @@
             "crew_name": "Guardians",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2176014.5,
-            "last_seen": 1762257727,
+            "hp": 2182501.0,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Uchinyan",
             "name_history": [
@@ -10595,8 +10604,8 @@
             "crew_name": "•RASCAL•",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 1824830.0,
-            "last_seen": 1762169578,
+            "hp": 2396614.75,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "A K I N A",
             "name_history": [
@@ -11037,12 +11046,15 @@
         "68775311663114": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "Chef Taxsa's Apprentice,0",
+            "equipping_title": "Chef Taxsa的学徒,0",
             "gender": 0,
-            "hp": 1968726.0,
-            "last_seen": 1761588234,
+            "hp": 2016883.75,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Chef →pënaジ",
+            "name_history": [
+                "Chef →pënaジ"
+            ],
             "registered": "Apr 27, 2024, 3:01:58 PM",
             "role_id": 68775311663114,
             "server_region": "southeast_asia"
@@ -11697,7 +11709,7 @@
             "equipping_title": "Capt.Hyperion的学徒,0",
             "gender": 1,
             "hp": 1224535.0,
-            "last_seen": 1762257065,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Lt.Silvia",
             "name_history": [
@@ -18440,10 +18452,10 @@
         "68779606285586": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 3137339.75,
-            "last_seen": 1762077806,
+            "hp": 2470688.0,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "× Yue ×",
             "name_history": [
@@ -19627,8 +19639,8 @@
             "crew_name": "INDONESIA ",
             "equipping_title": "Lt.Silvia的导师,0",
             "gender": 0,
-            "hp": 1399876.25,
-            "last_seen": 1762255923,
+            "hp": 1532044.625,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Capt.Hyperion",
             "name_history": [
@@ -20724,8 +20736,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2236671.0,
-            "last_seen": 1762014756,
+            "hp": 2214874.5,
+            "last_seen": 1762272592,
             "level": 100,
             "name": "Chef Sakiko",
             "name_history": [
@@ -22711,6 +22723,6 @@
     },
     "accounts_total": 1816,
     "created": 1753795148,
-    "last_updated": 1762272532,
+    "last_updated": 1762272592,
     "server_region": "southeast_asia"
 }
