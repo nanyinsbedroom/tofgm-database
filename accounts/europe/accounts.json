@@ -486,10 +486,13 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2567909.0,
-            "last_seen": 1761670649,
+            "hp": 2571960.5,
+            "last_seen": 1762276979,
             "level": 100,
             "name": "Persius",
+            "name_history": [
+                "Persius"
+            ],
             "registered": "Aug 11, 2022, 9:22:53 AM",
             "role_id": 55843164809402,
             "server_region": "europe"
@@ -1869,6 +1872,22 @@
             "name": ".JOC.",
             "registered": "Aug 11, 2022, 1:36:50 AM",
             "role_id": 55860344653060,
+            "server_region": "europe"
+        },
+        "55860344653457": {
+            "crew_id": 781684060899,
+            "crew_name": "Heavens Souls",
+            "equipping_title": " Red Panda的启迪人,1",
+            "gender": 0,
+            "hp": 2459636.75,
+            "last_seen": 1762276979,
+            "level": 100,
+            "name": "Koji ツ",
+            "name_history": [
+                "Koji ツ"
+            ],
+            "registered": "Aug 11, 2022, 1:38:00 AM",
+            "role_id": 55860344653457,
             "server_region": "europe"
         },
         "55860344657751": {
@@ -10320,8 +10339,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 836,
+    "accounts_total": 837,
     "created": "1753816624",
-    "last_updated": 1762276919,
+    "last_updated": 1762276979,
     "server_region": "europe"
 }
