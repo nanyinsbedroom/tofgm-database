@@ -16898,12 +16898,15 @@
         "63582695863167": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 708258.4375,
-            "last_seen": 1761912956,
-            "level": 67,
+            "hp": 729608.75,
+            "last_seen": 1762270260,
+            "level": 69,
             "name": "Aizyra",
+            "name_history": [
+                "Aizyra"
+            ],
             "registered": "2025年9月25日 下午10:45:42",
             "role_id": 63582695863167,
             "server_region": "cosmic_fold"
@@ -16923,10 +16926,13 @@
             "crew_name": "破晓",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 696740.0625,
-            "last_seen": 1761915301,
-            "level": 67,
+            "hp": 721236.375,
+            "last_seen": 1762270260,
+            "level": 69,
             "name": "gateoo",
+            "name_history": [
+                "gateoo"
+            ],
             "registered": "2025年9月25日 下午10:46:37",
             "role_id": 63582695863186,
             "server_region": "cosmic_fold"
@@ -36270,6 +36276,22 @@
             "role_id": 63582695930055,
             "server_region": "cosmic_fold"
         },
+        "63582695930078": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105481.0,
+            "last_seen": 1762270260,
+            "level": 44,
+            "name": "不眠丷",
+            "name_history": [
+                "不眠丷"
+            ],
+            "registered": "2025年10月16日 上午8:32:07",
+            "role_id": 63582695930078,
+            "server_region": "cosmic_fold"
+        },
         "63582695930135": {
             "crew_id": 0,
             "crew_name": "",
@@ -37483,8 +37505,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3312,
+    "accounts_total": 3313,
     "created": 1758803451,
-    "last_updated": 1762269298,
+    "last_updated": 1762270260,
     "server_region": "cosmic_fold"
 }
