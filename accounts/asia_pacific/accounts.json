@@ -14499,9 +14499,15 @@
         "47343427933565": {
             "crew_id": 953482750728,
             "crew_name": "ステラ・メモリア",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760169307,
+            "hp": 1202220.375,
+            "last_seen": 1762249983,
+            "level": 99,
             "name": "Secretありすはぁと★",
+            "name_history": [
+                "Secretありすはぁと★"
+            ],
             "registered": "Sep 18, 2025, 9:43:51 PM",
             "role_id": 47343427933565,
             "server_region": "asia_pacific"
@@ -17879,6 +17885,22 @@
             ],
             "registered": "Nov 2, 2025, 9:53:17 PM",
             "role_id": 47343427949341,
+            "server_region": "asia_pacific"
+        },
+        "47343427949660": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 179606.28125,
+            "last_seen": 1762249983,
+            "level": 35,
+            "name": "Thyme",
+            "name_history": [
+                "Thyme"
+            ],
+            "registered": "Nov 4, 2025, 7:18:36 AM",
+            "role_id": 47343427949660,
             "server_region": "asia_pacific"
         },
         "47343427949746": {
@@ -22094,8 +22116,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1804,
+    "accounts_total": 1805,
     "created": 1754829154,
-    "last_updated": 1762249923,
+    "last_updated": 1762249983,
     "server_region": "asia_pacific"
 }
