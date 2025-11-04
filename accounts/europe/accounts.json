@@ -3750,8 +3750,8 @@
             "crew_name": "New Hope",
             "equipping_title": "2_12_1_1",
             "gender": 1,
-            "hp": 2739060.0,
-            "last_seen": 1762112023,
+            "hp": 2785021.75,
+            "last_seen": 1762276859,
             "level": 100,
             "name": "Livonya",
             "name_history": [
@@ -5418,10 +5418,10 @@
         "55937654089069": {
             "crew_id": 459561513696,
             "crew_name": "PantlyPirates",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2676270.0,
-            "last_seen": 1762112264,
+            "hp": 2486019.0,
+            "last_seen": 1762276859,
             "level": 100,
             "name": "Darkinis",
             "name_history": [
@@ -5434,9 +5434,15 @@
         "55937654097590": {
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
+            "equipping_title": "2_2_0_5",
             "gender": 0,
-            "last_seen": 1757943491,
+            "hp": 2767042.0,
+            "last_seen": 1762276859,
+            "level": 100,
             "name": "Adoria",
+            "name_history": [
+                "Adoria"
+            ],
             "registered": "Aug 12, 2022, 12:49:13 PM",
             "role_id": 55937654097590,
             "server_region": "europe"
@@ -10313,6 +10319,6 @@
     },
     "accounts_total": 836,
     "created": "1753816624",
-    "last_updated": 1762113948,
+    "last_updated": 1762276859,
     "server_region": "europe"
 }
