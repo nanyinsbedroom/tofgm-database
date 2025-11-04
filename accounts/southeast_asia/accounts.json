@@ -106,10 +106,13 @@
             "crew_name": "Phantasia ",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2259463.0,
-            "last_seen": 1761821726,
+            "hp": 2341102.5,
+            "last_seen": 1762257667,
             "level": 100,
             "name": "Masfugo",
+            "name_history": [
+                "Masfugo"
+            ],
             "registered": "Aug 11, 2022, 8:07:54 AM",
             "role_id": 68723771708030,
             "server_region": "southeast_asia"
@@ -6856,11 +6859,17 @@
             "server_region": "southeast_asia"
         },
         "68758131632165": {
-            "crew_id": 3719441694345,
-            "crew_name": "REBIRTH",
+            "crew_id": 3723736661641,
+            "crew_name": "Aspen",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758544099,
-            "name": "Fυყυƙι",
+            "hp": 1966251.0,
+            "last_seen": 1762257667,
+            "level": 100,
+            "name": "Kairi",
+            "name_history": [
+                "Kairi"
+            ],
             "registered": "Feb 23, 2023, 6:17:40 AM",
             "role_id": 68758131632165,
             "server_region": "southeast_asia"
@@ -22318,6 +22327,6 @@
     },
     "accounts_total": 1801,
     "created": 1753795148,
-    "last_updated": 1762257607,
+    "last_updated": 1762257667,
     "server_region": "southeast_asia"
 }
