@@ -1257,10 +1257,13 @@
             "crew_name": "破晓",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 683161.0,
-            "last_seen": 1761912956,
-            "level": 67,
+            "hp": 707016.6875,
+            "last_seen": 1762270320,
+            "level": 69,
             "name": "Sussy",
+            "name_history": [
+                "Sussy"
+            ],
             "registered": "2025年9月25日 下午6:07:37",
             "role_id": 63582695850575,
             "server_region": "cosmic_fold"
@@ -2788,10 +2791,13 @@
             "crew_name": "破晓",
             "equipping_title": "Sussy的导师,0",
             "gender": 1,
-            "hp": 662840.125,
-            "last_seen": 1761912956,
-            "level": 67,
+            "hp": 707341.8125,
+            "last_seen": 1762270320,
+            "level": 69,
             "name": "TheNomOrb",
+            "name_history": [
+                "TheNomOrb"
+            ],
             "registered": "2025年9月25日 下午6:17:53",
             "role_id": 63582695851572,
             "server_region": "cosmic_fold"
@@ -37465,6 +37471,22 @@
             "role_id": 63582695946243,
             "server_region": "cosmic_fold"
         },
+        "63582695946412": {
+            "crew_id": 2117418891732,
+            "crew_name": "刀剑神域",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 448857.625,
+            "last_seen": 1762270320,
+            "level": 67,
+            "name": "蓝焰",
+            "name_history": [
+                "蓝焰"
+            ],
+            "registered": "2025年10月29日 上午11:48:06",
+            "role_id": 63582695946412,
+            "server_region": "cosmic_fold"
+        },
         "63582695946423": {
             "crew_id": 0,
             "crew_name": "",
@@ -37505,8 +37527,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3313,
+    "accounts_total": 3314,
     "created": 1758803451,
-    "last_updated": 1762270260,
+    "last_updated": 1762270320,
     "server_region": "cosmic_fold"
 }
