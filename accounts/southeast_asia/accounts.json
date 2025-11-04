@@ -1507,8 +1507,8 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "1_1_29_1",
             "gender": 1,
-            "hp": 2734305.0,
-            "last_seen": 1762272148,
+            "hp": 2780165.75,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "雪色みゆ",
             "name_history": [
@@ -2067,8 +2067,8 @@
             "crew_name": "ExilesMY",
             "equipping_title": "Chino的后继者,1",
             "gender": 0,
-            "hp": 2445571.75,
-            "last_seen": 1762192675,
+            "hp": 2383216.5,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -2406,7 +2406,7 @@
             "equipping_title": "2_2_0_21",
             "gender": 1,
             "hp": 2391463.75,
-            "last_seen": 1762272088,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Inorinae",
             "name_history": [
@@ -3187,7 +3187,7 @@
             "equipping_title": "2_5_0_6",
             "gender": 1,
             "hp": 1973170.25,
-            "last_seen": 1762013854,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Chef RinSaMa",
             "name_history": [
@@ -3830,12 +3830,15 @@
         "68740951579410": {
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
-            "equipping_title": "Qenobu's Enlightener,1",
+            "equipping_title": "Qenobu的启迪人,1",
             "gender": 1,
-            "hp": 2615690.25,
-            "last_seen": 1760545248,
+            "hp": 2577077.0,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Sheilala",
+            "name_history": [
+                "Sheilala"
+            ],
             "registered": "Aug 11, 2022, 9:23:02 AM",
             "role_id": 68740951579410,
             "server_region": "southeast_asia"
@@ -5967,7 +5970,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1945435.125,
-            "last_seen": 1762175168,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Yuzukiii",
             "name_history": [
@@ -9357,8 +9360,8 @@
             "crew_name": "Guardian",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2503998.25,
-            "last_seen": 1762175168,
+            "hp": 1377782.75,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Rim",
             "name_history": [
@@ -20371,7 +20374,7 @@
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
             "hp": 2077568.25,
-            "last_seen": 1762087514,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Saunts",
             "name_history": [
@@ -20419,7 +20422,7 @@
             "equipping_title": "Sheilala的后继者,1",
             "gender": 1,
             "hp": 2393018.75,
-            "last_seen": 1762254300,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Qenobu",
             "name_history": [
@@ -20601,7 +20604,7 @@
             "equipping_title": "ZerozXZenith的后继者,1",
             "gender": 1,
             "hp": 2357946.75,
-            "last_seen": 1762192675,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "xrosa",
             "name_history": [
@@ -21312,9 +21315,12 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 1914136.625,
-            "last_seen": 1761496868,
+            "last_seen": 1762275058,
             "level": 100,
             "name": "Terry​",
+            "name_history": [
+                "Terry​"
+            ],
             "registered": "Aug 11, 2022, 5:39:53 PM",
             "role_id": 68801081120417,
             "server_region": "southeast_asia"
@@ -22782,6 +22788,6 @@
     },
     "accounts_total": 1818,
     "created": 1753795148,
-    "last_updated": 1762273554,
+    "last_updated": 1762275058,
     "server_region": "southeast_asia"
 }
