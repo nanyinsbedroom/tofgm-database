@@ -2699,10 +2699,13 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 1856272.5,
-            "last_seen": 1761844272,
+            "hp": 546991.8125,
+            "last_seen": 1762258989,
             "level": 100,
             "name": "Castella.",
+            "name_history": [
+                "Castella."
+            ],
             "registered": "Aug 11, 2022, 9:18:20 AM",
             "role_id": 68736656618055,
             "server_region": "southeast_asia"
@@ -3924,6 +3927,22 @@
             "name": "Yggdrasil#i",
             "registered": "Aug 11, 2022, 2:40:41 PM",
             "role_id": 68740951591264,
+            "server_region": "southeast_asia"
+        },
+        "68740951593264": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 1323463.25,
+            "last_seen": 1762258989,
+            "level": 100,
+            "name": "Tomorin",
+            "name_history": [
+                "Tomorin"
+            ],
+            "registered": "Aug 11, 2022, 4:00:06 PM",
+            "role_id": 68740951593264,
             "server_region": "southeast_asia"
         },
         "68740951595448": {
@@ -14122,11 +14141,17 @@
             "server_region": "southeast_asia"
         },
         "68775311748586": {
-            "crew_id": 3719441694345,
-            "crew_name": "REBIRTH",
+            "crew_id": 133144002183,
+            "crew_name": "INDONESIA ",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1756734404,
+            "hp": 1159766.375,
+            "last_seen": 1762258989,
+            "level": 100,
             "name": "Nikki-Chan",
+            "name_history": [
+                "Nikki-Chan"
+            ],
             "registered": "Aug 21, 2025, 9:54:26 PM",
             "role_id": 68775311748586,
             "server_region": "southeast_asia"
@@ -21515,6 +21540,22 @@
             "role_id": 68805376091695,
             "server_region": "southeast_asia"
         },
+        "68805376092280": {
+            "crew_id": 133144002183,
+            "crew_name": "INDONESIA ",
+            "equipping_title": "Title_KoreaAnniversary23",
+            "gender": 1,
+            "hp": 677190.5,
+            "last_seen": 1762258989,
+            "level": 100,
+            "name": "WakitoZX",
+            "name_history": [
+                "WakitoZX"
+            ],
+            "registered": "Aug 11, 2022, 7:28:19 PM",
+            "role_id": 68805376092280,
+            "server_region": "southeast_asia"
+        },
         "68805376093996": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
@@ -22416,8 +22457,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1802,
+    "accounts_total": 1804,
     "created": 1753795148,
-    "last_updated": 1762258929,
+    "last_updated": 1762258989,
     "server_region": "southeast_asia"
 }
