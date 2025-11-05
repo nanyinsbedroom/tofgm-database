@@ -375,13 +375,16 @@
             "crew_name": "★★彩色小屋★★",
             "equipping_title": "2_12_1_1",
             "gender": 1,
-            "hp": 2769990.75,
-            "last_seen": 1761821245,
+            "hp": 2767904.75,
+            "last_seen": 1762346747,
             "level": 100,
             "name": "天娜",
+            "name_history": [
+                "天娜"
+            ],
             "registered": "Sep 3, 2023, 5:12:35 PM",
             "role_id": 8607118756198553,
-            "server_region": "southeast_asia"
+            "server_region": "ps_southeast_asia"
         },
         "8607118756198752": {
             "crew_id": 807455855649,
@@ -883,10 +886,26 @@
             "registered": "Nov 5, 2025, 4:34:38 PM",
             "role_id": 8607118756295128,
             "server_region": "ps_southeast_asia"
+        },
+        "8607118756295143": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": 1762346747,
+            "level": 2,
+            "name": "Citlail",
+            "name_history": [
+                "Citlail"
+            ],
+            "registered": "Nov 5, 2025, 8:41:29 PM",
+            "role_id": 8607118756295143,
+            "server_region": "ps_southeast_asia"
         }
     },
-    "accounts_total": 68,
+    "accounts_total": 69,
     "created": 1761832690,
-    "last_updated": 1762346687,
+    "last_updated": 1762346747,
     "server_region": "ps_southeast_asia"
 }
