@@ -6031,9 +6031,15 @@
         "68758131442241": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1755526826,
+            "hp": 1745481.875,
+            "last_seen": 1762333338,
+            "level": 100,
             "name": "Kenza",
+            "name_history": [
+                "Kenza"
+            ],
             "registered": "Aug 11, 2022, 7:36:38 AM",
             "role_id": 68758131442241,
             "server_region": "southeast_asia"
@@ -8278,8 +8284,8 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_5_0_6",
             "gender": 0,
-            "hp": 2716310.25,
-            "last_seen": 1762257727,
+            "hp": 2584787.75,
+            "last_seen": 1762333338,
             "level": 100,
             "name": "Parchment",
             "name_history": [
@@ -22191,8 +22197,8 @@
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2508901.5,
-            "last_seen": 1761991511,
+            "hp": 2481148.75,
+            "last_seen": 1762333338,
             "level": 100,
             "name": "Snotra",
             "name_history": [
@@ -22939,6 +22945,6 @@
     },
     "accounts_total": 1825,
     "created": 1753795148,
-    "last_updated": 1762333037,
+    "last_updated": 1762333338,
     "server_region": "southeast_asia"
 }
