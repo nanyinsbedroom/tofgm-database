@@ -2423,8 +2423,8 @@
             "crew_name": "Schwarz Studio",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2391463.75,
-            "last_seen": 1762275058,
+            "hp": 2401732.25,
+            "last_seen": 1762359830,
             "level": 100,
             "name": "Inorinae",
             "name_history": [
@@ -3032,8 +3032,8 @@
             "crew_name": "Waifu",
             "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 2485695.5,
-            "last_seen": 1762258388,
+            "hp": 2495855.75,
+            "last_seen": 1762359830,
             "level": 100,
             "name": "Kyoko",
             "name_history": [
@@ -3328,9 +3328,15 @@
         "68736656723972": {
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759765703,
+            "hp": 2324648.75,
+            "last_seen": 1762359830,
+            "level": 100,
             "name": "Z E N T A",
+            "name_history": [
+                "Z E N T A"
+            ],
             "registered": "Aug 28, 2022, 2:37:41 PM",
             "role_id": 68736656723972,
             "server_region": "southeast_asia"
@@ -11600,10 +11606,13 @@
             "crew_name": "Moonheart",
             "equipping_title": "Firmly的学徒,0",
             "gender": 0,
-            "hp": 2437826.75,
-            "last_seen": 1761933061,
+            "hp": 2004594.5,
+            "last_seen": 1762359830,
             "level": 100,
             "name": "Blue Yunkai",
+            "name_history": [
+                "Blue Yunkai"
+            ],
             "registered": "Nov 1, 2024, 8:27:52 PM",
             "role_id": 68775311705951,
             "server_region": "southeast_asia"
@@ -23086,6 +23095,6 @@
     },
     "accounts_total": 1831,
     "created": 1753795148,
-    "last_updated": 1762359649,
+    "last_updated": 1762359830,
     "server_region": "southeast_asia"
 }
