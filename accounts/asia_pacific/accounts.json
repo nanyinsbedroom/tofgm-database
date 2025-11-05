@@ -7022,9 +7022,15 @@
         "47309064776113": {
             "crew_id": 8589945607,
             "crew_name": "midnightsky",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "last_seen": 1759590027,
+            "hp": 2438526.5,
+            "last_seen": 1762342233,
+            "level": 100,
             "name": "スイ．",
+            "name_history": [
+                "スイ．"
+            ],
             "registered": "Aug 11, 2022, 11:42:44 AM",
             "role_id": 47309064776113,
             "server_region": "asia_pacific"
@@ -16669,6 +16675,22 @@
             "role_id": 47343427942379,
             "server_region": "asia_pacific"
         },
+        "47343427942436": {
+            "crew_id": 47244651259,
+            "crew_name": "もみじ組",
+            "equipping_title": "HuntingRank_4;imitation_62;118",
+            "gender": 1,
+            "hp": 989607.6875,
+            "last_seen": 1762342233,
+            "level": 82,
+            "name": "GabrielleDefoe",
+            "name_history": [
+                "GabrielleDefoe"
+            ],
+            "registered": "Oct 12, 2025, 6:23:37 AM",
+            "role_id": 47343427942436,
+            "server_region": "asia_pacific"
+        },
         "47343427942634": {
             "crew_id": 4552665344762,
             "crew_name": "エリシオン",
@@ -23060,8 +23082,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1855,
+    "accounts_total": 1856,
     "created": "1754829154",
-    "last_updated": 1762342172,
+    "last_updated": 1762342233,
     "server_region": "asia_pacific"
 }
