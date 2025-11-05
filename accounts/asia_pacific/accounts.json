@@ -21,10 +21,13 @@
             "crew_name": "幻塔ファミリア",
             "equipping_title": "1_10_0_3",
             "gender": 1,
-            "hp": 2465120.5,
-            "last_seen": 1761838535,
+            "hp": 2667973.5,
+            "last_seen": 1762344697,
             "level": 100,
             "name": "Vega",
+            "name_history": [
+                "Vega"
+            ],
             "registered": "Aug 11, 2022, 9:01:40 AM",
             "role_id": 47248935233034,
             "server_region": "asia_pacific"
@@ -1064,10 +1067,13 @@
             "crew_name": "",
             "equipping_title": "Tencent_Sever_2",
             "gender": 1,
-            "hp": 1406752.25,
-            "last_seen": 1760356156,
+            "hp": 1435135.875,
+            "last_seen": 1762344697,
             "level": 100,
             "name": "Ιris",
+            "name_history": [
+                "Ιris"
+            ],
             "registered": "Sep 28, 2022, 6:51:55 AM",
             "role_id": 47253230331892,
             "server_region": "asia_pacific"
@@ -2112,10 +2118,13 @@
             "crew_name": "Flower",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2635550.5,
-            "last_seen": 1761483368,
+            "hp": 2608113.75,
+            "last_seen": 1762344697,
             "level": 100,
             "name": "xxamuroxx",
+            "name_history": [
+                "xxamuroxx"
+            ],
             "registered": "Aug 11, 2022, 6:12:47 PM",
             "role_id": 47261820153213,
             "server_region": "asia_pacific"
@@ -12773,7 +12782,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1528348.5,
-            "last_seen": 1762341093,
+            "last_seen": 1762344697,
             "level": 100,
             "name": "Airibaby",
             "name_history": [
@@ -21875,6 +21884,22 @@
             "role_id": 47390669155719,
             "server_region": "asia_pacific"
         },
+        "47390669171384": {
+            "crew_id": 18846316505871,
+            "crew_name": "心地よく秘密めいたところ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2241167.0,
+            "last_seen": 1762344697,
+            "level": 100,
+            "name": "§ナキナ§",
+            "name_history": [
+                "§ナキナ§"
+            ],
+            "registered": "Oct 22, 2022, 5:39:00 PM",
+            "role_id": 47390669171384,
+            "server_region": "asia_pacific"
+        },
         "47390669181166": {
             "crew_id": 0,
             "crew_name": "",
@@ -23756,8 +23781,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1891,
+    "accounts_total": 1892,
     "created": "1754829154",
-    "last_updated": 1762344637,
+    "last_updated": 1762344697,
     "server_region": "asia_pacific"
 }
