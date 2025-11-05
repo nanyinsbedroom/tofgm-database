@@ -2008,10 +2008,13 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2421710.25,
-            "last_seen": 1761663950,
+            "hp": 2417658.25,
+            "last_seen": 1762333037,
             "level": 100,
             "name": "【IMU】一イム",
+            "name_history": [
+                "【IMU】一イム"
+            ],
             "registered": "Aug 11, 2022, 3:24:58 PM",
             "role_id": 68732361660994,
             "server_region": "southeast_asia"
@@ -17441,12 +17444,15 @@
         "68775311755552": {
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
-            "equipping_title": "None",
+            "equipping_title": "1_3_1_5",
             "gender": 0,
-            "hp": 506447.75,
-            "last_seen": 1761232013,
-            "level": 49,
+            "hp": 989031.375,
+            "last_seen": 1762333037,
+            "level": 81,
             "name": "SonicTH×√",
+            "name_history": [
+                "SonicTH×√"
+            ],
             "registered": "Oct 21, 2025, 11:40:42 AM",
             "role_id": 68775311755552,
             "server_region": "southeast_asia"
@@ -18360,6 +18366,22 @@
             ],
             "registered": "Nov 4, 2025, 6:27:01 PM",
             "role_id": 68775311756662,
+            "server_region": "southeast_asia"
+        },
+        "68775311756679": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 14673.572265625,
+            "last_seen": 1762333037,
+            "level": 16,
+            "name": "HanaJang",
+            "name_history": [
+                "HanaJang"
+            ],
+            "registered": "Nov 4, 2025, 9:42:20 PM",
+            "role_id": 68775311756679,
             "server_region": "southeast_asia"
         },
         "68775311756685": {
@@ -22915,8 +22937,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1824,
+    "accounts_total": 1825,
     "created": 1753795148,
-    "last_updated": 1762332797,
+    "last_updated": 1762333037,
     "server_region": "southeast_asia"
 }
