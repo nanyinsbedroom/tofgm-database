@@ -1394,9 +1394,15 @@
         "47257525179163": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1760273559,
+            "hp": 2145949.5,
+            "last_seen": 1762341273,
+            "level": 100,
             "name": "のへの",
+            "name_history": [
+                "のへの"
+            ],
             "registered": "Aug 11, 2022, 1:41:37 PM",
             "role_id": 47257525179163,
             "server_region": "asia_pacific"
@@ -4551,8 +4557,8 @@
             "crew_name": "無言王国",
             "equipping_title": "Tencent_Sever_10",
             "gender": 0,
-            "hp": 2137903.25,
-            "last_seen": 1762173545,
+            "hp": 2139103.25,
+            "last_seen": 1762341273,
             "level": 100,
             "name": "再昊",
             "name_history": [
@@ -19738,7 +19744,7 @@
             "equipping_title": "1_1_30_1",
             "gender": 0,
             "hp": 3028410.75,
-            "last_seen": 1762174086,
+            "last_seen": 1762341273,
             "level": 100,
             "name": "エヴァ1995",
             "name_history": [
@@ -22815,6 +22821,6 @@
     },
     "accounts_total": 1842,
     "created": "1754829154",
-    "last_updated": 1762341153,
+    "last_updated": 1762341273,
     "server_region": "asia_pacific"
 }
