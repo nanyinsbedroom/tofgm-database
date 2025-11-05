@@ -11734,9 +11734,12 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 17499.078125,
-            "last_seen": 1761740043,
+            "last_seen": 1762342593,
             "level": 66,
             "name": "ULALA",
+            "name_history": [
+                "ULALA"
+            ],
             "registered": "Mar 26, 2024, 1:28:25 AM",
             "role_id": 47343427265037,
             "server_region": "asia_pacific"
@@ -21825,6 +21828,22 @@
             "role_id": 47433618852982,
             "server_region": "asia_pacific"
         },
+        "47433618857897": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 617522.625,
+            "last_seen": 1762342593,
+            "level": 71,
+            "name": "vlisa",
+            "name_history": [
+                "vlisa"
+            ],
+            "registered": "Apr 19, 2025, 12:44:26 PM",
+            "role_id": 47433618857897,
+            "server_region": "asia_pacific"
+        },
         "47433618858562": {
             "crew_id": 25769814820,
             "crew_name": "幻塔の白騎士",
@@ -23194,8 +23213,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1863,
+    "accounts_total": 1864,
     "created": "1754829154",
-    "last_updated": 1762342533,
+    "last_updated": 1762342593,
     "server_region": "asia_pacific"
 }
