@@ -6971,9 +6971,15 @@
         "47309064835981": {
             "crew_id": 103079226119,
             "crew_name": "TowerOfFantasy",
+            "equipping_title": "Aile strike 的导师,0",
             "gender": 1,
-            "last_seen": 1760024310,
+            "hp": 2472709.75,
+            "last_seen": 1762319253,
+            "level": 100,
             "name": "TomSlayer",
+            "name_history": [
+                "TomSlayer"
+            ],
             "registered": "Aug 14, 2022, 5:54:46 AM",
             "role_id": 47309064835981,
             "server_region": "asia_pacific"
@@ -8251,10 +8257,10 @@
         "47326244677461": {
             "crew_id": 2770253916939,
             "crew_name": "アステリア",
-            "equipping_title": "Tencent_Sever_19",
+            "equipping_title": "HuntingRank_3;imitation_74;41",
             "gender": 0,
-            "hp": 2653328.75,
-            "last_seen": 1762251006,
+            "hp": 2653328.5,
+            "last_seen": 1762319253,
             "level": 100,
             "name": "風波　",
             "name_history": [
@@ -9624,6 +9630,22 @@
             "name": "nastur",
             "registered": "Aug 12, 2022, 8:04:58 PM",
             "role_id": 47343424561878,
+            "server_region": "asia_pacific"
+        },
+        "47343424563096": {
+            "crew_id": 7340099119872,
+            "crew_name": "低スペックチーム",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2216534.75,
+            "last_seen": 1762319253,
+            "level": 100,
+            "name": "magwd",
+            "name_history": [
+                "magwd"
+            ],
+            "registered": "Aug 12, 2022, 8:54:39 PM",
+            "role_id": 47343424563096,
             "server_region": "asia_pacific"
         },
         "47343424566698": {
@@ -22386,8 +22408,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1820,
+    "accounts_total": 1821,
     "created": 1754829154,
-    "last_updated": 1762319193,
+    "last_updated": 1762319253,
     "server_region": "asia_pacific"
 }
