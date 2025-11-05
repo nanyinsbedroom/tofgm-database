@@ -11397,7 +11397,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 2621135.0,
-            "last_seen": 1762341754,
+            "last_seen": 1762341992,
             "level": 100,
             "name": "ミリア",
             "name_history": [
@@ -14586,9 +14586,15 @@
         "47343427929212": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "last_seen": 1759402503,
+            "hp": 1002906.3125,
+            "last_seen": 1762341992,
+            "level": 91,
             "name": "AIRBAG",
+            "name_history": [
+                "AIRBAG"
+            ],
             "registered": "Aug 27, 2025, 2:27:13 AM",
             "role_id": 47343427929212,
             "server_region": "asia_pacific"
@@ -17423,7 +17429,7 @@
             "equipping_title": "1_3_1_5",
             "gender": 1,
             "hp": 493346.09375,
-            "last_seen": 1762341814,
+            "last_seen": 1762341992,
             "level": 72,
             "name": "OKINATSAA",
             "name_history": [
@@ -22967,6 +22973,6 @@
     },
     "accounts_total": 1850,
     "created": "1754829154",
-    "last_updated": 1762341814,
+    "last_updated": 1762341992,
     "server_region": "asia_pacific"
 }
