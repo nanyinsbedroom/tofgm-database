@@ -6110,12 +6110,15 @@
         "47300474866215": {
             "crew_id": 3693671885573,
             "crew_name": "Async",
-            "equipping_title": "HuntingRank_1;imitation_38;1",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2701091.75,
-            "last_seen": 1761481256,
+            "hp": 2672187.25,
+            "last_seen": 1762342112,
             "level": 100,
             "name": "ハイタカ＃",
+            "name_history": [
+                "ハイタカ＃"
+            ],
             "registered": "Aug 11, 2022, 8:01:41 PM",
             "role_id": 47300474866215,
             "server_region": "asia_pacific"
@@ -18718,6 +18721,22 @@
             "role_id": 47343427949762,
             "server_region": "asia_pacific"
         },
+        "47343427949974": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2065.16796875,
+            "last_seen": 1762342112,
+            "level": 6,
+            "name": "loi_gutom",
+            "name_history": [
+                "loi_gutom"
+            ],
+            "registered": "Nov 5, 2025, 7:56:53 PM",
+            "role_id": 47343427949974,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -19498,9 +19517,15 @@
         "47360604419430": {
             "crew_id": 794568960785,
             "crew_name": "たまめいと",
+            "equipping_title": "Tencent_Sever_27",
             "gender": 0,
-            "last_seen": 1760277653,
+            "hp": 2323522.75,
+            "last_seen": 1762342112,
+            "level": 100,
             "name": "HinotoRe",
+            "name_history": [
+                "HinotoRe"
+            ],
             "registered": "Aug 14, 2022, 3:01:07 AM",
             "role_id": 47360604419430,
             "server_region": "asia_pacific"
@@ -21582,6 +21607,22 @@
             "role_id": 47433618844323,
             "server_region": "asia_pacific"
         },
+        "47433618850875": {
+            "crew_id": 8589945636,
+            "crew_name": "WONDERLAND",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 465827.75,
+            "last_seen": 1762342112,
+            "level": 99,
+            "name": "Rose-Marie",
+            "name_history": [
+                "Rose-Marie"
+            ],
+            "registered": "Apr 11, 2025, 1:14:31 AM",
+            "role_id": 47433618850875,
+            "server_region": "asia_pacific"
+        },
         "47433618850909": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
@@ -22987,8 +23028,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1851,
+    "accounts_total": 1853,
     "created": "1754829154",
-    "last_updated": 1762342052,
+    "last_updated": 1762342112,
     "server_region": "asia_pacific"
 }
