@@ -1290,9 +1290,15 @@
         "51561082491446": {
             "crew_id": 803158896357,
             "crew_name": "Solstice",
+            "equipping_title": "Ling Han Thighs的启迪人,1",
             "gender": 1,
-            "last_seen": 1758517079,
+            "hp": 2515688.75,
+            "last_seen": 1762319013,
+            "level": 100,
             "name": "Mistori",
+            "name_history": [
+                "Mistori"
+            ],
             "registered": "Aug 23, 2022, 5:47:11 PM",
             "role_id": 51561082491446,
             "server_region": "north_america"
@@ -1432,9 +1438,15 @@
         "51561082530586": {
             "crew_id": 803158896357,
             "crew_name": "Solstice",
+            "equipping_title": "Mistori的启迪人,1",
             "gender": 1,
-            "last_seen": 1758517079,
+            "hp": 2454587.5,
+            "last_seen": 1762319013,
+            "level": 100,
             "name": "NanamiUrara",
+            "name_history": [
+                "NanamiUrara"
+            ],
             "registered": "Apr 4, 2023, 6:09:35 PM",
             "role_id": 51561082530586,
             "server_region": "north_america"
@@ -6874,6 +6886,6 @@
     },
     "accounts_total": 565,
     "created": 1753804860,
-    "last_updated": 1762318953,
+    "last_updated": 1762319013,
     "server_region": "north_america"
 }
