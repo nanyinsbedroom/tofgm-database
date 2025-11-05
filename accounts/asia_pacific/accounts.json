@@ -20439,9 +20439,15 @@
         "47373489365980": {
             "crew_id": 7593502190329,
             "crew_name": "Luminescence",
+            "equipping_title": "Tencent_Sever_30",
             "gender": 1,
-            "last_seen": 1757754521,
+            "hp": 2935395.5,
+            "last_seen": 1762342714,
+            "level": 100,
             "name": "handler.one",
+            "name_history": [
+                "handler.one"
+            ],
             "registered": "Aug 19, 2022, 8:13:58 PM",
             "role_id": 47373489365980,
             "server_region": "asia_pacific"
@@ -23063,6 +23069,22 @@
             "role_id": 47433618939767,
             "server_region": "asia_pacific"
         },
+        "47433618940937": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 985809.6875,
+            "last_seen": 1762342714,
+            "level": 98,
+            "name": " choe",
+            "name_history": [
+                " choe"
+            ],
+            "registered": "Sep 11, 2025, 5:32:20 AM",
+            "role_id": 47433618940937,
+            "server_region": "asia_pacific"
+        },
         "47433618940977": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
@@ -23229,8 +23251,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1865,
+    "accounts_total": 1866,
     "created": "1754829154",
-    "last_updated": 1762342653,
+    "last_updated": 1762342714,
     "server_region": "asia_pacific"
 }
