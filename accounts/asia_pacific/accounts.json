@@ -3373,10 +3373,10 @@
         "47274705165480": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2062901.125,
-            "last_seen": 1762077385,
+            "hp": 2365030.5,
+            "last_seen": 1762342653,
             "level": 100,
             "name": "yukinago",
             "name_history": [
@@ -22281,6 +22281,22 @@
             "role_id": 47433618906215,
             "server_region": "asia_pacific"
         },
+        "47433618906315": {
+            "crew_id": 146028899108,
+            "crew_name": "ZZZ",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 1182475.625,
+            "last_seen": 1762342653,
+            "level": 100,
+            "name": "AS²-KN",
+            "name_history": [
+                "AS²-KN"
+            ],
+            "registered": "Jun 27, 2025, 10:57:07 AM",
+            "role_id": 47433618906315,
+            "server_region": "asia_pacific"
+        },
         "47433618907598": {
             "crew_id": 0,
             "crew_name": "",
@@ -23213,8 +23229,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1864,
+    "accounts_total": 1865,
     "created": "1754829154",
-    "last_updated": 1762342593,
+    "last_updated": 1762342653,
     "server_region": "asia_pacific"
 }
