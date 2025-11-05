@@ -1437,10 +1437,13 @@
             "crew_name": "女神の祝福",
             "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 1550005.625,
-            "last_seen": 1761310369,
+            "hp": 1618125.625,
+            "last_seen": 1762344878,
             "level": 100,
             "name": "なゆら",
+            "name_history": [
+                "なゆら"
+            ],
             "registered": "Aug 11, 2022, 9:07:35 PM",
             "role_id": 47257525193779,
             "server_region": "asia_pacific"
@@ -3555,6 +3558,22 @@
             ],
             "registered": "Aug 11, 2022, 8:32:25 AM",
             "role_id": 47278999994433,
+            "server_region": "asia_pacific"
+        },
+        "47278999994823": {
+            "crew_id": 90194324217,
+            "crew_name": "Saints",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1891924.0,
+            "last_seen": 1762344878,
+            "level": 100,
+            "name": "LucyKosaki",
+            "name_history": [
+                "LucyKosaki"
+            ],
+            "registered": "Aug 11, 2022, 8:34:47 AM",
+            "role_id": 47278999994823,
             "server_region": "asia_pacific"
         },
         "47278999995198": {
@@ -23784,8 +23803,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1892,
+    "accounts_total": 1893,
     "created": "1754829154",
-    "last_updated": 1762344757,
+    "last_updated": 1762344878,
     "server_region": "asia_pacific"
 }
