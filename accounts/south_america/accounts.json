@@ -225,11 +225,17 @@
             "server_region": "south_america"
         },
         "64433099464565": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 158913804954,
+            "crew_name": "Starlights",
+            "equipping_title": "1_6_1_8",
             "gender": 1,
-            "last_seen": 1759423827,
+            "hp": 2458560.0,
+            "last_seen": 1762321288,
+            "level": 100,
             "name": "Akane Shiranui",
+            "name_history": [
+                "Akane Shiranui"
+            ],
             "registered": "Aug 22, 2022, 9:24:25 AM",
             "role_id": 64433099464565,
             "server_region": "south_america"
@@ -691,6 +697,22 @@
             ],
             "registered": "Aug 10, 2022, 8:03:05 PM",
             "role_id": 64454574214160,
+            "server_region": "south_america"
+        },
+        "64454574218855": {
+            "crew_id": 103079230106,
+            "crew_name": "InterStellar",
+            "equipping_title": "1_1_27_1",
+            "gender": 0,
+            "hp": 2547431.25,
+            "last_seen": 1762321288,
+            "level": 100,
+            "name": "Aviro",
+            "name_history": [
+                "Aviro"
+            ],
+            "registered": "Aug 10, 2022, 9:01:53 PM",
+            "role_id": 64454574218855,
             "server_region": "south_america"
         },
         "64454574260562": {
@@ -2633,8 +2655,8 @@
             "server_region": "south_america"
         }
     },
-    "accounts_total": 199,
+    "accounts_total": 200,
     "created": 1757168442,
-    "last_updated": 1762321228,
+    "last_updated": 1762321288,
     "server_region": "south_america"
 }
