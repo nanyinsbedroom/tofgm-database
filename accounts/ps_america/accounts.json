@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "8594233854264345": {
+            "crew_id": 5334351382633,
+            "crew_name": "Valkyrie",
+            "equipping_title": "2_3_0_2",
+            "gender": 0,
+            "hp": 1606128.375,
+            "last_seen": 1762320294,
+            "level": 100,
+            "name": "Ryuu",
+            "name_history": [
+                "Ryuu"
+            ],
+            "registered": "Aug 5, 2023, 8:05:48 PM",
+            "role_id": 8594233854264345,
+            "server_region": "ps_america"
+        },
         "8594233854270164": {
             "crew_id": 2409478654067,
             "crew_name": "Knight of Ni",
@@ -544,6 +560,22 @@
             "role_id": 8594233854651601,
             "server_region": "ps_america"
         },
+        "8594233854651757": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 75787.4921875,
+            "last_seen": 1762320294,
+            "level": 41,
+            "name": "AmyEluz",
+            "name_history": [
+                "AmyEluz"
+            ],
+            "registered": "Oct 28, 2025, 9:06:23 PM",
+            "role_id": 8594233854651757,
+            "server_region": "ps_america"
+        },
         "8594233854651776": {
             "crew_id": 0,
             "crew_name": "",
@@ -1075,6 +1107,38 @@
             ],
             "registered": "Nov 3, 2025, 8:58:30 AM",
             "role_id": 8594233854653924,
+            "server_region": "ps_america"
+        },
+        "8594233854654498": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3174.48095703125,
+            "last_seen": 1762320294,
+            "level": 11,
+            "name": "Mow mow",
+            "name_history": [
+                "Mow mow"
+            ],
+            "registered": "Nov 4, 2025, 8:01:49 PM",
+            "role_id": 8594233854654498,
+            "server_region": "ps_america"
+        },
+        "8594233854654512": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9229.5625,
+            "last_seen": 1762320294,
+            "level": 13,
+            "name": "Zenithj",
+            "name_history": [
+                "Zenithj"
+            ],
+            "registered": "Nov 4, 2025, 8:51:29 PM",
+            "role_id": 8594233854654512,
             "server_region": "ps_america"
         },
         "8594233854654568": {
@@ -1829,8 +1893,8 @@
             "server_region": "ps_america"
         }
     },
-    "accounts_total": 121,
+    "accounts_total": 125,
     "created": 1761827794,
-    "last_updated": 1762320234,
+    "last_updated": 1762320294,
     "server_region": "ps_america"
 }
