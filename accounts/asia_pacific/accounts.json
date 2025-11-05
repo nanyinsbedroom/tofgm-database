@@ -874,9 +874,15 @@
         "47253230212141": {
             "crew_id": 519691053818,
             "crew_name": "Fate™",
+            "equipping_title": "2_2_0_30",
             "gender": 0,
-            "last_seen": 1760277413,
+            "hp": 2582316.25,
+            "last_seen": 1762341153,
+            "level": 100,
             "name": "Devanamko",
+            "name_history": [
+                "Devanamko"
+            ],
             "registered": "Aug 11, 2022, 2:22:12 PM",
             "role_id": 47253230212141,
             "server_region": "asia_pacific"
@@ -12395,6 +12401,22 @@
             "role_id": 47343427648770,
             "server_region": "asia_pacific"
         },
+        "47343427648915": {
+            "crew_id": 1357209676545,
+            "crew_name": "Hakuu Shrine",
+            "equipping_title": "Title_tencentshare_os_13",
+            "gender": 1,
+            "hp": 1281980.875,
+            "last_seen": 1762341153,
+            "level": 100,
+            "name": "SoraYukiMi0",
+            "name_history": [
+                "SoraYukiMi0"
+            ],
+            "registered": "Aug 28, 2024, 4:45:30 AM",
+            "role_id": 47343427648915,
+            "server_region": "asia_pacific"
+        },
         "47343427655295": {
             "crew_id": 1602022812427,
             "crew_name": "【新時代】",
@@ -19879,7 +19901,7 @@
             "equipping_title": "3_2022",
             "gender": 1,
             "hp": 2348938.25,
-            "last_seen": 1762173905,
+            "last_seen": 1762341153,
             "level": 100,
             "name": "Copertina#a",
             "name_history": [
@@ -22791,8 +22813,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1841,
+    "accounts_total": 1842,
     "created": "1754829154",
-    "last_updated": 1762341093,
+    "last_updated": 1762341153,
     "server_region": "asia_pacific"
 }
