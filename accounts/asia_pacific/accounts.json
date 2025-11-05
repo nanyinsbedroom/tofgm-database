@@ -1984,9 +1984,15 @@
         "47261820138076": {
             "crew_id": 5012226845436,
             "crew_name": "ももぐみ",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1757158747,
+            "hp": 2717412.25,
+            "last_seen": 1762343255,
+            "level": 100,
             "name": "Banx",
+            "name_history": [
+                "Banx"
+            ],
             "registered": "Aug 11, 2022, 10:40:02 AM",
             "role_id": 47261820138076,
             "server_region": "asia_pacific"
@@ -6843,8 +6849,8 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "1_8_0_14",
             "gender": 1,
-            "hp": 2896233.75,
-            "last_seen": 1762174386,
+            "hp": 2896235.0,
+            "last_seen": 1762343255,
             "level": 100,
             "name": "ひつぎ",
             "name_history": [
@@ -23398,6 +23404,6 @@
     },
     "accounts_total": 1873,
     "created": "1754829154",
-    "last_updated": 1762342954,
+    "last_updated": 1762343255,
     "server_region": "asia_pacific"
 }
