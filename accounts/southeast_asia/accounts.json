@@ -3240,10 +3240,13 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2425812.25,
-            "last_seen": 1761660643,
+            "hp": 2463153.5,
+            "last_seen": 1762431287,
             "level": 100,
             "name": "Leinachan",
+            "name_history": [
+                "Leinachan"
+            ],
             "registered": "Aug 15, 2022, 8:35:26 PM",
             "role_id": 68736656684586,
             "server_region": "southeast_asia"
@@ -6256,8 +6259,8 @@
             "crew_name": "Vocar Ed Regnum",
             "equipping_title": "Tencent_Sever_119",
             "gender": 0,
-            "hp": 2356556.0,
-            "last_seen": 1762358622,
+            "hp": 2443460.5,
+            "last_seen": 1762431287,
             "level": 100,
             "name": "Caltsio",
             "name_history": [
@@ -9935,7 +9938,7 @@
             "equipping_title": "2_10_1_2",
             "gender": 0,
             "hp": 2580674.25,
-            "last_seen": 1762258568,
+            "last_seen": 1762431287,
             "level": 100,
             "name": "เทพซูไก่",
             "name_history": [
@@ -20667,6 +20670,22 @@
             "role_id": 68788196299753,
             "server_region": "southeast_asia"
         },
+        "68788196299919": {
+            "crew_id": 347892366985,
+            "crew_name": "Nox Society",
+            "equipping_title": "1_6_1_2",
+            "gender": 0,
+            "hp": 2204990.0,
+            "last_seen": 1762431287,
+            "level": 100,
+            "name": "Rain。",
+            "name_history": [
+                "Rain。"
+            ],
+            "registered": "Aug 21, 2022, 9:00:25 AM",
+            "role_id": 68788196299919,
+            "server_region": "southeast_asia"
+        },
         "68788196302994": {
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
@@ -23461,8 +23480,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1845,
+    "accounts_total": 1846,
     "created": 1753795148,
-    "last_updated": 1762431227,
+    "last_updated": 1762431287,
     "server_region": "southeast_asia"
 }
