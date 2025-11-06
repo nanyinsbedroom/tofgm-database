@@ -514,9 +514,15 @@
         "68723771769887": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759752707,
+            "hp": 2861478.5,
+            "last_seen": 1762431648,
+            "level": 100,
             "name": "Hikalight",
+            "name_history": [
+                "Hikalight"
+            ],
             "registered": "Aug 13, 2022, 5:02:40 PM",
             "role_id": 68723771769887,
             "server_region": "southeast_asia"
@@ -3275,8 +3281,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2621705.25,
-            "last_seen": 1762427043,
+            "hp": 2514408.0,
+            "last_seen": 1762431648,
             "level": 100,
             "name": "FlynSSR",
             "name_history": [
@@ -11204,7 +11210,7 @@
             "equipping_title": "3_2024",
             "gender": 0,
             "hp": 2377316.5,
-            "last_seen": 1762358682,
+            "last_seen": 1762431648,
             "level": 100,
             "name": "Hansamhida",
             "name_history": [
@@ -23494,6 +23500,6 @@
     },
     "accounts_total": 1846,
     "created": 1753795148,
-    "last_updated": 1762431588,
+    "last_updated": 1762431648,
     "server_region": "southeast_asia"
 }
