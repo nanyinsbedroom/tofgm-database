@@ -130,9 +130,15 @@
         "55838869846833": {
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1757956649,
+            "hp": 2237271.25,
+            "last_seen": 1762452950,
+            "level": 100,
             "name": "Sparrowz",
+            "name_history": [
+                "Sparrowz"
+            ],
             "registered": "Aug 11, 2022, 2:49:38 PM",
             "role_id": 55838869846833,
             "server_region": "europe"
@@ -6289,9 +6295,15 @@
         "55941949030908": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
+            "equipping_title": "1_5_1_1",
             "gender": 1,
-            "last_seen": 1757944812,
+            "hp": 2220335.75,
+            "last_seen": 1762452950,
+            "level": 100,
             "name": "yuldash",
+            "name_history": [
+                "yuldash"
+            ],
             "registered": "Aug 11, 2022, 5:38:21 PM",
             "role_id": 55941949030908,
             "server_region": "europe"
@@ -11726,6 +11738,6 @@
     },
     "accounts_total": 914,
     "created": "1753816624",
-    "last_updated": 1762452769,
+    "last_updated": 1762452950,
     "server_region": "europe"
 }
