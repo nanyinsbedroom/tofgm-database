@@ -787,10 +787,13 @@
             "crew_name": "Baby Ghost",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 1939710.75,
-            "last_seen": 1760355255,
+            "hp": 1961659.75,
+            "last_seen": 1762437299,
             "level": 100,
             "name": "EXORCISMUS",
+            "name_history": [
+                "EXORCISMUS"
+            ],
             "registered": "Jun 3, 2023, 5:12:20 PM",
             "role_id": 47248936358861,
             "server_region": "asia_pacific"
@@ -3411,10 +3414,13 @@
             "crew_name": "Async",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2647747.25,
-            "last_seen": 1761738881,
+            "hp": 2666140.0,
+            "last_seen": 1762437299,
             "level": 100,
             "name": "ws",
+            "name_history": [
+                "ws"
+            ],
             "registered": "Aug 11, 2022, 12:00:14 PM",
             "role_id": 47274705043783,
             "server_region": "asia_pacific"
@@ -5697,8 +5703,8 @@
             "crew_name": "Async",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 2518979.75,
-            "last_seen": 1762342052,
+            "hp": 2518980.5,
+            "last_seen": 1762437299,
             "level": 100,
             "name": "ろぜっちゅ",
             "name_history": [
@@ -24489,6 +24495,6 @@
     },
     "accounts_total": 1932,
     "created": "1754829154",
-    "last_updated": 1762437239,
+    "last_updated": 1762437299,
     "server_region": "asia_pacific"
 }
