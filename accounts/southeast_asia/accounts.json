@@ -9913,10 +9913,13 @@
             "crew_name": "Tea Party",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2410878.5,
-            "last_seen": 1760701379,
+            "hp": 2616688.0,
+            "last_seen": 1762433631,
             "level": 100,
             "name": "Kyokazu",
+            "name_history": [
+                "Kyokazu"
+            ],
             "registered": "Aug 15, 2022, 9:23:57 PM",
             "role_id": 68775311375121,
             "server_region": "southeast_asia"
@@ -18935,6 +18938,22 @@
             "role_id": 68775311756764,
             "server_region": "southeast_asia"
         },
+        "68775311756772": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2087.3466796875,
+            "last_seen": 1762433631,
+            "level": 10,
+            "name": "にくきゅう",
+            "name_history": [
+                "にくきゅう"
+            ],
+            "registered": "Nov 6, 2025, 8:00:25 PM",
+            "role_id": 68775311756772,
+            "server_region": "southeast_asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -23574,8 +23593,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1850,
+    "accounts_total": 1851,
     "created": 1753795148,
-    "last_updated": 1762433451,
+    "last_updated": 1762433631,
     "server_region": "southeast_asia"
 }
