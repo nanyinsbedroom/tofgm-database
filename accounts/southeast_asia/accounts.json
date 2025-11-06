@@ -2508,9 +2508,15 @@
         "68732361737525": {
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759776376,
+            "hp": 2454053.5,
+            "last_seen": 1762430385,
+            "level": 100,
             "name": "Mít_Na",
+            "name_history": [
+                "Mít_Na"
+            ],
             "registered": "Aug 21, 2022, 4:08:40 AM",
             "role_id": 68732361737525,
             "server_region": "southeast_asia"
@@ -3781,8 +3787,8 @@
             "crew_name": "Phantasia ",
             "equipping_title": "Tencent_Sever_115",
             "gender": 0,
-            "hp": 2277836.75,
-            "last_seen": 1762427164,
+            "hp": 1880555.375,
+            "last_seen": 1762430385,
             "level": 100,
             "name": "Phantom​",
             "name_history": [
@@ -11200,10 +11206,13 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2135790.75,
-            "last_seen": 1760880543,
+            "hp": 2224775.75,
+            "last_seen": 1762430385,
             "level": 100,
             "name": "Ajong",
+            "name_history": [
+                "Ajong"
+            ],
             "registered": "Mar 22, 2024, 6:40:49 PM",
             "role_id": 68775311650376,
             "server_region": "southeast_asia"
@@ -19863,8 +19872,8 @@
             "crew_name": "Lunar Exclaire",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2402003.25,
-            "last_seen": 1762259590,
+            "hp": 2534311.75,
+            "last_seen": 1762430385,
             "level": 100,
             "name": "Juwita.",
             "name_history": [
@@ -21275,8 +21284,8 @@
             "crew_name": "Tea Party",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1853922.625,
-            "last_seen": 1762254300,
+            "hp": 1874241.125,
+            "last_seen": 1762430385,
             "level": 100,
             "name": "blusabre",
             "name_history": [
@@ -23255,6 +23264,22 @@
             "role_id": 68822555992224,
             "server_region": "southeast_asia"
         },
+        "8607118756151659": {
+            "crew_id": 4296971297,
+            "crew_name": "Aus",
+            "equipping_title": "2_10_0_4",
+            "gender": 1,
+            "hp": 2727715.5,
+            "last_seen": 1762430385,
+            "level": 100,
+            "name": "Amber Noir",
+            "name_history": [
+                "Amber Noir"
+            ],
+            "registered": "Aug 8, 2023, 10:31:01 AM",
+            "role_id": 8607118756151659,
+            "server_region": "southeast_asia"
+        },
         "8607118756159849": {
             "crew_id": 73016448033,
             "crew_name": "Unit69",
@@ -23384,8 +23409,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1843,
+    "accounts_total": 1844,
     "created": 1753795148,
-    "last_updated": 1762430145,
+    "last_updated": 1762430385,
     "server_region": "southeast_asia"
 }
