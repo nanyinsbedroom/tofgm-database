@@ -810,9 +810,15 @@
         "68723771839627": {
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
+            "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "last_seen": 1758533491,
+            "hp": 2100089.5,
+            "last_seen": 1762430145,
+            "level": 100,
             "name": "Rosaphine",
+            "name_history": [
+                "Rosaphine"
+            ],
             "registered": "Oct 17, 2022, 11:13:58 PM",
             "role_id": 68723771839627,
             "server_region": "southeast_asia"
@@ -6087,8 +6093,8 @@
             "crew_name": "Luminous",
             "equipping_title": "1_6_3_1",
             "gender": 1,
-            "hp": 2494797.75,
-            "last_seen": 1762252628,
+            "hp": 2387652.0,
+            "last_seen": 1762430145,
             "level": 100,
             "name": "Elmo@6008",
             "name_history": [
@@ -8205,8 +8211,8 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "raver的启迪人,1",
             "gender": 1,
-            "hp": 3045316.0,
-            "last_seen": 1762258508,
+            "hp": 3055475.5,
+            "last_seen": 1762430145,
             "level": 100,
             "name": "Jo3YkiD",
             "name_history": [
@@ -12519,8 +12525,8 @@
             "crew_name": "Eroge",
             "equipping_title": "Ayin的学徒,0",
             "gender": 0,
-            "hp": 1403508.0,
-            "last_seen": 1762032826,
+            "hp": 1411322.75,
+            "last_seen": 1762430145,
             "level": 100,
             "name": "Leyn",
             "name_history": [
@@ -23302,8 +23308,8 @@
             "crew_name": "★★彩色小屋★★",
             "equipping_title": "3_2023",
             "gender": 0,
-            "hp": 1793454.0,
-            "last_seen": 1762079030,
+            "hp": 1939261.125,
+            "last_seen": 1762430145,
             "level": 100,
             "name": "我是小白",
             "name_history": [
@@ -23345,6 +23351,22 @@
             "role_id": 8607118756256089,
             "server_region": "southeast_asia"
         },
+        "8607118756264380": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 1326659.75,
+            "last_seen": 1762430145,
+            "level": 100,
+            "name": "Velvett0",
+            "name_history": [
+                "Velvett0"
+            ],
+            "registered": "Nov 9, 2024, 7:28:28 PM",
+            "role_id": 8607118756264380,
+            "server_region": "southeast_asia"
+        },
         "8607118756294701": {
             "crew_id": 0,
             "crew_name": "",
@@ -23362,8 +23384,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1842,
+    "accounts_total": 1843,
     "created": 1753795148,
-    "last_updated": 1762430025,
+    "last_updated": 1762430145,
     "server_region": "southeast_asia"
 }
