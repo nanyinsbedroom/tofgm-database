@@ -4354,7 +4354,7 @@
             "equipping_title": "Tencent_Sever_8",
             "gender": 1,
             "hp": 2210116.25,
-            "last_seen": 1762436757,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "雌犬ルドルフ",
             "name_history": [
@@ -4517,12 +4517,15 @@
         "47279001185660": {
             "crew_id": 6266357295875,
             "crew_name": "始まりのニョ",
-            "equipping_title": "ゆー's Apprentice,0",
+            "equipping_title": "ゆー的学徒,0",
             "gender": 1,
-            "hp": 2128187.0,
-            "last_seen": 1760354754,
+            "hp": 1601435.0,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "でこぽん",
+            "name_history": [
+                "でこぽん"
+            ],
             "registered": "Jul 8, 2023, 9:48:37 PM",
             "role_id": 47279001185660,
             "server_region": "asia_pacific"
@@ -6438,8 +6441,8 @@
             "crew_name": "始まりのニョ",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2360452.75,
-            "last_seen": 1762001098,
+            "hp": 2363349.0,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "ひな✿",
             "name_history": [
@@ -8907,8 +8910,8 @@
             "crew_name": "始まりのニョ",
             "equipping_title": "2_2_0_21",
             "gender": 0,
-            "hp": 2691015.0,
-            "last_seen": 1762091089,
+            "hp": 2699955.0,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "ℵシルキアℵ",
             "name_history": [
@@ -9041,11 +9044,30 @@
             "equipping_title": "黒 夜的启迪人,1",
             "gender": 0,
             "hp": 2888129.0,
-            "last_seen": 1761738640,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "レンナ～",
+            "name_history": [
+                "レンナ～"
+            ],
             "registered": "Aug 11, 2022, 6:43:23 PM",
             "role_id": 47321949696521,
+            "server_region": "asia_pacific"
+        },
+        "47321949701272": {
+            "crew_id": 6266357295875,
+            "crew_name": "始まりのニョ",
+            "equipping_title": "Title_HalfAnniversary_os_2",
+            "gender": 1,
+            "hp": 2170103.75,
+            "last_seen": 1762519689,
+            "level": 100,
+            "name": "メアレ",
+            "name_history": [
+                "メアレ"
+            ],
+            "registered": "Aug 11, 2022, 8:12:55 PM",
+            "role_id": 47321949701272,
             "server_region": "asia_pacific"
         },
         "47321949705579": {
@@ -9228,6 +9250,22 @@
             ],
             "registered": "Feb 16, 2023, 12:23:36 PM",
             "role_id": 47321950442855,
+            "server_region": "asia_pacific"
+        },
+        "47321950494813": {
+            "crew_id": 6266357295875,
+            "crew_name": "始まりのニョ",
+            "equipping_title": "1_1_3_1",
+            "gender": 1,
+            "hp": 2518810.0,
+            "last_seen": 1762519689,
+            "level": 100,
+            "name": "なぴん",
+            "name_history": [
+                "なぴん"
+            ],
+            "registered": "Apr 3, 2023, 11:09:02 PM",
+            "role_id": 47321950494813,
             "server_region": "asia_pacific"
         },
         "47321950666962": {
@@ -12332,8 +12370,8 @@
             "crew_name": "Various Colors葬",
             "equipping_title": "2_2_0_25",
             "gender": 1,
-            "hp": 2646320.0,
-            "last_seen": 1762173064,
+            "hp": 2413563.0,
+            "last_seen": 1762519689,
             "level": 100,
             "name": "SuperAB",
             "name_history": [
@@ -13888,6 +13926,22 @@
             "name": "まぃぷ",
             "registered": "Nov 17, 2024, 9:11:27 PM",
             "role_id": 47343427755680,
+            "server_region": "asia_pacific"
+        },
+        "47343427759130": {
+            "crew_id": 18945100753679,
+            "crew_name": "ねむり森の亭",
+            "equipping_title": "1_6_4_27",
+            "gender": 1,
+            "hp": 813463.9375,
+            "last_seen": 1762519689,
+            "level": 100,
+            "name": "MonsterAB",
+            "name_history": [
+                "MonsterAB"
+            ],
+            "registered": "Nov 20, 2024, 3:37:42 PM",
+            "role_id": 47343427759130,
             "server_region": "asia_pacific"
         },
         "47343427759527": {
@@ -24796,8 +24850,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1950,
+    "accounts_total": 1953,
     "created": "1754829154",
-    "last_updated": 1762519629,
+    "last_updated": 1762519689,
     "server_region": "asia_pacific"
 }
