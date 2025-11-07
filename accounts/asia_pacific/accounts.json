@@ -1165,6 +1165,22 @@
             "role_id": 47253230361981,
             "server_region": "asia_pacific"
         },
+        "47253230369561": {
+            "crew_id": 4552665344762,
+            "crew_name": "エリシオン",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 298076.625,
+            "last_seen": 1762519569,
+            "level": 100,
+            "name": "孫六",
+            "name_history": [
+                "孫六"
+            ],
+            "registered": "Dec 28, 2022, 1:40:30 AM",
+            "role_id": 47253230369561,
+            "server_region": "asia_pacific"
+        },
         "47253230369863": {
             "crew_id": 171798702865,
             "crew_name": "Bonsai",
@@ -16792,10 +16808,13 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 939421.6875,
-            "last_seen": 1761740163,
-            "level": 77,
+            "hp": 1105151.75,
+            "last_seen": 1762519569,
+            "level": 87,
             "name": "月光神ツクヨミ",
+            "name_history": [
+                "月光神ツクヨミ"
+            ],
             "registered": "Sep 29, 2025, 6:04:46 PM",
             "role_id": 47343427936152,
             "server_region": "asia_pacific"
@@ -19283,11 +19302,11 @@
         "47343427947875": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_3_1_5",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 410699.5625,
-            "last_seen": 1762174266,
-            "level": 53,
+            "hp": 738788.8125,
+            "last_seen": 1762519569,
+            "level": 66,
             "name": "PandoraVIISins",
             "name_history": [
                 "PandoraVIISins"
@@ -20218,6 +20237,38 @@
             ],
             "registered": "Nov 6, 2025, 10:31:03 PM",
             "role_id": 47343427950202,
+            "server_region": "asia_pacific"
+        },
+        "47343427950399": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 84692.140625,
+            "last_seen": 1762519569,
+            "level": 30,
+            "name": "SHICUNI",
+            "name_history": [
+                "SHICUNI"
+            ],
+            "registered": "Nov 7, 2025, 5:54:14 PM",
+            "role_id": 47343427950399,
+            "server_region": "asia_pacific"
+        },
+        "47343427950434": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 3625.72607421875,
+            "last_seen": 1762519569,
+            "level": 11,
+            "name": "のな",
+            "name_history": [
+                "のな"
+            ],
+            "registered": "Nov 7, 2025, 8:24:15 PM",
+            "role_id": 47343427950434,
             "server_region": "asia_pacific"
         },
         "47343427950438": {
@@ -23641,6 +23692,22 @@
             "role_id": 47433618889656,
             "server_region": "asia_pacific"
         },
+        "47433618889924": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 409519.1875,
+            "last_seen": 1762519569,
+            "level": 47,
+            "name": "Akaringe",
+            "name_history": [
+                "Akaringe"
+            ],
+            "registered": "Jun 1, 2025, 9:25:13 AM",
+            "role_id": 47433618889924,
+            "server_region": "asia_pacific"
+        },
         "47433618890510": {
             "crew_id": 0,
             "crew_name": "",
@@ -24729,8 +24796,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1946,
+    "accounts_total": 1950,
     "created": "1754829154",
-    "last_updated": 1762519027,
+    "last_updated": 1762519569,
     "server_region": "asia_pacific"
 }
