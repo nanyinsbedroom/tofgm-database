@@ -1748,9 +1748,15 @@
         "51573967383686": {
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
+            "equipping_title": "Tencent_Sever_42",
             "gender": 0,
-            "last_seen": 1757792515,
+            "hp": 2724370.5,
+            "last_seen": 1762487341,
+            "level": 100,
             "name": "Sierra_",
+            "name_history": [
+                "Sierra_"
+            ],
             "registered": "Sep 11, 2022, 1:17:14 AM",
             "role_id": 51573967383686,
             "server_region": "north_america"
@@ -2604,6 +2610,22 @@
             ],
             "registered": "Aug 12, 2022, 1:58:17 AM",
             "role_id": 51591147197309,
+            "server_region": "north_america"
+        },
+        "51591147199975": {
+            "crew_id": 38654717676,
+            "crew_name": "Dreamlight",
+            "equipping_title": "2_3_0_3",
+            "gender": 1,
+            "hp": 1747604.375,
+            "last_seen": 1762487341,
+            "level": 100,
+            "name": "kratina",
+            "name_history": [
+                "kratina"
+            ],
+            "registered": "Aug 12, 2022, 11:40:37 AM",
+            "role_id": 51591147199975,
             "server_region": "north_america"
         },
         "51591147202657": {
@@ -5010,12 +5032,34 @@
             "role_id": 51629802322833,
             "server_region": "north_america"
         },
+        "51629802323465": {
+            "crew_id": 2637109931749,
+            "crew_name": "♥︎ Coalition ♡",
+            "equipping_title": " Kilonova的学徒,0",
+            "gender": 1,
+            "hp": 1274563.25,
+            "last_seen": 1762487341,
+            "level": 100,
+            "name": "Glint",
+            "name_history": [
+                "Glint"
+            ],
+            "registered": "Jul 17, 2025, 8:04:30 AM",
+            "role_id": 51629802323465,
+            "server_region": "north_america"
+        },
         "51629802323839": {
             "crew_id": 700079681261,
             "crew_name": "Maid Cafe",
+            "equipping_title": "1_6_2_1",
             "gender": 0,
-            "last_seen": 1757259833,
+            "hp": 1353132.5,
+            "last_seen": 1762487341,
+            "level": 100,
             "name": "Moro Delfos",
+            "name_history": [
+                "Moro Delfos"
+            ],
             "registered": "Jul 20, 2025, 10:47:24 PM",
             "role_id": 51629802323839,
             "server_region": "north_america"
@@ -6916,8 +6960,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 567,
+    "accounts_total": 569,
     "created": 1753804860,
-    "last_updated": 1762487221,
+    "last_updated": 1762487341,
     "server_region": "north_america"
 }
