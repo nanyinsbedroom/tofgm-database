@@ -3097,9 +3097,15 @@
         "47270410102861": {
             "crew_id": 2362232023818,
             "crew_name": "ルーレット",
+            "equipping_title": "2_1_0_1",
             "gender": 0,
-            "last_seen": 1760274867,
+            "hp": 2941390.5,
+            "last_seen": 1762518667,
+            "level": 100,
             "name": "コリウス#a",
+            "name_history": [
+                "コリウス#a"
+            ],
             "registered": "Aug 12, 2022, 1:35:56 AM",
             "role_id": 47270410102861,
             "server_region": "asia_pacific"
@@ -20064,6 +20070,22 @@
             "role_id": 47343427950202,
             "server_region": "asia_pacific"
         },
+        "47343427950438": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": 1762518667,
+            "level": 2,
+            "name": "テオストリアス ",
+            "name_history": [
+                "テオストリアス "
+            ],
+            "registered": "Nov 7, 2025, 8:43:02 PM",
+            "role_id": 47343427950438,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -24525,8 +24547,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1934,
+    "accounts_total": 1935,
     "created": "1754829154",
-    "last_updated": 1762437551,
+    "last_updated": 1762518667,
     "server_region": "asia_pacific"
 }
