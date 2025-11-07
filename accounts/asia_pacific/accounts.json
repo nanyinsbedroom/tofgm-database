@@ -9532,10 +9532,13 @@
             "crew_name": "ノーゲーム・ノーライフ",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2212183.75,
-            "last_seen": 1761753663,
+            "hp": 2187223.5,
+            "last_seen": 1762520771,
             "level": 100,
             "name": "シュルスナ",
+            "name_history": [
+                "シュルスナ"
+            ],
             "registered": "Aug 21, 2022, 10:43:18 PM",
             "role_id": 47326244735935,
             "server_region": "asia_pacific"
@@ -12740,6 +12743,22 @@
             "name": "ヒケンタイ",
             "registered": "Mar 20, 2024, 10:58:55 PM",
             "role_id": 47343427239300,
+            "server_region": "asia_pacific"
+        },
+        "47343427253193": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 113273.75,
+            "last_seen": 1762520771,
+            "level": 92,
+            "name": "bbbng",
+            "name_history": [
+                "bbbng"
+            ],
+            "registered": "Mar 23, 2024, 7:07:57 PM",
+            "role_id": 47343427253193,
             "server_region": "asia_pacific"
         },
         "47343427265037": {
@@ -19892,6 +19911,22 @@
             "role_id": 47343427948613,
             "server_region": "asia_pacific"
         },
+        "47343427948685": {
+            "crew_id": 3255585221384,
+            "crew_name": "HarbingersPH",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 743832.6875,
+            "last_seen": 1762520771,
+            "level": 59,
+            "name": "ROTH CHAN",
+            "name_history": [
+                "ROTH CHAN"
+            ],
+            "registered": "Oct 31, 2025, 10:07:48 AM",
+            "role_id": 47343427948685,
+            "server_region": "asia_pacific"
+        },
         "47343427948737": {
             "crew_id": 0,
             "crew_name": "",
@@ -25121,8 +25156,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 1969,
+    "accounts_total": 1971,
     "created": "1754829154",
-    "last_updated": 1762520711,
+    "last_updated": 1762520771,
     "server_region": "asia_pacific"
 }
