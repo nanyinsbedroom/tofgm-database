@@ -759,8 +759,8 @@
             "crew_name": "Aspen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1460413.5,
-            "last_seen": 1762014696,
+            "hp": 1500146.25,
+            "last_seen": 1762486260,
             "level": 100,
             "name": "Tiwul",
             "name_history": [
@@ -3300,8 +3300,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2514408.0,
-            "last_seen": 1762431648,
+            "hp": 2621705.5,
+            "last_seen": 1762486260,
             "level": 100,
             "name": "FlynSSR",
             "name_history": [
@@ -3899,9 +3899,15 @@
         "68740951573674": {
             "crew_id": 184683609733,
             "crew_name": "Guardian",
+            "equipping_title": "OverSeas_2",
             "gender": 1,
-            "last_seen": 1754837729,
+            "hp": 1741965.0,
+            "last_seen": 1762486260,
+            "level": 100,
             "name": "Youko",
+            "name_history": [
+                "Youko"
+            ],
             "registered": "Aug 11, 2022, 7:51:10 AM",
             "role_id": 68740951573674,
             "server_region": "southeast_asia"
@@ -5467,7 +5473,7 @@
             "equipping_title": "2_10_1_5",
             "gender": 1,
             "hp": 2259226.75,
-            "last_seen": 1762165970,
+            "last_seen": 1762486260,
             "level": 100,
             "name": "Inaurka斗",
             "name_history": [
@@ -11991,8 +11997,8 @@
             "crew_name": "Aspen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1232812.0,
-            "last_seen": 1761991511,
+            "hp": 1243812.5,
+            "last_seen": 1762486260,
             "level": 100,
             "name": "Nolo Gareng",
             "name_history": [
@@ -20988,7 +20994,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 2971990.75,
-            "last_seen": 1762434112,
+            "last_seen": 1762486260,
             "level": 100,
             "name": "M0ON#a#a",
             "name_history": [
@@ -21575,6 +21581,22 @@
             ],
             "registered": "Aug 11, 2022, 4:53:04 PM",
             "role_id": 68796786158227,
+            "server_region": "southeast_asia"
+        },
+        "68796786168579": {
+            "crew_id": 360777268884,
+            "crew_name": "WeWillWin",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1729978.875,
+            "last_seen": 1762486260,
+            "level": 100,
+            "name": "Yar ven",
+            "name_history": [
+                "Yar ven"
+            ],
+            "registered": "Aug 11, 2022, 7:45:56 PM",
+            "role_id": 68796786168579,
             "server_region": "southeast_asia"
         },
         "68796786168790": {
@@ -23732,8 +23754,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1858,
+    "accounts_total": 1859,
     "created": 1753795148,
-    "last_updated": 1762486200,
+    "last_updated": 1762486260,
     "server_region": "southeast_asia"
 }
