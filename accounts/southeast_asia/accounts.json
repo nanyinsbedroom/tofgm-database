@@ -4943,10 +4943,13 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_10_1_2",
             "gender": 0,
-            "hp": 1974931.0,
-            "last_seen": 1761985893,
+            "hp": 1801218.0,
+            "last_seen": 1762486320,
             "level": 100,
             "name": "นำ้ใส",
+            "name_history": [
+                "นำ้ใส"
+            ],
             "registered": "Aug 11, 2022, 10:24:39 AM",
             "role_id": 68745246544877,
             "server_region": "southeast_asia"
@@ -9541,9 +9544,15 @@
         "68771016439465": {
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759166129,
+            "hp": 2371634.5,
+            "last_seen": 1762486320,
+            "level": 100,
             "name": "BoloDhewo",
+            "name_history": [
+                "BoloDhewo"
+            ],
             "registered": "Aug 20, 2022, 4:33:33 AM",
             "role_id": 68771016439465,
             "server_region": "southeast_asia"
@@ -19681,6 +19690,22 @@
             "role_id": 68779606379052,
             "server_region": "southeast_asia"
         },
+        "68779606380239": {
+            "crew_id": 4294983306,
+            "crew_name": "Scarlet",
+            "equipping_title": "2_2_0_17",
+            "gender": 1,
+            "hp": 1230154.5,
+            "last_seen": 1762486320,
+            "level": 100,
+            "name": "Auditia",
+            "name_history": [
+                "Auditia"
+            ],
+            "registered": "Aug 25, 2022, 6:40:35 AM",
+            "role_id": 68779606380239,
+            "server_region": "southeast_asia"
+        },
         "68779606389452": {
             "crew_id": 4131758554765,
             "crew_name": "鬼滅の刃",
@@ -20302,6 +20327,22 @@
             "role_id": 68783901307303,
             "server_region": "southeast_asia"
         },
+        "68783901311099": {
+            "crew_id": 790273998467,
+            "crew_name": "VN-Archon",
+            "equipping_title": "1_2022",
+            "gender": 1,
+            "hp": 1965239.0,
+            "last_seen": 1762486320,
+            "level": 100,
+            "name": "Sokou",
+            "name_history": [
+                "Sokou"
+            ],
+            "registered": "Aug 14, 2022, 5:20:55 PM",
+            "role_id": 68783901311099,
+            "server_region": "southeast_asia"
+        },
         "68783901313366": {
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
@@ -20843,11 +20884,17 @@
             "server_region": "southeast_asia"
         },
         "68788196297016": {
-            "crew_id": 38654721665,
-            "crew_name": "SOVEREIGN",
+            "crew_id": 184683609733,
+            "crew_name": "Guardian",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "last_seen": 1755004832,
+            "hp": 2378156.0,
+            "last_seen": 1762486320,
+            "level": 100,
             "name": "Estioo",
+            "name_history": [
+                "Estioo"
+            ],
             "registered": "Aug 19, 2022, 2:18:33 PM",
             "role_id": 68788196297016,
             "server_region": "southeast_asia"
@@ -22407,8 +22454,8 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1438718.25,
-            "last_seen": 1762079633,
+            "hp": 1417544.0,
+            "last_seen": 1762486320,
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -22786,7 +22833,7 @@
             "equipping_title": "2_2_0_21",
             "gender": 1,
             "hp": 2899081.25,
-            "last_seen": 1762121130,
+            "last_seen": 1762486320,
             "level": 100,
             "name": "Arckeis",
             "name_history": [
@@ -23754,8 +23801,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1859,
+    "accounts_total": 1861,
     "created": 1753795148,
-    "last_updated": 1762486260,
+    "last_updated": 1762486320,
     "server_region": "southeast_asia"
 }
