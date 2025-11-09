@@ -2410,9 +2410,15 @@
         "68732361690204": {
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758468423,
+            "hp": 1941970.375,
+            "last_seen": 1762683371,
+            "level": 100,
             "name": "孤狼",
+            "name_history": [
+                "孤狼"
+            ],
             "registered": "Aug 13, 2022, 12:56:18 AM",
             "role_id": 68732361690204,
             "server_region": "southeast_asia"
@@ -24279,6 +24285,22 @@
             "role_id": 8607118756189532,
             "server_region": "southeast_asia"
         },
+        "8607118756199339": {
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_8_0_12",
+            "gender": 1,
+            "hp": 1833967.25,
+            "last_seen": 1762683371,
+            "level": 100,
+            "name": "サクララ",
+            "name_history": [
+                "サクララ"
+            ],
+            "registered": "Sep 4, 2023, 9:38:10 PM",
+            "role_id": 8607118756199339,
+            "server_region": "southeast_asia"
+        },
         "8607118756214631": {
             "crew_id": 8591938593,
             "crew_name": "★★彩色小屋★★",
@@ -24392,8 +24414,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1879,
+    "accounts_total": 1880,
     "created": 1753795148,
-    "last_updated": 1762683311,
+    "last_updated": 1762683371,
     "server_region": "southeast_asia"
 }
