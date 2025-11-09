@@ -862,9 +862,15 @@
         "47248936395279": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
+            "equipping_title": "1_3_1_4",
             "gender": 1,
-            "last_seen": 1759237175,
+            "hp": 1367167.5,
+            "last_seen": 1762687584,
+            "level": 100,
             "name": " Ivelisse",
+            "name_history": [
+                " Ivelisse"
+            ],
             "registered": "Jul 4, 2023, 9:19:28 AM",
             "role_id": 47248936395279,
             "server_region": "asia_pacific"
@@ -1580,6 +1586,22 @@
             "name": "ココア",
             "registered": "Aug 11, 2022, 4:57:57 PM",
             "role_id": 47257525184515,
+            "server_region": "asia_pacific"
+        },
+        "47257525187003": {
+            "crew_id": 124554062588,
+            "crew_name": "ふぇありー",
+            "equipping_title": "Tencent_Sever_1",
+            "gender": 1,
+            "hp": 2638778.25,
+            "last_seen": 1762687584,
+            "level": 100,
+            "name": "Limie.",
+            "name_history": [
+                "Limie."
+            ],
+            "registered": "Aug 11, 2022, 6:13:54 PM",
+            "role_id": 47257525187003,
             "server_region": "asia_pacific"
         },
         "47257525193779": {
@@ -3427,8 +3449,8 @@
             "crew_name": "月が綺麗ですね。",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2384688.0,
-            "last_seen": 1762172222,
+            "hp": 2385592.75,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "クルル",
             "name_history": [
@@ -7770,8 +7792,8 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "1_8_0_14",
             "gender": 1,
-            "hp": 2896235.0,
-            "last_seen": 1762519870,
+            "hp": 2896234.5,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "ひつぎ",
             "name_history": [
@@ -7907,8 +7929,8 @@
             "crew_name": "Arcana's XVI",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2756352.5,
-            "last_seen": 1762519809,
+            "hp": 2766106.0,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "翠月 水飴",
             "name_history": [
@@ -8610,8 +8632,8 @@
             "crew_name": "夜空",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2316098.5,
-            "last_seen": 1762436637,
+            "hp": 2157193.5,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "ひじきだよ。",
             "name_history": [
@@ -9399,7 +9421,7 @@
             "equipping_title": "3_2022",
             "gender": 1,
             "hp": 1746931.375,
-            "last_seen": 1762519870,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "無尾狐神YUGU",
             "name_history": [
@@ -13839,8 +13861,8 @@
             "crew_name": "Green Tea",
             "equipping_title": "azriq的学徒,0",
             "gender": 1,
-            "hp": 2151766.25,
-            "last_seen": 1762436637,
+            "hp": 1853743.625,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "heh12",
             "name_history": [
@@ -21938,7 +21960,7 @@
             "equipping_title": "3_2022",
             "gender": 1,
             "hp": 2466123.0,
-            "last_seen": 1762436577,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "Rurouni Kenshin",
             "name_history": [
@@ -23098,12 +23120,15 @@
         "47377784314181": {
             "crew_id": 25769814788,
             "crew_name": "Green Tea",
-            "equipping_title": "heh12's Mentor,0",
+            "equipping_title": "heh12的导师,0",
             "gender": 1,
-            "hp": 164219.59375,
-            "last_seen": 1761304009,
+            "hp": 2180680.25,
+            "last_seen": 1762687584,
             "level": 100,
             "name": "azriq",
+            "name_history": [
+                "azriq"
+            ],
             "registered": "Aug 18, 2022, 4:32:21 PM",
             "role_id": 47377784314181,
             "server_region": "asia_pacific"
@@ -25717,9 +25742,15 @@
         "47433618940977": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "last_seen": 1759465396,
+            "hp": 884071.8125,
+            "last_seen": 1762687584,
+            "level": 100,
             "name": "Alpha7",
+            "name_history": [
+                "Alpha7"
+            ],
             "registered": "Sep 11, 2025, 8:22:54 AM",
             "role_id": 47433618940977,
             "server_region": "asia_pacific"
@@ -25880,8 +25911,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2011,
+    "accounts_total": 2012,
     "created": "1754829154",
-    "last_updated": 1762687343,
+    "last_updated": 1762687584,
     "server_region": "asia_pacific"
 }
