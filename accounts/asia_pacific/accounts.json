@@ -9209,9 +9209,15 @@
         "47321949690686": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759589186,
+            "hp": 2911079.25,
+            "last_seen": 1762686922,
+            "level": 100,
             "name": " まきの",
+            "name_history": [
+                " まきの"
+            ],
             "registered": "Aug 11, 2022, 4:40:25 PM",
             "role_id": 47321949690686,
             "server_region": "asia_pacific"
@@ -25563,6 +25569,6 @@
     },
     "accounts_total": 1995,
     "created": "1754829154",
-    "last_updated": 1762686802,
+    "last_updated": 1762686922,
     "server_region": "asia_pacific"
 }
