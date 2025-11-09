@@ -12137,8 +12137,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 1946004.875,
-            "last_seen": 1762607426,
+            "hp": 1788996.5,
+            "last_seen": 1762682228,
             "level": 100,
             "name": "Gxlfmx",
             "name_history": [
@@ -14153,11 +14153,17 @@
             "server_region": "southeast_asia"
         },
         "68775311742107": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "1_1_3_1",
             "gender": 1,
-            "last_seen": 1759133892,
+            "hp": 1284926.75,
+            "last_seen": 1762682228,
+            "level": 100,
             "name": "Rienna",
+            "name_history": [
+                "Rienna"
+            ],
             "registered": "Jul 8, 2025, 5:36:54 PM",
             "role_id": 68775311742107,
             "server_region": "southeast_asia"
@@ -24347,10 +24353,26 @@
             "registered": "Nov 2, 2025, 5:15:45 PM",
             "role_id": 8607118756294701,
             "server_region": "southeast_asia"
+        },
+        "8607118756295363": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 406874.84375,
+            "last_seen": 1762682228,
+            "level": 40,
+            "name": "Ephemeral",
+            "name_history": [
+                "Ephemeral"
+            ],
+            "registered": "Nov 7, 2025, 9:20:02 AM",
+            "role_id": 8607118756295363,
+            "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1878,
+    "accounts_total": 1879,
     "created": 1753795148,
-    "last_updated": 1762682108,
+    "last_updated": 1762682228,
     "server_region": "southeast_asia"
 }
