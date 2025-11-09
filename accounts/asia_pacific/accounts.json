@@ -7044,9 +7044,15 @@
         "47300474869753": {
             "crew_id": 55834585850,
             "crew_name": "ゴールドキャット",
+            "equipping_title": "1_6_1_2",
             "gender": 1,
-            "last_seen": 1757256814,
+            "hp": 2729882.5,
+            "last_seen": 1762687162,
+            "level": 100,
             "name": "WILD CAT#c",
+            "name_history": [
+                "WILD CAT#c"
+            ],
             "registered": "Aug 11, 2022, 9:04:00 PM",
             "role_id": 47300474869753,
             "server_region": "asia_pacific"
@@ -9479,8 +9485,8 @@
             "crew_name": "盞",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 3150005.5,
-            "last_seen": 1762436577,
+            "hp": 2996364.75,
+            "last_seen": 1762687162,
             "level": 100,
             "name": "puppeteer",
             "name_history": [
@@ -11092,11 +11098,17 @@
             "server_region": "asia_pacific"
         },
         "47343424515329": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1769526536975,
+            "crew_name": "こなもん",
+            "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "last_seen": 1758888569,
+            "hp": 2620194.75,
+            "last_seen": 1762687162,
+            "level": 100,
             "name": "バロッコ",
+            "name_history": [
+                "バロッコ"
+            ],
             "registered": "Aug 11, 2022, 10:33:49 PM",
             "role_id": 47343424515329,
             "server_region": "asia_pacific"
@@ -22928,9 +22940,15 @@
         "47373489389434": {
             "crew_id": 18292265724687,
             "crew_name": "☃️",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760023710,
+            "hp": 2917072.25,
+            "last_seen": 1762687162,
+            "level": 100,
             "name": "しらたま",
+            "name_history": [
+                "しらたま"
+            ],
             "registered": "Sep 1, 2022, 11:29:27 PM",
             "role_id": 47373489389434,
             "server_region": "asia_pacific"
@@ -25823,6 +25841,6 @@
     },
     "accounts_total": 2009,
     "created": "1754829154",
-    "last_updated": 1762687102,
+    "last_updated": 1762687162,
     "server_region": "asia_pacific"
 }
