@@ -697,8 +697,8 @@
             "crew_name": "Phantasia ",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 2753120.25,
-            "last_seen": 1762430566,
+            "hp": 3092286.0,
+            "last_seen": 1762681927,
             "level": 100,
             "name": "KalitoTamayuki",
             "name_history": [
@@ -9121,10 +9121,13 @@
             "crew_name": "REBIRTH",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 1813576.125,
-            "last_seen": 1761909469,
+            "hp": 1902055.625,
+            "last_seen": 1762681927,
             "level": 100,
             "name": "Atyas",
+            "name_history": [
+                "Atyas"
+            ],
             "registered": "Aug 13, 2022, 1:27:07 AM",
             "role_id": 68766721429523,
             "server_region": "southeast_asia"
@@ -10933,8 +10936,8 @@
             "crew_name": "Moonheart",
             "equipping_title": "2_10_1_2",
             "gender": 0,
-            "hp": 2111515.25,
-            "last_seen": 1762604543,
+            "hp": 2118593.0,
+            "last_seen": 1762681927,
             "level": 100,
             "name": "SmolKalito",
             "name_history": [
@@ -24192,6 +24195,38 @@
             "role_id": 8607118756160421,
             "server_region": "southeast_asia"
         },
+        "8607118756166176": {
+            "crew_id": 807455855649,
+            "crew_name": "异环",
+            "equipping_title": "1_4_3_26",
+            "gender": 1,
+            "hp": 2351830.0,
+            "last_seen": 1762681927,
+            "level": 100,
+            "name": "蒼夜",
+            "name_history": [
+                "蒼夜"
+            ],
+            "registered": "Aug 11, 2023, 6:18:59 AM",
+            "role_id": 8607118756166176,
+            "server_region": "southeast_asia"
+        },
+        "8607118756186147": {
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_10_1_4",
+            "gender": 1,
+            "hp": 2165002.5,
+            "last_seen": 1762681927,
+            "level": 100,
+            "name": "papico",
+            "name_history": [
+                "papico"
+            ],
+            "registered": "Aug 20, 2023, 12:22:11 AM",
+            "role_id": 8607118756186147,
+            "server_region": "southeast_asia"
+        },
         "8607118756189532": {
             "crew_id": 536872916001,
             "crew_name": "◥◣猛獸喵喵屋◢◤",
@@ -24305,8 +24340,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1876,
+    "accounts_total": 1878,
     "created": 1753795148,
-    "last_updated": 1762681807,
+    "last_updated": 1762681927,
     "server_region": "southeast_asia"
 }
