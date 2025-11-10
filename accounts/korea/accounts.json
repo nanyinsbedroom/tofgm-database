@@ -613,9 +613,12 @@
             "equipping_title": "korea_6",
             "gender": 1,
             "hp": 1908371.5,
-            "last_seen": 1760537708,
+            "last_seen": 1762792334,
             "level": 100,
             "name": "MIRINA",
+            "name_history": [
+                "MIRINA"
+            ],
             "registered": "Aug 11, 2022, 10:45:06 PM",
             "role_id": 42945816079395169,
             "server_region": "korea"
@@ -679,12 +682,34 @@
             "role_id": 42945816079404288,
             "server_region": "korea"
         },
+        "42945816079408560": {
+            "crew_id": 747334308606,
+            "crew_name": "환탑라이브",
+            "equipping_title": "Title_Korea34_os12",
+            "gender": 0,
+            "hp": 2391940.25,
+            "last_seen": 1762792334,
+            "level": 100,
+            "name": "M;ku",
+            "name_history": [
+                "M;ku"
+            ],
+            "registered": "Aug 12, 2022, 6:58:02 PM",
+            "role_id": 42945816079408560,
+            "server_region": "korea"
+        },
         "42945816079410030": {
             "crew_id": 743039341310,
             "crew_name": "백야",
+            "equipping_title": "Title_Korea33_os07",
             "gender": 1,
-            "last_seen": 1759240238,
+            "hp": 1759223.0,
+            "last_seen": 1762792334,
+            "level": 100,
             "name": "우옹애",
+            "name_history": [
+                "우옹애"
+            ],
             "registered": "Aug 12, 2022, 9:56:43 PM",
             "role_id": 42945816079410030,
             "server_region": "korea"
@@ -1364,8 +1389,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 106,
+    "accounts_total": 107,
     "created": 1757257775,
-    "last_updated": 1762081769,
+    "last_updated": 1762792334,
     "server_region": "korea"
 }
