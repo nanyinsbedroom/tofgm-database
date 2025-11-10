@@ -15786,10 +15786,13 @@
             "crew_name": "今日も夏休み",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1108192.625,
-            "last_seen": 1761675870,
+            "hp": 1123969.375,
+            "last_seen": 1762792093,
             "level": 100,
             "name": "doffy",
+            "name_history": [
+                "doffy"
+            ],
             "registered": "Apr 25, 2025, 8:53:21 AM",
             "role_id": 47343427900052,
             "server_region": "asia_pacific"
@@ -17072,6 +17075,22 @@
             "name": "ハイドレンジア",
             "registered": "Sep 3, 2025, 3:57:12 PM",
             "role_id": 47343427930700,
+            "server_region": "asia_pacific"
+        },
+        "47343427930749": {
+            "crew_id": 365072231192,
+            "crew_name": "かえでの木",
+            "equipping_title": "にみりゅう的学徒,0",
+            "gender": 1,
+            "hp": 1079548.375,
+            "last_seen": 1762792093,
+            "level": 99,
+            "name": "にみりゅうサブ",
+            "name_history": [
+                "にみりゅうサブ"
+            ],
+            "registered": "Sep 3, 2025, 9:17:49 PM",
+            "role_id": 47343427930749,
             "server_region": "asia_pacific"
         },
         "47343427930792": {
@@ -26528,8 +26547,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2047,
+    "accounts_total": 2048,
     "created": "1754829154",
-    "last_updated": 1762791973,
+    "last_updated": 1762792093,
     "server_region": "asia_pacific"
 }
