@@ -5726,6 +5726,21 @@
             "role_id": 55920474232720,
             "server_region": "europe"
         },
+        "55920474233894": {
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "Title_tencentshare_os_17",
+            "gender": 0,
+            "hp": 1423245.375,
+            "last_seen": 1762784341,
+            "level": 100,
+            "name": "Gokuda",
+            "name_history": [
+                "Gokuda"
+            ],
+            "registered": "Aug 12, 2022, 5:47:51 PM",
+            "role_id": 55920474233894
+        },
         "55920474241093": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
@@ -7046,12 +7061,17 @@
         "55954834038135": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
+            "equipping_title": "Tencent_Sever_86",
             "gender": 0,
-            "last_seen": 1755027847,
+            "hp": 2409563.0,
+            "last_seen": 1762784341,
+            "level": 100,
             "name": "Abdudosha",
+            "name_history": [
+                "Abdudosha"
+            ],
             "registered": "Nov 19, 2022, 5:20:54 PM",
-            "role_id": 55954834038135,
-            "server_region": "europe"
+            "role_id": 55954834038135
         },
         "55959128900007": {
             "crew_id": 781684060899,
@@ -12184,8 +12204,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 939,
+    "accounts_total": 940,
     "created": "1753816624",
-    "last_updated": 1762454152,
+    "last_updated": 1762784341,
     "server_region": "europe"
 }
