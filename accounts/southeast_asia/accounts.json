@@ -365,7 +365,7 @@
             "equipping_title": "3_2022",
             "gender": 1,
             "hp": 2881031.0,
-            "last_seen": 1762258508,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "Manong Guard",
             "name_history": [
@@ -881,8 +881,8 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "Chykina的启迪人,1",
             "gender": 1,
-            "hp": 2406364.5,
-            "last_seen": 1762435315,
+            "hp": 2428697.0,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "Λrubedo",
             "name_history": [
@@ -4255,8 +4255,8 @@
             "crew_name": "SOVEREIGN",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 2068796.625,
-            "last_seen": 1762515179,
+            "hp": 2104905.75,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "SayaKoceng",
             "name_history": [
@@ -4284,8 +4284,8 @@
             "crew_name": "Guardian",
             "equipping_title": "2_5_0_6",
             "gender": 1,
-            "hp": 2393884.25,
-            "last_seen": 1762194720,
+            "hp": 2084434.0,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "Ａｒｔｇｕｎ",
             "name_history": [
@@ -5833,9 +5833,15 @@
         "68749541558240": {
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "PK Dragos x1的导师,0",
             "gender": 0,
-            "last_seen": 1759475051,
+            "hp": 1926567.25,
+            "last_seen": 1762774521,
+            "level": 100,
             "name": "Sand's",
+            "name_history": [
+                "Sand's"
+            ],
             "registered": "Aug 13, 2022, 11:43:52 AM",
             "role_id": 68749541558240,
             "server_region": "southeast_asia"
@@ -7810,8 +7816,8 @@
             "crew_name": "Luminous",
             "equipping_title": "Title_tencentshare_os_15",
             "gender": 0,
-            "hp": 2069784.125,
-            "last_seen": 1762720447,
+            "hp": 2069784.0,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "Alter",
             "name_history": [
@@ -18164,12 +18170,15 @@
         "68775311755033": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_6_3_1",
+            "equipping_title": "1_3_1_5",
             "gender": 1,
-            "hp": 700336.25,
-            "last_seen": 1761651708,
-            "level": 81,
+            "hp": 975435.5,
+            "last_seen": 1762774521,
+            "level": 97,
             "name": "Kokooo",
+            "name_history": [
+                "Kokooo"
+            ],
             "registered": "Oct 17, 2025, 10:04:52 PM",
             "role_id": 68775311755033,
             "server_region": "southeast_asia"
@@ -21337,8 +21346,8 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_2_0_27",
             "gender": 1,
-            "hp": 2042982.875,
-            "last_seen": 1762430566,
+            "hp": 2030831.125,
+            "last_seen": 1762774521,
             "level": 100,
             "name": "Meowbie15",
             "name_history": [
@@ -22313,12 +22322,12 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2214874.5,
-            "last_seen": 1762430806,
+            "hp": 2084720.875,
+            "last_seen": 1762774521,
             "level": 100,
-            "name": "Sakiko Togawa",
+            "name": "Chef Sakiko",
             "name_history": [
-                "Sakiko Togawa"
+                "Chef Sakiko"
             ],
             "registered": "Aug 12, 2022, 12:24:15 AM",
             "role_id": 68796786178821,
@@ -24580,6 +24589,6 @@
     },
     "accounts_total": 1888,
     "created": 1753795148,
-    "last_updated": 1762774461,
+    "last_updated": 1762774521,
     "server_region": "southeast_asia"
 }
