@@ -2412,12 +2412,17 @@
         "68732361689826": {
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
+            "equipping_title": "1_1_7_1",
             "gender": 1,
-            "last_seen": 1758468062,
+            "hp": 2472220.5,
+            "last_seen": 1762781377,
+            "level": 100,
             "name": "Odin",
+            "name_history": [
+                "Odin"
+            ],
             "registered": "Aug 13, 2022, 12:32:08 AM",
-            "role_id": 68732361689826,
-            "server_region": "southeast_asia"
+            "role_id": 68732361689826
         },
         "68732361690204": {
             "crew_id": 562640731778,
@@ -3980,15 +3985,14 @@
             "equipping_title": "Tencent_Sever_115",
             "gender": 0,
             "hp": 2283331.0,
-            "last_seen": 1762684393,
+            "last_seen": 1762781377,
             "level": 100,
             "name": "Phantom​",
             "name_history": [
                 "Phantom​"
             ],
             "registered": "Aug 11, 2022, 7:37:45 AM",
-            "role_id": 68740951572843,
-            "server_region": "southeast_asia"
+            "role_id": 68740951572843
         },
         "68740951573027": {
             "crew_id": 554050797189,
@@ -9325,7 +9329,7 @@
             "equipping_title": "3_2022",
             "gender": 1,
             "hp": 2173336.5,
-            "last_seen": 1762780325,
+            "last_seen": 1762781377,
             "level": 100,
             "name": "BadLucky#d",
             "name_history": [
@@ -10372,8 +10376,8 @@
             "crew_name": "Waifu",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2674059.0,
-            "last_seen": 1762780325,
+            "hp": 2618202.75,
+            "last_seen": 1762781377,
             "level": 100,
             "name": "Coelica",
             "name_history": [
@@ -24606,6 +24610,6 @@
     },
     "accounts_total": 1889,
     "created": 1753795148,
-    "last_updated": 1762780325,
+    "last_updated": 1762781377,
     "server_region": "southeast_asia"
 }
