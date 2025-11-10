@@ -8318,9 +8318,15 @@
         "47309064795995": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
+            "equipping_title": "POOTIETANG的后继者,1",
             "gender": 0,
-            "last_seen": 1758016194,
-            "name": "Redoxed",
+            "hp": 2511624.0,
+            "last_seen": 1762790712,
+            "level": 100,
+            "name": "not Redoxed",
+            "name_history": [
+                "not Redoxed"
+            ],
             "registered": "Aug 11, 2022, 6:08:22 PM",
             "role_id": 47309064795995,
             "server_region": "asia_pacific"
@@ -14413,10 +14419,13 @@
             "crew_name": "【新時代】",
             "equipping_title": "ヤズミ的学徒,0",
             "gender": 1,
-            "hp": 1882073.0,
-            "last_seen": 1761677742,
+            "hp": 1799741.0,
+            "last_seen": 1762790712,
             "level": 100,
             "name": "xVx_Ragdoll_xVx",
+            "name_history": [
+                "xVx_Ragdoll_xVx"
+            ],
             "registered": "Sep 1, 2024, 10:47:01 PM",
             "role_id": 47343427655295,
             "server_region": "asia_pacific"
@@ -22176,10 +22185,13 @@
             "crew_name": "Family",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2212358.25,
-            "last_seen": 1761753483,
+            "hp": 2296158.5,
+            "last_seen": 1762790712,
             "level": 100,
             "name": "アルト＝レーテ",
+            "name_history": [
+                "アルト＝レーテ"
+            ],
             "registered": "Oct 22, 2022, 3:47:55 AM",
             "role_id": 47352014564015,
             "server_region": "asia_pacific"
@@ -22208,6 +22220,22 @@
             ],
             "registered": "Aug 13, 2022, 2:14:59 AM",
             "role_id": 47356309412410,
+            "server_region": "asia_pacific"
+        },
+        "47356309414575": {
+            "crew_id": 8499740289785,
+            "crew_name": "VOC",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2041272.75,
+            "last_seen": 1762790712,
+            "level": 100,
+            "name": "BEYONDER°MOR",
+            "name_history": [
+                "BEYONDER°MOR"
+            ],
+            "registered": "Aug 13, 2022, 3:11:09 AM",
+            "role_id": 47356309414575,
             "server_region": "asia_pacific"
         },
         "47356309418631": {
@@ -26337,8 +26365,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2036,
+    "accounts_total": 2037,
     "created": "1754829154",
-    "last_updated": 1762790652,
+    "last_updated": 1762790712,
     "server_region": "asia_pacific"
 }
