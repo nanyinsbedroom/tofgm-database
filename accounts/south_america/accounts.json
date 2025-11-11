@@ -537,9 +537,15 @@
         "64445984277403": {
             "crew_id": 777389095578,
             "crew_name": "YoRHa",
+            "equipping_title": "nhentai.net的启迪人,1",
             "gender": 1,
-            "last_seen": 1757437188,
+            "hp": 2199890.75,
+            "last_seen": 1762882665,
+            "level": 100,
             "name": "Shirase ",
+            "name_history": [
+                "Shirase "
+            ],
             "registered": "Aug 10, 2022, 7:35:40 PM",
             "role_id": 64445984277403,
             "server_region": "south_america"
@@ -645,6 +651,22 @@
             "name": "Shion_St",
             "registered": "Aug 11, 2022, 1:46:08 AM",
             "role_id": 64445984300721,
+            "server_region": "south_america"
+        },
+        "64445984310347": {
+            "crew_id": 3745211497120,
+            "crew_name": "Omega Squad",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2153818.5,
+            "last_seen": 1762882665,
+            "level": 100,
+            "name": "Drakem.",
+            "name_history": [
+                "Drakem."
+            ],
+            "registered": "Aug 11, 2022, 5:55:26 PM",
+            "role_id": 64445984310347,
             "server_region": "south_america"
         },
         "64445984315402": {
@@ -2238,8 +2260,8 @@
             "crew_name": "YoRHa",
             "equipping_title": "Lalyta的学徒,0",
             "gender": 0,
-            "hp": 1291535.125,
-            "last_seen": 1762279656,
+            "hp": 1254676.125,
+            "last_seen": 1762882665,
             "level": 100,
             "name": "Hwasuke",
             "name_history": [
@@ -3061,8 +3083,8 @@
             "server_region": "south_america"
         }
     },
-    "accounts_total": 225,
+    "accounts_total": 226,
     "created": 1757168442,
-    "last_updated": 1762882605,
+    "last_updated": 1762882665,
     "server_region": "south_america"
 }
