@@ -1004,10 +1004,13 @@
             "crew_name": "환탑라이브",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2826914.5,
-            "last_seen": 1761987816,
+            "hp": 2830531.75,
+            "last_seen": 1762851880,
             "level": 100,
             "name": "귀찮아죽겠네",
+            "name_history": [
+                "귀찮아죽겠네"
+            ],
             "registered": "Sep 6, 2023, 4:29:41 PM",
             "role_id": 42945816079535835,
             "server_region": "korea"
@@ -1419,6 +1422,22 @@
             "role_id": 42945833259285235,
             "server_region": "korea"
         },
+        "42945833259299877": {
+            "crew_id": 184693592834,
+            "crew_name": "기억",
+            "equipping_title": "Title_KoreaAnniversary23",
+            "gender": 1,
+            "hp": 1857210.875,
+            "last_seen": 1762851880,
+            "level": 100,
+            "name": "사쿠요",
+            "name_history": [
+                "사쿠요"
+            ],
+            "registered": "Aug 15, 2022, 5:15:32 PM",
+            "role_id": 42945833259299877,
+            "server_region": "korea"
+        },
         "42945833259302551": {
             "crew_id": 751629275902,
             "crew_name": "민초단",
@@ -1513,8 +1532,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 114,
+    "accounts_total": 115,
     "created": 1757257775,
-    "last_updated": 1762851819,
+    "last_updated": 1762851880,
     "server_region": "korea"
 }
