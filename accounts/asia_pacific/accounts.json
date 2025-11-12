@@ -667,6 +667,22 @@
             "role_id": 47248935811385,
             "server_region": "asia_pacific"
         },
+        "47248935827436": {
+            "crew_id": 98784258812,
+            "crew_name": "Sylvae Custodes",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1812084.25,
+            "last_seen": 1762962031,
+            "level": 100,
+            "name": "En_Ra",
+            "name_history": [
+                "En_Ra"
+            ],
+            "registered": "Jan 3, 2023, 4:50:05 AM",
+            "role_id": 47248935827436,
+            "server_region": "asia_pacific"
+        },
         "47248935859210": {
             "crew_id": 18223546247951,
             "crew_name": "Flonac",
@@ -1490,12 +1506,15 @@
         "47257525166472": {
             "crew_id": 124554062588,
             "crew_name": "ふぇありー",
-            "equipping_title": "NullNullプリン的学徒,0",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2918216.25,
-            "last_seen": 1761738460,
+            "hp": 2938937.0,
+            "last_seen": 1762962031,
             "level": 100,
             "name": "Miksya",
+            "name_history": [
+                "Miksya"
+            ],
             "registered": "Aug 11, 2022, 9:20:23 AM",
             "role_id": 47257525166472,
             "server_region": "asia_pacific"
@@ -5324,6 +5343,22 @@
             "name": "きり",
             "registered": "Aug 15, 2022, 8:34:35 PM",
             "role_id": 47283295037802,
+            "server_region": "asia_pacific"
+        },
+        "47283295044507": {
+            "crew_id": 141733931777,
+            "crew_name": "神々の楽園",
+            "equipping_title": "1_4_4_7",
+            "gender": 1,
+            "hp": 2550169.75,
+            "last_seen": 1762962031,
+            "level": 100,
+            "name": "しろねこ1229",
+            "name_history": [
+                "しろねこ1229"
+            ],
+            "registered": "Aug 17, 2022, 2:10:04 PM",
+            "role_id": 47283295044507,
             "server_region": "asia_pacific"
         },
         "47283295053434": {
@@ -26033,9 +26068,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1051317.375,
-            "last_seen": 1762174507,
-            "level": 93,
+            "hp": 1039034.4375,
+            "last_seen": 1762962031,
+            "level": 97,
             "name": "タケル",
             "name_history": [
                 "タケル"
@@ -27186,8 +27221,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2084,
+    "accounts_total": 2086,
     "created": "1754829154",
-    "last_updated": 1762961970,
+    "last_updated": 1762962031,
     "server_region": "asia_pacific"
 }
