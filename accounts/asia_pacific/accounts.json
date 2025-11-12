@@ -21968,6 +21968,22 @@
             "role_id": 47343427951704,
             "server_region": "asia_pacific"
         },
+        "47343427951708": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2921.48095703125,
+            "last_seen": 1762961068,
+            "level": 10,
+            "name": "ジェッパリ",
+            "name_history": [
+                "ジェッパリ"
+            ],
+            "registered": "Nov 12, 2025, 11:45:47 PM",
+            "role_id": 47343427951708,
+            "server_region": "asia_pacific"
+        },
         "47343427951716": {
             "crew_id": 0,
             "crew_name": "",
@@ -23534,9 +23550,15 @@
         "47373489288505": {
             "crew_id": 541165890314,
             "crew_name": "りんゆかチャンネル",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760281000,
+            "hp": 1825628.25,
+            "last_seen": 1762961068,
+            "level": 100,
             "name": "九九",
+            "name_history": [
+                "九九"
+            ],
             "registered": "Aug 15, 2022, 12:05:31 AM",
             "role_id": 47373489288505,
             "server_region": "asia_pacific"
@@ -26745,8 +26767,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2060,
+    "accounts_total": 2061,
     "created": "1754829154",
-    "last_updated": 1762961007,
+    "last_updated": 1762961068,
     "server_region": "asia_pacific"
 }
