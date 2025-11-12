@@ -4153,11 +4153,17 @@
             "server_region": "asia_pacific"
         },
         "47279000005541": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 330712492800,
+            "crew_name": "江戸前わはー寿し",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1758016555,
+            "hp": 2312303.0,
+            "last_seen": 1762961669,
+            "level": 100,
             "name": "二ル",
+            "name_history": [
+                "二ル"
+            ],
             "registered": "Aug 11, 2022, 10:22:06 AM",
             "role_id": 47279000005541,
             "server_region": "asia_pacific"
@@ -10572,6 +10578,22 @@
             "role_id": 47330539685352,
             "server_region": "asia_pacific"
         },
+        "47330539685560": {
+            "crew_id": 1653562419980,
+            "crew_name": "ゆきねこ亭",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2173409.25,
+            "last_seen": 1762961669,
+            "level": 100,
+            "name": "シオ・フェル",
+            "name_history": [
+                "シオ・フェル"
+            ],
+            "registered": "Aug 17, 2022, 2:21:18 AM",
+            "role_id": 47330539685560,
+            "server_region": "asia_pacific"
+        },
         "47330539686803": {
             "crew_id": 1653562419980,
             "crew_name": "ゆきねこ亭",
@@ -13093,6 +13115,22 @@
             ],
             "registered": "Dec 30, 2023, 3:08:47 AM",
             "role_id": 47343426838320,
+            "server_region": "asia_pacific"
+        },
+        "47343426846790": {
+            "crew_id": 541165890314,
+            "crew_name": "りんゆかチャンネル",
+            "equipping_title": "1_1_30_1",
+            "gender": 0,
+            "hp": 2219013.5,
+            "last_seen": 1762961669,
+            "level": 100,
+            "name": "эйк",
+            "name_history": [
+                "эйк"
+            ],
+            "registered": "Dec 31, 2023, 11:40:09 PM",
+            "role_id": 47343426846790,
             "server_region": "asia_pacific"
         },
         "47343426854438": {
@@ -26980,8 +27018,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2073,
+    "accounts_total": 2075,
     "created": "1754829154",
-    "last_updated": 1762961609,
+    "last_updated": 1762961669,
     "server_region": "asia_pacific"
 }
