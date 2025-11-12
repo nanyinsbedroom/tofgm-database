@@ -2384,10 +2384,13 @@
             "crew_name": "オルレアンの日誌…..〆",
             "equipping_title": "1_4_4_1",
             "gender": 1,
-            "hp": 2754715.0,
-            "last_seen": 1761740814,
+            "hp": 2764315.0,
+            "last_seen": 1762960306,
             "level": 100,
             "name": "amine",
+            "name_history": [
+                "amine"
+            ],
             "registered": "Aug 11, 2022, 3:42:34 PM",
             "role_id": 47261820148871,
             "server_region": "asia_pacific"
@@ -13008,8 +13011,8 @@
             "crew_name": "Four Roses",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1268039.625,
-            "last_seen": 1762685178,
+            "hp": 1274501.875,
+            "last_seen": 1762960306,
             "level": 100,
             "name": "ルスユウ",
             "name_history": [
@@ -21837,6 +21840,22 @@
             "role_id": 47343427951179,
             "server_region": "asia_pacific"
         },
+        "47343427951566": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1762960306,
+            "level": 1,
+            "name": "Qiuyuan",
+            "name_history": [
+                "Qiuyuan"
+            ],
+            "registered": "Nov 12, 2025, 1:01:38 PM",
+            "role_id": 47343427951566,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -25179,12 +25198,15 @@
         "47433618859526": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_1_10_3",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1294455.75,
-            "last_seen": 1761483248,
+            "hp": 1209600.25,
+            "last_seen": 1762960306,
             "level": 100,
             "name": "スレイ",
+            "name_history": [
+                "スレイ"
+            ],
             "registered": "Apr 21, 2025, 5:57:45 PM",
             "role_id": 47433618859526,
             "server_region": "asia_pacific"
@@ -26563,8 +26585,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2049,
+    "accounts_total": 2050,
     "created": "1754829154",
-    "last_updated": 1762792153,
+    "last_updated": 1762960306,
     "server_region": "asia_pacific"
 }
