@@ -19,12 +19,15 @@
         "42945811784404000": {
             "crew_id": 867593392893,
             "crew_name": "별",
-            "equipping_title": "2_2_0_24",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2654838.0,
-            "last_seen": 1760537468,
+            "hp": 2802325.75,
+            "last_seen": 1763040093,
             "level": 100,
             "name": "라플라스",
+            "name_history": [
+                "라플라스"
+            ],
             "registered": "Aug 11, 2022, 9:06:02 AM",
             "role_id": 42945811784404000,
             "server_region": "korea"
@@ -90,7 +93,7 @@
             "equipping_title": "Title_Korea34_os12",
             "gender": 0,
             "hp": 2178599.0,
-            "last_seen": 1762856649,
+            "last_seen": 1763040093,
             "level": 100,
             "name": "반주희",
             "name_history": [
@@ -180,7 +183,7 @@
             "equipping_title": "Title_KoreaAnniversary22",
             "gender": 1,
             "hp": 1327749.5,
-            "last_seen": 1762856649,
+            "last_seen": 1763040093,
             "level": 100,
             "name": "길드는 츄르",
             "name_history": [
@@ -280,10 +283,10 @@
         "42945811784487338": {
             "crew_id": 867593392893,
             "crew_name": "별",
-            "equipping_title": "2_2_0_26",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2643491.75,
-            "last_seen": 1762074849,
+            "hp": 2658616.25,
+            "last_seen": 1763040093,
             "level": 100,
             "name": " 라플라스",
             "name_history": [
@@ -311,6 +314,22 @@
             "name": "Njop",
             "registered": "Jan 12, 2023, 3:14:30 PM",
             "role_id": 42945811784492651,
+            "server_region": "korea"
+        },
+        "42945811784501998": {
+            "crew_id": 25779802877,
+            "crew_name": "천사",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1931794.5,
+            "last_seen": 1763040093,
+            "level": 100,
+            "name": "동냥",
+            "name_history": [
+                "동냥"
+            ],
+            "registered": "Mar 25, 2023, 12:02:14 AM",
+            "role_id": 42945811784501998,
             "server_region": "korea"
         },
         "42945811784505413": {
@@ -1106,6 +1125,22 @@
             "role_id": 42945816079517600,
             "server_region": "korea"
         },
+        "42945816079520697": {
+            "crew_id": 5076661342973,
+            "crew_name": "유메",
+            "equipping_title": "시엣트的启迪人,1",
+            "gender": 1,
+            "hp": 2967994.5,
+            "last_seen": 1763040093,
+            "level": 100,
+            "name": "(*´∪`)",
+            "name_history": [
+                "(*´∪`)"
+            ],
+            "registered": "Apr 4, 2023, 11:49:01 AM",
+            "role_id": 42945816079520697,
+            "server_region": "korea"
+        },
         "42945816079522768": {
             "crew_id": 5076661342973,
             "crew_name": "유메",
@@ -1854,8 +1889,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 134,
+    "accounts_total": 136,
     "created": 1757257775,
-    "last_updated": 1763039672,
+    "last_updated": 1763040093,
     "server_region": "korea"
 }
