@@ -935,9 +935,15 @@
         "51556787427124": {
             "crew_id": 425201774327,
             "crew_name": "CDG",
+            "equipping_title": "2_2_0_18",
             "gender": 0,
-            "last_seen": 1757945833,
+            "hp": 2399922.75,
+            "last_seen": 1763061869,
+            "level": 100,
             "name": "Asouldin",
+            "name_history": [
+                "Asouldin"
+            ],
             "registered": "Aug 10, 2022, 8:01:10 PM",
             "role_id": 51556787427124,
             "server_region": "north_america"
@@ -1703,7 +1709,7 @@
             "equipping_title": "2_8_0_12",
             "gender": 0,
             "hp": 2641371.25,
-            "last_seen": 1763057230,
+            "last_seen": 1763061869,
             "level": 100,
             "name": "Bass Sword",
             "name_history": [
@@ -8366,6 +8372,6 @@
     },
     "accounts_total": 653,
     "created": 1753804860,
-    "last_updated": 1763061809,
+    "last_updated": 1763061869,
     "server_region": "north_america"
 }
