@@ -2343,14 +2343,17 @@
             "server_region": "southeast_asia"
         },
         "68732361676245": {
-            "crew_id": 554050797189,
-            "crew_name": "Court Of Cats",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "Tencent_Sever_113",
-            "gender": 1,
-            "hp": 691000.6875,
-            "last_seen": 1761514343,
-            "level": 100,
+            "gender": 0,
+            "hp": 354.0,
+            "last_seen": 1763126711,
+            "level": 1,
             "name": "Fitrix ",
+            "name_history": [
+                "Fitrix "
+            ],
             "registered": "Aug 12, 2022, 3:33:09 AM",
             "role_id": 68732361676245,
             "server_region": "southeast_asia"
@@ -11809,13 +11812,13 @@
             "server_region": "southeast_asia"
         },
         "68775311643365": {
-            "crew_id": 253403086473,
-            "crew_name": "Vocar Ed Regnum",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 1212650.375,
-            "last_seen": 1762360672,
-            "level": 100,
+            "gender": 0,
+            "hp": 354.0,
+            "last_seen": 1763126711,
+            "level": 1,
             "name": "Code Blue",
             "name_history": [
                 "Code Blue"
@@ -16509,11 +16512,17 @@
             "server_region": "southeast_asia"
         },
         "68775311751294": {
-            "crew_id": 532575960705,
-            "crew_name": "Origin",
-            "gender": 0,
-            "last_seen": 1759286587,
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_4_4_5",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1763126711,
+            "level": 1,
             "name": "Cr0s8f1r3",
+            "name_history": [
+                "Cr0s8f1r3"
+            ],
             "registered": "Sep 15, 2025, 9:56:02 AM",
             "role_id": 68775311751294,
             "server_region": "southeast_asia"
@@ -24908,6 +24917,6 @@
     },
     "accounts_total": 1898,
     "created": 1753795148,
-    "last_updated": 1763126651,
+    "last_updated": 1763126711,
     "server_region": "southeast_asia"
 }
