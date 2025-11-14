@@ -5836,8 +5836,8 @@
             "crew_name": "月明かりに照らされて",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2680038.75,
-            "last_seen": 1762519870,
+            "hp": 2441663.25,
+            "last_seen": 1763138193,
             "level": 100,
             "name": "やらはさ",
             "name_history": [
@@ -14319,8 +14319,8 @@
             "crew_name": "エリシオン",
             "equipping_title": "ケロップ的后继者,1",
             "gender": 1,
-            "hp": 2481911.5,
-            "last_seen": 1762091089,
+            "hp": 1740217.5,
+            "last_seen": 1763138193,
             "level": 100,
             "name": " ray",
             "name_history": [
@@ -26417,9 +26417,15 @@
         "47433618817509": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
+            "equipping_title": "1_4_4_1",
             "gender": 0,
-            "last_seen": 1760024250,
+            "hp": 2265569.0,
+            "last_seen": 1763138193,
+            "level": 100,
             "name": "Girein",
+            "name_history": [
+                "Girein"
+            ],
             "registered": "Feb 28, 2025, 12:15:56 AM",
             "role_id": 47433618817509,
             "server_region": "asia_pacific"
@@ -28284,6 +28290,6 @@
     },
     "accounts_total": 2148,
     "created": "1754829154",
-    "last_updated": 1763138133,
+    "last_updated": 1763138193,
     "server_region": "asia_pacific"
 }
