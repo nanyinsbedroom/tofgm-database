@@ -7190,10 +7190,13 @@
             "crew_name": "りんゆかチャンネル",
             "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 1602919.75,
-            "last_seen": 1761837466,
+            "hp": 1747222.0,
+            "last_seen": 1763138013,
             "level": 100,
             "name": "サーシャフェン#a",
+            "name_history": [
+                "サーシャフェン#a"
+            ],
             "registered": "Jun 25, 2023, 8:35:08 PM",
             "role_id": 47296180999941,
             "server_region": "asia_pacific"
@@ -12398,7 +12401,7 @@
             "equipping_title": "2_5_0_6",
             "gender": 0,
             "hp": 2774615.5,
-            "last_seen": 1763114622,
+            "last_seen": 1763138013,
             "level": 100,
             "name": "塩野おにぎり",
             "name_history": [
@@ -23375,6 +23378,22 @@
             "role_id": 47347719541588,
             "server_region": "asia_pacific"
         },
+        "47347719552313": {
+            "crew_id": 4294978315,
+            "crew_name": "アイダの惑星",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1715215.625,
+            "last_seen": 1763138013,
+            "level": 100,
+            "name": "Nekohass",
+            "name_history": [
+                "Nekohass"
+            ],
+            "registered": "Aug 15, 2022, 9:42:18 PM",
+            "role_id": 47347719552313,
+            "server_region": "asia_pacific"
+        },
         "47347719556879": {
             "crew_id": 798863928080,
             "crew_name": "ぽんぽん☆ぺいん",
@@ -23794,8 +23813,8 @@
             "crew_name": "Family",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2296158.5,
-            "last_seen": 1762790712,
+            "hp": 2301131.75,
+            "last_seen": 1763138013,
             "level": 100,
             "name": "アルト＝レーテ",
             "name_history": [
@@ -24820,6 +24839,22 @@
             "role_id": 47369194424006,
             "server_region": "asia_pacific"
         },
+        "47369194427597": {
+            "crew_id": 3053721758464,
+            "crew_name": "Archivist",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1867421.875,
+            "last_seen": 1763138013,
+            "level": 100,
+            "name": "hio",
+            "name_history": [
+                "hio"
+            ],
+            "registered": "Sep 5, 2022, 11:29:36 PM",
+            "role_id": 47369194427597,
+            "server_region": "asia_pacific"
+        },
         "47373489284806": {
             "crew_id": 274877917954,
             "crew_name": "SmileLive",
@@ -24850,6 +24885,22 @@
             ],
             "registered": "Aug 15, 2022, 12:05:31 AM",
             "role_id": 47373489288505,
+            "server_region": "asia_pacific"
+        },
+        "47373489290045": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1740457.75,
+            "last_seen": 1763138013,
+            "level": 100,
+            "name": "蒼思",
+            "name_history": [
+                "蒼思"
+            ],
+            "registered": "Aug 15, 2022, 12:50:18 AM",
+            "role_id": 47373489290045,
             "server_region": "asia_pacific"
         },
         "47373489300426": {
@@ -24980,6 +25031,22 @@
             ],
             "registered": "Aug 16, 2022, 2:40:55 AM",
             "role_id": 47373489332745,
+            "server_region": "asia_pacific"
+        },
+        "47373489333948": {
+            "crew_id": 8499740289785,
+            "crew_name": "VOC",
+            "equipping_title": "1_3_2_1",
+            "gender": 1,
+            "hp": 1949297.75,
+            "last_seen": 1763138013,
+            "level": 100,
+            "name": "Unranked G",
+            "name_history": [
+                "Unranked G"
+            ],
+            "registered": "Aug 16, 2022, 3:47:42 AM",
+            "role_id": 47373489333948,
             "server_region": "asia_pacific"
         },
         "47373489359297": {
@@ -26948,6 +27015,22 @@
             "role_id": 47433618884541,
             "server_region": "asia_pacific"
         },
+        "47433618885486": {
+            "crew_id": 21474847524,
+            "crew_name": "Morning Star",
+            "equipping_title": "HuntingRank_3;imitation_9;16",
+            "gender": 1,
+            "hp": 1155861.25,
+            "last_seen": 1763138013,
+            "level": 100,
+            "name": "Vitus",
+            "name_history": [
+                "Vitus"
+            ],
+            "registered": "May 26, 2025, 4:41:57 PM",
+            "role_id": 47433618885486,
+            "server_region": "asia_pacific"
+        },
         "47433618885798": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
@@ -28135,8 +28218,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2139,
+    "accounts_total": 2144,
     "created": "1754829154",
-    "last_updated": 1763137953,
+    "last_updated": 1763138013,
     "server_region": "asia_pacific"
 }
