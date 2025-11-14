@@ -10519,11 +10519,17 @@
             "server_region": "asia_pacific"
         },
         "47326244681664": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1602022812427,
+            "crew_name": "【新時代】",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1758016555,
+            "hp": 2225900.75,
+            "last_seen": 1763117742,
+            "level": 100,
             "name": "Mistie",
+            "name_history": [
+                "Mistie"
+            ],
             "registered": "Aug 12, 2022, 3:53:32 PM",
             "role_id": 47326244681664,
             "server_region": "asia_pacific"
@@ -15842,6 +15848,22 @@
             "name": "宿氷",
             "registered": "Jan 15, 2025, 6:56:12 PM",
             "role_id": 47343427830821,
+            "server_region": "asia_pacific"
+        },
+        "47343427835203": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1447315.75,
+            "last_seen": 1763117742,
+            "level": 100,
+            "name": "レヴェン",
+            "name_history": [
+                "レヴェン"
+            ],
+            "registered": "Jan 19, 2025, 3:42:54 PM",
+            "role_id": 47343427835203,
             "server_region": "asia_pacific"
         },
         "47343427841984": {
@@ -23100,9 +23122,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 907.31298828125,
-            "last_seen": 1763117123,
-            "level": 2,
+            "hp": 1763.6259765625,
+            "last_seen": 1763117742,
+            "level": 6,
             "name": "JuyanBaho",
             "name_history": [
                 "JuyanBaho"
@@ -27982,8 +28004,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2130,
+    "accounts_total": 2131,
     "created": "1754829154",
-    "last_updated": 1763117682,
+    "last_updated": 1763117742,
     "server_region": "asia_pacific"
 }
