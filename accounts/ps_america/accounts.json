@@ -1450,9 +1450,9 @@
             "crew_name": "NERV",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 858589.6875,
-            "last_seen": 1763316040,
-            "level": 73,
+            "hp": 39114.859375,
+            "last_seen": 1763318889,
+            "level": 74,
             "name": "Stri-fe",
             "name_history": [
                 "Stri-fe"
@@ -2117,6 +2117,22 @@
             "role_id": 8594233854655946,
             "server_region": "ps_america"
         },
+        "8594233854656298": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 5332.236328125,
+            "last_seen": 1763318889,
+            "level": 12,
+            "name": "Lasmiranda",
+            "name_history": [
+                "Lasmiranda"
+            ],
+            "registered": "Nov 9, 2025, 1:43:19 PM",
+            "role_id": 8594233854656298,
+            "server_region": "ps_america"
+        },
         "8594233854656421": {
             "crew_id": 0,
             "crew_name": "",
@@ -2419,6 +2435,22 @@
             ],
             "registered": "Nov 16, 2025, 1:14:17 PM",
             "role_id": 8594233854659170,
+            "server_region": "ps_america"
+        },
+        "8594233854659173": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2820.48095703125,
+            "last_seen": 1763318889,
+            "level": 9,
+            "name": "zTyrant",
+            "name_history": [
+                "zTyrant"
+            ],
+            "registered": "Nov 16, 2025, 1:24:51 PM",
+            "role_id": 8594233854659173,
             "server_region": "ps_america"
         },
         "8594233854659180": {
@@ -4264,8 +4296,8 @@
             "server_region": "ps_america"
         }
     },
-    "accounts_total": 273,
+    "accounts_total": 275,
     "created": 1761827794,
-    "last_updated": 1763318769,
+    "last_updated": 1763318889,
     "server_region": "ps_america"
 }
