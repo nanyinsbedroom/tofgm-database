@@ -7072,6 +7072,22 @@
             "role_id": 47296179878128,
             "server_region": "asia_pacific"
         },
+        "47296179879998": {
+            "crew_id": 7340099119872,
+            "crew_name": "低スペックチーム",
+            "equipping_title": "Tencent_Sever_12",
+            "gender": 1,
+            "hp": 2664314.5,
+            "last_seen": 1763294760,
+            "level": 100,
+            "name": "カグちゃ",
+            "name_history": [
+                "カグちゃ"
+            ],
+            "registered": "Aug 11, 2022, 11:30:35 AM",
+            "role_id": 47296179879998,
+            "server_region": "asia_pacific"
+        },
         "47296179880452": {
             "crew_id": 962072685316,
             "crew_name": "ミスティルテイン",
@@ -7250,9 +7266,15 @@
         "47296179946411": {
             "crew_id": 970662619904,
             "crew_name": "Nazarick",
+            "equipping_title": "Title_tencentshare_os_19",
             "gender": 1,
-            "last_seen": 1760008507,
+            "hp": 2305349.5,
+            "last_seen": 1763294760,
+            "level": 100,
             "name": "-Noir-",
+            "name_history": [
+                "-Noir-"
+            ],
             "registered": "Aug 18, 2022, 1:43:22 AM",
             "role_id": 47296179946411,
             "server_region": "asia_pacific"
@@ -9448,14 +9470,17 @@
             "server_region": "asia_pacific"
         },
         "47313359768095": {
-            "crew_id": 7593502190329,
-            "crew_name": "Luminescence",
+            "crew_id": 2379411892987,
+            "crew_name": "Lumière",
             "equipping_title": "2_8_0_7",
             "gender": 1,
-            "hp": 2813030.5,
-            "last_seen": 1761480955,
+            "hp": 2786740.75,
+            "last_seen": 1763294760,
             "level": 100,
             "name": "Marlene",
+            "name_history": [
+                "Marlene"
+            ],
             "registered": "Aug 11, 2022, 8:59:31 PM",
             "role_id": 47313359768095,
             "server_region": "asia_pacific"
@@ -16308,6 +16333,22 @@
             "name": "karina 12",
             "registered": "Feb 3, 2025, 8:44:36 PM",
             "role_id": 47343427852428,
+            "server_region": "asia_pacific"
+        },
+        "47343427855218": {
+            "crew_id": 18777597029135,
+            "crew_name": "UNIVERSE",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 1699897.875,
+            "last_seen": 1763294760,
+            "level": 100,
+            "name": "Hikari Akarui",
+            "name_history": [
+                "Hikari Akarui"
+            ],
+            "registered": "Feb 6, 2025, 5:58:17 PM",
+            "role_id": 47343427855218,
             "server_region": "asia_pacific"
         },
         "47343427863610": {
@@ -27646,11 +27687,17 @@
             "server_region": "asia_pacific"
         },
         "47433618859504": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 459561511677,
+            "crew_name": "The Reservoir ",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760277293,
+            "hp": 1144556.125,
+            "last_seen": 1763294760,
+            "level": 100,
             "name": "Sceptica",
+            "name_history": [
+                "Sceptica"
+            ],
             "registered": "Apr 21, 2025, 5:04:30 PM",
             "role_id": 47433618859504,
             "server_region": "asia_pacific"
@@ -29153,8 +29200,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2197,
+    "accounts_total": 2199,
     "created": "1754829154",
-    "last_updated": 1763294699,
+    "last_updated": 1763294760,
     "server_region": "asia_pacific"
 }
