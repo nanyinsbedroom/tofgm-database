@@ -1115,10 +1115,13 @@
             "crew_name": "Fate™",
             "equipping_title": "Overseas2_7",
             "gender": 1,
-            "hp": 2389425.0,
-            "last_seen": 1761754144,
+            "hp": 2302632.0,
+            "last_seen": 1763294519,
             "level": 100,
             "name": "Nanashiなな",
+            "name_history": [
+                "Nanashiなな"
+            ],
             "registered": "Aug 11, 2022, 6:53:44 PM",
             "role_id": 47253230221877,
             "server_region": "asia_pacific"
@@ -23744,6 +23747,22 @@
             "role_id": 47343427952572,
             "server_region": "asia_pacific"
         },
+        "47343427952771": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2166.16796875,
+            "last_seen": 1763294519,
+            "level": 7,
+            "name": "エルメリア",
+            "name_history": [
+                "エルメリア"
+            ],
+            "registered": "Nov 16, 2025, 11:40:27 AM",
+            "role_id": 47343427952771,
+            "server_region": "asia_pacific"
+        },
         "47343427952776": {
             "crew_id": 0,
             "crew_name": "",
@@ -23854,6 +23873,22 @@
             ],
             "registered": "Nov 16, 2025, 8:35:48 PM",
             "role_id": 47343427952915,
+            "server_region": "asia_pacific"
+        },
+        "47343427952918": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2143.031494140625,
+            "last_seen": 1763294519,
+            "level": 7,
+            "name": "R3W",
+            "name_history": [
+                "R3W"
+            ],
+            "registered": "Nov 16, 2025, 8:40:29 PM",
+            "role_id": 47343427952918,
             "server_region": "asia_pacific"
         },
         "47343427952920": {
@@ -29007,8 +29042,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2189,
+    "accounts_total": 2191,
     "created": "1754829154",
-    "last_updated": 1763294458,
+    "last_updated": 1763294519,
     "server_region": "asia_pacific"
 }
