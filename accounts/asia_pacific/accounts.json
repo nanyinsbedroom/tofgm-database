@@ -13417,14 +13417,17 @@
             "server_region": "asia_pacific"
         },
         "47343426319107": {
-            "crew_id": 1017907260159,
-            "crew_name": "Azure Sky",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 1729107.125,
-            "last_seen": 1761311882,
-            "level": 100,
+            "hp": 0.0,
+            "last_seen": 1763293676,
+            "level": 1,
             "name": "Mosh Levy",
+            "name_history": [
+                "Mosh Levy"
+            ],
             "registered": "Sep 12, 2023, 8:23:47 AM",
             "role_id": 47343426319107,
             "server_region": "asia_pacific"
@@ -18620,6 +18623,22 @@
             "name": "维克华",
             "registered": "Sep 13, 2025, 6:51:03 PM",
             "role_id": 47343427932585,
+            "server_region": "asia_pacific"
+        },
+        "47343427932781": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 354.0,
+            "last_seen": 1763293676,
+            "level": 1,
+            "name": "Девка",
+            "name_history": [
+                "Девка"
+            ],
+            "registered": "Sep 14, 2025, 3:38:35 PM",
+            "role_id": 47343427932781,
             "server_region": "asia_pacific"
         },
         "47343427932793": {
@@ -27242,14 +27261,17 @@
             "server_region": "asia_pacific"
         },
         "47433618861198": {
-            "crew_id": 25769814820,
-            "crew_name": "幻塔の白騎士",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": 1760355375,
-            "level": 100,
+            "hp": 0.0,
+            "last_seen": 1763293676,
+            "level": 1,
             "name": "75781537461",
+            "name_history": [
+                "75781537461"
+            ],
             "registered": "Apr 24, 2025, 1:47:15 PM",
             "role_id": 47433618861198,
             "server_region": "asia_pacific"
@@ -28701,8 +28723,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2171,
+    "accounts_total": 2172,
     "created": "1754829154",
-    "last_updated": 1763293616,
+    "last_updated": 1763293676,
     "server_region": "asia_pacific"
 }
