@@ -4010,8 +4010,8 @@
             "crew_name": "Async",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2677001.0,
-            "last_seen": 1762961248,
+            "hp": 2681813.0,
+            "last_seen": 1763294458,
             "level": 100,
             "name": "ws",
             "name_history": [
@@ -6678,8 +6678,8 @@
             "crew_name": "Async",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 2530213.0,
-            "last_seen": 1763114622,
+            "hp": 2674850.0,
+            "last_seen": 1763294458,
             "level": 100,
             "name": "ろぜっちゅ",
             "name_history": [
@@ -7465,12 +7465,15 @@
         "47300474844951": {
             "crew_id": 3693671885573,
             "crew_name": "Async",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2799668.25,
-            "last_seen": 1761739742,
+            "hp": 2821205.0,
+            "last_seen": 1763294458,
             "level": 100,
             "name": "えねex",
+            "name_history": [
+                "えねex"
+            ],
             "registered": "Aug 11, 2022, 12:18:03 PM",
             "role_id": 47300474844951,
             "server_region": "asia_pacific"
@@ -23677,6 +23680,22 @@
             "role_id": 47343427952283,
             "server_region": "asia_pacific"
         },
+        "47343427952300": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3802.693359375,
+            "last_seen": 1763294458,
+            "level": 11,
+            "name": "crendelek",
+            "name_history": [
+                "crendelek"
+            ],
+            "registered": "Nov 15, 2025, 12:13:49 AM",
+            "role_id": 47343427952300,
+            "server_region": "asia_pacific"
+        },
         "47343427952306": {
             "crew_id": 0,
             "crew_name": "",
@@ -28988,8 +29007,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2188,
+    "accounts_total": 2189,
     "created": "1754829154",
-    "last_updated": 1763294398,
+    "last_updated": 1763294458,
     "server_region": "asia_pacific"
 }
