@@ -11876,6 +11876,22 @@
             "role_id": 47339129573176,
             "server_region": "asia_pacific"
         },
+        "47339129573361": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Title_tencent_02",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1763293556,
+            "level": 1,
+            "name": " サーディン",
+            "name_history": [
+                " サーディン"
+            ],
+            "registered": "Aug 12, 2022, 2:25:45 PM",
+            "role_id": 47339129573361,
+            "server_region": "asia_pacific"
+        },
         "47339129580239": {
             "crew_id": 691489745664,
             "crew_name": "お子様らんち",
@@ -12915,13 +12931,13 @@
             "server_region": "asia_pacific"
         },
         "47343426046808": {
-            "crew_id": 30064782076,
-            "crew_name": "STLUCE",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_8_1_1",
-            "gender": 0,
-            "hp": 2175637.5,
-            "last_seen": 1762172883,
-            "level": 100,
+            "gender": 1,
+            "hp": 0.0,
+            "last_seen": 1763293556,
+            "level": 1,
             "name": "虚夢さま",
             "name_history": [
                 "虚夢さま"
@@ -23337,9 +23353,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 7066.865234375,
-            "last_seen": 1762961308,
-            "level": 17,
+            "hp": 354.0,
+            "last_seen": 1763293556,
+            "level": 1,
             "name": "NukkA",
             "name_history": [
                 "NukkA"
@@ -28669,8 +28685,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2169,
+    "accounts_total": 2170,
     "created": "1754829154",
-    "last_updated": 1763293495,
+    "last_updated": 1763293556,
     "server_region": "asia_pacific"
 }
