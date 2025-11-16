@@ -1218,6 +1218,22 @@
             "role_id": 51561082394095,
             "server_region": "north_america"
         },
+        "51561082394300": {
+            "crew_id": 803158896357,
+            "crew_name": "Solstice",
+            "equipping_title": "Title_tencentshare_os_4",
+            "gender": 0,
+            "hp": 1850527.5,
+            "last_seen": 1763267543,
+            "level": 100,
+            "name": "NOF",
+            "name_history": [
+                "NOF"
+            ],
+            "registered": "Aug 10, 2022, 7:36:14 PM",
+            "role_id": 51561082394300,
+            "server_region": "north_america"
+        },
         "51561082394604": {
             "crew_id": 700079681261,
             "crew_name": "Maid Cafe",
@@ -1348,9 +1364,15 @@
         "51561082434234": {
             "crew_id": 4294979317,
             "crew_name": "Echo Vision",
+            "equipping_title": "1_5_1_1",
             "gender": 1,
-            "last_seen": 1759292352,
+            "hp": 2376510.0,
+            "last_seen": 1763267543,
+            "level": 100,
             "name": "Ryllian",
+            "name_history": [
+                "Ryllian"
+            ],
             "registered": "Aug 12, 2022, 12:56:42 AM",
             "role_id": 51561082434234,
             "server_region": "north_america"
@@ -2843,6 +2865,22 @@
             ],
             "registered": "Aug 14, 2022, 7:12:46 PM",
             "role_id": 51582557297633,
+            "server_region": "north_america"
+        },
+        "51582557302562": {
+            "crew_id": 1022202228456,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 1859074.125,
+            "last_seen": 1763267543,
+            "level": 100,
+            "name": "JeffersonRG",
+            "name_history": [
+                "JeffersonRG"
+            ],
+            "registered": "Aug 15, 2022, 4:15:16 PM",
+            "role_id": 51582557302562,
             "server_region": "north_america"
         },
         "51582557302792": {
@@ -6194,6 +6232,22 @@
             "role_id": 51629802318690,
             "server_region": "north_america"
         },
+        "51629802319092": {
+            "crew_id": 7524782714613,
+            "crew_name": "SH✪✪OOTING ST☆R",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 1270491.375,
+            "last_seen": 1763267543,
+            "level": 100,
+            "name": "Krau",
+            "name_history": [
+                "Krau"
+            ],
+            "registered": "May 31, 2025, 9:59:56 PM",
+            "role_id": 51629802319092,
+            "server_region": "north_america"
+        },
         "51629802319469": {
             "crew_id": 6034429062889,
             "crew_name": "Void Knights",
@@ -6275,10 +6329,13 @@
             "crew_name": "Solstice",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1461160.0,
-            "last_seen": 1761683809,
+            "hp": 1438945.375,
+            "last_seen": 1763267543,
             "level": 100,
             "name": "Jazviel",
+            "name_history": [
+                "Jazviel"
+            ],
             "registered": "Jun 24, 2025, 11:29:14 PM",
             "role_id": 51629802321516,
             "server_region": "north_america"
@@ -8775,8 +8832,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 677,
+    "accounts_total": 680,
     "created": 1753804860,
-    "last_updated": 1763267483,
+    "last_updated": 1763267543,
     "server_region": "north_america"
 }
