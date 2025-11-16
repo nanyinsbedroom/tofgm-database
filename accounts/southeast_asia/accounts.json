@@ -8602,9 +8602,15 @@
         "68762426499382": {
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
+            "equipping_title": "1_2022",
             "gender": 1,
-            "last_seen": 1756554875,
+            "hp": 2320370.5,
+            "last_seen": 1763305431,
+            "level": 100,
             "name": "Þerfe¢Ts™",
+            "name_history": [
+                "Þerfe¢Ts™"
+            ],
             "registered": "Aug 19, 2022, 9:18:57 PM",
             "role_id": 68762426499382,
             "server_region": "southeast_asia"
@@ -11659,6 +11665,22 @@
             ],
             "registered": "Feb 6, 2024, 11:05:14 AM",
             "role_id": 68775311628166,
+            "server_region": "southeast_asia"
+        },
+        "68775311628799": {
+            "crew_id": 4105988750989,
+            "crew_name": "Millennium",
+            "equipping_title": "2_10_1_3",
+            "gender": 1,
+            "hp": 1633141.875,
+            "last_seen": 1763305431,
+            "level": 100,
+            "name": "KeyAl-1S",
+            "name_history": [
+                "KeyAl-1S"
+            ],
+            "registered": "Feb 8, 2024, 1:30:04 AM",
+            "role_id": 68775311628799,
             "server_region": "southeast_asia"
         },
         "68775311630919": {
@@ -24927,8 +24949,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1898,
+    "accounts_total": 1899,
     "created": 1753795148,
-    "last_updated": 1763305371,
+    "last_updated": 1763305431,
     "server_region": "southeast_asia"
 }
