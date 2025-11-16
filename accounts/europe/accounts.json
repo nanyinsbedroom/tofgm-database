@@ -323,10 +323,13 @@
             "crew_name": "Banda",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 773062.1875,
-            "last_seen": 1760375576,
+            "hp": 735651.25,
+            "last_seen": 1763310771,
             "level": 100,
-            "name": ".Ingrid.#a",
+            "name": "Ing​rid",
+            "name_history": [
+                "Ing​rid"
+            ],
             "registered": "Jun 10, 2023, 6:50:10 PM",
             "role_id": 55838870026882,
             "server_region": "europe"
@@ -3047,8 +3050,8 @@
             "crew_name": "Lacking Skill",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1734807.375,
-            "last_seen": 1762110941,
+            "hp": 1781770.875,
+            "last_seen": 1763310771,
             "level": 100,
             "name": "the brick wa77",
             "name_history": [
@@ -7414,12 +7417,15 @@
         "55963424182648": {
             "crew_id": 2031519544009,
             "crew_name": "Banda",
-            "equipping_title": "2_5_0_5",
+            "equipping_title": "1_6_0_1",
             "gender": 1,
-            "hp": 3029737.0,
-            "last_seen": 1760375576,
+            "hp": 2553631.0,
+            "last_seen": 1763310771,
             "level": 100,
             "name": "Shibuichi",
+            "name_history": [
+                "Shibuichi"
+            ],
             "registered": "Aug 23, 2023, 5:45:31 PM",
             "role_id": 55963424182648,
             "server_region": "europe"
@@ -12359,6 +12365,6 @@
     },
     "accounts_total": 949,
     "created": "1753816624",
-    "last_updated": 1763310711,
+    "last_updated": 1763310771,
     "server_region": "europe"
 }
