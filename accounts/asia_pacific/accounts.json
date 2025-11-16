@@ -7777,11 +7777,17 @@
             "server_region": "asia_pacific"
         },
         "47300474866549": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 1,
-            "last_seen": 1758889230,
+            "crew_id": 3693671885573,
+            "crew_name": "Async",
+            "equipping_title": "Tencent_Sever_13",
+            "gender": 0,
+            "hp": 2065477.5,
+            "last_seen": 1763294579,
+            "level": 100,
             "name": "koo.",
+            "name_history": [
+                "koo."
+            ],
             "registered": "Aug 11, 2022, 8:09:38 PM",
             "role_id": 47300474866549,
             "server_region": "asia_pacific"
@@ -23843,6 +23849,22 @@
             "role_id": 47343427952907,
             "server_region": "asia_pacific"
         },
+        "47343427952910": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1763294579,
+            "level": 1,
+            "name": "Swainz",
+            "name_history": [
+                "Swainz"
+            ],
+            "registered": "Nov 16, 2025, 8:20:36 PM",
+            "role_id": 47343427952910,
+            "server_region": "asia_pacific"
+        },
         "47343427952913": {
             "crew_id": 0,
             "crew_name": "",
@@ -24322,10 +24344,10 @@
         "47352014504460": {
             "crew_id": 6180457949955,
             "crew_name": "オルレアンの日誌…..〆",
-            "equipping_title": "1_4_3_1",
+            "equipping_title": "1_4_4_1",
             "gender": 1,
             "hp": 3023665.0,
-            "last_seen": 1762436577,
+            "last_seen": 1763294579,
             "level": 100,
             "name": "さぁや姉",
             "name_history": [
@@ -29042,8 +29064,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2191,
+    "accounts_total": 2192,
     "created": "1754829154",
-    "last_updated": 1763294519,
+    "last_updated": 1763294579,
     "server_region": "asia_pacific"
 }
