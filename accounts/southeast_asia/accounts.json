@@ -2363,8 +2363,8 @@
             "crew_name": "VN-Archon",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2405310.5,
-            "last_seen": 1762866202,
+            "hp": 2344346.5,
+            "last_seen": 1763305551,
             "level": 100,
             "name": "HuyetNgoc",
             "name_history": [
@@ -7295,8 +7295,8 @@
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_5",
             "gender": 1,
-            "hp": 2482471.75,
-            "last_seen": 1762431948,
+            "hp": 2490299.0,
+            "last_seen": 1763305551,
             "level": 100,
             "name": "Kuz",
             "name_history": [
@@ -10398,9 +10398,15 @@
         "68775311358116": {
             "crew_id": 184683609733,
             "crew_name": "Guardian",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1759152960,
+            "hp": 2349255.0,
+            "last_seen": 1763305551,
+            "level": 100,
             "name": "gunben ",
+            "name_history": [
+                "gunben "
+            ],
             "registered": "Aug 13, 2022, 1:42:55 PM",
             "role_id": 68775311358116,
             "server_region": "southeast_asia"
@@ -19791,6 +19797,22 @@
             "role_id": 68775311756704,
             "server_region": "southeast_asia"
         },
+        "68775311756734": {
+            "crew_id": 4041564241545,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 804897.625,
+            "last_seen": 1763305551,
+            "level": 75,
+            "name": "Nuclear",
+            "name_history": [
+                "Nuclear"
+            ],
+            "registered": "Nov 5, 2025, 10:52:47 PM",
+            "role_id": 68775311756734,
+            "server_region": "southeast_asia"
+        },
         "68775311756757": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
@@ -24949,8 +24971,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1899,
+    "accounts_total": 1900,
     "created": 1753795148,
-    "last_updated": 1763305491,
+    "last_updated": 1763305551,
     "server_region": "southeast_asia"
 }
