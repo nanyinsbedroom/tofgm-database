@@ -578,9 +578,15 @@
         "55843164806887": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
+            "equipping_title": "Tencent_Sever_60",
             "gender": 1,
-            "last_seen": 1757780361,
+            "hp": 2237688.5,
+            "last_seen": 1763406129,
+            "level": 100,
             "name": "Zyrata",
+            "name_history": [
+                "Zyrata"
+            ],
             "registered": "Aug 11, 2022, 8:42:24 AM",
             "role_id": 55843164806887,
             "server_region": "europe"
@@ -7927,6 +7933,22 @@
             "role_id": 55963424137139,
             "server_region": "europe"
         },
+        "55963424142653": {
+            "crew_id": 536870925014,
+            "crew_name": "Hello Kitty ",
+            "equipping_title": "Title_iwshare_os_24",
+            "gender": 0,
+            "hp": 1779416.0,
+            "last_seen": 1763406129,
+            "level": 100,
+            "name": "Ice Rafo",
+            "name_history": [
+                "Ice Rafo"
+            ],
+            "registered": "Aug 9, 2023, 3:26:49 PM",
+            "role_id": 55963424142653,
+            "server_region": "europe"
+        },
         "55963424146217": {
             "crew_id": 0,
             "crew_name": "",
@@ -8902,10 +8924,13 @@
             "crew_name": "ColdHeart",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 2658927.75,
-            "last_seen": 1760375756,
+            "hp": 2476108.5,
+            "last_seen": 1763406129,
             "level": 100,
             "name": "Tati777",
+            "name_history": [
+                "Tati777"
+            ],
             "registered": "May 10, 2024, 11:15:59 PM",
             "role_id": 55963424544468,
             "server_region": "europe"
@@ -9662,9 +9687,15 @@
         "55963424674067": {
             "crew_id": 146028901069,
             "crew_name": "Lost Souls",
+            "equipping_title": "Title_tencentshare_os_21",
             "gender": 0,
-            "last_seen": 1757785948,
+            "hp": 956454.75,
+            "last_seen": 1763406129,
+            "level": 100,
             "name": "Testfortof",
+            "name_history": [
+                "Testfortof"
+            ],
             "registered": "Feb 27, 2025, 2:12:42 AM",
             "role_id": 55963424674067,
             "server_region": "europe"
@@ -13262,10 +13293,10 @@
         "55976308808710": {
             "crew_id": 5634997105357,
             "crew_name": "Tower of Dance",
-            "equipping_title": "2_10_1_2",
+            "equipping_title": "1_1_6_1",
             "gender": 1,
-            "hp": 1406861.75,
-            "last_seen": 1762009537,
+            "hp": 1821992.375,
+            "last_seen": 1763406129,
             "level": 100,
             "name": "Aristana",
             "name_history": [
@@ -13445,8 +13476,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1011,
+    "accounts_total": 1012,
     "created": "1753816624",
-    "last_updated": 1763406069,
+    "last_updated": 1763406129,
     "server_region": "europe"
 }
