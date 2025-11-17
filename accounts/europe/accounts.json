@@ -1630,6 +1630,22 @@
             "role_id": 55856049730419,
             "server_region": "europe"
         },
+        "55856049730639": {
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "アニメZAIKA的导师,0",
+            "gender": 1,
+            "hp": 1720055.125,
+            "last_seen": 1763406628,
+            "level": 100,
+            "name": "         ",
+            "name_history": [
+                "         "
+            ],
+            "registered": "Aug 12, 2022, 5:45:55 PM",
+            "role_id": 55856049730639,
+            "server_region": "europe"
+        },
         "55856049730745": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
@@ -2312,7 +2328,7 @@
             "equipping_title": " Red Panda的启迪人,1",
             "gender": 0,
             "hp": 2498677.25,
-            "last_seen": 1763404507,
+            "last_seen": 1763406628,
             "level": 100,
             "name": "Koji ツ",
             "name_history": [
@@ -2832,10 +2848,13 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "1_6_1_8",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": 1760375876,
+            "hp": 3000194.0,
+            "last_seen": 1763406628,
             "level": 100,
             "name": "Aremerel",
+            "name_history": [
+                "Aremerel"
+            ],
             "registered": "Aug 11, 2022, 5:59:25 PM",
             "role_id": 55864639651316,
             "server_region": "europe"
@@ -3876,7 +3895,7 @@
             "equipping_title": "Allynna的后继者,1",
             "gender": 0,
             "hp": 2377057.0,
-            "last_seen": 1763404507,
+            "last_seen": 1763406628,
             "level": 100,
             "name": "AresZ",
             "name_history": [
@@ -4863,8 +4882,8 @@
             "crew_name": "New Hope",
             "equipping_title": "2_12_1_1",
             "gender": 1,
-            "hp": 2785021.75,
-            "last_seen": 1762276859,
+            "hp": 2758812.75,
+            "last_seen": 1763406628,
             "level": 100,
             "name": "Livonya",
             "name_history": [
@@ -5016,12 +5035,15 @@
         "55894704426444": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
-            "equipping_title": "2_2_0_26",
+            "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 2626319.0,
-            "last_seen": 1760457734,
+            "hp": 3027373.25,
+            "last_seen": 1763406628,
             "level": 100,
             "name": " Curvy",
+            "name_history": [
+                " Curvy"
+            ],
             "registered": "Aug 11, 2022, 6:59:44 PM",
             "role_id": 55894704426444,
             "server_region": "europe"
@@ -8232,8 +8254,8 @@
             "crew_name": "New Hope",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2832311.0,
-            "last_seen": 1763310651,
+            "hp": 2832310.0,
+            "last_seen": 1763406628,
             "level": 100,
             "name": "Arcany",
             "name_history": [
@@ -13462,9 +13484,15 @@
         "55972014018610": {
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
+            "equipping_title": "2_2_0_2",
             "gender": 1,
-            "last_seen": 1757958150,
+            "hp": 2132632.0,
+            "last_seen": 1763406628,
+            "level": 100,
             "name": "Nyasudah",
+            "name_history": [
+                "Nyasudah"
+            ],
             "registered": "Jun 6, 2023, 2:56:00 PM",
             "role_id": 55972014018610,
             "server_region": "europe"
@@ -13704,8 +13732,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1024,
+    "accounts_total": 1025,
     "created": "1753816624",
-    "last_updated": 1763406568,
+    "last_updated": 1763406628,
     "server_region": "europe"
 }
