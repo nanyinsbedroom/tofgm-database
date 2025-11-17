@@ -7322,10 +7322,13 @@
             "crew_name": "Asylum",
             "equipping_title": "Tencent_Sever_85",
             "gender": 0,
-            "hp": 2007090.5,
-            "last_seen": 1761603126,
+            "hp": 2010126.375,
+            "last_seen": 1763406009,
             "level": 100,
             "name": "Wouter",
+            "name_history": [
+                "Wouter"
+            ],
             "registered": "Aug 12, 2022, 2:00:20 PM",
             "role_id": 55950538998176,
             "server_region": "europe"
@@ -7377,10 +7380,13 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2011936.75,
-            "last_seen": 1761603126,
+            "hp": 1752328.5,
+            "last_seen": 1763406009,
             "level": 100,
             "name": "CoolSam",
+            "name_history": [
+                "CoolSam"
+            ],
             "registered": "Aug 18, 2022, 6:01:38 PM",
             "role_id": 55950539031567,
             "server_region": "europe"
@@ -9299,6 +9305,22 @@
             "name": "Takaa Shigani",
             "registered": "Oct 28, 2024, 10:11:49 PM",
             "role_id": 55963424630559,
+            "server_region": "europe"
+        },
+        "55963424632382": {
+            "crew_id": 90194326221,
+            "crew_name": "TheEnd",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 376281.25,
+            "last_seen": 1763406009,
+            "level": 66,
+            "name": "XwolfmoonX",
+            "name_history": [
+                "XwolfmoonX"
+            ],
+            "registered": "Nov 3, 2024, 4:15:12 PM",
+            "role_id": 55963424632382,
             "server_region": "europe"
         },
         "55963424639908": {
@@ -13356,8 +13378,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1006,
+    "accounts_total": 1007,
     "created": "1753816624",
-    "last_updated": 1763405949,
+    "last_updated": 1763406009,
     "server_region": "europe"
 }
