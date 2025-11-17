@@ -2548,10 +2548,13 @@
             "crew_name": "Asylum",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2387936.5,
-            "last_seen": 1761069626,
+            "hp": 2379936.5,
+            "last_seen": 1763406249,
             "level": 100,
             "name": "Rex007",
+            "name_history": [
+                "Rex007"
+            ],
             "registered": "Aug 11, 2022, 1:52:28 AM",
             "role_id": 55864639621463,
             "server_region": "europe"
@@ -5036,10 +5039,13 @@
             "crew_name": "Bad Company",
             "equipping_title": "1_1_26_1",
             "gender": 0,
-            "hp": 2654204.5,
-            "last_seen": 1760555225,
+            "hp": 2181800.5,
+            "last_seen": 1763406249,
             "level": 100,
             "name": "Telscaroll",
+            "name_history": [
+                "Telscaroll"
+            ],
             "registered": "Aug 12, 2022, 10:45:56 PM",
             "role_id": 55894704440917,
             "server_region": "europe"
@@ -8592,11 +8598,17 @@
             "server_region": "europe"
         },
         "55963424441485": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "Title_tencentshare_os_14",
             "gender": 1,
-            "last_seen": 1758222518,
+            "hp": 2095837.375,
+            "last_seen": 1763406249,
+            "level": 100,
             "name": "Eutanassya",
+            "name_history": [
+                "Eutanassya"
+            ],
             "registered": "Feb 12, 2024, 4:38:01 AM",
             "role_id": 55963424441485,
             "server_region": "europe"
@@ -9951,6 +9963,22 @@
             "name": "Ƭwistex",
             "registered": "Apr 19, 2025, 5:11:27 AM",
             "role_id": 55963424691707,
+            "server_region": "europe"
+        },
+        "55963424692893": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1900689.75,
+            "last_seen": 1763406249,
+            "level": 100,
+            "name": "Zavio",
+            "name_history": [
+                "Zavio"
+            ],
+            "registered": "Apr 23, 2025, 11:10:01 AM",
+            "role_id": 55963424692893,
             "server_region": "europe"
         },
         "55963424693436": {
@@ -12779,6 +12807,22 @@
             "role_id": 55963424735019,
             "server_region": "europe"
         },
+        "55963424735669": {
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 813059.1875,
+            "last_seen": 1763406249,
+            "level": 72,
+            "name": "0-0",
+            "name_history": [
+                "0-0"
+            ],
+            "registered": "Nov 12, 2025, 3:48:44 AM",
+            "role_id": 55963424735669,
+            "server_region": "europe"
+        },
         "55963424735896": {
             "crew_id": 0,
             "crew_name": "",
@@ -13508,8 +13552,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1014,
+    "accounts_total": 1016,
     "created": "1753816624",
-    "last_updated": 1763406189,
+    "last_updated": 1763406249,
     "server_region": "europe"
 }
