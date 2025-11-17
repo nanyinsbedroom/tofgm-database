@@ -4310,10 +4310,13 @@
             "crew_name": "Architects",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2120699.75,
-            "last_seen": 1761603126,
+            "hp": 2106584.5,
+            "last_seen": 1763405949,
             "level": 100,
             "name": "karkar.",
+            "name_history": [
+                "karkar."
+            ],
             "registered": "Aug 11, 2022, 5:47:39 AM",
             "role_id": 55886114473178,
             "server_region": "europe"
@@ -5182,12 +5185,15 @@
         "55898999370760": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
-            "equipping_title": "Allynna's Apprentice,0",
+            "equipping_title": "Allynna的学徒,0",
             "gender": 1,
-            "hp": 2654118.5,
-            "last_seen": 1761603126,
+            "hp": 2676561.0,
+            "last_seen": 1763405949,
             "level": 100,
             "name": "Erufu",
+            "name_history": [
+                "Erufu"
+            ],
             "registered": "Aug 11, 2022, 5:05:01 AM",
             "role_id": 55898999370760,
             "server_region": "europe"
@@ -8646,9 +8652,15 @@
         "55963424478601": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
+            "equipping_title": "Title_tencentshare_os_10",
             "gender": 1,
-            "last_seen": 1759525567,
+            "hp": 1215597.375,
+            "last_seen": 1763405949,
+            "level": 100,
             "name": "★Erufu★",
+            "name_history": [
+                "★Erufu★"
+            ],
             "registered": "Mar 12, 2024, 8:16:57 PM",
             "role_id": 55963424478601,
             "server_region": "europe"
@@ -9091,8 +9103,8 @@
             "crew_name": "HollowHearts",
             "equipping_title": "1_1_27_1",
             "gender": 0,
-            "hp": 1853557.0,
-            "last_seen": 1762023976,
+            "hp": 1926580.75,
+            "last_seen": 1763405949,
             "level": 100,
             "name": " Nagumo",
             "name_history": [
@@ -13346,6 +13358,6 @@
     },
     "accounts_total": 1006,
     "created": "1753816624",
-    "last_updated": 1763405768,
+    "last_updated": 1763405949,
     "server_region": "europe"
 }
