@@ -649,9 +649,15 @@
         "55843164818727": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
+            "equipping_title": "1_8_0_24",
             "gender": 0,
-            "last_seen": 1759610417,
+            "hp": 2945473.75,
+            "last_seen": 1763406809,
+            "level": 100,
             "name": "Dragonzord",
+            "name_history": [
+                "Dragonzord"
+            ],
             "registered": "Aug 11, 2022, 1:53:05 PM",
             "role_id": 55843164818727,
             "server_region": "europe"
@@ -1245,6 +1251,22 @@
             "role_id": 55851754781297,
             "server_region": "europe"
         },
+        "55851754784161": {
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "2_5_0_5",
+            "gender": 0,
+            "hp": 2557221.5,
+            "last_seen": 1763406809,
+            "level": 100,
+            "name": "Kazorow",
+            "name_history": [
+                "Kazorow"
+            ],
+            "registered": "Aug 16, 2022, 11:42:32 PM",
+            "role_id": 55851754784161,
+            "server_region": "europe"
+        },
         "55851754786261": {
             "crew_id": 781684060899,
             "crew_name": "Heavens Souls",
@@ -1283,10 +1305,13 @@
             "crew_name": "Whalesong",
             "equipping_title": "Title_tencentshare_os_17",
             "gender": 1,
-            "hp": 2039107.25,
-            "last_seen": 1761600044,
+            "hp": 2342142.25,
+            "last_seen": 1763406809,
             "level": 100,
             "name": "Elerya ",
+            "name_history": [
+                "Elerya "
+            ],
             "registered": "Apr 20, 2023, 10:15:13 PM",
             "role_id": 55851754911919,
             "server_region": "europe"
@@ -3730,8 +3755,8 @@
             "crew_name": "Rebirth",
             "equipping_title": "1_8_0_18",
             "gender": 0,
-            "hp": 2674526.75,
-            "last_seen": 1763404507,
+            "hp": 2674526.5,
+            "last_seen": 1763406809,
             "level": 100,
             "name": "TinYin",
             "name_history": [
@@ -6080,7 +6105,7 @@
             "equipping_title": "Tencent_Sever_77",
             "gender": 1,
             "hp": 2695236.75,
-            "last_seen": 1763404327,
+            "last_seen": 1763406809,
             "level": 100,
             "name": ".Re-I.",
             "name_history": [
@@ -6593,7 +6618,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 2747248.0,
-            "last_seen": 1763404447,
+            "last_seen": 1763406809,
             "level": 100,
             "name": "FLeX.",
             "name_history": [
@@ -11021,8 +11046,8 @@
             "crew_name": "40°",
             "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 1739917.875,
-            "last_seen": 1762033213,
+            "hp": 1794269.25,
+            "last_seen": 1763406809,
             "level": 100,
             "name": "♡Ahegao♡",
             "name_history": [
@@ -13748,8 +13773,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1026,
+    "accounts_total": 1027,
     "created": "1753816624",
-    "last_updated": 1763406748,
+    "last_updated": 1763406809,
     "server_region": "europe"
 }
