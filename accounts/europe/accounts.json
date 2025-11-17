@@ -6513,10 +6513,10 @@
         "55920474278563": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
-            "equipping_title": "1_8_0_29",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2586476.0,
-            "last_seen": 1762452348,
+            "hp": 2942327.0,
+            "last_seen": 1763408923,
             "level": 100,
             "name": "Таура",
             "name_history": [
@@ -8273,6 +8273,22 @@
             "name": "losss",
             "registered": "Aug 10, 2023, 4:19:43 PM",
             "role_id": 55963424146217,
+            "server_region": "europe"
+        },
+        "55963424151735": {
+            "crew_id": 322122560209,
+            "crew_name": "Apocalypse ",
+            "equipping_title": "Dari的后继者,1",
+            "gender": 0,
+            "hp": 1370826.375,
+            "last_seen": 1763408923,
+            "level": 100,
+            "name": "InomaDunest",
+            "name_history": [
+                "InomaDunest"
+            ],
+            "registered": "Aug 12, 2023, 3:19:19 AM",
+            "role_id": 55963424151735,
             "server_region": "europe"
         },
         "55963424177597": {
@@ -12020,6 +12036,22 @@
             "role_id": 55963424727678,
             "server_region": "europe"
         },
+        "55963424727920": {
+            "crew_id": 8589947620,
+            "crew_name": "ColdHeart",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 748401.4375,
+            "last_seen": 1763408923,
+            "level": 100,
+            "name": "02Manu",
+            "name_history": [
+                "02Manu"
+            ],
+            "registered": "Sep 25, 2025, 10:35:37 AM",
+            "role_id": 55963424727920,
+            "server_region": "europe"
+        },
         "55963424728127": {
             "crew_id": 0,
             "crew_name": "",
@@ -13900,8 +13932,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1034,
+    "accounts_total": 1036,
     "created": "1753816624",
-    "last_updated": 1763408803,
+    "last_updated": 1763408923,
     "server_region": "europe"
 }
