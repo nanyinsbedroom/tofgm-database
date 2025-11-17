@@ -4696,12 +4696,15 @@
         "47279000008141": {
             "crew_id": 691489745664,
             "crew_name": "お子様らんち",
-            "equipping_title": "1_6_4_16",
+            "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 2486168.25,
-            "last_seen": 1761482518,
+            "hp": 2559864.25,
+            "last_seen": 1763382710,
             "level": 100,
             "name": "アイカ",
+            "name_history": [
+                "アイカ"
+            ],
             "registered": "Aug 11, 2022, 11:53:19 AM",
             "role_id": 47279000008141,
             "server_region": "asia_pacific"
@@ -12611,8 +12614,8 @@
             "crew_name": "Saints",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 2359385.0,
-            "last_seen": 1763294940,
+            "hp": 2248778.0,
+            "last_seen": 1763382710,
             "level": 100,
             "name": "GTtron",
             "name_history": [
@@ -25691,6 +25694,22 @@
             "role_id": 47364899419323,
             "server_region": "asia_pacific"
         },
+        "47364899444074": {
+            "crew_id": 107374193428,
+            "crew_name": "ねこちゃんず",
+            "equipping_title": "Title_tencentshare_os_15",
+            "gender": 0,
+            "hp": 2188034.25,
+            "last_seen": 1763382710,
+            "level": 100,
+            "name": "ヴァルサーク",
+            "name_history": [
+                "ヴァルサーク"
+            ],
+            "registered": "Aug 26, 2022, 6:14:15 PM",
+            "role_id": 47364899444074,
+            "server_region": "asia_pacific"
+        },
         "47364899446702": {
             "crew_id": 6708738927375,
             "crew_name": "すやー",
@@ -26782,9 +26801,15 @@
         "47382079263914": {
             "crew_id": 42949683980,
             "crew_name": "Eternal Sky",
+            "equipping_title": "えすぬこ的后继者,1",
             "gender": 1,
-            "last_seen": 1760274327,
+            "hp": 2506641.25,
+            "last_seen": 1763382710,
+            "level": 100,
             "name": "Feene",
+            "name_history": [
+                "Feene"
+            ],
             "registered": "Aug 17, 2022, 11:06:13 AM",
             "role_id": 47382079263914,
             "server_region": "asia_pacific"
@@ -29602,8 +29627,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2223,
+    "accounts_total": 2224,
     "created": "1754829154",
-    "last_updated": 1763382650,
+    "last_updated": 1763382710,
     "server_region": "asia_pacific"
 }
