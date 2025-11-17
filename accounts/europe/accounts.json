@@ -218,8 +218,8 @@
             "crew_name": "New Hope",
             "equipping_title": "Title_tencentshare_os_17",
             "gender": 0,
-            "hp": 2476779.25,
-            "last_seen": 1762454032,
+            "hp": 2487931.0,
+            "last_seen": 1763406989,
             "level": 100,
             "name": "Kisi Kozaki",
             "name_history": [
@@ -1482,9 +1482,15 @@
         "55856049703633": {
             "crew_id": 4475355935437,
             "crew_name": "Cherry Garden",
+            "equipping_title": "1_4_8_6",
             "gender": 1,
-            "last_seen": 1757960481,
+            "hp": 2612202.5,
+            "last_seen": 1763406989,
+            "level": 100,
             "name": "Акацуки",
+            "name_history": [
+                "Акацуки"
+            ],
             "registered": "Aug 11, 2022, 7:35:35 AM",
             "role_id": 55856049703633,
             "server_region": "europe"
@@ -2643,8 +2649,8 @@
             "crew_name": "Asylum",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2379936.5,
-            "last_seen": 1763406249,
+            "hp": 2382436.5,
+            "last_seen": 1763406989,
             "level": 100,
             "name": "Rex007",
             "name_history": [
@@ -4357,10 +4363,13 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "Tencent_Sever_70",
             "gender": 0,
-            "hp": 2281866.25,
-            "last_seen": 1761510502,
+            "hp": 2284846.0,
+            "last_seen": 1763406989,
             "level": 100,
             "name": "Lunatrius",
+            "name_history": [
+                "Lunatrius"
+            ],
             "registered": "Aug 11, 2022, 1:43:43 AM",
             "role_id": 55886114458829,
             "server_region": "europe"
@@ -5750,6 +5759,22 @@
             "name": "Resolaïbe",
             "registered": "Aug 17, 2022, 6:14:42 AM",
             "role_id": 55907589376979,
+            "server_region": "europe"
+        },
+        "55907589394941": {
+            "crew_id": 927712948953,
+            "crew_name": "MERCY",
+            "equipping_title": "2_3_0_2",
+            "gender": 1,
+            "hp": 1829955.25,
+            "last_seen": 1763406989,
+            "level": 100,
+            "name": "Saiika#c",
+            "name_history": [
+                "Saiika#c"
+            ],
+            "registered": "Sep 13, 2022, 2:37:50 PM",
+            "role_id": 55907589394941,
             "server_region": "europe"
         },
         "55907589395530": {
@@ -12420,8 +12445,8 @@
             "crew_name": "ColdHeart",
             "equipping_title": "1_4_4_7",
             "gender": 0,
-            "hp": 1204147.125,
-            "last_seen": 1763405768,
+            "hp": 1204925.75,
+            "last_seen": 1763406989,
             "level": 98,
             "name": "Johinger",
             "name_history": [
@@ -13773,8 +13798,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1027,
+    "accounts_total": 1028,
     "created": "1753816624",
-    "last_updated": 1763406809,
+    "last_updated": 1763406989,
     "server_region": "europe"
 }
