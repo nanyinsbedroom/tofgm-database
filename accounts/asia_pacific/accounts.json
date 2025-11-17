@@ -26476,10 +26476,13 @@
             "crew_name": "幻塔らいふ【未来を共に】",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 0,
-            "hp": 2644552.0,
-            "last_seen": 1761677501,
+            "hp": 2716006.5,
+            "last_seen": 1763382890,
             "level": 100,
             "name": "ラニ子",
+            "name_history": [
+                "ラニ子"
+            ],
             "registered": "Aug 16, 2022, 9:11:48 PM",
             "role_id": 47377784272689,
             "server_region": "asia_pacific"
@@ -27278,6 +27281,22 @@
             ],
             "registered": "Nov 5, 2022, 12:53:26 PM",
             "role_id": 47386374293977,
+            "server_region": "asia_pacific"
+        },
+        "47386374295428": {
+            "crew_id": 4179003190019,
+            "crew_name": "残響楽団",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2003407.875,
+            "last_seen": 1763382890,
+            "level": 100,
+            "name": "鈴成",
+            "name_history": [
+                "鈴成"
+            ],
+            "registered": "Nov 7, 2022, 8:01:13 PM",
+            "role_id": 47386374295428,
             "server_region": "asia_pacific"
         },
         "47386374296002": {
@@ -29627,8 +29646,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2224,
+    "accounts_total": 2225,
     "created": "1754829154",
-    "last_updated": 1763382710,
+    "last_updated": 1763382890,
     "server_region": "asia_pacific"
 }
