@@ -2510,9 +2510,15 @@
         "55860344784264": {
             "crew_id": 3302829863633,
             "crew_name": "Noble",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759526348,
-            "name": "Mitsuki☆",
+            "hp": 2634487.75,
+            "last_seen": 1763406309,
+            "level": 100,
+            "name": "Cyrene",
+            "name_history": [
+                "Cyrene"
+            ],
             "registered": "Dec 3, 2022, 11:49:01 PM",
             "role_id": 55860344784264,
             "server_region": "europe"
@@ -6621,9 +6627,15 @@
         "55929064155948": {
             "crew_id": 167503737566,
             "crew_name": "The Night Owls",
+            "equipping_title": "1_6_1_2",
             "gender": 1,
-            "last_seen": 1757960541,
+            "hp": 2105984.75,
+            "last_seen": 1763406309,
+            "level": 100,
             "name": "Ryuki",
+            "name_history": [
+                "Ryuki"
+            ],
             "registered": "Aug 11, 2022, 11:32:44 PM",
             "role_id": 55929064155948,
             "server_region": "europe"
@@ -6674,6 +6686,22 @@
             ],
             "registered": "Aug 12, 2022, 4:12:18 PM",
             "role_id": 55929064169131,
+            "server_region": "europe"
+        },
+        "55929064174651": {
+            "crew_id": 167503737566,
+            "crew_name": "The Night Owls",
+            "equipping_title": "2_2_0_2",
+            "gender": 1,
+            "hp": 2199111.25,
+            "last_seen": 1763406309,
+            "level": 100,
+            "name": "Rorri",
+            "name_history": [
+                "Rorri"
+            ],
+            "registered": "Aug 12, 2022, 9:12:40 PM",
+            "role_id": 55929064174651,
             "server_region": "europe"
         },
         "55929064174724": {
@@ -7422,6 +7450,22 @@
             "role_id": 55950538999386,
             "server_region": "europe"
         },
+        "55950539006640": {
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2115600.75,
+            "last_seen": 1763406309,
+            "level": 100,
+            "name": "Ocha#a",
+            "name_history": [
+                "Ocha#a"
+            ],
+            "registered": "Aug 12, 2022, 9:55:07 PM",
+            "role_id": 55950539006640,
+            "server_region": "europe"
+        },
         "55950539023340": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
@@ -7801,7 +7845,7 @@
             "equipping_title": "TinYin的学徒,0",
             "gender": 1,
             "hp": 2207391.75,
-            "last_seen": 1763400664,
+            "last_seen": 1763406309,
             "level": 100,
             "name": "Plüschi",
             "name_history": [
@@ -13552,8 +13596,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1016,
+    "accounts_total": 1018,
     "created": "1753816624",
-    "last_updated": 1763406249,
+    "last_updated": 1763406309,
     "server_region": "europe"
 }
