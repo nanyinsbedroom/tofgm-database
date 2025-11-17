@@ -112,8 +112,8 @@
             "crew_name": "Phantasia ",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2341102.5,
-            "last_seen": 1762336886,
+            "hp": 2360312.5,
+            "last_seen": 1763377294,
             "level": 100,
             "name": "Masfugo",
             "name_history": [
@@ -3807,9 +3807,15 @@
         "68736656773373": {
             "crew_id": 317827595913,
             "crew_name": "Valkyrie",
+            "equipping_title": "1_5_1_1",
             "gender": 0,
-            "last_seen": 1760302772,
+            "hp": 1482843.625,
+            "last_seen": 1763377294,
+            "level": 100,
             "name": "เบสเม่",
+            "name_history": [
+                "เบสเม่"
+            ],
             "registered": "Nov 6, 2022, 10:13:02 PM",
             "role_id": 68736656773373,
             "server_region": "southeast_asia"
@@ -8428,10 +8434,13 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 3316518.0,
-            "last_seen": 1761649675,
+            "hp": 2365315.5,
+            "last_seen": 1763377294,
             "level": 100,
             "name": "MorPhee",
+            "name_history": [
+                "MorPhee"
+            ],
             "registered": "Aug 12, 2022, 12:47:24 PM",
             "role_id": 68762426457141,
             "server_region": "southeast_asia"
@@ -22600,8 +22609,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 1792986.875,
-            "last_seen": 1763125991,
+            "hp": 1994509.875,
+            "last_seen": 1763377294,
             "level": 100,
             "name": "Jiyuunity",
             "name_history": [
@@ -25256,6 +25265,6 @@
     },
     "accounts_total": 1916,
     "created": 1753795148,
-    "last_updated": 1763377114,
+    "last_updated": 1763377294,
     "server_region": "southeast_asia"
 }
