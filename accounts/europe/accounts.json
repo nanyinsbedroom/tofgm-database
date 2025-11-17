@@ -1394,8 +1394,8 @@
             "crew_name": "Harmony",
             "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 2213198.25,
-            "last_seen": 1762277520,
+            "hp": 2224605.25,
+            "last_seen": 1763400724,
             "level": 100,
             "name": "Shana Leonhart ",
             "name_history": [
@@ -2915,12 +2915,15 @@
         "55868934590032": {
             "crew_id": 1653562421990,
             "crew_name": "Aurora",
-            "equipping_title": "MiNii♥'s Apprentice,0",
+            "equipping_title": "MiNii♥的学徒,0",
             "gender": 0,
-            "hp": 2360102.5,
-            "last_seen": 1761602466,
+            "hp": 2295877.0,
+            "last_seen": 1763400724,
             "level": 100,
             "name": "Karsui",
+            "name_history": [
+                "Karsui"
+            ],
             "registered": "Aug 11, 2022, 2:00:46 AM",
             "role_id": 55868934590032,
             "server_region": "europe"
@@ -2950,10 +2953,13 @@
             "crew_name": "Whalesong",
             "equipping_title": "Overseas2_10",
             "gender": 0,
-            "hp": 2125576.0,
-            "last_seen": 1761670950,
+            "hp": 2172483.5,
+            "last_seen": 1763400724,
             "level": 100,
             "name": "PSL95",
+            "name_history": [
+                "PSL95"
+            ],
             "registered": "Aug 11, 2022, 10:05:04 AM",
             "role_id": 55868934606450,
             "server_region": "europe"
@@ -7400,6 +7406,22 @@
             "role_id": 55963423948071,
             "server_region": "europe"
         },
+        "55963423950618": {
+            "crew_id": 34359751382,
+            "crew_name": "Bad Company",
+            "equipping_title": "Title_tencentshare_os_12",
+            "gender": 0,
+            "hp": 2362418.5,
+            "last_seen": 1763400724,
+            "level": 100,
+            "name": "Hizuru",
+            "name_history": [
+                "Hizuru"
+            ],
+            "registered": "Aug 28, 2022, 3:40:02 PM",
+            "role_id": 55963423950618,
+            "server_region": "europe"
+        },
         "55963423952808": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
@@ -10671,8 +10693,8 @@
             "crew_name": "Чистилище",
             "equipping_title": "Артио的学徒,0",
             "gender": 0,
-            "hp": 1482792.5,
-            "last_seen": 1762452769,
+            "hp": 1534434.0,
+            "last_seen": 1763400724,
             "level": 100,
             "name": "Mendell",
             "name_history": [
@@ -12499,8 +12521,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 956,
+    "accounts_total": 957,
     "created": "1753816624",
-    "last_updated": 1763400664,
+    "last_updated": 1763400724,
     "server_region": "europe"
 }
