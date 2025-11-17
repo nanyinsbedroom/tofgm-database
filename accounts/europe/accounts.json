@@ -1137,8 +1137,8 @@
             "crew_name": "New Hope",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2597035.5,
-            "last_seen": 1762111662,
+            "hp": 2551898.25,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "m0iKaTV",
             "name_history": [
@@ -4631,10 +4631,13 @@
             "crew_name": "Loli Lovers",
             "equipping_title": "1_1_7_2",
             "gender": 1,
-            "hp": 2285632.5,
-            "last_seen": 1761410376,
+            "hp": 2320903.25,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "Aiger#c",
+            "name_history": [
+                "Aiger#c"
+            ],
             "registered": "Aug 17, 2022, 11:59:10 PM",
             "role_id": 55886114541043,
             "server_region": "europe"
@@ -5304,8 +5307,8 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "Allynna的学徒,0",
             "gender": 1,
-            "hp": 2676561.0,
-            "last_seen": 1763405949,
+            "hp": 2676561.25,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "Erufu",
             "name_history": [
@@ -7278,9 +7281,15 @@
         "55946244029519": {
             "crew_id": 34359751382,
             "crew_name": "Bad Company",
+            "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 0,
-            "last_seen": 1757963063,
+            "hp": 2465549.5,
+            "last_seen": 1763406568,
+            "level": 100,
             "name": "Хилер",
+            "name_history": [
+                "Хилер"
+            ],
             "registered": "Aug 12, 2022, 1:29:09 PM",
             "role_id": 55946244029519,
             "server_region": "europe"
@@ -7381,10 +7390,10 @@
         "55950538970640": {
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
-            "equipping_title": "DarkBaum的学徒,0",
+            "equipping_title": "DarkBaum的后继者,1",
             "gender": 1,
-            "hp": 1854967.75,
-            "last_seen": 1762451687,
+            "hp": 2098296.0,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "Enfer",
             "name_history": [
@@ -7675,10 +7684,10 @@
         "55954833967699": {
             "crew_id": 2087354118865,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
-            "equipping_title": "Enfer的导师,0",
+            "equipping_title": "Enfer的启迪人,1",
             "gender": 0,
-            "hp": 2501414.5,
-            "last_seen": 1762451687,
+            "hp": 2517118.75,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "DarkBaum",
             "name_history": [
@@ -7747,6 +7756,22 @@
             ],
             "registered": "Aug 17, 2022, 2:23:48 PM",
             "role_id": 55954833998405,
+            "server_region": "europe"
+        },
+        "55954834031536": {
+            "crew_id": 2087354118865,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2528159.5,
+            "last_seen": 1763406568,
+            "level": 100,
+            "name": "Spoonhero",
+            "name_history": [
+                "Spoonhero"
+            ],
+            "registered": "Nov 11, 2022, 5:51:01 PM",
+            "role_id": 55954834031536,
             "server_region": "europe"
         },
         "55954834038135": {
@@ -8562,7 +8587,7 @@
             "equipping_title": "1_3_1_6",
             "gender": 0,
             "hp": 2493543.5,
-            "last_seen": 1763404327,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "Злонамеренная",
             "name_history": [
@@ -9298,8 +9323,8 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "hp": 0.0,
-            "last_seen": 1762111662,
+            "hp": 1929803.0,
+            "last_seen": 1763406568,
             "level": 100,
             "name": "mi_chan",
             "name_history": [
@@ -13679,8 +13704,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1023,
+    "accounts_total": 1024,
     "created": "1753816624",
-    "last_updated": 1763406508,
+    "last_updated": 1763406568,
     "server_region": "europe"
 }
