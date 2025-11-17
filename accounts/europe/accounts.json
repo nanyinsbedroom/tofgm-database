@@ -3075,6 +3075,22 @@
             "role_id": 55868934600803,
             "server_region": "europe"
         },
+        "55868934602245": {
+            "crew_id": 1438814057168,
+            "crew_name": "LesExplorateurs",
+            "equipping_title": "1_1_27_1",
+            "gender": 0,
+            "hp": 2386275.0,
+            "last_seen": 1763406069,
+            "level": 100,
+            "name": "TimeLibrary",
+            "name_history": [
+                "TimeLibrary"
+            ],
+            "registered": "Aug 11, 2022, 8:48:01 AM",
+            "role_id": 55868934602245,
+            "server_region": "europe"
+        },
         "55868934606450": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -5461,6 +5477,22 @@
             "role_id": 55903294407816,
             "server_region": "europe"
         },
+        "55907589302264": {
+            "crew_id": 1653562421990,
+            "crew_name": "Aurora",
+            "equipping_title": "1_2022",
+            "gender": 1,
+            "hp": 1954285.625,
+            "last_seen": 1763406069,
+            "level": 100,
+            "name": "Protamesh ",
+            "name_history": [
+                "Protamesh "
+            ],
+            "registered": "Aug 11, 2022, 4:35:32 AM",
+            "role_id": 55907589302264,
+            "server_region": "europe"
+        },
         "55907589309013": {
             "crew_id": 0,
             "crew_name": "",
@@ -6272,10 +6304,13 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_8_0_2",
             "gender": 0,
-            "hp": 50155.0,
-            "last_seen": 1760375876,
+            "hp": 2061603.0,
+            "last_seen": 1763406069,
             "level": 100,
             "name": "Aftar",
+            "name_history": [
+                "Aftar"
+            ],
             "registered": "Sep 9, 2022, 8:07:09 PM",
             "role_id": 55920474281313,
             "server_region": "europe"
@@ -7480,6 +7515,22 @@
             ],
             "registered": "Aug 11, 2022, 9:20:44 PM",
             "role_id": 55954833945466,
+            "server_region": "europe"
+        },
+        "55954833965166": {
+            "crew_id": 8589947620,
+            "crew_name": "ColdHeart",
+            "equipping_title": "1_7_1_2",
+            "gender": 0,
+            "hp": 2115102.25,
+            "last_seen": 1763406069,
+            "level": 100,
+            "name": "ShiniXT",
+            "name_history": [
+                "ShiniXT"
+            ],
+            "registered": "Aug 12, 2022, 4:20:54 PM",
+            "role_id": 55954833965166,
             "server_region": "europe"
         },
         "55954833967699": {
@@ -10349,6 +10400,22 @@
             "name": "R3N3G6D3",
             "registered": "Jun 29, 2025, 9:08:17 PM",
             "role_id": 55963424710308,
+            "server_region": "europe"
+        },
+        "55963424710353": {
+            "crew_id": 2662879736550,
+            "crew_name": "Night Raid",
+            "equipping_title": "1_9_0_2",
+            "gender": 1,
+            "hp": 1428694.125,
+            "last_seen": 1763406069,
+            "level": 100,
+            "name": "Mera",
+            "name_history": [
+                "Mera"
+            ],
+            "registered": "Jun 30, 2025, 1:39:13 AM",
+            "role_id": 55963424710353,
             "server_region": "europe"
         },
         "55963424710727": {
@@ -13378,8 +13445,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1007,
+    "accounts_total": 1011,
     "created": "1753816624",
-    "last_updated": 1763406009,
+    "last_updated": 1763406069,
     "server_region": "europe"
 }
