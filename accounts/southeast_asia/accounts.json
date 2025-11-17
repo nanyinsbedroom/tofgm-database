@@ -3566,10 +3566,13 @@
             "crew_name": "Guardians",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2417039.25,
-            "last_seen": 1760715651,
+            "hp": 1679381.125,
+            "last_seen": 1763375493,
             "level": 100,
             "name": "Petani kecil",
+            "name_history": [
+                "Petani kecil"
+            ],
             "registered": "Aug 26, 2022, 5:31:45 PM",
             "role_id": 68736656718786,
             "server_region": "southeast_asia"
@@ -4890,8 +4893,8 @@
             "crew_name": "Eroge",
             "equipping_title": "Ayin的后继者,1",
             "gender": 0,
-            "hp": 1889762.5,
-            "last_seen": 1762430566,
+            "hp": 1892628.75,
+            "last_seen": 1763375493,
             "level": 100,
             "name": "Salmon Sammy",
             "name_history": [
@@ -21012,8 +21015,8 @@
             "crew_name": "Eroge",
             "equipping_title": "Title_Overseas_12",
             "gender": 0,
-            "hp": 2243074.0,
-            "last_seen": 1762115177,
+            "hp": 2247928.75,
+            "last_seen": 1763375493,
             "level": 100,
             "name": "Internet Racxst",
             "name_history": [
@@ -23065,9 +23068,15 @@
         "68796786206221": {
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
+            "equipping_title": "1_1_11_1",
             "gender": 0,
-            "last_seen": 1756898295,
+            "hp": 2135470.5,
+            "last_seen": 1763375493,
+            "level": 100,
             "name": "Zoufeng",
+            "name_history": [
+                "Zoufeng"
+            ],
             "registered": "Aug 13, 2022, 12:31:57 AM",
             "role_id": 68796786206221,
             "server_region": "southeast_asia"
@@ -25167,6 +25176,6 @@
     },
     "accounts_total": 1911,
     "created": 1753795148,
-    "last_updated": 1763375433,
+    "last_updated": 1763375493,
     "server_region": "southeast_asia"
 }
