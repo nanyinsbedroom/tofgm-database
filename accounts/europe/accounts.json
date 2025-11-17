@@ -2226,7 +2226,7 @@
             "equipping_title": " Red Panda的启迪人,1",
             "gender": 0,
             "hp": 2498677.25,
-            "last_seen": 1763310651,
+            "last_seen": 1763404507,
             "level": 100,
             "name": "Koji ツ",
             "name_history": [
@@ -2732,9 +2732,15 @@
         "55864639652171": {
             "crew_id": 25769816783,
             "crew_name": "Centurium",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758220343,
+            "hp": 1936237.0,
+            "last_seen": 1763404507,
+            "level": 100,
             "name": "Alice 777",
+            "name_history": [
+                "Alice 777"
+            ],
             "registered": "Aug 11, 2022, 7:07:25 PM",
             "role_id": 55864639652171,
             "server_region": "europe"
@@ -3562,8 +3568,8 @@
             "crew_name": "Rebirth",
             "equipping_title": "1_8_0_18",
             "gender": 0,
-            "hp": 2923154.0,
-            "last_seen": 1762453010,
+            "hp": 2674526.75,
+            "last_seen": 1763404507,
             "level": 100,
             "name": "TinYin",
             "name_history": [
@@ -3724,12 +3730,15 @@
         "55877524527221": {
             "crew_id": 725849486034,
             "crew_name": "Harmony",
-            "equipping_title": "Allynna's Successor,1",
+            "equipping_title": "Allynna的后继者,1",
             "gender": 0,
-            "hp": 2303726.25,
-            "last_seen": 1761241350,
+            "hp": 2377057.0,
+            "last_seen": 1763404507,
             "level": 100,
             "name": "AresZ",
+            "name_history": [
+                "AresZ"
+            ],
             "registered": "Aug 11, 2022, 1:46:26 AM",
             "role_id": 55877524527221,
             "server_region": "europe"
@@ -4348,10 +4357,10 @@
         "55886114490805": {
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
-            "equipping_title": "Title_tencentshare_os_1",
+            "equipping_title": "Kscitron的导师,0",
             "gender": 0,
-            "hp": 1966599.0,
-            "last_seen": 1762452769,
+            "hp": 1883196.75,
+            "last_seen": 1763404507,
             "level": 100,
             "name": "FrozenPig",
             "name_history": [
@@ -5432,6 +5441,22 @@
             "name": "Sachat Stelater",
             "registered": "Aug 11, 2022, 2:15:50 PM",
             "role_id": 55907589326798,
+            "server_region": "europe"
+        },
+        "55907589328317": {
+            "crew_id": 2697239474913,
+            "crew_name": "Asylum",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2082415.75,
+            "last_seen": 1763404507,
+            "level": 100,
+            "name": "SonicTHI#a",
+            "name_history": [
+                "SonicTHI#a"
+            ],
+            "registered": "Aug 11, 2022, 3:04:56 PM",
+            "role_id": 55907589328317,
             "server_region": "europe"
         },
         "55907589331481": {
@@ -8408,9 +8433,15 @@
         "55963424462508": {
             "crew_id": 2087354118865,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758218248,
+            "hp": 1815705.5,
+            "last_seen": 1763404507,
+            "level": 100,
             "name": "Alyta",
+            "name_history": [
+                "Alyta"
+            ],
             "registered": "Feb 28, 2024, 2:54:33 AM",
             "role_id": 55963424462508,
             "server_region": "europe"
@@ -10890,6 +10921,22 @@
             "role_id": 55963424723470,
             "server_region": "europe"
         },
+        "55963424723501": {
+            "crew_id": 4063039075046,
+            "crew_name": "Skill Issue​",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 753311.875,
+            "last_seen": 1763404507,
+            "level": 62,
+            "name": "gabiXcX",
+            "name_history": [
+                "gabiXcX"
+            ],
+            "registered": "Aug 28, 2025, 10:08:39 AM",
+            "role_id": 55963424723501,
+            "server_region": "europe"
+        },
         "55963424723532": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
@@ -12757,6 +12804,22 @@
             "role_id": 55972013853432,
             "server_region": "europe"
         },
+        "55972013853890": {
+            "crew_id": 2087354118865,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "1_1_27_1",
+            "gender": 0,
+            "hp": 2096018.125,
+            "last_seen": 1763404507,
+            "level": 100,
+            "name": "Andajus",
+            "name_history": [
+                "Andajus"
+            ],
+            "registered": "Aug 20, 2022, 6:44:12 AM",
+            "role_id": 55972013853890,
+            "server_region": "europe"
+        },
         "55972013858544": {
             "crew_id": 0,
             "crew_name": "",
@@ -13115,8 +13178,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 993,
+    "accounts_total": 996,
     "created": "1753816624",
-    "last_updated": 1763404447,
+    "last_updated": 1763404507,
     "server_region": "europe"
 }
