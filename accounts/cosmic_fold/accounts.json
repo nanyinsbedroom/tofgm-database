@@ -5817,14 +5817,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695853539": {
-            "crew_id": 197568510420,
-            "crew_name": "末班车",
-            "equipping_title": "香奈美的主人的导师,0",
+            "crew_id": 42949687764,
+            "crew_name": "群星",
+            "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 568128.3125,
-            "last_seen": 1760898367,
-            "level": 61,
+            "hp": 848096.1875,
+            "last_seen": 1763490166,
+            "level": 71,
             "name": "香奈美",
+            "name_history": [
+                "香奈美"
+            ],
             "registered": "2025年9月25日 下午6:45:19",
             "role_id": 63582695853539,
             "server_region": "cosmic_fold"
@@ -38618,6 +38621,6 @@
     },
     "accounts_total": 3374,
     "created": 1758803451,
-    "last_updated": 1763489157,
+    "last_updated": 1763490166,
     "server_region": "cosmic_fold"
 }
