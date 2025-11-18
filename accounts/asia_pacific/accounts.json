@@ -1477,12 +1477,15 @@
         "47253230349569": {
             "crew_id": 4552665344762,
             "crew_name": "エリシオン",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": 1760355375,
+            "hp": 2612303.5,
+            "last_seen": 1763457127,
             "level": 100,
             "name": "ぶりぶりおじさん",
+            "name_history": [
+                "ぶりぶりおじさん"
+            ],
             "registered": "Oct 29, 2022, 8:55:26 PM",
             "role_id": 47253230349569,
             "server_region": "asia_pacific"
@@ -2098,6 +2101,22 @@
             "role_id": 47257525237600,
             "server_region": "asia_pacific"
         },
+        "47257525244535": {
+            "crew_id": 47244651259,
+            "crew_name": "もみじ組",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 1978831.875,
+            "last_seen": 1763457127,
+            "level": 100,
+            "name": "くぼちん",
+            "name_history": [
+                "くぼちん"
+            ],
+            "registered": "Aug 16, 2022, 11:27:31 PM",
+            "role_id": 47257525244535,
+            "server_region": "asia_pacific"
+        },
         "47257525265775": {
             "crew_id": 30064782076,
             "crew_name": "STLUCE",
@@ -2368,10 +2387,13 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 1669576.625,
-            "last_seen": 1761754264,
+            "hp": 1712919.5,
+            "last_seen": 1763457127,
             "level": 100,
             "name": "Harutea",
+            "name_history": [
+                "Harutea"
+            ],
             "registered": "Jun 12, 2023, 2:10:43 PM",
             "role_id": 47257526335374,
             "server_region": "asia_pacific"
@@ -30876,8 +30898,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2297,
+    "accounts_total": 2298,
     "created": "1754829154",
-    "last_updated": 1763456947,
+    "last_updated": 1763457127,
     "server_region": "asia_pacific"
 }
