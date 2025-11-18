@@ -6451,11 +6451,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695853939": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758807071,
+            "hp": 820375.625,
+            "last_seen": 1763488556,
+            "level": 71,
             "name": "梦枕",
+            "name_history": [
+                "梦枕"
+            ],
             "registered": "2025年9月25日 下午6:51:38",
             "role_id": 63582695853939,
             "server_region": "cosmic_fold"
@@ -38612,6 +38618,6 @@
     },
     "accounts_total": 3374,
     "created": 1758803451,
-    "last_updated": 1763487371,
+    "last_updated": 1763488556,
     "server_region": "cosmic_fold"
 }
