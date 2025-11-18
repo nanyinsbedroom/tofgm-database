@@ -573,7 +573,7 @@
             "equipping_title": "2_10_0_6",
             "gender": 0,
             "hp": 840970.375,
-            "last_seen": 1763483142,
+            "last_seen": 1763485269,
             "level": 71,
             "name": "Remmy",
             "name_history": [
@@ -15092,10 +15092,13 @@
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 684022.5625,
-            "last_seen": 1761914339,
-            "level": 67,
+            "hp": 851863.3125,
+            "last_seen": 1763485269,
+            "level": 71,
             "name": "一缸石榴",
+            "name_history": [
+                "一缸石榴"
+            ],
             "registered": "2025年9月25日 下午9:33:51",
             "role_id": 63582695861248,
             "server_region": "cosmic_fold"
@@ -17203,8 +17206,8 @@
             "crew_name": "破晓",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 855396.8125,
-            "last_seen": 1763483142,
+            "hp": 855911.5625,
+            "last_seen": 1763485269,
             "level": 71,
             "name": "gateoo",
             "name_history": [
@@ -31317,6 +31320,22 @@
             "role_id": 63582695905957,
             "server_region": "cosmic_fold"
         },
+        "63582695905961": {
+            "crew_id": 2400886733268,
+            "crew_name": "羽渡尘",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 103320.59375,
+            "last_seen": 1763485269,
+            "level": 69,
+            "name": "幻梦h",
+            "name_history": [
+                "幻梦h"
+            ],
+            "registered": "2025年10月4日 下午1:46:13",
+            "role_id": 63582695905961,
+            "server_region": "cosmic_fold"
+        },
         "63582695905970": {
             "crew_id": 0,
             "crew_name": "",
@@ -32460,6 +32479,22 @@
             "role_id": 63582695910718,
             "server_region": "cosmic_fold"
         },
+        "63582695910752": {
+            "crew_id": 158913804756,
+            "crew_name": "圣火喵喵教",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 112758.59375,
+            "last_seen": 1763485269,
+            "level": 69,
+            "name": "幻梦r",
+            "name_history": [
+                "幻梦r"
+            ],
+            "registered": "2025年10月5日 下午8:01:03",
+            "role_id": 63582695910752,
+            "server_region": "cosmic_fold"
+        },
         "63582695910796": {
             "crew_id": 1211180792276,
             "crew_name": "桃林阁",
@@ -32546,6 +32581,22 @@
             "name": "岛媾的野蝶",
             "registered": "2025年10月5日 下午9:08:46",
             "role_id": 63582695911001,
+            "server_region": "cosmic_fold"
+        },
+        "63582695911038": {
+            "crew_id": 81604393428,
+            "crew_name": "子凝",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 112528.203125,
+            "last_seen": 1763485269,
+            "level": 69,
+            "name": "幻梦t",
+            "name_history": [
+                "幻梦t"
+            ],
+            "registered": "2025年10月5日 下午9:22:20",
+            "role_id": 63582695911038,
             "server_region": "cosmic_fold"
         },
         "63582695911178": {
@@ -37980,6 +38031,22 @@
             "role_id": 63582695944521,
             "server_region": "cosmic_fold"
         },
+        "63582695944529": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 67192.796875,
+            "last_seen": 1763485269,
+            "level": 41,
+            "name": "流糸乃",
+            "name_history": [
+                "流糸乃"
+            ],
+            "registered": "2025年10月27日 上午11:21:43",
+            "role_id": 63582695944529,
+            "server_region": "cosmic_fold"
+        },
         "63582695944549": {
             "crew_id": 0,
             "crew_name": "",
@@ -38333,8 +38400,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3358,
+    "accounts_total": 3362,
     "created": 1758803451,
-    "last_updated": 1763483742,
+    "last_updated": 1763485269,
     "server_region": "cosmic_fold"
 }
