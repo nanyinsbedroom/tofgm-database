@@ -658,9 +658,15 @@
         "47248935633721": {
             "crew_id": 12884912889,
             "crew_name": "幻塔ファミリア",
+            "equipping_title": "1_1_11_1",
             "gender": 1,
-            "last_seen": 1759400941,
+            "hp": 1981087.75,
+            "last_seen": 1763471108,
+            "level": 100,
             "name": "「ゆずき」",
+            "name_history": [
+                "「ゆずき」"
+            ],
             "registered": "Dec 9, 2022, 3:57:00 AM",
             "role_id": 47248935633721,
             "server_region": "asia_pacific"
@@ -2802,6 +2808,22 @@
             "role_id": 47261820138076,
             "server_region": "asia_pacific"
         },
+        "47261820141798": {
+            "crew_id": 3066606660346,
+            "crew_name": "幻塔の黒騎士",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2576747.25,
+            "last_seen": 1763471108,
+            "level": 100,
+            "name": "megup",
+            "name_history": [
+                "megup"
+            ],
+            "registered": "Aug 11, 2022, 12:16:11 PM",
+            "role_id": 47261820141798,
+            "server_region": "asia_pacific"
+        },
         "47261820144905": {
             "crew_id": 42949683980,
             "crew_name": "Eternal Sky",
@@ -3375,6 +3397,22 @@
             ],
             "registered": "Jan 3, 2023, 9:22:58 AM",
             "role_id": 47261820282273,
+            "server_region": "asia_pacific"
+        },
+        "47261820779541": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Tencent_Sever_4",
+            "gender": 0,
+            "hp": 1315836.75,
+            "last_seen": 1763471108,
+            "level": 100,
+            "name": "chun-3-",
+            "name_history": [
+                "chun-3-"
+            ],
+            "registered": "Jan 16, 2023, 3:23:25 PM",
+            "role_id": 47261820779541,
             "server_region": "asia_pacific"
         },
         "47261820780262": {
@@ -4322,8 +4360,8 @@
             "crew_name": "アイダ民ファーストの会",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2793566.5,
-            "last_seen": 1763381409,
+            "hp": 2801166.5,
+            "last_seen": 1763471108,
             "level": 100,
             "name": "レグルス　",
             "name_history": [
@@ -26708,6 +26746,22 @@
             "role_id": 47356309469845,
             "server_region": "asia_pacific"
         },
+        "47356309474097": {
+            "crew_id": 1404454316818,
+            "crew_name": "偽りの自由",
+            "equipping_title": "Title_HalfAnniversary_os_2",
+            "gender": 1,
+            "hp": 1728492.75,
+            "last_seen": 1763471108,
+            "level": 100,
+            "name": "シーツー#c",
+            "name_history": [
+                "シーツー#c"
+            ],
+            "registered": "Aug 14, 2022, 6:43:45 AM",
+            "role_id": 47356309474097,
+            "server_region": "asia_pacific"
+        },
         "47356309477369": {
             "crew_id": 4260607568644,
             "crew_name": "ซามูไรพเนจร",
@@ -27231,6 +27285,22 @@
             "role_id": 47364899397077,
             "server_region": "asia_pacific"
         },
+        "47364899398761": {
+            "crew_id": 2345052154644,
+            "crew_name": "幻塔Memoria",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2492801.5,
+            "last_seen": 1763471108,
+            "level": 100,
+            "name": "コノシャ",
+            "name_history": [
+                "コノシャ"
+            ],
+            "registered": "Aug 15, 2022, 1:02:02 PM",
+            "role_id": 47364899398761,
+            "server_region": "asia_pacific"
+        },
         "47364899411088": {
             "crew_id": 107374193428,
             "crew_name": "ねこちゃんず",
@@ -27558,6 +27628,22 @@
             ],
             "registered": "Aug 16, 2022, 10:50:24 PM",
             "role_id": 47369194398277,
+            "server_region": "asia_pacific"
+        },
+        "47369194401796": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 1834999.25,
+            "last_seen": 1763471108,
+            "level": 100,
+            "name": "yoake#m",
+            "name_history": [
+                "yoake#m"
+            ],
+            "registered": "Aug 20, 2022, 2:30:37 PM",
+            "role_id": 47369194401796,
             "server_region": "asia_pacific"
         },
         "47369194409103": {
@@ -31386,8 +31472,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2324,
+    "accounts_total": 2329,
     "created": "1754829154",
-    "last_updated": 1763470988,
+    "last_updated": 1763471108,
     "server_region": "asia_pacific"
 }
