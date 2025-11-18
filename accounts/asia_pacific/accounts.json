@@ -1150,8 +1150,8 @@
             "crew_name": "夜空",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2046502.25,
-            "last_seen": 1762790532,
+            "hp": 2058464.625,
+            "last_seen": 1763440510,
             "level": 100,
             "name": "星竜",
             "name_history": [
@@ -6628,12 +6628,15 @@
         "47291884911360": {
             "crew_id": 2473901173507,
             "crew_name": "ユートピア",
-            "equipping_title": "2_12_1_1",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2844443.5,
-            "last_seen": 1761311041,
+            "hp": 2900890.5,
+            "last_seen": 1763440510,
             "level": 100,
             "name": "ゴーシュ",
+            "name_history": [
+                "ゴーシュ"
+            ],
             "registered": "Aug 11, 2022, 12:03:09 PM",
             "role_id": 47291884911360,
             "server_region": "asia_pacific"
@@ -9148,11 +9151,17 @@
             "server_region": "asia_pacific"
         },
         "47304769917469": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 347892361990,
+            "crew_name": "暇です！",
+            "equipping_title": "カナト的导师,0",
             "gender": 1,
-            "last_seen": 1758891576,
+            "hp": 2292547.5,
+            "last_seen": 1763440510,
+            "level": 100,
             "name": "蜜丘ユイ",
+            "name_history": [
+                "蜜丘ユイ"
+            ],
             "registered": "Oct 15, 2022, 8:46:09 AM",
             "role_id": 47304769917469,
             "server_region": "asia_pacific"
@@ -11934,10 +11943,10 @@
         "47334834573246": {
             "crew_id": 648540072703,
             "crew_name": "Alter",
-            "equipping_title": "1_1_7_2",
+            "equipping_title": "2_2_0_21",
             "gender": 0,
-            "hp": 2139535.75,
-            "last_seen": 1762319313,
+            "hp": 2198688.0,
+            "last_seen": 1763440510,
             "level": 100,
             "name": "逍遙πShoyo",
             "name_history": [
@@ -26114,6 +26123,22 @@
             "role_id": 47369194342929,
             "server_region": "asia_pacific"
         },
+        "47369194347367": {
+            "crew_id": 21474847524,
+            "crew_name": "Morning Star",
+            "equipping_title": "1_2022",
+            "gender": 1,
+            "hp": 1993226.125,
+            "last_seen": 1763440510,
+            "level": 100,
+            "name": " Kathleen ",
+            "name_history": [
+                " Kathleen "
+            ],
+            "registered": "Aug 15, 2022, 9:40:00 AM",
+            "role_id": 47369194347367,
+            "server_region": "asia_pacific"
+        },
         "47369194347815": {
             "crew_id": 1859720850197,
             "crew_name": "Various Colors葬",
@@ -29901,8 +29926,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2240,
+    "accounts_total": 2241,
     "created": "1754829154",
-    "last_updated": 1763440450,
+    "last_updated": 1763440510,
     "server_region": "asia_pacific"
 }
