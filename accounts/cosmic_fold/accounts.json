@@ -7728,6 +7728,22 @@
             "role_id": 63582695855334,
             "server_region": "cosmic_fold"
         },
+        "63582695855350": {
+            "crew_id": 42949687764,
+            "crew_name": "群星",
+            "equipping_title": "WorldBossDamage_3;boss_hum_082_world;27",
+            "gender": 1,
+            "hp": 831686.375,
+            "last_seen": 1763483322,
+            "level": 71,
+            "name": "泉此方",
+            "name_history": [
+                "泉此方"
+            ],
+            "registered": "2025年9月25日 下午7:10:35",
+            "role_id": 63582695855350,
+            "server_region": "cosmic_fold"
+        },
         "63582695855358": {
             "crew_id": 51539622356,
             "crew_name": "哈密达斯",
@@ -11827,11 +11843,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695858685": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 614180338132,
+            "crew_name": "梦想夏乡",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758910627,
+            "hp": 603709.25,
+            "last_seen": 1763483322,
+            "level": 71,
             "name": "海嘉德高级特工",
+            "name_history": [
+                "海嘉德高级特工"
+            ],
             "registered": "2025年9月25日 下午8:18:02",
             "role_id": 63582695858685,
             "server_region": "cosmic_fold"
@@ -13562,12 +13584,15 @@
         "63582695859806": {
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 681003.75,
-            "last_seen": 1761573358,
-            "level": 65,
+            "hp": 849190.9375,
+            "last_seen": 1763483322,
+            "level": 71,
             "name": "杰森伯恩",
+            "name_history": [
+                "杰森伯恩"
+            ],
             "registered": "2025年9月25日 下午8:48:34",
             "role_id": 63582695859806,
             "server_region": "cosmic_fold"
@@ -33390,6 +33415,22 @@
             "role_id": 63582695918093,
             "server_region": "cosmic_fold"
         },
+        "63582695918135": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 634389.0625,
+            "last_seen": 1763483322,
+            "level": 70,
+            "name": "信仰即可得救1",
+            "name_history": [
+                "信仰即可得救1"
+            ],
+            "registered": "2025年10月8日 上午7:35:55",
+            "role_id": 63582695918135,
+            "server_region": "cosmic_fold"
+        },
         "63582695918181": {
             "crew_id": 0,
             "crew_name": "",
@@ -38031,8 +38072,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3341,
+    "accounts_total": 3343,
     "created": 1758803451,
-    "last_updated": 1763483262,
+    "last_updated": 1763483322,
     "server_region": "cosmic_fold"
 }
