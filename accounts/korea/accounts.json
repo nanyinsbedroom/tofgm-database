@@ -466,8 +466,8 @@
             "crew_name": "쿵야",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1866573.625,
-            "last_seen": 1762011161,
+            "hp": 1878374.75,
+            "last_seen": 1763565076,
             "level": 100,
             "name": "Litsi",
             "name_history": [
@@ -1357,8 +1357,8 @@
             "crew_name": "환탑라이브",
             "equipping_title": "1_1_27_1",
             "gender": 1,
-            "hp": 1620634.875,
-            "last_seen": 1763373870,
+            "hp": 1617766.25,
+            "last_seen": 1763565076,
             "level": 100,
             "name": "동바리",
             "name_history": [
@@ -1501,6 +1501,22 @@
             "role_id": 42945816079541028,
             "server_region": "korea"
         },
+        "42945816079544355": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Title_Korea34_os12",
+            "gender": 1,
+            "hp": 1104058.5,
+            "last_seen": 1763565076,
+            "level": 100,
+            "name": "HernaSeed",
+            "name_history": [
+                "HernaSeed"
+            ],
+            "registered": "Jan 29, 2024, 4:10:36 PM",
+            "role_id": 42945816079544355,
+            "server_region": "korea"
+        },
         "42945816079546079": {
             "crew_id": 747334308606,
             "crew_name": "환탑라이브",
@@ -1556,9 +1572,15 @@
         "42945820374339995": {
             "crew_id": 17189868286,
             "crew_name": "쿵야",
+            "equipping_title": "혼자여행的启迪人,1",
             "gender": 1,
-            "last_seen": 1760111429,
+            "hp": 1855420.25,
+            "last_seen": 1763565076,
+            "level": 100,
             "name": "VI00IV",
+            "name_history": [
+                "VI00IV"
+            ],
             "registered": "Aug 11, 2022, 9:33:40 AM",
             "role_id": 42945820374339995,
             "server_region": "korea"
@@ -1937,6 +1959,22 @@
             "role_id": 42945828964297127,
             "server_region": "korea"
         },
+        "42945828964297316": {
+            "crew_id": 4304966401,
+            "crew_name": "여우사당",
+            "equipping_title": "Title_KoreaAnniversary22",
+            "gender": 1,
+            "hp": 2311527.0,
+            "last_seen": 1763565076,
+            "level": 100,
+            "name": "OV",
+            "name_history": [
+                "OV"
+            ],
+            "registered": "Aug 11, 2022, 9:14:40 PM",
+            "role_id": 42945828964297316,
+            "server_region": "korea"
+        },
         "42945828964300787": {
             "crew_id": 12894900989,
             "crew_name": "개척자",
@@ -2247,8 +2285,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 158,
+    "accounts_total": 160,
     "created": 1757257775,
-    "last_updated": 1763564896,
+    "last_updated": 1763565076,
     "server_region": "korea"
 }
