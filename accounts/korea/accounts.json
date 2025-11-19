@@ -761,9 +761,15 @@
         "42945816079374463": {
             "crew_id": 17189868288,
             "crew_name": "크라운산도",
+            "equipping_title": "2_10_1_3",
             "gender": 1,
-            "last_seen": 1760111129,
+            "hp": 2454978.25,
+            "last_seen": 1763561177,
+            "level": 100,
             "name": "Emperadium",
+            "name_history": [
+                "Emperadium"
+            ],
             "registered": "Aug 11, 2022, 9:08:00 AM",
             "role_id": 42945816079374463,
             "server_region": "korea"
@@ -1689,6 +1695,22 @@
             "role_id": 42945820374394499,
             "server_region": "korea"
         },
+        "42945824669305928": {
+            "crew_id": 747334308606,
+            "crew_name": "환탑라이브",
+            "equipping_title": "1_8_0_33",
+            "gender": 0,
+            "hp": 1875934.75,
+            "last_seen": 1763561177,
+            "level": 100,
+            "name": "캬롯",
+            "name_history": [
+                "캬롯"
+            ],
+            "registered": "Aug 11, 2022, 9:16:37 AM",
+            "role_id": 42945824669305928,
+            "server_region": "korea"
+        },
         "42945824669308329": {
             "crew_id": 17189868286,
             "crew_name": "쿵야",
@@ -1923,6 +1945,22 @@
             "name": "아이올레",
             "registered": "Aug 11, 2022, 10:08:35 PM",
             "role_id": 42945828964300787,
+            "server_region": "korea"
+        },
+        "42945828964303258": {
+            "crew_id": 747334308606,
+            "crew_name": "환탑라이브",
+            "equipping_title": "1_8_0_30",
+            "gender": 0,
+            "hp": 2173305.25,
+            "last_seen": 1763561177,
+            "level": 100,
+            "name": "해로운새",
+            "name_history": [
+                "해로운새"
+            ],
+            "registered": "Aug 11, 2022, 11:15:19 PM",
+            "role_id": 42945828964303258,
             "server_region": "korea"
         },
         "42945828964306870": {
@@ -2209,8 +2247,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 156,
+    "accounts_total": 158,
     "created": 1757257775,
-    "last_updated": 1763561116,
+    "last_updated": 1763561177,
     "server_region": "korea"
 }
