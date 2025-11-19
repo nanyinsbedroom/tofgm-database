@@ -2884,10 +2884,13 @@
             "crew_name": "Диван у Камина",
             "equipping_title": "2_10_1_7",
             "gender": 1,
-            "hp": 2540913.0,
-            "last_seen": 1760982758,
+            "hp": 2314842.75,
+            "last_seen": 1763577875,
             "level": 100,
             "name": "FidgetPrower",
+            "name_history": [
+                "FidgetPrower"
+            ],
             "registered": "Aug 11, 2022, 2:19:57 PM",
             "role_id": 55864639648574,
             "server_region": "europe"
@@ -8385,6 +8388,22 @@
             ],
             "registered": "Jan 15, 2023, 2:31:44 PM",
             "role_id": 55963423976072,
+            "server_region": "europe"
+        },
+        "55963424060069": {
+            "crew_id": 73014457035,
+            "crew_name": "Чистилище",
+            "equipping_title": "1_12_0_1",
+            "gender": 1,
+            "hp": 1858509.0,
+            "last_seen": 1763577875,
+            "level": 100,
+            "name": " Shi",
+            "name_history": [
+                " Shi"
+            ],
+            "registered": "Apr 27, 2023, 9:30:41 AM",
+            "role_id": 55963424060069,
             "server_region": "europe"
         },
         "55963424075203": {
@@ -14234,8 +14253,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1053,
+    "accounts_total": 1054,
     "created": "1753816624",
-    "last_updated": 1763577815,
+    "last_updated": 1763577875,
     "server_region": "europe"
 }
