@@ -1265,8 +1265,8 @@
             "crew_name": "Majin League",
             "equipping_title": "2_5_0_6",
             "gender": 0,
-            "hp": 2538332.0,
-            "last_seen": 1762002542,
+            "hp": 2550925.5,
+            "last_seen": 1763645575,
             "level": 100,
             "name": "Ryucai",
             "name_history": [
@@ -1887,8 +1887,8 @@
             "crew_name": "Tower of Dance",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 1664507.125,
-            "last_seen": 1763402547,
+            "hp": 1717508.875,
+            "last_seen": 1763645575,
             "level": 100,
             "name": "DimkaDobryak",
             "name_history": [
@@ -2469,6 +2469,22 @@
             "name": "YA-MI",
             "registered": "Aug 11, 2022, 4:21:34 AM",
             "role_id": 55860344667589,
+            "server_region": "europe"
+        },
+        "55860344685846": {
+            "crew_id": 34359751382,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 2220434.0,
+            "last_seen": 1763645575,
+            "level": 100,
+            "name": "Makaveli94",
+            "name_history": [
+                "Makaveli94"
+            ],
+            "registered": "Aug 11, 2022, 10:51:10 AM",
+            "role_id": 55860344685846,
             "server_region": "europe"
         },
         "55860344685934": {
@@ -8535,9 +8551,15 @@
         "55963423948071": {
             "crew_id": 64424522451,
             "crew_name": "Moonlight",
+            "equipping_title": "1_2022",
             "gender": 1,
-            "last_seen": 1757943179,
+            "hp": 1338876.625,
+            "last_seen": 1763645575,
+            "level": 100,
             "name": "Leyira",
+            "name_history": [
+                "Leyira"
+            ],
             "registered": "Aug 24, 2022, 8:32:17 PM",
             "role_id": 55963423948071,
             "server_region": "europe"
@@ -14831,8 +14853,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1089,
+    "accounts_total": 1090,
     "created": "1753816624",
-    "last_updated": 1763642060,
+    "last_updated": 1763645575,
     "server_region": "europe"
 }
