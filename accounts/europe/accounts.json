@@ -10067,8 +10067,8 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "1_1_24_1",
             "gender": 0,
-            "hp": 2351547.75,
-            "last_seen": 1763401548,
+            "hp": 2351548.0,
+            "last_seen": 1763657177,
             "level": 100,
             "name": "Hadouken",
             "name_history": [
@@ -10667,12 +10667,15 @@
         "55963424617810": {
             "crew_id": 365072233182,
             "crew_name": "French Guild",
-            "equipping_title": " sénna's Enlightener,1",
+            "equipping_title": " sénna的启迪人,1",
             "gender": 0,
-            "hp": 2753326.5,
-            "last_seen": 1760555225,
+            "hp": 2281464.75,
+            "last_seen": 1763657177,
             "level": 100,
             "name": "Majinis",
+            "name_history": [
+                "Majinis"
+            ],
             "registered": "Sep 23, 2024, 10:54:44 AM",
             "role_id": 55963424617810,
             "server_region": "europe"
@@ -10885,6 +10888,22 @@
             "name": "k1k1doyouloveme",
             "registered": "Jan 26, 2025, 5:49:35 PM",
             "role_id": 55963424661204,
+            "server_region": "europe"
+        },
+        "55963424662722": {
+            "crew_id": 14340895814374,
+            "crew_name": "melkyway",
+            "equipping_title": "Sussy Mita的导师,0",
+            "gender": 1,
+            "hp": 1740391.375,
+            "last_seen": 1763657177,
+            "level": 100,
+            "name": "Kissy Mita",
+            "name_history": [
+                "Kissy Mita"
+            ],
+            "registered": "Jan 31, 2025, 3:43:52 AM",
+            "role_id": 55963424662722,
             "server_region": "europe"
         },
         "55963424663733": {
@@ -14967,6 +14986,22 @@
             "role_id": 55967718897692,
             "server_region": "europe"
         },
+        "55967718913945": {
+            "crew_id": 365072233182,
+            "crew_name": "French Guild",
+            "equipping_title": "Majinis的后继者,1",
+            "gender": 1,
+            "hp": 1997240.375,
+            "last_seen": 1763657177,
+            "level": 100,
+            "name": " sénna",
+            "name_history": [
+                " sénna"
+            ],
+            "registered": "Sep 10, 2022, 1:33:48 PM",
+            "role_id": 55967718913945,
+            "server_region": "europe"
+        },
         "55967718915362": {
             "crew_id": 1864015819485,
             "crew_name": "BLACK CAT",
@@ -15246,8 +15281,8 @@
             "crew_name": "ColdHeart",
             "equipping_title": "2_2_0_2",
             "gender": 1,
-            "hp": 2132632.0,
-            "last_seen": 1763406628,
+            "hp": 2137909.75,
+            "last_seen": 1763657177,
             "level": 100,
             "name": "Nyasudah",
             "name_history": [
@@ -15492,8 +15527,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1126,
+    "accounts_total": 1128,
     "created": "1753816624",
-    "last_updated": 1763657057,
+    "last_updated": 1763657177,
     "server_region": "europe"
 }
