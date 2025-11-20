@@ -67,10 +67,10 @@
         "42945811784432898": {
             "crew_id": 1937040249597,
             "crew_name": "츄르",
-            "equipping_title": "1_4_1_4",
+            "equipping_title": "1_8_0_33",
             "gender": 1,
-            "hp": 2723798.5,
-            "last_seen": 1763373870,
+            "hp": 2723798.25,
+            "last_seen": 1763654892,
             "level": 100,
             "name": "Taksaka",
             "name_history": [
@@ -613,7 +613,7 @@
             "role_id": 42945811784596448,
             "server_region": "korea"
         },
-		"42945811784596906": {
+        "42945811784596906": {
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
@@ -2310,8 +2310,8 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 164,
+    "accounts_total": 161,
     "created": 1757257775,
-    "last_updated": 1763635010,
+    "last_updated": 1763654892,
     "server_region": "korea"
 }
