@@ -1220,8 +1220,8 @@
             "crew_name": "夜空",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2058464.625,
-            "last_seen": 1763469310,
+            "hp": 2058464.75,
+            "last_seen": 1763640739,
             "level": 100,
             "name": "星竜",
             "name_history": [
@@ -5220,6 +5220,22 @@
             ],
             "registered": "Aug 11, 2022, 10:22:06 AM",
             "role_id": 47279000005541,
+            "server_region": "asia_pacific"
+        },
+        "47279000006075": {
+            "crew_id": 3053721758464,
+            "crew_name": "Archivist",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 1,
+            "hp": 1986177.5,
+            "last_seen": 1763640739,
+            "level": 100,
+            "name": "紅玉",
+            "name_history": [
+                "紅玉"
+            ],
+            "registered": "Aug 11, 2022, 10:38:28 AM",
+            "role_id": 47279000006075,
             "server_region": "asia_pacific"
         },
         "47279000006618": {
@@ -32910,8 +32926,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2414,
+    "accounts_total": 2415,
     "created": "1754829154",
-    "last_updated": 1763640679,
+    "last_updated": 1763640739,
     "server_region": "asia_pacific"
 }
