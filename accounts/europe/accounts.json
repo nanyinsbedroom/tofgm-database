@@ -1319,11 +1319,17 @@
             "server_region": "europe"
         },
         "55851754790878": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 34359751372,
+            "crew_name": "Majin League",
+            "equipping_title": "2_5_0_6",
             "gender": 1,
-            "last_seen": 1757942302,
+            "hp": 1621144.75,
+            "last_seen": 1763641460,
+            "level": 100,
             "name": "Milenea",
+            "name_history": [
+                "Milenea"
+            ],
             "registered": "Aug 20, 2022, 8:45:42 AM",
             "role_id": 55851754790878,
             "server_region": "europe"
@@ -14680,6 +14686,6 @@
     },
     "accounts_total": 1080,
     "created": "1753816624",
-    "last_updated": 1763641400,
+    "last_updated": 1763641460,
     "server_region": "europe"
 }
