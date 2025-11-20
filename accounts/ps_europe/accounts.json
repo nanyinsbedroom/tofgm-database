@@ -37,10 +37,13 @@
             "crew_name": "Dystopia",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 0,
-            "hp": 814987.125,
-            "last_seen": 1761831211,
+            "hp": 937858.9375,
+            "last_seen": 1763653427,
             "level": 100,
             "name": "Akirato",
+            "name_history": [
+                "Akirato"
+            ],
             "registered": "Aug 6, 2023, 2:59:09 PM",
             "role_id": 8598528821562147,
             "server_region": "ps_europe"
@@ -685,7 +688,7 @@
             "equipping_title": "3_2025",
             "gender": 1,
             "hp": 434985.46875,
-            "last_seen": 1763651835,
+            "last_seen": 1763653427,
             "level": 100,
             "name": "Zidor",
             "name_history": [
@@ -3045,6 +3048,22 @@
             "role_id": 8598528822112488,
             "server_region": "ps_europe"
         },
+        "8598528822112757": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2544.55322265625,
+            "last_seen": 1763653427,
+            "level": 10,
+            "name": "Xmason",
+            "name_history": [
+                "Xmason"
+            ],
+            "registered": "Nov 16, 2025, 7:06:25 AM",
+            "role_id": 8598528822112757,
+            "server_region": "ps_europe"
+        },
         "8598528822113133": {
             "crew_id": 0,
             "crew_name": "",
@@ -3114,9 +3133,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 4404.396484375,
-            "last_seen": 1763651775,
-            "level": 12,
+            "hp": 4910.396484375,
+            "last_seen": 1763653427,
+            "level": 14,
             "name": "AHITA",
             "name_history": [
                 "AHITA"
@@ -3194,9 +3213,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 12726.91015625,
-            "last_seen": 1763651775,
-            "level": 21,
+            "hp": 19493.271484375,
+            "last_seen": 1763653427,
+            "level": 23,
             "name": "Lady  Emiko",
             "name_history": [
                 "Lady  Emiko"
@@ -3210,9 +3229,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 12933.990234375,
-            "last_seen": 1763651775,
-            "level": 19,
+            "hp": 13185.990234375,
+            "last_seen": 1763653427,
+            "level": 20,
             "name": "Grav arwin",
             "name_history": [
                 "Grav arwin"
@@ -3370,9 +3389,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 3475.524169921875,
-            "last_seen": 1763651775,
-            "level": 12,
+            "hp": 3653.138671875,
+            "last_seen": 1763653427,
+            "level": 13,
             "name": "Ischam",
             "name_history": [
                 "Ischam"
@@ -3402,8 +3421,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2618.480712890625,
-            "last_seen": 1763651775,
+            "hp": 2543.09521484375,
+            "last_seen": 1763653427,
             "level": 7,
             "name": "Moxnatka",
             "name_history": [
@@ -3418,9 +3437,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2039.5533447265625,
-            "last_seen": 1763651715,
-            "level": 5,
+            "hp": 2065.167724609375,
+            "last_seen": 1763653427,
+            "level": 6,
             "name": "penal_tale470",
             "name_history": [
                 "penal_tale470"
@@ -4209,8 +4228,8 @@
             "server_region": "ps_europe"
         }
     },
-    "accounts_total": 266,
+    "accounts_total": 267,
     "created": "1761831151",
-    "last_updated": 1763653367,
+    "last_updated": 1763653427,
     "server_region": "ps_europe"
 }
