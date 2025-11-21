@@ -1503,6 +1503,22 @@
             "role_id": 55851754922779,
             "server_region": "europe"
         },
+        "55851754928528": {
+            "crew_id": 296352756428,
+            "crew_name": "Celerity FR",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 1702370.5,
+            "last_seen": 1763752715,
+            "level": 100,
+            "name": "Sirris ",
+            "name_history": [
+                "Sirris "
+            ],
+            "registered": "May 26, 2023, 2:18:40 PM",
+            "role_id": 55851754928528,
+            "server_region": "europe"
+        },
         "55851754949622": {
             "crew_id": 365072233182,
             "crew_name": "French Guild",
@@ -7688,9 +7704,15 @@
         "55929064202739": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "last_seen": 1757958991,
+            "hp": 2457944.5,
+            "last_seen": 1763752715,
+            "level": 100,
             "name": "Tess o´Fee",
+            "name_history": [
+                "Tess o´Fee"
+            ],
             "registered": "Aug 17, 2022, 6:48:54 PM",
             "role_id": 55929064202739,
             "server_region": "europe"
@@ -12600,9 +12622,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1147392.75,
-            "last_seen": 1763641820,
-            "level": 94,
+            "hp": 1147645.75,
+            "last_seen": 1763752715,
+            "level": 95,
             "name": "DoraAttlee",
             "name_history": [
                 "DoraAttlee"
@@ -15954,8 +15976,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1153,
+    "accounts_total": 1154,
     "created": "1753816624",
-    "last_updated": 1763752655,
+    "last_updated": 1763752715,
     "server_region": "europe"
 }
