@@ -1482,8 +1482,8 @@
             "crew_name": "Grand Order",
             "equipping_title": "1_8_0_5",
             "gender": 1,
-            "hp": 1941367.0,
-            "last_seen": 1763579136,
+            "hp": 1992002.0,
+            "last_seen": 1763753436,
             "level": 100,
             "name": "Revere10",
             "name_history": [
@@ -7502,6 +7502,22 @@
             "role_id": 51629802336176,
             "server_region": "north_america"
         },
+        "51629802336931": {
+            "crew_id": 455266545381,
+            "crew_name": "Cat",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 978922.8125,
+            "last_seen": 1763753436,
+            "level": 96,
+            "name": "JONKLER",
+            "name_history": [
+                "JONKLER"
+            ],
+            "registered": "Oct 8, 2025, 1:43:03 PM",
+            "role_id": 51629802336931,
+            "server_region": "north_america"
+        },
         "51629802337185": {
             "crew_id": 17179881196,
             "crew_name": "Hololive",
@@ -9446,8 +9462,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 715,
+    "accounts_total": 716,
     "created": 1753804860,
-    "last_updated": 1763753375,
+    "last_updated": 1763753436,
     "server_region": "north_america"
 }
