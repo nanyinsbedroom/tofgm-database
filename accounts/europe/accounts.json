@@ -661,12 +661,15 @@
         "55843164813529": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "Ghoostyy's Mentor,0",
+            "equipping_title": "Ghoostyy的导师,0",
             "gender": 1,
             "hp": 2256468.25,
-            "last_seen": 1761410497,
+            "last_seen": 1763752294,
             "level": 100,
             "name": ".Xio",
+            "name_history": [
+                ".Xio"
+            ],
             "registered": "Aug 11, 2022, 10:41:32 AM",
             "role_id": 55843164813529,
             "server_region": "europe"
@@ -841,9 +844,15 @@
         "55843165003827": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
+            "equipping_title": "ke11ox的学徒,0",
             "gender": 1,
-            "last_seen": 1757780361,
+            "hp": 1831443.375,
+            "last_seen": 1763752294,
+            "level": 100,
             "name": " Warp",
+            "name_history": [
+                " Warp"
+            ],
             "registered": "Jun 28, 2023, 5:11:02 PM",
             "role_id": 55843165003827,
             "server_region": "europe"
@@ -1109,8 +1118,8 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "NicoNicoNii的启迪人,1",
             "gender": 1,
-            "hp": 2982798.75,
-            "last_seen": 1762112023,
+            "hp": 3001010.25,
+            "last_seen": 1763752294,
             "level": 100,
             "name": "Angostura",
             "name_history": [
@@ -9257,10 +9266,13 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "2_2_0_23",
             "gender": 1,
-            "hp": 1786342.125,
-            "last_seen": 1760375456,
+            "hp": 1774509.0,
+            "last_seen": 1763752294,
             "level": 100,
             "name": "Manic Dawn",
+            "name_history": [
+                "Manic Dawn"
+            ],
             "registered": "Jul 26, 2023, 11:30:16 AM",
             "role_id": 55963424110107,
             "server_region": "europe"
@@ -15429,8 +15441,8 @@
             "crew_name": "Rebirth",
             "equipping_title": "Title_txcreatos_01",
             "gender": 1,
-            "hp": 2511654.25,
-            "last_seen": 1762453130,
+            "hp": 2487642.0,
+            "last_seen": 1763752294,
             "level": 100,
             "name": "ke11ox",
             "name_history": [
@@ -15880,6 +15892,6 @@
     },
     "accounts_total": 1149,
     "created": "1753816624",
-    "last_updated": 1763752234,
+    "last_updated": 1763752294,
     "server_region": "europe"
 }
