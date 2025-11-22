@@ -11988,12 +11988,15 @@
         "63582695858438": {
             "crew_id": 304942692820,
             "crew_name": "快乐老家",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 481074.625,
-            "last_seen": 1760439296,
-            "level": 59,
+            "hp": 878056.0625,
+            "last_seen": 1763833330,
+            "level": 72,
             "name": "壮士先杀我队友",
+            "name_history": [
+                "壮士先杀我队友"
+            ],
             "registered": "2025年9月25日 下午8:11:52",
             "role_id": 63582695858438,
             "server_region": "cosmic_fold"
@@ -21364,9 +21367,15 @@
         "63582695867496": {
             "crew_id": 128849033684,
             "crew_name": "神待少女",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759679771,
+            "hp": 863694.6875,
+            "last_seen": 1763833330,
+            "level": 72,
             "name": "馒头",
+            "name_history": [
+                "馒头"
+            ],
             "registered": "2025年9月26日 上午9:01:36",
             "role_id": 63582695867496,
             "server_region": "cosmic_fold"
@@ -41929,6 +41938,6 @@
     },
     "accounts_total": 3565,
     "created": 1758803451,
-    "last_updated": 1763833270,
+    "last_updated": 1763833330,
     "server_region": "cosmic_fold"
 }
