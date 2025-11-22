@@ -12913,9 +12913,15 @@
         "68775311712433": {
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758354175,
+            "hp": 567180.75,
+            "last_seen": 1763789648,
+            "level": 100,
             "name": ".Hela.",
+            "name_history": [
+                ".Hela."
+            ],
             "registered": "Dec 11, 2024, 12:40:49 PM",
             "role_id": 68775311712433,
             "server_region": "southeast_asia"
@@ -20520,6 +20526,22 @@
             "role_id": 68775311757511,
             "server_region": "southeast_asia"
         },
+        "68775311757577": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 854777.5625,
+            "last_seen": 1763789648,
+            "level": 71,
+            "name": "Noriga",
+            "name_history": [
+                "Noriga"
+            ],
+            "registered": "Nov 18, 2025, 10:56:44 PM",
+            "role_id": 68775311757577,
+            "server_region": "southeast_asia"
+        },
         "68775311757682": {
             "crew_id": 0,
             "crew_name": "",
@@ -25648,8 +25670,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1936,
+    "accounts_total": 1937,
     "created": 1753795148,
-    "last_updated": 1763789588,
+    "last_updated": 1763789648,
     "server_region": "southeast_asia"
 }
