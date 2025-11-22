@@ -20324,14 +20324,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695865942": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "WorldBossDamage_3;幻蝎;22",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 495327.09375,
-            "last_seen": 1760440618,
-            "level": 59,
-            "name": "蜜雪肥肠奶茶",
+            "hp": 880719.5,
+            "last_seen": 1763819463,
+            "level": 72,
+            "name": "泡菜肉丝炒粉条",
+            "name_history": [
+                "泡菜肉丝炒粉条"
+            ],
             "registered": "2025年9月26日 上午1:35:14",
             "role_id": 63582695865942,
             "server_region": "cosmic_fold"
@@ -27768,6 +27771,22 @@
             "name": "猫羽雫",
             "registered": "2025年9月28日 下午12:35:14",
             "role_id": 63582695883555,
+            "server_region": "cosmic_fold"
+        },
+        "63582695883612": {
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "WorldBossDamage_3;boss_hum_067_World;17",
+            "gender": 1,
+            "hp": 934632.5,
+            "last_seen": 1763819463,
+            "level": 72,
+            "name": "青衫换酒尝",
+            "name_history": [
+                "青衫换酒尝"
+            ],
+            "registered": "2025年9月28日 下午12:47:56",
+            "role_id": 63582695883612,
             "server_region": "cosmic_fold"
         },
         "63582695883642": {
@@ -41440,8 +41459,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3540,
+    "accounts_total": 3541,
     "created": 1758803451,
-    "last_updated": 1763819403,
+    "last_updated": 1763819463,
     "server_region": "cosmic_fold"
 }
