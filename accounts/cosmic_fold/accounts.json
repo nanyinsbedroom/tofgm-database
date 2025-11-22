@@ -8220,13 +8220,16 @@
         },
         "63582695855571": {
             "crew_id": 146028902868,
-            "crew_name": "146028902868",
+            "crew_name": "NOVA学院",
             "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 655347.4375,
-            "last_seen": 1761573358,
-            "level": 65,
+            "hp": 886899.375,
+            "last_seen": 1763816625,
+            "level": 72,
             "name": "抖音NOVA",
+            "name_history": [
+                "抖音NOVA"
+            ],
             "registered": "2025年9月25日 下午7:14:57",
             "role_id": 63582695855571,
             "server_region": "cosmic_fold"
@@ -18096,6 +18099,22 @@
             "name": "耀无光",
             "registered": "2025年9月25日 下午11:09:27",
             "role_id": 63582695863760,
+            "server_region": "cosmic_fold"
+        },
+        "63582695863769": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "2_8_0_8",
+            "gender": 1,
+            "hp": 893666.625,
+            "last_seen": 1763816625,
+            "level": 72,
+            "name": "川沙妲己",
+            "name_history": [
+                "川沙妲己"
+            ],
+            "registered": "2025年9月25日 下午11:09:52",
+            "role_id": 63582695863769,
             "server_region": "cosmic_fold"
         },
         "63582695863777": {
@@ -35913,6 +35932,22 @@
             "role_id": 63582695925810,
             "server_region": "cosmic_fold"
         },
+        "63582695925823": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "WorldBossDamage_3;boss_hum_055_World;28",
+            "gender": 1,
+            "hp": 829824.1875,
+            "last_seen": 1763816625,
+            "level": 71,
+            "name": "血涂蝶",
+            "name_history": [
+                "血涂蝶"
+            ],
+            "registered": "2025年10月12日 下午8:43:19",
+            "role_id": 63582695925823,
+            "server_region": "cosmic_fold"
+        },
         "63582695925893": {
             "crew_id": 1713691965908,
             "crew_name": "乡北大调查",
@@ -39781,8 +39816,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3441,
+    "accounts_total": 3443,
     "created": 1758803451,
-    "last_updated": 1763816565,
+    "last_updated": 1763816625,
     "server_region": "cosmic_fold"
 }
