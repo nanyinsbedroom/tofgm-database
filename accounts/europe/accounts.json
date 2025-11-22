@@ -5942,12 +5942,15 @@
         "55894704471753": {
             "crew_id": 206158443217,
             "crew_name": "I Need Healing!",
-            "equipping_title": "Exetior's Apprentice,0",
+            "equipping_title": "Exetior的学徒,0",
             "gender": 1,
-            "hp": 1589080.625,
-            "last_seen": 1761241350,
+            "hp": 1606084.5,
+            "last_seen": 1763811385,
             "level": 100,
             "name": "Saiko__",
+            "name_history": [
+                "Saiko__"
+            ],
             "registered": "Aug 17, 2022, 8:49:23 PM",
             "role_id": 55894704471753,
             "server_region": "europe"
@@ -7386,7 +7389,7 @@
             "equipping_title": "2_8_0_2",
             "gender": 0,
             "hp": 2061603.0,
-            "last_seen": 1763494421,
+            "last_seen": 1763811385,
             "level": 100,
             "name": "Aftar",
             "name_history": [
@@ -11710,7 +11713,7 @@
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
             "hp": 760606.875,
-            "last_seen": 1763649553,
+            "last_seen": 1763811385,
             "level": 100,
             "name": "Тортик",
             "name_history": [
@@ -16307,6 +16310,6 @@
     },
     "accounts_total": 1174,
     "created": "1753816624",
-    "last_updated": 1763811265,
+    "last_updated": 1763811385,
     "server_region": "europe"
 }
