@@ -6164,11 +6164,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695853696": {
-            "crew_id": 12884916692,
-            "crew_name": "喵御宅",
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;1",
             "gender": 1,
-            "last_seen": 1758816580,
-            "name": "星野琉璃",
+            "hp": 958131.125,
+            "last_seen": 1763819343,
+            "level": 72,
+            "name": "蓝樱",
+            "name_history": [
+                "蓝樱"
+            ],
             "registered": "2025年9月25日 下午6:47:56",
             "role_id": 63582695853696,
             "server_region": "cosmic_fold"
@@ -15029,7 +15035,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 830753.6875,
-            "last_seen": 1763819098,
+            "last_seen": 1763819343,
             "level": 72,
             "name": "想跟艾卡姓艾喵",
             "name_history": [
@@ -19897,6 +19903,22 @@
             "role_id": 63582695865410,
             "server_region": "cosmic_fold"
         },
+        "63582695865415": {
+            "crew_id": 17179883988,
+            "crew_name": "月影",
+            "equipping_title": "1_1_11_1",
+            "gender": 1,
+            "hp": 911343.5625,
+            "last_seen": 1763819343,
+            "level": 72,
+            "name": "MX_BAKA",
+            "name_history": [
+                "MX_BAKA"
+            ],
+            "registered": "2025年9月26日 上午12:41:04",
+            "role_id": 63582695865415,
+            "server_region": "cosmic_fold"
+        },
         "63582695865418": {
             "crew_id": 0,
             "crew_name": "",
@@ -20074,12 +20096,15 @@
         "63582695865577": {
             "crew_id": 128849033684,
             "crew_name": "神待少女",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 442867.78125,
-            "last_seen": 1760441278,
-            "level": 59,
+            "hp": 891558.3125,
+            "last_seen": 1763819343,
+            "level": 72,
             "name": "蛋挞",
+            "name_history": [
+                "蛋挞"
+            ],
             "registered": "2025年9月26日 上午12:54:37",
             "role_id": 63582695865577,
             "server_region": "cosmic_fold"
@@ -20936,7 +20961,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 645696.125,
-            "last_seen": 1763819098,
+            "last_seen": 1763819343,
             "level": 71,
             "name": "洛淋",
             "name_history": [
@@ -22225,6 +22250,22 @@
             ],
             "registered": "2025年9月26日 下午2:47:50",
             "role_id": 63582695869381,
+            "server_region": "cosmic_fold"
+        },
+        "63582695869428": {
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 892190.9375,
+            "last_seen": 1763819343,
+            "level": 72,
+            "name": "天要下雨",
+            "name_history": [
+                "天要下雨"
+            ],
+            "registered": "2025年9月26日 下午2:55:08",
+            "role_id": 63582695869428,
             "server_region": "cosmic_fold"
         },
         "63582695869456": {
@@ -29179,7 +29220,7 @@
             "equipping_title": "2_10_1_7",
             "gender": 1,
             "hp": 918835.5625,
-            "last_seen": 1763819098,
+            "last_seen": 1763819343,
             "level": 72,
             "name": "牡丹皮",
             "name_history": [
@@ -40331,9 +40372,9 @@
             "crew_name": "塔学之家",
             "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;90",
             "gender": 1,
-            "hp": 267992.6875,
-            "last_seen": 1763487311,
-            "level": 61,
+            "hp": 411972.25,
+            "last_seen": 1763819343,
+            "level": 69,
             "name": "白默语",
             "name_history": [
                 "白默语"
@@ -41383,8 +41424,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3537,
+    "accounts_total": 3539,
     "created": 1758803451,
-    "last_updated": 1763819283,
+    "last_updated": 1763819343,
     "server_region": "cosmic_fold"
 }
