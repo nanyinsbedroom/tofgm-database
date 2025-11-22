@@ -12947,6 +12947,22 @@
             "role_id": 55963424712380,
             "server_region": "europe"
         },
+        "55963424712431": {
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 4084.364013671875,
+            "last_seen": 1763842837,
+            "level": 16,
+            "name": "Kiyu",
+            "name_history": [
+                "Kiyu"
+            ],
+            "registered": "Jul 10, 2025, 12:05:16 AM",
+            "role_id": 55963424712431,
+            "server_region": "europe"
+        },
         "55963424712757": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -14598,12 +14614,15 @@
         "55963424732357": {
             "crew_id": 17798344487654,
             "crew_name": "Chomépolu",
-            "equipping_title": "None",
+            "equipping_title": "HuntingRank_3;imitation_46;19",
             "gender": 1,
-            "hp": 936021.9375,
-            "last_seen": 1761411159,
-            "level": 79,
+            "hp": 1168388.875,
+            "last_seen": 1763842837,
+            "level": 100,
             "name": "Alien",
+            "name_history": [
+                "Alien"
+            ],
             "registered": "Oct 16, 2025, 5:25:08 PM",
             "role_id": 55963424732357,
             "server_region": "europe"
@@ -14959,6 +14978,22 @@
             "name": "Альтаїра",
             "registered": "Oct 26, 2025, 6:50:44 AM",
             "role_id": 55963424733604,
+            "server_region": "europe"
+        },
+        "55963424733628": {
+            "crew_id": 133143999181,
+            "crew_name": "New Era",
+            "equipping_title": "Overseas2_7",
+            "gender": 0,
+            "hp": 1260050.75,
+            "last_seen": 1763842837,
+            "level": 99,
+            "name": "исчезнувший",
+            "name_history": [
+                "исчезнувший"
+            ],
+            "registered": "Oct 26, 2025, 11:21:55 AM",
+            "role_id": 55963424733628,
             "server_region": "europe"
         },
         "55963424733633": {
@@ -16636,8 +16671,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1193,
+    "accounts_total": 1195,
     "created": "1753816624",
-    "last_updated": 1763842597,
+    "last_updated": 1763842837,
     "server_region": "europe"
 }
