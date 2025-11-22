@@ -878,10 +878,13 @@
             "crew_name": "Whalesong",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2325986.5,
-            "last_seen": 1761600044,
+            "hp": 1421595.25,
+            "last_seen": 1763809970,
             "level": 100,
             "name": "Luki™",
+            "name_history": [
+                "Luki™"
+            ],
             "registered": "Aug 11, 2022, 1:35:48 AM",
             "role_id": 55847459750588,
             "server_region": "europe"
@@ -1530,11 +1533,17 @@
             "server_region": "europe"
         },
         "55856049684623": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 2538325684941,
+            "crew_name": "  ",
+            "equipping_title": "Wolfyk的导师,0",
             "gender": 1,
-            "last_seen": 1758207099,
+            "hp": 1818073.875,
+            "last_seen": 1763809970,
+            "level": 100,
             "name": "Noelle",
+            "name_history": [
+                "Noelle"
+            ],
             "registered": "Aug 11, 2022, 1:32:34 AM",
             "role_id": 55856049684623,
             "server_region": "europe"
@@ -2759,6 +2768,22 @@
             ],
             "registered": "Aug 11, 2022, 3:00:41 PM",
             "role_id": 55860344695145,
+            "server_region": "europe"
+        },
+        "55860344704079": {
+            "crew_id": 781684060899,
+            "crew_name": "Heavens Souls",
+            "equipping_title": "Title_txxunhai_os01",
+            "gender": 0,
+            "hp": 1958366.625,
+            "last_seen": 1763809970,
+            "level": 100,
+            "name": " Tian",
+            "name_history": [
+                " Tian"
+            ],
+            "registered": "Aug 12, 2022, 1:14:42 AM",
+            "role_id": 55860344704079,
             "server_region": "europe"
         },
         "55860344715228": {
@@ -5243,6 +5268,22 @@
             "role_id": 55886114500078,
             "server_region": "europe"
         },
+        "55886114515567": {
+            "crew_id": 51539620554,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1825217.0,
+            "last_seen": 1763809970,
+            "level": 100,
+            "name": "Rezodo",
+            "name_history": [
+                "Rezodo"
+            ],
+            "registered": "Aug 13, 2022, 2:01:37 PM",
+            "role_id": 55886114515567,
+            "server_region": "europe"
+        },
         "55886114528366": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
@@ -6389,8 +6430,8 @@
             "crew_name": "Seventh Heaven",
             "equipping_title": "2_2_0_30",
             "gender": 0,
-            "hp": 2234302.75,
-            "last_seen": 1762277520,
+            "hp": 2199939.75,
+            "last_seen": 1763809970,
             "level": 100,
             "name": "Remmy",
             "name_history": [
@@ -9822,8 +9863,8 @@
             "crew_name": "Bad Company",
             "equipping_title": "2_2_0_27",
             "gender": 0,
-            "hp": 2403980.5,
-            "last_seen": 1763407049,
+            "hp": 2457459.5,
+            "last_seen": 1763809970,
             "level": 100,
             "name": "Obese",
             "name_history": [
@@ -12859,6 +12900,22 @@
             "name": "DriveLord",
             "registered": "Aug 11, 2025, 7:07:58 PM",
             "role_id": 55963424720292,
+            "server_region": "europe"
+        },
+        "55963424720409": {
+            "crew_id": 8589947620,
+            "crew_name": "ColdHeart",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 1038083.75,
+            "last_seen": 1763809970,
+            "level": 91,
+            "name": "Erghos",
+            "name_history": [
+                "Erghos"
+            ],
+            "registered": "Aug 12, 2025, 11:07:24 AM",
+            "role_id": 55963424720409,
             "server_region": "europe"
         },
         "55963424720489": {
@@ -16008,8 +16065,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1156,
+    "accounts_total": 1159,
     "created": "1753816624",
-    "last_updated": 1763809910,
+    "last_updated": 1763809970,
     "server_region": "europe"
 }
