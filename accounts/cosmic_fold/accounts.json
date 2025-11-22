@@ -1899,11 +1899,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695850923": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "1_1_28_1",
             "gender": 1,
-            "last_seen": 1758806591,
+            "hp": 929935.1875,
+            "last_seen": 1763817706,
+            "level": 72,
             "name": "绘梨猫",
+            "name_history": [
+                "绘梨猫"
+            ],
             "registered": "2025年9月25日 下午6:11:01",
             "role_id": 63582695850923,
             "server_region": "cosmic_fold"
@@ -29208,14 +29214,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695890324": {
-            "crew_id": 506806155732,
-            "crew_name": "露世里恶",
-            "equipping_title": "WorldBossDamage_4;英招;82",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 685150.0625,
-            "last_seen": 1761550819,
-            "level": 65,
+            "hp": 858036.625,
+            "last_seen": 1763817706,
+            "level": 72,
             "name": "临兵斗者",
+            "name_history": [
+                "临兵斗者"
+            ],
             "registered": "2025年9月30日 上午2:08:47",
             "role_id": 63582695890324,
             "server_region": "cosmic_fold"
@@ -32425,11 +32434,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695906759": {
-            "crew_id": 725849487828,
-            "crew_name": "投降喵",
+            "crew_id": 38654720468,
+            "crew_name": "萌团",
+            "equipping_title": "梨安的学徒,0",
             "gender": 1,
-            "last_seen": 1759679831,
-            "name": "溪言",
+            "hp": 485015.46875,
+            "last_seen": 1763817706,
+            "level": 71,
+            "name": "天绝音",
+            "name_history": [
+                "天绝音"
+            ],
             "registered": "2025年10月4日 下午5:24:16",
             "role_id": 63582695906759,
             "server_region": "cosmic_fold"
@@ -39823,6 +39838,22 @@
             "role_id": 63582695955369,
             "server_region": "cosmic_fold"
         },
+        "63582695956702": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1763817706,
+            "level": 4,
+            "name": "·白厄",
+            "name_history": [
+                "·白厄"
+            ],
+            "registered": "2025年11月10日 下午3:23:36",
+            "role_id": 63582695956702,
+            "server_region": "cosmic_fold"
+        },
         "63582695956873": {
             "crew_id": 304942692820,
             "crew_name": "快乐老家",
@@ -40205,6 +40236,22 @@
             ],
             "registered": "2025年11月19日 上午11:54:50",
             "role_id": 63582695962358,
+            "server_region": "cosmic_fold"
+        },
+        "63582695962449": {
+            "crew_id": 2503965948372,
+            "crew_name": "云梦泽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 83547.3984375,
+            "last_seen": 1763817706,
+            "level": 58,
+            "name": "惊",
+            "name_history": [
+                "惊"
+            ],
+            "registered": "2025年11月19日 下午3:49:55",
+            "role_id": 63582695962449,
             "server_region": "cosmic_fold"
         },
         "63582695962553": {
@@ -40622,10 +40669,42 @@
             "registered": "2025年11月22日 下午9:12:43",
             "role_id": 63582695964555,
             "server_region": "cosmic_fold"
+        },
+        "63582695964560": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1763817706,
+            "level": 1,
+            "name": "屿风",
+            "name_history": [
+                "屿风"
+            ],
+            "registered": "2025年11月22日 下午9:17:31",
+            "role_id": 63582695964560,
+            "server_region": "cosmic_fold"
+        },
+        "63582695964563": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": 1763817706,
+            "level": 2,
+            "name": "审判者",
+            "name_history": [
+                "审判者"
+            ],
+            "registered": "2025年11月22日 下午9:17:50",
+            "role_id": 63582695964563,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3492,
+    "accounts_total": 3496,
     "created": 1758803451,
-    "last_updated": 1763817646,
+    "last_updated": 1763817706,
     "server_region": "cosmic_fold"
 }
