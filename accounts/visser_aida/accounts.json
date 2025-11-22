@@ -59,9 +59,15 @@
         "60563333860530": {
             "crew_id": 1039382099740,
             "crew_name": "花涧",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759408540,
+            "hp": 1850665.0,
+            "last_seen": 1763821854,
+            "level": 100,
             "name": "青黛.",
+            "name_history": [
+                "青黛."
+            ],
             "registered": "2021年12月16日 下午12:31:42",
             "role_id": 60563333860530,
             "server_region": "visser_aida"
@@ -1790,7 +1796,7 @@
             "equipping_title": "1_7_1_3",
             "gender": 1,
             "hp": 1659432.875,
-            "last_seen": 1763820917,
+            "last_seen": 1763821854,
             "level": 100,
             "name": "梦梦·贝莉雅·",
             "name_history": [
@@ -7083,6 +7089,6 @@
     },
     "accounts_total": 603,
     "created": 1758086949,
-    "last_updated": 1763821493,
+    "last_updated": 1763821854,
     "server_region": "visser_aida"
 }
