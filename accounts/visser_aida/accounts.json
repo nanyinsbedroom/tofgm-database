@@ -4045,10 +4045,13 @@
             "crew_name": "天空之城",
             "equipping_title": "2_11_1_2",
             "gender": 0,
-            "hp": 2312465.0,
-            "last_seen": 1761917502,
+            "hp": 2069671.625,
+            "last_seen": 1763820617,
             "level": 100,
             "name": "Sussy",
+            "name_history": [
+                "Sussy"
+            ],
             "registered": "2022年9月9日 下午6:55:25",
             "role_id": 61014305735280,
             "server_region": "visser_aida"
@@ -4445,6 +4448,22 @@
             "name": "皮克利诺",
             "registered": "2021年12月16日 下午9:59:14",
             "role_id": 61065845047529,
+            "server_region": "visser_aida"
+        },
+        "61065845060394": {
+            "crew_id": 180388640639,
+            "crew_name": "黑色蔷薇",
+            "equipping_title": "2_3_0_1",
+            "gender": 1,
+            "hp": 837611.4375,
+            "last_seen": 1763820617,
+            "level": 100,
+            "name": "玛尔杏",
+            "name_history": [
+                "玛尔杏"
+            ],
+            "registered": "2021年12月18日 下午10:58:04",
+            "role_id": 61065845060394,
             "server_region": "visser_aida"
         },
         "61070140005112": {
@@ -6067,6 +6086,22 @@
             "role_id": 62298500660489,
             "server_region": "visser_aida"
         },
+        "62302795645419": {
+            "crew_id": 3959959861014,
+            "crew_name": "-ONE-",
+            "equipping_title": "2_11_1_1",
+            "gender": 1,
+            "hp": 1973015.25,
+            "last_seen": 1763820617,
+            "level": 100,
+            "name": "游兮丶不归",
+            "name_history": [
+                "游兮丶不归"
+            ],
+            "registered": "2022年1月5日 下午6:54:41",
+            "role_id": 62302795645419,
+            "server_region": "visser_aida"
+        },
         "62311385554043": {
             "crew_id": 0,
             "crew_name": "",
@@ -6491,8 +6526,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 568,
+    "accounts_total": 570,
     "created": 1758086949,
-    "last_updated": 1763820557,
+    "last_updated": 1763820617,
     "server_region": "visser_aida"
 }
