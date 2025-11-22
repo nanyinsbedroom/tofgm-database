@@ -33700,11 +33700,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695912486": {
-            "crew_id": 1000727394772,
-            "crew_name": "小疯",
+            "crew_id": 42949687764,
+            "crew_name": "群星",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759956677,
-            "name": "二相性人格",
+            "hp": 494296.96875,
+            "last_seen": 1763817285,
+            "level": 71,
+            "name": "本条二亚亚",
+            "name_history": [
+                "本条二亚亚"
+            ],
             "registered": "2025年10月6日 上午11:40:53",
             "role_id": 63582695912486,
             "server_region": "cosmic_fold"
@@ -36075,8 +36081,8 @@
             "crew_name": "NOVA学院",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 401549.90625,
-            "last_seen": 1763483442,
+            "hp": 541304.8125,
+            "last_seen": 1763817285,
             "level": 71,
             "name": "AZR",
             "name_history": [
@@ -38608,6 +38614,22 @@
             "role_id": 63582695933731,
             "server_region": "cosmic_fold"
         },
+        "63582695933816": {
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 346904.8125,
+            "last_seen": 1763817285,
+            "level": 61,
+            "name": "逃离早八",
+            "name_history": [
+                "逃离早八"
+            ],
+            "registered": "2025年10月18日 下午6:22:35",
+            "role_id": 63582695933816,
+            "server_region": "cosmic_fold"
+        },
         "63582695933945": {
             "crew_id": 0,
             "crew_name": "",
@@ -40025,10 +40047,90 @@
             "registered": "2025年11月22日 下午7:43:33",
             "role_id": 63582695964461,
             "server_region": "cosmic_fold"
+        },
+        "63582695964529": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25510.0,
+            "last_seen": 1763817285,
+            "level": 8,
+            "name": "991",
+            "name_history": [
+                "991"
+            ],
+            "registered": "2025年11月22日 下午8:42:04",
+            "role_id": 63582695964529,
+            "server_region": "cosmic_fold"
+        },
+        "63582695964543": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": 1763817285,
+            "level": 2,
+            "name": "艾草",
+            "name_history": [
+                "艾草"
+            ],
+            "registered": "2025年11月22日 下午8:56:18",
+            "role_id": 63582695964543,
+            "server_region": "cosmic_fold"
+        },
+        "63582695964552": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": 1763817285,
+            "level": 2,
+            "name": "九谭",
+            "name_history": [
+                "九谭"
+            ],
+            "registered": "2025年11月22日 下午9:07:03",
+            "role_id": 63582695964552,
+            "server_region": "cosmic_fold"
+        },
+        "63582695964553": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1763817285,
+            "level": 1,
+            "name": "琏",
+            "name_history": [
+                "琏"
+            ],
+            "registered": "2025年11月22日 下午9:08:22",
+            "role_id": 63582695964553,
+            "server_region": "cosmic_fold"
+        },
+        "63582695964555": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1763817285,
+            "level": 1,
+            "name": "风间琉璃LL",
+            "name_history": [
+                "风间琉璃LL"
+            ],
+            "registered": "2025年11月22日 下午9:12:43",
+            "role_id": 63582695964555,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3456,
+    "accounts_total": 3462,
     "created": 1758803451,
-    "last_updated": 1763817225,
+    "last_updated": 1763817285,
     "server_region": "cosmic_fold"
 }
