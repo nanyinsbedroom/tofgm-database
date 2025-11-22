@@ -1849,10 +1849,13 @@
             "crew_name": "天空之城",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 2137243.5,
-            "last_seen": 1761569146,
+            "hp": 2165743.5,
+            "last_seen": 1763822334,
             "level": 100,
             "name": "吃不饱的兔子",
+            "name_history": [
+                "吃不饱的兔子"
+            ],
             "registered": "2021年12月16日 上午9:25:54",
             "role_id": 60580513721198,
             "server_region": "visser_aida"
@@ -2097,6 +2100,22 @@
             ],
             "registered": "2022年6月29日 下午10:06:43",
             "role_id": 60584808909494,
+            "server_region": "visser_aida"
+        },
+        "60584809620917": {
+            "crew_id": 1958505101084,
+            "crew_name": "星海旅人",
+            "equipping_title": "2_8_0_2",
+            "gender": 1,
+            "hp": 1643623.75,
+            "last_seen": 1763822334,
+            "level": 100,
+            "name": "蛋糕酱ww",
+            "name_history": [
+                "蛋糕酱ww"
+            ],
+            "registered": "2022年12月12日 上午10:40:51",
+            "role_id": 60584809620917,
             "server_region": "visser_aida"
         },
         "60584809651275": {
@@ -3304,10 +3323,13 @@
             "crew_name": "星海旅人",
             "equipping_title": "溯回音沢的后继者,1",
             "gender": 1,
-            "hp": 1544043.25,
-            "last_seen": 1761920749,
+            "hp": 1643052.25,
+            "last_seen": 1763822334,
             "level": 100,
             "name": "人靓声劲甜",
+            "name_history": [
+                "人靓声劲甜"
+            ],
             "registered": "2021年12月16日 上午9:36:06",
             "role_id": 60636348296194,
             "server_region": "visser_aida"
@@ -3556,12 +3578,15 @@
         "60649233207873": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
-            "equipping_title": "诗夏的启迪人,1",
+            "equipping_title": "木瓜星灵格诺诺的启迪人,1",
             "gender": 1,
-            "hp": 2296644.25,
-            "last_seen": 1761920689,
+            "hp": 2198503.0,
+            "last_seen": 1763822334,
             "level": 100,
             "name": "诗羽白",
+            "name_history": [
+                "诗羽白"
+            ],
             "registered": "2021年12月16日 下午12:37:58",
             "role_id": 60649233207873,
             "server_region": "visser_aida"
@@ -7231,8 +7256,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 609,
+    "accounts_total": 610,
     "created": 1758086949,
-    "last_updated": 1763822274,
+    "last_updated": 1763822334,
     "server_region": "visser_aida"
 }
