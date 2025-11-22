@@ -703,6 +703,22 @@
             "role_id": 60567630415012,
             "server_region": "visser_aida"
         },
+        "60567630417336": {
+            "crew_id": 111669163898,
+            "crew_name": "暮光之城",
+            "equipping_title": "1_1_23_1",
+            "gender": 1,
+            "hp": 1783678.75,
+            "last_seen": 1763820797,
+            "level": 100,
+            "name": "奥奇的奇妙冒险",
+            "name_history": [
+                "奥奇的奇妙冒险"
+            ],
+            "registered": "2024年8月22日 下午10:48:42",
+            "role_id": 60567630417336,
+            "server_region": "visser_aida"
+        },
         "60567630418067": {
             "crew_id": 2044404447000,
             "crew_name": "漂移猫车驾校",
@@ -1611,10 +1627,13 @@
             "crew_name": "白晝梦",
             "equipping_title": "1_2021",
             "gender": 1,
-            "hp": 2188423.5,
-            "last_seen": 1760971674,
+            "hp": 2412365.25,
+            "last_seen": 1763820797,
             "level": 100,
-            "name": "葱葱葱心",
+            "name": "月雨忆歌里",
+            "name_history": [
+                "月雨忆歌里"
+            ],
             "registered": "2021年12月17日 上午11:32:12",
             "role_id": 60576218776915,
             "server_region": "visser_aida"
@@ -3480,9 +3499,15 @@
         "60657823134609": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
+            "equipping_title": "2_10_1_3",
             "gender": 1,
-            "last_seen": 1759760971,
+            "hp": 2152914.5,
+            "last_seen": 1763820797,
+            "level": 100,
             "name": "卷卷鳕",
+            "name_history": [
+                "卷卷鳕"
+            ],
             "registered": "2021年12月16日 上午10:04:17",
             "role_id": 60657823134609,
             "server_region": "visser_aida"
@@ -4647,10 +4672,13 @@
             "crew_name": "天空之城",
             "equipping_title": "2_2_0_15",
             "gender": 0,
-            "hp": 2396790.5,
-            "last_seen": 1761917502,
+            "hp": 2355304.0,
+            "last_seen": 1763820797,
             "level": 100,
             "name": "gateoo",
+            "name_history": [
+                "gateoo"
+            ],
             "registered": "2021年12月16日 下午2:01:06",
             "role_id": 61074434972107,
             "server_region": "visser_aida"
@@ -6711,8 +6739,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 581,
+    "accounts_total": 582,
     "created": 1758086949,
-    "last_updated": 1763820737,
+    "last_updated": 1763820797,
     "server_region": "visser_aida"
 }
