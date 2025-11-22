@@ -633,9 +633,9 @@
             "crew_name": "群星",
             "equipping_title": "老婆的导师,0",
             "gender": 0,
-            "hp": 848211.9375,
-            "last_seen": 1763483682,
-            "level": 71,
+            "hp": 927000.0,
+            "last_seen": 1763819283,
+            "level": 72,
             "name": "老公",
             "name_history": [
                 "老公"
@@ -22739,6 +22739,22 @@
             "role_id": 63582695870400,
             "server_region": "cosmic_fold"
         },
+        "63582695870407": {
+            "crew_id": 339302431188,
+            "crew_name": "幻神",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 762096.0,
+            "last_seen": 1763819283,
+            "level": 71,
+            "name": "总之就是这样",
+            "name_history": [
+                "总之就是这样"
+            ],
+            "registered": "2025年9月26日 下午5:04:00",
+            "role_id": 63582695870407,
+            "server_region": "cosmic_fold"
+        },
         "63582695870426": {
             "crew_id": 0,
             "crew_name": "",
@@ -29584,12 +29600,15 @@
         "63582695891550": {
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
-            "equipping_title": "游戏不欧现实欧的导师,0",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 548542.375,
-            "last_seen": 1760889444,
-            "level": 61,
+            "hp": 884796.375,
+            "last_seen": 1763819283,
+            "level": 72,
             "name": "子公初雪",
+            "name_history": [
+                "子公初雪"
+            ],
             "registered": "2025年9月30日 下午3:40:48",
             "role_id": 63582695891550,
             "server_region": "cosmic_fold"
@@ -39206,8 +39225,8 @@
             "crew_name": "耳狸窝",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 622379.3125,
-            "last_seen": 1763819098,
+            "hp": 644940.3125,
+            "last_seen": 1763819283,
             "level": 72,
             "name": "零号傲慢",
             "name_history": [
@@ -41364,8 +41383,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3536,
+    "accounts_total": 3537,
     "created": 1758803451,
-    "last_updated": 1763819098,
+    "last_updated": 1763819283,
     "server_region": "cosmic_fold"
 }
