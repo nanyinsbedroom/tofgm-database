@@ -8246,10 +8246,13 @@
             "crew_name": "破晓",
             "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 624234.5625,
-            "last_seen": 1761912439,
-            "level": 67,
+            "hp": 801878.1875,
+            "last_seen": 1763816565,
+            "level": 71,
             "name": "一路向北",
+            "name_history": [
+                "一路向北"
+            ],
             "registered": "2025年9月25日 下午7:15:23",
             "role_id": 63582695855586,
             "server_region": "cosmic_fold"
@@ -25596,12 +25599,15 @@
         "63582695876043": {
             "crew_id": 184683608532,
             "crew_name": "天月之境",
-            "equipping_title": "WorldBossDamage_3;阿比斯;纳克亚;18",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_083_world;1",
             "gender": 1,
-            "hp": 380575.15625,
-            "last_seen": 1760773536,
-            "level": 61,
+            "hp": 851933.625,
+            "last_seen": 1763816565,
+            "level": 72,
             "name": "烦",
+            "name_history": [
+                "烦"
+            ],
             "registered": "2025年9月27日 上午9:40:34",
             "role_id": 63582695876043,
             "server_region": "cosmic_fold"
@@ -39777,6 +39783,6 @@
     },
     "accounts_total": 3441,
     "created": 1758803451,
-    "last_updated": 1763816505,
+    "last_updated": 1763816565,
     "server_region": "cosmic_fold"
 }
