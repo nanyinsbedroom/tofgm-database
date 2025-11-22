@@ -1547,11 +1547,11 @@
         "8598528822097144": {
             "crew_id": 549757815891,
             "crew_name": "Rain",
-            "equipping_title": "Vonta的导师,0",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 724933.4375,
-            "last_seen": 1763653667,
-            "level": 81,
+            "hp": 718783.8125,
+            "last_seen": 1763848394,
+            "level": 83,
             "name": "ghosteye",
             "name_history": [
                 "ghosteye"
@@ -2328,6 +2328,22 @@
             "role_id": 8598528822101153,
             "server_region": "ps_europe"
         },
+        "8598528822101177": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 496206.09375,
+            "last_seen": 1763848394,
+            "level": 72,
+            "name": "Шейла",
+            "name_history": [
+                "Шейла"
+            ],
+            "registered": "Nov 2, 2025, 3:24:30 PM",
+            "role_id": 8598528822101177,
+            "server_region": "ps_europe"
+        },
         "8598528822101680": {
             "crew_id": 0,
             "crew_name": "",
@@ -2662,6 +2678,22 @@
             ],
             "registered": "Nov 7, 2025, 3:10:35 PM",
             "role_id": 8598528822105004,
+            "server_region": "ps_europe"
+        },
+        "8598528822105022": {
+            "crew_id": 6120330398801,
+            "crew_name": "Angels of Light",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 782752.8125,
+            "last_seen": 1763848394,
+            "level": 65,
+            "name": "Zer-0",
+            "name_history": [
+                "Zer-0"
+            ],
+            "registered": "Nov 7, 2025, 3:39:49 PM",
+            "role_id": 8598528822105022,
             "server_region": "ps_europe"
         },
         "8598528822105994": {
@@ -3448,6 +3480,22 @@
             "role_id": 8598528822114093,
             "server_region": "ps_europe"
         },
+        "8598528822114401": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 103417.3671875,
+            "last_seen": 1763848394,
+            "level": 32,
+            "name": "McBain",
+            "name_history": [
+                "McBain"
+            ],
+            "registered": "Nov 17, 2025, 11:14:40 PM",
+            "role_id": 8598528822114401,
+            "server_region": "ps_europe"
+        },
         "8598528822114641": {
             "crew_id": 0,
             "crew_name": "",
@@ -4102,6 +4150,38 @@
             ],
             "registered": "Nov 20, 2025, 4:56:18 PM",
             "role_id": 8598528822116679,
+            "server_region": "ps_europe"
+        },
+        "8598528822118603": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2115.134033203125,
+            "last_seen": 1763848394,
+            "level": 7,
+            "name": "DiazScrinbraker",
+            "name_history": [
+                "DiazScrinbraker"
+            ],
+            "registered": "Nov 22, 2025, 8:40:09 PM",
+            "role_id": 8598528822118603,
+            "server_region": "ps_europe"
+        },
+        "8598528822118609": {
+            "crew_id": 6356553600081,
+            "crew_name": "NOVA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 6778.55859375,
+            "last_seen": 1763848394,
+            "level": 17,
+            "name": "G12G",
+            "name_history": [
+                "G12G"
+            ],
+            "registered": "Nov 22, 2025, 8:44:50 PM",
+            "role_id": 8598528822118609,
             "server_region": "ps_europe"
         },
         "8598528822118623": {
@@ -5108,8 +5188,8 @@
             "server_region": "ps_europe"
         }
     },
-    "accounts_total": 322,
+    "accounts_total": 327,
     "created": "1761831151",
-    "last_updated": 1763848334,
+    "last_updated": 1763848394,
     "server_region": "ps_europe"
 }
