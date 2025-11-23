@@ -32369,11 +32369,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695901399": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 820338768340,
+            "crew_name": "抵达深空",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1759682894,
+            "hp": 163871.796875,
+            "last_seen": 1763943870,
+            "level": 56,
             "name": "寡欢",
+            "name_history": [
+                "寡欢"
+            ],
             "registered": "2025年10月3日 上午12:33:41",
             "role_id": 63582695901399,
             "server_region": "cosmic_fold"
@@ -43072,6 +43078,22 @@
             "role_id": 63582695964766,
             "server_region": "cosmic_fold"
         },
+        "63582695965102": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 28575.51171875,
+            "last_seen": 1763943870,
+            "level": 32,
+            "name": "魔王兔子",
+            "name_history": [
+                "魔王兔子"
+            ],
+            "registered": "2025年11月23日 下午1:58:10",
+            "role_id": 63582695965102,
+            "server_region": "cosmic_fold"
+        },
         "63582695965162": {
             "crew_id": 0,
             "crew_name": "",
@@ -43135,10 +43157,26 @@
             "registered": "2025年11月24日 上午12:04:39",
             "role_id": 63582695965589,
             "server_region": "cosmic_fold"
+        },
+        "63582695965591": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 27163.69921875,
+            "last_seen": 1763943870,
+            "level": 6,
+            "name": "听霜",
+            "name_history": [
+                "听霜"
+            ],
+            "registered": "2025年11月24日 上午12:09:07",
+            "role_id": 63582695965591,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3635,
+    "accounts_total": 3637,
     "created": 1758803451,
-    "last_updated": 1763943810,
+    "last_updated": 1763943870,
     "server_region": "cosmic_fold"
 }
