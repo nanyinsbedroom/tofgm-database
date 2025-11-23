@@ -557,9 +557,15 @@
         "42945811784595103": {
             "crew_id": 17189868288,
             "crew_name": "크라운산도",
+            "equipping_title": "火雷神的学徒,0",
             "gender": 0,
-            "last_seen": 1757327520,
+            "hp": 1526238.5,
+            "last_seen": 1763926988,
+            "level": 100,
             "name": "goatking",
+            "name_history": [
+                "goatking"
+            ],
             "registered": "May 24, 2025, 7:03:06 AM",
             "role_id": 42945811784595103,
             "server_region": "korea"
@@ -1613,7 +1619,7 @@
             "equipping_title": "혼자여행的启迪人,1",
             "gender": 1,
             "hp": 1855420.25,
-            "last_seen": 1763923065,
+            "last_seen": 1763926988,
             "level": 100,
             "name": "VI00IV",
             "name_history": [
@@ -2376,6 +2382,6 @@
     },
     "accounts_total": 165,
     "created": 1757257775,
-    "last_updated": 1763926806,
+    "last_updated": 1763926988,
     "server_region": "korea"
 }
