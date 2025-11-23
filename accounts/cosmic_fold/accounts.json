@@ -111,9 +111,15 @@
         "63582695850017": {
             "crew_id": 8589949396,
             "crew_name": "星辰",
+            "equipping_title": "非有想非无想的导师,0",
             "gender": 1,
-            "last_seen": 1759679771,
+            "hp": 902693.25,
+            "last_seen": 1763943990,
+            "level": 72,
             "name": "非无想非有想",
+            "name_history": [
+                "非无想非有想"
+            ],
             "registered": "2025年9月25日 下午6:01:55",
             "role_id": 63582695850017,
             "server_region": "cosmic_fold"
@@ -1040,12 +1046,15 @@
         "63582695850406": {
             "crew_id": 94489295316,
             "crew_name": "魅魔",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 362766.0,
-            "last_seen": 1760899309,
-            "level": 61,
+            "hp": 535162.8125,
+            "last_seen": 1763943990,
+            "level": 70,
             "name": "爱丽丝",
+            "name_history": [
+                "爱丽丝"
+            ],
             "registered": "2025年9月25日 下午6:05:49",
             "role_id": 63582695850406,
             "server_region": "cosmic_fold"
@@ -39650,6 +39659,22 @@
             "role_id": 63582695930678,
             "server_region": "cosmic_fold"
         },
+        "63582695930685": {
+            "crew_id": 1602022816212,
+            "crew_name": "刷公会奖励会",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 328638.8125,
+            "last_seen": 1763943990,
+            "level": 70,
+            "name": "邹蝈琼",
+            "name_history": [
+                "邹蝈琼"
+            ],
+            "registered": "2025年10月16日 下午7:14:48",
+            "role_id": 63582695930685,
+            "server_region": "cosmic_fold"
+        },
         "63582695930750": {
             "crew_id": 0,
             "crew_name": "",
@@ -41481,6 +41506,38 @@
             "role_id": 63582695950310,
             "server_region": "cosmic_fold"
         },
+        "63582695951023": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 163607.40625,
+            "last_seen": 1763943990,
+            "level": 51,
+            "name": "不太乖",
+            "name_history": [
+                "不太乖"
+            ],
+            "registered": "2025年11月2日 下午1:03:55",
+            "role_id": 63582695951023,
+            "server_region": "cosmic_fold"
+        },
+        "63582695951423": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 526762.75,
+            "last_seen": 1763943990,
+            "level": 70,
+            "name": "愚子末那",
+            "name_history": [
+                "愚子末那"
+            ],
+            "registered": "2025年11月2日 下午7:25:13",
+            "role_id": 63582695951423,
+            "server_region": "cosmic_fold"
+        },
         "63582695951573": {
             "crew_id": 64424524244,
             "crew_name": "烧鸡",
@@ -41543,6 +41600,22 @@
             ],
             "registered": "2025年11月4日 下午9:22:20",
             "role_id": 63582695952648,
+            "server_region": "cosmic_fold"
+        },
+        "63582695952701": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 167067.0,
+            "last_seen": 1763943990,
+            "level": 56,
+            "name": "被狗追的娃",
+            "name_history": [
+                "被狗追的娃"
+            ],
+            "registered": "2025年11月4日 下午10:36:36",
+            "role_id": 63582695952701,
             "server_region": "cosmic_fold"
         },
         "63582695953258": {
@@ -41783,6 +41856,22 @@
             ],
             "registered": "2025年11月13日 下午4:29:09",
             "role_id": 63582695958234,
+            "server_region": "cosmic_fold"
+        },
+        "63582695958626": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 86589.3984375,
+            "last_seen": 1763943990,
+            "level": 32,
+            "name": "中心组",
+            "name_history": [
+                "中心组"
+            ],
+            "registered": "2025年11月14日 下午12:51:31",
+            "role_id": 63582695958626,
             "server_region": "cosmic_fold"
         },
         "63582695958769": {
@@ -43226,8 +43315,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3640,
+    "accounts_total": 3645,
     "created": 1758803451,
-    "last_updated": 1763943930,
+    "last_updated": 1763943990,
     "server_region": "cosmic_fold"
 }
