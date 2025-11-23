@@ -2228,12 +2228,15 @@
         "47257525265775": {
             "crew_id": 30064782076,
             "crew_name": "STLUCE",
-            "equipping_title": "ユーウェスト's Successor,1",
+            "equipping_title": "ユーウェスト的后继者,1",
             "gender": 1,
-            "hp": 3316820.0,
-            "last_seen": 1761311822,
+            "hp": 3355739.25,
+            "last_seen": 1763927364,
             "level": 100,
             "name": "あるまりぃ",
+            "name_history": [
+                "あるまりぃ"
+            ],
             "registered": "Aug 24, 2022, 5:13:04 AM",
             "role_id": 47257525265775,
             "server_region": "asia_pacific"
@@ -3405,6 +3408,22 @@
             ],
             "registered": "Aug 26, 2022, 1:42:50 PM",
             "role_id": 47261820232181,
+            "server_region": "asia_pacific"
+        },
+        "47261820234617": {
+            "crew_id": 4827543251708,
+            "crew_name": "らびっとはうす",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2728231.0,
+            "last_seen": 1763927364,
+            "level": 100,
+            "name": "ちんばたん",
+            "name_history": [
+                "ちんばたん"
+            ],
+            "registered": "Aug 29, 2022, 11:09:51 PM",
+            "role_id": 47261820234617,
             "server_region": "asia_pacific"
         },
         "47261820240505": {
@@ -14070,8 +14089,8 @@
             "crew_name": "クロスギルド",
             "equipping_title": "1_6_4_14",
             "gender": 1,
-            "hp": 2861652.25,
-            "last_seen": 1763640679,
+            "hp": 2749623.25,
+            "last_seen": 1763927364,
             "level": 100,
             "name": "アリサ",
             "name_history": [
@@ -14328,8 +14347,8 @@
             "crew_name": "こなもん",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 1914731.875,
-            "last_seen": 1763640679,
+            "hp": 2002510.125,
+            "last_seen": 1763927364,
             "level": 100,
             "name": "謎のファミコンX",
             "name_history": [
@@ -16847,8 +16866,8 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "2_10_1_4",
             "gender": 1,
-            "hp": 1965427.0,
-            "last_seen": 1763456707,
+            "hp": 2230500.25,
+            "last_seen": 1763927364,
             "level": 100,
             "name": "雪猫ねこ",
             "name_history": [
@@ -20088,8 +20107,8 @@
             "crew_name": "FATO",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1628581.625,
-            "last_seen": 1763551875,
+            "hp": 1880268.25,
+            "last_seen": 1763927364,
             "level": 100,
             "name": "タオ",
             "name_history": [
@@ -32932,8 +32951,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2415,
+    "accounts_total": 2416,
     "created": "1754829154",
-    "last_updated": 1763640859,
+    "last_updated": 1763927364,
     "server_region": "asia_pacific"
 }
