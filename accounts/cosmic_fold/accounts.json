@@ -1954,10 +1954,16 @@
         },
         "63582695850937": {
             "crew_id": 42949687764,
-            "crew_name": "莫凡俱乐部",
+            "crew_name": "群星",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758905221,
+            "hp": 765909.875,
+            "last_seen": 1763939112,
+            "level": 71,
             "name": "淤",
+            "name_history": [
+                "淤"
+            ],
             "registered": "2025年9月25日 下午6:11:10",
             "role_id": 63582695850937,
             "server_region": "cosmic_fold"
@@ -5646,13 +5652,16 @@
         },
         "63582695853309": {
             "crew_id": 146028902868,
-            "crew_name": "146028902868",
-            "equipping_title": "None",
+            "crew_name": "NOVA学院",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 616037.5,
-            "last_seen": 1761912379,
-            "level": 67,
+            "hp": 810400.3125,
+            "last_seen": 1763939112,
+            "level": 72,
             "name": "重生之钢蜥川少",
+            "name_history": [
+                "重生之钢蜥川少"
+            ],
             "registered": "2025年9月25日 下午6:41:54",
             "role_id": 63582695853309,
             "server_region": "cosmic_fold"
@@ -8368,7 +8377,7 @@
             "equipping_title": "2_4_0_5",
             "gender": 1,
             "hp": 933691.625,
-            "last_seen": 1763937543,
+            "last_seen": 1763939112,
             "level": 72,
             "name": "饮水思渊",
             "name_history": [
@@ -41432,6 +41441,22 @@
             "role_id": 63582695959469,
             "server_region": "cosmic_fold"
         },
+        "63582695959568": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 134536.0,
+            "last_seen": 1763939112,
+            "level": 52,
+            "name": "沈梦音",
+            "name_history": [
+                "沈梦音"
+            ],
+            "registered": "2025年11月15日 下午2:37:45",
+            "role_id": 63582695959568,
+            "server_region": "cosmic_fold"
+        },
         "63582695959776": {
             "crew_id": 236223216084,
             "crew_name": "恶魔",
@@ -42600,6 +42625,22 @@
             "role_id": 63582695964587,
             "server_region": "cosmic_fold"
         },
+        "63582695964766": {
+            "crew_id": 2478196144596,
+            "crew_name": "星月茶会",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 77136.3984375,
+            "last_seen": 1763939112,
+            "level": 32,
+            "name": "导购地雷妹",
+            "name_history": [
+                "导购地雷妹"
+            ],
+            "registered": "2025年11月23日 上午2:45:07",
+            "role_id": 63582695964766,
+            "server_region": "cosmic_fold"
+        },
         "63582695965162": {
             "crew_id": 0,
             "crew_name": "",
@@ -42633,8 +42674,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3605,
+    "accounts_total": 3607,
     "created": 1758803451,
-    "last_updated": 1763939052,
+    "last_updated": 1763939112,
     "server_region": "cosmic_fold"
 }
