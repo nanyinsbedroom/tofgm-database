@@ -6001,9 +6001,15 @@
         "68749541553399": {
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1754152201,
+            "hp": 1871051.375,
+            "last_seen": 1763935740,
+            "level": 100,
             "name": "SpacePenguin",
+            "name_history": [
+                "SpacePenguin"
+            ],
             "registered": "Aug 12, 2022, 9:09:52 PM",
             "role_id": 68749541553399,
             "server_region": "southeast_asia"
@@ -15175,6 +15181,22 @@
             "role_id": 68775311744402,
             "server_region": "southeast_asia"
         },
+        "68775311744438": {
+            "crew_id": 188978577038,
+            "crew_name": "Genesis",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 934377.0625,
+            "last_seen": 1763935740,
+            "level": 79,
+            "name": "intrcellar",
+            "name_history": [
+                "intrcellar"
+            ],
+            "registered": "Jul 27, 2025, 11:14:55 PM",
+            "role_id": 68775311744438,
+            "server_region": "southeast_asia"
+        },
         "68775311744526": {
             "crew_id": 0,
             "crew_name": "",
@@ -21933,8 +21955,8 @@
             "crew_name": "Aspen",
             "equipping_title": "AdéliePenguin的启迪人,1",
             "gender": 0,
-            "hp": 2730751.5,
-            "last_seen": 1762092110,
+            "hp": 2599995.5,
+            "last_seen": 1763935740,
             "level": 100,
             "name": "SuperPenguin",
             "name_history": [
@@ -25844,8 +25866,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1946,
+    "accounts_total": 1947,
     "created": 1753795148,
-    "last_updated": 1763935680,
+    "last_updated": 1763935740,
     "server_region": "southeast_asia"
 }
