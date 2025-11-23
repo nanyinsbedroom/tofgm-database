@@ -10614,12 +10614,15 @@
         "63582695857367": {
             "crew_id": 167503739348,
             "crew_name": "无上散人",
-            "equipping_title": "WorldBossDamage_4;阿比斯;伊娃;40",
+            "equipping_title": "洞烛履步仙君的导师,0",
             "gender": 0,
-            "hp": 492444.65625,
-            "last_seen": 1760436234,
-            "level": 59,
-            "name": "光元",
+            "hp": 894220.1875,
+            "last_seen": 1763937784,
+            "level": 72,
+            "name": "福光瑞相仙君",
+            "name_history": [
+                "福光瑞相仙君"
+            ],
             "registered": "2025年9月25日 下午7:46:26",
             "role_id": 63582695857367,
             "server_region": "cosmic_fold"
@@ -12488,6 +12491,22 @@
             "name": "水树凛香",
             "registered": "2025年9月25日 下午8:19:18",
             "role_id": 63582695858728,
+            "server_region": "cosmic_fold"
+        },
+        "63582695858736": {
+            "crew_id": 167503739348,
+            "crew_name": "无上散人",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 890222.5,
+            "last_seen": 1763937784,
+            "level": 72,
+            "name": "烬影残霞仙君",
+            "name_history": [
+                "烬影残霞仙君"
+            ],
+            "registered": "2025年9月25日 下午8:19:22",
+            "role_id": 63582695858736,
             "server_region": "cosmic_fold"
         },
         "63582695858742": {
@@ -17618,9 +17637,15 @@
         "63582695862968": {
             "crew_id": 167503739348,
             "crew_name": "无上散人",
+            "equipping_title": "原神主角散兵的导师,0",
             "gender": 1,
-            "last_seen": 1759679771,
-            "name": "奥尔加玛丽",
+            "hp": 885492.5,
+            "last_seen": 1763937784,
+            "level": 72,
+            "name": "梣谛御界仙君",
+            "name_history": [
+                "梣谛御界仙君"
+            ],
             "registered": "2025年9月25日 下午10:37:28",
             "role_id": 63582695862968,
             "server_region": "cosmic_fold"
@@ -21723,7 +21748,7 @@
             "equipping_title": "2_8_0_2",
             "gender": 0,
             "hp": 896823.0625,
-            "last_seen": 1763833090,
+            "last_seen": 1763937784,
             "level": 72,
             "name": "萝莉暖房仙君",
             "name_history": [
@@ -33422,6 +33447,22 @@
             "role_id": 63582695907851,
             "server_region": "cosmic_fold"
         },
+        "63582695907876": {
+            "crew_id": 167503739348,
+            "crew_name": "无上散人",
+            "equipping_title": "2_8_0_9",
+            "gender": 1,
+            "hp": 914013.1875,
+            "last_seen": 1763937784,
+            "level": 72,
+            "name": "浮迹浪踪隐君",
+            "name_history": [
+                "浮迹浪踪隐君"
+            ],
+            "registered": "2025年10月4日 下午11:01:09",
+            "role_id": 63582695907876,
+            "server_region": "cosmic_fold"
+        },
         "63582695907959": {
             "crew_id": 347892365780,
             "crew_name": "格兰塞法",
@@ -42289,8 +42330,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3585,
+    "accounts_total": 3587,
     "created": 1758803451,
-    "last_updated": 1763937723,
+    "last_updated": 1763937784,
     "server_region": "cosmic_fold"
 }
