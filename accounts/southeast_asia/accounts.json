@@ -3688,9 +3688,15 @@
         "68736656721173": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759392478,
-            "name": "Gooner",
+            "hp": 117233.6875,
+            "last_seen": 1763936221,
+            "level": 100,
+            "name": "BeefKebab",
+            "name_history": [
+                "BeefKebab"
+            ],
             "registered": "Aug 27, 2022, 2:21:41 PM",
             "role_id": 68736656721173,
             "server_region": "southeast_asia"
@@ -20738,6 +20744,22 @@
             "role_id": 68775311757726,
             "server_region": "southeast_asia"
         },
+        "68775311757745": {
+            "crew_id": 790273998467,
+            "crew_name": "VN-Archon",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 610882.0,
+            "last_seen": 1763936221,
+            "level": 54,
+            "name": "doert",
+            "name_history": [
+                "doert"
+            ],
+            "registered": "Nov 21, 2025, 10:40:30 PM",
+            "role_id": 68775311757745,
+            "server_region": "southeast_asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -23150,6 +23172,22 @@
             ],
             "registered": "Aug 13, 2022, 11:53:44 AM",
             "role_id": 68792491223972,
+            "server_region": "southeast_asia"
+        },
+        "68792491224639": {
+            "crew_id": 253403086473,
+            "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2046915.625,
+            "last_seen": 1763936221,
+            "level": 100,
+            "name": "Chaika1",
+            "name_history": [
+                "Chaika1"
+            ],
+            "registered": "Aug 13, 2022, 2:43:42 PM",
+            "role_id": 68792491224639,
             "server_region": "southeast_asia"
         },
         "68792491225204": {
@@ -25872,8 +25910,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1947,
+    "accounts_total": 1949,
     "created": 1753795148,
-    "last_updated": 1763936100,
+    "last_updated": 1763936221,
     "server_region": "southeast_asia"
 }
