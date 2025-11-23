@@ -1890,9 +1890,15 @@
         "55856049724201": {
             "crew_id": 1924145361619,
             "crew_name": "Molten Core",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": 1756232468,
+            "hp": 2621091.5,
+            "last_seen": 1763901984,
+            "level": 100,
             "name": "⚫Аюми⚫",
+            "name_history": [
+                "⚫Аюми⚫"
+            ],
             "registered": "Aug 12, 2022, 5:13:29 AM",
             "role_id": 55856049724201,
             "server_region": "europe"
@@ -12219,6 +12225,22 @@
             "role_id": 55963424694094,
             "server_region": "europe"
         },
+        "55963424694246": {
+            "crew_id": 81604391651,
+            "crew_name": "Platinum",
+            "equipping_title": "1_3_1_6",
+            "gender": 1,
+            "hp": 1512094.75,
+            "last_seen": 1763901984,
+            "level": 100,
+            "name": "foxi",
+            "name_history": [
+                "foxi"
+            ],
+            "registered": "Apr 28, 2025, 7:47:06 PM",
+            "role_id": 55963424694246,
+            "server_region": "europe"
+        },
         "55963424694666": {
             "crew_id": 0,
             "crew_name": "",
@@ -16703,8 +16725,8 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1197,
+    "accounts_total": 1198,
     "created": "1753816624",
-    "last_updated": 1763901924,
+    "last_updated": 1763901984,
     "server_region": "europe"
 }
