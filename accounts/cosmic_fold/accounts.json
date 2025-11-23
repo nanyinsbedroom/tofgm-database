@@ -5618,9 +5618,15 @@
         "63582695853291": {
             "crew_id": 137438968276,
             "crew_name": "耳狸窝",
+            "equipping_title": "WorldBossDamage_2;boss_hum_052_world;5",
             "gender": 1,
-            "last_seen": 1758815680,
+            "hp": 956751.0625,
+            "last_seen": 1763937603,
+            "level": 72,
             "name": "第六夜",
+            "name_history": [
+                "第六夜"
+            ],
             "registered": "2025年9月25日 下午6:41:41",
             "role_id": 63582695853291,
             "server_region": "cosmic_fold"
@@ -23550,12 +23556,15 @@
         "63582695871549": {
             "crew_id": 137438968276,
             "crew_name": "耳狸窝",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_10_1_7",
             "gender": 1,
-            "hp": 511799.8125,
-            "last_seen": 1760440377,
-            "level": 59,
-            "name": "赫赫",
+            "hp": 934976.3125,
+            "last_seen": 1763937603,
+            "level": 72,
+            "name": "我菜我也很难受",
+            "name_history": [
+                "我菜我也很难受"
+            ],
             "registered": "2025年9月26日 下午7:19:21",
             "role_id": 63582695871549,
             "server_region": "cosmic_fold"
@@ -36150,14 +36159,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695922836": {
-            "crew_id": 1108101577172,
-            "crew_name": "镜花水月",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 114445.8046875,
-            "last_seen": 1760449208,
-            "level": 46,
+            "crew_id": 68719491540,
+            "crew_name": "红魔馆",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 471314.03125,
+            "last_seen": 1763937603,
+            "level": 69,
             "name": "男二",
+            "name_history": [
+                "男二"
+            ],
             "registered": "2025年10月10日 下午10:39:39",
             "role_id": 63582695922836,
             "server_region": "cosmic_fold"
@@ -42241,6 +42253,6 @@
     },
     "accounts_total": 3583,
     "created": 1758803451,
-    "last_updated": 1763937543,
+    "last_updated": 1763937603,
     "server_region": "cosmic_fold"
 }
