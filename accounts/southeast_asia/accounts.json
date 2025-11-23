@@ -1743,10 +1743,10 @@
         "68728066760299": {
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "1_6_1_8",
+            "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 2732446.5,
-            "last_seen": 1762515841,
+            "hp": 2510222.0,
+            "last_seen": 1763936341,
             "level": 100,
             "name": "GhostCube",
             "name_history": [
@@ -1787,8 +1787,8 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "1_8_0_25",
             "gender": 1,
-            "hp": 2012923.75,
-            "last_seen": 1762516081,
+            "hp": 2041439.75,
+            "last_seen": 1763936341,
             "level": 100,
             "name": "Demonoid",
             "name_history": [
@@ -12457,10 +12457,10 @@
         "68775311663114": {
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "Chef Taxsa的学徒,0",
+            "equipping_title": "1_8_0_33",
             "gender": 0,
-            "hp": 2016883.75,
-            "last_seen": 1762428201,
+            "hp": 2028390.75,
+            "last_seen": 1763936341,
             "level": 100,
             "name": "Chef →pënaジ",
             "name_history": [
@@ -20424,6 +20424,22 @@
             "role_id": 68775311756978,
             "server_region": "southeast_asia"
         },
+        "68775311756999": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 835808.5625,
+            "last_seen": 1763936341,
+            "level": 68,
+            "name": "Kisaki",
+            "name_history": [
+                "Kisaki"
+            ],
+            "registered": "Nov 11, 2025, 7:25:38 PM",
+            "role_id": 68775311756999,
+            "server_region": "southeast_asia"
+        },
         "68775311757155": {
             "crew_id": 0,
             "crew_name": "",
@@ -22337,9 +22353,15 @@
         "68788196217635": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
+            "equipping_title": "Badonl的导师,0",
             "gender": 1,
-            "last_seen": 1757839849,
+            "hp": 1474333.25,
+            "last_seen": 1763936341,
+            "level": 100,
             "name": "Yu SaeHa",
+            "name_history": [
+                "Yu SaeHa"
+            ],
             "registered": "Aug 11, 2022, 9:28:08 AM",
             "role_id": 68788196217635,
             "server_region": "southeast_asia"
@@ -24897,8 +24919,8 @@
             "crew_name": "FridayKnight",
             "equipping_title": "〆 sαнαbαт•ρénα•的导师,0",
             "gender": 1,
-            "hp": 2606986.0,
-            "last_seen": 1763567785,
+            "hp": 2312779.25,
+            "last_seen": 1763936341,
             "level": 100,
             "name": "Loope",
             "name_history": [
@@ -25910,8 +25932,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1949,
+    "accounts_total": 1950,
     "created": 1753795148,
-    "last_updated": 1763936221,
+    "last_updated": 1763936341,
     "server_region": "southeast_asia"
 }
