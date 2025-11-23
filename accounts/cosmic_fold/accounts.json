@@ -16968,11 +16968,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695862160": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "发财猫猫的学徒,0",
             "gender": 1,
-            "last_seen": 1758818923,
+            "hp": 607025.375,
+            "last_seen": 1763938084,
+            "level": 72,
             "name": "黛玉晴雯子",
+            "name_history": [
+                "黛玉晴雯子"
+            ],
             "registered": "2025年9月25日 下午10:06:14",
             "role_id": 63582695862160,
             "server_region": "cosmic_fold"
@@ -21350,6 +21356,22 @@
             "name": "Xyoal",
             "registered": "2025年9月26日 上午6:43:18",
             "role_id": 63582695866907,
+            "server_region": "cosmic_fold"
+        },
+        "63582695866931": {
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "1_1_30_1",
+            "gender": 1,
+            "hp": 872618.4375,
+            "last_seen": 1763938084,
+            "level": 72,
+            "name": "竹密成篁",
+            "name_history": [
+                "竹密成篁"
+            ],
+            "registered": "2025年9月26日 上午6:49:55",
+            "role_id": 63582695866931,
             "server_region": "cosmic_fold"
         },
         "63582695866936": {
@@ -30554,6 +30576,22 @@
             "name": "凉薄大魔王",
             "registered": "2025年10月1日 上午2:07:49",
             "role_id": 63582695893576,
+            "server_region": "cosmic_fold"
+        },
+        "63582695893654": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 227431.8125,
+            "last_seen": 1763938084,
+            "level": 70,
+            "name": "星德",
+            "name_history": [
+                "星德"
+            ],
+            "registered": "2025年10月1日 上午3:22:26",
+            "role_id": 63582695893654,
             "server_region": "cosmic_fold"
         },
         "63582695893691": {
@@ -42400,8 +42438,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3591,
+    "accounts_total": 3593,
     "created": 1758803451,
-    "last_updated": 1763938024,
+    "last_updated": 1763938084,
     "server_region": "cosmic_fold"
 }
