@@ -7760,7 +7760,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 571040.375,
-            "last_seen": 1763816385,
+            "last_seen": 1763937723,
             "level": 72,
             "name": "不喜欢loli",
             "name_history": [
@@ -9341,9 +9341,15 @@
         "63582695856422": {
             "crew_id": 167503739348,
             "crew_name": "无上散人",
+            "equipping_title": "寰宇濯鳞仙君的导师,0",
             "gender": 1,
-            "last_seen": 1758817001,
-            "name": "雨筝",
+            "hp": 792735.4375,
+            "last_seen": 1763937723,
+            "level": 72,
+            "name": "青冥幽雨仙君",
+            "name_history": [
+                "青冥幽雨仙君"
+            ],
             "registered": "2025年9月25日 下午7:26:31",
             "role_id": 63582695856422,
             "server_region": "cosmic_fold"
@@ -31555,6 +31561,22 @@
             "role_id": 63582695899031,
             "server_region": "cosmic_fold"
         },
+        "63582695899144": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "2_10_1_12",
+            "gender": 1,
+            "hp": 717912.4375,
+            "last_seen": 1763937723,
+            "level": 70,
+            "name": "阔怕",
+            "name_history": [
+                "阔怕"
+            ],
+            "registered": "2025年10月2日 下午2:08:27",
+            "role_id": 63582695899144,
+            "server_region": "cosmic_fold"
+        },
         "63582695899261": {
             "crew_id": 253403085268,
             "crew_name": "解谜者的茶会",
@@ -39948,6 +39970,22 @@
             "role_id": 63582695939088,
             "server_region": "cosmic_fold"
         },
+        "63582695939953": {
+            "crew_id": 1279900269012,
+            "crew_name": "兴欣",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 434170.0,
+            "last_seen": 1763937723,
+            "level": 70,
+            "name": "基底现实",
+            "name_history": [
+                "基底现实"
+            ],
+            "registered": "2025年10月23日 下午3:22:47",
+            "role_id": 63582695939953,
+            "server_region": "cosmic_fold"
+        },
         "63582695940018": {
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
@@ -42251,8 +42289,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3583,
+    "accounts_total": 3585,
     "created": 1758803451,
-    "last_updated": 1763937603,
+    "last_updated": 1763937723,
     "server_region": "cosmic_fold"
 }
