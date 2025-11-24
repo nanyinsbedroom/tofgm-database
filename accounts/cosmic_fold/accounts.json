@@ -2920,6 +2920,22 @@
             "role_id": 63582695851535,
             "server_region": "cosmic_fold"
         },
+        "63582695851536": {
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 917590.25,
+            "last_seen": 1764024620,
+            "level": 72,
+            "name": "汪汪当家",
+            "name_history": [
+                "汪汪当家"
+            ],
+            "registered": "2025年9月25日 下午6:17:32",
+            "role_id": 63582695851536,
+            "server_region": "cosmic_fold"
+        },
         "63582695851540": {
             "crew_id": 81604393428,
             "crew_name": "子凝",
@@ -35394,7 +35410,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 393869.5,
-            "last_seen": 1763817526,
+            "last_seen": 1764024620,
             "level": 61,
             "name": "lzl",
             "name_history": [
@@ -35891,12 +35907,15 @@
         "63582695918184": {
             "crew_id": 1279900269012,
             "crew_name": "兴欣",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 218527.796875,
-            "last_seen": 1760798683,
-            "level": 56,
-            "name": "老被封",
+            "hp": 562176.25,
+            "last_seen": 1764024620,
+            "level": 70,
+            "name": "进入海伦小学",
+            "name_history": [
+                "进入海伦小学"
+            ],
             "registered": "2025年10月8日 上午8:32:47",
             "role_id": 63582695918184,
             "server_region": "cosmic_fold"
@@ -41570,6 +41589,22 @@
             "role_id": 63582695951023,
             "server_region": "cosmic_fold"
         },
+        "63582695951262": {
+            "crew_id": 425201777108,
+            "crew_name": "星期三",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 178139.40625,
+            "last_seen": 1764024620,
+            "level": 54,
+            "name": "叶红秋落",
+            "name_history": [
+                "叶红秋落"
+            ],
+            "registered": "2025年11月2日 下午4:38:27",
+            "role_id": 63582695951262,
+            "server_region": "cosmic_fold"
+        },
         "63582695951423": {
             "crew_id": 137438968276,
             "crew_name": "耳狸窝",
@@ -41664,6 +41699,22 @@
             ],
             "registered": "2025年11月4日 下午10:36:36",
             "role_id": 63582695952701,
+            "server_region": "cosmic_fold"
+        },
+        "63582695952873": {
+            "crew_id": 730144455124,
+            "crew_name": "新人频道",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 508575.40625,
+            "last_seen": 1764024620,
+            "level": 70,
+            "name": "变形银刚",
+            "name_history": [
+                "变形银刚"
+            ],
+            "registered": "2025年11月5日 上午9:40:05",
+            "role_id": 63582695952873,
             "server_region": "cosmic_fold"
         },
         "63582695953258": {
@@ -41776,6 +41827,22 @@
             ],
             "registered": "2025年11月10日 下午3:23:36",
             "role_id": 63582695956702,
+            "server_region": "cosmic_fold"
+        },
+        "63582695956790": {
+            "crew_id": 236223216084,
+            "crew_name": "恶魔",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 187723.0,
+            "last_seen": 1764024620,
+            "level": 61,
+            "name": "睡觉觉啊",
+            "name_history": [
+                "睡觉觉啊"
+            ],
+            "registered": "2025年11月10日 下午7:18:24",
+            "role_id": 63582695956790,
             "server_region": "cosmic_fold"
         },
         "63582695956873": {
@@ -43393,10 +43460,26 @@
             "registered": "2025年11月24日 下午8:55:11",
             "role_id": 63582695965946,
             "server_region": "cosmic_fold"
+        },
+        "63582695965990": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 0.0,
+            "last_seen": 1764024620,
+            "level": 6,
+            "name": "有味的咸鱼",
+            "name_history": [
+                "有味的咸鱼"
+            ],
+            "registered": "2025年11月24日 下午10:04:44",
+            "role_id": 63582695965990,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3650,
+    "accounts_total": 3655,
     "created": 1758803451,
-    "last_updated": 1764024560,
+    "last_updated": 1764024620,
     "server_region": "cosmic_fold"
 }
