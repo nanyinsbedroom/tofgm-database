@@ -3693,8 +3693,8 @@
             "crew_name": "紫微星垣",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 933992.5,
-            "last_seen": 1763833090,
+            "hp": 909693.0625,
+            "last_seen": 1764031314,
             "level": 72,
             "name": "桃乐白丝",
             "name_history": [
@@ -6117,9 +6117,9 @@
             "crew_name": "群星",
             "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 848096.1875,
-            "last_seen": 1763490166,
-            "level": 71,
+            "hp": 918416.0625,
+            "last_seen": 1764031314,
+            "level": 72,
             "name": "香奈美",
             "name_history": [
                 "香奈美"
@@ -10221,6 +10221,22 @@
             "name": "豆豆打豆豆",
             "registered": "2025年9月25日 下午7:38:45",
             "role_id": 63582695857010,
+            "server_region": "cosmic_fold"
+        },
+        "63582695857011": {
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "绒绒团的学徒,0",
+            "gender": 1,
+            "hp": 856334.0625,
+            "last_seen": 1764031314,
+            "level": 72,
+            "name": "椰鱼",
+            "name_history": [
+                "椰鱼"
+            ],
+            "registered": "2025年9月25日 下午7:38:46",
+            "role_id": 63582695857011,
             "server_region": "cosmic_fold"
         },
         "63582695857012": {
@@ -15895,11 +15911,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695861241": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1529008372180,
+            "crew_name": "空中花园",
+            "equipping_title": "1_1_28_1",
             "gender": 1,
-            "last_seen": 1758816700,
+            "hp": 895914.9375,
+            "last_seen": 1764031314,
+            "level": 72,
             "name": "安全总监德穆兰",
+            "name_history": [
+                "安全总监德穆兰"
+            ],
             "registered": "2025年9月25日 下午9:33:45",
             "role_id": 63582695861241,
             "server_region": "cosmic_fold"
@@ -25318,8 +25340,8 @@
             "crew_name": "紫微星垣",
             "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 759176.875,
-            "last_seen": 1763944110,
+            "hp": 917915.6875,
+            "last_seen": 1764031314,
             "level": 72,
             "name": "柚歌",
             "name_history": [
@@ -35538,6 +35560,22 @@
             "role_id": 63582695915338,
             "server_region": "cosmic_fold"
         },
+        "63582695915341": {
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 885991.4375,
+            "last_seen": 1764031314,
+            "level": 72,
+            "name": "若叶樱",
+            "name_history": [
+                "若叶樱"
+            ],
+            "registered": "2025年10月7日 上午7:17:24",
+            "role_id": 63582695915341,
+            "server_region": "cosmic_fold"
+        },
         "63582695915529": {
             "crew_id": 0,
             "crew_name": "",
@@ -40610,6 +40648,22 @@
             "role_id": 63582695937631,
             "server_region": "cosmic_fold"
         },
+        "63582695937837": {
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 562110.375,
+            "last_seen": 1764031314,
+            "level": 70,
+            "name": "长衫罩子隆",
+            "name_history": [
+                "长衫罩子隆"
+            ],
+            "registered": "2025年10月21日 下午12:38:14",
+            "role_id": 63582695937837,
+            "server_region": "cosmic_fold"
+        },
         "63582695937860": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
@@ -43543,6 +43597,22 @@
             "role_id": 63582695964766,
             "server_region": "cosmic_fold"
         },
+        "63582695965076": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 82074.609375,
+            "last_seen": 1764031314,
+            "level": 32,
+            "name": "队短不打篮球",
+            "name_history": [
+                "队短不打篮球"
+            ],
+            "registered": "2025年11月23日 下午1:31:12",
+            "role_id": 63582695965076,
+            "server_region": "cosmic_fold"
+        },
         "63582695965102": {
             "crew_id": 0,
             "crew_name": "",
@@ -43864,8 +43934,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3678,
+    "accounts_total": 3682,
     "created": 1758803451,
-    "last_updated": 1764031254,
+    "last_updated": 1764031314,
     "server_region": "cosmic_fold"
 }
