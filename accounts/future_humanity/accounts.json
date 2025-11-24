@@ -69,10 +69,13 @@
             "crew_name": "ASOUL",
             "equipping_title": "今天吃什么嘉然的导师,0",
             "gender": 1,
-            "hp": 1729593.25,
-            "last_seen": 1761472948,
+            "hp": 1735148.375,
+            "last_seen": 1764017236,
             "level": 100,
             "name": "Dipper",
+            "name_history": [
+                "Dipper"
+            ],
             "registered": "2021年12月16日 下午8:34:12",
             "role_id": 60563333873853,
             "server_region": "future_humanity"
@@ -520,6 +523,22 @@
             ],
             "registered": "2023年4月19日 下午8:13:52",
             "role_id": 60563335037096,
+            "server_region": "future_humanity"
+        },
+        "60563335039551": {
+            "crew_id": 19576460949269,
+            "crew_name": "源书の黑兔",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1206108.75,
+            "last_seen": 1764017236,
+            "level": 100,
+            "name": "阿椿",
+            "name_history": [
+                "阿椿"
+            ],
+            "registered": "2023年4月25日 上午9:35:19",
+            "role_id": 60563335039551,
             "server_region": "future_humanity"
         },
         "60563335042237": {
@@ -1153,6 +1172,22 @@
             "name": "烧0　",
             "registered": "2024年6月10日 下午10:44:07",
             "role_id": 60563335321548,
+            "server_region": "future_humanity"
+        },
+        "60563335327886": {
+            "crew_id": 2323577321237,
+            "crew_name": "伊甸",
+            "equipping_title": "2_11_1_2",
+            "gender": 1,
+            "hp": 1273838.375,
+            "last_seen": 1764017236,
+            "level": 100,
+            "name": "猫猫剑客",
+            "name_history": [
+                "猫猫剑客"
+            ],
+            "registered": "2021年12月16日 下午12:28:52",
+            "role_id": 60563335327886,
             "server_region": "future_humanity"
         },
         "60563335334623": {
@@ -2062,6 +2097,22 @@
             "role_id": 60563335778802,
             "server_region": "future_humanity"
         },
+        "60563335784498": {
+            "crew_id": 317827594005,
+            "crew_name": "群玉阁",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 815702.875,
+            "last_seen": 1764017236,
+            "level": 89,
+            "name": "三七丷",
+            "name_history": [
+                "三七丷"
+            ],
+            "registered": "2025年4月2日 上午9:17:23",
+            "role_id": 60563335784498,
+            "server_region": "future_humanity"
+        },
         "60563335799339": {
             "crew_id": 4909147633429,
             "crew_name": "无聊小屋",
@@ -2558,6 +2609,22 @@
             "name": "阿莉耶塔",
             "registered": "2025年9月1日 下午1:26:59",
             "role_id": 60563335942330,
+            "server_region": "future_humanity"
+        },
+        "60563335946103": {
+            "crew_id": 7597797160725,
+            "crew_name": "玲珑",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 991250.875,
+            "last_seen": 1764017236,
+            "level": 100,
+            "name": "dl.千仞雪",
+            "name_history": [
+                "dl.千仞雪"
+            ],
+            "registered": "2025年9月10日 下午4:49:23",
+            "role_id": 60563335946103,
             "server_region": "future_humanity"
         },
         "60563335947791": {
@@ -3562,6 +3629,22 @@
             "role_id": 60992830580079,
             "server_region": "future_humanity"
         },
+        "60992830583410": {
+            "crew_id": 601295435541,
+            "crew_name": "世界第一可爱",
+            "equipping_title": "1_3_1_4",
+            "gender": 1,
+            "hp": 2188496.0,
+            "last_seen": 1764017236,
+            "level": 100,
+            "name": "一场七月的雪",
+            "name_history": [
+                "一场七月的雪"
+            ],
+            "registered": "2021年12月16日 上午9:35:47",
+            "role_id": 60992830583410,
+            "server_region": "future_humanity"
+        },
         "61010010457732": {
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
@@ -4184,8 +4267,8 @@
             "server_region": "future_humanity"
         }
     },
-    "accounts_total": 301,
+    "accounts_total": 306,
     "created": 1758711045,
-    "last_updated": 1764017056,
+    "last_updated": 1764017236,
     "server_region": "future_humanity"
 }
