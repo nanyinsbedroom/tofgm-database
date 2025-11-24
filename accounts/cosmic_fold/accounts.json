@@ -15790,9 +15790,9 @@
             "crew_name": "紫微星垣",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 827719.8125,
-            "last_seen": 1763818066,
-            "level": 71,
+            "hp": 855294.875,
+            "last_seen": 1764031254,
+            "level": 72,
             "name": "走不到尽头",
             "name_history": [
                 "走不到尽头"
@@ -29611,6 +29611,22 @@
             "role_id": 63582695886737,
             "server_region": "cosmic_fold"
         },
+        "63582695886747": {
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 864247.9375,
+            "last_seen": 1764031254,
+            "level": 72,
+            "name": "结束",
+            "name_history": [
+                "结束"
+            ],
+            "registered": "2025年9月29日 上午12:32:00",
+            "role_id": 63582695886747,
+            "server_region": "cosmic_fold"
+        },
         "63582695886755": {
             "crew_id": 261993019860,
             "crew_name": "幻想乡",
@@ -34430,12 +34446,15 @@
         "63582695909736": {
             "crew_id": 128849033684,
             "crew_name": "神待少女",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 538972.3125,
-            "last_seen": 1760437495,
-            "level": 59,
+            "hp": 936492.4375,
+            "last_seen": 1764031254,
+            "level": 72,
             "name": "落霞",
+            "name_history": [
+                "落霞"
+            ],
             "registered": "2025年10月5日 下午3:28:59",
             "role_id": 63582695909736,
             "server_region": "cosmic_fold"
@@ -35888,9 +35907,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 33722.91796875,
-            "last_seen": 1763487311,
-            "level": 15,
+            "hp": 74455.3984375,
+            "last_seen": 1764031254,
+            "level": 42,
             "name": "拖拉斯",
             "name_history": [
                 "拖拉斯"
@@ -43845,8 +43864,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3677,
+    "accounts_total": 3678,
     "created": 1758803451,
-    "last_updated": 1764029813,
+    "last_updated": 1764031254,
     "server_region": "cosmic_fold"
 }
