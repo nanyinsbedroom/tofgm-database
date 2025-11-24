@@ -18495,11 +18495,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695863482": {
-            "crew_id": 94489295316,
-            "crew_name": "魅魔",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "WorldBossDamage_3;boss_hum_053_world;13",
             "gender": 1,
-            "last_seen": 1758896436,
+            "hp": 852280.375,
+            "last_seen": 1764031795,
+            "level": 72,
             "name": "坤坤",
+            "name_history": [
+                "坤坤"
+            ],
             "registered": "2025年9月25日 下午10:58:07",
             "role_id": 63582695863482,
             "server_region": "cosmic_fold"
@@ -34328,6 +34334,22 @@
             "role_id": 63582695908096,
             "server_region": "cosmic_fold"
         },
+        "63582695908209": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "宇宙无敌暴龙神的学徒,0",
+            "gender": 1,
+            "hp": 864996.5625,
+            "last_seen": 1764031795,
+            "level": 72,
+            "name": "恶魔公民",
+            "name_history": [
+                "恶魔公民"
+            ],
+            "registered": "2025年10月5日 上午1:16:00",
+            "role_id": 63582695908209,
+            "server_region": "cosmic_fold"
+        },
         "63582695908227": {
             "crew_id": 0,
             "crew_name": "",
@@ -35884,9 +35906,9 @@
             "crew_name": "天月之境",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 709056.875,
-            "last_seen": 1763833210,
-            "level": 71,
+            "hp": 713499.1875,
+            "last_seen": 1764031795,
+            "level": 72,
             "name": "友谊是魔法",
             "name_history": [
                 "友谊是魔法"
@@ -42615,6 +42637,22 @@
             "role_id": 63582695959568,
             "server_region": "cosmic_fold"
         },
+        "63582695959628": {
+            "crew_id": 2426656537044,
+            "crew_name": "困困猫",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 141001.203125,
+            "last_seen": 1764031795,
+            "level": 53,
+            "name": "rweewed",
+            "name_history": [
+                "rweewed"
+            ],
+            "registered": "2025年11月15日 下午3:35:30",
+            "role_id": 63582695959628,
+            "server_region": "cosmic_fold"
+        },
         "63582695959776": {
             "crew_id": 236223216084,
             "crew_name": "恶魔",
@@ -43943,6 +43981,22 @@
             "role_id": 63582695965460,
             "server_region": "cosmic_fold"
         },
+        "63582695965530": {
+            "crew_id": 2435246471636,
+            "crew_name": "佛系玩家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71751.0,
+            "last_seen": 1764031795,
+            "level": 24,
+            "name": "三七丷",
+            "name_history": [
+                "三七丷"
+            ],
+            "registered": "2025年11月23日 下午10:10:11",
+            "role_id": 63582695965530,
+            "server_region": "cosmic_fold"
+        },
         "63582695965541": {
             "crew_id": 0,
             "crew_name": "",
@@ -44232,8 +44286,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3698,
+    "accounts_total": 3701,
     "created": 1758803451,
-    "last_updated": 1764031735,
+    "last_updated": 1764031795,
     "server_region": "cosmic_fold"
 }
