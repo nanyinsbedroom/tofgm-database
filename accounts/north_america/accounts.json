@@ -3097,9 +3097,15 @@
         "51582557232141": {
             "crew_id": 4294979317,
             "crew_name": "Echo Vision",
+            "equipping_title": "1_4_4_7",
             "gender": 1,
-            "last_seen": 1758645438,
+            "hp": 2772022.5,
+            "last_seen": 1763986087,
+            "level": 100,
             "name": "AltairAguilar",
+            "name_history": [
+                "AltairAguilar"
+            ],
             "registered": "Aug 10, 2022, 8:02:51 PM",
             "role_id": 51582557232141,
             "server_region": "north_america"
@@ -4556,8 +4562,8 @@
             "crew_name": "Potato",
             "equipping_title": "1_7_1_2",
             "gender": 1,
-            "hp": 2488352.75,
-            "last_seen": 1763579437,
+            "hp": 2502861.0,
+            "last_seen": 1763986087,
             "level": 100,
             "name": "ekusukariba_",
             "name_history": [
@@ -9831,6 +9837,6 @@
     },
     "accounts_total": 738,
     "created": 1753804860,
-    "last_updated": 1763986027,
+    "last_updated": 1763986087,
     "server_region": "north_america"
 }
