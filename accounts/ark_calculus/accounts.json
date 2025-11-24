@@ -234,16 +234,19 @@
             "server_region": "ark_calculus"
         },
         "62281320771054": {
-            "crew_id": "1297080137893",
+            "crew_id": 1297080137893,
             "crew_name": "七宫",
             "equipping_title": "2_2_0_4",
-            "gender": "1",
-            "hp": "2604800.75",
-            "last_seen": "1761464813",
-            "level": "100",
+            "gender": 1,
+            "hp": 2498852.75,
+            "last_seen": 1764005965,
+            "level": 100,
             "name": "铃玖",
+            "name_history": [
+                "铃玖"
+            ],
             "registered": "2021年12月16日 上午9:23:16",
-            "role_id": "62281320771054",
+            "role_id": 62281320771054,
             "server_region": "ark_calculus"
         },
         "62281320833674": {
@@ -2379,13 +2382,19 @@
             "server_region": "ark_calculus"
         },
         "63144609385124": {
-            "crew_id": "1060856936721",
+            "crew_id": 1060856936721,
             "crew_name": "魅魔恬心",
-            "gender": "1",
-            "last_seen": "1758727204",
-            "name": "啞巴",
+            "equipping_title": "2_2_0_21",
+            "gender": 1,
+            "hp": 2135155.5,
+            "last_seen": 1764005965,
+            "level": 100,
+            "name": "晚晚ovo.",
+            "name_history": [
+                "晚晚ovo."
+            ],
             "registered": "2023年10月22日 下午12:06:42",
-            "role_id": "63144609385124",
+            "role_id": 63144609385124,
             "server_region": "ark_calculus"
         },
         "63144609409199": {
@@ -2417,6 +2426,6 @@
     },
     "accounts_total": 197,
     "created": "1758713877",
-    "last_updated": 1764005845,
+    "last_updated": 1764005965,
     "server_region": "ark_calculus"
 }
