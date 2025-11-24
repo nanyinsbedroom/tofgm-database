@@ -7274,9 +7274,15 @@
         "61469571970211": {
             "crew_id": 717259552733,
             "crew_name": "芬璃尔应援会",
+            "equipping_title": "3_2021",
             "gender": 1,
-            "last_seen": 1759340091,
+            "hp": 1653085.125,
+            "last_seen": 1764023400,
+            "level": 100,
             "name": "乃木若叶",
+            "name_history": [
+                "乃木若叶"
+            ],
             "registered": "2021年12月16日 下午8:16:32",
             "role_id": 61469571970211,
             "server_region": "visser_aida"
@@ -7680,6 +7686,22 @@
             ],
             "registered": "2021年12月18日 上午12:25:35",
             "role_id": 61508226693088,
+            "server_region": "visser_aida"
+        },
+        "61508226696757": {
+            "crew_id": 438086678307,
+            "crew_name": "墨影千秋",
+            "equipping_title": "2_1_0_1",
+            "gender": 1,
+            "hp": 1597461.375,
+            "last_seen": 1764023400,
+            "level": 100,
+            "name": "噬魂丶毁灭",
+            "name_history": [
+                "噬魂丶毁灭"
+            ],
+            "registered": "2021年12月18日 下午11:21:35",
+            "role_id": 61508226696757,
             "server_region": "visser_aida"
         },
         "61516816587707": {
@@ -8685,8 +8707,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 695,
+    "accounts_total": 696,
     "created": 1758086949,
-    "last_updated": 1764023340,
+    "last_updated": 1764023400,
     "server_region": "visser_aida"
 }
