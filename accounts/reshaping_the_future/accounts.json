@@ -561,10 +561,13 @@
             "crew_name": "噼里啪啦",
             "equipping_title": "倾城一诺的学徒,0",
             "gender": 0,
-            "hp": 1409965.75,
-            "last_seen": 1760455966,
+            "hp": 1464588.5,
+            "last_seen": 1764009856,
             "level": 100,
             "name": "71744",
+            "name_history": [
+                "71744"
+            ],
             "registered": "2024年6月28日 下午5:13:17",
             "role_id": 62715113965491,
             "server_region": "reshaping_the_future"
@@ -1628,6 +1631,22 @@
             "role_id": 62740883125039,
             "server_region": "reshaping_the_future"
         },
+        "63148904174159": {
+            "crew_id": 283467856239,
+            "crew_name": "养老摸鱼社",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1130664.875,
+            "last_seen": 1764009856,
+            "level": 100,
+            "name": "二三两",
+            "name_history": [
+                "二三两"
+            ],
+            "registered": "2023年9月2日 下午5:16:34",
+            "role_id": 63148904174159,
+            "server_region": "reshaping_the_future"
+        },
         "63148904191536": {
             "crew_id": 2602750195979,
             "crew_name": "离梦",
@@ -2060,8 +2079,8 @@
             "server_region": "reshaping_the_future"
         }
     },
-    "accounts_total": 166,
+    "accounts_total": 167,
     "created": 1758712976,
-    "last_updated": 1762198288,
+    "last_updated": 1764009856,
     "server_region": "reshaping_the_future"
 }
