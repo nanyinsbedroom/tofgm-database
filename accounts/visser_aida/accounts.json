@@ -3158,9 +3158,15 @@
         "60623463384416": {
             "crew_id": 438086678307,
             "crew_name": "墨影千秋",
+            "equipping_title": "3_2021",
             "gender": 1,
-            "last_seen": 1758287636,
+            "hp": 2364813.0,
+            "last_seen": 1764019878,
+            "level": 100,
             "name": "奇诺キノ",
+            "name_history": [
+                "奇诺キノ"
+            ],
             "registered": "2021年12月16日 上午8:01:08",
             "role_id": 60623463384416,
             "server_region": "visser_aida"
@@ -3769,10 +3775,13 @@
             "crew_name": "幻塔阁",
             "equipping_title": "1_1_10_2",
             "gender": 1,
-            "hp": 1191418.25,
-            "last_seen": 1761920749,
+            "hp": 1198480.625,
+            "last_seen": 1764019878,
             "level": 100,
             "name": "烧姬",
+            "name_history": [
+                "烧姬"
+            ],
             "registered": "2021年12月16日 下午4:27:55",
             "role_id": 60657823149153,
             "server_region": "visser_aida"
@@ -7302,6 +7311,6 @@
     },
     "accounts_total": 612,
     "created": 1758086949,
-    "last_updated": 1764019758,
+    "last_updated": 1764019878,
     "server_region": "visser_aida"
 }
