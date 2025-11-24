@@ -878,9 +878,15 @@
         "60563335215962": {
             "crew_id": 8181912712981,
             "crew_name": "梦乡",
+            "equipping_title": "1_8_0_32",
             "gender": 0,
-            "last_seen": 1759853951,
+            "hp": 2293097.5,
+            "last_seen": 1764019638,
+            "level": 100,
             "name": "Hiloya",
+            "name_history": [
+                "Hiloya"
+            ],
             "registered": "2024年4月29日 下午8:48:24",
             "role_id": 60563335215962,
             "server_region": "future_humanity"
@@ -3374,6 +3380,22 @@
             "role_id": 60563335966012,
             "server_region": "future_humanity"
         },
+        "60563335966090": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 77374.1953125,
+            "last_seen": 1764019638,
+            "level": 21,
+            "name": "花执年",
+            "name_history": [
+                "花执年"
+            ],
+            "registered": "2025年11月24日 下午6:16:18",
+            "role_id": 60563335966090,
+            "server_region": "future_humanity"
+        },
         "60567628821868": {
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
@@ -4585,8 +4607,8 @@
             "server_region": "future_humanity"
         }
     },
-    "accounts_total": 324,
+    "accounts_total": 325,
     "created": 1758711045,
-    "last_updated": 1764019578,
+    "last_updated": 1764019638,
     "server_region": "future_humanity"
 }
