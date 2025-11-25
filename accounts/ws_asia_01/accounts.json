@@ -1077,9 +1077,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 42509.0,
-            "last_seen": 1764097602,
-            "level": 11,
+            "hp": 50267.0,
+            "last_seen": 1764100871,
+            "level": 15,
             "name": "ままむ",
             "name_history": [
                 "ままむ"
@@ -4160,6 +4160,22 @@
             "role_id": 38174103118555642,
             "server_region": "ws_asia_01"
         },
+        "38174103118555675": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 66345.0,
+            "last_seen": 1764100871,
+            "level": 16,
+            "name": "GRYPHON.",
+            "name_history": [
+                "GRYPHON."
+            ],
+            "registered": "Nov 25, 2025, 6:48:58 PM",
+            "role_id": 38174103118555675,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555863": {
             "crew_id": 0,
             "crew_name": "",
@@ -4177,8 +4193,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 261,
+    "accounts_total": 262,
     "created": 1764092421,
-    "last_updated": 1764100811,
+    "last_updated": 1764100871,
     "server_region": "ws_asia_01"
 }
