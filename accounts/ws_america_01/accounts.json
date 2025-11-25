@@ -593,12 +593,12 @@
             "server_region": "ws_america_01"
         },
         "38174107413512575": {
-            "crew_id": 8598822694,
-            "crew_name": "Mythic",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
             "hp": 47472.0,
-            "last_seen": 1764068585,
+            "last_seen": 1764094551,
             "level": 15,
             "name": "Labrys",
             "name_history": [
@@ -8464,6 +8464,22 @@
             "role_id": 38174107413524153,
             "server_region": "ws_america_01"
         },
+        "38174107413524175": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 31969.0,
+            "last_seen": 1764094551,
+            "level": 10,
+            "name": "Nyxdeva",
+            "name_history": [
+                "Nyxdeva"
+            ],
+            "registered": "Nov 25, 2025, 3:47:39 PM",
+            "role_id": 38174107413524175,
+            "server_region": "ws_america_01"
+        },
         "38174107413524197": {
             "crew_id": 0,
             "crew_name": "",
@@ -8656,6 +8672,22 @@
             "role_id": 38174107413524616,
             "server_region": "ws_america_01"
         },
+        "38174107413524628": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 61023.0,
+            "last_seen": 1764094551,
+            "level": 16,
+            "name": "ShyeGuy",
+            "name_history": [
+                "ShyeGuy"
+            ],
+            "registered": "Nov 25, 2025, 4:20:11 PM",
+            "role_id": 38174107413524628,
+            "server_region": "ws_america_01"
+        },
         "38174107413524638": {
             "crew_id": 0,
             "crew_name": "",
@@ -8702,6 +8734,22 @@
             ],
             "registered": "Nov 25, 2025, 4:21:54 PM",
             "role_id": 38174107413524657,
+            "server_region": "ws_america_01"
+        },
+        "38174107413524750": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 35636.0,
+            "last_seen": 1764094551,
+            "level": 13,
+            "name": "la",
+            "name_history": [
+                "la"
+            ],
+            "registered": "Nov 25, 2025, 4:27:39 PM",
+            "role_id": 38174107413524750,
             "server_region": "ws_america_01"
         },
         "38174107413524810": {
@@ -8993,8 +9041,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 562,
+    "accounts_total": 565,
     "created": 1764067509,
-    "last_updated": 1764094490,
+    "last_updated": 1764094551,
     "server_region": "ws_america_01"
 }
