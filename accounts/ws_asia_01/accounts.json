@@ -597,9 +597,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 21424.0,
-            "last_seen": 1764105954,
-            "level": 8,
+            "hp": 63703.0,
+            "last_seen": 1764113171,
+            "level": 14,
             "name": "ニシン",
             "name_history": [
                 "ニシン"
@@ -8656,6 +8656,22 @@
             "role_id": 38174103118557442,
             "server_region": "ws_asia_01"
         },
+        "38174103118557486": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 46608.0,
+            "last_seen": 1764113171,
+            "level": 14,
+            "name": "海條アルト",
+            "name_history": [
+                "海條アルト"
+            ],
+            "registered": "Nov 25, 2025, 8:01:59 PM",
+            "role_id": 38174103118557486,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557494": {
             "crew_id": 0,
             "crew_name": "",
@@ -10593,8 +10609,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 662,
+    "accounts_total": 663,
     "created": 1764092421,
-    "last_updated": 1764113111,
+    "last_updated": 1764113171,
     "server_region": "ws_asia_01"
 }
