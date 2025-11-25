@@ -272,6 +272,22 @@
             "role_id": 38174103118545015,
             "server_region": "ws_asia_01"
         },
+        "38174103118545032": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74528.0,
+            "last_seen": 1764105894,
+            "level": 19,
+            "name": "kurosawa",
+            "name_history": [
+                "kurosawa"
+            ],
+            "registered": "Nov 25, 2025, 5:01:51 PM",
+            "role_id": 38174103118545032,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545035": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
@@ -864,6 +880,22 @@
             "role_id": 38174103118545361,
             "server_region": "ws_asia_01"
         },
+        "38174103118545370": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 46812.0,
+            "last_seen": 1764105894,
+            "level": 11,
+            "name": "Hanabi",
+            "name_history": [
+                "Hanabi"
+            ],
+            "registered": "Nov 25, 2025, 5:02:59 PM",
+            "role_id": 38174103118545370,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545385": {
             "crew_id": 0,
             "crew_name": "",
@@ -1201,13 +1233,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545567": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 37706.49609375,
-            "last_seen": 1764094162,
-            "level": 7,
+            "hp": 83920.0546875,
+            "last_seen": 1764105894,
+            "level": 19,
             "name": "Kucing Ijo",
             "name_history": [
                 "Kucing Ijo"
@@ -3413,9 +3445,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 39937.0,
-            "last_seen": 1764097602,
-            "level": 13,
+            "hp": 75239.0,
+            "last_seen": 1764105894,
+            "level": 22,
             "name": "Reilin",
             "name_history": [
                 "Reilin"
@@ -4864,6 +4896,22 @@
             "role_id": 38174103118554658,
             "server_region": "ws_asia_01"
         },
+        "38174103118554668": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 73895.0,
+            "last_seen": 1764105894,
+            "level": 22,
+            "name": "Nyxshia",
+            "name_history": [
+                "Nyxshia"
+            ],
+            "registered": "Nov 25, 2025, 6:15:53 PM",
+            "role_id": 38174103118554668,
+            "server_region": "ws_asia_01"
+        },
         "38174103118554860": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
@@ -5521,8 +5569,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 345,
+    "accounts_total": 348,
     "created": 1764092421,
-    "last_updated": 1764105834,
+    "last_updated": 1764105894,
     "server_region": "ws_asia_01"
 }
