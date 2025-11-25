@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "38174103118544902": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 29599.0,
+            "last_seen": 1764094463,
+            "level": 9,
+            "name": "momommo",
+            "name_history": [
+                "momommo"
+            ],
+            "registered": "Nov 25, 2025, 4:22:41 PM",
+            "role_id": 38174103118544902,
+            "server_region": "ws_asia_01"
+        },
         "38174103118544910": {
             "crew_id": 0,
             "crew_name": "",
@@ -448,6 +464,22 @@
             "role_id": 38174103118545509,
             "server_region": "ws_asia_01"
         },
+        "38174103118545552": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 26805.0,
+            "last_seen": 1764094463,
+            "level": 9,
+            "name": "Hikari",
+            "name_history": [
+                "Hikari"
+            ],
+            "registered": "Nov 25, 2025, 5:03:42 PM",
+            "role_id": 38174103118545552,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545553": {
             "crew_id": 0,
             "crew_name": "",
@@ -590,6 +622,22 @@
             ],
             "registered": "Nov 25, 2025, 5:04:06 PM",
             "role_id": 38174103118545632,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545668": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 46374.0,
+            "last_seen": 1764094463,
+            "level": 9,
+            "name": "ストレイド",
+            "name_history": [
+                "ストレイド"
+            ],
+            "registered": "Nov 25, 2025, 5:04:17 PM",
+            "role_id": 38174103118545668,
             "server_region": "ws_asia_01"
         },
         "38174103118545683": {
@@ -832,6 +880,22 @@
             "role_id": 38174103118546447,
             "server_region": "ws_asia_01"
         },
+        "38174103118546455": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 29822.0,
+            "last_seen": 1764094463,
+            "level": 11,
+            "name": "マイン",
+            "name_history": [
+                "マイン"
+            ],
+            "registered": "Nov 25, 2025, 5:12:09 PM",
+            "role_id": 38174103118546455,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546466": {
             "crew_id": 0,
             "crew_name": "",
@@ -1006,6 +1070,22 @@
             ],
             "registered": "Nov 25, 2025, 5:25:41 PM",
             "role_id": 38174103118548137,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118548544": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 14519.0,
+            "last_seen": 1764094463,
+            "level": 2,
+            "name": "Sharpu",
+            "name_history": [
+                "Sharpu"
+            ],
+            "registered": "Nov 25, 2025, 5:27:43 PM",
+            "role_id": 38174103118548544,
             "server_region": "ws_asia_01"
         },
         "38174103118548949": {
@@ -1729,8 +1809,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 108,
+    "accounts_total": 113,
     "created": 1764092421,
-    "last_updated": 1764094403,
+    "last_updated": 1764094463,
     "server_region": "ws_asia_01"
 }
