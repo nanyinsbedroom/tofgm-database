@@ -1,5 +1,37 @@
 {
     "accounts": {
+        "38174103118544928": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40083.0,
+            "last_seen": 1764092721,
+            "level": 9,
+            "name": "Riezu",
+            "name_history": [
+                "Riezu"
+            ],
+            "registered": "Nov 25, 2025, 5:01:38 PM",
+            "role_id": 38174103118544928,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118544968": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 24435.0,
+            "last_seen": 1764092721,
+            "level": 8,
+            "name": "Allure",
+            "name_history": [
+                "Allure"
+            ],
+            "registered": "Nov 25, 2025, 5:01:43 PM",
+            "role_id": 38174103118544968,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545277": {
             "crew_id": 0,
             "crew_name": "",
@@ -14,6 +46,70 @@
             ],
             "registered": "Nov 25, 2025, 5:02:32 PM",
             "role_id": 38174103118545277,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545347": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 17987.0,
+            "last_seen": 1764092721,
+            "level": 9,
+            "name": "Defensio",
+            "name_history": [
+                "Defensio"
+            ],
+            "registered": "Nov 25, 2025, 5:02:53 PM",
+            "role_id": 38174103118545347,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545683": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 25941.0,
+            "last_seen": 1764092721,
+            "level": 8,
+            "name": "Kazuken",
+            "name_history": [
+                "Kazuken"
+            ],
+            "registered": "Nov 25, 2025, 5:04:21 PM",
+            "role_id": 38174103118545683,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546301": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21201.0,
+            "last_seen": 1764092721,
+            "level": 6,
+            "name": "Akina",
+            "name_history": [
+                "Akina"
+            ],
+            "registered": "Nov 25, 2025, 5:10:12 PM",
+            "role_id": 38174103118546301,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118548011": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 12161.0,
+            "last_seen": 1764092721,
+            "level": 4,
+            "name": "SRP ",
+            "name_history": [
+                "SRP "
+            ],
+            "registered": "Nov 25, 2025, 5:25:02 PM",
+            "role_id": 38174103118548011,
             "server_region": "ws_asia_01"
         },
         "38174103118548041": {
@@ -94,6 +190,22 @@
             ],
             "registered": "Nov 25, 2025, 5:31:11 PM",
             "role_id": 38174103118549364,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118549435": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1764092721,
+            "level": 4,
+            "name": "Weke",
+            "name_history": [
+                "Weke"
+            ],
+            "registered": "Nov 25, 2025, 5:31:26 PM",
+            "role_id": 38174103118549435,
             "server_region": "ws_asia_01"
         },
         "38174103118549471": {
@@ -673,8 +785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 42,
+    "accounts_total": 49,
     "created": 1764092421,
-    "last_updated": 1764092601,
+    "last_updated": 1764092721,
     "server_region": "ws_asia_01"
 }
