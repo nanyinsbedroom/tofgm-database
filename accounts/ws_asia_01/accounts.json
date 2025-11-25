@@ -1221,9 +1221,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 35518.91015625,
-            "last_seen": 1764094162,
-            "level": 7,
+            "hp": 86366.0,
+            "last_seen": 1764142439,
+            "level": 22,
             "name": "イヴリス",
             "name_history": [
                 "イヴリス"
@@ -13632,6 +13632,22 @@
             "role_id": 38174103118561185,
             "server_region": "ws_asia_01"
         },
+        "38174103118561197": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75239.0,
+            "last_seen": 1764142439,
+            "level": 22,
+            "name": "Jofu",
+            "name_history": [
+                "Jofu"
+            ],
+            "registered": "Nov 25, 2025, 10:49:02 PM",
+            "role_id": 38174103118561197,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561249": {
             "crew_id": 0,
             "crew_name": "",
@@ -15040,6 +15056,22 @@
             "role_id": 38174103118564750,
             "server_region": "ws_asia_01"
         },
+        "38174103118564914": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 42300.0,
+            "last_seen": 1764142439,
+            "level": 12,
+            "name": "D7",
+            "name_history": [
+                "D7"
+            ],
+            "registered": "Nov 26, 2025, 3:44:46 AM",
+            "role_id": 38174103118564914,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565059": {
             "crew_id": 0,
             "crew_name": "",
@@ -15216,6 +15248,22 @@
             "role_id": 38174103118565534,
             "server_region": "ws_asia_01"
         },
+        "38174103118565546": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54123.0,
+            "last_seen": 1764142439,
+            "level": 11,
+            "name": "さとし",
+            "name_history": [
+                "さとし"
+            ],
+            "registered": "Nov 26, 2025, 5:51:50 AM",
+            "role_id": 38174103118565546,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565557": {
             "crew_id": 0,
             "crew_name": "",
@@ -15297,8 +15345,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 956,
+    "accounts_total": 959,
     "created": 1764092421,
-    "last_updated": 1764142379,
+    "last_updated": 1764142439,
     "server_region": "ws_asia_01"
 }
