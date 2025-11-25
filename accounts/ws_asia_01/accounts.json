@@ -4805,9 +4805,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 34123.0,
-            "last_seen": 1764107695,
-            "level": 11,
+            "hp": 36715.0,
+            "last_seen": 1764137205,
+            "level": 14,
             "name": "Serene",
             "name_history": [
                 "Serene"
@@ -14256,6 +14256,22 @@
             "role_id": 38174103118564750,
             "server_region": "ws_asia_01"
         },
+        "38174103118565059": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49415.0,
+            "last_seen": 1764137205,
+            "level": 17,
+            "name": "Calestia",
+            "name_history": [
+                "Calestia"
+            ],
+            "registered": "Nov 26, 2025, 4:05:28 AM",
+            "role_id": 38174103118565059,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565140": {
             "crew_id": 0,
             "crew_name": "",
@@ -14271,10 +14287,26 @@
             "registered": "Nov 26, 2025, 4:15:19 AM",
             "role_id": 38174103118565140,
             "server_region": "ws_asia_01"
+        },
+        "38174103118565206": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41479.55859375,
+            "last_seen": 1764137205,
+            "level": 13,
+            "name": "Dazette",
+            "name_history": [
+                "Dazette"
+            ],
+            "registered": "Nov 26, 2025, 4:27:45 AM",
+            "role_id": 38174103118565206,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 892,
+    "accounts_total": 894,
     "created": 1764092421,
-    "last_updated": 1764137145,
+    "last_updated": 1764137205,
     "server_region": "ws_asia_01"
 }
