@@ -128,6 +128,22 @@
             "role_id": 38174103118545361,
             "server_region": "ws_asia_01"
         },
+        "38174103118545393": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48094.0,
+            "last_seen": 1764093202,
+            "level": 9,
+            "name": "Miyu",
+            "name_history": [
+                "Miyu"
+            ],
+            "registered": "Nov 25, 2025, 5:03:03 PM",
+            "role_id": 38174103118545393,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545509": {
             "crew_id": 0,
             "crew_name": "",
@@ -222,6 +238,22 @@
             ],
             "registered": "Nov 25, 2025, 5:06:52 PM",
             "role_id": 38174103118545974,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545993": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43812.0,
+            "last_seen": 1764093202,
+            "level": 14,
+            "name": "Saunts",
+            "name_history": [
+                "Saunts"
+            ],
+            "registered": "Nov 25, 2025, 5:07:01 PM",
+            "role_id": 38174103118545993,
             "server_region": "ws_asia_01"
         },
         "38174103118546212": {
@@ -1105,8 +1137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 69,
+    "accounts_total": 71,
     "created": 1764092421,
-    "last_updated": 1764093142,
+    "last_updated": 1764093202,
     "server_region": "ws_asia_01"
 }
