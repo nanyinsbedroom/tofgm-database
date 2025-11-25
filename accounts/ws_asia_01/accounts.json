@@ -1605,9 +1605,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 69859.0,
-            "last_seen": 1764105774,
-            "level": 21,
+            "hp": 83141.0,
+            "last_seen": 1764117664,
+            "level": 22,
             "name": "FURIOUX",
             "name_history": [
                 "FURIOUX"
@@ -5294,6 +5294,22 @@
             ],
             "registered": "Nov 25, 2025, 5:33:32 PM",
             "role_id": 38174103118550046,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118550083": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38209.0,
+            "last_seen": 1764117664,
+            "level": 11,
+            "name": "J3ffTheDude",
+            "name_history": [
+                "J3ffTheDude"
+            ],
+            "registered": "Nov 25, 2025, 5:33:50 PM",
+            "role_id": 38174103118550083,
             "server_region": "ws_asia_01"
         },
         "38174103118550111": {
@@ -11137,8 +11153,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 696,
+    "accounts_total": 697,
     "created": 1764092421,
-    "last_updated": 1764117604,
+    "last_updated": 1764117664,
     "server_region": "ws_asia_01"
 }
