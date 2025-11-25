@@ -1509,9 +1509,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 55900.0,
-            "last_seen": 1764097602,
-            "level": 12,
+            "hp": 59997.0,
+            "last_seen": 1764100690,
+            "level": 15,
             "name": "Danxiety",
             "name_history": [
                 "Danxiety"
@@ -2638,6 +2638,22 @@
             ],
             "registered": "Nov 25, 2025, 5:22:18 PM",
             "role_id": 38174103118547311,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118547334": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75342.0,
+            "last_seen": 1764100690,
+            "level": 21,
+            "name": "Nazca",
+            "name_history": [
+                "Nazca"
+            ],
+            "registered": "Nov 25, 2025, 5:22:24 PM",
+            "role_id": 38174103118547334,
             "server_region": "ws_asia_01"
         },
         "38174103118547512": {
@@ -4001,8 +4017,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 250,
+    "accounts_total": 251,
     "created": 1764092421,
-    "last_updated": 1764100630,
+    "last_updated": 1764100690,
     "server_region": "ws_asia_01"
 }
