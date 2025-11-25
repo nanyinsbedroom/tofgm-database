@@ -479,6 +479,246 @@
             "is_bogon": false
         }
     },
+    "Southeast Asia": {
+        "ip": "43.156.79.146",
+        "country_code": "SG",
+        "country_name": "Singapore",
+        "region_name": "Singapore",
+        "district": "Singapore",
+        "city_name": "Singapore",
+        "latitude": 1.28999,
+        "longitude": 103.85028,
+        "zip_code": "178958",
+        "time_zone": "+08:00",
+        "asn": "132203",
+        "as": "Tencent Building Kejizhongyi Avenue",
+        "as_info": {
+            "as_number": "132203",
+            "as_name": "Tencent Building Kejizhongyi Avenue",
+            "as_domain": "tencent.com",
+            "as_usage_type": "DCH",
+            "as_cidr": "43.156.64.0/18"
+        },
+        "isp": "Aceville Pte.Ltd.",
+        "domain": "tencent.com",
+        "net_speed": "T1",
+        "idd_code": "65",
+        "area_code": "06",
+        "weather_station_code": "SNXX0006",
+        "weather_station_name": "Singapore",
+        "mcc": "-",
+        "mnc": "-",
+        "mobile_brand": "-",
+        "elevation": 7,
+        "usage_type": "DCH",
+        "address_type": "Unicast",
+        "ads_category": "IAB19-11",
+        "ads_category_name": "Data Centers",
+        "continent": {
+            "name": "Asia",
+            "code": "AS",
+            "hemisphere": [
+                "north",
+                "east"
+            ],
+            "translation": {
+                "lang": "en",
+                "value": "Asia"
+            }
+        },
+        "country": {
+            "name": "Singapore",
+            "alpha3_code": "SGP",
+            "numeric_code": 702,
+            "demonym": "Singaporeans",
+            "capital": "Singapore",
+            "total_area": 697,
+            "population": 5975383,
+            "currency": {
+                "code": "SGD",
+                "name": "Singapore Dollar",
+                "symbol": "$"
+            },
+            "language": {
+                "code": "EN",
+                "name": "English"
+            },
+            "tld": "sg",
+            "translation": {
+                "lang": "en",
+                "value": "Singapore"
+            }
+        },
+        "region": {
+            "name": "Singapore",
+            "code": "-",
+            "translation": {
+                "lang": "en",
+                "value": "Singapore"
+            }
+        },
+        "city": {
+            "name": "Singapore",
+            "translation": {
+                "lang": "en",
+                "value": "Singapore"
+            }
+        },
+        "time_zone_info": {
+            "olson": "Asia/Singapore",
+            "gmt_offset": 28800,
+            "is_dst": false,
+            "abbreviation": "SGT",
+            "dst_start_date": null,
+            "dst_end_date": null,
+            "sunrise": "06:47",
+            "sunset": "18:52"
+        },
+        "geotargeting": {
+            "metro": null
+        },
+        "is_proxy": false,
+        "fraud_score": 3,
+        "proxy": {
+            "last_seen": 1,
+            "proxy_type": "DCH",
+            "threat": "-",
+            "provider": "-",
+            "is_vpn": false,
+            "is_tor": false,
+            "is_data_center": true,
+            "is_public_proxy": false,
+            "is_web_proxy": false,
+            "is_web_crawler": false,
+            "is_residential_proxy": false,
+            "is_consumer_privacy_network": false,
+            "is_enterprise_private_network": false,
+            "is_spammer": false,
+            "is_scanner": false,
+            "is_botnet": false,
+            "is_bogon": false
+        }
+    },
+    "South America": {
+        "ip": "43.157.160.30",
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "region_name": "Sao Paulo",
+        "district": "Sao Paulo",
+        "city_name": "Sao Paulo",
+        "latitude": -23.54712,
+        "longitude": -46.63719,
+        "zip_code": "01000-000",
+        "time_zone": "-03:00",
+        "asn": "132203",
+        "as": "Tencent Building Kejizhongyi Avenue",
+        "as_info": {
+            "as_number": "132203",
+            "as_name": "Tencent Building Kejizhongyi Avenue",
+            "as_domain": "tencent.com",
+            "as_usage_type": "DCH",
+            "as_cidr": "43.157.160.0/20"
+        },
+        "isp": "Aceville Pte.Ltd.",
+        "domain": "tencent.com",
+        "net_speed": "T1",
+        "idd_code": "55",
+        "area_code": "011",
+        "weather_station_code": "BRXX0232",
+        "weather_station_name": "Sao Paulo",
+        "mcc": "-",
+        "mnc": "-",
+        "mobile_brand": "-",
+        "elevation": 741,
+        "usage_type": "DCH",
+        "address_type": "Unicast",
+        "ads_category": "IAB19-11",
+        "ads_category_name": "Data Centers",
+        "continent": {
+            "name": "South America",
+            "code": "SA",
+            "hemisphere": [
+                "south",
+                "west"
+            ],
+            "translation": {
+                "lang": "en",
+                "value": "South America"
+            }
+        },
+        "country": {
+            "name": "Brazil",
+            "alpha3_code": "BRA",
+            "numeric_code": 76,
+            "demonym": "Brazilians",
+            "capital": "Brasilia",
+            "total_area": 8514877,
+            "population": 218689757,
+            "currency": {
+                "code": "BRL",
+                "name": "Brazilian Real",
+                "symbol": "R$"
+            },
+            "language": {
+                "code": "PT",
+                "name": "Portuguese"
+            },
+            "tld": "br",
+            "translation": {
+                "lang": "en",
+                "value": "Brazil"
+            }
+        },
+        "region": {
+            "name": "Sao Paulo",
+            "code": "BR-SP",
+            "translation": {
+                "lang": "en",
+                "value": "Sao Paulo"
+            }
+        },
+        "city": {
+            "name": "Sao Paulo",
+            "translation": {
+                "lang": "en",
+                "value": "Sao Paulo"
+            }
+        },
+        "time_zone_info": {
+            "olson": "America/Sao_Paulo",
+            "gmt_offset": -10800,
+            "is_dst": false,
+            "abbreviation": "BRT",
+            "dst_start_date": null,
+            "dst_end_date": null,
+            "sunrise": "05:11",
+            "sunset": "18:32"
+        },
+        "geotargeting": {
+            "metro": null
+        },
+        "is_proxy": false,
+        "fraud_score": 3,
+        "proxy": {
+            "last_seen": 1,
+            "proxy_type": "DCH",
+            "threat": "-",
+            "provider": "-",
+            "is_vpn": false,
+            "is_tor": false,
+            "is_data_center": true,
+            "is_public_proxy": false,
+            "is_web_proxy": false,
+            "is_web_crawler": false,
+            "is_residential_proxy": false,
+            "is_consumer_privacy_network": false,
+            "is_enterprise_private_network": false,
+            "is_spammer": false,
+            "is_scanner": false,
+            "is_botnet": false,
+            "is_bogon": false
+        }
+    },
     "PS-America": {
         "ip": "34.95.80.31",
         "country_code": "US",
@@ -959,17 +1199,17 @@
             "is_bogon": false
         }
     },
-    "Southeast Asia": {
-        "ip": "43.156.79.146",
-        "country_code": "SG",
-        "country_name": "Singapore",
-        "region_name": "Singapore",
-        "district": "Singapore",
-        "city_name": "Singapore",
-        "latitude": 1.28999,
-        "longitude": 103.85028,
-        "zip_code": "178958",
-        "time_zone": "+08:00",
+    "WS-Asia-01": {
+        "ip": "43.167.195.220",
+        "country_code": "JP",
+        "country_name": "Japan",
+        "region_name": "Tokyo",
+        "district": "Shinjuku City",
+        "city_name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69232,
+        "zip_code": "100-0000",
+        "time_zone": "+09:00",
         "asn": "132203",
         "as": "Tencent Building Kejizhongyi Avenue",
         "as_info": {
@@ -977,19 +1217,19 @@
             "as_name": "Tencent Building Kejizhongyi Avenue",
             "as_domain": "tencent.com",
             "as_usage_type": "DCH",
-            "as_cidr": "43.156.64.0/18"
+            "as_cidr": "43.167.192.0/18"
         },
         "isp": "Aceville Pte.Ltd.",
         "domain": "tencent.com",
         "net_speed": "T1",
-        "idd_code": "65",
-        "area_code": "06",
-        "weather_station_code": "SNXX0006",
-        "weather_station_name": "Singapore",
+        "idd_code": "81",
+        "area_code": "042",
+        "weather_station_code": "JAXX0085",
+        "weather_station_name": "Tokyo",
         "mcc": "-",
         "mnc": "-",
         "mobile_brand": "-",
-        "elevation": 7,
+        "elevation": 37,
         "usage_type": "DCH",
         "address_type": "Unicast",
         "ads_category": "IAB19-11",
@@ -1007,52 +1247,52 @@
             }
         },
         "country": {
-            "name": "Singapore",
-            "alpha3_code": "SGP",
-            "numeric_code": 702,
-            "demonym": "Singaporeans",
-            "capital": "Singapore",
-            "total_area": 697,
-            "population": 5975383,
+            "name": "Japan",
+            "alpha3_code": "JPN",
+            "numeric_code": 392,
+            "demonym": "Japanese",
+            "capital": "Tokyo",
+            "total_area": 377915,
+            "population": 123719238,
             "currency": {
-                "code": "SGD",
-                "name": "Singapore Dollar",
-                "symbol": "$"
+                "code": "JPY",
+                "name": "Japanese Yen",
+                "symbol": "¥"
             },
             "language": {
-                "code": "EN",
-                "name": "English"
+                "code": "JA",
+                "name": "Japanese"
             },
-            "tld": "sg",
+            "tld": "jp",
             "translation": {
                 "lang": "en",
-                "value": "Singapore"
+                "value": "Japan"
             }
         },
         "region": {
-            "name": "Singapore",
-            "code": "-",
+            "name": "Tokyo",
+            "code": "JP-13",
             "translation": {
                 "lang": "en",
-                "value": "Singapore"
+                "value": "Tokyo"
             }
         },
         "city": {
-            "name": "Singapore",
+            "name": "Tokyo",
             "translation": {
                 "lang": "en",
-                "value": "Singapore"
+                "value": "Tokyo"
             }
         },
         "time_zone_info": {
-            "olson": "Asia/Singapore",
-            "gmt_offset": 28800,
+            "olson": "Asia/Tokyo",
+            "gmt_offset": 32400,
             "is_dst": false,
-            "abbreviation": "SGT",
+            "abbreviation": "JST",
             "dst_start_date": null,
             "dst_end_date": null,
-            "sunrise": "06:47",
-            "sunset": "18:52"
+            "sunrise": "06:25",
+            "sunset": "16:30"
         },
         "geotargeting": {
             "metro": null
@@ -1079,17 +1319,137 @@
             "is_bogon": false
         }
     },
-    "South America": {
-        "ip": "43.157.160.30",
-        "country_code": "BR",
-        "country_name": "Brazil",
-        "region_name": "Sao Paulo",
-        "district": "Sao Paulo",
-        "city_name": "Sao Paulo",
-        "latitude": -23.54712,
-        "longitude": -46.63719,
-        "zip_code": "01000-000",
-        "time_zone": "-03:00",
+    "WS-America-01": {
+        "ip": "35.199.24.133",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "region_name": "Virginia",
+        "district": "Loudoun County",
+        "city_name": "Ashburn",
+        "latitude": 39.03947,
+        "longitude": -77.49181,
+        "zip_code": "20147",
+        "time_zone": "-05:00",
+        "asn": "396982",
+        "as": "Google LLC",
+        "as_info": {
+            "as_number": "396982",
+            "as_name": "Google LLC",
+            "as_domain": "google.com",
+            "as_usage_type": "DCH",
+            "as_cidr": "35.199.16.0/20"
+        },
+        "isp": "Google LLC",
+        "domain": "google.com",
+        "net_speed": "T1",
+        "idd_code": "1",
+        "area_code": "703",
+        "weather_station_code": "USVA0027",
+        "weather_station_name": "Ashburn",
+        "mcc": "-",
+        "mnc": "-",
+        "mobile_brand": "-",
+        "elevation": 83,
+        "usage_type": "DCH",
+        "address_type": "Unicast",
+        "ads_category": "IAB19-11",
+        "ads_category_name": "Data Centers",
+        "continent": {
+            "name": "North America",
+            "code": "NA",
+            "hemisphere": [
+                "north",
+                "west"
+            ],
+            "translation": {
+                "lang": "en",
+                "value": "North America"
+            }
+        },
+        "country": {
+            "name": "United States of America",
+            "alpha3_code": "USA",
+            "numeric_code": 840,
+            "demonym": "Americans",
+            "capital": "Washington, D.C.",
+            "total_area": 9826675,
+            "population": 339665118,
+            "currency": {
+                "code": "USD",
+                "name": "United States Dollar",
+                "symbol": "$"
+            },
+            "language": {
+                "code": "EN",
+                "name": "English"
+            },
+            "tld": "us",
+            "translation": {
+                "lang": "en",
+                "value": "United States of America"
+            }
+        },
+        "region": {
+            "name": "Virginia",
+            "code": "US-VA",
+            "translation": {
+                "lang": "en",
+                "value": "Virginia"
+            }
+        },
+        "city": {
+            "name": "Ashburn",
+            "translation": {
+                "lang": "en",
+                "value": "Ashburn"
+            }
+        },
+        "time_zone_info": {
+            "olson": "America/New_York",
+            "gmt_offset": -18000,
+            "is_dst": false,
+            "abbreviation": "EST",
+            "dst_start_date": "2025-03-09",
+            "dst_end_date": "2025-11-02",
+            "sunrise": "07:02",
+            "sunset": "16:51"
+        },
+        "geotargeting": {
+            "metro": "511"
+        },
+        "is_proxy": false,
+        "fraud_score": 3,
+        "proxy": {
+            "last_seen": 1,
+            "proxy_type": "DCH",
+            "threat": "-",
+            "provider": "-",
+            "is_vpn": false,
+            "is_tor": false,
+            "is_data_center": true,
+            "is_public_proxy": false,
+            "is_web_proxy": false,
+            "is_web_crawler": false,
+            "is_residential_proxy": false,
+            "is_consumer_privacy_network": false,
+            "is_enterprise_private_network": false,
+            "is_spammer": false,
+            "is_scanner": false,
+            "is_botnet": false,
+            "is_bogon": false
+        }
+    },
+    "WS-Europe-01": {
+        "ip": "43.157.16.167",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "region_name": "Hessen",
+        "district": "Regierungsbezirk Darmstadt",
+        "city_name": "Frankfurt am Main",
+        "latitude": 50.11088,
+        "longitude": 8.682,
+        "zip_code": "65931",
+        "time_zone": "+01:00",
         "asn": "132203",
         "as": "Tencent Building Kejizhongyi Avenue",
         "as_info": {
@@ -1097,82 +1457,82 @@
             "as_name": "Tencent Building Kejizhongyi Avenue",
             "as_domain": "tencent.com",
             "as_usage_type": "DCH",
-            "as_cidr": "43.157.160.0/20"
+            "as_cidr": "43.157.0.0/18"
         },
         "isp": "Aceville Pte.Ltd.",
         "domain": "tencent.com",
         "net_speed": "T1",
-        "idd_code": "55",
-        "area_code": "011",
-        "weather_station_code": "BRXX0232",
-        "weather_station_name": "Sao Paulo",
+        "idd_code": "49",
+        "area_code": "069",
+        "weather_station_code": "GMXX0040",
+        "weather_station_name": "Frankfurt/Main",
         "mcc": "-",
         "mnc": "-",
         "mobile_brand": "-",
-        "elevation": 741,
+        "elevation": 97,
         "usage_type": "DCH",
         "address_type": "Unicast",
         "ads_category": "IAB19-11",
         "ads_category_name": "Data Centers",
         "continent": {
-            "name": "South America",
-            "code": "SA",
+            "name": "Europe",
+            "code": "EU",
             "hemisphere": [
-                "south",
-                "west"
+                "north",
+                "east"
             ],
             "translation": {
                 "lang": "en",
-                "value": "South America"
+                "value": "Europe"
             }
         },
         "country": {
-            "name": "Brazil",
-            "alpha3_code": "BRA",
-            "numeric_code": 76,
-            "demonym": "Brazilians",
-            "capital": "Brasilia",
-            "total_area": 8514877,
-            "population": 218689757,
+            "name": "Germany",
+            "alpha3_code": "DEU",
+            "numeric_code": 276,
+            "demonym": "Germans",
+            "capital": "Berlin",
+            "total_area": 357022,
+            "population": 84220184,
             "currency": {
-                "code": "BRL",
-                "name": "Brazilian Real",
-                "symbol": "R$"
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
             },
             "language": {
-                "code": "PT",
-                "name": "Portuguese"
+                "code": "DE",
+                "name": "German"
             },
-            "tld": "br",
+            "tld": "de",
             "translation": {
                 "lang": "en",
-                "value": "Brazil"
+                "value": "Germany"
             }
         },
         "region": {
-            "name": "Sao Paulo",
-            "code": "BR-SP",
+            "name": "Hessen",
+            "code": "DE-HE",
             "translation": {
                 "lang": "en",
-                "value": "Sao Paulo"
+                "value": "Hessen"
             }
         },
         "city": {
-            "name": "Sao Paulo",
+            "name": "Frankfurt am Main",
             "translation": {
                 "lang": "en",
-                "value": "Sao Paulo"
+                "value": "Frankfurt am Main"
             }
         },
         "time_zone_info": {
-            "olson": "America/Sao_Paulo",
-            "gmt_offset": -10800,
+            "olson": "Europe/Berlin",
+            "gmt_offset": 3600,
             "is_dst": false,
-            "abbreviation": "BRT",
-            "dst_start_date": null,
-            "dst_end_date": null,
-            "sunrise": "05:11",
-            "sunset": "18:32"
+            "abbreviation": "CET",
+            "dst_start_date": "2025-03-30",
+            "dst_end_date": "2025-10-26",
+            "sunrise": "07:52",
+            "sunset": "16:32"
         },
         "geotargeting": {
             "metro": null
