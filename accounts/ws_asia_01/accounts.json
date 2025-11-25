@@ -2528,6 +2528,22 @@
             "role_id": 38174103118546854,
             "server_region": "ws_asia_01"
         },
+        "38174103118546859": {
+            "crew_id": 201872351013,
+            "crew_name": "VALKYRIE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60985.0,
+            "last_seen": 1764100991,
+            "level": 20,
+            "name": "Misago",
+            "name_history": [
+                "Misago"
+            ],
+            "registered": "Nov 25, 2025, 5:18:08 PM",
+            "role_id": 38174103118546859,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546885": {
             "crew_id": 0,
             "crew_name": "",
@@ -4209,8 +4225,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 263,
+    "accounts_total": 264,
     "created": 1764092421,
-    "last_updated": 1764100931,
+    "last_updated": 1764100991,
     "server_region": "ws_asia_01"
 }
