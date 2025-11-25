@@ -1392,6 +1392,22 @@
             "role_id": 38174103118546578,
             "server_region": "ws_asia_01"
         },
+        "38174103118546616": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19296.0,
+            "last_seen": 1764095143,
+            "level": 14,
+            "name": "S02",
+            "name_history": [
+                "S02"
+            ],
+            "registered": "Nov 25, 2025, 5:14:19 PM",
+            "role_id": 38174103118546616,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546620": {
             "crew_id": 0,
             "crew_name": "",
@@ -2401,8 +2417,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 150,
+    "accounts_total": 151,
     "created": 1764092421,
-    "last_updated": 1764095083,
+    "last_updated": 1764095143,
     "server_region": "ws_asia_01"
 }
