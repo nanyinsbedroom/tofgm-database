@@ -1109,8 +1109,8 @@
             "crew_name": "Michi Pizzería",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 72014.0,
-            "last_seen": 1764068465,
+            "hp": 46164.69140625,
+            "last_seen": 1764080419,
             "level": 22,
             "name": "Momoeh",
             "name_history": [
@@ -2734,6 +2734,22 @@
             ],
             "registered": "Nov 25, 2025, 5:02:25 AM",
             "role_id": 38174107413514627,
+            "server_region": "ws_america_01"
+        },
+        "38174107413514631": {
+            "crew_id": 188987449126,
+            "crew_name": "Brasil_Pegasus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 57341.125,
+            "last_seen": 1764080419,
+            "level": 20,
+            "name": "Red Hood",
+            "name_history": [
+                "Red Hood"
+            ],
+            "registered": "Nov 25, 2025, 5:02:42 AM",
+            "role_id": 38174107413514631,
             "server_region": "ws_america_01"
         },
         "38174107413514657": {
@@ -6528,6 +6544,22 @@
             "role_id": 38174107413519730,
             "server_region": "ws_america_01"
         },
+        "38174107413519782": {
+            "crew_id": 420915683110,
+            "crew_name": "Unity",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21268.48828125,
+            "last_seen": 1764080419,
+            "level": 20,
+            "name": "Yanagi",
+            "name_history": [
+                "Yanagi"
+            ],
+            "registered": "Nov 25, 2025, 10:31:06 AM",
+            "role_id": 38174107413519782,
+            "server_region": "ws_america_01"
+        },
         "38174107413519783": {
             "crew_id": 0,
             "crew_name": "",
@@ -7264,6 +7296,22 @@
             "role_id": 38174107413521790,
             "server_region": "ws_america_01"
         },
+        "38174107413521818": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39715.0,
+            "last_seen": 1764080419,
+            "level": 11,
+            "name": "Aylisa",
+            "name_history": [
+                "Aylisa"
+            ],
+            "registered": "Nov 25, 2025, 12:43:43 PM",
+            "role_id": 38174107413521818,
+            "server_region": "ws_america_01"
+        },
         "38174107413521857": {
             "crew_id": 0,
             "crew_name": "",
@@ -7297,8 +7345,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 456,
+    "accounts_total": 459,
     "created": 1764067509,
-    "last_updated": 1764080359,
+    "last_updated": 1764080419,
     "server_region": "ws_america_01"
 }
