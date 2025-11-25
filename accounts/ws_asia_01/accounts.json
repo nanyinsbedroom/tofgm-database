@@ -272,6 +272,22 @@
             "role_id": 38174103118545015,
             "server_region": "ws_asia_01"
         },
+        "38174103118545035": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75615.0,
+            "last_seen": 1764103273,
+            "level": 22,
+            "name": "Shonya",
+            "name_history": [
+                "Shonya"
+            ],
+            "registered": "Nov 25, 2025, 5:01:51 PM",
+            "role_id": 38174103118545035,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545036": {
             "crew_id": 0,
             "crew_name": "",
@@ -641,13 +657,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545266": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 197577383717,
+            "crew_name": "Kurumi Cult",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 69422.0,
-            "last_seen": 1764098863,
-            "level": 19,
+            "hp": 73143.0,
+            "last_seen": 1764103273,
+            "level": 22,
             "name": "Aurielle",
             "name_history": [
                 "Aurielle"
@@ -5025,8 +5041,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 314,
+    "accounts_total": 315,
     "created": 1764092421,
-    "last_updated": 1764103213,
+    "last_updated": 1764103273,
     "server_region": "ws_asia_01"
 }
