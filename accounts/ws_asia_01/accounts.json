@@ -2608,6 +2608,22 @@
             "role_id": 38174103118553201,
             "server_region": "ws_asia_01"
         },
+        "38174103118553456": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19696.0,
+            "last_seen": 1764095889,
+            "level": 6,
+            "name": "Khunti",
+            "name_history": [
+                "Khunti"
+            ],
+            "registered": "Nov 25, 2025, 5:52:42 PM",
+            "role_id": 38174103118553456,
+            "server_region": "ws_asia_01"
+        },
         "38174103118553713": {
             "crew_id": 0,
             "crew_name": "",
@@ -2657,8 +2673,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 166,
+    "accounts_total": 167,
     "created": 1764092421,
-    "last_updated": 1764095769,
+    "last_updated": 1764095889,
     "server_region": "ws_asia_01"
 }
