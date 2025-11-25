@@ -1504,6 +1504,22 @@
             "role_id": 38174111708481663,
             "server_region": "ws_europe_01"
         },
+        "38174111708481669": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 44168.0,
+            "last_seen": 1764092587,
+            "level": 9,
+            "name": "Akkelia",
+            "name_history": [
+                "Akkelia"
+            ],
+            "registered": "Nov 25, 2025, 11:10:41 AM",
+            "role_id": 38174111708481669,
+            "server_region": "ws_europe_01"
+        },
         "38174111708481676": {
             "crew_id": 0,
             "crew_name": "",
@@ -3089,8 +3105,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 193,
+    "accounts_total": 194,
     "created": 1764046902,
-    "last_updated": 1764092347,
+    "last_updated": 1764092587,
     "server_region": "ws_europe_01"
 }
