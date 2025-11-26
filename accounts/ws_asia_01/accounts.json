@@ -597,9 +597,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 75674.0,
-            "last_seen": 1764134715,
-            "level": 23,
+            "hp": 32256.0,
+            "last_seen": 1764180522,
+            "level": 29,
             "name": "JellySG",
             "name_history": [
                 "JellySG"
@@ -3134,6 +3134,22 @@
             ],
             "registered": "Nov 25, 2025, 5:06:20 PM",
             "role_id": 38174103118545928,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545936": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42100.86328125,
+            "last_seen": 1764180522,
+            "level": 21,
+            "name": "Mors Vita",
+            "name_history": [
+                "Mors Vita"
+            ],
+            "registered": "Nov 25, 2025, 5:06:27 PM",
+            "role_id": 38174103118545936,
             "server_region": "ws_asia_01"
         },
         "38174103118545940": {
@@ -8256,6 +8272,22 @@
             "role_id": 38174103118554117,
             "server_region": "ws_asia_01"
         },
+        "38174103118554121": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 94098.3984375,
+            "last_seen": 1764180522,
+            "level": 29,
+            "name": "Kean",
+            "name_history": [
+                "Kean"
+            ],
+            "registered": "Nov 25, 2025, 6:01:13 PM",
+            "role_id": 38174103118554121,
+            "server_region": "ws_asia_01"
+        },
         "38174103118554124": {
             "crew_id": 0,
             "crew_name": "",
@@ -10014,6 +10046,22 @@
             ],
             "registered": "Nov 25, 2025, 7:00:26 PM",
             "role_id": 38174103118555974,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555976": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 96101.6015625,
+            "last_seen": 1764180522,
+            "level": 29,
+            "name": "Phai",
+            "name_history": [
+                "Phai"
+            ],
+            "registered": "Nov 25, 2025, 7:00:27 PM",
+            "role_id": 38174103118555976,
             "server_region": "ws_asia_01"
         },
         "38174103118555981": {
@@ -17009,8 +17057,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1063,
+    "accounts_total": 1066,
     "created": 1764092421,
-    "last_updated": 1764180462,
+    "last_updated": 1764180522,
     "server_region": "ws_asia_01"
 }
