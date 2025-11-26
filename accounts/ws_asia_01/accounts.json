@@ -6307,11 +6307,11 @@
         "38174103118547523": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 74832.375,
-            "last_seen": 1764137265,
-            "level": 25,
+            "hp": 114908.8046875,
+            "last_seen": 1764215536,
+            "level": 29,
             "name": "TitoJay",
             "name_history": [
                 "TitoJay"
@@ -12102,7 +12102,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 98927.3984375,
-            "last_seen": 1764213509,
+            "last_seen": 1764215536,
             "level": 29,
             "name": "forty",
             "name_history": [
@@ -17856,6 +17856,22 @@
             "role_id": 38174103118561838,
             "server_region": "ws_asia_01"
         },
+        "38174103118561849": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 93397.796875,
+            "last_seen": 1764215536,
+            "level": 29,
+            "name": "JinxZack",
+            "name_history": [
+                "JinxZack"
+            ],
+            "registered": "Nov 25, 2025, 11:23:45 PM",
+            "role_id": 38174103118561849,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561898": {
             "crew_id": 0,
             "crew_name": "",
@@ -20848,6 +20864,22 @@
             "role_id": 38174103118568545,
             "server_region": "ws_asia_01"
         },
+        "38174103118568598": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 68703.0,
+            "last_seen": 1764215536,
+            "level": 14,
+            "name": "DarkSF",
+            "name_history": [
+                "DarkSF"
+            ],
+            "registered": "Nov 26, 2025, 2:29:51 PM",
+            "role_id": 38174103118568598,
+            "server_region": "ws_asia_01"
+        },
         "38174103118568671": {
             "crew_id": 0,
             "crew_name": "",
@@ -21681,8 +21713,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1355,
+    "accounts_total": 1357,
     "created": 1764092421,
-    "last_updated": 1764215476,
+    "last_updated": 1764215536,
     "server_region": "ws_asia_01"
 }
