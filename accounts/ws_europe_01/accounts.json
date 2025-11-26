@@ -1696,6 +1696,22 @@
             "role_id": 38174111708481239,
             "server_region": "ws_europe_01"
         },
+        "38174111708481242": {
+            "crew_id": 51548495655,
+            "crew_name": "Kuragami",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 92384.203125,
+            "last_seen": 1764188250,
+            "level": 29,
+            "name": "BAru",
+            "name_history": [
+                "BAru"
+            ],
+            "registered": "Nov 25, 2025, 10:31:21 AM",
+            "role_id": 38174111708481242,
+            "server_region": "ws_europe_01"
+        },
         "38174111708481265": {
             "crew_id": 180397514535,
             "crew_name": "Purple",
@@ -2659,11 +2675,11 @@
         "38174111708482188": {
             "crew_id": 249116991271,
             "crew_name": "Tower of Tundra",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 67471.0,
-            "last_seen": 1764091926,
-            "level": 15,
+            "hp": 115392.0,
+            "last_seen": 1764188250,
+            "level": 29,
             "name": "Zainho",
             "name_history": [
                 "Zainho"
@@ -4175,10 +4191,26 @@
             "registered": "Nov 25, 2025, 11:30:42 PM",
             "role_id": 38174111708488378,
             "server_region": "ws_europe_01"
+        },
+        "38174111708489646": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13667.0,
+            "last_seen": 1764188250,
+            "level": 4,
+            "name": "Hayruline",
+            "name_history": [
+                "Hayruline"
+            ],
+            "registered": "Nov 26, 2025, 7:48:01 AM",
+            "role_id": 38174111708489646,
+            "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 261,
+    "accounts_total": 263,
     "created": 1764046902,
-    "last_updated": 1764188190,
+    "last_updated": 1764188250,
     "server_region": "ws_europe_01"
 }
