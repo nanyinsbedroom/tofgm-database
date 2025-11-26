@@ -3797,8 +3797,8 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 85058.625,
-            "last_seen": 1764199416,
+            "hp": 38398.02734375,
+            "last_seen": 1764213089,
             "level": 29,
             "name": "Yuumi",
             "name_history": [
@@ -21136,6 +21136,22 @@
             "role_id": 38174103118574274,
             "server_region": "ws_asia_01"
         },
+        "38174103118574318": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 51558.0,
+            "last_seen": 1764213089,
+            "level": 15,
+            "name": "Dionesu",
+            "name_history": [
+                "Dionesu"
+            ],
+            "registered": "Nov 27, 2025, 12:30:31 AM",
+            "role_id": 38174103118574318,
+            "server_region": "ws_asia_01"
+        },
         "38174103118574471": {
             "crew_id": 0,
             "crew_name": "",
@@ -21153,8 +21169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1322,
+    "accounts_total": 1323,
     "created": 1764092421,
-    "last_updated": 1764212849,
+    "last_updated": 1764213089,
     "server_region": "ws_asia_01"
 }
