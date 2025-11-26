@@ -2325,9 +2325,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 63558.0,
-            "last_seen": 1764135676,
-            "level": 18,
+            "hp": 116046.0,
+            "last_seen": 1764223757,
+            "level": 33,
             "name": "Xiado",
             "name_history": [
                 "Xiado"
@@ -19088,6 +19088,22 @@
             "role_id": 38174103118563203,
             "server_region": "ws_asia_01"
         },
+        "38174103118563251": {
+            "crew_id": 90203201317,
+            "crew_name": "Wyverns",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105774.0,
+            "last_seen": 1764223757,
+            "level": 30,
+            "name": "Freebies",
+            "name_history": [
+                "Freebies"
+            ],
+            "registered": "Nov 26, 2025, 12:48:29 AM",
+            "role_id": 38174103118563251,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563256": {
             "crew_id": 0,
             "crew_name": "",
@@ -22209,8 +22225,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1388,
+    "accounts_total": 1389,
     "created": 1764092421,
-    "last_updated": 1764223697,
+    "last_updated": 1764223757,
     "server_region": "ws_asia_01"
 }
