@@ -469,9 +469,9 @@
             "crew_name": "Eissentam",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 113749.203125,
-            "last_seen": 1764180402,
-            "level": 29,
+            "hp": 117704.40625,
+            "last_seen": 1764223938,
+            "level": 33,
             "name": "Zenxlay",
             "name_history": [
                 "Zenxlay"
@@ -12693,9 +12693,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 59038.67578125,
-            "last_seen": 1764127970,
-            "level": 22,
+            "hp": 126017.6953125,
+            "last_seen": 1764223938,
+            "level": 34,
             "name": "XhERES",
             "name_history": [
                 "XhERES"
@@ -19776,6 +19776,22 @@
             "role_id": 38174103118564097,
             "server_region": "ws_asia_01"
         },
+        "38174103118564118": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71760.0,
+            "last_seen": 1764223938,
+            "level": 26,
+            "name": "ShiraishiNana",
+            "name_history": [
+                "ShiraishiNana"
+            ],
+            "registered": "Nov 26, 2025, 2:04:51 AM",
+            "role_id": 38174103118564118,
+            "server_region": "ws_asia_01"
+        },
         "38174103118564133": {
             "crew_id": 0,
             "crew_name": "",
@@ -20286,6 +20302,22 @@
             ],
             "registered": "Nov 26, 2025, 3:34:36 AM",
             "role_id": 38174103118564845,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564866": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 100789.6015625,
+            "last_seen": 1764223938,
+            "level": 32,
+            "name": "Naime",
+            "name_history": [
+                "Naime"
+            ],
+            "registered": "Nov 26, 2025, 3:36:51 AM",
+            "role_id": 38174103118564866,
             "server_region": "ws_asia_01"
         },
         "38174103118564914": {
@@ -22289,8 +22321,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1393,
+    "accounts_total": 1395,
     "created": 1764092421,
-    "last_updated": 1764223878,
+    "last_updated": 1764223938,
     "server_region": "ws_asia_01"
 }
