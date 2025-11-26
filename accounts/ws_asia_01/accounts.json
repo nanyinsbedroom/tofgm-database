@@ -12405,9 +12405,9 @@
             "crew_name": "INTROVERTS",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 78840.0,
-            "last_seen": 1764124396,
-            "level": 22,
+            "hp": 106807.0,
+            "last_seen": 1764184079,
+            "level": 29,
             "name": "Vantam",
             "name_history": [
                 "Vantam"
@@ -17439,10 +17439,26 @@
             "registered": "Nov 26, 2025, 3:31:17 PM",
             "role_id": 38174103118569003,
             "server_region": "ws_asia_01"
+        },
+        "38174103118569189": {
+            "crew_id": 201872351013,
+            "crew_name": "VALKYRIE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78472.0,
+            "last_seen": 1764184079,
+            "level": 24,
+            "name": "Rwby",
+            "name_history": [
+                "Rwby"
+            ],
+            "registered": "Nov 26, 2025, 4:03:56 PM",
+            "role_id": 38174103118569189,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1090,
+    "accounts_total": 1091,
     "created": 1764092421,
-    "last_updated": 1764184019,
+    "last_updated": 1764184079,
     "server_region": "ws_asia_01"
 }
