@@ -10389,8 +10389,8 @@
             "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 96101.6015625,
-            "last_seen": 1764180522,
+            "hp": 99880.203125,
+            "last_seen": 1764198815,
             "level": 29,
             "name": "Phai",
             "name_history": [
@@ -14176,6 +14176,22 @@
             "role_id": 38174103118559428,
             "server_region": "ws_asia_01"
         },
+        "38174103118559465": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 87684.0,
+            "last_seen": 1764198815,
+            "level": 29,
+            "name": "Fuwari",
+            "name_history": [
+                "Fuwari"
+            ],
+            "registered": "Nov 25, 2025, 9:24:53 PM",
+            "role_id": 38174103118559465,
+            "server_region": "ws_asia_01"
+        },
         "38174103118559467": {
             "crew_id": 0,
             "crew_name": "",
@@ -17024,6 +17040,22 @@
             "role_id": 38174103118564999,
             "server_region": "ws_asia_01"
         },
+        "38174103118565032": {
+            "crew_id": 223347187493,
+            "crew_name": "MoonGlade",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 80303.0,
+            "last_seen": 1764198815,
+            "level": 25,
+            "name": "ArchFey",
+            "name_history": [
+                "ArchFey"
+            ],
+            "registered": "Nov 26, 2025, 4:02:06 AM",
+            "role_id": 38174103118565032,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565040": {
             "crew_id": 0,
             "crew_name": "",
@@ -17665,8 +17697,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1104,
+    "accounts_total": 1106,
     "created": 1764092421,
-    "last_updated": 1764198755,
+    "last_updated": 1764198815,
     "server_region": "ws_asia_01"
 }
