@@ -20965,9 +20965,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 70246.0,
-            "last_seen": 1764215175,
-            "level": 24,
+            "hp": 80805.796875,
+            "last_seen": 1764221956,
+            "level": 28,
             "name": "HanaIisa",
             "name_history": [
                 "HanaIisa"
@@ -21246,6 +21246,22 @@
             ],
             "registered": "Nov 26, 2025, 4:17:33 PM",
             "role_id": 38174103118569267,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118569269": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 67693.0,
+            "last_seen": 1764221956,
+            "level": 17,
+            "name": "Igun",
+            "name_history": [
+                "Igun"
+            ],
+            "registered": "Nov 26, 2025, 4:17:47 PM",
+            "role_id": 38174103118569269,
             "server_region": "ws_asia_01"
         },
         "38174103118569280": {
@@ -22049,8 +22065,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1378,
+    "accounts_total": 1379,
     "created": 1764092421,
-    "last_updated": 1764221896,
+    "last_updated": 1764221956,
     "server_region": "ws_asia_01"
 }
