@@ -1120,6 +1120,22 @@
             "role_id": 38174111708480519,
             "server_region": "ws_europe_01"
         },
+        "38174111708480570": {
+            "crew_id": 73023332135,
+            "crew_name": "Адепты Бура",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90686.0,
+            "last_seen": 1764156000,
+            "level": 27,
+            "name": "Солнце",
+            "name_history": [
+                "Солнце"
+            ],
+            "registered": "Nov 25, 2025, 9:38:52 AM",
+            "role_id": 38174111708480570,
+            "server_region": "ws_europe_01"
+        },
         "38174111708480586": {
             "crew_id": 47253528359,
             "crew_name": "Oasis",
@@ -4097,8 +4113,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 256,
+    "accounts_total": 257,
     "created": 1764046902,
-    "last_updated": 1764094395,
+    "last_updated": 1764156000,
     "server_region": "ws_europe_01"
 }
