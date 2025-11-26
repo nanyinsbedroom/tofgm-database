@@ -5280,6 +5280,22 @@
             "role_id": 38174103118546991,
             "server_region": "ws_asia_01"
         },
+        "38174103118546994": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79935.0,
+            "last_seen": 1764180462,
+            "level": 27,
+            "name": "Mortis",
+            "name_history": [
+                "Mortis"
+            ],
+            "registered": "Nov 25, 2025, 5:20:21 PM",
+            "role_id": 38174103118546994,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546995": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
@@ -8014,6 +8030,22 @@
             ],
             "registered": "Nov 25, 2025, 5:54:48 PM",
             "role_id": 38174103118553719,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553755": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91447.0,
+            "last_seen": 1764180462,
+            "level": 29,
+            "name": "Fenfen",
+            "name_history": [
+                "Fenfen"
+            ],
+            "registered": "Nov 25, 2025, 5:55:09 PM",
+            "role_id": 38174103118553755,
             "server_region": "ws_asia_01"
         },
         "38174103118553798": {
@@ -16977,8 +17009,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1061,
+    "accounts_total": 1063,
     "created": 1764092421,
-    "last_updated": 1764180402,
+    "last_updated": 1764180462,
     "server_region": "ws_asia_01"
 }
