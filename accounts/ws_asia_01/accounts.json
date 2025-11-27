@@ -608,6 +608,22 @@
             "role_id": 38174103118545032,
             "server_region": "ws_asia_01"
         },
+        "38174103118545033": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 47840.63671875,
+            "last_seen": 1764305827,
+            "level": 21,
+            "name": "Rein",
+            "name_history": [
+                "Rein"
+            ],
+            "registered": "Nov 25, 2025, 5:01:51 PM",
+            "role_id": 38174103118545033,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545035": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
@@ -6286,6 +6302,22 @@
             ],
             "registered": "Nov 25, 2025, 5:18:13 PM",
             "role_id": 38174103118546864,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546868": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 106702.3828125,
+            "last_seen": 1764305827,
+            "level": 34,
+            "name": "Whirley",
+            "name_history": [
+                "Whirley"
+            ],
+            "registered": "Nov 25, 2025, 5:18:17 PM",
+            "role_id": 38174103118546868,
             "server_region": "ws_asia_01"
         },
         "38174103118546871": {
@@ -21745,13 +21777,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118564136": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 57010.0,
-            "last_seen": 1764128330,
-            "level": 21,
+            "hp": 120888.0,
+            "last_seen": 1764305827,
+            "level": 34,
             "name": "iseeep",
             "name_history": [
                 "iseeep"
@@ -24000,6 +24032,22 @@
             "role_id": 38174103118569756,
             "server_region": "ws_asia_01"
         },
+        "38174103118569818": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 89654.203125,
+            "last_seen": 1764305827,
+            "level": 34,
+            "name": "Specterer",
+            "name_history": [
+                "Specterer"
+            ],
+            "registered": "Nov 26, 2025, 5:42:19 PM",
+            "role_id": 38174103118569818,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569822": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -25425,8 +25473,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1589,
+    "accounts_total": 1592,
     "created": 1764092421,
-    "last_updated": 1764305767,
+    "last_updated": 1764305827,
     "server_region": "ws_asia_01"
 }
