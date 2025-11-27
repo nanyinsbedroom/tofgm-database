@@ -2405,9 +2405,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 42461.625,
-            "last_seen": 1764102913,
-            "level": 22,
+            "hp": 165361.59375,
+            "last_seen": 1764302918,
+            "level": 34,
             "name": "buh",
             "name_history": [
                 "buh"
@@ -6117,8 +6117,8 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 49781.1640625,
-            "last_seen": 1764291343,
+            "hp": 118853.0,
+            "last_seen": 1764302918,
             "level": 34,
             "name": "ずんだ",
             "name_history": [
@@ -9678,6 +9678,22 @@
             ],
             "registered": "Nov 25, 2025, 5:53:57 PM",
             "role_id": 38174103118553590,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553648": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 133251.71875,
+            "last_seen": 1764302918,
+            "level": 34,
+            "name": "Suzune",
+            "name_history": [
+                "Suzune"
+            ],
+            "registered": "Nov 25, 2025, 5:54:13 PM",
+            "role_id": 38174103118553648,
             "server_region": "ws_asia_01"
         },
         "38174103118553712": {
@@ -23056,6 +23072,22 @@
             "role_id": 38174103118567059,
             "server_region": "ws_asia_01"
         },
+        "38174103118567160": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 134626.8125,
+            "last_seen": 1764302918,
+            "level": 34,
+            "name": "Gitz",
+            "name_history": [
+                "Gitz"
+            ],
+            "registered": "Nov 26, 2025, 11:00:24 AM",
+            "role_id": 38174103118567160,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567417": {
             "crew_id": 0,
             "crew_name": "",
@@ -24863,10 +24895,26 @@
             "registered": "Nov 27, 2025, 8:10:24 PM",
             "role_id": 38174103118577917,
             "server_region": "ws_asia_01"
+        },
+        "38174103118578908": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70431.0,
+            "last_seen": 1764302918,
+            "level": 16,
+            "name": "mycgundam",
+            "name_history": [
+                "mycgundam"
+            ],
+            "registered": "Nov 28, 2025, 12:39:03 AM",
+            "role_id": 38174103118578908,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1554,
+    "accounts_total": 1557,
     "created": 1764092421,
-    "last_updated": 1764302197,
+    "last_updated": 1764302918,
     "server_region": "ws_asia_01"
 }
