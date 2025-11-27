@@ -5105,13 +5105,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546488": {
-            "crew_id": 90203201317,
-            "crew_name": "Wyverns",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 75811.8984375,
-            "last_seen": 1764203702,
-            "level": 29,
+            "hp": 125817.0078125,
+            "last_seen": 1764285280,
+            "level": 34,
             "name": "rarski",
             "name_history": [
                 "rarski"
@@ -5573,9 +5573,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 104390.8671875,
-            "last_seen": 1764203702,
-            "level": 29,
+            "hp": 142799.609375,
+            "last_seen": 1764285280,
+            "level": 34,
             "name": "snoc",
             "name_history": [
                 "snoc"
@@ -22720,6 +22720,22 @@
             "role_id": 38174103118569269,
             "server_region": "ws_asia_01"
         },
+        "38174103118569277": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41066.0,
+            "last_seen": 1764285280,
+            "level": 25,
+            "name": "연꽃모어",
+            "name_history": [
+                "연꽃모어"
+            ],
+            "registered": "Nov 26, 2025, 4:18:14 PM",
+            "role_id": 38174103118569277,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569280": {
             "crew_id": 0,
             "crew_name": "",
@@ -23951,10 +23967,26 @@
             "registered": "Nov 27, 2025, 4:57:27 PM",
             "role_id": 38174103118577350,
             "server_region": "ws_asia_01"
+        },
+        "38174103118577828": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25103.0,
+            "last_seen": 1764285280,
+            "level": 14,
+            "name": "Yoshii",
+            "name_history": [
+                "Yoshii"
+            ],
+            "registered": "Nov 27, 2025, 7:38:42 PM",
+            "role_id": 38174103118577828,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1497,
+    "accounts_total": 1499,
     "created": 1764092421,
-    "last_updated": 1764285220,
+    "last_updated": 1764285280,
     "server_region": "ws_asia_01"
 }
