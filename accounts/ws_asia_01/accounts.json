@@ -10449,13 +10449,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554334": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 78840.0,
-            "last_seen": 1764102913,
-            "level": 22,
+            "hp": 107924.3984375,
+            "last_seen": 1764307850,
+            "level": 34,
             "name": "Ampes",
             "name_history": [
                 "Ampes"
@@ -18976,6 +18976,22 @@
             "role_id": 38174103118560544,
             "server_region": "ws_asia_01"
         },
+        "38174103118560554": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 69293.8203125,
+            "last_seen": 1764307850,
+            "level": 22,
+            "name": "かいる",
+            "name_history": [
+                "かいる"
+            ],
+            "registered": "Nov 25, 2025, 10:16:29 PM",
+            "role_id": 38174103118560554,
+            "server_region": "ws_asia_01"
+        },
         "38174103118560562": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -25472,6 +25488,22 @@
             "role_id": 38174103118577917,
             "server_region": "ws_asia_01"
         },
+        "38174103118577941": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1764307850,
+            "level": 4,
+            "name": "MiDoLa",
+            "name_history": [
+                "MiDoLa"
+            ],
+            "registered": "Nov 27, 2025, 8:16:53 PM",
+            "role_id": 38174103118577941,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578825": {
             "crew_id": 0,
             "crew_name": "",
@@ -25567,10 +25599,42 @@
             "registered": "Nov 28, 2025, 3:31:15 AM",
             "role_id": 38174103118579373,
             "server_region": "ws_asia_01"
+        },
+        "38174103118579545": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1764307850,
+            "level": 4,
+            "name": "InariSenSei",
+            "name_history": [
+                "InariSenSei"
+            ],
+            "registered": "Nov 28, 2025, 5:04:50 AM",
+            "role_id": 38174103118579545,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118579569": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1764307850,
+            "level": 1,
+            "name": "test2",
+            "name_history": [
+                "test2"
+            ],
+            "registered": "Nov 28, 2025, 5:29:17 AM",
+            "role_id": 38174103118579569,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1598,
+    "accounts_total": 1602,
     "created": 1764092421,
-    "last_updated": 1764306427,
+    "last_updated": 1764307850,
     "server_region": "ws_asia_01"
 }
