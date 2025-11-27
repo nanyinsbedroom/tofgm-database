@@ -5253,9 +5253,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 105248.203125,
-            "last_seen": 1764215175,
-            "level": 29,
+            "hp": 147337.203125,
+            "last_seen": 1764305887,
+            "level": 34,
             "name": "Caltsio",
             "name_history": [
                 "Caltsio"
@@ -6020,10 +6020,10 @@
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 66637.0,
-            "last_seen": 1764128510,
-            "level": 22,
+            "gender": 0,
+            "hp": 111542.203125,
+            "last_seen": 1764305887,
+            "level": 34,
             "name": "《EclipseペナPeИɑ》",
             "name_history": [
                 "《EclipseペナPeИɑ》"
@@ -6101,9 +6101,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 73981.796875,
-            "last_seen": 1764134835,
-            "level": 23,
+            "hp": 136423.796875,
+            "last_seen": 1764305887,
+            "level": 34,
             "name": "ashțrielle",
             "name_history": [
                 "ashțrielle"
@@ -9153,13 +9153,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118551803": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 9792.0,
-            "last_seen": 1764094403,
-            "level": 3,
+            "hp": 180967.40625,
+            "last_seen": 1764305887,
+            "level": 34,
             "name": "りらっくす",
             "name_history": [
                 "りらっくす"
@@ -12085,9 +12085,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 77751.0,
-            "last_seen": 1764128510,
-            "level": 18,
+            "hp": 182848.40625,
+            "last_seen": 1764305887,
+            "level": 34,
             "name": "ぽん太",
             "name_history": [
                 "ぽん太"
@@ -18896,6 +18896,22 @@
             "role_id": 38174103118560472,
             "server_region": "ws_asia_01"
         },
+        "38174103118560475": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 243643.0,
+            "last_seen": 1764305887,
+            "level": 34,
+            "name": "Summer",
+            "name_history": [
+                "Summer"
+            ],
+            "registered": "Nov 25, 2025, 10:12:33 PM",
+            "role_id": 38174103118560475,
+            "server_region": "ws_asia_01"
+        },
         "38174103118560477": {
             "crew_id": 0,
             "crew_name": "",
@@ -19726,6 +19742,22 @@
             ],
             "registered": "Nov 25, 2025, 11:00:29 PM",
             "role_id": 38174103118561411,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561438": {
+            "crew_id": 339311304485,
+            "crew_name": "Arcana’s XVI",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 61899.0,
+            "last_seen": 1764305887,
+            "level": 20,
+            "name": "MiuMiu",
+            "name_history": [
+                "MiuMiu"
+            ],
+            "registered": "Nov 25, 2025, 11:01:38 PM",
+            "role_id": 38174103118561438,
             "server_region": "ws_asia_01"
         },
         "38174103118561443": {
@@ -23280,6 +23312,22 @@
             "role_id": 38174103118566365,
             "server_region": "ws_asia_01"
         },
+        "38174103118566369": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 53636.296875,
+            "last_seen": 1764305887,
+            "level": 15,
+            "name": "花梨",
+            "name_history": [
+                "花梨"
+            ],
+            "registered": "Nov 26, 2025, 8:46:31 AM",
+            "role_id": 38174103118566369,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566387": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
@@ -25424,6 +25472,22 @@
             "role_id": 38174103118578908,
             "server_region": "ws_asia_01"
         },
+        "38174103118578951": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 62693.0,
+            "last_seen": 1764305887,
+            "level": 17,
+            "name": "Kurosaki",
+            "name_history": [
+                "Kurosaki"
+            ],
+            "registered": "Nov 28, 2025, 12:57:16 AM",
+            "role_id": 38174103118578951,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579165": {
             "crew_id": 0,
             "crew_name": "",
@@ -25473,8 +25537,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1592,
+    "accounts_total": 1596,
     "created": 1764092421,
-    "last_updated": 1764305827,
+    "last_updated": 1764305887,
     "server_region": "ws_asia_01"
 }
