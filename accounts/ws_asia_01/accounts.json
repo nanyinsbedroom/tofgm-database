@@ -8688,6 +8688,22 @@
             "role_id": 38174103118551632,
             "server_region": "ws_asia_01"
         },
+        "38174103118551651": {
+            "crew_id": 141742808869,
+            "crew_name": "NoahArk",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 113803.3984375,
+            "last_seen": 1764285040,
+            "level": 33,
+            "name": "You",
+            "name_history": [
+                "You"
+            ],
+            "registered": "Nov 25, 2025, 5:40:59 PM",
+            "role_id": 38174103118551651,
+            "server_region": "ws_asia_01"
+        },
         "38174103118551785": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -10017,13 +10033,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554361": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 23272.83203125,
-            "last_seen": 1764102913,
-            "level": 16,
+            "hp": 105260.3984375,
+            "last_seen": 1764285040,
+            "level": 34,
             "name": "MagaletaSorin",
             "name_history": [
                 "MagaletaSorin"
@@ -23777,8 +23793,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1486,
+    "accounts_total": 1487,
     "created": 1764092421,
-    "last_updated": 1764284980,
+    "last_updated": 1764285040,
     "server_region": "ws_asia_01"
 }
