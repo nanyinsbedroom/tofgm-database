@@ -6645,9 +6645,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 81045.0,
-            "last_seen": 1764111192,
-            "level": 22,
+            "hp": 146730.796875,
+            "last_seen": 1764279701,
+            "level": 34,
             "name": "Vizcy",
             "name_history": [
                 "Vizcy"
@@ -11840,6 +11840,22 @@
             "role_id": 38174103118555797,
             "server_region": "ws_asia_01"
         },
+        "38174103118555800": {
+            "crew_id": 47253528357,
+            "crew_name": "じゃぱたま",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 116678.40625,
+            "last_seen": 1764279701,
+            "level": 34,
+            "name": "ピルルク",
+            "name_history": [
+                "ピルルク"
+            ],
+            "registered": "Nov 25, 2025, 6:53:28 PM",
+            "role_id": 38174103118555800,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555821": {
             "crew_id": 0,
             "crew_name": "",
@@ -11982,6 +11998,22 @@
             ],
             "registered": "Nov 25, 2025, 6:57:36 PM",
             "role_id": 38174103118555900,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555929": {
+            "crew_id": 47253528357,
+            "crew_name": "じゃぱたま",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55499.2265625,
+            "last_seen": 1764279701,
+            "level": 33,
+            "name": "甘猫ましろ",
+            "name_history": [
+                "甘猫ましろ"
+            ],
+            "registered": "Nov 25, 2025, 6:58:47 PM",
+            "role_id": 38174103118555929,
             "server_region": "ws_asia_01"
         },
         "38174103118555936": {
@@ -23681,8 +23713,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1480,
+    "accounts_total": 1482,
     "created": 1764092421,
-    "last_updated": 1764276200,
+    "last_updated": 1764279701,
     "server_region": "ws_asia_01"
 }
