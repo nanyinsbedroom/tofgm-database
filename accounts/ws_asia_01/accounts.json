@@ -725,8 +725,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 306451.125,
-            "last_seen": 1764304235,
+            "hp": 247138.0,
+            "last_seen": 1764304926,
             "level": 34,
             "name": "JellySG",
             "name_history": [
@@ -4885,15 +4885,31 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 124634.8125,
-            "last_seen": 1764269173,
-            "level": 30,
+            "hp": 92602.59375,
+            "last_seen": 1764304926,
+            "level": 34,
             "name": "Akina",
             "name_history": [
                 "Akina"
             ],
             "registered": "Nov 25, 2025, 5:10:12 PM",
             "role_id": 38174103118546301,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546303": {
+            "crew_id": 622779146021,
+            "crew_name": "Lazy Cat",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 161591.203125,
+            "last_seen": 1764304926,
+            "level": 34,
+            "name": "R A I Z E N",
+            "name_history": [
+                "R A I Z E N"
+            ],
+            "registered": "Nov 25, 2025, 5:10:14 PM",
+            "role_id": 38174103118546303,
             "server_region": "ws_asia_01"
         },
         "38174103118546307": {
@@ -8464,6 +8480,22 @@
             "role_id": 38174103118550956,
             "server_region": "ws_asia_01"
         },
+        "38174103118551023": {
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 154328.0,
+            "last_seen": 1764304926,
+            "level": 34,
+            "name": "サリフ",
+            "name_history": [
+                "サリフ"
+            ],
+            "registered": "Nov 25, 2025, 5:37:23 PM",
+            "role_id": 38174103118551023,
+            "server_region": "ws_asia_01"
+        },
         "38174103118551041": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
@@ -11598,6 +11630,22 @@
             ],
             "registered": "Nov 25, 2025, 6:30:27 PM",
             "role_id": 38174103118555109,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555115": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49617.0,
+            "last_seen": 1764304926,
+            "level": 14,
+            "name": "ニャッシ",
+            "name_history": [
+                "ニャッシ"
+            ],
+            "registered": "Nov 25, 2025, 6:30:35 PM",
+            "role_id": 38174103118555115,
             "server_region": "ws_asia_01"
         },
         "38174103118555141": {
@@ -15606,7 +15654,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 247353.0,
-            "last_seen": 1764304235,
+            "last_seen": 1764304926,
             "level": 34,
             "name": "がーねっと",
             "name_history": [
@@ -17470,6 +17518,22 @@
             ],
             "registered": "Nov 25, 2025, 9:21:10 PM",
             "role_id": 38174103118559394,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559408": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 65121.0,
+            "last_seen": 1764304926,
+            "level": 19,
+            "name": "Agnestechyon",
+            "name_history": [
+                "Agnestechyon"
+            ],
+            "registered": "Nov 25, 2025, 9:21:45 PM",
+            "role_id": 38174103118559408,
             "server_region": "ws_asia_01"
         },
         "38174103118559419": {
@@ -24240,6 +24304,22 @@
             "role_id": 38174103118571193,
             "server_region": "ws_asia_01"
         },
+        "38174103118571292": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50599.8828125,
+            "last_seen": 1764304926,
+            "level": 11,
+            "name": "おーたむ",
+            "name_history": [
+                "おーたむ"
+            ],
+            "registered": "Nov 26, 2025, 9:33:47 PM",
+            "role_id": 38174103118571292,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571394": {
             "crew_id": 0,
             "crew_name": "",
@@ -25153,8 +25233,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1572,
+    "accounts_total": 1577,
     "created": 1764092421,
-    "last_updated": 1764304446,
+    "last_updated": 1764304926,
     "server_region": "ws_asia_01"
 }
