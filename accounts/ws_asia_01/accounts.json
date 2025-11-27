@@ -1717,9 +1717,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 32906.61328125,
-            "last_seen": 1764203642,
-            "level": 29,
+            "hp": 107149.0,
+            "last_seen": 1764285400,
+            "level": 34,
             "name": "AIRia_warp",
             "name_history": [
                 "AIRia_warp"
@@ -7157,9 +7157,9 @@
             "crew_name": "千本桜",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 104441.796875,
-            "last_seen": 1764184259,
-            "level": 29,
+            "hp": 143074.59375,
+            "last_seen": 1764285400,
+            "level": 34,
             "name": "天然のIROHAS",
             "name_history": [
                 "天然のIROHAS"
@@ -7201,13 +7201,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118548937": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 433800584997,
+            "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 57528.0,
-            "last_seen": 1764098202,
-            "level": 16,
+            "hp": 211701.203125,
+            "last_seen": 1764285400,
+            "level": 34,
             "name": "Adélie",
             "name_history": [
                 "Adélie"
@@ -17856,6 +17856,22 @@
             "role_id": 38174103118560056,
             "server_region": "ws_asia_01"
         },
+        "38174103118560066": {
+            "crew_id": 841822478117,
+            "crew_name": "『居酒屋ギャオゴリ』",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 117461.8046875,
+            "last_seen": 1764285400,
+            "level": 34,
+            "name": "アムロ・レイ",
+            "name_history": [
+                "アムロ・レイ"
+            ],
+            "registered": "Nov 25, 2025, 9:52:11 PM",
+            "role_id": 38174103118560066,
+            "server_region": "ws_asia_01"
+        },
         "38174103118560075": {
             "crew_id": 0,
             "crew_name": "",
@@ -24097,8 +24113,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1506,
+    "accounts_total": 1507,
     "created": 1764092421,
-    "last_updated": 1764285340,
+    "last_updated": 1764285400,
     "server_region": "ws_asia_01"
 }
