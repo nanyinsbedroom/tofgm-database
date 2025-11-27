@@ -10836,10 +10836,10 @@
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
-            "gender": 0,
-            "hp": 96991.6015625,
-            "last_seen": 1764194795,
-            "level": 29,
+            "gender": 1,
+            "hp": 43640.046875,
+            "last_seen": 1764269294,
+            "level": 34,
             "name": "霧凛",
             "name_history": [
                 "霧凛"
@@ -13502,6 +13502,22 @@
             ],
             "registered": "Nov 25, 2025, 8:00:47 PM",
             "role_id": 38174103118557460,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557466": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 87268.609375,
+            "last_seen": 1764269294,
+            "level": 30,
+            "name": "WarPoL",
+            "name_history": [
+                "WarPoL"
+            ],
+            "registered": "Nov 25, 2025, 8:00:57 PM",
+            "role_id": 38174103118557466,
             "server_region": "ws_asia_01"
         },
         "38174103118557486": {
@@ -22513,8 +22529,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1407,
+    "accounts_total": 1408,
     "created": 1764092421,
-    "last_updated": 1764269233,
+    "last_updated": 1764269294,
     "server_region": "ws_asia_01"
 }
