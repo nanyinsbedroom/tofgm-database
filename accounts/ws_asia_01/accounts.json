@@ -18773,9 +18773,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 104380.0,
-            "last_seen": 1764199656,
-            "level": 29,
+            "hp": 119443.1953125,
+            "last_seen": 1764291464,
+            "level": 34,
             "name": "karabina",
             "name_history": [
                 "karabina"
@@ -19038,6 +19038,22 @@
             ],
             "registered": "Nov 25, 2025, 10:42:05 PM",
             "role_id": 38174103118561063,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561086": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90917.0,
+            "last_seen": 1764291464,
+            "level": 31,
+            "name": "MOSHIIMOSHI",
+            "name_history": [
+                "MOSHIIMOSHI"
+            ],
+            "registered": "Nov 25, 2025, 10:43:11 PM",
+            "role_id": 38174103118561086,
             "server_region": "ws_asia_01"
         },
         "38174103118561105": {
@@ -22640,6 +22656,22 @@
             "role_id": 38174103118566075,
             "server_region": "ws_asia_01"
         },
+        "38174103118566217": {
+            "crew_id": 1138175221541,
+            "crew_name": "STALINGRAD",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 132684.40625,
+            "last_seen": 1764291464,
+            "level": 34,
+            "name": "-Kirin-",
+            "name_history": [
+                "-Kirin-"
+            ],
+            "registered": "Nov 26, 2025, 8:18:13 AM",
+            "role_id": 38174103118566217,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566344": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
@@ -24545,8 +24577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1534,
+    "accounts_total": 1536,
     "created": 1764092421,
-    "last_updated": 1764291343,
+    "last_updated": 1764291464,
     "server_region": "ws_asia_01"
 }
