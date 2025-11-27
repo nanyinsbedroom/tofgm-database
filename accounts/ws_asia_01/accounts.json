@@ -12096,6 +12096,22 @@
             "role_id": 38174103118555675,
             "server_region": "ws_asia_01"
         },
+        "38174103118555693": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48972.0,
+            "last_seen": 1764301957,
+            "level": 14,
+            "name": "古葉 臼",
+            "name_history": [
+                "古葉 臼"
+            ],
+            "registered": "Nov 25, 2025, 6:49:26 PM",
+            "role_id": 38174103118555693,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555718": {
             "crew_id": 0,
             "crew_name": "",
@@ -12558,6 +12574,22 @@
             ],
             "registered": "Nov 25, 2025, 7:01:52 PM",
             "role_id": 38174103118556009,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556012": {
+            "crew_id": 103088103205,
+            "crew_name": "Glock Goblins",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 102080.8046875,
+            "last_seen": 1764301957,
+            "level": 32,
+            "name": "karin",
+            "name_history": [
+                "karin"
+            ],
+            "registered": "Nov 25, 2025, 7:01:56 PM",
+            "role_id": 38174103118556012,
             "server_region": "ws_asia_01"
         },
         "38174103118556018": {
@@ -24785,8 +24817,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1549,
+    "accounts_total": 1551,
     "created": 1764092421,
-    "last_updated": 1764301558,
+    "last_updated": 1764301957,
     "server_region": "ws_asia_01"
 }
