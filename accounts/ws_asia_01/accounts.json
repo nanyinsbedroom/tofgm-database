@@ -17637,9 +17637,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 42076.0,
-            "last_seen": 1764111612,
-            "level": 10,
+            "hp": 141074.203125,
+            "last_seen": 1764360423,
+            "level": 39,
             "name": "Aini",
             "name_history": [
                 "Aini"
@@ -18814,6 +18814,22 @@
             ],
             "registered": "Nov 25, 2025, 9:51:28 PM",
             "role_id": 38174103118560056,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560064": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91510.203125,
+            "last_seen": 1764360423,
+            "level": 33,
+            "name": "ノラ猫",
+            "name_history": [
+                "ノラ猫"
+            ],
+            "registered": "Nov 25, 2025, 9:52:08 PM",
+            "role_id": 38174103118560064,
             "server_region": "ws_asia_01"
         },
         "38174103118560066": {
@@ -26161,8 +26177,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1635,
+    "accounts_total": 1636,
     "created": 1764092421,
-    "last_updated": 1764360123,
+    "last_updated": 1764360423,
     "server_region": "ws_asia_01"
 }
