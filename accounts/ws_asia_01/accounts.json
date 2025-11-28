@@ -10037,8 +10037,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 257316.0,
-            "last_seen": 1764359462,
+            "hp": 245674.953125,
+            "last_seen": 1764389579,
             "level": 39,
             "name": "Zenxiao",
             "name_history": [
@@ -26224,6 +26224,22 @@
             "role_id": 38174103118568598,
             "server_region": "ws_asia_01"
         },
+        "38174103118568669": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 141473.8125,
+            "last_seen": 1764389579,
+            "level": 39,
+            "name": "Rayz",
+            "name_history": [
+                "Rayz"
+            ],
+            "registered": "Nov 26, 2025, 2:40:43 PM",
+            "role_id": 38174103118568669,
+            "server_region": "ws_asia_01"
+        },
         "38174103118568671": {
             "crew_id": 0,
             "crew_name": "",
@@ -30144,6 +30160,22 @@
             "role_id": 38174103118581960,
             "server_region": "ws_asia_01"
         },
+        "38174103118582006": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 44231.0,
+            "last_seen": 1764389579,
+            "level": 11,
+            "name": "しゅんと",
+            "name_history": [
+                "しゅんと"
+            ],
+            "registered": "Nov 29, 2025, 1:21:44 AM",
+            "role_id": 38174103118582006,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582042": {
             "crew_id": 0,
             "crew_name": "",
@@ -30353,8 +30385,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1897,
+    "accounts_total": 1899,
     "created": 1764092421,
-    "last_updated": 1764389519,
+    "last_updated": 1764389579,
     "server_region": "ws_asia_01"
 }
