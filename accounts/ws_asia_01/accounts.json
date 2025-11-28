@@ -1043,11 +1043,11 @@
         "38174103118545120": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 104693.0234375,
-            "last_seen": 1764291103,
-            "level": 34,
+            "hp": 126182.40625,
+            "last_seen": 1764364143,
+            "level": 39,
             "name": "ウィル",
             "name_history": [
                 "ウィル"
@@ -2158,6 +2158,22 @@
             ],
             "registered": "Nov 25, 2025, 5:02:59 PM",
             "role_id": 38174103118545374,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545383": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 109288.6953125,
+            "last_seen": 1764364143,
+            "level": 35,
+            "name": "GOD",
+            "name_history": [
+                "GOD"
+            ],
+            "registered": "Nov 25, 2025, 5:03:02 PM",
+            "role_id": 38174103118545383,
             "server_region": "ws_asia_01"
         },
         "38174103118545385": {
@@ -4574,6 +4590,22 @@
             ],
             "registered": "Nov 25, 2025, 5:08:24 PM",
             "role_id": 38174103118546136,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546138": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 140312.59375,
+            "last_seen": 1764364143,
+            "level": 39,
+            "name": "HOTARU",
+            "name_history": [
+                "HOTARU"
+            ],
+            "registered": "Nov 25, 2025, 5:08:26 PM",
+            "role_id": 38174103118546138,
             "server_region": "ws_asia_01"
         },
         "38174103118546145": {
@@ -20192,6 +20224,22 @@
             "role_id": 38174103118561519,
             "server_region": "ws_asia_01"
         },
+        "38174103118561604": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105926.59375,
+            "last_seen": 1764364143,
+            "level": 39,
+            "name": "テルピッツ",
+            "name_history": [
+                "テルピッツ"
+            ],
+            "registered": "Nov 25, 2025, 11:10:35 PM",
+            "role_id": 38174103118561604,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561606": {
             "crew_id": 0,
             "crew_name": "",
@@ -20478,6 +20526,22 @@
             ],
             "registered": "Nov 25, 2025, 11:30:59 PM",
             "role_id": 38174103118561992,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562015": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 115078.59375,
+            "last_seen": 1764364143,
+            "level": 37,
+            "name": "razorbold",
+            "name_history": [
+                "razorbold"
+            ],
+            "registered": "Nov 25, 2025, 11:32:13 PM",
+            "role_id": 38174103118562015,
             "server_region": "ws_asia_01"
         },
         "38174103118562027": {
@@ -24560,6 +24624,22 @@
             "role_id": 38174103118569400,
             "server_region": "ws_asia_01"
         },
+        "38174103118569440": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137491.578125,
+            "last_seen": 1764364143,
+            "level": 39,
+            "name": "ひものくらげ",
+            "name_history": [
+                "ひものくらげ"
+            ],
+            "registered": "Nov 26, 2025, 4:44:09 PM",
+            "role_id": 38174103118569440,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569446": {
             "crew_id": 0,
             "crew_name": "",
@@ -26289,8 +26369,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1643,
+    "accounts_total": 1648,
     "created": 1764092421,
-    "last_updated": 1764363782,
+    "last_updated": 1764364143,
     "server_region": "ws_asia_01"
 }
