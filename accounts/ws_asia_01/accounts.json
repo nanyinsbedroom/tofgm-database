@@ -21444,10 +21444,10 @@
             "crew_id": 4303855397,
             "crew_name": "EROGE",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 110981.0,
-            "last_seen": 1764304175,
-            "level": 34,
+            "gender": 0,
+            "hp": 137086.59375,
+            "last_seen": 1764383753,
+            "level": 39,
             "name": "Code",
             "name_history": [
                 "Code"
@@ -27824,6 +27824,22 @@
             "role_id": 38174103118578267,
             "server_region": "ws_asia_01"
         },
+        "38174103118578303": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 89822.0,
+            "last_seen": 1764383753,
+            "level": 26,
+            "name": "AriesFood",
+            "name_history": [
+                "AriesFood"
+            ],
+            "registered": "Nov 27, 2025, 9:55:07 PM",
+            "role_id": 38174103118578303,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578493": {
             "crew_id": 0,
             "crew_name": "",
@@ -28206,6 +28222,22 @@
             ],
             "registered": "Nov 28, 2025, 9:16:09 AM",
             "role_id": 38174103118579846,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118579855": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37567.0,
+            "last_seen": 1764383753,
+            "level": 12,
+            "name": "メビウス",
+            "name_history": [
+                "メビウス"
+            ],
+            "registered": "Nov 28, 2025, 9:22:37 AM",
+            "role_id": 38174103118579855,
             "server_region": "ws_asia_01"
         },
         "38174103118579871": {
@@ -28753,8 +28785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1797,
+    "accounts_total": 1799,
     "created": 1764092421,
-    "last_updated": 1764383693,
+    "last_updated": 1764383753,
     "server_region": "ws_asia_01"
 }
