@@ -2021,9 +2021,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 98556.0234375,
-            "last_seen": 1764180762,
-            "level": 29,
+            "hp": 173374.8125,
+            "last_seen": 1764359642,
+            "level": 39,
             "name": "Defensio",
             "name_history": [
                 "Defensio"
@@ -11477,9 +11477,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 52515.84375,
-            "last_seen": 1764102913,
-            "level": 20,
+            "hp": 122572.6015625,
+            "last_seen": 1764359642,
+            "level": 39,
             "name": "TwoOverFour",
             "name_history": [
                 "TwoOverFour"
@@ -18350,6 +18350,22 @@
             ],
             "registered": "Nov 25, 2025, 9:40:49 PM",
             "role_id": 38174103118559813,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559822": {
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 126505.796875,
+            "last_seen": 1764359642,
+            "level": 39,
+            "name": "GuardianOracle",
+            "name_history": [
+                "GuardianOracle"
+            ],
+            "registered": "Nov 25, 2025, 9:41:08 PM",
+            "role_id": 38174103118559822,
             "server_region": "ws_asia_01"
         },
         "38174103118559838": {
@@ -25809,8 +25825,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1613,
+    "accounts_total": 1614,
     "created": 1764092421,
-    "last_updated": 1764359582,
+    "last_updated": 1764359642,
     "server_region": "ws_asia_01"
 }
