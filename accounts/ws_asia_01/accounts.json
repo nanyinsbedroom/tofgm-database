@@ -3829,9 +3829,9 @@
             "crew_name": "Lazy Cat",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 101239.8046875,
-            "last_seen": 1764199416,
-            "level": 29,
+            "hp": 144808.0,
+            "last_seen": 1764383573,
+            "level": 39,
             "name": "Moon",
             "name_history": [
                 "Moon"
@@ -17825,13 +17825,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558800": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 859002347301,
+            "crew_name": "ポンコツな",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 82996.0,
-            "last_seen": 1764134715,
-            "level": 26,
+            "hp": 130407.0,
+            "last_seen": 1764383573,
+            "level": 39,
             "name": "かつどん",
             "name_history": [
                 "かつどん"
@@ -28384,6 +28384,22 @@
             "role_id": 38174103118581165,
             "server_region": "ws_asia_01"
         },
+        "38174103118581247": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48527.0,
+            "last_seen": 1764383573,
+            "level": 10,
+            "name": "そーる",
+            "name_history": [
+                "そーる"
+            ],
+            "registered": "Nov 28, 2025, 9:09:50 PM",
+            "role_id": 38174103118581247,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581333": {
             "crew_id": 0,
             "crew_name": "",
@@ -28673,8 +28689,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1792,
+    "accounts_total": 1793,
     "created": 1764092421,
-    "last_updated": 1764383513,
+    "last_updated": 1764383573,
     "server_region": "ws_asia_01"
 }
