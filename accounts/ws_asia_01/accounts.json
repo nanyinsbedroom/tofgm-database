@@ -6545,13 +6545,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546868": {
-            "crew_id": 73023332133,
-            "crew_name": "Teyvat",
-            "equipping_title": "None",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 106702.3828125,
-            "last_seen": 1764305827,
-            "level": 34,
+            "hp": 114825.6015625,
+            "last_seen": 1764381832,
+            "level": 39,
             "name": "Whirley",
             "name_history": [
                 "Whirley"
@@ -20896,6 +20896,22 @@
             "role_id": 38174103118561698,
             "server_region": "ws_asia_01"
         },
+        "38174103118561762": {
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 150751.609375,
+            "last_seen": 1764381832,
+            "level": 39,
+            "name": "kaki bantai",
+            "name_history": [
+                "kaki bantai"
+            ],
+            "registered": "Nov 25, 2025, 11:19:21 PM",
+            "role_id": 38174103118561762,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561790": {
             "crew_id": 0,
             "crew_name": "",
@@ -27616,6 +27632,22 @@
             "role_id": 38174103118580994,
             "server_region": "ws_asia_01"
         },
+        "38174103118581065": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 49188.0,
+            "last_seen": 1764381832,
+            "level": 14,
+            "name": "kimie ",
+            "name_history": [
+                "kimie "
+            ],
+            "registered": "Nov 28, 2025, 8:06:20 PM",
+            "role_id": 38174103118581065,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581094": {
             "crew_id": 0,
             "crew_name": "",
@@ -27873,8 +27905,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1742,
+    "accounts_total": 1744,
     "created": 1764092421,
-    "last_updated": 1764381772,
+    "last_updated": 1764381832,
     "server_region": "ws_asia_01"
 }
