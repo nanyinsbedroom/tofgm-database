@@ -10483,11 +10483,11 @@
         "38174103118554069": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 140678.59375,
-            "last_seen": 1764284860,
-            "level": 34,
+            "hp": 225920.40625,
+            "last_seen": 1764382012,
+            "level": 39,
             "name": "Arupejio",
             "name_history": [
                 "Arupejio"
@@ -12942,6 +12942,22 @@
             ],
             "registered": "Nov 25, 2025, 6:54:37 PM",
             "role_id": 38174103118555832,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555836": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 247155.0,
+            "last_seen": 1764382012,
+            "level": 39,
+            "name": "Laureate",
+            "name_history": [
+                "Laureate"
+            ],
+            "registered": "Nov 25, 2025, 6:54:44 PM",
+            "role_id": 38174103118555836,
             "server_region": "ws_asia_01"
         },
         "38174103118555843": {
@@ -27152,6 +27168,22 @@
             "role_id": 38174103118577350,
             "server_region": "ws_asia_01"
         },
+        "38174103118577725": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 89009.203125,
+            "last_seen": 1764382012,
+            "level": 38,
+            "name": "Dongtae",
+            "name_history": [
+                "Dongtae"
+            ],
+            "registered": "Nov 27, 2025, 7:07:25 PM",
+            "role_id": 38174103118577725,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577828": {
             "crew_id": 0,
             "crew_name": "",
@@ -27969,8 +28001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1748,
+    "accounts_total": 1750,
     "created": 1764092421,
-    "last_updated": 1764381952,
+    "last_updated": 1764382012,
     "server_region": "ws_asia_01"
 }
