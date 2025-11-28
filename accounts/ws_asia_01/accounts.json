@@ -19957,9 +19957,9 @@
             "crew_name": "INTROVERTS",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 75615.0,
-            "last_seen": 1764142920,
-            "level": 22,
+            "hp": 100359.3984375,
+            "last_seen": 1764392943,
+            "level": 38,
             "name": "Xenia",
             "name_history": [
                 "Xenia"
@@ -21342,6 +21342,22 @@
             ],
             "registered": "Nov 25, 2025, 10:54:48 PM",
             "role_id": 38174103118561308,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561310": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 70305.0,
+            "last_seen": 1764392943,
+            "level": 25,
+            "name": "Makkiato",
+            "name_history": [
+                "Makkiato"
+            ],
+            "registered": "Nov 25, 2025, 10:54:58 PM",
+            "role_id": 38174103118561310,
             "server_region": "ws_asia_01"
         },
         "38174103118561314": {
@@ -31009,8 +31025,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1938,
+    "accounts_total": 1939,
     "created": 1764092421,
-    "last_updated": 1764392823,
+    "last_updated": 1764392943,
     "server_region": "ws_asia_01"
 }
