@@ -28128,6 +28128,22 @@
             "role_id": 38174103118575802,
             "server_region": "ws_asia_01"
         },
+        "38174103118576095": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50470.0,
+            "last_seen": 1764387657,
+            "level": 12,
+            "name": "ぐら",
+            "name_history": [
+                "ぐら"
+            ],
+            "registered": "Nov 27, 2025, 10:02:03 AM",
+            "role_id": 38174103118576095,
+            "server_region": "ws_asia_01"
+        },
         "38174103118576123": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
@@ -29905,8 +29921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1869,
+    "accounts_total": 1870,
     "created": 1764092421,
-    "last_updated": 1764387537,
+    "last_updated": 1764387657,
     "server_region": "ws_asia_01"
 }
