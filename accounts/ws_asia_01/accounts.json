@@ -30064,6 +30064,22 @@
             "role_id": 38174103118582065,
             "server_region": "ws_asia_01"
         },
+        "38174103118582070": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25521.0,
+            "last_seen": 1764388798,
+            "level": 11,
+            "name": "鮭とばく",
+            "name_history": [
+                "鮭とばく"
+            ],
+            "registered": "Nov 29, 2025, 1:44:51 AM",
+            "role_id": 38174103118582070,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582085": {
             "crew_id": 0,
             "crew_name": "",
@@ -30175,10 +30191,26 @@
             "registered": "Nov 29, 2025, 2:45:34 AM",
             "role_id": 38174103118582218,
             "server_region": "ws_asia_01"
+        },
+        "38174103118582315": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21201.0,
+            "last_seen": 1764388798,
+            "level": 6,
+            "name": "nsnend",
+            "name_history": [
+                "nsnend"
+            ],
+            "registered": "Nov 29, 2025, 3:38:24 AM",
+            "role_id": 38174103118582315,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1886,
+    "accounts_total": 1888,
     "created": 1764092421,
-    "last_updated": 1764388738,
+    "last_updated": 1764388798,
     "server_region": "ws_asia_01"
 }
