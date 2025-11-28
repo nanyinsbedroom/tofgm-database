@@ -864,14 +864,30 @@
             "role_id": 38174103118545071,
             "server_region": "ws_asia_01"
         },
+        "38174103118545076": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 226212.59375,
+            "last_seen": 1764359582,
+            "level": 39,
+            "name": "Zen",
+            "name_history": [
+                "Zen"
+            ],
+            "registered": "Nov 25, 2025, 5:01:56 PM",
+            "role_id": 38174103118545076,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545079": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 77165.3046875,
-            "last_seen": 1764269113,
-            "level": 33,
+            "hp": 250459.609375,
+            "last_seen": 1764359582,
+            "level": 39,
             "name": "ZoyaYami",
             "name_history": [
                 "ZoyaYami"
@@ -25793,8 +25809,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1612,
+    "accounts_total": 1613,
     "created": 1764092421,
-    "last_updated": 1764359462,
+    "last_updated": 1764359582,
     "server_region": "ws_asia_01"
 }
