@@ -6101,9 +6101,9 @@
             "crew_name": "GUARDIAN",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 117850.203125,
-            "last_seen": 1764200977,
-            "level": 29,
+            "hp": 214001.390625,
+            "last_seen": 1764375610,
+            "level": 39,
             "name": "Alliestraza",
             "name_history": [
                 "Alliestraza"
@@ -6773,9 +6773,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 55763.63671875,
-            "last_seen": 1764269113,
-            "level": 34,
+            "hp": 112174.203125,
+            "last_seen": 1764375610,
+            "level": 39,
             "name": "meimei",
             "name_history": [
                 "meimei"
@@ -15889,13 +15889,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557923": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 89044.0,
-            "last_seen": 1764285100,
-            "level": 33,
+            "hp": 100594.3984375,
+            "last_seen": 1764375610,
+            "level": 37,
             "name": "Maronne",
             "name_history": [
                 "Maronne"
@@ -17102,6 +17102,22 @@
             ],
             "registered": "Nov 25, 2025, 8:50:01 PM",
             "role_id": 38174103118558659,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558671": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 111582.8046875,
+            "last_seen": 1764375610,
+            "level": 35,
+            "name": "Hasz",
+            "name_history": [
+                "Hasz"
+            ],
+            "registered": "Nov 25, 2025, 8:50:26 PM",
+            "role_id": 38174103118558671,
             "server_region": "ws_asia_01"
         },
         "38174103118558672": {
@@ -21824,6 +21840,22 @@
             "role_id": 38174103118563286,
             "server_region": "ws_asia_01"
         },
+        "38174103118563305": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 117036.3984375,
+            "last_seen": 1764375610,
+            "level": 39,
+            "name": "DatBaka",
+            "name_history": [
+                "DatBaka"
+            ],
+            "registered": "Nov 26, 2025, 12:51:48 AM",
+            "role_id": 38174103118563305,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563311": {
             "crew_id": 0,
             "crew_name": "",
@@ -24129,13 +24161,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118566871": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 61502.0,
-            "last_seen": 1764202484,
-            "level": 15,
+            "gender": 0,
+            "hp": 116318.0,
+            "last_seen": 1764375610,
+            "level": 34,
             "name": "Ruyao",
             "name_history": [
                 "Ruyao"
@@ -25968,6 +26000,22 @@
             "role_id": 38174103118574566,
             "server_region": "ws_asia_01"
         },
+        "38174103118574575": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 93413.0,
+            "last_seen": 1764375610,
+            "level": 31,
+            "name": "Ookami Neppu",
+            "name_history": [
+                "Ookami Neppu"
+            ],
+            "registered": "Nov 27, 2025, 1:10:51 AM",
+            "role_id": 38174103118574575,
+            "server_region": "ws_asia_01"
+        },
         "38174103118574834": {
             "crew_id": 0,
             "crew_name": "",
@@ -26624,6 +26672,22 @@
             "role_id": 38174103118580657,
             "server_region": "ws_asia_01"
         },
+        "38174103118580725": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54407.0,
+            "last_seen": 1764375610,
+            "level": 15,
+            "name": "Donkatsu",
+            "name_history": [
+                "Donkatsu"
+            ],
+            "registered": "Nov 28, 2025, 5:27:15 PM",
+            "role_id": 38174103118580725,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580851": {
             "crew_id": 0,
             "crew_name": "",
@@ -26657,8 +26721,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1666,
+    "accounts_total": 1670,
     "created": 1764092421,
-    "last_updated": 1764375549,
+    "last_updated": 1764375610,
     "server_region": "ws_asia_01"
 }
