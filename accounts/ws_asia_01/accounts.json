@@ -14117,9 +14117,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 29531.86328125,
-            "last_seen": 1764103153,
-            "level": 9,
+            "hp": 34428.0625,
+            "last_seen": 1764381411,
+            "level": 19,
             "name": "LungPom",
             "name_history": [
                 "LungPom"
@@ -24421,9 +24421,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 73084.0,
-            "last_seen": 1764199476,
-            "level": 21,
+            "hp": 124969.0,
+            "last_seen": 1764381411,
+            "level": 39,
             "name": "Loope",
             "name_history": [
                 "Loope"
@@ -26976,6 +26976,22 @@
             "role_id": 38174103118577828,
             "server_region": "ws_asia_01"
         },
+        "38174103118577847": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 46181.0,
+            "last_seen": 1764381411,
+            "level": 15,
+            "name": "Fifrost",
+            "name_history": [
+                "Fifrost"
+            ],
+            "registered": "Nov 27, 2025, 7:44:26 PM",
+            "role_id": 38174103118577847,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577917": {
             "crew_id": 622779146021,
             "crew_name": "Lazy Cat",
@@ -27472,6 +27488,38 @@
             "role_id": 38174103118581451,
             "server_region": "ws_asia_01"
         },
+        "38174103118581452": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55801.0,
+            "last_seen": 1764381411,
+            "level": 14,
+            "name": "BocchiTvT",
+            "name_history": [
+                "BocchiTvT"
+            ],
+            "registered": "Nov 28, 2025, 10:22:36 PM",
+            "role_id": 38174103118581452,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118581608": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 73082.0,
+            "last_seen": 1764381411,
+            "level": 20,
+            "name": "Fresly",
+            "name_history": [
+                "Fresly"
+            ],
+            "registered": "Nov 28, 2025, 11:07:40 PM",
+            "role_id": 38174103118581608,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581753": {
             "crew_id": 0,
             "crew_name": "",
@@ -27569,8 +27617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1723,
+    "accounts_total": 1726,
     "created": 1764092421,
-    "last_updated": 1764381351,
+    "last_updated": 1764381411,
     "server_region": "ws_asia_01"
 }
