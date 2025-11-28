@@ -9557,9 +9557,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 64523.0,
-            "last_seen": 1764102973,
-            "level": 17,
+            "hp": 112542.796875,
+            "last_seen": 1764381531,
+            "level": 39,
             "name": "Sakiko Togawa",
             "name_history": [
                 "Sakiko Togawa"
@@ -26640,6 +26640,22 @@
             "role_id": 38174103118575087,
             "server_region": "ws_asia_01"
         },
+        "38174103118575135": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 38209.0,
+            "last_seen": 1764381531,
+            "level": 11,
+            "name": "ココマル → Kokomaru",
+            "name_history": [
+                "ココマル → Kokomaru"
+            ],
+            "registered": "Nov 27, 2025, 3:15:00 AM",
+            "role_id": 38174103118575135,
+            "server_region": "ws_asia_01"
+        },
         "38174103118575188": {
             "crew_id": 0,
             "crew_name": "",
@@ -27504,6 +27520,22 @@
             "role_id": 38174103118581452,
             "server_region": "ws_asia_01"
         },
+        "38174103118581483": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75546.0,
+            "last_seen": 1764381531,
+            "level": 18,
+            "name": "どらき",
+            "name_history": [
+                "どらき"
+            ],
+            "registered": "Nov 28, 2025, 10:31:28 PM",
+            "role_id": 38174103118581483,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581608": {
             "crew_id": 0,
             "crew_name": "",
@@ -27617,8 +27649,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1726,
+    "accounts_total": 1728,
     "created": 1764092421,
-    "last_updated": 1764381411,
+    "last_updated": 1764381531,
     "server_region": "ws_asia_01"
 }
