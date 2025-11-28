@@ -1205,9 +1205,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 145273.40625,
-            "last_seen": 1764304235,
-            "level": 34,
+            "hp": 165037.203125,
+            "last_seen": 1764375670,
+            "level": 39,
             "name": "SupportOnly",
             "name_history": [
                 "SupportOnly"
@@ -26101,9 +26101,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 105151.40625,
-            "last_seen": 1764302197,
-            "level": 34,
+            "hp": 154644.203125,
+            "last_seen": 1764375670,
+            "level": 39,
             "name": "Yoinked",
             "name_history": [
                 "Yoinked"
@@ -26704,6 +26704,22 @@
             "role_id": 38174103118580851,
             "server_region": "ws_asia_01"
         },
+        "38174103118580994": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 109230.0,
+            "last_seen": 1764375670,
+            "level": 32,
+            "name": "Chisa.Support",
+            "name_history": [
+                "Chisa.Support"
+            ],
+            "registered": "Nov 28, 2025, 7:39:06 PM",
+            "role_id": 38174103118580994,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581094": {
             "crew_id": 0,
             "crew_name": "",
@@ -26721,8 +26737,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1670,
+    "accounts_total": 1671,
     "created": 1764092421,
-    "last_updated": 1764375610,
+    "last_updated": 1764375670,
     "server_region": "ws_asia_01"
 }
