@@ -13541,9 +13541,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 247155.0,
-            "last_seen": 1764382012,
-            "level": 39,
+            "hp": 249747.0,
+            "last_seen": 1764432330,
+            "level": 42,
             "name": "Laureate",
             "name_history": [
                 "Laureate"
@@ -16670,6 +16670,22 @@
             ],
             "registered": "Nov 25, 2025, 8:13:03 PM",
             "role_id": 38174103118557738,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557743": {
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176175.1875,
+            "last_seen": 1764432330,
+            "level": 42,
+            "name": "柚葉",
+            "name_history": [
+                "柚葉"
+            ],
+            "registered": "Nov 25, 2025, 8:13:11 PM",
+            "role_id": 38174103118557743,
             "server_region": "ws_asia_01"
         },
         "38174103118557746": {
@@ -32081,8 +32097,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2005,
+    "accounts_total": 2006,
     "created": 1764092421,
-    "last_updated": 1764432270,
+    "last_updated": 1764432330,
     "server_region": "ws_asia_01"
 }
