@@ -693,9 +693,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 74648.0,
-            "last_seen": 1764112871,
-            "level": 22,
+            "hp": 262958.8125,
+            "last_seen": 1764430589,
+            "level": 42,
             "name": "REGULUX",
             "name_history": [
                 "REGULUX"
@@ -885,9 +885,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 226212.59375,
-            "last_seen": 1764359582,
-            "level": 39,
+            "hp": 236331.59375,
+            "last_seen": 1764430589,
+            "level": 42,
             "name": "Zen",
             "name_history": [
                 "Zen"
@@ -1717,9 +1717,9 @@
             "crew_name": "CleoneID",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 249060.59375,
-            "last_seen": 1764381652,
-            "level": 39,
+            "hp": 258780.0,
+            "last_seen": 1764430589,
+            "level": 42,
             "name": "Marikawa",
             "name_history": [
                 "Marikawa"
@@ -2558,6 +2558,22 @@
             ],
             "registered": "Nov 25, 2025, 5:03:20 PM",
             "role_id": 38174103118545472,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545475": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 185928.203125,
+            "last_seen": 1764430589,
+            "level": 40,
+            "name": "Mirozuki",
+            "name_history": [
+                "Mirozuki"
+            ],
+            "registered": "Nov 25, 2025, 5:03:20 PM",
+            "role_id": 38174103118545475,
             "server_region": "ws_asia_01"
         },
         "38174103118545476": {
@@ -6368,6 +6384,22 @@
             "role_id": 38174103118546716,
             "server_region": "ws_asia_01"
         },
+        "38174103118546721": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 189806.40625,
+            "last_seen": 1764430589,
+            "level": 42,
+            "name": "332",
+            "name_history": [
+                "332"
+            ],
+            "registered": "Nov 25, 2025, 5:15:37 PM",
+            "role_id": 38174103118546721,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546722": {
             "crew_id": 73023332133,
             "crew_name": "Teyvat",
@@ -8341,9 +8373,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 183942.40625,
-            "last_seen": 1764375549,
-            "level": 39,
+            "hp": 195135.609375,
+            "last_seen": 1764430589,
+            "level": 42,
             "name": "эiяaM",
             "name_history": [
                 "эiяaM"
@@ -13747,11 +13779,11 @@
         "38174103118555976": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 99880.203125,
-            "last_seen": 1764198815,
-            "level": 29,
+            "hp": 130770.3984375,
+            "last_seen": 1764430589,
+            "level": 40,
             "name": "Phai",
             "name_history": [
                 "Phai"
@@ -31505,8 +31537,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1969,
+    "accounts_total": 1971,
     "created": 1764092421,
-    "last_updated": 1764430529,
+    "last_updated": 1764430589,
     "server_region": "ws_asia_01"
 }
