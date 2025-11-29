@@ -27344,6 +27344,22 @@
             "role_id": 38174103118565645,
             "server_region": "ws_asia_01"
         },
+        "38174103118565648": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58281.0,
+            "last_seen": 1764472355,
+            "level": 16,
+            "name": "Eucliwood",
+            "name_history": [
+                "Eucliwood"
+            ],
+            "registered": "Nov 26, 2025, 6:16:37 AM",
+            "role_id": 38174103118565648,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565678": {
             "crew_id": 0,
             "crew_name": "",
@@ -27380,10 +27396,10 @@
             "crew_id": 300656598821,
             "crew_name": "INDONESIA",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 95460.59375,
-            "last_seen": 1764390480,
-            "level": 38,
+            "gender": 0,
+            "hp": 112086.6015625,
+            "last_seen": 1764472355,
+            "level": 42,
             "name": "Amryzarz 流",
             "name_history": [
                 "Amryzarz 流"
@@ -28181,9 +28197,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 42076.0,
-            "last_seen": 1764390180,
-            "level": 10,
+            "hp": 49833.0,
+            "last_seen": 1764472355,
+            "level": 14,
             "name": "Petong",
             "name_history": [
                 "Petong"
@@ -34384,6 +34400,22 @@
             "role_id": 38174103118583293,
             "server_region": "ws_asia_01"
         },
+        "38174103118583306": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42529.0,
+            "last_seen": 1764472355,
+            "level": 16,
+            "name": "カチューシャ",
+            "name_history": [
+                "カチューシャ"
+            ],
+            "registered": "Nov 29, 2025, 1:11:30 PM",
+            "role_id": 38174103118583306,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583320": {
             "crew_id": 0,
             "crew_name": "",
@@ -34641,8 +34673,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2165,
+    "accounts_total": 2167,
     "created": 1764092421,
-    "last_updated": 1764472295,
+    "last_updated": 1764472355,
     "server_region": "ws_asia_01"
 }
