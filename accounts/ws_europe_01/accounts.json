@@ -512,6 +512,22 @@
             "role_id": 38174111708479815,
             "server_region": "ws_europe_01"
         },
+        "38174111708479834": {
+            "crew_id": 730153328423,
+            "crew_name": "Aurora",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 189708.40625,
+            "last_seen": 1764444122,
+            "level": 42,
+            "name": "GugiWS",
+            "name_history": [
+                "GugiWS"
+            ],
+            "registered": "Nov 25, 2025, 9:05:18 AM",
+            "role_id": 38174111708479834,
+            "server_region": "ws_europe_01"
+        },
         "38174111708479838": {
             "crew_id": 0,
             "crew_name": "",
@@ -6016,6 +6032,22 @@
             "role_id": 38174111708496837,
             "server_region": "ws_europe_01"
         },
+        "38174111708497656": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 100932.6015625,
+            "last_seen": 1764444122,
+            "level": 31,
+            "name": "Rampage",
+            "name_history": [
+                "Rampage"
+            ],
+            "registered": "Nov 29, 2025, 12:52:19 PM",
+            "role_id": 38174111708497656,
+            "server_region": "ws_europe_01"
+        },
         "38174111708497657": {
             "crew_id": 0,
             "crew_name": "",
@@ -6113,8 +6145,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 382,
+    "accounts_total": 384,
     "created": 1764046902,
-    "last_updated": 1764444062,
+    "last_updated": 1764444122,
     "server_region": "ws_europe_01"
 }
