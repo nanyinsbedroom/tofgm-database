@@ -1509,9 +1509,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 40299.20703125,
-            "last_seen": 1764136725,
-            "level": 25,
+            "hp": 264801.0,
+            "last_seen": 1764471755,
+            "level": 42,
             "name": "りっく",
             "name_history": [
                 "りっく"
@@ -7717,9 +7717,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 253554.0,
-            "last_seen": 1764384714,
-            "level": 39,
+            "hp": 258027.0,
+            "last_seen": 1764471755,
+            "level": 42,
             "name": "TitoJay",
             "name_history": [
                 "TitoJay"
@@ -17445,9 +17445,9 @@
             "crew_name": "Kurumi Cult",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 104056.7734375,
-            "last_seen": 1764302197,
-            "level": 34,
+            "hp": 156298.390625,
+            "last_seen": 1764471755,
+            "level": 42,
             "name": "RuruKon",
             "name_history": [
                 "RuruKon"
@@ -27536,6 +27536,22 @@
             "role_id": 38174103118566267,
             "server_region": "ws_asia_01"
         },
+        "38174103118566334": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 44822.0,
+            "last_seen": 1764471755,
+            "level": 11,
+            "name": "Wyn",
+            "name_history": [
+                "Wyn"
+            ],
+            "registered": "Nov 26, 2025, 8:40:16 AM",
+            "role_id": 38174103118566334,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566344": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
@@ -33632,6 +33648,22 @@
             "role_id": 38174103118581985,
             "server_region": "ws_asia_01"
         },
+        "38174103118581992": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 63377.0,
+            "last_seen": 1764471755,
+            "level": 13,
+            "name": "Oงค์ชาe",
+            "name_history": [
+                "Oงค์ชาe"
+            ],
+            "registered": "Nov 29, 2025, 1:16:18 AM",
+            "role_id": 38174103118581992,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582006": {
             "crew_id": 0,
             "crew_name": "",
@@ -33968,6 +34000,22 @@
             "role_id": 38174103118582293,
             "server_region": "ws_asia_01"
         },
+        "38174103118582310": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49181.0,
+            "last_seen": 1764471755,
+            "level": 12,
+            "name": "MiGiYoSi",
+            "name_history": [
+                "MiGiYoSi"
+            ],
+            "registered": "Nov 29, 2025, 3:34:31 AM",
+            "role_id": 38174103118582310,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582315": {
             "crew_id": 0,
             "crew_name": "",
@@ -34289,8 +34337,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2143,
+    "accounts_total": 2146,
     "created": 1764092421,
-    "last_updated": 1764471695,
+    "last_updated": 1764471755,
     "server_region": "ws_asia_01"
 }
