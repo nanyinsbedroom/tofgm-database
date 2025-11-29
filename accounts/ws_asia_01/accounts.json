@@ -6213,9 +6213,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 133816.703125,
-            "last_seen": 1764270074,
-            "level": 34,
+            "hp": 189207.609375,
+            "last_seen": 1764432030,
+            "level": 42,
             "name": "Lori.",
             "name_history": [
                 "Lori."
@@ -24405,9 +24405,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 79244.796875,
-            "last_seen": 1764198755,
-            "level": 29,
+            "hp": 206296.203125,
+            "last_seen": 1764432030,
+            "level": 42,
             "name": "eos___",
             "name_history": [
                 "eos___"
@@ -25390,6 +25390,22 @@
             ],
             "registered": "Nov 26, 2025, 4:36:38 AM",
             "role_id": 38174103118565254,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118565265": {
+            "crew_id": 300656598821,
+            "crew_name": "INDONESIA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 116658.125,
+            "last_seen": 1764432030,
+            "level": 42,
+            "name": "zeta²",
+            "name_history": [
+                "zeta²"
+            ],
+            "registered": "Nov 26, 2025, 4:38:10 AM",
+            "role_id": 38174103118565265,
             "server_region": "ws_asia_01"
         },
         "38174103118565289": {
@@ -28222,6 +28238,22 @@
             ],
             "registered": "Nov 26, 2025, 9:47:20 PM",
             "role_id": 38174103118571394,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571430": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43374.0,
+            "last_seen": 1764432030,
+            "level": 12,
+            "name": "スキルはんたー",
+            "name_history": [
+                "スキルはんたー"
+            ],
+            "registered": "Nov 26, 2025, 9:52:03 PM",
+            "role_id": 38174103118571430,
             "server_region": "ws_asia_01"
         },
         "38174103118571493": {
@@ -31232,6 +31264,22 @@
             "role_id": 38174103118581759,
             "server_region": "ws_asia_01"
         },
+        "38174103118581781": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42511.0,
+            "last_seen": 1764432030,
+            "level": 11,
+            "name": "Joey",
+            "name_history": [
+                "Joey"
+            ],
+            "registered": "Nov 29, 2025, 12:03:48 AM",
+            "role_id": 38174103118581781,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581845": {
             "crew_id": 0,
             "crew_name": "",
@@ -31759,10 +31807,26 @@
             "registered": "Nov 29, 2025, 4:19:38 AM",
             "role_id": 38174103118582384,
             "server_region": "ws_asia_01"
+        },
+        "38174103118583475": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 59937.0,
+            "last_seen": 1764432030,
+            "level": 13,
+            "name": "uiha",
+            "name_history": [
+                "uiha"
+            ],
+            "registered": "Nov 29, 2025, 2:24:10 PM",
+            "role_id": 38174103118583475,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1985,
+    "accounts_total": 1989,
     "created": 1764092421,
-    "last_updated": 1764431970,
+    "last_updated": 1764432030,
     "server_region": "ws_asia_01"
 }
