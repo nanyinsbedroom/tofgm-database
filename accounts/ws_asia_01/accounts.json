@@ -5153,13 +5153,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546251": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 38425.0,
-            "last_seen": 1764111852,
-            "level": 11,
+            "hp": 213184.59375,
+            "last_seen": 1764432931,
+            "level": 42,
             "name": "アリサ",
             "name_history": [
                 "アリサ"
@@ -11390,6 +11390,22 @@
             ],
             "registered": "Nov 25, 2025, 6:07:42 PM",
             "role_id": 38174103118554346,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554350": {
+            "crew_id": 365081108261,
+            "crew_name": "ヴァーサタイリティ",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 129522.0,
+            "last_seen": 1764432931,
+            "level": 41,
+            "name": "Gin",
+            "name_history": [
+                "Gin"
+            ],
+            "registered": "Nov 25, 2025, 6:07:52 PM",
+            "role_id": 38174103118554350,
             "server_region": "ws_asia_01"
         },
         "38174103118554361": {
@@ -32321,8 +32337,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2020,
+    "accounts_total": 2021,
     "created": 1764092421,
-    "last_updated": 1764432871,
+    "last_updated": 1764432931,
     "server_region": "ws_asia_01"
 }
