@@ -31152,6 +31152,22 @@
             "role_id": 38174103118581247,
             "server_region": "ws_asia_01"
         },
+        "38174103118581281": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63538.0,
+            "last_seen": 1764432210,
+            "level": 13,
+            "name": "Shirarui",
+            "name_history": [
+                "Shirarui"
+            ],
+            "registered": "Nov 28, 2025, 9:20:39 PM",
+            "role_id": 38174103118581281,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581310": {
             "crew_id": 0,
             "crew_name": "",
@@ -31999,10 +32015,26 @@
             "registered": "Nov 29, 2025, 2:24:10 PM",
             "role_id": 38174103118583475,
             "server_region": "ws_asia_01"
+        },
+        "38174103118583558": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58158.0,
+            "last_seen": 1764432210,
+            "level": 12,
+            "name": "시런",
+            "name_history": [
+                "시런"
+            ],
+            "registered": "Nov 29, 2025, 3:05:44 PM",
+            "role_id": 38174103118583558,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2000,
+    "accounts_total": 2002,
     "created": 1764092421,
-    "last_updated": 1764432150,
+    "last_updated": 1764432210,
     "server_region": "ws_asia_01"
 }
