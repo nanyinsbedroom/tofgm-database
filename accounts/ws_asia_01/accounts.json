@@ -30880,6 +30880,22 @@
             "role_id": 38174103118579418,
             "server_region": "ws_asia_01"
         },
+        "38174103118579426": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75075.0,
+            "last_seen": 1764433231,
+            "level": 21,
+            "name": "Seraph",
+            "name_history": [
+                "Seraph"
+            ],
+            "registered": "Nov 28, 2025, 3:55:21 AM",
+            "role_id": 38174103118579426,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579445": {
             "crew_id": 0,
             "crew_name": "",
@@ -31973,9 +31989,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 44231.0,
-            "last_seen": 1764389579,
-            "level": 11,
+            "hp": 46823.0,
+            "last_seen": 1764433231,
+            "level": 14,
             "name": "しゅんと",
             "name_history": [
                 "しゅんと"
@@ -32385,8 +32401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2024,
+    "accounts_total": 2025,
     "created": 1764092421,
-    "last_updated": 1764433111,
+    "last_updated": 1764433231,
     "server_region": "ws_asia_01"
 }
