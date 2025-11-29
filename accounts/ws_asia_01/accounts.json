@@ -6565,9 +6565,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 143700.59375,
-            "last_seen": 1764391501,
-            "level": 39,
+            "hp": 196050.40625,
+            "last_seen": 1764432511,
+            "level": 42,
             "name": "ashțrielle",
             "name_history": [
                 "ashțrielle"
@@ -30384,6 +30384,22 @@
             "role_id": 38174103118578847,
             "server_region": "ws_asia_01"
         },
+        "38174103118578876": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 61015.0,
+            "last_seen": 1764432511,
+            "level": 14,
+            "name": "jameboundtkk",
+            "name_history": [
+                "jameboundtkk"
+            ],
+            "registered": "Nov 28, 2025, 12:29:21 AM",
+            "role_id": 38174103118578876,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578908": {
             "crew_id": 0,
             "crew_name": "",
@@ -30974,6 +30990,22 @@
             ],
             "registered": "Nov 28, 2025, 3:40:31 PM",
             "role_id": 38174103118580509,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118580518": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110144.0,
+            "last_seen": 1764432511,
+            "level": 36,
+            "name": "โพนีน่า",
+            "name_history": [
+                "โพนีน่า"
+            ],
+            "registered": "Nov 28, 2025, 3:45:31 PM",
+            "role_id": 38174103118580518,
             "server_region": "ws_asia_01"
         },
         "38174103118580547": {
@@ -32129,8 +32161,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2008,
+    "accounts_total": 2010,
     "created": 1764092421,
-    "last_updated": 1764432451,
+    "last_updated": 1764432511,
     "server_region": "ws_asia_01"
 }
