@@ -2133,9 +2133,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 108137.484375,
-            "last_seen": 1764215235,
-            "level": 29,
+            "hp": 260824.0,
+            "last_seen": 1764435559,
+            "level": 42,
             "name": "pesy",
             "name_history": [
                 "pesy"
@@ -11857,13 +11857,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554474": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 54597.5,
-            "last_seen": 1764215415,
-            "level": 29,
+            "gender": 0,
+            "hp": 213944.1875,
+            "last_seen": 1764435559,
+            "level": 42,
             "name": "Hikalight",
             "name_history": [
                 "Hikalight"
@@ -13358,6 +13358,22 @@
             ],
             "registered": "Nov 25, 2025, 6:43:17 PM",
             "role_id": 38174103118555503,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555514": {
+            "crew_id": 859002347301,
+            "crew_name": "ポンコツな",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 152597.40625,
+            "last_seen": 1764435559,
+            "level": 42,
+            "name": "Mutsu8",
+            "name_history": [
+                "Mutsu8"
+            ],
+            "registered": "Nov 25, 2025, 6:43:33 PM",
+            "role_id": 38174103118555514,
             "server_region": "ws_asia_01"
         },
         "38174103118555546": {
@@ -19294,6 +19310,22 @@
             ],
             "registered": "Nov 25, 2025, 9:07:02 PM",
             "role_id": 38174103118559055,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559074": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 155822.8125,
+            "last_seen": 1764435559,
+            "level": 42,
+            "name": "Fray",
+            "name_history": [
+                "Fray"
+            ],
+            "registered": "Nov 25, 2025, 9:07:50 PM",
+            "role_id": 38174103118559074,
             "server_region": "ws_asia_01"
         },
         "38174103118559107": {
@@ -33041,8 +33073,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2065,
+    "accounts_total": 2067,
     "created": 1764092421,
-    "last_updated": 1764435499,
+    "last_updated": 1764435559,
     "server_region": "ws_asia_01"
 }
