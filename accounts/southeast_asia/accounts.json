@@ -338,8 +338,8 @@
             "crew_name": "Origin",
             "equipping_title": "2_3_0_2",
             "gender": 1,
-            "hp": 1927437.0,
-            "last_seen": 1763040876,
+            "hp": 0.0,
+            "last_seen": 1764447090,
             "level": 100,
             "name": "_AmaShigure_",
             "name_history": [
@@ -7164,9 +7164,15 @@
         "68758131472301": {
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
+            "equipping_title": "1_2022",
             "gender": 0,
-            "last_seen": 1759675177,
+            "hp": 2072038.25,
+            "last_seen": 1764447090,
+            "level": 100,
             "name": "EnemiesZ",
+            "name_history": [
+                "EnemiesZ"
+            ],
             "registered": "Aug 11, 2022, 11:50:02 PM",
             "role_id": 68758131472301,
             "server_region": "southeast_asia"
@@ -8565,8 +8571,8 @@
             "crew_name": "OnlyFนN",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2586336.75,
-            "last_seen": 1762958068,
+            "hp": 2602116.5,
+            "last_seen": 1764447090,
             "level": 100,
             "name": "VelonicaZ",
             "name_history": [
@@ -8752,10 +8758,13 @@
             "crew_name": "OnlyFนN",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 1973881.375,
-            "last_seen": 1761047925,
+            "hp": 2343037.5,
+            "last_seen": 1764447090,
             "level": 100,
             "name": "NohanaMiJunGz",
+            "name_history": [
+                "NohanaMiJunGz"
+            ],
             "registered": "Aug 12, 2022, 9:25:30 PM",
             "role_id": 68762426461695,
             "server_region": "southeast_asia"
@@ -26119,6 +26128,6 @@
     },
     "accounts_total": 1961,
     "created": 1753795148,
-    "last_updated": 1764447030,
+    "last_updated": 1764447090,
     "server_region": "southeast_asia"
 }
