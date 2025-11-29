@@ -19937,13 +19937,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558959": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 52637.0,
-            "last_seen": 1764141238,
-            "level": 16,
+            "hp": 100510.40625,
+            "last_seen": 1764486680,
+            "level": 33,
             "name": "Fistina",
             "name_history": [
                 "Fistina"
@@ -35295,10 +35295,26 @@
             "registered": "Nov 30, 2025, 6:25:53 AM",
             "role_id": 38174103118585417,
             "server_region": "ws_asia_01"
+        },
+        "38174103118585464": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8928.0,
+            "last_seen": 1764486680,
+            "level": 2,
+            "name": "NagiTsun",
+            "name_history": [
+                "NagiTsun"
+            ],
+            "registered": "Nov 30, 2025, 7:04:46 AM",
+            "role_id": 38174103118585464,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2206,
+    "accounts_total": 2207,
     "created": 1764092421,
-    "last_updated": 1764486320,
+    "last_updated": 1764486680,
     "server_region": "ws_asia_01"
 }
