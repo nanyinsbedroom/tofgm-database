@@ -19888,6 +19888,22 @@
             "role_id": 38174103118559684,
             "server_region": "ws_asia_01"
         },
+        "38174103118559688": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 44880.0,
+            "last_seen": 1764432150,
+            "level": 12,
+            "name": "オトギリ",
+            "name_history": [
+                "オトギリ"
+            ],
+            "registered": "Nov 25, 2025, 9:35:06 PM",
+            "role_id": 38174103118559688,
+            "server_region": "ws_asia_01"
+        },
         "38174103118559696": {
             "crew_id": 0,
             "crew_name": "",
@@ -20398,6 +20414,22 @@
             ],
             "registered": "Nov 25, 2025, 9:50:41 PM",
             "role_id": 38174103118560042,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560043": {
+            "crew_id": 523994898213,
+            "crew_name": "Mysterious",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 168125.59375,
+            "last_seen": 1764432150,
+            "level": 42,
+            "name": "setsuka",
+            "name_history": [
+                "setsuka"
+            ],
+            "registered": "Nov 25, 2025, 9:50:44 PM",
+            "role_id": 38174103118560043,
             "server_region": "ws_asia_01"
         },
         "38174103118560049": {
@@ -31969,8 +32001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 1998,
+    "accounts_total": 2000,
     "created": 1764092421,
-    "last_updated": 1764432090,
+    "last_updated": 1764432150,
     "server_region": "ws_asia_01"
 }
