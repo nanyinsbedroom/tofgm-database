@@ -768,6 +768,22 @@
             "role_id": 38174111708480017,
             "server_region": "ws_europe_01"
         },
+        "38174111708480024": {
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 131729.0,
+            "last_seen": 1764448287,
+            "level": 42,
+            "name": "Haze",
+            "name_history": [
+                "Haze"
+            ],
+            "registered": "Nov 25, 2025, 9:10:24 AM",
+            "role_id": 38174111708480024,
+            "server_region": "ws_europe_01"
+        },
         "38174111708480026": {
             "crew_id": 0,
             "crew_name": "",
@@ -2862,6 +2878,22 @@
             ],
             "registered": "Nov 25, 2025, 11:37:27 AM",
             "role_id": 38174111708481940,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708481970": {
+            "crew_id": 146037776167,
+            "crew_name": "Architects",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 107779.71875,
+            "last_seen": 1764448287,
+            "level": 42,
+            "name": "EdenGreen",
+            "name_history": [
+                "EdenGreen"
+            ],
+            "registered": "Nov 25, 2025, 11:41:12 AM",
+            "role_id": 38174111708481970,
             "server_region": "ws_europe_01"
         },
         "38174111708481972": {
@@ -6545,8 +6577,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 409,
+    "accounts_total": 411,
     "created": 1764046902,
-    "last_updated": 1764448227,
+    "last_updated": 1764448287,
     "server_region": "ws_europe_01"
 }
