@@ -15313,13 +15313,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118556207": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 47253528357,
+            "crew_name": "じゃぱたま",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 46538.0,
-            "last_seen": 1764112393,
-            "level": 10,
+            "hp": 254379.203125,
+            "last_seen": 1764527594,
+            "level": 44,
             "name": "アリス３０７",
             "name_history": [
                 "アリス３０７"
@@ -23182,6 +23182,22 @@
             ],
             "registered": "Nov 25, 2025, 10:36:12 PM",
             "role_id": 38174103118560973,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561030": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54130.0,
+            "last_seen": 1764527594,
+            "level": 13,
+            "name": "Ravi",
+            "name_history": [
+                "Ravi"
+            ],
+            "registered": "Nov 25, 2025, 10:40:25 PM",
+            "role_id": 38174103118561030,
             "server_region": "ws_asia_01"
         },
         "38174103118561039": {
@@ -33296,6 +33312,22 @@
             "role_id": 38174103118578303,
             "server_region": "ws_asia_01"
         },
+        "38174103118578313": {
+            "crew_id": 1138175221541,
+            "crew_name": "STALINGRAD",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 261476.0,
+            "last_seen": 1764527594,
+            "level": 44,
+            "name": "Cocol",
+            "name_history": [
+                "Cocol"
+            ],
+            "registered": "Nov 27, 2025, 9:56:15 PM",
+            "role_id": 38174103118578313,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578351": {
             "crew_id": 0,
             "crew_name": "",
@@ -36561,8 +36593,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2285,
+    "accounts_total": 2287,
     "created": 1764092421,
-    "last_updated": 1764527474,
+    "last_updated": 1764527594,
     "server_region": "ws_asia_01"
 }
