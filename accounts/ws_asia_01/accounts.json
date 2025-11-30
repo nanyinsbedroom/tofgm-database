@@ -6069,9 +6069,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 106307.984375,
-            "last_seen": 1764202058,
-            "level": 29,
+            "hp": 268299.0,
+            "last_seen": 1764525480,
+            "level": 43,
             "name": "Furen",
             "name_history": [
                 "Furen"
@@ -8718,6 +8718,22 @@
             ],
             "registered": "Nov 25, 2025, 5:31:33 PM",
             "role_id": 38174103118549471,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118549472": {
+            "crew_id": 382260977445,
+            "crew_name": "Rst",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 274539.0,
+            "last_seen": 1764525480,
+            "level": 44,
+            "name": "ゆう",
+            "name_history": [
+                "ゆう"
+            ],
+            "registered": "Nov 25, 2025, 5:31:34 PM",
+            "role_id": 38174103118549472,
             "server_region": "ws_asia_01"
         },
         "38174103118549579": {
@@ -14112,6 +14128,22 @@
             "role_id": 38174103118555675,
             "server_region": "ws_asia_01"
         },
+        "38174103118555688": {
+            "crew_id": 231937122085,
+            "crew_name": "たまめいと",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 133228.796875,
+            "last_seen": 1764525480,
+            "level": 42,
+            "name": "ぁぃころ",
+            "name_history": [
+                "ぁぃころ"
+            ],
+            "registered": "Nov 25, 2025, 6:49:20 PM",
+            "role_id": 38174103118555688,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555693": {
             "crew_id": 0,
             "crew_name": "",
@@ -17525,9 +17557,9 @@
             "crew_name": "Rst",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 106231.0,
-            "last_seen": 1764202058,
-            "level": 29,
+            "hp": 265669.0,
+            "last_seen": 1764525480,
+            "level": 44,
             "name": "おむすび",
             "name_history": [
                 "おむすび"
@@ -27520,6 +27552,22 @@
             "role_id": 38174103118565313,
             "server_region": "ws_asia_01"
         },
+        "38174103118565321": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 141138.40625,
+            "last_seen": 1764525480,
+            "level": 44,
+            "name": "helnian",
+            "name_history": [
+                "helnian"
+            ],
+            "registered": "Nov 26, 2025, 4:52:13 AM",
+            "role_id": 38174103118565321,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565327": {
             "crew_id": 0,
             "crew_name": "",
@@ -35921,8 +35969,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2245,
+    "accounts_total": 2248,
     "created": 1764092421,
-    "last_updated": 1764525240,
+    "last_updated": 1764525480,
     "server_region": "ws_asia_01"
 }
