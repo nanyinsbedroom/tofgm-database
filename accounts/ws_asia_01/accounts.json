@@ -5731,11 +5731,11 @@
         "38174103118546321": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 107038.0,
-            "last_seen": 1764184019,
-            "level": 29,
+            "hp": 260938.0,
+            "last_seen": 1764548835,
+            "level": 44,
             "name": "ValianT",
             "name_history": [
                 "ValianT"
@@ -33269,9 +33269,9 @@
             "crew_name": "Sleeping Cats",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 89331.203125,
-            "last_seen": 1764390480,
-            "level": 34,
+            "hp": 141182.0,
+            "last_seen": 1764548835,
+            "level": 43,
             "name": "•AstreA•",
             "name_history": [
                 "•AstreA•"
@@ -34094,6 +34094,22 @@
             ],
             "registered": "Nov 27, 2025, 7:48:11 AM",
             "role_id": 38174103118575747,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118575761": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50687.0,
+            "last_seen": 1764548835,
+            "level": 12,
+            "name": "こあとる",
+            "name_history": [
+                "こあとる"
+            ],
+            "registered": "Nov 27, 2025, 7:57:10 AM",
+            "role_id": 38174103118575761,
             "server_region": "ws_asia_01"
         },
         "38174103118575784": {
@@ -39265,8 +39281,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2454,
+    "accounts_total": 2455,
     "created": 1764092421,
-    "last_updated": 1764548775,
+    "last_updated": 1764548835,
     "server_region": "ws_asia_01"
 }
