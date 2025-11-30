@@ -1285,9 +1285,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 185641.015625,
-            "last_seen": 1764431009,
-            "level": 41,
+            "hp": 255910.0,
+            "last_seen": 1764529455,
+            "level": 44,
             "name": "SupportOnly",
             "name_history": [
                 "SupportOnly"
@@ -1390,6 +1390,22 @@
             ],
             "registered": "Nov 25, 2025, 5:02:10 PM",
             "role_id": 38174103118545171,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545179": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 267067.0,
+            "last_seen": 1764529455,
+            "level": 44,
+            "name": "Amelia",
+            "name_history": [
+                "Amelia"
+            ],
+            "registered": "Nov 25, 2025, 5:02:11 PM",
+            "role_id": 38174103118545179,
             "server_region": "ws_asia_01"
         },
         "38174103118545182": {
@@ -4145,13 +4161,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545848": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 57091.0,
-            "last_seen": 1764111612,
-            "level": 14,
+            "hp": 111165.203125,
+            "last_seen": 1764529455,
+            "level": 42,
             "name": "MourningRain",
             "name_history": [
                 "MourningRain"
@@ -7518,6 +7534,22 @@
             ],
             "registered": "Nov 25, 2025, 5:20:42 PM",
             "role_id": 38174103118547048,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118547094": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 173517.1875,
+            "last_seen": 1764529455,
+            "level": 44,
+            "name": "Harshetshesma",
+            "name_history": [
+                "Harshetshesma"
+            ],
+            "registered": "Nov 25, 2025, 5:20:54 PM",
+            "role_id": 38174103118547094,
             "server_region": "ws_asia_01"
         },
         "38174103118547111": {
@@ -12357,9 +12389,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 234526.78125,
-            "last_seen": 1764431610,
-            "level": 42,
+            "hp": 268663.8125,
+            "last_seen": 1764529455,
+            "level": 44,
             "name": "Kumaxion",
             "name_history": [
                 "Kumaxion"
@@ -27477,9 +27509,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 76817.203125,
-            "last_seen": 1764388738,
-            "level": 39,
+            "hp": 78449.203125,
+            "last_seen": 1764529455,
+            "level": 40,
             "name": "KoKo",
             "name_history": [
                 "KoKo"
@@ -36961,8 +36993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2310,
+    "accounts_total": 2312,
     "created": 1764092421,
-    "last_updated": 1764529395,
+    "last_updated": 1764529455,
     "server_region": "ws_asia_01"
 }
