@@ -1427,11 +1427,11 @@
         "38174103118545188": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 129594.0,
-            "last_seen": 1764179381,
-            "level": 29,
+            "hp": 270347.0,
+            "last_seen": 1764527113,
+            "level": 44,
             "name": "女児ちゃん",
             "name_history": [
                 "女児ちゃん"
@@ -3230,6 +3230,22 @@
             ],
             "registered": "Nov 25, 2025, 5:03:47 PM",
             "role_id": 38174103118545575,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545576": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 170665.203125,
+            "last_seen": 1764527113,
+            "level": 43,
+            "name": "Donden",
+            "name_history": [
+                "Donden"
+            ],
+            "registered": "Nov 25, 2025, 5:03:47 PM",
+            "role_id": 38174103118545576,
             "server_region": "ws_asia_01"
         },
         "38174103118545578": {
@@ -34240,6 +34256,22 @@
             "role_id": 38174103118580547,
             "server_region": "ws_asia_01"
         },
+        "38174103118580554": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 142613.796875,
+            "last_seen": 1764527113,
+            "level": 42,
+            "name": "AmonzPendragon",
+            "name_history": [
+                "AmonzPendragon"
+            ],
+            "registered": "Nov 28, 2025, 4:05:47 PM",
+            "role_id": 38174103118580554,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580623": {
             "crew_id": 0,
             "crew_name": "",
@@ -34558,6 +34590,22 @@
             ],
             "registered": "Nov 28, 2025, 9:29:49 PM",
             "role_id": 38174103118581310,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118581319": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16704.0,
+            "last_seen": 1764527113,
+            "level": 11,
+            "name": "プラナ",
+            "name_history": [
+                "プラナ"
+            ],
+            "registered": "Nov 28, 2025, 9:32:30 PM",
+            "role_id": 38174103118581319,
             "server_region": "ws_asia_01"
         },
         "38174103118581333": {
@@ -36433,8 +36481,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2277,
+    "accounts_total": 2280,
     "created": 1764092421,
-    "last_updated": 1764526933,
+    "last_updated": 1764527113,
     "server_region": "ws_asia_01"
 }
