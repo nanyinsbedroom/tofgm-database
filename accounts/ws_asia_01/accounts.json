@@ -645,8 +645,8 @@
             "crew_name": "Teyvat",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 47840.63671875,
-            "last_seen": 1764305827,
+            "hp": 74751.0,
+            "last_seen": 1764525540,
             "level": 21,
             "name": "Rein",
             "name_history": [
@@ -6910,6 +6910,22 @@
             ],
             "registered": "Nov 25, 2025, 5:17:09 PM",
             "role_id": 38174103118546804,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546806": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 148857.0,
+            "last_seen": 1764525540,
+            "level": 44,
+            "name": "ばく",
+            "name_history": [
+                "ばく"
+            ],
+            "registered": "Nov 25, 2025, 5:17:13 PM",
+            "role_id": 38174103118546806,
             "server_region": "ws_asia_01"
         },
         "38174103118546812": {
@@ -32565,9 +32581,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 90884.0,
-            "last_seen": 1764291103,
-            "level": 30,
+            "hp": 191156.796875,
+            "last_seen": 1764525540,
+            "level": 43,
             "name": "Þórðr",
             "name_history": [
                 "Þórðr"
@@ -35776,6 +35792,22 @@
             "role_id": 38174103118584398,
             "server_region": "ws_asia_01"
         },
+        "38174103118584460": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 36055.0,
+            "last_seen": 1764525540,
+            "level": 10,
+            "name": "xjayxじぇいx",
+            "name_history": [
+                "xjayxじぇいx"
+            ],
+            "registered": "Nov 29, 2025, 9:46:17 PM",
+            "role_id": 38174103118584460,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584706": {
             "crew_id": 0,
             "crew_name": "",
@@ -35969,8 +36001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2248,
+    "accounts_total": 2250,
     "created": 1764092421,
-    "last_updated": 1764525480,
+    "last_updated": 1764525540,
     "server_region": "ws_asia_01"
 }
