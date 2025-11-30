@@ -2805,9 +2805,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 165361.59375,
-            "last_seen": 1764302918,
-            "level": 34,
+            "hp": 213675.0,
+            "last_seen": 1764528194,
+            "level": 44,
             "name": "buh",
             "name_history": [
                 "buh"
@@ -11230,6 +11230,22 @@
             ],
             "registered": "Nov 25, 2025, 5:55:09 PM",
             "role_id": 38174103118553755,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553792": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 103489.203125,
+            "last_seen": 1764528194,
+            "level": 43,
+            "name": "Lumiere",
+            "name_history": [
+                "Lumiere"
+            ],
+            "registered": "Nov 25, 2025, 5:55:41 PM",
+            "role_id": 38174103118553792,
             "server_region": "ws_asia_01"
         },
         "38174103118553798": {
@@ -36705,8 +36721,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2294,
+    "accounts_total": 2295,
     "created": 1764092421,
-    "last_updated": 1764528134,
+    "last_updated": 1764528194,
     "server_region": "ws_asia_01"
 }
