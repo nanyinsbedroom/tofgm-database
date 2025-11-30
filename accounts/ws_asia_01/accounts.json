@@ -17269,9 +17269,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 80345.0,
-            "last_seen": 1764127970,
-            "level": 22,
+            "hp": 264433.0,
+            "last_seen": 1764550276,
+            "level": 44,
             "name": "Marthe.",
             "name_history": [
                 "Marthe."
@@ -24862,6 +24862,22 @@
             ],
             "registered": "Nov 25, 2025, 11:12:05 PM",
             "role_id": 38174103118561631,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561635": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 133829.359375,
+            "last_seen": 1764550276,
+            "level": 44,
+            "name": "ペンネ",
+            "name_history": [
+                "ペンネ"
+            ],
+            "registered": "Nov 25, 2025, 11:12:28 PM",
+            "role_id": 38174103118561635,
             "server_region": "ws_asia_01"
         },
         "38174103118561638": {
@@ -32864,6 +32880,22 @@
             "role_id": 38174103118572494,
             "server_region": "ws_asia_01"
         },
+        "38174103118572598": {
+            "crew_id": 188987449125,
+            "crew_name": "千本桜",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 32962.8359375,
+            "last_seen": 1764550276,
+            "level": 29,
+            "name": "KASUMI【霞】",
+            "name_history": [
+                "KASUMI【霞】"
+            ],
+            "registered": "Nov 26, 2025, 10:49:24 PM",
+            "role_id": 38174103118572598,
+            "server_region": "ws_asia_01"
+        },
         "38174103118572601": {
             "crew_id": 0,
             "crew_name": "",
@@ -39441,8 +39473,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2465,
+    "accounts_total": 2467,
     "created": 1764092421,
-    "last_updated": 1764550156,
+    "last_updated": 1764550276,
     "server_region": "ws_asia_01"
 }
