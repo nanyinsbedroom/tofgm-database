@@ -2643,11 +2643,11 @@
         "38174103118545437": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 83141.0,
-            "last_seen": 1764117664,
-            "level": 22,
+            "hp": 199682.59375,
+            "last_seen": 1764528314,
+            "level": 44,
             "name": "FURIOUX",
             "name_history": [
                 "FURIOUX"
@@ -13382,7 +13382,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 267282.0,
-            "last_seen": 1764526260,
+            "last_seen": 1764528314,
             "level": 44,
             "name": "harou",
             "name_history": [
@@ -32944,6 +32944,22 @@
             "role_id": 38174103118577028,
             "server_region": "ws_asia_01"
         },
+        "38174103118577060": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 226193.203125,
+            "last_seen": 1764528314,
+            "level": 44,
+            "name": "HzN•Veldora",
+            "name_history": [
+                "HzN•Veldora"
+            ],
+            "registered": "Nov 27, 2025, 3:26:34 PM",
+            "role_id": 38174103118577060,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577069": {
             "crew_id": 0,
             "crew_name": "",
@@ -36753,8 +36769,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2297,
+    "accounts_total": 2298,
     "created": 1764092421,
-    "last_updated": 1764528254,
+    "last_updated": 1764528314,
     "server_region": "ws_asia_01"
 }
