@@ -8629,9 +8629,9 @@
             "crew_name": "GamuGakuen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 98538.203125,
-            "last_seen": 1764464894,
-            "level": 38,
+            "hp": 100266.203125,
+            "last_seen": 1764526933,
+            "level": 40,
             "name": "Mael28",
             "name_history": [
                 "Mael28"
@@ -19646,6 +19646,22 @@
             ],
             "registered": "Nov 25, 2025, 8:50:41 PM",
             "role_id": 38174103118558680,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558684": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 154040.390625,
+            "last_seen": 1764526933,
+            "level": 44,
+            "name": "Momonggi",
+            "name_history": [
+                "Momonggi"
+            ],
+            "registered": "Nov 25, 2025, 8:50:44 PM",
+            "role_id": 38174103118558684,
             "server_region": "ws_asia_01"
         },
         "38174103118558687": {
@@ -36417,8 +36433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2276,
+    "accounts_total": 2277,
     "created": 1764092421,
-    "last_updated": 1764526873,
+    "last_updated": 1764526933,
     "server_region": "ws_asia_01"
 }
