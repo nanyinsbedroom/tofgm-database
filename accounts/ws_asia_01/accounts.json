@@ -5621,9 +5621,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 92602.59375,
-            "last_seen": 1764304926,
-            "level": 34,
+            "hp": 263784.0,
+            "last_seen": 1764535090,
+            "level": 43,
             "name": "Akina",
             "name_history": [
                 "Akina"
@@ -20734,6 +20734,22 @@
             ],
             "registered": "Nov 25, 2025, 9:07:50 PM",
             "role_id": 38174103118559074,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559086": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 208868.40625,
+            "last_seen": 1764535090,
+            "level": 44,
+            "name": "Kuna",
+            "name_history": [
+                "Kuna"
+            ],
+            "registered": "Nov 25, 2025, 9:08:29 PM",
+            "role_id": 38174103118559086,
             "server_region": "ws_asia_01"
         },
         "38174103118559107": {
@@ -36768,6 +36784,22 @@
             "role_id": 38174103118583558,
             "server_region": "ws_asia_01"
         },
+        "38174103118583639": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 55374.0,
+            "last_seen": 1764535090,
+            "level": 15,
+            "name": "クリリン",
+            "name_history": [
+                "クリリン"
+            ],
+            "registered": "Nov 29, 2025, 3:37:48 PM",
+            "role_id": 38174103118583639,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583686": {
             "crew_id": 0,
             "crew_name": "",
@@ -37280,6 +37312,22 @@
             "role_id": 38174103118586253,
             "server_region": "ws_asia_01"
         },
+        "38174103118586273": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39937.58984375,
+            "last_seen": 1764535090,
+            "level": 16,
+            "name": "マリリン",
+            "name_history": [
+                "マリリン"
+            ],
+            "registered": "Nov 30, 2025, 3:49:26 PM",
+            "role_id": 38174103118586273,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586335": {
             "crew_id": 0,
             "crew_name": "",
@@ -37361,8 +37409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2335,
+    "accounts_total": 2338,
     "created": 1764092421,
-    "last_updated": 1764535030,
+    "last_updated": 1764535090,
     "server_region": "ws_asia_01"
 }
