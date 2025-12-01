@@ -1523,11 +1523,11 @@
         "38174103118545196": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;59",
             "gender": 1,
-            "hp": 148022.265625,
-            "last_seen": 1764435979,
-            "level": 42,
+            "hp": 328545.0,
+            "last_seen": 1764624140,
+            "level": 46,
             "name": "P n J",
             "name_history": [
                 "P n J"
@@ -25376,6 +25376,22 @@
             "role_id": 38174103118561849,
             "server_region": "ws_asia_01"
         },
+        "38174103118561869": {
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 190034.609375,
+            "last_seen": 1764624140,
+            "level": 45,
+            "name": "kamui",
+            "name_history": [
+                "kamui"
+            ],
+            "registered": "Nov 25, 2025, 11:24:32 PM",
+            "role_id": 38174103118561869,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561877": {
             "crew_id": 300656598821,
             "crew_name": "INDONESIA",
@@ -25470,6 +25486,22 @@
             ],
             "registered": "Nov 25, 2025, 11:30:59 PM",
             "role_id": 38174103118561992,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562014": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 191624.796875,
+            "last_seen": 1764624140,
+            "level": 45,
+            "name": "Piksz.exe",
+            "name_history": [
+                "Piksz.exe"
+            ],
+            "registered": "Nov 25, 2025, 11:31:59 PM",
+            "role_id": 38174103118562014,
             "server_region": "ws_asia_01"
         },
         "38174103118562015": {
@@ -39889,8 +39921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2493,
+    "accounts_total": 2495,
     "created": 1764092421,
-    "last_updated": 1764623060,
+    "last_updated": 1764624140,
     "server_region": "ws_asia_01"
 }
