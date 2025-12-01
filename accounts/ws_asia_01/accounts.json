@@ -16117,9 +16117,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 134841.59375,
-            "last_seen": 1764273377,
-            "level": 34,
+            "hp": 188734.0625,
+            "last_seen": 1764639131,
+            "level": 46,
             "name": "Sorahane",
             "name_history": [
                 "Sorahane"
@@ -16446,6 +16446,22 @@
             ],
             "registered": "Nov 25, 2025, 7:18:22 PM",
             "role_id": 38174103118556455,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556456": {
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56579.58984375,
+            "last_seen": 1764639131,
+            "level": 46,
+            "name": "疲労がポン",
+            "name_history": [
+                "疲労がポン"
+            ],
+            "registered": "Nov 25, 2025, 7:18:23 PM",
+            "role_id": 38174103118556456,
             "server_region": "ws_asia_01"
         },
         "38174103118556467": {
@@ -33488,6 +33504,22 @@
             "role_id": 38174103118572953,
             "server_region": "ws_asia_01"
         },
+        "38174103118572974": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58666.0,
+            "last_seen": 1764639131,
+            "level": 18,
+            "name": "アイテル",
+            "name_history": [
+                "アイテル"
+            ],
+            "registered": "Nov 26, 2025, 10:59:30 PM",
+            "role_id": 38174103118572974,
+            "server_region": "ws_asia_01"
+        },
         "38174103118573305": {
             "crew_id": 0,
             "crew_name": "",
@@ -40257,8 +40289,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2516,
+    "accounts_total": 2518,
     "created": 1764092421,
-    "last_updated": 1764638686,
+    "last_updated": 1764639131,
     "server_region": "ws_asia_01"
 }
