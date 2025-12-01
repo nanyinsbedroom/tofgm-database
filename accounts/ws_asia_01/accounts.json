@@ -37556,10 +37556,10 @@
             "crew_id": 296361631525,
             "crew_name": "くまとうさぎ",
             "equipping_title": "None",
-            "gender": 0,
-            "hp": 71346.0,
-            "last_seen": 1764436099,
-            "level": 16,
+            "gender": 1,
+            "hp": 135782.40625,
+            "last_seen": 1764639671,
+            "level": 45,
             "name": "さかしゅん",
             "name_history": [
                 "さかしゅん"
@@ -40272,6 +40272,22 @@
             "role_id": 38174103118588099,
             "server_region": "ws_asia_01"
         },
+        "38174103118588115": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 69015.0,
+            "last_seen": 1764639671,
+            "level": 25,
+            "name": "KamoNegi",
+            "name_history": [
+                "KamoNegi"
+            ],
+            "registered": "Dec 1, 2025, 2:00:00 PM",
+            "role_id": 38174103118588115,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588516": {
             "crew_id": 55843462949,
             "crew_name": "Fractsidus",
@@ -40289,8 +40305,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2518,
+    "accounts_total": 2519,
     "created": 1764092421,
-    "last_updated": 1764639251,
+    "last_updated": 1764639671,
     "server_region": "ws_asia_01"
 }
