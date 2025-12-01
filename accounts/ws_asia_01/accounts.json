@@ -18784,6 +18784,22 @@
             "role_id": 38174103118557743,
             "server_region": "ws_asia_01"
         },
+        "38174103118557745": {
+            "crew_id": 279181762341,
+            "crew_name": "甘味処パルフェ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 153587.59375,
+            "last_seen": 1764634992,
+            "level": 44,
+            "name": "パフェリア　",
+            "name_history": [
+                "パフェリア　"
+            ],
+            "registered": "Nov 25, 2025, 8:13:15 PM",
+            "role_id": 38174103118557745,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557746": {
             "crew_id": 0,
             "crew_name": "",
@@ -26670,6 +26686,22 @@
             ],
             "registered": "Nov 26, 2025, 12:32:14 AM",
             "role_id": 38174103118563020,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563026": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 122408.6015625,
+            "last_seen": 1764634992,
+            "level": 44,
+            "name": "白翼",
+            "name_history": [
+                "白翼"
+            ],
+            "registered": "Nov 26, 2025, 12:32:24 AM",
+            "role_id": 38174103118563026,
             "server_region": "ws_asia_01"
         },
         "38174103118563027": {
@@ -40049,8 +40081,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2503,
+    "accounts_total": 2505,
     "created": 1764092421,
-    "last_updated": 1764634691,
+    "last_updated": 1764634992,
     "server_region": "ws_asia_01"
 }
