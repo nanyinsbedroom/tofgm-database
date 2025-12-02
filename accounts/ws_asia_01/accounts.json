@@ -11363,11 +11363,11 @@
         "38174103118552231": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;57",
             "gender": 0,
-            "hp": 76206.0,
-            "last_seen": 1764143280,
-            "level": 22,
+            "hp": 337339.21875,
+            "last_seen": 1764714479,
+            "level": 48,
             "name": "ナアシ",
             "name_history": [
                 "ナアシ"
@@ -19749,9 +19749,9 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 277625.1875,
-            "last_seen": 1764696872,
-            "level": 47,
+            "hp": 291759.375,
+            "last_seen": 1764714479,
+            "level": 48,
             "name": "アルマ",
             "name_history": [
                 "アルマ"
@@ -22462,6 +22462,22 @@
             ],
             "registered": "Nov 25, 2025, 9:17:02 PM",
             "role_id": 38174103118559295,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559300": {
+            "crew_id": 871887249189,
+            "crew_name": "新天地",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 202602.8125,
+            "last_seen": 1764714479,
+            "level": 46,
+            "name": "コリウス3号",
+            "name_history": [
+                "コリウス3号"
+            ],
+            "registered": "Nov 25, 2025, 9:17:18 PM",
+            "role_id": 38174103118559300,
             "server_region": "ws_asia_01"
         },
         "38174103118559317": {
@@ -31776,6 +31792,22 @@
             "role_id": 38174103118566846,
             "server_region": "ws_asia_01"
         },
+        "38174103118566848": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 129156.0078125,
+            "last_seen": 1764714479,
+            "level": 48,
+            "name": "VAEL",
+            "name_history": [
+                "VAEL"
+            ],
+            "registered": "Nov 26, 2025, 10:08:10 AM",
+            "role_id": 38174103118566848,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566871": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
@@ -32014,6 +32046,22 @@
             ],
             "registered": "Nov 26, 2025, 11:14:53 AM",
             "role_id": 38174103118567245,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118567249": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 47627.45703125,
+            "last_seen": 1764714479,
+            "level": 14,
+            "name": "Luna Ecplise",
+            "name_history": [
+                "Luna Ecplise"
+            ],
+            "registered": "Nov 26, 2025, 11:15:41 AM",
+            "role_id": 38174103118567249,
             "server_region": "ws_asia_01"
         },
         "38174103118567265": {
@@ -37269,9 +37317,9 @@
             "crew_name": "StarDust",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 164487.0,
-            "last_seen": 1764472175,
-            "level": 42,
+            "hp": 230280.40625,
+            "last_seen": 1764714479,
+            "level": 48,
             "name": "Quing",
             "name_history": [
                 "Quing"
@@ -42657,8 +42705,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2666,
+    "accounts_total": 2669,
     "created": 1764092421,
-    "last_updated": 1764714419,
+    "last_updated": 1764714479,
     "server_region": "ws_asia_01"
 }
