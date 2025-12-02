@@ -2787,11 +2787,11 @@
         "38174103118545437": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_1_3_1",
             "gender": 0,
-            "hp": 199682.59375,
-            "last_seen": 1764528314,
-            "level": 44,
+            "hp": 305804.0,
+            "last_seen": 1764717483,
+            "level": 48,
             "name": "FURIOUX",
             "name_history": [
                 "FURIOUX"
@@ -43184,6 +43184,22 @@
             "role_id": 38174103118589417,
             "server_region": "ws_asia_01"
         },
+        "38174103118589436": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101005.0,
+            "last_seen": 1764717483,
+            "level": 36,
+            "name": "A4Race ",
+            "name_history": [
+                "A4Race "
+            ],
+            "registered": "Dec 2, 2025, 12:20:39 PM",
+            "role_id": 38174103118589436,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589437": {
             "crew_id": 0,
             "crew_name": "",
@@ -43361,8 +43377,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2710,
+    "accounts_total": 2711,
     "created": 1764092421,
-    "last_updated": 1764717423,
+    "last_updated": 1764717483,
     "server_region": "ws_asia_01"
 }
