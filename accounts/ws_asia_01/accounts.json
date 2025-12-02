@@ -3093,9 +3093,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 168874.59375,
-            "last_seen": 1764380451,
-            "level": 39,
+            "hp": 216367.203125,
+            "last_seen": 1764714899,
+            "level": 47,
             "name": "Drashel",
             "name_history": [
                 "Drashel"
@@ -42863,10 +42863,26 @@
             "registered": "Dec 2, 2025, 5:34:33 PM",
             "role_id": 38174103118589689,
             "server_region": "ws_asia_01"
+        },
+        "38174103118589823": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37560.0,
+            "last_seen": 1764714899,
+            "level": 10,
+            "name": "Synck",
+            "name_history": [
+                "Synck"
+            ],
+            "registered": "Dec 2, 2025, 7:44:55 PM",
+            "role_id": 38174103118589823,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2679,
+    "accounts_total": 2680,
     "created": 1764092421,
-    "last_updated": 1764714839,
+    "last_updated": 1764714899,
     "server_region": "ws_asia_01"
 }
