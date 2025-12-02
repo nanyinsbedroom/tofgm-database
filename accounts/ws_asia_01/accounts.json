@@ -2006,7 +2006,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 348768.0,
-            "last_seen": 1764713878,
+            "last_seen": 1764717003,
             "level": 48,
             "name": "Dwin",
             "name_history": [
@@ -8518,7 +8518,7 @@
             "equipping_title": "WorldBossDamage_4;boss_hum_045_world;36",
             "gender": 1,
             "hp": 292740.0,
-            "last_seen": 1764713698,
+            "last_seen": 1764717003,
             "level": 48,
             "name": "たきな",
             "name_history": [
@@ -10582,7 +10582,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 87434.296875,
-            "last_seen": 1764713698,
+            "last_seen": 1764717003,
             "level": 48,
             "name": "Venera",
             "name_history": [
@@ -16403,11 +16403,11 @@
         "38174103118556115": {
             "crew_id": 352196206373,
             "crew_name": "ミッドナイト",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;69",
             "gender": 1,
-            "hp": 125200.59375,
-            "last_seen": 1764200977,
-            "level": 29,
+            "hp": 340335.0,
+            "last_seen": 1764717003,
+            "level": 48,
             "name": "七崎レイ",
             "name_history": [
                 "七崎レイ"
@@ -16878,6 +16878,22 @@
             ],
             "registered": "Nov 25, 2025, 7:14:06 PM",
             "role_id": 38174103118556343,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556345": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 348768.0,
+            "last_seen": 1764717003,
+            "level": 48,
+            "name": "ユイカ",
+            "name_history": [
+                "ユイカ"
+            ],
+            "registered": "Nov 25, 2025, 7:14:10 PM",
+            "role_id": 38174103118556345,
             "server_region": "ws_asia_01"
         },
         "38174103118556366": {
@@ -17381,8 +17397,8 @@
             "crew_name": "Saints",
             "equipping_title": "2_10_0_4",
             "gender": 1,
-            "hp": 310000.21875,
-            "last_seen": 1764715860,
+            "hp": 276193.25,
+            "last_seen": 1764717003,
             "level": 48,
             "name": "蜜汁烤鸭",
             "name_history": [
@@ -24582,7 +24598,7 @@
             "equipping_title": "1_1_1_1",
             "gender": 1,
             "hp": 284754.625,
-            "last_seen": 1764713698,
+            "last_seen": 1764717003,
             "level": 46,
             "name": "ペコ",
             "name_history": [
@@ -32486,7 +32502,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 334506.0,
-            "last_seen": 1764716881,
+            "last_seen": 1764717003,
             "level": 48,
             "name": "ファイi",
             "name_history": [
@@ -39264,6 +39280,22 @@
             "role_id": 38174103118580994,
             "server_region": "ws_asia_01"
         },
+        "38174103118581012": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 164332.59375,
+            "last_seen": 1764717003,
+            "level": 48,
+            "name": "kampom",
+            "name_history": [
+                "kampom"
+            ],
+            "registered": "Nov 28, 2025, 7:47:36 PM",
+            "role_id": 38174103118581012,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581065": {
             "crew_id": 0,
             "crew_name": "",
@@ -43217,8 +43249,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2701,
+    "accounts_total": 2703,
     "created": 1764092421,
-    "last_updated": 1764716881,
+    "last_updated": 1764717003,
     "server_region": "ws_asia_01"
 }
