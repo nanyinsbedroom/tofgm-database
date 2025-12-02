@@ -13473,13 +13473,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554456": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 300656598821,
+            "crew_name": "INDONESIA",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 155167.015625,
-            "last_seen": 1764381652,
-            "level": 39,
+            "hp": 283985.21875,
+            "last_seen": 1764731885,
+            "level": 48,
             "name": "MAXX",
             "name_history": [
                 "MAXX"
@@ -18046,6 +18046,22 @@
             ],
             "registered": "Nov 25, 2025, 7:37:00 PM",
             "role_id": 38174103118556923,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556925": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 88548.0,
+            "last_seen": 1764731885,
+            "level": 30,
+            "name": "みこたま祭祀",
+            "name_history": [
+                "みこたま祭祀"
+            ],
+            "registered": "Nov 25, 2025, 7:37:08 PM",
+            "role_id": 38174103118556925,
             "server_region": "ws_asia_01"
         },
         "38174103118556926": {
@@ -30739,11 +30755,11 @@
         "38174103118564908": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;9",
             "gender": 1,
-            "hp": 227253.8125,
-            "last_seen": 1764431490,
-            "level": 42,
+            "hp": 242125.71875,
+            "last_seen": 1764731885,
+            "level": 48,
             "name": "VelonicaZ",
             "name_history": [
                 "VelonicaZ"
@@ -44641,8 +44657,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2790,
+    "accounts_total": 2791,
     "created": 1764092421,
-    "last_updated": 1764731825,
+    "last_updated": 1764731885,
     "server_region": "ws_asia_01"
 }
