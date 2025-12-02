@@ -4917,8 +4917,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 229427.984375,
-            "last_seen": 1764733172,
+            "hp": 213721.421875,
+            "last_seen": 1764739183,
             "level": 48,
             "name": "Saunts",
             "name_history": [
@@ -5941,9 +5941,9 @@
             "crew_name": "Eissentam",
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;42",
             "gender": 0,
-            "hp": 293178.59375,
-            "last_seen": 1764731345,
-            "level": 48,
+            "hp": 301569.59375,
+            "last_seen": 1764739183,
+            "level": 49,
             "name": "R A I Z E N",
             "name_history": [
                 "R A I Z E N"
@@ -15710,6 +15710,22 @@
             ],
             "registered": "Nov 25, 2025, 6:53:04 PM",
             "role_id": 38174103118555784,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555785": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 184614.40625,
+            "last_seen": 1764739183,
+            "level": 48,
+            "name": "Xinna",
+            "name_history": [
+                "Xinna"
+            ],
+            "registered": "Nov 25, 2025, 6:53:05 PM",
+            "role_id": 38174103118555785,
             "server_region": "ws_asia_01"
         },
         "38174103118555786": {
@@ -37185,13 +37201,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118575400": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 94498168613,
+            "crew_name": "YAGURE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 67055.0,
-            "last_seen": 1764479992,
-            "level": 19,
+            "hp": 35255.5,
+            "last_seen": 1764739183,
+            "level": 23,
             "name": "Nagomin",
             "name_history": [
                 "Nagomin"
@@ -44849,8 +44865,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2803,
+    "accounts_total": 2804,
     "created": 1764092421,
-    "last_updated": 1764734012,
+    "last_updated": 1764739183,
     "server_region": "ws_asia_01"
 }
