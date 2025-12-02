@@ -14704,6 +14704,22 @@
             "role_id": 38174103118555127,
             "server_region": "ws_asia_01"
         },
+        "38174103118555139": {
+            "crew_id": 1086635613989,
+            "crew_name": "แม่เรียกกินข้าว",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;43",
+            "gender": 0,
+            "hp": 199597.15625,
+            "last_seen": 1764729767,
+            "level": 48,
+            "name": "DDD",
+            "name_history": [
+                "DDD"
+            ],
+            "registered": "Nov 25, 2025, 6:31:14 PM",
+            "role_id": 38174103118555139,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555141": {
             "crew_id": 798872805157,
             "crew_name": "Kingsman",
@@ -19477,9 +19493,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 153106.03125,
-            "last_seen": 1764308988,
-            "level": 39,
+            "hp": 273370.0625,
+            "last_seen": 1764729767,
+            "level": 48,
             "name": "MadisonRhine",
             "name_history": [
                 "MadisonRhine"
@@ -28177,13 +28193,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118563042": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 1086635613989,
+            "crew_name": "แม่เรียกกินข้าว",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 71449.0,
-            "last_seen": 1764127850,
-            "level": 15,
+            "hp": 203647.234375,
+            "last_seen": 1764729767,
+            "level": 48,
             "name": "อึหอม",
             "name_history": [
                 "อึหอม"
@@ -37856,6 +37872,22 @@
             "role_id": 38174103118577350,
             "server_region": "ws_asia_01"
         },
+        "38174103118577361": {
+            "crew_id": 1288499076901,
+            "crew_name": "SCARLETBLAZE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 140427.59375,
+            "last_seen": 1764729767,
+            "level": 45,
+            "name": "FEINARY",
+            "name_history": [
+                "FEINARY"
+            ],
+            "registered": "Nov 27, 2025, 5:00:09 PM",
+            "role_id": 38174103118577361,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577418": {
             "crew_id": 811757707045,
             "crew_name": "Sovereign",
@@ -44273,8 +44305,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2767,
+    "accounts_total": 2769,
     "created": 1764092421,
-    "last_updated": 1764729647,
+    "last_updated": 1764729767,
     "server_region": "ws_asia_01"
 }
