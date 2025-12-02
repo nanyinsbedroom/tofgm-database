@@ -1637,9 +1637,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 264801.0,
-            "last_seen": 1764471755,
-            "level": 42,
+            "hp": 327915.0,
+            "last_seen": 1764696133,
+            "level": 48,
             "name": "りっく",
             "name_history": [
                 "りっく"
@@ -3062,7 +3062,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 270983.8125,
-            "last_seen": 1764693555,
+            "last_seen": 1764696133,
             "level": 46,
             "name": "うぇすた",
             "name_history": [
@@ -19569,13 +19569,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557928": {
-            "crew_id": 47253528357,
-            "crew_name": "じゃぱたま",
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 117357.203125,
-            "last_seen": 1764302197,
-            "level": 34,
+            "hp": 277625.1875,
+            "last_seen": 1764696133,
+            "level": 47,
             "name": "アルマ",
             "name_history": [
                 "アルマ"
@@ -24165,8 +24165,8 @@
             "crew_name": "ブラックムーン海賊団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 233499.203125,
-            "last_seen": 1764693495,
+            "hp": 348768.0,
+            "last_seen": 1764696133,
             "level": 48,
             "name": "深冷海炎",
             "name_history": [
@@ -31728,6 +31728,22 @@
             "role_id": 38174103118567452,
             "server_region": "ws_asia_01"
         },
+        "38174103118567456": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 310697.4375,
+            "last_seen": 1764696133,
+            "level": 48,
+            "name": "9thZXC",
+            "name_history": [
+                "9thZXC"
+            ],
+            "registered": "Nov 26, 2025, 11:44:52 AM",
+            "role_id": 38174103118567456,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567465": {
             "crew_id": 0,
             "crew_name": "",
@@ -36133,9 +36149,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 38686.3515625,
-            "last_seen": 1764385555,
-            "level": 18,
+            "hp": 102199.59375,
+            "last_seen": 1764696133,
+            "level": 35,
             "name": "El_viral",
             "name_history": [
                 "El_viral"
@@ -40624,6 +40640,22 @@
             "role_id": 38174103118585469,
             "server_region": "ws_asia_01"
         },
+        "38174103118585474": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49829.0,
+            "last_seen": 1764696133,
+            "level": 13,
+            "name": "kura²",
+            "name_history": [
+                "kura²"
+            ],
+            "registered": "Nov 30, 2025, 7:15:31 AM",
+            "role_id": 38174103118585474,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585481": {
             "crew_id": 0,
             "crew_name": "",
@@ -41425,8 +41457,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2589,
+    "accounts_total": 2591,
     "created": 1764092421,
-    "last_updated": 1764696073,
+    "last_updated": 1764696133,
     "server_region": "ws_asia_01"
 }
