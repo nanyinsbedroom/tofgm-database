@@ -7781,9 +7781,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 167597.1875,
-            "last_seen": 1764625762,
-            "level": 46,
+            "hp": 172699.59375,
+            "last_seen": 1764695172,
+            "level": 47,
             "name": "meimei",
             "name_history": [
                 "meimei"
@@ -8862,6 +8862,22 @@
             ],
             "registered": "Nov 25, 2025, 5:26:53 PM",
             "role_id": 38174103118548437,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118548509": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;3",
+            "gender": 0,
+            "hp": 328584.625,
+            "last_seen": 1764695172,
+            "level": 48,
+            "name": "KNG",
+            "name_history": [
+                "KNG"
+            ],
+            "registered": "Nov 25, 2025, 5:27:26 PM",
+            "role_id": 38174103118548509,
             "server_region": "ws_asia_01"
         },
         "38174103118548513": {
@@ -41121,8 +41137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2570,
+    "accounts_total": 2571,
     "created": 1764092421,
-    "last_updated": 1764695112,
+    "last_updated": 1764695172,
     "server_region": "ws_asia_01"
 }
