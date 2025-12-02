@@ -11205,9 +11205,9 @@
             "crew_name": "千本桜",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 121709.40625,
-            "last_seen": 1764285220,
-            "level": 34,
+            "hp": 464956.0,
+            "last_seen": 1764704039,
+            "level": 48,
             "name": "深海のくらげ",
             "name_history": [
                 "深海のくらげ"
@@ -16350,6 +16350,22 @@
             ],
             "registered": "Nov 25, 2025, 7:08:10 PM",
             "role_id": 38174103118556187,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556193": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 149993.78125,
+            "last_seen": 1764704039,
+            "level": 47,
+            "name": "たるたる。",
+            "name_history": [
+                "たるたる。"
+            ],
+            "registered": "Nov 25, 2025, 7:08:32 PM",
+            "role_id": 38174103118556193,
             "server_region": "ws_asia_01"
         },
         "38174103118556197": {
@@ -41873,8 +41889,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2617,
+    "accounts_total": 2618,
     "created": 1764092421,
-    "last_updated": 1764703979,
+    "last_updated": 1764704039,
     "server_region": "ws_asia_01"
 }
