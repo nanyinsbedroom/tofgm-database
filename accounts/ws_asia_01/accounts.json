@@ -14611,11 +14611,11 @@
         "38174103118555081": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;70",
             "gender": 1,
-            "hp": 242798.8125,
-            "last_seen": 1764548058,
-            "level": 44,
+            "hp": 283364.8125,
+            "last_seen": 1764729346,
+            "level": 48,
             "name": "เย็ดหีแตกใน",
             "name_history": [
                 "เย็ดหีแตกใน"
@@ -20448,6 +20448,22 @@
             "role_id": 38174103118558095,
             "server_region": "ws_asia_01"
         },
+        "38174103118558099": {
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 111963.0,
+            "last_seen": 1764729346,
+            "level": 46,
+            "name": "Masako",
+            "name_history": [
+                "Masako"
+            ],
+            "registered": "Nov 25, 2025, 8:28:23 PM",
+            "role_id": 38174103118558099,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558110": {
             "crew_id": 0,
             "crew_name": "",
@@ -22766,6 +22782,22 @@
             ],
             "registered": "Nov 25, 2025, 9:15:43 PM",
             "role_id": 38174103118559274,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559292": {
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 132047.59375,
+            "last_seen": 1764729346,
+            "level": 44,
+            "name": "Ryobi",
+            "name_history": [
+                "Ryobi"
+            ],
+            "registered": "Nov 25, 2025, 9:16:55 PM",
+            "role_id": 38174103118559292,
             "server_region": "ws_asia_01"
         },
         "38174103118559295": {
@@ -39008,6 +39040,22 @@
             "role_id": 38174103118579445,
             "server_region": "ws_asia_01"
         },
+        "38174103118579448": {
+            "crew_id": 1236959469349,
+            "crew_name": "Debauchery",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 346134.0,
+            "last_seen": 1764729346,
+            "level": 48,
+            "name": "ARIANRHOD146",
+            "name_history": [
+                "ARIANRHOD146"
+            ],
+            "registered": "Nov 28, 2025, 4:12:21 AM",
+            "role_id": 38174103118579448,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579450": {
             "crew_id": 0,
             "crew_name": "",
@@ -44081,8 +44129,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2755,
+    "accounts_total": 2758,
     "created": 1764092421,
-    "last_updated": 1764729286,
+    "last_updated": 1764729346,
     "server_region": "ws_asia_01"
 }
