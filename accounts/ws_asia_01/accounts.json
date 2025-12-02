@@ -1365,9 +1365,9 @@
             "crew_name": "ユートピア",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 53917.28515625,
-            "last_seen": 1764203642,
-            "level": 29,
+            "hp": 257570.375,
+            "last_seen": 1764739723,
+            "level": 49,
             "name": "ゴーシュ",
             "name_history": [
                 "ゴーシュ"
@@ -27824,6 +27824,22 @@
             "role_id": 38174103118562651,
             "server_region": "ws_asia_01"
         },
+        "38174103118562684": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58857.0,
+            "last_seen": 1764739723,
+            "level": 12,
+            "name": "Hyeiji",
+            "name_history": [
+                "Hyeiji"
+            ],
+            "registered": "Nov 26, 2025, 12:10:27 AM",
+            "role_id": 38174103118562684,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562688": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
@@ -31230,6 +31246,22 @@
             ],
             "registered": "Nov 26, 2025, 4:38:10 AM",
             "role_id": 38174103118565265,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118565266": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 167353.40625,
+            "last_seen": 1764739723,
+            "level": 49,
+            "name": "てやたろう",
+            "name_history": [
+                "てやたろう"
+            ],
+            "registered": "Nov 26, 2025, 4:38:10 AM",
+            "role_id": 38174103118565266,
             "server_region": "ws_asia_01"
         },
         "38174103118565270": {
@@ -44865,8 +44897,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2804,
+    "accounts_total": 2806,
     "created": 1764092421,
-    "last_updated": 1764739183,
+    "last_updated": 1764739723,
     "server_region": "ws_asia_01"
 }
