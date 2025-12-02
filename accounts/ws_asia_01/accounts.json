@@ -2067,11 +2067,11 @@
         "38174103118545296": {
             "crew_id": 115973005093,
             "crew_name": "Serenity",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_020_world;6",
             "gender": 1,
-            "hp": 217931.203125,
-            "last_seen": 1764430709,
-            "level": 42,
+            "hp": 283158.0,
+            "last_seen": 1764692835,
+            "level": 48,
             "name": "Lizneel",
             "name_history": [
                 "Lizneel"
@@ -17957,9 +17957,9 @@
             "crew_name": "Restart",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 99972.0,
-            "last_seen": 1764215415,
-            "level": 29,
+            "hp": 212654.015625,
+            "last_seen": 1764692835,
+            "level": 48,
             "name": "brskfar",
             "name_history": [
                 "brskfar"
@@ -23518,6 +23518,22 @@
             ],
             "registered": "Nov 25, 2025, 9:55:06 PM",
             "role_id": 38174103118560132,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560147": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 61314.83984375,
+            "last_seen": 1764692835,
+            "level": 29,
+            "name": "Miewrap",
+            "name_history": [
+                "Miewrap"
+            ],
+            "registered": "Nov 25, 2025, 9:56:15 PM",
+            "role_id": 38174103118560147,
             "server_region": "ws_asia_01"
         },
         "38174103118560156": {
@@ -32208,6 +32224,22 @@
             "role_id": 38174103118569452,
             "server_region": "ws_asia_01"
         },
+        "38174103118569511": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 57375.0,
+            "last_seen": 1764692835,
+            "level": 18,
+            "name": "Somsri",
+            "name_history": [
+                "Somsri"
+            ],
+            "registered": "Nov 26, 2025, 4:53:55 PM",
+            "role_id": 38174103118569511,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569576": {
             "crew_id": 0,
             "crew_name": "",
@@ -40657,8 +40689,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2541,
+    "accounts_total": 2543,
     "created": 1764092421,
-    "last_updated": 1764692775,
+    "last_updated": 1764692835,
     "server_region": "ws_asia_01"
 }
