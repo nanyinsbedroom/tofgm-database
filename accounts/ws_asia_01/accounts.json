@@ -3062,7 +3062,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 270983.8125,
-            "last_seen": 1764696133,
+            "last_seen": 1764697112,
             "level": 46,
             "name": "うぇすた",
             "name_history": [
@@ -25616,6 +25616,22 @@
             "role_id": 38174103118561563,
             "server_region": "ws_asia_01"
         },
+        "38174103118561568": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 190129.609375,
+            "last_seen": 1764697112,
+            "level": 48,
+            "name": "LISHENNA",
+            "name_history": [
+                "LISHENNA"
+            ],
+            "registered": "Nov 25, 2025, 11:08:17 PM",
+            "role_id": 38174103118561568,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561573": {
             "crew_id": 0,
             "crew_name": "",
@@ -27957,9 +27973,9 @@
             "crew_name": "GamuGakuen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 93773.203125,
-            "last_seen": 1764381051,
-            "level": 37,
+            "hp": 134042.0,
+            "last_seen": 1764697112,
+            "level": 42,
             "name": "carla",
             "name_history": [
                 "carla"
@@ -32294,7 +32310,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 136762.0,
-            "last_seen": 1764696673,
+            "last_seen": 1764697112,
             "level": 46,
             "name": "Aeriss",
             "name_history": [
@@ -32566,7 +32582,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 142456.0,
-            "last_seen": 1764696073,
+            "last_seen": 1764697112,
             "level": 45,
             "name": "なぴん",
             "name_history": [
@@ -41029,8 +41045,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 34721.01953125,
-            "last_seen": 1764696613,
+            "hp": 40801.0,
+            "last_seen": 1764697112,
             "level": 14,
             "name": "ぜるり姫",
             "name_history": [
@@ -41456,6 +41472,22 @@
             "role_id": 38174103118587328,
             "server_region": "ws_asia_01"
         },
+        "38174103118587484": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 73315.0,
+            "last_seen": 1764697112,
+            "level": 25,
+            "name": "Sylvia Sky",
+            "name_history": [
+                "Sylvia Sky"
+            ],
+            "registered": "Dec 1, 2025, 3:07:26 AM",
+            "role_id": 38174103118587484,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587623": {
             "crew_id": 0,
             "crew_name": "",
@@ -41695,10 +41727,26 @@
             "registered": "Dec 2, 2025, 3:01:07 PM",
             "role_id": 38174103118589554,
             "server_region": "ws_asia_01"
+        },
+        "38174103118589594": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 52679.0,
+            "last_seen": 1764697112,
+            "level": 13,
+            "name": "Rell",
+            "name_history": [
+                "Rell"
+            ],
+            "registered": "Dec 2, 2025, 3:57:06 PM",
+            "role_id": 38174103118589594,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2606,
+    "accounts_total": 2609,
     "created": 1764092421,
-    "last_updated": 1764696872,
+    "last_updated": 1764697112,
     "server_region": "ws_asia_01"
 }
