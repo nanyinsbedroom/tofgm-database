@@ -14228,10 +14228,10 @@
             "crew_id": 1069455744805,
             "crew_name": "OTL",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 102003.3984375,
-            "last_seen": 1764291163,
-            "level": 30,
+            "gender": 0,
+            "hp": 316398.0,
+            "last_seen": 1764714299,
+            "level": 48,
             "name": "OTL",
             "name_history": [
                 "OTL"
@@ -24149,9 +24149,9 @@
             "crew_name": "아이다",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 128582.0,
-            "last_seen": 1764535422,
-            "level": 42,
+            "hp": 133271.0,
+            "last_seen": 1764714299,
+            "level": 45,
             "name": "미호란",
             "name_history": [
                 "미호란"
@@ -33952,6 +33952,22 @@
             "role_id": 38174103118570784,
             "server_region": "ws_asia_01"
         },
+        "38174103118570827": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 277057.8125,
+            "last_seen": 1764714299,
+            "level": 48,
+            "name": "雲雀",
+            "name_history": [
+                "雲雀"
+            ],
+            "registered": "Nov 26, 2025, 8:26:46 PM",
+            "role_id": 38174103118570827,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570856": {
             "crew_id": 0,
             "crew_name": "",
@@ -40928,6 +40944,22 @@
             "role_id": 38174103118584038,
             "server_region": "ws_asia_01"
         },
+        "38174103118584118": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 158921.59375,
+            "last_seen": 1764714299,
+            "level": 47,
+            "name": "Atou",
+            "name_history": [
+                "Atou"
+            ],
+            "registered": "Nov 29, 2025, 7:19:25 PM",
+            "role_id": 38174103118584118,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584139": {
             "crew_id": 0,
             "crew_name": "",
@@ -42545,8 +42577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2659,
+    "accounts_total": 2661,
     "created": 1764092421,
-    "last_updated": 1764714239,
+    "last_updated": 1764714299,
     "server_region": "ws_asia_01"
 }
