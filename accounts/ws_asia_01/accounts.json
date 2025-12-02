@@ -275,11 +275,11 @@
         "38174103118544956": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
-            "hp": 250327.0,
-            "last_seen": 1764382072,
-            "level": 39,
+            "hp": 312571.84375,
+            "last_seen": 1764693675,
+            "level": 48,
             "name": "motsi",
             "name_history": [
                 "motsi"
@@ -7680,6 +7680,22 @@
             "role_id": 38174103118546954,
             "server_region": "ws_asia_01"
         },
+        "38174103118546969": {
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 194084.0,
+            "last_seen": 1764693675,
+            "level": 46,
+            "name": "Vania",
+            "name_history": [
+                "Vania"
+            ],
+            "registered": "Nov 25, 2025, 5:19:57 PM",
+            "role_id": 38174103118546969,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546970": {
             "crew_id": 0,
             "crew_name": "",
@@ -13566,6 +13582,22 @@
             ],
             "registered": "Nov 25, 2025, 6:18:50 PM",
             "role_id": 38174103118554771,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554773": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 151186.203125,
+            "last_seen": 1764693675,
+            "level": 46,
+            "name": "Matcha Lover",
+            "name_history": [
+                "Matcha Lover"
+            ],
+            "registered": "Nov 25, 2025, 6:18:52 PM",
+            "role_id": 38174103118554773,
             "server_region": "ws_asia_01"
         },
         "38174103118554782": {
@@ -41057,8 +41089,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2566,
+    "accounts_total": 2568,
     "created": 1764092421,
-    "last_updated": 1764693615,
+    "last_updated": 1764693675,
     "server_region": "ws_asia_01"
 }
