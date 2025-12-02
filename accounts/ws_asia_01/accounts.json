@@ -30416,6 +30416,22 @@
             "role_id": 38174103118565493,
             "server_region": "ws_asia_01"
         },
+        "38174103118565500": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 228021.015625,
+            "last_seen": 1764696673,
+            "level": 48,
+            "name": "aliceAI",
+            "name_history": [
+                "aliceAI"
+            ],
+            "registered": "Nov 26, 2025, 5:39:59 AM",
+            "role_id": 38174103118565500,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565518": {
             "crew_id": 0,
             "crew_name": "",
@@ -32238,6 +32254,22 @@
             ],
             "registered": "Nov 26, 2025, 2:24:17 PM",
             "role_id": 38174103118568555,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118568564": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 136762.0,
+            "last_seen": 1764696673,
+            "level": 46,
+            "name": "Aeriss",
+            "name_history": [
+                "Aeriss"
+            ],
+            "registered": "Nov 26, 2025, 2:26:30 PM",
+            "role_id": 38174103118568564,
             "server_region": "ws_asia_01"
         },
         "38174103118568581": {
@@ -41569,8 +41601,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2598,
+    "accounts_total": 2600,
     "created": 1764092421,
-    "last_updated": 1764696613,
+    "last_updated": 1764696673,
     "server_region": "ws_asia_01"
 }
