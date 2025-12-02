@@ -7397,9 +7397,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 144890.0,
-            "last_seen": 1764389039,
-            "level": 39,
+            "hp": 193103.515625,
+            "last_seen": 1764728806,
+            "level": 48,
             "name": "めろん",
             "name_history": [
                 "めろん"
@@ -10309,9 +10309,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 100605.0,
-            "last_seen": 1764276140,
-            "level": 34,
+            "hp": 221648.65625,
+            "last_seen": 1764728806,
+            "level": 48,
             "name": "茜星",
             "name_history": [
                 "茜星"
@@ -11541,9 +11541,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 119969.8046875,
-            "last_seen": 1764291043,
-            "level": 33,
+            "hp": 152174.578125,
+            "last_seen": 1764728806,
+            "level": 48,
             "name": "めぐ",
             "name_history": [
                 "めぐ"
@@ -18197,9 +18197,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 264433.0,
-            "last_seen": 1764550276,
-            "level": 44,
+            "hp": 230528.609375,
+            "last_seen": 1764728806,
+            "level": 48,
             "name": "Marthe.",
             "name_history": [
                 "Marthe."
@@ -28480,6 +28480,22 @@
             "role_id": 38174103118563376,
             "server_region": "ws_asia_01"
         },
+        "38174103118563402": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_world;19",
+            "gender": 1,
+            "hp": 266414.03125,
+            "last_seen": 1764728806,
+            "level": 48,
+            "name": "エヴァ新２",
+            "name_history": [
+                "エヴァ新２"
+            ],
+            "registered": "Nov 26, 2025, 12:57:58 AM",
+            "role_id": 38174103118563402,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563404": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
@@ -29134,6 +29150,22 @@
             ],
             "registered": "Nov 26, 2025, 1:45:48 AM",
             "role_id": 38174103118563911,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563922": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "WorldBossDamage_3;boss_hum_044_world;26",
+            "gender": 1,
+            "hp": 163781.359375,
+            "last_seen": 1764728806,
+            "level": 47,
+            "name": "シェラザードMKⅡ",
+            "name_history": [
+                "シェラザードMKⅡ"
+            ],
+            "registered": "Nov 26, 2025, 1:46:36 AM",
+            "role_id": 38174103118563922,
             "server_region": "ws_asia_01"
         },
         "38174103118563923": {
@@ -30533,9 +30565,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 146990.203125,
-            "last_seen": 1764634631,
-            "level": 46,
+            "hp": 114715.0859375,
+            "last_seen": 1764728806,
+            "level": 47,
             "name": "アルカード",
             "name_history": [
                 "アルカード"
@@ -43953,8 +43985,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2747,
+    "accounts_total": 2749,
     "created": 1764092421,
-    "last_updated": 1764728566,
+    "last_updated": 1764728806,
     "server_region": "ws_asia_01"
 }
