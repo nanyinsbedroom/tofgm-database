@@ -24709,9 +24709,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 136473.203125,
-            "last_seen": 1764535482,
-            "level": 43,
+            "hp": 172798.8125,
+            "last_seen": 1764714599,
+            "level": 47,
             "name": "Griffisu",
             "name_history": [
                 "Griffisu"
@@ -31939,11 +31939,11 @@
         "38174103118567069": {
             "crew_id": 193282416421,
             "crew_name": "いるか漁業組合",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_044_world;25",
             "gender": 1,
-            "hp": 216520.40625,
-            "last_seen": 1764434455,
-            "level": 41,
+            "hp": 167700.109375,
+            "last_seen": 1764714599,
+            "level": 46,
             "name": "あどめいかー",
             "name_history": [
                 "あどめいかー"
@@ -42368,6 +42368,22 @@
             "role_id": 38174103118588038,
             "server_region": "ws_asia_01"
         },
+        "38174103118588089": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 73227.0,
+            "last_seen": 1764714599,
+            "level": 16,
+            "name": "蒼空",
+            "name_history": [
+                "蒼空"
+            ],
+            "registered": "Dec 1, 2025, 1:30:25 PM",
+            "role_id": 38174103118588089,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588099": {
             "crew_id": 0,
             "crew_name": "",
@@ -42737,8 +42753,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2671,
+    "accounts_total": 2672,
     "created": 1764092421,
-    "last_updated": 1764714539,
+    "last_updated": 1764714599,
     "server_region": "ws_asia_01"
 }
