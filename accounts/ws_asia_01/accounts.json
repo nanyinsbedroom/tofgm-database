@@ -1333,9 +1333,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 270395.8125,
-            "last_seen": 1764622759,
-            "level": 46,
+            "hp": 290332.0,
+            "last_seen": 1764706822,
+            "level": 48,
             "name": "SupportOnly",
             "name_history": [
                 "SupportOnly"
@@ -12995,11 +12995,11 @@
         "38174103118554385": {
             "crew_id": 219052220197,
             "crew_name": "Extreme",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_Sand_world;93",
             "gender": 0,
-            "hp": 137764.40625,
-            "last_seen": 1764471695,
-            "level": 41,
+            "hp": 108831.5234375,
+            "last_seen": 1764706822,
+            "level": 44,
             "name": "caelus",
             "name_history": [
                 "caelus"
@@ -41648,6 +41648,22 @@
             "role_id": 38174103118587623,
             "server_region": "ws_asia_01"
         },
+        "38174103118587949": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 187143.1875,
+            "last_seen": 1764706822,
+            "level": 41,
+            "name": "sugnih",
+            "name_history": [
+                "sugnih"
+            ],
+            "registered": "Dec 1, 2025, 11:15:55 AM",
+            "role_id": 38174103118587949,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588038": {
             "crew_id": 0,
             "crew_name": "",
@@ -41905,8 +41921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2619,
+    "accounts_total": 2620,
     "created": 1764092421,
-    "last_updated": 1764706501,
+    "last_updated": 1764706822,
     "server_region": "ws_asia_01"
 }
