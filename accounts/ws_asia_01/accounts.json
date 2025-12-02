@@ -8083,11 +8083,11 @@
         "38174103118547023": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 67919.0,
-            "last_seen": 1764142740,
-            "level": 20,
+            "hp": 290458.8125,
+            "last_seen": 1764732186,
+            "level": 48,
             "name": "hibikishina",
             "name_history": [
                 "hibikishina"
@@ -22622,6 +22622,22 @@
             ],
             "registered": "Nov 25, 2025, 9:08:29 PM",
             "role_id": 38174103118559086,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559103": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;54",
+            "gender": 1,
+            "hp": 152854.203125,
+            "last_seen": 1764732186,
+            "level": 47,
+            "name": "Yuiiii",
+            "name_history": [
+                "Yuiiii"
+            ],
+            "registered": "Nov 25, 2025, 9:09:14 PM",
+            "role_id": 38174103118559103,
             "server_region": "ws_asia_01"
         },
         "38174103118559107": {
@@ -44689,8 +44705,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2793,
+    "accounts_total": 2794,
     "created": 1764092421,
-    "last_updated": 1764732126,
+    "last_updated": 1764732186,
     "server_region": "ws_asia_01"
 }
