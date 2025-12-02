@@ -3574,7 +3574,7 @@
             "equipping_title": "1_1_5_1",
             "gender": 0,
             "hp": 333868.1875,
-            "last_seen": 1764695893,
+            "last_seen": 1764728025,
             "level": 48,
             "name": "Bertingkulot23",
             "name_history": [
@@ -4310,7 +4310,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 38947.484375,
-            "last_seen": 1764727400,
+            "last_seen": 1764728025,
             "level": 35,
             "name": "Aminah",
             "name_history": [
@@ -7205,9 +7205,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 189806.40625,
-            "last_seen": 1764430589,
-            "level": 42,
+            "hp": 246831.0,
+            "last_seen": 1764728025,
+            "level": 48,
             "name": "332",
             "name_history": [
                 "332"
@@ -9678,6 +9678,22 @@
             ],
             "registered": "Nov 25, 2025, 5:33:03 PM",
             "role_id": 38174103118549916,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118549975": {
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 95500.359375,
+            "last_seen": 1764728025,
+            "level": 45,
+            "name": "KokoSan",
+            "name_history": [
+                "KokoSan"
+            ],
+            "registered": "Nov 25, 2025, 5:33:15 PM",
+            "role_id": 38174103118549975,
             "server_region": "ws_asia_01"
         },
         "38174103118549976": {
@@ -33328,6 +33344,22 @@
             "role_id": 38174103118569090,
             "server_region": "ws_asia_01"
         },
+        "38174103118569147": {
+            "crew_id": 240527056677,
+            "crew_name": "아이다",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 141813.609375,
+            "last_seen": 1764728025,
+            "level": 46,
+            "name": "초고교급모험가",
+            "name_history": [
+                "초고교급모험가"
+            ],
+            "registered": "Nov 26, 2025, 3:56:04 PM",
+            "role_id": 38174103118569147,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569159": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
@@ -43248,6 +43280,22 @@
             "role_id": 38174103118588516,
             "server_region": "ws_asia_01"
         },
+        "38174103118588523": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 138870.796875,
+            "last_seen": 1764728025,
+            "level": 45,
+            "name": "黒ばら",
+            "name_history": [
+                "黒ばら"
+            ],
+            "registered": "Dec 1, 2025, 8:26:25 PM",
+            "role_id": 38174103118588523,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588601": {
             "crew_id": 0,
             "crew_name": "",
@@ -43366,7 +43414,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 34753.0,
-            "last_seen": 1764727400,
+            "last_seen": 1764728025,
             "level": 7,
             "name": "MapoToFu",
             "name_history": [
@@ -43713,8 +43761,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2732,
+    "accounts_total": 2735,
     "created": 1764092421,
-    "last_updated": 1764727965,
+    "last_updated": 1764728025,
     "server_region": "ws_asia_01"
 }
