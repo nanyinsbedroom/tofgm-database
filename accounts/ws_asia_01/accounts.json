@@ -19555,11 +19555,11 @@
         "38174103118557816": {
             "crew_id": 352196206373,
             "crew_name": "ミッドナイト",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;42",
             "gender": 1,
-            "hp": 248913.25,
-            "last_seen": 1764548294,
-            "level": 44,
+            "hp": 291919.8125,
+            "last_seen": 1764714839,
+            "level": 48,
             "name": "TwT",
             "name_history": [
                 "TwT"
@@ -21985,13 +21985,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558934": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 47017.9921875,
-            "last_seen": 1764128810,
-            "level": 15,
+            "hp": 216917.0,
+            "last_seen": 1764714839,
+            "level": 48,
             "name": "Veylin",
             "name_history": [
                 "Veylin"
@@ -36928,6 +36928,22 @@
             "role_id": 38174103118577096,
             "server_region": "ws_asia_01"
         },
+        "38174103118577101": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 47034.0,
+            "last_seen": 1764714839,
+            "level": 13,
+            "name": "Linear",
+            "name_history": [
+                "Linear"
+            ],
+            "registered": "Nov 27, 2025, 3:36:24 PM",
+            "role_id": 38174103118577101,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577109": {
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
@@ -38606,6 +38622,22 @@
             ],
             "registered": "Nov 28, 2025, 12:02:14 PM",
             "role_id": 38174103118580105,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118580202": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176494.796875,
+            "last_seen": 1764714839,
+            "level": 47,
+            "name": "唄深あさり",
+            "name_history": [
+                "唄深あさり"
+            ],
+            "registered": "Nov 28, 2025, 12:50:52 PM",
+            "role_id": 38174103118580202,
             "server_region": "ws_asia_01"
         },
         "38174103118580227": {
@@ -42833,8 +42865,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2677,
+    "accounts_total": 2679,
     "created": 1764092421,
-    "last_updated": 1764714719,
+    "last_updated": 1764714839,
     "server_region": "ws_asia_01"
 }
