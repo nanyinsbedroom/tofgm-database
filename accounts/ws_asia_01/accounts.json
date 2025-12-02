@@ -8099,11 +8099,11 @@
         "38174103118547094": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_053_world;30",
             "gender": 1,
-            "hp": 173517.1875,
-            "last_seen": 1764529455,
-            "level": 44,
+            "hp": 203391.453125,
+            "last_seen": 1764729647,
+            "level": 47,
             "name": "Harshetshesma",
             "name_history": [
                 "Harshetshesma"
@@ -24654,6 +24654,22 @@
             ],
             "registered": "Nov 25, 2025, 10:01:23 PM",
             "role_id": 38174103118560234,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560242": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40998.3515625,
+            "last_seen": 1764729647,
+            "level": 45,
+            "name": "ユズノ",
+            "name_history": [
+                "ユズノ"
+            ],
+            "registered": "Nov 25, 2025, 10:02:01 PM",
+            "role_id": 38174103118560242,
             "server_region": "ws_asia_01"
         },
         "38174103118560249": {
@@ -42288,6 +42304,22 @@
             "role_id": 38174103118584398,
             "server_region": "ws_asia_01"
         },
+        "38174103118584441": {
+            "crew_id": 403735813925,
+            "crew_name": "Nox Society",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 169204.0,
+            "last_seen": 1764729647,
+            "level": 45,
+            "name": "Markoman",
+            "name_history": [
+                "Markoman"
+            ],
+            "registered": "Nov 29, 2025, 9:36:57 PM",
+            "role_id": 38174103118584441,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584456": {
             "crew_id": 0,
             "crew_name": "",
@@ -44241,8 +44273,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2765,
+    "accounts_total": 2767,
     "created": 1764092421,
-    "last_updated": 1764729587,
+    "last_updated": 1764729647,
     "server_region": "ws_asia_01"
 }
