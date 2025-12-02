@@ -8464,6 +8464,22 @@
             "role_id": 38174103118547982,
             "server_region": "ws_asia_01"
         },
+        "38174103118547997": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 223739.625,
+            "last_seen": 1764693016,
+            "level": 47,
+            "name": "しふる",
+            "name_history": [
+                "しふる"
+            ],
+            "registered": "Nov 25, 2025, 5:24:59 PM",
+            "role_id": 38174103118547997,
+            "server_region": "ws_asia_01"
+        },
         "38174103118548003": {
             "crew_id": 1013621169957,
             "crew_name": "PON",
@@ -19811,11 +19827,11 @@
         "38174103118558145": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;80",
             "gender": 1,
-            "hp": 176305.59375,
-            "last_seen": 1764435979,
-            "level": 42,
+            "hp": 232560.21875,
+            "last_seen": 1764693016,
+            "level": 48,
             "name": "Rocket",
             "name_history": [
                 "Rocket"
@@ -26494,6 +26510,22 @@
             ],
             "registered": "Nov 26, 2025, 12:07:57 AM",
             "role_id": 38174103118562637,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562651": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 171038.0,
+            "last_seen": 1764693016,
+            "level": 46,
+            "name": "Stolas",
+            "name_history": [
+                "Stolas"
+            ],
+            "registered": "Nov 26, 2025, 12:08:44 AM",
+            "role_id": 38174103118562651,
             "server_region": "ws_asia_01"
         },
         "38174103118562688": {
@@ -40769,8 +40801,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2548,
+    "accounts_total": 2550,
     "created": 1764092421,
-    "last_updated": 1764692955,
+    "last_updated": 1764693016,
     "server_region": "ws_asia_01"
 }
