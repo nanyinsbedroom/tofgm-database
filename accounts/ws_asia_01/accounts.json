@@ -1299,11 +1299,11 @@
         "38174103118545139": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_036_world;3",
             "gender": 1,
-            "hp": 269163.0,
-            "last_seen": 1764529876,
-            "level": 44,
+            "hp": 340665.0,
+            "last_seen": 1764705000,
+            "level": 48,
             "name": "Ar Lune",
             "name_history": [
                 "Ar Lune"
@@ -1987,14 +1987,14 @@
         "38174103118545266": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 257316.0,
-            "last_seen": 1764375429,
-            "level": 39,
-            "name": "Aurielle",
+            "hp": 348768.0,
+            "last_seen": 1764705000,
+            "level": 48,
+            "name": "Dwin",
             "name_history": [
-                "Aurielle"
+                "Dwin"
             ],
             "registered": "Nov 25, 2025, 5:02:30 PM",
             "role_id": 38174103118545266,
@@ -2465,13 +2465,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545361": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 48094.0,
-            "last_seen": 1764092961,
-            "level": 9,
+            "hp": 239265.0,
+            "last_seen": 1764705000,
+            "level": 46,
             "name": "Snow Ais",
             "name_history": [
                 "Snow Ais"
@@ -4467,11 +4467,11 @@
         "38174103118545892": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 281259.0,
-            "last_seen": 1764622759,
-            "level": 46,
+            "hp": 344735.40625,
+            "last_seen": 1764705000,
+            "level": 48,
             "name": "Harr",
             "name_history": [
                 "Harr"
@@ -7861,9 +7861,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 172699.59375,
-            "last_seen": 1764695172,
-            "level": 47,
+            "hp": 164355.828125,
+            "last_seen": 1764705000,
+            "level": 48,
             "name": "meimei",
             "name_history": [
                 "meimei"
@@ -12342,7 +12342,7 @@
             "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;6",
             "gender": 1,
             "hp": 217977.75,
-            "last_seen": 1764696872,
+            "last_seen": 1764705000,
             "level": 46,
             "name": "Arupejio",
             "name_history": [
@@ -20835,11 +20835,11 @@
         "38174103118558523": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;80",
             "gender": 1,
-            "hp": 270562.0,
-            "last_seen": 1764529696,
-            "level": 44,
+            "hp": 294508.1875,
+            "last_seen": 1764705000,
+            "level": 48,
             "name": "KenmaRyu",
             "name_history": [
                 "KenmaRyu"
@@ -41891,6 +41891,6 @@
     },
     "accounts_total": 2618,
     "created": 1764092421,
-    "last_updated": 1764704039,
+    "last_updated": 1764705000,
     "server_region": "ws_asia_01"
 }
