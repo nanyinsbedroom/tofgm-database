@@ -4917,9 +4917,9 @@
             "crew_name": "たまめいと",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 140574.40625,
-            "last_seen": 1764527894,
-            "level": 43,
+            "hp": 201141.203125,
+            "last_seen": 1764714239,
+            "level": 48,
             "name": "おゆ",
             "name_history": [
                 "おゆ"
@@ -5843,11 +5843,11 @@
         "38174103118546301": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_044_world;24",
             "gender": 1,
-            "hp": 263784.0,
-            "last_seen": 1764535482,
-            "level": 43,
+            "hp": 298887.0,
+            "last_seen": 1764714239,
+            "level": 48,
             "name": "Akina",
             "name_history": [
                 "Akina"
@@ -5857,13 +5857,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546303": {
-            "crew_id": 622779146021,
-            "crew_name": "Lazy Cat",
-            "equipping_title": "None",
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;42",
             "gender": 0,
-            "hp": 210711.5,
-            "last_seen": 1764471875,
-            "level": 42,
+            "hp": 293178.59375,
+            "last_seen": 1764714239,
+            "level": 48,
             "name": "R A I Z E N",
             "name_history": [
                 "R A I Z E N"
@@ -13443,11 +13443,11 @@
         "38174103118554512": {
             "crew_id": 231937122085,
             "crew_name": "たまめいと",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 138421.0,
-            "last_seen": 1764526813,
-            "level": 44,
+            "hp": 173524.796875,
+            "last_seen": 1764714239,
+            "level": 48,
             "name": "みすじ",
             "name_history": [
                 "みすじ"
@@ -15667,11 +15667,11 @@
         "38174103118555872": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;50",
             "gender": 1,
-            "hp": 104069.6015625,
-            "last_seen": 1764279821,
-            "level": 34,
+            "hp": 221521.609375,
+            "last_seen": 1764714239,
+            "level": 47,
             "name": "☆暁☆",
             "name_history": [
                 "☆暁☆"
@@ -16533,9 +16533,9 @@
             "crew_name": "たまめいと",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 121886.0,
-            "last_seen": 1764432871,
-            "level": 42,
+            "hp": 174985.796875,
+            "last_seen": 1764714239,
+            "level": 48,
             "name": "ゆのしー",
             "name_history": [
                 "ゆのしー"
@@ -41824,6 +41824,22 @@
             "role_id": 38174103118586441,
             "server_region": "ws_asia_01"
         },
+        "38174103118586513": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105543.6015625,
+            "last_seen": 1764714239,
+            "level": 38,
+            "name": "晴空",
+            "name_history": [
+                "晴空"
+            ],
+            "registered": "Nov 30, 2025, 5:53:30 PM",
+            "role_id": 38174103118586513,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586535": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
@@ -42529,8 +42545,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2658,
+    "accounts_total": 2659,
     "created": 1764092421,
-    "last_updated": 1764714179,
+    "last_updated": 1764714239,
     "server_region": "ws_asia_01"
 }
