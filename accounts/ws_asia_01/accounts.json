@@ -1990,7 +1990,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 348768.0,
-            "last_seen": 1764705000,
+            "last_seen": 1764713878,
             "level": 48,
             "name": "Dwin",
             "name_history": [
@@ -33200,6 +33200,22 @@
             "role_id": 38174103118569756,
             "server_region": "ws_asia_01"
         },
+        "38174103118569783": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 197777.203125,
+            "last_seen": 1764713878,
+            "level": 48,
+            "name": "Birb",
+            "name_history": [
+                "Birb"
+            ],
+            "registered": "Nov 26, 2025, 5:36:08 PM",
+            "role_id": 38174103118569783,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569805": {
             "crew_id": 0,
             "crew_name": "",
@@ -33317,9 +33333,9 @@
             "crew_name": "ステラ・メモリア",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 126813.6015625,
-            "last_seen": 1764529095,
-            "level": 44,
+            "hp": 166155.59375,
+            "last_seen": 1764713878,
+            "level": 47,
             "name": "アヤ",
             "name_history": [
                 "アヤ"
@@ -34686,6 +34702,22 @@
             ],
             "registered": "Nov 26, 2025, 10:59:30 PM",
             "role_id": 38174103118572974,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118573134": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 52413.0,
+            "last_seen": 1764713878,
+            "level": 14,
+            "name": "marco",
+            "name_history": [
+                "marco"
+            ],
+            "registered": "Nov 26, 2025, 11:01:54 PM",
+            "role_id": 38174103118573134,
             "server_region": "ws_asia_01"
         },
         "38174103118573283": {
@@ -42305,8 +42337,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2644,
+    "accounts_total": 2646,
     "created": 1764092421,
-    "last_updated": 1764713818,
+    "last_updated": 1764713878,
     "server_region": "ws_asia_01"
 }
