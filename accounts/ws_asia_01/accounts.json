@@ -5957,9 +5957,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 183357.40625,
-            "last_seen": 1764431430,
-            "level": 42,
+            "hp": 298524.625,
+            "last_seen": 1764729467,
+            "level": 48,
             "name": "Espresso",
             "name_history": [
                 "Espresso"
@@ -28240,6 +28240,22 @@
             "role_id": 38174103118563080,
             "server_region": "ws_asia_01"
         },
+        "38174103118563082": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 53285.0,
+            "last_seen": 1764729467,
+            "level": 17,
+            "name": "Noitseuq",
+            "name_history": [
+                "Noitseuq"
+            ],
+            "registered": "Nov 26, 2025, 12:36:46 AM",
+            "role_id": 38174103118563082,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563094": {
             "crew_id": 0,
             "crew_name": "",
@@ -44129,8 +44145,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2758,
+    "accounts_total": 2759,
     "created": 1764092421,
-    "last_updated": 1764729407,
+    "last_updated": 1764729467,
     "server_region": "ws_asia_01"
 }
