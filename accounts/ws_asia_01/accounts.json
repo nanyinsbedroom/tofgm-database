@@ -640,6 +640,22 @@
             "role_id": 38174103118545019,
             "server_region": "ws_asia_01"
         },
+        "38174103118545025": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;92",
+            "gender": 1,
+            "hp": 318308.40625,
+            "last_seen": 1764695832,
+            "level": 48,
+            "name": "Lilyna",
+            "name_history": [
+                "Lilyna"
+            ],
+            "registered": "Nov 25, 2025, 5:01:49 PM",
+            "role_id": 38174103118545025,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545031": {
             "crew_id": 55843462949,
             "crew_name": "Fractsidus",
@@ -2339,11 +2355,11 @@
         "38174103118545347": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_6_4_30",
             "gender": 1,
-            "hp": 263458.0,
-            "last_seen": 1764430709,
-            "level": 42,
+            "hp": 291283.1875,
+            "last_seen": 1764695832,
+            "level": 48,
             "name": "Defensio",
             "name_history": [
                 "Defensio"
@@ -18574,6 +18590,22 @@
             ],
             "registered": "Nov 25, 2025, 8:03:09 PM",
             "role_id": 38174103118557511,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557514": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 161497.203125,
+            "last_seen": 1764695832,
+            "level": 48,
+            "name": "ソフィア",
+            "name_history": [
+                "ソフィア"
+            ],
+            "registered": "Nov 25, 2025, 8:03:19 PM",
+            "role_id": 38174103118557514,
             "server_region": "ws_asia_01"
         },
         "38174103118557527": {
@@ -41185,8 +41217,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2574,
+    "accounts_total": 2576,
     "created": 1764092421,
-    "last_updated": 1764695712,
+    "last_updated": 1764695832,
     "server_region": "ws_asia_01"
 }
