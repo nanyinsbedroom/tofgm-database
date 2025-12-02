@@ -32881,16 +32881,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118570046": {
-            "crew_id": 163217645349,
-            "crew_name": "Scarface",
-            "equipping_title": "None",
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_world;22",
             "gender": 1,
-            "hp": 125228.40625,
-            "last_seen": 1764269414,
-            "level": 34,
-            "name": "Cecilia",
+            "hp": 300675.0,
+            "last_seen": 1764695652,
+            "level": 48,
+            "name": "Sencho",
             "name_history": [
-                "Cecilia"
+                "Sencho"
             ],
             "registered": "Nov 26, 2025, 6:17:47 PM",
             "role_id": 38174103118570046,
@@ -39296,6 +39296,22 @@
             "role_id": 38174103118582384,
             "server_region": "ws_asia_01"
         },
+        "38174103118582510": {
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 126848.0,
+            "last_seen": 1764695652,
+            "level": 44,
+            "name": "South",
+            "name_history": [
+                "South"
+            ],
+            "registered": "Nov 29, 2025, 6:04:30 AM",
+            "role_id": 38174103118582510,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582571": {
             "crew_id": 0,
             "crew_name": "",
@@ -41169,8 +41185,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2573,
+    "accounts_total": 2574,
     "created": 1764092421,
-    "last_updated": 1764695592,
+    "last_updated": 1764695652,
     "server_region": "ws_asia_01"
 }
