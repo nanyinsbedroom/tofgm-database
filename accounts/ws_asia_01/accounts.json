@@ -8406,7 +8406,7 @@
             "equipping_title": "WorldBossDamage_4;boss_hum_045_world;36",
             "gender": 1,
             "hp": 292740.0,
-            "last_seen": 1764696073,
+            "last_seen": 1764696812,
             "level": 48,
             "name": "たきな",
             "name_history": [
@@ -30662,7 +30662,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 54997.0,
-            "last_seen": 1764696073,
+            "last_seen": 1764696812,
             "level": 15,
             "name": "Aurethiel Novia",
             "name_history": [
@@ -34350,6 +34350,22 @@
             ],
             "registered": "Nov 26, 2025, 10:53:55 PM",
             "role_id": 38174103118572714,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118572949": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 188949.203125,
+            "last_seen": 1764696812,
+            "level": 47,
+            "name": "INx",
+            "name_history": [
+                "INx"
+            ],
+            "registered": "Nov 26, 2025, 10:58:56 PM",
+            "role_id": 38174103118572949,
             "server_region": "ws_asia_01"
         },
         "38174103118572953": {
@@ -41601,8 +41617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2600,
+    "accounts_total": 2601,
     "created": 1764092421,
-    "last_updated": 1764696673,
+    "last_updated": 1764696812,
     "server_region": "ws_asia_01"
 }
