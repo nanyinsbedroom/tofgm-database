@@ -20869,9 +20869,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 272443.0,
-            "last_seen": 1764547729,
-            "level": 44,
+            "hp": 343093.21875,
+            "last_seen": 1764811516,
+            "level": 49,
             "name": "Nohana_z",
             "name_history": [
                 "Nohana_z"
@@ -27811,11 +27811,11 @@
         "38174103118562085": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;72",
             "gender": 0,
-            "hp": 265665.0,
-            "last_seen": 1764482803,
-            "level": 43,
+            "hp": 349310.0,
+            "last_seen": 1764811516,
+            "level": 49,
             "name": "Kazumin",
             "name_history": [
                 "Kazumin"
@@ -31758,6 +31758,22 @@
             ],
             "registered": "Nov 26, 2025, 4:05:28 AM",
             "role_id": 38174103118565059,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118565094": {
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
+            "equipping_title": "WorldBossDamage_3;boss_hum_053_world;11",
+            "gender": 0,
+            "hp": 269575.40625,
+            "last_seen": 1764811516,
+            "level": 49,
+            "name": "AweiDavid",
+            "name_history": [
+                "AweiDavid"
+            ],
+            "registered": "Nov 26, 2025, 4:09:08 AM",
+            "role_id": 38174103118565094,
             "server_region": "ws_asia_01"
         },
         "38174103118565100": {
@@ -46737,8 +46753,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2921,
+    "accounts_total": 2922,
     "created": 1764092421,
-    "last_updated": 1764811456,
+    "last_updated": 1764811516,
     "server_region": "ws_asia_01"
 }
