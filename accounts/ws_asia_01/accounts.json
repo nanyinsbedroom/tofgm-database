@@ -803,11 +803,11 @@
         "38174103118545038": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;42",
             "gender": 0,
-            "hp": 262958.8125,
-            "last_seen": 1764430589,
-            "level": 42,
+            "hp": 294426.78125,
+            "last_seen": 1764811335,
+            "level": 49,
             "name": "REGULUX",
             "name_history": [
                 "REGULUX"
@@ -7573,9 +7573,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 193103.515625,
-            "last_seen": 1764728806,
-            "level": 48,
+            "hp": 291462.8125,
+            "last_seen": 1764811335,
+            "level": 49,
             "name": "めろん",
             "name_history": [
                 "めろん"
@@ -11665,13 +11665,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118552080": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 62471.0,
-            "last_seen": 1764109750,
-            "level": 15,
+            "hp": 209858.0,
+            "last_seen": 1764811335,
+            "level": 48,
             "name": "非公式いぬぅぅぅ！！",
             "name_history": [
                 "非公式いぬぅぅぅ！！"
@@ -12069,9 +12069,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 156761.0,
-            "last_seen": 1764809755,
-            "level": 46,
+            "hp": 189558.40625,
+            "last_seen": 1764811335,
+            "level": 47,
             "name": "Divarius",
             "name_history": [
                 "Divarius"
@@ -21669,9 +21669,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 166098.0,
-            "last_seen": 1764435499,
-            "level": 40,
+            "hp": 339363.0,
+            "last_seen": 1764811335,
+            "level": 49,
             "name": "天華",
             "name_history": [
                 "天華"
@@ -27744,6 +27744,22 @@
             "role_id": 38174103118562027,
             "server_region": "ws_asia_01"
         },
+        "38174103118562033": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 151011.0,
+            "last_seen": 1764811335,
+            "level": 47,
+            "name": "UKKY",
+            "name_history": [
+                "UKKY"
+            ],
+            "registered": "Nov 25, 2025, 11:33:03 PM",
+            "role_id": 38174103118562033,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562069": {
             "crew_id": 0,
             "crew_name": "",
@@ -31406,6 +31422,22 @@
             ],
             "registered": "Nov 26, 2025, 3:27:46 AM",
             "role_id": 38174103118564803,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564808": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 200048.21875,
+            "last_seen": 1764811335,
+            "level": 49,
+            "name": "Corabelle",
+            "name_history": [
+                "Corabelle"
+            ],
+            "registered": "Nov 26, 2025, 3:28:31 AM",
+            "role_id": 38174103118564808,
             "server_region": "ws_asia_01"
         },
         "38174103118564830": {
@@ -37008,6 +37040,22 @@
             "role_id": 38174103118573745,
             "server_region": "ws_asia_01"
         },
+        "38174103118573788": {
+            "crew_id": 300656598821,
+            "crew_name": "INDONESIA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 216359.609375,
+            "last_seen": 1764811335,
+            "level": 47,
+            "name": "Euru",
+            "name_history": [
+                "Euru"
+            ],
+            "registered": "Nov 26, 2025, 11:16:17 PM",
+            "role_id": 38174103118573788,
+            "server_region": "ws_asia_01"
+        },
         "38174103118573950": {
             "crew_id": 0,
             "crew_name": "",
@@ -41742,6 +41790,22 @@
             ],
             "registered": "Nov 28, 2025, 10:22:36 PM",
             "role_id": 38174103118581452,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118581472": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 64276.0,
+            "last_seen": 1764811335,
+            "level": 23,
+            "name": "Dombi2",
+            "name_history": [
+                "Dombi2"
+            ],
+            "registered": "Nov 28, 2025, 10:27:01 PM",
+            "role_id": 38174103118581472,
             "server_region": "ws_asia_01"
         },
         "38174103118581483": {
@@ -46625,8 +46689,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2914,
+    "accounts_total": 2918,
     "created": 1764092421,
-    "last_updated": 1764811275,
+    "last_updated": 1764811335,
     "server_region": "ws_asia_01"
 }
