@@ -1076,10 +1076,10 @@
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 156269.0,
-            "last_seen": 1764270014,
-            "level": 34,
+            "gender": 0,
+            "hp": 317068.0,
+            "last_seen": 1764809335,
+            "level": 49,
             "name": "エミネム",
             "name_history": [
                 "エミネム"
@@ -12755,11 +12755,11 @@
         "38174103118554022": {
             "crew_id": 73023332133,
             "crew_name": "Teyvat",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_Sand_world;52",
             "gender": 1,
-            "hp": 129123.203125,
-            "last_seen": 1764364923,
-            "level": 37,
+            "hp": 296650.8125,
+            "last_seen": 1764809335,
+            "level": 48,
             "name": "Jintsuu",
             "name_history": [
                 "Jintsuu"
@@ -20913,13 +20913,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558084": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 107767.0,
-            "last_seen": 1764143160,
-            "level": 29,
+            "hp": 203655.0,
+            "last_seen": 1764809335,
+            "level": 48,
             "name": "Lucias",
             "name_history": [
                 "Lucias"
@@ -25909,9 +25909,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 119443.1953125,
-            "last_seen": 1764291464,
-            "level": 34,
+            "hp": 253065.640625,
+            "last_seen": 1764809335,
+            "level": 49,
             "name": "karabina",
             "name_history": [
                 "karabina"
@@ -38352,6 +38352,22 @@
             "role_id": 38174103118576588,
             "server_region": "ws_asia_01"
         },
+        "38174103118576624": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;29",
+            "gender": 0,
+            "hp": 324161.40625,
+            "last_seen": 1764809335,
+            "level": 49,
+            "name": "DM",
+            "name_history": [
+                "DM"
+            ],
+            "registered": "Nov 27, 2025, 1:06:54 PM",
+            "role_id": 38174103118576624,
+            "server_region": "ws_asia_01"
+        },
         "38174103118576637": {
             "crew_id": 0,
             "crew_name": "",
@@ -42357,9 +42373,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 309298.8125,
-            "last_seen": 1764692715,
-            "level": 48,
+            "hp": 198959.796875,
+            "last_seen": 1764809335,
+            "level": 49,
             "name": "kwetiwaw",
             "name_history": [
                 "kwetiwaw"
@@ -45905,8 +45921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2869,
+    "accounts_total": 2870,
     "created": 1764092421,
-    "last_updated": 1764809275,
+    "last_updated": 1764809335,
     "server_region": "ws_asia_01"
 }
