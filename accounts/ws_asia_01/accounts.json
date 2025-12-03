@@ -3269,9 +3269,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 335403.59375,
-            "last_seen": 1764707501,
-            "level": 48,
+            "hp": 339531.625,
+            "last_seen": 1764798137,
+            "level": 49,
             "name": "Hikari",
             "name_history": [
                 "Hikari"
@@ -7765,9 +7765,9 @@
             "crew_name": "EROGE",
             "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;59",
             "gender": 1,
-            "hp": 285002.40625,
-            "last_seen": 1764695232,
-            "level": 47,
+            "hp": 298986.15625,
+            "last_seen": 1764798137,
+            "level": 49,
             "name": "KINHO",
             "name_history": [
                 "KINHO"
@@ -13013,9 +13013,9 @@
             "crew_name": "Fractsidus",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 213447.0,
-            "last_seen": 1764534970,
-            "level": 44,
+            "hp": 260847.0,
+            "last_seen": 1764798137,
+            "level": 48,
             "name": "Admiralty",
             "name_history": [
                 "Admiralty"
@@ -45360,6 +45360,22 @@
             "role_id": 38174103118590898,
             "server_region": "ws_asia_01"
         },
+        "38174103118591002": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50255.0,
+            "last_seen": 1764798137,
+            "level": 12,
+            "name": "しるぅ",
+            "name_history": [
+                "しるぅ"
+            ],
+            "registered": "Dec 3, 2025, 7:13:49 PM",
+            "role_id": 38174103118591002,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591007": {
             "crew_id": 0,
             "crew_name": "",
@@ -45393,8 +45409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2837,
+    "accounts_total": 2838,
     "created": 1764092421,
-    "last_updated": 1764797957,
+    "last_updated": 1764798137,
     "server_region": "ws_asia_01"
 }
