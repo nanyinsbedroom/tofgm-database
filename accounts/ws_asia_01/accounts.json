@@ -14432,6 +14432,22 @@
             "role_id": 38174103118554812,
             "server_region": "ws_asia_01"
         },
+        "38174103118554820": {
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;87",
+            "gender": 0,
+            "hp": 305406.625,
+            "last_seen": 1764811456,
+            "level": 48,
+            "name": "Izkerman",
+            "name_history": [
+                "Izkerman"
+            ],
+            "registered": "Nov 25, 2025, 6:20:18 PM",
+            "role_id": 38174103118554820,
+            "server_region": "ws_asia_01"
+        },
         "38174103118554824": {
             "crew_id": 12893789989,
             "crew_name": "StarDust",
@@ -21907,11 +21923,11 @@
         "38174103118558507": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 269163.0,
-            "last_seen": 1764535482,
-            "level": 44,
+            "hp": 377856.0,
+            "last_seen": 1764811456,
+            "level": 49,
             "name": "りゆ",
             "name_history": [
                 "りゆ"
@@ -36848,6 +36864,22 @@
             "role_id": 38174103118572714,
             "server_region": "ws_asia_01"
         },
+        "38174103118572746": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 191706.796875,
+            "last_seen": 1764811456,
+            "level": 47,
+            "name": "Rokapui",
+            "name_history": [
+                "Rokapui"
+            ],
+            "registered": "Nov 26, 2025, 10:54:43 PM",
+            "role_id": 38174103118572746,
+            "server_region": "ws_asia_01"
+        },
         "38174103118572949": {
             "crew_id": 0,
             "crew_name": "",
@@ -46705,8 +46737,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2919,
+    "accounts_total": 2921,
     "created": 1764092421,
-    "last_updated": 1764811395,
+    "last_updated": 1764811456,
     "server_region": "ws_asia_01"
 }
