@@ -18483,11 +18483,11 @@
         "38174103118557117": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;77",
             "gender": 1,
-            "hp": 179485.203125,
-            "last_seen": 1764622759,
-            "level": 46,
+            "hp": 222227.609375,
+            "last_seen": 1764796515,
+            "level": 49,
             "name": "Bossy96",
             "name_history": [
                 "Bossy96"
@@ -35056,6 +35056,22 @@
             "role_id": 38174103118570498,
             "server_region": "ws_asia_01"
         },
+        "38174103118570513": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 158784.0,
+            "last_seen": 1764796515,
+            "level": 49,
+            "name": "stella read",
+            "name_history": [
+                "stella read"
+            ],
+            "registered": "Nov 26, 2025, 7:37:44 PM",
+            "role_id": 38174103118570513,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570584": {
             "crew_id": 549764701989,
             "crew_name": "無言のギルド",
@@ -45183,10 +45199,26 @@
             "registered": "Dec 3, 2025, 5:02:29 PM",
             "role_id": 38174103118590898,
             "server_region": "ws_asia_01"
+        },
+        "38174103118591007": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38646.0,
+            "last_seen": 1764796515,
+            "level": 13,
+            "name": "やや",
+            "name_history": [
+                "やや"
+            ],
+            "registered": "Dec 3, 2025, 7:17:28 PM",
+            "role_id": 38174103118591007,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2824,
+    "accounts_total": 2826,
     "created": 1764092421,
-    "last_updated": 1764796455,
+    "last_updated": 1764796515,
     "server_region": "ws_asia_01"
 }
