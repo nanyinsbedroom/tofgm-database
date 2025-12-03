@@ -8261,9 +8261,9 @@
             "crew_name": "Saints",
             "equipping_title": "WorldBossDamage_3;boss_hum_053_world;30",
             "gender": 1,
-            "hp": 203391.453125,
-            "last_seen": 1764729647,
-            "level": 47,
+            "hp": 213472.8125,
+            "last_seen": 1764811696,
+            "level": 49,
             "name": "Harshetshesma",
             "name_history": [
                 "Harshetshesma"
@@ -45680,6 +45680,22 @@
             "role_id": 38174103118588164,
             "server_region": "ws_asia_01"
         },
+        "38174103118588166": {
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 275271.0,
+            "last_seen": 1764811696,
+            "level": 48,
+            "name": "Not_Snowy",
+            "name_history": [
+                "Not_Snowy"
+            ],
+            "registered": "Dec 1, 2025, 2:36:07 PM",
+            "role_id": 38174103118588166,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588222": {
             "crew_id": 459570388773,
             "crew_name": "低スペックチーム",
@@ -46769,8 +46785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2923,
+    "accounts_total": 2924,
     "created": 1764092421,
-    "last_updated": 1764811576,
+    "last_updated": 1764811696,
     "server_region": "ws_asia_01"
 }
