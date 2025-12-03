@@ -15825,13 +15825,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118555642": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 10656.0,
-            "last_seen": 1764097722,
-            "level": 4,
+            "gender": 0,
+            "hp": 236489.59375,
+            "last_seen": 1764808854,
+            "level": 49,
             "name": "Apostrophe",
             "name_history": [
                 "Apostrophe"
@@ -35968,6 +35968,22 @@
             "role_id": 38174103118571193,
             "server_region": "ws_asia_01"
         },
+        "38174103118571238": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_017_world;20",
+            "gender": 1,
+            "hp": 357963.59375,
+            "last_seen": 1764808854,
+            "level": 49,
+            "name": "Kita",
+            "name_history": [
+                "Kita"
+            ],
+            "registered": "Nov 26, 2025, 9:25:52 PM",
+            "role_id": 38174103118571238,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571264": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
@@ -45857,8 +45873,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2866,
+    "accounts_total": 2867,
     "created": 1764092421,
-    "last_updated": 1764808794,
+    "last_updated": 1764808854,
     "server_region": "ws_asia_01"
 }
