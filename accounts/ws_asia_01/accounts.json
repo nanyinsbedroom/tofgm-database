@@ -963,11 +963,11 @@
         "38174103118545068": {
             "crew_id": 339311304485,
             "crew_name": "Arcana’s XVI",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 80345.0,
-            "last_seen": 1764112573,
-            "level": 22,
+            "equipping_title": "WorldBossDamage_1;Boss_hum_017_world;3",
+            "gender": 0,
+            "hp": 315607.8125,
+            "last_seen": 1764803034,
+            "level": 49,
             "name": "りぃめろ☂",
             "name_history": [
                 "りぃめろ☂"
@@ -9422,6 +9422,22 @@
             ],
             "registered": "Nov 25, 2025, 5:29:15 PM",
             "role_id": 38174103118548913,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118548924": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 216901.5625,
+            "last_seen": 1764803034,
+            "level": 49,
+            "name": "CeeQuince",
+            "name_history": [
+                "CeeQuince"
+            ],
+            "registered": "Nov 25, 2025, 5:29:20 PM",
+            "role_id": 38174103118548924,
             "server_region": "ws_asia_01"
         },
         "38174103118548937": {
@@ -38117,9 +38133,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 117493.203125,
-            "last_seen": 1764376090,
-            "level": 36,
+            "hp": 165602.8125,
+            "last_seen": 1764803034,
+            "level": 47,
             "name": "Dynia",
             "name_history": [
                 "Dynia"
@@ -45761,8 +45777,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2860,
+    "accounts_total": 2861,
     "created": 1764092421,
-    "last_updated": 1764802554,
+    "last_updated": 1764803034,
     "server_region": "ws_asia_01"
 }
