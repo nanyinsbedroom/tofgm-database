@@ -21075,11 +21075,11 @@
         "38174103118558264": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;98",
             "gender": 1,
-            "hp": 57425.0,
-            "last_seen": 1764111492,
-            "level": 17,
+            "hp": 363233.0,
+            "last_seen": 1764796635,
+            "level": 49,
             "name": "Greenteaaa",
             "name_history": [
                 "Greenteaaa"
@@ -35904,6 +35904,22 @@
             "role_id": 38174103118571676,
             "server_region": "ws_asia_01"
         },
+        "38174103118571694": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 298809.0,
+            "last_seen": 1764796635,
+            "level": 48,
+            "name": "zLights",
+            "name_history": [
+                "zLights"
+            ],
+            "registered": "Nov 26, 2025, 10:25:15 PM",
+            "role_id": 38174103118571694,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571706": {
             "crew_id": 472455290661,
             "crew_name": "Mi-aファンクラブ",
@@ -44480,6 +44496,22 @@
             "role_id": 38174103118588222,
             "server_region": "ws_asia_01"
         },
+        "38174103118588366": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 76479.0,
+            "last_seen": 1764796635,
+            "level": 23,
+            "name": "Azerta",
+            "name_history": [
+                "Azerta"
+            ],
+            "registered": "Dec 1, 2025, 5:49:35 PM",
+            "role_id": 38174103118588366,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588394": {
             "crew_id": 0,
             "crew_name": "",
@@ -45249,8 +45281,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2828,
+    "accounts_total": 2830,
     "created": 1764092421,
-    "last_updated": 1764796575,
+    "last_updated": 1764796635,
     "server_region": "ws_asia_01"
 }
