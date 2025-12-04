@@ -9381,9 +9381,9 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;3",
             "gender": 0,
-            "hp": 328584.625,
-            "last_seen": 1764695172,
-            "level": 48,
+            "hp": 363990.0,
+            "last_seen": 1764864726,
+            "level": 50,
             "name": "KNG",
             "name_history": [
                 "KNG"
@@ -14080,6 +14080,22 @@
             "role_id": 38174103118554522,
             "server_region": "ws_asia_01"
         },
+        "38174103118554526": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 95349.203125,
+            "last_seen": 1764864726,
+            "level": 29,
+            "name": "ミスティ",
+            "name_history": [
+                "ミスティ"
+            ],
+            "registered": "Nov 25, 2025, 6:12:55 PM",
+            "role_id": 38174103118554526,
+            "server_region": "ws_asia_01"
+        },
         "38174103118554535": {
             "crew_id": 0,
             "crew_name": "",
@@ -16933,9 +16949,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 154194.796875,
-            "last_seen": 1764454761,
-            "level": 42,
+            "hp": 326517.0,
+            "last_seen": 1764864726,
+            "level": 50,
             "name": "Trap",
             "name_history": [
                 "Trap"
@@ -30723,11 +30739,11 @@
         "38174103118564082": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 142225.0,
-            "last_seen": 1764696613,
-            "level": 47,
+            "hp": 161291.0,
+            "last_seen": 1764864726,
+            "level": 50,
             "name": "Kurotsune",
             "name_history": [
                 "Kurotsune"
@@ -47569,8 +47585,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2973,
+    "accounts_total": 2974,
     "created": 1764092421,
-    "last_updated": 1764864666,
+    "last_updated": 1764864726,
     "server_region": "ws_asia_01"
 }
