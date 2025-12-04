@@ -1,12 +1,12 @@
 {
     "accounts": {
         "38174103118544902": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 768808034085,
+            "crew_name": "かもめ食堂わあぷ分店",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 122046.6015625,
-            "last_seen": 1764798257,
+            "hp": 122315.3984375,
+            "last_seen": 1764862444,
             "level": 46,
             "name": "momommo",
             "name_history": [
@@ -9029,9 +9029,9 @@
             "crew_name": "EROGE",
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;34",
             "gender": 1,
-            "hp": 239796.21875,
-            "last_seen": 1764707801,
-            "level": 46,
+            "hp": 287439.625,
+            "last_seen": 1764862444,
+            "level": 49,
             "name": "Feyrouz",
             "name_history": [
                 "Feyrouz"
@@ -11397,9 +11397,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 332063.40625,
-            "last_seen": 1764733172,
-            "level": 48,
+            "hp": 351194.0,
+            "last_seen": 1764862444,
+            "level": 50,
             "name": "ヘルミー",
             "name_history": [
                 "ヘルミー"
@@ -19470,6 +19470,22 @@
             ],
             "registered": "Nov 25, 2025, 7:57:33 PM",
             "role_id": 38174103118557383,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557400": {
+            "crew_id": 442390519589,
+            "crew_name": "NoVa",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;94",
+            "gender": 1,
+            "hp": 162624.90625,
+            "last_seen": 1764862444,
+            "level": 50,
+            "name": "แมวส้ม",
+            "name_history": [
+                "แมวส้ม"
+            ],
+            "registered": "Nov 25, 2025, 7:58:20 PM",
+            "role_id": 38174103118557400,
             "server_region": "ws_asia_01"
         },
         "38174103118557414": {
@@ -36944,6 +36960,22 @@
             "role_id": 38174103118572601,
             "server_region": "ws_asia_01"
         },
+        "38174103118572606": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 323454.125,
+            "last_seen": 1764862444,
+            "level": 50,
+            "name": "CalmBastard",
+            "name_history": [
+                "CalmBastard"
+            ],
+            "registered": "Nov 26, 2025, 10:50:18 PM",
+            "role_id": 38174103118572606,
+            "server_region": "ws_asia_01"
+        },
         "38174103118572693": {
             "crew_id": 0,
             "crew_name": "",
@@ -37857,13 +37889,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118574719": {
-            "crew_id": 579829473061,
-            "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "None",
+            "crew_id": 1267024240421,
+            "crew_name": "PHANTOMHIVEPH ",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 116708.3984375,
-            "last_seen": 1764381892,
-            "level": 34,
+            "hp": 267237.0,
+            "last_seen": 1764862444,
+            "level": 50,
             "name": "Margz",
             "name_history": [
                 "Margz"
@@ -46929,8 +46961,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2933,
+    "accounts_total": 2935,
     "created": 1764092421,
-    "last_updated": 1764814307,
+    "last_updated": 1764862444,
     "server_region": "ws_asia_01"
 }
