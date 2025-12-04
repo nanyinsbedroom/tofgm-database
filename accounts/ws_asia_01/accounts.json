@@ -2853,8 +2853,8 @@
             "crew_name": "EROGE",
             "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 262359.21875,
-            "last_seen": 1764864366,
+            "hp": 265162.40625,
+            "last_seen": 1764875433,
             "level": 50,
             "name": "Ayin",
             "name_history": [
@@ -10174,6 +10174,22 @@
             ],
             "registered": "Nov 25, 2025, 5:31:34 PM",
             "role_id": 38174103118549472,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118549540": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 352829.625,
+            "last_seen": 1764875433,
+            "level": 50,
+            "name": "Lenalene",
+            "name_history": [
+                "Lenalene"
+            ],
+            "registered": "Nov 25, 2025, 5:31:45 PM",
+            "role_id": 38174103118549540,
             "server_region": "ws_asia_01"
         },
         "38174103118549579": {
@@ -34677,9 +34693,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 126777.59375,
-            "last_seen": 1764455542,
-            "level": 40,
+            "hp": 253097.609375,
+            "last_seen": 1764875433,
+            "level": 50,
             "name": "Ruyao",
             "name_history": [
                 "Ruyao"
@@ -48304,6 +48320,22 @@
             "role_id": 38174103118589453,
             "server_region": "ws_asia_01"
         },
+        "38174103118589474": {
+            "crew_id": 219052220197,
+            "crew_name": "Extreme",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 279130.625,
+            "last_seen": 1764875433,
+            "level": 50,
+            "name": "Tizel",
+            "name_history": [
+                "Tizel"
+            ],
+            "registered": "Dec 2, 2025, 1:13:16 PM",
+            "role_id": 38174103118589474,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589505": {
             "crew_id": 0,
             "crew_name": "",
@@ -49041,8 +49073,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3065,
+    "accounts_total": 3067,
     "created": 1764092421,
-    "last_updated": 1764875373,
+    "last_updated": 1764875433,
     "server_region": "ws_asia_01"
 }
