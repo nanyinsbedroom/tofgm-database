@@ -4341,9 +4341,9 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 137472.0,
-            "last_seen": 1764384895,
-            "level": 39,
+            "hp": 288594.40625,
+            "last_seen": 1764863224,
+            "level": 50,
             "name": "ハルセ",
             "name_history": [
                 "ハルセ"
@@ -9425,13 +9425,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118548778": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 833232543525,
+            "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 59998.0,
-            "last_seen": 1764100630,
-            "level": 15,
+            "hp": 305564.40625,
+            "last_seen": 1764863224,
+            "level": 49,
             "name": "ソドム",
             "name_history": [
                 "ソドム"
@@ -30293,9 +30293,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 272231.84375,
-            "last_seen": 1764696872,
-            "level": 47,
+            "hp": 346663.40625,
+            "last_seen": 1764863224,
+            "level": 50,
             "name": "Altera",
             "name_history": [
                 "Altera"
@@ -36462,6 +36462,22 @@
             ],
             "registered": "Nov 26, 2025, 9:19:04 PM",
             "role_id": 38174103118571185,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571187": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 80491.6015625,
+            "last_seen": 1764863224,
+            "level": 28,
+            "name": "Ethernet ",
+            "name_history": [
+                "Ethernet "
+            ],
+            "registered": "Nov 26, 2025, 9:19:25 PM",
+            "role_id": 38174103118571187,
             "server_region": "ws_asia_01"
         },
         "38174103118571193": {
@@ -45712,6 +45728,22 @@
             "role_id": 38174103118587652,
             "server_region": "ws_asia_01"
         },
+        "38174103118587730": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 131062.0,
+            "last_seen": 1764863224,
+            "level": 50,
+            "name": "Elly8455",
+            "name_history": [
+                "Elly8455"
+            ],
+            "registered": "Dec 1, 2025, 6:59:11 AM",
+            "role_id": 38174103118587730,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587736": {
             "crew_id": 0,
             "crew_name": "",
@@ -47009,8 +47041,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2938,
+    "accounts_total": 2940,
     "created": 1764092421,
-    "last_updated": 1764863164,
+    "last_updated": 1764863224,
     "server_region": "ws_asia_01"
 }
