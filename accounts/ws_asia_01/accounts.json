@@ -2501,9 +2501,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "1_6_4_30",
             "gender": 1,
-            "hp": 291283.1875,
-            "last_seen": 1764695832,
-            "level": 48,
+            "hp": 361086.21875,
+            "last_seen": 1764875013,
+            "level": 50,
             "name": "Defensio",
             "name_history": [
                 "Defensio"
@@ -4709,9 +4709,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 81636.0,
-            "last_seen": 1764112393,
-            "level": 22,
+            "hp": 245893.8125,
+            "last_seen": 1764875013,
+            "level": 50,
             "name": "Touhou",
             "name_history": [
                 "Touhou"
@@ -24929,13 +24929,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118559636": {
-            "crew_id": 588419407653,
-            "crew_name": "喫茶ゆった～り",
+            "crew_id": 279181762341,
+            "crew_name": "甘味処パルフェ",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 105035.3984375,
-            "last_seen": 1764273077,
-            "level": 32,
+            "hp": 273077.40625,
+            "last_seen": 1764875013,
+            "level": 49,
             "name": "Wボックス",
             "name_history": [
                 "Wボックス"
@@ -45632,6 +45632,22 @@
             "role_id": 38174103118583712,
             "server_region": "ws_asia_01"
         },
+        "38174103118583714": {
+            "crew_id": 223347187493,
+            "crew_name": "MoonGlade",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 295244.625,
+            "last_seen": 1764875013,
+            "level": 50,
+            "name": "TianTian",
+            "name_history": [
+                "TianTian"
+            ],
+            "registered": "Nov 29, 2025, 4:13:23 PM",
+            "role_id": 38174103118583714,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583718": {
             "crew_id": 0,
             "crew_name": "",
@@ -48993,8 +49009,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3062,
+    "accounts_total": 3063,
     "created": 1764092421,
-    "last_updated": 1764874953,
+    "last_updated": 1764875013,
     "server_region": "ws_asia_01"
 }
