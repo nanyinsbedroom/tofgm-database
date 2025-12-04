@@ -1427,10 +1427,10 @@
         "38174103118545151": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 358345.59375,
-            "last_seen": 1764869973,
+            "last_seen": 1764875073,
             "level": 50,
             "name": "SupportOnly",
             "name_history": [
@@ -20595,11 +20595,11 @@
         "38174103118557579": {
             "crew_id": 300656598821,
             "crew_name": "INDONESIA",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;87",
             "gender": 1,
-            "hp": 114145.796875,
-            "last_seen": 1764205454,
-            "level": 29,
+            "hp": 356449.8125,
+            "last_seen": 1764875073,
+            "level": 49,
             "name": "Raya",
             "name_history": [
                 "Raya"
@@ -36288,6 +36288,22 @@
             "role_id": 38174103118569400,
             "server_region": "ws_asia_01"
         },
+        "38174103118569419": {
+            "crew_id": 1219779600165,
+            "crew_name": "3 Commandments",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 203270.796875,
+            "last_seen": 1764875073,
+            "level": 50,
+            "name": "Zestia",
+            "name_history": [
+                "Zestia"
+            ],
+            "registered": "Nov 26, 2025, 4:42:02 PM",
+            "role_id": 38174103118569419,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569440": {
             "crew_id": 0,
             "crew_name": "",
@@ -37886,6 +37902,22 @@
             ],
             "registered": "Nov 26, 2025, 9:52:03 PM",
             "role_id": 38174103118571430,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571483": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_Sand_world;29",
+            "gender": 0,
+            "hp": 334651.8125,
+            "last_seen": 1764875073,
+            "level": 50,
+            "name": "Kroniichiwa",
+            "name_history": [
+                "Kroniichiwa"
+            ],
+            "registered": "Nov 26, 2025, 9:59:12 PM",
+            "role_id": 38174103118571483,
             "server_region": "ws_asia_01"
         },
         "38174103118571493": {
@@ -49009,8 +49041,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3063,
+    "accounts_total": 3065,
     "created": 1764092421,
-    "last_updated": 1764875013,
+    "last_updated": 1764875073,
     "server_region": "ws_asia_01"
 }
