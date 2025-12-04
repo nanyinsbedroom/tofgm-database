@@ -1315,11 +1315,11 @@
         "38174103118545131": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;61",
             "gender": 1,
-            "hp": 354636.21875,
-            "last_seen": 1764548058,
-            "level": 44,
+            "hp": 322071.1875,
+            "last_seen": 1764864786,
+            "level": 50,
             "name": "Murasak1破刃",
             "name_history": [
                 "Murasak1破刃"
@@ -1413,9 +1413,9 @@
             "crew_name": "ユートピア",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 257570.375,
-            "last_seen": 1764739723,
-            "level": 49,
+            "hp": 345173.1875,
+            "last_seen": 1764864786,
+            "level": 50,
             "name": "ゴーシュ",
             "name_history": [
                 "ゴーシュ"
@@ -3155,11 +3155,11 @@
         "38174103118545498": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;45",
             "gender": 0,
-            "hp": 262059.0,
-            "last_seen": 1764471995,
-            "level": 42,
+            "hp": 354365.0,
+            "last_seen": 1764864786,
+            "level": 50,
             "name": "Leonhardt",
             "name_history": [
                 "Leonhardt"
@@ -7534,6 +7534,22 @@
             ],
             "registered": "Nov 25, 2025, 5:15:57 PM",
             "role_id": 38174103118546740,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546741": {
+            "crew_id": 416620715813,
+            "crew_name": "ステラ・メモリア",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 111207.203125,
+            "last_seen": 1764864786,
+            "level": 47,
+            "name": "Klein",
+            "name_history": [
+                "Klein"
+            ],
+            "registered": "Nov 25, 2025, 5:15:58 PM",
+            "role_id": 38174103118546741,
             "server_region": "ws_asia_01"
         },
         "38174103118546744": {
@@ -12062,6 +12078,22 @@
             ],
             "registered": "Nov 25, 2025, 5:49:09 PM",
             "role_id": 38174103118553035,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553049": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 312432.21875,
+            "last_seen": 1764864786,
+            "level": 50,
+            "name": "cbbonk",
+            "name_history": [
+                "cbbonk"
+            ],
+            "registered": "Nov 25, 2025, 5:49:16 PM",
+            "role_id": 38174103118553049,
             "server_region": "ws_asia_01"
         },
         "38174103118553121": {
@@ -17395,11 +17427,11 @@
         "38174103118556207": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 254379.203125,
-            "last_seen": 1764527594,
-            "level": 44,
+            "hp": 355834.03125,
+            "last_seen": 1764864786,
+            "level": 50,
             "name": "アリス３０７",
             "name_history": [
                 "アリス３０７"
@@ -26590,6 +26622,22 @@
             ],
             "registered": "Nov 25, 2025, 10:31:52 PM",
             "role_id": 38174103118560882,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560901": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 199165.203125,
+            "last_seen": 1764864786,
+            "level": 49,
+            "name": "松露",
+            "name_history": [
+                "松露"
+            ],
+            "registered": "Nov 25, 2025, 10:32:51 PM",
+            "role_id": 38174103118560901,
             "server_region": "ws_asia_01"
         },
         "38174103118560903": {
@@ -38848,6 +38896,22 @@
             "role_id": 38174103118575481,
             "server_region": "ws_asia_01"
         },
+        "38174103118575505": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 121645.0,
+            "last_seen": 1764864786,
+            "level": 47,
+            "name": "Nee•",
+            "name_history": [
+                "Nee•"
+            ],
+            "registered": "Nov 27, 2025, 5:50:46 AM",
+            "role_id": 38174103118575505,
+            "server_region": "ws_asia_01"
+        },
         "38174103118575506": {
             "crew_id": 0,
             "crew_name": "",
@@ -47585,8 +47649,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2974,
+    "accounts_total": 2978,
     "created": 1764092421,
-    "last_updated": 1764864726,
+    "last_updated": 1764864786,
     "server_region": "ws_asia_01"
 }
