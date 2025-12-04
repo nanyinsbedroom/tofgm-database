@@ -1,5 +1,21 @@
 {
     "accounts": {
+        "38174103118571433": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 198430.8125,
+            "last_seen": 1764858392,
+            "level": 50,
+            "name": "Fraudulent Gaze",
+            "name_history": [
+                "Fraudulent Gaze"
+            ],
+            "registered": "Nov 26, 2025, 9:52:07 PM",
+            "role_id": 38174103118571433,
+            "server_region": "ws_europe_01"
+        },
         "38174111708479497": {
             "crew_id": 12893789991,
             "crew_name": "Fantasy",
@@ -6593,8 +6609,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 412,
+    "accounts_total": 413,
     "created": 1764046902,
-    "last_updated": 1764448347,
+    "last_updated": 1764858392,
     "server_region": "ws_europe_01"
 }
