@@ -4470,7 +4470,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 125215.0,
-            "last_seen": 1764864366,
+            "last_seen": 1764865670,
             "level": 49,
             "name": "カラナ",
             "name_history": [
@@ -13406,6 +13406,22 @@
             ],
             "registered": "Nov 25, 2025, 6:04:10 PM",
             "role_id": 38174103118554223,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554241": {
+            "crew_id": 1189714829093,
+            "crew_name": "ムーンライトスピード",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 315927.1875,
+            "last_seen": 1764865670,
+            "level": 50,
+            "name": "ユキノ",
+            "name_history": [
+                "ユキノ"
+            ],
+            "registered": "Nov 25, 2025, 6:04:35 PM",
+            "role_id": 38174103118554241,
             "server_region": "ws_asia_01"
         },
         "38174103118554246": {
@@ -48065,8 +48081,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3004,
+    "accounts_total": 3005,
     "created": 1764092421,
-    "last_updated": 1764865610,
+    "last_updated": 1764865670,
     "server_region": "ws_asia_01"
 }
