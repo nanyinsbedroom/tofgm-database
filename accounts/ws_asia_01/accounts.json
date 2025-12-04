@@ -1765,9 +1765,9 @@
             "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 208731.203125,
-            "last_seen": 1764431189,
-            "level": 42,
+            "hp": 250920.0,
+            "last_seen": 1764864306,
+            "level": 49,
             "name": "Shira",
             "name_history": [
                 "Shira"
@@ -27107,11 +27107,11 @@
         "38174103118561475": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 101008.0,
-            "last_seen": 1764136577,
-            "level": 29,
+            "hp": 367047.0,
+            "last_seen": 1764864306,
+            "level": 50,
             "name": "Audy",
             "name_history": [
                 "Audy"
@@ -35934,6 +35934,22 @@
             ],
             "registered": "Nov 26, 2025, 7:25:18 PM",
             "role_id": 38174103118570446,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118570475": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 188963.0,
+            "last_seen": 1764864306,
+            "level": 50,
+            "name": "taranta147",
+            "name_history": [
+                "taranta147"
+            ],
+            "registered": "Nov 26, 2025, 7:31:00 PM",
+            "role_id": 38174103118570475,
             "server_region": "ws_asia_01"
         },
         "38174103118570483": {
@@ -47153,8 +47169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2947,
+    "accounts_total": 2948,
     "created": 1764092421,
-    "last_updated": 1764864246,
+    "last_updated": 1764864306,
     "server_region": "ws_asia_01"
 }
