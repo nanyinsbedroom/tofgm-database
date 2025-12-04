@@ -1061,8 +1061,8 @@
             "crew_name": "Saints",
             "equipping_title": "WorldBossDamage_3;boss_hum_052_world;11",
             "gender": 1,
-            "hp": 362922.03125,
-            "last_seen": 1764870153,
+            "hp": 225503.84375,
+            "last_seen": 1764872010,
             "level": 50,
             "name": "Zen",
             "name_history": [
@@ -1493,9 +1493,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 197143.0,
-            "last_seen": 1764269834,
-            "level": 34,
+            "hp": 362468.0,
+            "last_seen": 1764872010,
+            "level": 50,
             "name": "Hres.",
             "name_history": [
                 "Hres."
@@ -16561,13 +16561,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118555675": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 66345.0,
-            "last_seen": 1764100871,
-            "level": 16,
+            "hp": 344397.8125,
+            "last_seen": 1764872010,
+            "level": 50,
             "name": "GRYPHON.",
             "name_history": [
                 "GRYPHON."
@@ -32838,7 +32838,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 353244.59375,
-            "last_seen": 1764869973,
+            "last_seen": 1764872010,
             "level": 50,
             "name": "Nyaharu",
             "name_history": [
@@ -34435,14 +34435,14 @@
         "38174103118566704": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_045_world;25",
             "gender": 1,
-            "hp": 96689.3984375,
-            "last_seen": 1764269233,
-            "level": 34,
-            "name": "YTExAlterVtuber",
+            "hp": 342201.0,
+            "last_seen": 1764872010,
+            "level": 50,
+            "name": "ExAlterVtuber",
             "name_history": [
-                "YTExAlterVtuber"
+                "ExAlterVtuber"
             ],
             "registered": "Nov 26, 2025, 9:44:49 AM",
             "role_id": 38174103118566704,
@@ -48835,6 +48835,6 @@
     },
     "accounts_total": 3052,
     "created": 1764092421,
-    "last_updated": 1764871950,
+    "last_updated": 1764872010,
     "server_region": "ws_asia_01"
 }
