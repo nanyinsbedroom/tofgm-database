@@ -20097,13 +20097,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557596": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 8928.0,
-            "last_seen": 1764103153,
-            "level": 2,
+            "hp": 245370.015625,
+            "last_seen": 1764864666,
+            "level": 50,
             "name": "時羽",
             "name_history": [
                 "時羽"
@@ -35040,6 +35040,22 @@
             "role_id": 38174103118568933,
             "server_region": "ws_asia_01"
         },
+        "38174103118568935": {
+            "crew_id": 283476729637,
+            "crew_name": "Eternal Sky",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 245761.796875,
+            "last_seen": 1764864666,
+            "level": 50,
+            "name": "あんどーなつ",
+            "name_history": [
+                "あんどーなつ"
+            ],
+            "registered": "Nov 26, 2025, 3:20:04 PM",
+            "role_id": 38174103118568935,
+            "server_region": "ws_asia_01"
+        },
         "38174103118568979": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
@@ -47553,8 +47569,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2972,
+    "accounts_total": 2973,
     "created": 1764092421,
-    "last_updated": 1764864606,
+    "last_updated": 1764864666,
     "server_region": "ws_asia_01"
 }
