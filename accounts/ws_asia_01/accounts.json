@@ -28560,6 +28560,22 @@
             "role_id": 38174103118562027,
             "server_region": "ws_asia_01"
         },
+        "38174103118562028": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_world;12",
+            "gender": 1,
+            "hp": 353390.40625,
+            "last_seen": 1764871169,
+            "level": 50,
+            "name": "Darx",
+            "name_history": [
+                "Darx"
+            ],
+            "registered": "Nov 25, 2025, 11:32:50 PM",
+            "role_id": 38174103118562028,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562033": {
             "crew_id": 0,
             "crew_name": "",
@@ -42470,7 +42486,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 333408.0,
-            "last_seen": 1764870033,
+            "last_seen": 1764871169,
             "level": 50,
             "name": "夜鳥",
             "name_history": [
@@ -48593,8 +48609,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3037,
+    "accounts_total": 3038,
     "created": 1764092421,
-    "last_updated": 1764870573,
+    "last_updated": 1764871169,
     "server_region": "ws_asia_01"
 }
