@@ -10355,11 +10355,11 @@
         "38174103118550036": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_059_world;46",
             "gender": 1,
-            "hp": 195135.609375,
-            "last_seen": 1764430589,
-            "level": 42,
+            "hp": 365010.0,
+            "last_seen": 1764875853,
+            "level": 50,
             "name": "эiяaM",
             "name_history": [
                 "эiяaM"
@@ -23166,6 +23166,22 @@
             ],
             "registered": "Nov 25, 2025, 8:51:29 PM",
             "role_id": 38174103118558703,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558711": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 290806.1875,
+            "last_seen": 1764875853,
+            "level": 50,
+            "name": "Nima",
+            "name_history": [
+                "Nima"
+            ],
+            "registered": "Nov 25, 2025, 8:52:04 PM",
+            "role_id": 38174103118558711,
             "server_region": "ws_asia_01"
         },
         "38174103118558723": {
@@ -49121,8 +49137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3070,
+    "accounts_total": 3071,
     "created": 1764092421,
-    "last_updated": 1764875793,
+    "last_updated": 1764875853,
     "server_region": "ws_asia_01"
 }
