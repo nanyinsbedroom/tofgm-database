@@ -3158,7 +3158,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;45",
             "gender": 0,
             "hp": 354365.0,
-            "last_seen": 1764864786,
+            "last_seen": 1764865490,
             "level": 50,
             "name": "Leonhardt",
             "name_history": [
@@ -10997,9 +10997,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 272773.21875,
-            "last_seen": 1764696313,
-            "level": 46,
+            "hp": 291843.59375,
+            "last_seen": 1764865490,
+            "level": 48,
             "name": "Ria",
             "name_history": [
                 "Ria"
@@ -21861,8 +21861,8 @@
             "crew_name": "XCEED",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 163019.8125,
-            "last_seen": 1764865207,
+            "hp": 164632.609375,
+            "last_seen": 1764865490,
             "level": 46,
             "name": "LastZOO",
             "name_history": [
@@ -23523,11 +23523,11 @@
         "38174103118559086": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_052_world;28",
             "gender": 1,
-            "hp": 208868.40625,
-            "last_seen": 1764535542,
-            "level": 44,
+            "hp": 293747.0,
+            "last_seen": 1764865490,
+            "level": 50,
             "name": "Kuna",
             "name_history": [
                 "Kuna"
@@ -23926,7 +23926,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 315013.1875,
-            "last_seen": 1764864846,
+            "last_seen": 1764865490,
             "level": 50,
             "name": "ＭＡＯＵ",
             "name_history": [
@@ -27830,7 +27830,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 348333.0,
-            "last_seen": 1764865086,
+            "last_seen": 1764865490,
             "level": 49,
             "name": "GumMyi3ear",
             "name_history": [
@@ -39984,6 +39984,22 @@
             "role_id": 38174103118577121,
             "server_region": "ws_asia_01"
         },
+        "38174103118577154": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 24019.470703125,
+            "last_seen": 1764865490,
+            "level": 21,
+            "name": "小雪‚",
+            "name_history": [
+                "小雪‚"
+            ],
+            "registered": "Nov 27, 2025, 3:51:51 PM",
+            "role_id": 38174103118577154,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577170": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
@@ -44741,9 +44757,9 @@
             "crew_name": "VALKYRIE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 186247.40625,
-            "last_seen": 1764810475,
-            "level": 49,
+            "hp": 194023.40625,
+            "last_seen": 1764865490,
+            "level": 50,
             "name": "XIII",
             "name_history": [
                 "XIII"
@@ -47937,8 +47953,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2996,
+    "accounts_total": 2997,
     "created": 1764092421,
-    "last_updated": 1764865207,
+    "last_updated": 1764865490,
     "server_region": "ws_asia_01"
 }
