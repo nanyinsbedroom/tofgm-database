@@ -4677,9 +4677,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 344735.40625,
-            "last_seen": 1764705000,
-            "level": 48,
+            "hp": 362216.0,
+            "last_seen": 1764864486,
+            "level": 50,
             "name": "Harr",
             "name_history": [
                 "Harr"
@@ -9281,13 +9281,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118548217": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 69464.0,
-            "last_seen": 1764107695,
-            "level": 16,
+            "hp": 268772.8125,
+            "last_seen": 1764864486,
+            "level": 48,
             "name": "Fuyu",
             "name_history": [
                 "Fuyu"
@@ -13509,9 +13509,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;17",
             "gender": 0,
-            "hp": 347588.59375,
-            "last_seen": 1764811155,
-            "level": 49,
+            "hp": 357914.59375,
+            "last_seen": 1764864486,
+            "level": 50,
             "name": "rizu",
             "name_history": [
                 "rizu"
@@ -44672,6 +44672,22 @@
             "role_id": 38174103118584398,
             "server_region": "ws_asia_01"
         },
+        "38174103118584399": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 291738.8125,
+            "last_seen": 1764864486,
+            "level": 49,
+            "name": "Crazy_K.",
+            "name_history": [
+                "Crazy_K."
+            ],
+            "registered": "Nov 29, 2025, 9:25:07 PM",
+            "role_id": 38174103118584399,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584441": {
             "crew_id": 403735813925,
             "crew_name": "Nox Society",
@@ -47521,8 +47537,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2970,
+    "accounts_total": 2971,
     "created": 1764092421,
-    "last_updated": 1764864426,
+    "last_updated": 1764864486,
     "server_region": "ws_asia_01"
 }
