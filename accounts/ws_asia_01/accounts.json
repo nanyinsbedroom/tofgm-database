@@ -3413,9 +3413,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 339531.625,
-            "last_seen": 1764798137,
-            "level": 49,
+            "hp": 365010.0,
+            "last_seen": 1764874832,
+            "level": 50,
             "name": "Hikari",
             "name_history": [
                 "Hikari"
@@ -14270,6 +14270,22 @@
             ],
             "registered": "Nov 25, 2025, 6:11:06 PM",
             "role_id": 38174103118554459,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554465": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;74",
+            "gender": 0,
+            "hp": 314753.0,
+            "last_seen": 1764874832,
+            "level": 50,
+            "name": "JROS",
+            "name_history": [
+                "JROS"
+            ],
+            "registered": "Nov 25, 2025, 6:11:16 PM",
+            "role_id": 38174103118554465,
             "server_region": "ws_asia_01"
         },
         "38174103118554467": {
@@ -25827,11 +25843,11 @@
         "38174103118560056": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 166698.203125,
-            "last_seen": 1764431850,
-            "level": 42,
+            "hp": 205557.46875,
+            "last_seen": 1764874832,
+            "level": 50,
             "name": "_niXXin_",
             "name_history": [
                 "_niXXin_"
@@ -48961,8 +48977,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3060,
+    "accounts_total": 3061,
     "created": 1764092421,
-    "last_updated": 1764874772,
+    "last_updated": 1764874832,
     "server_region": "ws_asia_01"
 }
