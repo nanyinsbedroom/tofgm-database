@@ -1185,13 +1185,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708480232": {
-            "crew_id": 17188757287,
-            "crew_name": "Moonlight",
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
             "equipping_title": "1_6_2_1",
-            "gender": 1,
-            "hp": 93221.0,
-            "last_seen": 1764188610,
-            "level": 29,
+            "gender": 0,
+            "hp": 372000.0,
+            "last_seen": 1764858512,
+            "level": 50,
             "name": "Remmy",
             "name_history": [
                 "Remmy"
@@ -3171,11 +3171,11 @@
         "38174111708482195": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_017_world;2",
             "gender": 1,
-            "hp": 234932.390625,
-            "last_seen": 1764444962,
-            "level": 42,
+            "hp": 356622.0,
+            "last_seen": 1764858512,
+            "level": 50,
             "name": "excessive10",
             "name_history": [
                 "excessive10"
@@ -6611,6 +6611,6 @@
     },
     "accounts_total": 413,
     "created": 1764046902,
-    "last_updated": 1764858452,
+    "last_updated": 1764858512,
     "server_region": "ws_europe_01"
 }
