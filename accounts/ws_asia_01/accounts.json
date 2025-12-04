@@ -371,11 +371,11 @@
         "38174103118544963": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 61859.67578125,
-            "last_seen": 1764269113,
-            "level": 34,
+            "hp": 353345.0,
+            "last_seen": 1764875913,
+            "level": 50,
             "name": "Fubuking",
             "name_history": [
                 "Fubuking"
@@ -3870,6 +3870,22 @@
             ],
             "registered": "Nov 25, 2025, 5:04:06 PM",
             "role_id": 38174103118545636,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545637": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 341785.0,
+            "last_seen": 1764875913,
+            "level": 50,
+            "name": "ないす",
+            "name_history": [
+                "ないす"
+            ],
+            "registered": "Nov 25, 2025, 5:04:06 PM",
+            "role_id": 38174103118545637,
             "server_region": "ws_asia_01"
         },
         "38174103118545641": {
@@ -36197,9 +36213,9 @@
             "crew_name": "Fractsidus",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 212657.1875,
-            "last_seen": 1764865086,
-            "level": 49,
+            "hp": 229841.796875,
+            "last_seen": 1764875913,
+            "level": 50,
             "name": "bluekiwi",
             "name_history": [
                 "bluekiwi"
@@ -49137,8 +49153,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3071,
+    "accounts_total": 3072,
     "created": 1764092421,
-    "last_updated": 1764875853,
+    "last_updated": 1764875913,
     "server_region": "ws_asia_01"
 }
