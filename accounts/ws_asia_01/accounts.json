@@ -4693,9 +4693,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 214708.0,
-            "last_seen": 1764381592,
-            "level": 39,
+            "hp": 357860.59375,
+            "last_seen": 1764865086,
+            "level": 50,
             "name": "MezzO",
             "name_history": [
                 "MezzO"
@@ -16741,9 +16741,9 @@
             "crew_name": "Restart",
             "equipping_title": "WorldBossDamage_3;boss_hum_059_world;30",
             "gender": 1,
-            "hp": 361512.0,
-            "last_seen": 1764814007,
-            "level": 49,
+            "hp": 186784.75,
+            "last_seen": 1764865086,
+            "level": 50,
             "name": "maccha7",
             "name_history": [
                 "maccha7"
@@ -27792,6 +27792,22 @@
             "role_id": 38174103118561672,
             "server_region": "ws_asia_01"
         },
+        "38174103118561692": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 348333.0,
+            "last_seen": 1764865086,
+            "level": 49,
+            "name": "GumMyi3ear",
+            "name_history": [
+                "GumMyi3ear"
+            ],
+            "registered": "Nov 25, 2025, 11:15:36 PM",
+            "role_id": 38174103118561692,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561698": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
@@ -35477,12 +35493,12 @@
             "crew_name": "Fractsidus",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 154529.0,
-            "last_seen": 1764548058,
-            "level": 43,
-            "name": "연꽃모어",
+            "hp": 212657.1875,
+            "last_seen": 1764865086,
+            "level": 49,
+            "name": "bluekiwi",
             "name_history": [
-                "연꽃모어"
+                "bluekiwi"
             ],
             "registered": "Nov 26, 2025, 4:18:14 PM",
             "role_id": 38174103118569277,
@@ -47807,10 +47823,26 @@
             "registered": "Dec 4, 2025, 12:32:27 AM",
             "role_id": 38174103118591276,
             "server_region": "ws_asia_01"
+        },
+        "38174103118591452": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 85783.0,
+            "last_seen": 1764865086,
+            "level": 30,
+            "name": "Kaiii",
+            "name_history": [
+                "Kaiii"
+            ],
+            "registered": "Dec 4, 2025, 7:08:52 AM",
+            "role_id": 38174103118591452,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2988,
+    "accounts_total": 2990,
     "created": 1764092421,
-    "last_updated": 1764865026,
+    "last_updated": 1764865086,
     "server_region": "ws_asia_01"
 }
