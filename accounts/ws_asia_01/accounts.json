@@ -11349,9 +11349,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 87434.296875,
-            "last_seen": 1764717003,
-            "level": 48,
+            "hp": 230026.21875,
+            "last_seen": 1764896248,
+            "level": 50,
             "name": "Venera",
             "name_history": [
                 "Venera"
@@ -22774,7 +22774,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;80",
             "gender": 1,
             "hp": 354689.0,
-            "last_seen": 1764875493,
+            "last_seen": 1764896248,
             "level": 50,
             "name": "KenmaRyu",
             "name_history": [
@@ -30942,6 +30942,22 @@
             ],
             "registered": "Nov 26, 2025, 1:07:31 AM",
             "role_id": 38174103118563520,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563544": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 372000.0,
+            "last_seen": 1764896248,
+            "level": 50,
+            "name": "nas lah",
+            "name_history": [
+                "nas lah"
+            ],
+            "registered": "Nov 26, 2025, 1:09:34 AM",
+            "role_id": 38174103118563544,
             "server_region": "ws_asia_01"
         },
         "38174103118563555": {
@@ -49217,8 +49233,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3076,
+    "accounts_total": 3077,
     "created": 1764092421,
-    "last_updated": 1764895708,
+    "last_updated": 1764896248,
     "server_region": "ws_asia_01"
 }
