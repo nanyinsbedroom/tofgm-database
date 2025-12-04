@@ -6405,9 +6405,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 189661.40625,
-            "last_seen": 1764535422,
-            "level": 44,
+            "hp": 363990.0,
+            "last_seen": 1764864906,
+            "level": 50,
             "name": "レイア",
             "name_history": [
                 "レイア"
@@ -11408,6 +11408,22 @@
             "role_id": 38174103118551529,
             "server_region": "ws_asia_01"
         },
+        "38174103118551553": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90679.0,
+            "last_seen": 1764864906,
+            "level": 33,
+            "name": "Neps",
+            "name_history": [
+                "Neps"
+            ],
+            "registered": "Nov 25, 2025, 5:40:23 PM",
+            "role_id": 38174103118551553,
+            "server_region": "ws_asia_01"
+        },
         "38174103118551562": {
             "crew_id": 0,
             "crew_name": "",
@@ -15342,6 +15358,22 @@
             ],
             "registered": "Nov 25, 2025, 6:32:55 PM",
             "role_id": 38174103118555178,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555180": {
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 104437.3828125,
+            "last_seen": 1764864906,
+            "level": 36,
+            "name": "AyaSaki",
+            "name_history": [
+                "AyaSaki"
+            ],
+            "registered": "Nov 25, 2025, 6:32:56 PM",
+            "role_id": 38174103118555180,
             "server_region": "ws_asia_01"
         },
         "38174103118555216": {
@@ -19678,6 +19710,22 @@
             ],
             "registered": "Nov 25, 2025, 7:58:53 PM",
             "role_id": 38174103118557414,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557417": {
+            "crew_id": 128857906981,
+            "crew_name": "DIVA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 138351.0,
+            "last_seen": 1764864906,
+            "level": 48,
+            "name": "Hysilens",
+            "name_history": [
+                "Hysilens"
+            ],
+            "registered": "Nov 25, 2025, 7:59:04 PM",
+            "role_id": 38174103118557417,
             "server_region": "ws_asia_01"
         },
         "38174103118557421": {
@@ -38661,9 +38709,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 134134.796875,
-            "last_seen": 1764547669,
-            "level": 44,
+            "hp": 193221.0,
+            "last_seen": 1764864906,
+            "level": 49,
             "name": "Chibii",
             "name_history": [
                 "Chibii"
@@ -41982,6 +42030,22 @@
             ],
             "registered": "Nov 28, 2025, 4:23:32 PM",
             "role_id": 38174103118580593,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118580619": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 315918.4375,
+            "last_seen": 1764864906,
+            "level": 50,
+            "name": "Finz",
+            "name_history": [
+                "Finz"
+            ],
+            "registered": "Nov 28, 2025, 4:35:09 PM",
+            "role_id": 38174103118580619,
             "server_region": "ws_asia_01"
         },
         "38174103118580623": {
@@ -46512,6 +46576,22 @@
             "role_id": 38174103118588166,
             "server_region": "ws_asia_01"
         },
+        "38174103118588183": {
+            "crew_id": 1335743717157,
+            "crew_name": "KR트러블",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 127011.203125,
+            "last_seen": 1764864906,
+            "level": 47,
+            "name": "배덕필",
+            "name_history": [
+                "배덕필"
+            ],
+            "registered": "Dec 1, 2025, 2:50:24 PM",
+            "role_id": 38174103118588183,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588222": {
             "crew_id": 459570388773,
             "crew_name": "低スペックチーム",
@@ -47665,8 +47745,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2979,
+    "accounts_total": 2984,
     "created": 1764092421,
-    "last_updated": 1764864846,
+    "last_updated": 1764864906,
     "server_region": "ws_asia_01"
 }
