@@ -6053,9 +6053,9 @@
             "crew_name": "Eissentam",
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;42",
             "gender": 0,
-            "hp": 328065.59375,
-            "last_seen": 1764813887,
-            "level": 49,
+            "hp": 330696.0,
+            "last_seen": 1764862504,
+            "level": 50,
             "name": "R A I Z E N",
             "name_history": [
                 "R A I Z E N"
@@ -24403,11 +24403,11 @@
         "38174103118559684": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 79145.1875,
-            "last_seen": 1764215656,
-            "level": 29,
+            "hp": 341121.8125,
+            "last_seen": 1764862504,
+            "level": 49,
             "name": "Oshi",
             "name_history": [
                 "Oshi"
@@ -45728,6 +45728,22 @@
             "role_id": 38174103118587800,
             "server_region": "ws_asia_01"
         },
+        "38174103118587894": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 175376.40625,
+            "last_seen": 1764862504,
+            "level": 48,
+            "name": "みーたん",
+            "name_history": [
+                "みーたん"
+            ],
+            "registered": "Dec 1, 2025, 10:11:58 AM",
+            "role_id": 38174103118587894,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587949": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
@@ -46961,8 +46977,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2935,
+    "accounts_total": 2936,
     "created": 1764092421,
-    "last_updated": 1764862444,
+    "last_updated": 1764862504,
     "server_region": "ws_asia_01"
 }
