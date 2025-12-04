@@ -309,9 +309,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
-            "hp": 306106.0,
-            "last_seen": 1764696872,
-            "level": 48,
+            "hp": 347788.96875,
+            "last_seen": 1764869252,
+            "level": 50,
             "name": "motsi",
             "name_history": [
                 "motsi"
@@ -5411,10 +5411,10 @@
         "38174103118546072": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "None",
             "gender": 1,
             "hp": 372000.0,
-            "last_seen": 1764865026,
+            "last_seen": 1764869252,
             "level": 50,
             "name": "クラリス",
             "name_history": [
@@ -15310,6 +15310,22 @@
             ],
             "registered": "Nov 25, 2025, 6:26:23 PM",
             "role_id": 38174103118555013,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555024": {
+            "crew_id": 141742808869,
+            "crew_name": "NoahArk",
+            "equipping_title": "1_1_10_3",
+            "gender": 1,
+            "hp": 347271.0,
+            "last_seen": 1764869252,
+            "level": 50,
+            "name": "ﾇっ",
+            "name_history": [
+                "ﾇっ"
+            ],
+            "registered": "Nov 25, 2025, 6:26:37 PM",
+            "role_id": 38174103118555024,
             "server_region": "ws_asia_01"
         },
         "38174103118555036": {
@@ -42644,13 +42660,13 @@
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 76002.0,
-            "last_seen": 1764385916,
-            "level": 25,
-            "name": "アンパン食べるマン",
+            "gender": 0,
+            "hp": 211848.0,
+            "last_seen": 1764869252,
+            "level": 50,
+            "name": "やさしいエクセキューター",
             "name_history": [
-                "アンパン食べるマン"
+                "やさしいエクセキューター"
             ],
             "registered": "Nov 28, 2025, 4:55:56 PM",
             "role_id": 38174103118580654,
@@ -48465,8 +48481,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3029,
+    "accounts_total": 3030,
     "created": 1764092421,
-    "last_updated": 1764869192,
+    "last_updated": 1764869252,
     "server_region": "ws_asia_01"
 }
