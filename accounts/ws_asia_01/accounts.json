@@ -1235,11 +1235,11 @@
         "38174103118545119": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 150151.265625,
-            "last_seen": 1764308988,
-            "level": 39,
+            "hp": 304967.46875,
+            "last_seen": 1764870033,
+            "level": 50,
             "name": "snooze",
             "name_history": [
                 "snooze"
@@ -13782,7 +13782,7 @@
             "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;17",
             "gender": 0,
             "hp": 357914.59375,
-            "last_seen": 1764864486,
+            "last_seen": 1764870033,
             "level": 50,
             "name": "rizu",
             "name_history": [
@@ -21169,13 +21169,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557894": {
-            "crew_id": 399440846629,
-            "crew_name": "LufusIntegra",
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 294415.8125,
-            "last_seen": 1764696872,
-            "level": 48,
+            "hp": 327835.03125,
+            "last_seen": 1764870033,
+            "level": 50,
             "name": "Lumina_",
             "name_history": [
                 "Lumina_"
@@ -31150,6 +31150,22 @@
             ],
             "registered": "Nov 26, 2025, 1:52:41 AM",
             "role_id": 38174103118563978,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563983": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 70877.0,
+            "last_seen": 1764870033,
+            "level": 20,
+            "name": "Astraea",
+            "name_history": [
+                "Astraea"
+            ],
+            "registered": "Nov 26, 2025, 1:53:23 AM",
+            "role_id": 38174103118563983,
             "server_region": "ws_asia_01"
         },
         "38174103118563993": {
@@ -42437,9 +42453,9 @@
             "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 235277.390625,
-            "last_seen": 1764529395,
-            "level": 44,
+            "hp": 333408.0,
+            "last_seen": 1764870033,
+            "level": 50,
             "name": "夜鳥",
             "name_history": [
                 "夜鳥"
@@ -48545,8 +48561,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3034,
+    "accounts_total": 3035,
     "created": 1764092421,
-    "last_updated": 1764869973,
+    "last_updated": 1764870033,
     "server_region": "ws_asia_01"
 }
