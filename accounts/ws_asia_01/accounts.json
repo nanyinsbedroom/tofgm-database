@@ -2851,11 +2851,11 @@
         "38174103118545436": {
             "crew_id": 73023332133,
             "crew_name": "Teyvat",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;58",
             "gender": 1,
-            "hp": 79378.0,
-            "last_seen": 1764128330,
-            "level": 22,
+            "hp": 120890.40625,
+            "last_seen": 1764863585,
+            "level": 47,
             "name": "VN_Fury",
             "name_history": [
                 "VN_Fury"
@@ -26689,13 +26689,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118561185": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 78821.0,
-            "last_seen": 1764117784,
-            "level": 17,
+            "hp": 339989.40625,
+            "last_seen": 1764863585,
+            "level": 50,
             "name": "毛根な時間。",
             "name_history": [
                 "毛根な時間。"
@@ -41344,6 +41344,22 @@
             "role_id": 38174103118580267,
             "server_region": "ws_asia_01"
         },
+        "38174103118580284": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 130321.203125,
+            "last_seen": 1764863585,
+            "level": 49,
+            "name": "Sansamida",
+            "name_history": [
+                "Sansamida"
+            ],
+            "registered": "Nov 28, 2025, 1:39:19 PM",
+            "role_id": 38174103118580284,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580321": {
             "crew_id": 0,
             "crew_name": "",
@@ -46913,16 +46929,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118590732": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 127086.0,
-            "last_seen": 1764809515,
-            "level": 36,
-            "name": "奇迹",
+            "hp": 122616.7578125,
+            "last_seen": 1764863585,
+            "level": 48,
+            "name": "Panadol",
             "name_history": [
-                "奇迹"
+                "Panadol"
             ],
             "registered": "Dec 3, 2025, 1:24:01 PM",
             "role_id": 38174103118590732,
@@ -47089,8 +47105,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 2943,
+    "accounts_total": 2944,
     "created": 1764092421,
-    "last_updated": 1764863465,
+    "last_updated": 1764863585,
     "server_region": "ws_asia_01"
 }
