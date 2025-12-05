@@ -835,11 +835,11 @@
         "38174103118545035": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 75615.0,
-            "last_seen": 1764103273,
-            "level": 22,
+            "hp": 356467.0,
+            "last_seen": 1764965113,
+            "level": 51,
             "name": "Shonya",
             "name_history": [
                 "Shonya"
@@ -2398,6 +2398,22 @@
             ],
             "registered": "Nov 25, 2025, 5:02:46 PM",
             "role_id": 38174103118545315,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545316": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 98079.796875,
+            "last_seen": 1764965113,
+            "level": 42,
+            "name": "収穫のメリー",
+            "name_history": [
+                "収穫のメリー"
+            ],
+            "registered": "Nov 25, 2025, 5:02:47 PM",
+            "role_id": 38174103118545316,
             "server_region": "ws_asia_01"
         },
         "38174103118545317": {
@@ -38192,6 +38208,22 @@
             "role_id": 38174103118570665,
             "server_region": "ws_asia_01"
         },
+        "38174103118570672": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 275020.1875,
+            "last_seen": 1764965113,
+            "level": 49,
+            "name": "Maia",
+            "name_history": [
+                "Maia"
+            ],
+            "registered": "Nov 26, 2025, 8:02:54 PM",
+            "role_id": 38174103118570672,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570685": {
             "crew_id": 442390519589,
             "crew_name": "NoVa",
@@ -38430,6 +38462,22 @@
             ],
             "registered": "Nov 26, 2025, 8:50:53 PM",
             "role_id": 38174103118571004,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571038": {
+            "crew_id": 227642154789,
+            "crew_name": "くまたん！",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 122122.796875,
+            "last_seen": 1764965113,
+            "level": 50,
+            "name": "くだん",
+            "name_history": [
+                "くだん"
+            ],
+            "registered": "Nov 26, 2025, 8:54:44 PM",
+            "role_id": 38174103118571038,
             "server_region": "ws_asia_01"
         },
         "38174103118571079": {
@@ -50945,8 +50993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3184,
+    "accounts_total": 3187,
     "created": 1764092421,
-    "last_updated": 1764965053,
+    "last_updated": 1764965113,
     "server_region": "ws_asia_01"
 }
