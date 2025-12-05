@@ -4997,9 +4997,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 357860.59375,
-            "last_seen": 1764865086,
-            "level": 50,
+            "hp": 370983.0,
+            "last_seen": 1764979954,
+            "level": 51,
             "name": "MezzO",
             "name_history": [
                 "MezzO"
@@ -33520,6 +33520,22 @@
             "role_id": 38174103118564808,
             "server_region": "ws_asia_01"
         },
+        "38174103118564825": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 365706.21875,
+            "last_seen": 1764979954,
+            "level": 51,
+            "name": "Cresent",
+            "name_history": [
+                "Cresent"
+            ],
+            "registered": "Nov 26, 2025, 3:31:39 AM",
+            "role_id": 38174103118564825,
+            "server_region": "ws_asia_01"
+        },
         "38174103118564830": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
@@ -51265,8 +51281,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3204,
+    "accounts_total": 3205,
     "created": 1764092421,
-    "last_updated": 1764979654,
+    "last_updated": 1764979954,
     "server_region": "ws_asia_01"
 }
