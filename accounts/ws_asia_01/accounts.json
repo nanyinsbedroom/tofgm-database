@@ -22405,9 +22405,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 127676.390625,
-            "last_seen": 1764430529,
-            "level": 42,
+            "hp": 300179.625,
+            "last_seen": 1764958053,
+            "level": 51,
             "name": "Tenebris",
             "name_history": [
                 "Tenebris"
@@ -24256,6 +24256,22 @@
             "role_id": 38174103118559015,
             "server_region": "ws_asia_01"
         },
+        "38174103118559039": {
+            "crew_id": 377966010149,
+            "crew_name": "ユートピア",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 268048.8125,
+            "last_seen": 1764958053,
+            "level": 50,
+            "name": "hirorin2",
+            "name_history": [
+                "hirorin2"
+            ],
+            "registered": "Nov 25, 2025, 9:06:17 PM",
+            "role_id": 38174103118559039,
+            "server_region": "ws_asia_01"
+        },
         "38174103118559040": {
             "crew_id": 12893789989,
             "crew_name": "StarDust",
@@ -25157,9 +25173,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 142698.8125,
-            "last_seen": 1764359462,
-            "level": 36,
+            "hp": 249292.421875,
+            "last_seen": 1764958053,
+            "level": 51,
             "name": "Anya",
             "name_history": [
                 "Anya"
@@ -28190,6 +28206,22 @@
             ],
             "registered": "Nov 25, 2025, 10:51:50 PM",
             "role_id": 38174103118561249,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561254": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 143689.609375,
+            "last_seen": 1764958053,
+            "level": 42,
+            "name": "Fula",
+            "name_history": [
+                "Fula"
+            ],
+            "registered": "Nov 25, 2025, 10:52:03 PM",
+            "role_id": 38174103118561254,
             "server_region": "ws_asia_01"
         },
         "38174103118561261": {
@@ -38145,13 +38177,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118571003": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 117685.6015625,
-            "last_seen": 1764270435,
-            "level": 34,
+            "hp": 332371.0,
+            "last_seen": 1764958053,
+            "level": 50,
             "name": "Abraxos",
             "name_history": [
                 "Abraxos"
@@ -46848,6 +46880,22 @@
             "role_id": 38174103118584118,
             "server_region": "ws_asia_01"
         },
+        "38174103118584138": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79935.0,
+            "last_seen": 1764958053,
+            "level": 27,
+            "name": "マニィ",
+            "name_history": [
+                "マニィ"
+            ],
+            "registered": "Nov 29, 2025, 7:26:36 PM",
+            "role_id": 38174103118584138,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584139": {
             "crew_id": 0,
             "crew_name": "",
@@ -50545,8 +50593,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3159,
+    "accounts_total": 3162,
     "created": 1764092421,
-    "last_updated": 1764957993,
+    "last_updated": 1764958053,
     "server_region": "ws_asia_01"
 }
