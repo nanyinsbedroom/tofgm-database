@@ -13349,9 +13349,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 103489.203125,
-            "last_seen": 1764528194,
-            "level": 43,
+            "hp": 231720.0,
+            "last_seen": 1764984976,
+            "level": 49,
             "name": "Lumiere",
             "name_history": [
                 "Lumiere"
@@ -22862,6 +22862,22 @@
             ],
             "registered": "Nov 25, 2025, 8:33:51 PM",
             "role_id": 38174103118558249,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558250": {
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;64",
+            "gender": 1,
+            "hp": 201657.40625,
+            "last_seen": 1764984976,
+            "level": 50,
+            "name": "InoriYuzuriha",
+            "name_history": [
+                "InoriYuzuriha"
+            ],
+            "registered": "Nov 25, 2025, 8:34:00 PM",
+            "role_id": 38174103118558250,
             "server_region": "ws_asia_01"
         },
         "38174103118558252": {
@@ -51393,8 +51409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3212,
+    "accounts_total": 3213,
     "created": 1764092421,
-    "last_updated": 1764984916,
+    "last_updated": 1764984976,
     "server_region": "ws_asia_01"
 }
