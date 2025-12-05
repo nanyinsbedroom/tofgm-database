@@ -5429,9 +5429,9 @@
             "crew_name": "たまめいと",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 201141.203125,
-            "last_seen": 1764714239,
-            "level": 48,
+            "hp": 204654.8125,
+            "last_seen": 1764957873,
+            "level": 49,
             "name": "おゆ",
             "name_history": [
                 "おゆ"
@@ -13205,9 +13205,9 @@
             "crew_name": "EROGE",
             "equipping_title": "WorldBossDamage_4;boss_hum_053_world;79",
             "gender": 0,
-            "hp": 180897.8125,
-            "last_seen": 1764707501,
-            "level": 46,
+            "hp": 188386.40625,
+            "last_seen": 1764957873,
+            "level": 48,
             "name": "SoNicSiZer",
             "name_history": [
                 "SoNicSiZer"
@@ -20595,11 +20595,11 @@
         "38174103118557442": {
             "crew_id": 73023332133,
             "crew_name": "Teyvat",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 59327.0,
-            "last_seen": 1764112991,
-            "level": 22,
+            "hp": 206296.40625,
+            "last_seen": 1764957873,
+            "level": 50,
             "name": "Candy",
             "name_history": [
                 "Candy"
@@ -27486,6 +27486,22 @@
             ],
             "registered": "Nov 25, 2025, 10:27:28 PM",
             "role_id": 38174103118560783,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560785": {
+            "crew_id": 1670751166245,
+            "crew_name": "すてらぶりれ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 319311.0,
+            "last_seen": 1764957873,
+            "level": 51,
+            "name": "しゃけ",
+            "name_history": [
+                "しゃけ"
+            ],
+            "registered": "Nov 25, 2025, 10:27:30 PM",
+            "role_id": 38174103118560785,
             "server_region": "ws_asia_01"
         },
         "38174103118560788": {
@@ -36101,9 +36117,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 292914.0,
-            "last_seen": 1764707501,
-            "level": 47,
+            "hp": 354008.40625,
+            "last_seen": 1764957873,
+            "level": 51,
             "name": "Knighty",
             "name_history": [
                 "Knighty"
@@ -50481,8 +50497,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3155,
+    "accounts_total": 3156,
     "created": 1764092421,
-    "last_updated": 1764957813,
+    "last_updated": 1764957873,
     "server_region": "ws_asia_01"
 }
