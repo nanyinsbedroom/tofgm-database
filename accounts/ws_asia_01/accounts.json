@@ -6961,13 +6961,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546437": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;64",
             "gender": 0,
-            "hp": 174826.578125,
-            "last_seen": 1764482803,
-            "level": 43,
+            "hp": 320421.0625,
+            "last_seen": 1764998705,
+            "level": 50,
             "name": "ELZIEL",
             "name_history": [
                 "ELZIEL"
@@ -43136,6 +43136,22 @@
             "role_id": 38174103118578405,
             "server_region": "ws_asia_01"
         },
+        "38174103118578486": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38212.08984375,
+            "last_seen": 1764998705,
+            "level": 39,
+            "name": "Natallie",
+            "name_history": [
+                "Natallie"
+            ],
+            "registered": "Nov 27, 2025, 10:46:04 PM",
+            "role_id": 38174103118578486,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578487": {
             "crew_id": 0,
             "crew_name": "",
@@ -49152,6 +49168,22 @@
             "role_id": 38174103118586941,
             "server_region": "ws_asia_01"
         },
+        "38174103118586950": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 177881.0,
+            "last_seen": 1764998705,
+            "level": 50,
+            "name": "せんべい",
+            "name_history": [
+                "せんべい"
+            ],
+            "registered": "Nov 30, 2025, 9:45:51 PM",
+            "role_id": 38174103118586950,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586970": {
             "crew_id": 0,
             "crew_name": "",
@@ -51521,8 +51553,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3220,
+    "accounts_total": 3222,
     "created": 1764092421,
-    "last_updated": 1764998645,
+    "last_updated": 1764998705,
     "server_region": "ws_asia_01"
 }
