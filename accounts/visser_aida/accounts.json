@@ -1570,6 +1570,22 @@
             "role_id": 60567630862517,
             "server_region": "visser_aida"
         },
+        "60567630862640": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2944.466064453125,
+            "last_seen": 1764967627,
+            "level": 12,
+            "name": "独孤邪",
+            "name_history": [
+                "独孤邪"
+            ],
+            "registered": "2025年9月11日 下午5:13:29",
+            "role_id": 60567630862640,
+            "server_region": "visser_aida"
+        },
         "60567630862687": {
             "crew_id": 0,
             "crew_name": "",
@@ -1808,9 +1824,15 @@
         "60571923815083": {
             "crew_id": 1039382099740,
             "crew_name": "花涧",
+            "equipping_title": "聪明又可爱的导师,0",
             "gender": 1,
-            "last_seen": 1759645810,
-            "name": "小气饱",
+            "hp": 1863783.75,
+            "last_seen": 1764967627,
+            "level": 100,
+            "name": "梨薇露",
+            "name_history": [
+                "梨薇露"
+            ],
             "registered": "2021年12月18日 上午5:38:42",
             "role_id": 60571923815083,
             "server_region": "visser_aida"
@@ -8805,8 +8827,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 701,
+    "accounts_total": 702,
     "created": 1758086949,
-    "last_updated": 1764967507,
+    "last_updated": 1764967627,
     "server_region": "visser_aida"
 }
