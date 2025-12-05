@@ -9685,9 +9685,9 @@
             "crew_name": "EIN",
             "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;52",
             "gender": 1,
-            "hp": 170321.109375,
-            "last_seen": 1764731285,
-            "level": 48,
+            "hp": 369857.0,
+            "last_seen": 1765000307,
+            "level": 52,
             "name": "Rhyna",
             "name_history": [
                 "Rhyna"
@@ -9717,9 +9717,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 230167.203125,
-            "last_seen": 1764384234,
-            "level": 39,
+            "hp": 372230.40625,
+            "last_seen": 1765000307,
+            "level": 52,
             "name": "ash",
             "name_history": [
                 "ash"
@@ -15134,6 +15134,22 @@
             ],
             "registered": "Nov 25, 2025, 6:13:56 PM",
             "role_id": 38174103118554576,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554583": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 341356.78125,
+            "last_seen": 1765000307,
+            "level": 52,
+            "name": "MaoMao.",
+            "name_history": [
+                "MaoMao."
+            ],
+            "registered": "Nov 25, 2025, 6:14:04 PM",
+            "role_id": 38174103118554583,
             "server_region": "ws_asia_01"
         },
         "38174103118554585": {
@@ -51761,8 +51777,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3235,
+    "accounts_total": 3236,
     "created": 1764092421,
-    "last_updated": 1765000247,
+    "last_updated": 1765000307,
     "server_region": "ws_asia_01"
 }
