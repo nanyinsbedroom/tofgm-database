@@ -2229,9 +2229,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 361352.0,
-            "last_seen": 1764803334,
-            "level": 49,
+            "hp": 379315.0,
+            "last_seen": 1764967275,
+            "level": 51,
             "name": "Dwin",
             "name_history": [
                 "Dwin"
@@ -2757,9 +2757,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 239265.0,
-            "last_seen": 1764705000,
-            "level": 46,
+            "hp": 355832.40625,
+            "last_seen": 1764967275,
+            "level": 50,
             "name": "Snow Ais",
             "name_history": [
                 "Snow Ais"
@@ -4398,6 +4398,22 @@
             ],
             "registered": "Nov 25, 2025, 5:04:36 PM",
             "role_id": 38174103118545724,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545729": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 223500.390625,
+            "last_seen": 1764967275,
+            "level": 50,
+            "name": "Keya",
+            "name_history": [
+                "Keya"
+            ],
+            "registered": "Nov 25, 2025, 5:04:39 PM",
+            "role_id": 38174103118545729,
             "server_region": "ws_asia_01"
         },
         "38174103118545732": {
@@ -7875,11 +7891,11 @@
         "38174103118546716": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_053_world;56",
             "gender": 1,
-            "hp": 1493710.875,
-            "last_seen": 1764269474,
-            "level": 34,
+            "hp": 372864.0,
+            "last_seen": 1764967275,
+            "level": 51,
             "name": "VoxZ",
             "name_history": [
                 "VoxZ"
@@ -51025,8 +51041,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3189,
+    "accounts_total": 3190,
     "created": 1764092421,
-    "last_updated": 1764965774,
+    "last_updated": 1764967275,
     "server_region": "ws_asia_01"
 }
