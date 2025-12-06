@@ -40533,9 +40533,9 @@
             "crew_name": "Fractsidus",
             "equipping_title": "WorldBossDamage_3;Boss_hum_015_Sand_world;29",
             "gender": 0,
-            "hp": 334651.8125,
-            "last_seen": 1764875073,
-            "level": 50,
+            "hp": 375662.0,
+            "last_seen": 1765075832,
+            "level": 52,
             "name": "Kroniichiwa",
             "name_history": [
                 "Kroniichiwa"
@@ -54384,6 +54384,22 @@
             "role_id": 38174103118593505,
             "server_region": "ws_asia_01"
         },
+        "38174103118593595": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71295.0,
+            "last_seen": 1765075832,
+            "level": 17,
+            "name": "リタっち",
+            "name_history": [
+                "リタっち"
+            ],
+            "registered": "Dec 6, 2025, 4:52:59 PM",
+            "role_id": 38174103118593595,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593598": {
             "crew_id": 0,
             "crew_name": "",
@@ -54561,8 +54577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3410,
+    "accounts_total": 3411,
     "created": 1764092421,
-    "last_updated": 1765075712,
+    "last_updated": 1765075832,
     "server_region": "ws_asia_01"
 }
