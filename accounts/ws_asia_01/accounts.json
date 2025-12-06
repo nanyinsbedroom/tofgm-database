@@ -7747,11 +7747,11 @@
         "38174103118546643": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 189207.609375,
-            "last_seen": 1764432030,
-            "level": 42,
+            "hp": 355547.40625,
+            "last_seen": 1765064515,
+            "level": 52,
             "name": "Lori.",
             "name_history": [
                 "Lori."
@@ -20961,13 +20961,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557414": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 72819.0,
-            "last_seen": 1764117604,
-            "level": 22,
+            "hp": 383567.0,
+            "last_seen": 1765064515,
+            "level": 52,
             "name": "Gitsblaw",
             "name_history": [
                 "Gitsblaw"
@@ -31494,7 +31494,7 @@
             "equipping_title": "WorldBossDamage_3;boss_hum_053_world;17",
             "gender": 1,
             "hp": 275057.4375,
-            "last_seen": 1765057479,
+            "last_seen": 1765064515,
             "level": 51,
             "name": "Reaanz",
             "name_history": [
@@ -38126,6 +38126,22 @@
             ],
             "registered": "Nov 26, 2025, 5:18:39 PM",
             "role_id": 38174103118569668,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118569670": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 360693.625,
+            "last_seen": 1765064515,
+            "level": 52,
+            "name": "ɳïmҽ",
+            "name_history": [
+                "ɳïmҽ"
+            ],
+            "registered": "Nov 26, 2025, 5:19:18 PM",
+            "role_id": 38174103118569670,
             "server_region": "ws_asia_01"
         },
         "38174103118569705": {
@@ -47360,6 +47376,22 @@
             "role_id": 38174103118582868,
             "server_region": "ws_asia_01"
         },
+        "38174103118582884": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 357376.8125,
+            "last_seen": 1765064515,
+            "level": 52,
+            "name": "Beryls",
+            "name_history": [
+                "Beryls"
+            ],
+            "registered": "Nov 29, 2025, 9:48:59 AM",
+            "role_id": 38174103118582884,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582892": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
@@ -52689,8 +52721,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3293,
+    "accounts_total": 3295,
     "created": 1764092421,
-    "last_updated": 1765064455,
+    "last_updated": 1765064515,
     "server_region": "ws_asia_01"
 }
