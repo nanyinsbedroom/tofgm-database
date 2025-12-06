@@ -8373,9 +8373,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 375820.0,
-            "last_seen": 1764968468,
-            "level": 51,
+            "hp": 381953.0,
+            "last_seen": 1765044023,
+            "level": 52,
             "name": "Misago",
             "name_history": [
                 "Misago"
@@ -11843,11 +11843,11 @@
         "38174103118551307": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 313971.21875,
-            "last_seen": 1764798257,
-            "level": 49,
+            "hp": 327307.8125,
+            "last_seen": 1765044023,
+            "level": 52,
             "name": "Regrett",
             "name_history": [
                 "Regrett"
@@ -33909,9 +33909,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 337439.8125,
-            "last_seen": 1764864426,
-            "level": 50,
+            "hp": 365410.40625,
+            "last_seen": 1765044023,
+            "level": 52,
             "name": "ZooloIN",
             "name_history": [
                 "ZooloIN"
@@ -48896,6 +48896,22 @@
             "role_id": 38174103118586163,
             "server_region": "ws_asia_01"
         },
+        "38174103118586185": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 130218.1953125,
+            "last_seen": 1765044023,
+            "level": 52,
+            "name": "付喪",
+            "name_history": [
+                "付喪"
+            ],
+            "registered": "Nov 30, 2025, 3:07:20 PM",
+            "role_id": 38174103118586185,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586208": {
             "crew_id": 0,
             "crew_name": "",
@@ -51937,8 +51953,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3246,
+    "accounts_total": 3247,
     "created": 1764092421,
-    "last_updated": 1765043963,
+    "last_updated": 1765044023,
     "server_region": "ws_asia_01"
 }
