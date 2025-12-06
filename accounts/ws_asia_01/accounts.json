@@ -21392,6 +21392,22 @@
             "role_id": 38174103118557466,
             "server_region": "ws_asia_01"
         },
+        "38174103118557481": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 144192.921875,
+            "last_seen": 1765068080,
+            "level": 49,
+            "name": "Ruri",
+            "name_history": [
+                "Ruri"
+            ],
+            "registered": "Nov 25, 2025, 8:01:42 PM",
+            "role_id": 38174103118557481,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557486": {
             "crew_id": 0,
             "crew_name": "",
@@ -48469,9 +48485,9 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 119237.0,
-            "last_seen": 1764714419,
-            "level": 42,
+            "hp": 95118.0546875,
+            "last_seen": 1765068080,
+            "level": 50,
             "name": "Esprimo",
             "name_history": [
                 "Esprimo"
@@ -49214,6 +49230,22 @@
             ],
             "registered": "Nov 29, 2025, 9:36:57 PM",
             "role_id": 38174103118584441,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118584446": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 86084.25,
+            "last_seen": 1765068080,
+            "level": 51,
+            "name": "夜鳶",
+            "name_history": [
+                "夜鳶"
+            ],
+            "registered": "Nov 29, 2025, 9:40:17 PM",
+            "role_id": 38174103118584446,
             "server_region": "ws_asia_01"
         },
         "38174103118584456": {
@@ -53809,8 +53841,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3363,
+    "accounts_total": 3365,
     "created": 1764092421,
-    "last_updated": 1765067960,
+    "last_updated": 1765068080,
     "server_region": "ws_asia_01"
 }
