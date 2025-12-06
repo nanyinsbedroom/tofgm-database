@@ -5125,9 +5125,9 @@
             "crew_name": "Scarface",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 286414.0,
-            "last_seen": 1764692775,
-            "level": 48,
+            "hp": 341118.1875,
+            "last_seen": 1765057539,
+            "level": 52,
             "name": "Mizuha",
             "name_history": [
                 "Mizuha"
@@ -26565,9 +26565,9 @@
             "crew_name": "Scarface",
             "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;60",
             "gender": 1,
-            "hp": 350169.0,
-            "last_seen": 1764945001,
-            "level": 51,
+            "hp": 371930.59375,
+            "last_seen": 1765057539,
+            "level": 52,
             "name": "Beanbuns",
             "name_history": [
                 "Beanbuns"
@@ -52191,10 +52191,26 @@
             "registered": "Dec 6, 2025, 1:59:44 PM",
             "role_id": 38174103118593446,
             "server_region": "ws_asia_01"
+        },
+        "38174103118593598": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16704.0,
+            "last_seen": 1765057539,
+            "level": 11,
+            "name": "さち∞",
+            "name_history": [
+                "さち∞"
+            ],
+            "registered": "Dec 6, 2025, 4:54:21 PM",
+            "role_id": 38174103118593598,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3262,
+    "accounts_total": 3263,
     "created": 1764092421,
-    "last_updated": 1765057479,
+    "last_updated": 1765057539,
     "server_region": "ws_asia_01"
 }
