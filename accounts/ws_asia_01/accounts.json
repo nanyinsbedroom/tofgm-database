@@ -19062,7 +19062,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 328360.8125,
-            "last_seen": 1765057419,
+            "last_seen": 1765064636,
             "level": 52,
             "name": "Kirika",
             "name_history": [
@@ -20814,6 +20814,22 @@
             ],
             "registered": "Nov 25, 2025, 7:54:48 PM",
             "role_id": 38174103118557311,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557322": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 286132.0,
+            "last_seen": 1765064636,
+            "level": 51,
+            "name": "Ironman",
+            "name_history": [
+                "Ironman"
+            ],
+            "registered": "Nov 25, 2025, 7:55:09 PM",
+            "role_id": 38174103118557322,
             "server_region": "ws_asia_01"
         },
         "38174103118557326": {
@@ -41952,6 +41968,22 @@
             "role_id": 38174103118575774,
             "server_region": "ws_asia_01"
         },
+        "38174103118575777": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 362706.0,
+            "last_seen": 1765064636,
+            "level": 52,
+            "name": "刻晴",
+            "name_history": [
+                "刻晴"
+            ],
+            "registered": "Nov 27, 2025, 8:04:22 AM",
+            "role_id": 38174103118575777,
+            "server_region": "ws_asia_01"
+        },
         "38174103118575784": {
             "crew_id": 0,
             "crew_name": "",
@@ -52769,8 +52801,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3298,
+    "accounts_total": 3300,
     "created": 1764092421,
-    "last_updated": 1765064575,
+    "last_updated": 1765064636,
     "server_region": "ws_asia_01"
 }
