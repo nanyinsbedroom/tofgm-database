@@ -16502,7 +16502,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 366256.0,
-            "last_seen": 1765064335,
+            "last_seen": 1765072054,
             "level": 52,
             "name": "霧凛",
             "name_history": [
@@ -28021,9 +28021,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 127008.0078125,
-            "last_seen": 1764380871,
-            "level": 38,
+            "hp": 315769.4375,
+            "last_seen": 1765072054,
+            "level": 51,
             "name": "ZarBon",
             "name_history": [
                 "ZarBon"
@@ -37248,6 +37248,22 @@
             "role_id": 38174103118567551,
             "server_region": "ws_asia_01"
         },
+        "38174103118567585": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 370449.0,
+            "last_seen": 1765072054,
+            "level": 52,
+            "name": "Keparta",
+            "name_history": [
+                "Keparta"
+            ],
+            "registered": "Nov 26, 2025, 12:00:03 PM",
+            "role_id": 38174103118567585,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567589": {
             "crew_id": 163217645349,
             "crew_name": "Scarface",
@@ -43652,10 +43668,10 @@
             "crew_id": 1288499076901,
             "crew_name": "SCARLETBLAZE",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 140427.59375,
-            "last_seen": 1764729767,
-            "level": 45,
+            "gender": 0,
+            "hp": 245889.984375,
+            "last_seen": 1765072054,
+            "level": 51,
             "name": "FEINARY",
             "name_history": [
                 "FEINARY"
@@ -53985,8 +54001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3374,
+    "accounts_total": 3375,
     "created": 1764092421,
-    "last_updated": 1765071994,
+    "last_updated": 1765072054,
     "server_region": "ws_asia_01"
 }
