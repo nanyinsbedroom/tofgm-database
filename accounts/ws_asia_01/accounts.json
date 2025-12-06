@@ -3793,13 +3793,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545576": {
-            "crew_id": 214757252901,
-            "crew_name": "幻塔の星騎士",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 170665.203125,
-            "last_seen": 1764527113,
-            "level": 43,
+            "hp": 286301.0,
+            "last_seen": 1765067600,
+            "level": 51,
             "name": "Donden",
             "name_history": [
                 "Donden"
@@ -22243,11 +22243,11 @@
         "38174103118557816": {
             "crew_id": 352196206373,
             "crew_name": "ミッドナイト",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;42",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 291919.8125,
-            "last_seen": 1764714839,
-            "level": 48,
+            "hp": 376684.0,
+            "last_seen": 1765067600,
+            "level": 52,
             "name": "TwT",
             "name_history": [
                 "TwT"
@@ -36432,6 +36432,22 @@
             "role_id": 38174103118566662,
             "server_region": "ws_asia_01"
         },
+        "38174103118566674": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 264141.0,
+            "last_seen": 1765067600,
+            "level": 50,
+            "name": "Kyna",
+            "name_history": [
+                "Kyna"
+            ],
+            "registered": "Nov 26, 2025, 9:39:27 AM",
+            "role_id": 38174103118566674,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566686": {
             "crew_id": 1086635613989,
             "crew_name": "แม่เรียกกินข้าว",
@@ -41078,7 +41094,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 286724.0,
-            "last_seen": 1764958173,
+            "last_seen": 1765067600,
             "level": 49,
             "name": "Toks",
             "name_history": [
@@ -53633,8 +53649,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3352,
+    "accounts_total": 3353,
     "created": 1764092421,
-    "last_updated": 1765067480,
+    "last_updated": 1765067600,
     "server_region": "ws_asia_01"
 }
