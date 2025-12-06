@@ -10819,11 +10819,11 @@
         "38174103118549916": {
             "crew_id": 163217645349,
             "crew_name": "Scarface",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;93",
             "gender": 1,
-            "hp": 168774.796875,
-            "last_seen": 1764547729,
-            "level": 43,
+            "hp": 318027.625,
+            "last_seen": 1765074581,
+            "level": 51,
             "name": "EnCiel",
             "name_history": [
                 "EnCiel"
@@ -12958,6 +12958,22 @@
             ],
             "registered": "Nov 25, 2025, 5:47:38 PM",
             "role_id": 38174103118552792,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118552808": {
+            "crew_id": 1189714829093,
+            "crew_name": "ムーンライトスピード",
+            "equipping_title": "2_2_0_31",
+            "gender": 1,
+            "hp": 370610.0,
+            "last_seen": 1765074581,
+            "level": 52,
+            "name": "なちょねぷさん",
+            "name_history": [
+                "なちょねぷさん"
+            ],
+            "registered": "Nov 25, 2025, 5:47:44 PM",
+            "role_id": 38174103118552808,
             "server_region": "ws_asia_01"
         },
         "38174103118552895": {
@@ -51216,6 +51232,22 @@
             "role_id": 38174103118587166,
             "server_region": "ws_asia_01"
         },
+        "38174103118587175": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1765074581,
+            "level": 4,
+            "name": "セルレニア",
+            "name_history": [
+                "セルレニア"
+            ],
+            "registered": "Nov 30, 2025, 11:43:11 PM",
+            "role_id": 38174103118587175,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587191": {
             "crew_id": 0,
             "crew_name": "",
@@ -54383,10 +54415,26 @@
             "registered": "Dec 7, 2025, 12:13:04 AM",
             "role_id": 38174103118593960,
             "server_region": "ws_asia_01"
+        },
+        "38174103118594050": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 35190.0,
+            "last_seen": 1765074581,
+            "level": 9,
+            "name": "GGNon",
+            "name_history": [
+                "GGNon"
+            ],
+            "registered": "Dec 7, 2025, 1:42:28 AM",
+            "role_id": 38174103118594050,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3399,
+    "accounts_total": 3402,
     "created": 1764092421,
-    "last_updated": 1765074521,
+    "last_updated": 1765074581,
     "server_region": "ws_asia_01"
 }
