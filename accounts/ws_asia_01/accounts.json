@@ -17505,13 +17505,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118555718": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 76725.0,
-            "last_seen": 1764112393,
-            "level": 17,
+            "hp": 245621.40625,
+            "last_seen": 1765067720,
+            "level": 49,
             "name": "Izagami",
             "name_history": [
                 "Izagami"
@@ -29749,9 +29749,9 @@
             "crew_name": "BATTALION 57",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 292699.21875,
-            "last_seen": 1764811215,
-            "level": 49,
+            "hp": 219168.75,
+            "last_seen": 1765067720,
+            "level": 52,
             "name": "Twizzing",
             "name_history": [
                 "Twizzing"
@@ -32421,9 +32421,9 @@
             "crew_name": "Zombies",
             "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;87",
             "gender": 1,
-            "hp": 271086.0,
-            "last_seen": 1764796395,
-            "level": 48,
+            "hp": 324150.4375,
+            "last_seen": 1765067720,
+            "level": 51,
             "name": "DarknessMOMO",
             "name_history": [
                 "DarknessMOMO"
@@ -39662,6 +39662,22 @@
             ],
             "registered": "Nov 26, 2025, 8:50:53 PM",
             "role_id": 38174103118571004,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571010": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 296674.8125,
+            "last_seen": 1765067720,
+            "level": 52,
+            "name": "Nein",
+            "name_history": [
+                "Nein"
+            ],
+            "registered": "Nov 26, 2025, 8:51:51 PM",
+            "role_id": 38174103118571010,
             "server_region": "ws_asia_01"
         },
         "38174103118571038": {
@@ -53665,8 +53681,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3354,
+    "accounts_total": 3355,
     "created": 1764092421,
-    "last_updated": 1765067660,
+    "last_updated": 1765067720,
     "server_region": "ws_asia_01"
 }
