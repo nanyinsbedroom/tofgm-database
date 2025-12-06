@@ -2723,11 +2723,11 @@
         "38174103118545358": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 371549.28125,
-            "last_seen": 1764986357,
-            "level": 51,
+            "hp": 375879.0,
+            "last_seen": 1765063495,
+            "level": 52,
             "name": "GTtron",
             "name_history": [
                 "GTtron"
@@ -51568,6 +51568,22 @@
             "role_id": 38174103118590821,
             "server_region": "ws_asia_01"
         },
+        "38174103118590837": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176421.0,
+            "last_seen": 1765063495,
+            "level": 50,
+            "name": "Kanamin",
+            "name_history": [
+                "Kanamin"
+            ],
+            "registered": "Dec 3, 2025, 3:21:09 PM",
+            "role_id": 38174103118590837,
+            "server_region": "ws_asia_01"
+        },
         "38174103118590891": {
             "crew_id": 0,
             "crew_name": "",
@@ -52385,8 +52401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3274,
+    "accounts_total": 3275,
     "created": 1764092421,
-    "last_updated": 1765063435,
+    "last_updated": 1765063495,
     "server_region": "ws_asia_01"
 }
