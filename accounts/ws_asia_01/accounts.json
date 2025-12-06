@@ -1957,9 +1957,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 282273.0,
-            "last_seen": 1764871770,
-            "level": 50,
+            "hp": 322891.40625,
+            "last_seen": 1765055233,
+            "level": 52,
             "name": "レヴィアタン",
             "name_history": [
                 "レヴィアタン"
@@ -28869,9 +28869,9 @@
             "crew_name": "Library",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 270145.21875,
-            "last_seen": 1764809995,
-            "level": 48,
+            "hp": 337787.21875,
+            "last_seen": 1765055233,
+            "level": 51,
             "name": "Lancia Atone",
             "name_history": [
                 "Lancia Atone"
@@ -41728,6 +41728,22 @@
             "role_id": 38174103118575984,
             "server_region": "ws_asia_01"
         },
+        "38174103118576013": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43793.0,
+            "last_seen": 1765055233,
+            "level": 9,
+            "name": "イージス",
+            "name_history": [
+                "イージス"
+            ],
+            "registered": "Nov 27, 2025, 9:28:11 AM",
+            "role_id": 38174103118576013,
+            "server_region": "ws_asia_01"
+        },
         "38174103118576080": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
@@ -48832,6 +48848,22 @@
             "role_id": 38174103118586032,
             "server_region": "ws_asia_01"
         },
+        "38174103118586132": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 88460.203125,
+            "last_seen": 1765055233,
+            "level": 35,
+            "name": "アイギス",
+            "name_history": [
+                "アイギス"
+            ],
+            "registered": "Nov 30, 2025, 2:33:28 PM",
+            "role_id": 38174103118586132,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586137": {
             "crew_id": 0,
             "crew_name": "",
@@ -51953,8 +51985,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3247,
+    "accounts_total": 3249,
     "created": 1764092421,
-    "last_updated": 1765044023,
+    "last_updated": 1765055233,
     "server_region": "ws_asia_01"
 }
