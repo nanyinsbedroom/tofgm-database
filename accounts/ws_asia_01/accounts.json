@@ -6950,7 +6950,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 353218.1875,
-            "last_seen": 1765057419,
+            "last_seen": 1765059997,
             "level": 51,
             "name": "AskEmbla",
             "name_history": [
@@ -11233,13 +11233,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118550516": {
-            "crew_id": 197577383717,
-            "crew_name": "Kurumi Cult",
+            "crew_id": 141742808869,
+            "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 87453.0,
-            "last_seen": 1764201578,
-            "level": 25,
+            "hp": 273987.40625,
+            "last_seen": 1765059997,
+            "level": 52,
             "name": "水篠らるむ",
             "name_history": [
                 "水篠らるむ"
@@ -17779,11 +17779,11 @@
         "38174103118555934": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "None",
+            "equipping_title": "1_1_18_1",
             "gender": 1,
-            "hp": 240724.59375,
-            "last_seen": 1764546959,
-            "level": 44,
+            "hp": 379258.21875,
+            "last_seen": 1765059997,
+            "level": 52,
             "name": "KyuRaku. ",
             "name_history": [
                 "KyuRaku. "
@@ -47312,6 +47312,22 @@
             "role_id": 38174103118583231,
             "server_region": "ws_asia_01"
         },
+        "38174103118583235": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 72400.0,
+            "last_seen": 1765059997,
+            "level": 25,
+            "name": "kisatuna",
+            "name_history": [
+                "kisatuna"
+            ],
+            "registered": "Nov 29, 2025, 12:35:44 PM",
+            "role_id": 38174103118583235,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583275": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
@@ -52209,8 +52225,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3263,
+    "accounts_total": 3264,
     "created": 1764092421,
-    "last_updated": 1765057539,
+    "last_updated": 1765059997,
     "server_region": "ws_asia_01"
 }
