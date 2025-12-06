@@ -4437,9 +4437,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 223500.390625,
-            "last_seen": 1764967275,
-            "level": 50,
+            "hp": 242749.390625,
+            "last_seen": 1765065236,
+            "level": 51,
             "name": "Keya",
             "name_history": [
                 "Keya"
@@ -9093,9 +9093,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 119117.2109375,
-            "last_seen": 1764291343,
-            "level": 34,
+            "hp": 369833.4375,
+            "last_seen": 1765065236,
+            "level": 52,
             "name": "Nasiegoreng",
             "name_history": [
                 "Nasiegoreng"
@@ -22064,6 +22064,22 @@
             "role_id": 38174103118557794,
             "server_region": "ws_asia_01"
         },
+        "38174103118557807": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 260842.40625,
+            "last_seen": 1765065236,
+            "level": 51,
+            "name": "Serice",
+            "name_history": [
+                "Serice"
+            ],
+            "registered": "Nov 25, 2025, 8:15:32 PM",
+            "role_id": 38174103118557807,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557808": {
             "crew_id": 197577383717,
             "crew_name": "Kurumi Cult",
@@ -23139,11 +23155,11 @@
         "38174103118558248": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 152293.59375,
-            "last_seen": 1764707501,
-            "level": 47,
+            "hp": 168986.40625,
+            "last_seen": 1765065236,
+            "level": 50,
             "name": "Auz",
             "name_history": [
                 "Auz"
@@ -53041,8 +53057,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3315,
+    "accounts_total": 3316,
     "created": 1764092421,
-    "last_updated": 1765065176,
+    "last_updated": 1765065236,
     "server_region": "ws_asia_01"
 }
