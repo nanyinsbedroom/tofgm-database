@@ -4003,11 +4003,11 @@
         "38174103118545623": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "1_1_5_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 366258.59375,
-            "last_seen": 1764969128,
-            "level": 51,
+            "hp": 381953.0,
+            "last_seen": 1765072834,
+            "level": 52,
             "name": "Bertingkulot23",
             "name_history": [
                 "Bertingkulot23"
@@ -35760,6 +35760,22 @@
             "role_id": 38174103118565661,
             "server_region": "ws_asia_01"
         },
+        "38174103118565669": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 173547.0,
+            "last_seen": 1765072834,
+            "level": 52,
+            "name": "ぶきっちょ",
+            "name_history": [
+                "ぶきっちょ"
+            ],
+            "registered": "Nov 26, 2025, 6:22:41 AM",
+            "role_id": 38174103118565669,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565678": {
             "crew_id": 0,
             "crew_name": "",
@@ -42245,9 +42261,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 193221.0,
-            "last_seen": 1764864906,
-            "level": 49,
+            "hp": 200958.59375,
+            "last_seen": 1765072834,
+            "level": 50,
             "name": "Chibii",
             "name_history": [
                 "Chibii"
@@ -54145,8 +54161,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3384,
+    "accounts_total": 3385,
     "created": 1764092421,
-    "last_updated": 1765072774,
+    "last_updated": 1765072834,
     "server_region": "ws_asia_01"
 }
