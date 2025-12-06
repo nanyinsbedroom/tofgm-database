@@ -23331,11 +23331,11 @@
         "38174103118558209": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 77120.0,
-            "last_seen": 1764123916,
-            "level": 22,
+            "hp": 268142.21875,
+            "last_seen": 1765075231,
+            "level": 52,
             "name": "GT12",
             "name_history": [
                 "GT12"
@@ -40885,9 +40885,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 323454.21875,
-            "last_seen": 1764865610,
-            "level": 50,
+            "hp": 381255.0,
+            "last_seen": 1765075231,
+            "level": 52,
             "name": "CalmBastard",
             "name_history": [
                 "CalmBastard"
@@ -54016,6 +54016,22 @@
             "role_id": 38174103118592528,
             "server_region": "ws_asia_01"
         },
+        "38174103118592592": {
+            "crew_id": 1288499076901,
+            "crew_name": "SCARLETBLAZE",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 107671.203125,
+            "last_seen": 1765075231,
+            "level": 50,
+            "name": "Chinjaku",
+            "name_history": [
+                "Chinjaku"
+            ],
+            "registered": "Dec 5, 2025, 3:53:59 PM",
+            "role_id": 38174103118592592,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592803": {
             "crew_id": 0,
             "crew_name": "",
@@ -54465,8 +54481,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3404,
+    "accounts_total": 3405,
     "created": 1764092421,
-    "last_updated": 1765075171,
+    "last_updated": 1765075231,
     "server_region": "ws_asia_01"
 }
