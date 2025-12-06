@@ -18485,9 +18485,9 @@
             "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 358959.0,
-            "last_seen": 1764811215,
-            "level": 49,
+            "hp": 387975.0,
+            "last_seen": 1765067180,
+            "level": 52,
             "name": "カレーうどん",
             "name_history": [
                 "カレーうどん"
@@ -20254,6 +20254,22 @@
             ],
             "registered": "Nov 25, 2025, 7:41:47 PM",
             "role_id": 38174103118557018,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557034": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;58",
+            "gender": 1,
+            "hp": 348960.0,
+            "last_seen": 1765067180,
+            "level": 52,
+            "name": "Luwonav",
+            "name_history": [
+                "Luwonav"
+            ],
+            "registered": "Nov 25, 2025, 7:42:32 PM",
+            "role_id": 38174103118557034,
             "server_region": "ws_asia_01"
         },
         "38174103118557055": {
@@ -22773,12 +22789,12 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 137521.15625,
-            "last_seen": 1764811275,
-            "level": 46,
-            "name": "干天ノ慈雨",
+            "hp": 167550.40625,
+            "last_seen": 1765067180,
+            "level": 50,
+            "name": "慈雨",
             "name_history": [
-                "干天ノ慈雨"
+                "慈雨"
             ],
             "registered": "Nov 25, 2025, 8:26:42 PM",
             "role_id": 38174103118558067,
@@ -25153,13 +25169,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118559123": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 195367.203125,
-            "last_seen": 1764715740,
-            "level": 46,
+            "hp": 310058.8125,
+            "last_seen": 1765067180,
+            "level": 50,
             "name": "omipul",
             "name_history": [
                 "omipul"
@@ -44096,6 +44112,22 @@
             "role_id": 38174103118578405,
             "server_region": "ws_asia_01"
         },
+        "38174103118578410": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 166171.40625,
+            "last_seen": 1765067180,
+            "level": 49,
+            "name": "AkaiKiri",
+            "name_history": [
+                "AkaiKiri"
+            ],
+            "registered": "Nov 27, 2025, 10:23:01 PM",
+            "role_id": 38174103118578410,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578486": {
             "crew_id": 0,
             "crew_name": "",
@@ -47406,6 +47438,22 @@
             ],
             "registered": "Nov 29, 2025, 2:48:36 AM",
             "role_id": 38174103118582220,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118582230": {
+            "crew_id": 768808034085,
+            "crew_name": "かもめ食堂わあぷ分店",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 176390.40625,
+            "last_seen": 1765067180,
+            "level": 50,
+            "name": "Nekonomiya",
+            "name_history": [
+                "Nekonomiya"
+            ],
+            "registered": "Nov 29, 2025, 2:56:28 AM",
+            "role_id": 38174103118582230,
             "server_region": "ws_asia_01"
         },
         "38174103118582266": {
@@ -53473,8 +53521,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3342,
+    "accounts_total": 3345,
     "created": 1764092421,
-    "last_updated": 1765067120,
+    "last_updated": 1765067180,
     "server_region": "ws_asia_01"
 }
