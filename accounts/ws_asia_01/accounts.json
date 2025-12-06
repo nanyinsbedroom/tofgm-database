@@ -19493,8 +19493,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 114246.203125,
-            "last_seen": 1765060057,
+            "hp": 63190.05078125,
+            "last_seen": 1765061288,
             "level": 48,
             "name": "Trial",
             "name_history": [
@@ -21246,6 +21246,22 @@
             ],
             "registered": "Nov 25, 2025, 8:03:50 PM",
             "role_id": 38174103118557527,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557542": {
+            "crew_id": 47253528357,
+            "crew_name": "じゃぱたま",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 248751.203125,
+            "last_seen": 1765061288,
+            "level": 52,
+            "name": "ホクヒュー",
+            "name_history": [
+                "ホクヒュー"
+            ],
+            "registered": "Nov 25, 2025, 8:04:32 PM",
+            "role_id": 38174103118557542,
             "server_region": "ws_asia_01"
         },
         "38174103118557543": {
@@ -52305,8 +52321,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3269,
+    "accounts_total": 3270,
     "created": 1764092421,
-    "last_updated": 1765060417,
+    "last_updated": 1765061288,
     "server_region": "ws_asia_01"
 }
