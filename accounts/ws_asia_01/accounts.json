@@ -16149,9 +16149,9 @@
             "crew_name": "EIN",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 340699.8125,
-            "last_seen": 1764965053,
-            "level": 51,
+            "hp": 352662.0,
+            "last_seen": 1765064575,
+            "level": 52,
             "name": "IBonnieI",
             "name_history": [
                 "IBonnieI"
@@ -32734,6 +32734,22 @@
             ],
             "registered": "Nov 26, 2025, 1:47:07 AM",
             "role_id": 38174103118563925,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563943": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 250332.0,
+            "last_seen": 1765064575,
+            "level": 52,
+            "name": "Ouro",
+            "name_history": [
+                "Ouro"
+            ],
+            "registered": "Nov 26, 2025, 1:49:05 AM",
+            "role_id": 38174103118563943,
             "server_region": "ws_asia_01"
         },
         "38174103118563971": {
@@ -52176,6 +52192,22 @@
             "role_id": 38174103118591766,
             "server_region": "ws_asia_01"
         },
+        "38174103118591770": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 132246.40625,
+            "last_seen": 1765064575,
+            "level": 50,
+            "name": "Elmiraドール",
+            "name_history": [
+                "Elmiraドール"
+            ],
+            "registered": "Dec 4, 2025, 4:51:53 PM",
+            "role_id": 38174103118591770,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591829": {
             "crew_id": 0,
             "crew_name": "",
@@ -52206,6 +52238,22 @@
             ],
             "registered": "Dec 4, 2025, 10:45:16 PM",
             "role_id": 38174103118592004,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118592034": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 53961.0,
+            "last_seen": 1765064575,
+            "level": 11,
+            "name": "RTam",
+            "name_history": [
+                "RTam"
+            ],
+            "registered": "Dec 4, 2025, 11:24:23 PM",
+            "role_id": 38174103118592034,
             "server_region": "ws_asia_01"
         },
         "38174103118592095": {
@@ -52721,8 +52769,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3295,
+    "accounts_total": 3298,
     "created": 1764092421,
-    "last_updated": 1765064515,
+    "last_updated": 1765064575,
     "server_region": "ws_asia_01"
 }
