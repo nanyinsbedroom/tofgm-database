@@ -15621,9 +15621,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 120019.59375,
-            "last_seen": 1764310249,
-            "level": 34,
+            "hp": 361355.0,
+            "last_seen": 1765067000,
+            "level": 50,
             "name": "シャノン",
             "name_history": [
                 "シャノン"
@@ -18718,6 +18718,22 @@
             ],
             "registered": "Nov 25, 2025, 7:09:18 PM",
             "role_id": 38174103118556210,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556215": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_6_4_1",
+            "gender": 1,
+            "hp": 250865.796875,
+            "last_seen": 1765067000,
+            "level": 51,
+            "name": "ついぷい",
+            "name_history": [
+                "ついぷい"
+            ],
+            "registered": "Nov 25, 2025, 7:09:32 PM",
+            "role_id": 38174103118556215,
             "server_region": "ws_asia_01"
         },
         "38174103118556218": {
@@ -38117,9 +38133,9 @@
             "crew_name": "Zombies",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 79003.1953125,
-            "last_seen": 1764303398,
-            "level": 26,
+            "hp": 188195.0,
+            "last_seen": 1765067000,
+            "level": 50,
             "name": "_MII_",
             "name_history": [
                 "_MII_"
@@ -53296,6 +53312,22 @@
             "role_id": 38174103118593598,
             "server_region": "ws_asia_01"
         },
+        "38174103118593621": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43597.0,
+            "last_seen": 1765067000,
+            "level": 14,
+            "name": "Skawski",
+            "name_history": [
+                "Skawski"
+            ],
+            "registered": "Dec 6, 2025, 5:28:00 PM",
+            "role_id": 38174103118593621,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593622": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -53361,8 +53393,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3335,
+    "accounts_total": 3337,
     "created": 1764092421,
-    "last_updated": 1765066939,
+    "last_updated": 1765067000,
     "server_region": "ws_asia_01"
 }
