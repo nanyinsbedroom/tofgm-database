@@ -6678,7 +6678,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;42",
             "gender": 0,
             "hp": 365026.21875,
-            "last_seen": 1765064936,
+            "last_seen": 1765071994,
             "level": 52,
             "name": "R A I Z E N",
             "name_history": [
@@ -9813,9 +9813,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 109993.8046875,
-            "last_seen": 1764281323,
-            "level": 33,
+            "hp": 363620.0,
+            "last_seen": 1765071994,
+            "level": 52,
             "name": "Kaizen",
             "name_history": [
                 "Kaizen"
@@ -17365,9 +17365,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 146533.59375,
-            "last_seen": 1765068741,
-            "level": 49,
+            "hp": 175054.40625,
+            "last_seen": 1765071994,
+            "level": 50,
             "name": "D3rick",
             "name_history": [
                 "D3rick"
@@ -47686,7 +47686,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 373728.0,
-            "last_seen": 1765064275,
+            "last_seen": 1765071994,
             "level": 52,
             "name": "雪色みゆ",
             "name_history": [
@@ -53952,6 +53952,22 @@
             "role_id": 38174103118593795,
             "server_region": "ws_asia_01"
         },
+        "38174103118593869": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 79317.0,
+            "last_seen": 1765071994,
+            "level": 20,
+            "name": "Giel",
+            "name_history": [
+                "Giel"
+            ],
+            "registered": "Dec 6, 2025, 10:32:47 PM",
+            "role_id": 38174103118593869,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593870": {
             "crew_id": 1078045679397,
             "crew_name": "Lumière",
@@ -53969,8 +53985,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3373,
+    "accounts_total": 3374,
     "created": 1764092421,
-    "last_updated": 1765068921,
+    "last_updated": 1765071994,
     "server_region": "ws_asia_01"
 }
