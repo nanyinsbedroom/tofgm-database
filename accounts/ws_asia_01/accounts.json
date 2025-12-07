@@ -9077,9 +9077,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 374573.4375,
-            "last_seen": 1765073380,
-            "level": 52,
+            "hp": 0.0,
+            "last_seen": 1765125383,
+            "level": 53,
             "name": "hibikishina",
             "name_history": [
                 "hibikishina"
@@ -15758,6 +15758,22 @@
             ],
             "registered": "Nov 25, 2025, 6:18:06 PM",
             "role_id": 38174103118554741,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554755": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 245740.796875,
+            "last_seen": 1765125383,
+            "level": 52,
+            "name": "ほたてちゃん",
+            "name_history": [
+                "ほたてちゃん"
+            ],
+            "registered": "Nov 25, 2025, 6:18:26 PM",
+            "role_id": 38174103118554755,
             "server_region": "ws_asia_01"
         },
         "38174103118554770": {
@@ -23235,11 +23251,11 @@
         "38174103118558099": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 111963.0,
-            "last_seen": 1764729346,
-            "level": 46,
+            "hp": 91458.9765625,
+            "last_seen": 1765125383,
+            "level": 49,
             "name": "Masako",
             "name_history": [
                 "Masako"
@@ -25861,9 +25877,9 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 132047.59375,
-            "last_seen": 1764729346,
-            "level": 44,
+            "hp": 114697.6640625,
+            "last_seen": 1765125383,
+            "level": 49,
             "name": "Ryobi",
             "name_history": [
                 "Ryobi"
@@ -34788,10 +34804,10 @@
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 172732.015625,
-            "last_seen": 1764381051,
-            "level": 39,
+            "gender": 0,
+            "hp": 176307.859375,
+            "last_seen": 1765125383,
+            "level": 53,
             "name": "HAZAMA",
             "name_history": [
                 "HAZAMA"
@@ -44480,6 +44496,22 @@
             "role_id": 38174103118577725,
             "server_region": "ws_asia_01"
         },
+        "38174103118577767": {
+            "crew_id": 528289865509,
+            "crew_name": "Eternal_PH ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 145819.0,
+            "last_seen": 1765125383,
+            "level": 51,
+            "name": "Luciennee",
+            "name_history": [
+                "Luciennee"
+            ],
+            "registered": "Nov 27, 2025, 7:21:24 PM",
+            "role_id": 38174103118577767,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577812": {
             "crew_id": 558354636581,
             "crew_name": "Wartag Silver",
@@ -46453,8 +46485,8 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 338564.0,
-            "last_seen": 1765066939,
+            "hp": 104877.625,
+            "last_seen": 1765125383,
             "level": 51,
             "name": "リツキ",
             "name_history": [
@@ -55265,8 +55297,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3454,
+    "accounts_total": 3456,
     "created": 1764092421,
-    "last_updated": 1765125323,
+    "last_updated": 1765125383,
     "server_region": "ws_asia_01"
 }
