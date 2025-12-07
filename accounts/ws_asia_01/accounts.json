@@ -6357,9 +6357,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 141154.59375,
-            "last_seen": 1764716580,
-            "level": 44,
+            "hp": 139788.875,
+            "last_seen": 1765126871,
+            "level": 46,
             "name": "Chuuna",
             "name_history": [
                 "Chuuna"
@@ -53152,6 +53152,22 @@
             "role_id": 38174103118588523,
             "server_region": "ws_asia_01"
         },
+        "38174103118588596": {
+            "crew_id": 115973005093,
+            "crew_name": "Serenity",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110217.0,
+            "last_seen": 1765126871,
+            "level": 49,
+            "name": "Haiya",
+            "name_history": [
+                "Haiya"
+            ],
+            "registered": "Dec 1, 2025, 9:17:20 PM",
+            "role_id": 38174103118588596,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588601": {
             "crew_id": 0,
             "crew_name": "",
@@ -56033,8 +56049,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3502,
+    "accounts_total": 3503,
     "created": 1764092421,
-    "last_updated": 1765126811,
+    "last_updated": 1765126871,
     "server_region": "ws_asia_01"
 }
