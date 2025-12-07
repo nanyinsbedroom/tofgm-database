@@ -11904,6 +11904,22 @@
             "role_id": 38174103118551041,
             "server_region": "ws_asia_01"
         },
+        "38174103118551049": {
+            "crew_id": 897657052965,
+            "crew_name": "ドライクロイツ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 195132.796875,
+            "last_seen": 1765130795,
+            "level": 53,
+            "name": "アルベルティ",
+            "name_history": [
+                "アルベルティ"
+            ],
+            "registered": "Nov 25, 2025, 5:37:29 PM",
+            "role_id": 38174103118551049,
+            "server_region": "ws_asia_01"
+        },
         "38174103118551069": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
@@ -32947,11 +32963,11 @@
         "38174103118563301": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;75",
             "gender": 1,
-            "hp": 256852.0,
-            "last_seen": 1764528134,
-            "level": 44,
+            "hp": 344487.0,
+            "last_seen": 1765130795,
+            "level": 53,
             "name": "arn04",
             "name_history": [
                 "arn04"
@@ -56449,8 +56465,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3528,
+    "accounts_total": 3529,
     "created": 1764092421,
-    "last_updated": 1765130735,
+    "last_updated": 1765130795,
     "server_region": "ws_asia_01"
 }
