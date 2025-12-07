@@ -42997,9 +42997,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 362706.0,
-            "last_seen": 1765064636,
-            "level": 52,
+            "hp": 363570.0,
+            "last_seen": 1765124663,
+            "level": 53,
             "name": "刻晴",
             "name_history": [
                 "刻晴"
@@ -44062,6 +44062,22 @@
             ],
             "registered": "Nov 27, 2025, 5:00:09 PM",
             "role_id": 38174103118577361,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118577382": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 240850.40625,
+            "last_seen": 1765124663,
+            "level": 53,
+            "name": "マロネーゼ",
+            "name_history": [
+                "マロネーゼ"
+            ],
+            "registered": "Nov 27, 2025, 5:08:08 PM",
+            "role_id": 38174103118577382,
             "server_region": "ws_asia_01"
         },
         "38174103118577390": {
@@ -54817,8 +54833,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3426,
+    "accounts_total": 3427,
     "created": 1764092421,
-    "last_updated": 1765124603,
+    "last_updated": 1765124663,
     "server_region": "ws_asia_01"
 }
