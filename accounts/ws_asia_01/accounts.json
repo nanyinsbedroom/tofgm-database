@@ -25733,9 +25733,9 @@
             "crew_name": "ヴァッサーシュトローム",
             "equipping_title": "1_1_5_1",
             "gender": 0,
-            "hp": 295215.59375,
-            "last_seen": 1764693315,
-            "level": 48,
+            "hp": 344609.0,
+            "last_seen": 1765144526,
+            "level": 53,
             "name": "lLlL",
             "name_history": [
                 "lLlL"
@@ -26261,9 +26261,9 @@
             "crew_name": "新天地",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 208357.8125,
-            "last_seen": 1764717423,
-            "level": 47,
+            "hp": 239450.59375,
+            "last_seen": 1765144526,
+            "level": 52,
             "name": "コリウス3号",
             "name_history": [
                 "コリウス3号"
@@ -33379,11 +33379,11 @@
         "38174103118563491": {
             "crew_id": 1417348095781,
             "crew_name": "SleeplessSSR",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 127460.796875,
-            "last_seen": 1764547019,
-            "level": 44,
+            "hp": 316185.0,
+            "last_seen": 1765144526,
+            "level": 53,
             "name": "Reimii",
             "name_history": [
                 "Reimii"
@@ -53888,6 +53888,22 @@
             "role_id": 38174103118588394,
             "server_region": "ws_asia_01"
         },
+        "38174103118588402": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 128271.0,
+            "last_seen": 1765144526,
+            "level": 51,
+            "name": "ウメ",
+            "name_history": [
+                "ウメ"
+            ],
+            "registered": "Dec 1, 2025, 6:29:37 PM",
+            "role_id": 38174103118588402,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588457": {
             "crew_id": 0,
             "crew_name": "",
@@ -56977,8 +56993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3561,
+    "accounts_total": 3562,
     "created": 1764092421,
-    "last_updated": 1765144166,
+    "last_updated": 1765144526,
     "server_region": "ws_asia_01"
 }
