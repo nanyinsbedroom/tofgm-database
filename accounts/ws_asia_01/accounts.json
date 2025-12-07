@@ -43360,6 +43360,22 @@
             "role_id": 38174103118575414,
             "server_region": "ws_asia_01"
         },
+        "38174103118575425": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 158339.40625,
+            "last_seen": 1765126631,
+            "level": 49,
+            "name": "HILDEGARD",
+            "name_history": [
+                "HILDEGARD"
+            ],
+            "registered": "Nov 27, 2025, 5:13:31 AM",
+            "role_id": 38174103118575425,
+            "server_region": "ws_asia_01"
+        },
         "38174103118575453": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -44757,9 +44773,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 196750.796875,
-            "last_seen": 1764864546,
-            "level": 50,
+            "hp": 218427.796875,
+            "last_seen": 1765126631,
+            "level": 53,
             "name": "Shinri",
             "name_history": [
                 "Shinri"
@@ -55953,8 +55969,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3497,
+    "accounts_total": 3498,
     "created": 1764092421,
-    "last_updated": 1765126571,
+    "last_updated": 1765126631,
     "server_region": "ws_asia_01"
 }
