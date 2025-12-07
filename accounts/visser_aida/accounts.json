@@ -612,12 +612,15 @@
         "60567630152670": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
-            "equipping_title": "木木mu的学徒,0",
+            "equipping_title": "夏心怡的学徒,0",
             "gender": 1,
-            "hp": 1483491.0,
-            "last_seen": 1761917502,
+            "hp": 1529955.375,
+            "last_seen": 1765141280,
             "level": 100,
             "name": "九條都",
+            "name_history": [
+                "九條都"
+            ],
             "registered": "2024年5月31日 下午5:23:01",
             "role_id": 60567630152670,
             "server_region": "visser_aida"
@@ -700,7 +703,7 @@
             "equipping_title": "乙咲玲的导师,0",
             "gender": 1,
             "hp": 1594325.5,
-            "last_seen": 1764967507,
+            "last_seen": 1765141280,
             "level": 100,
             "name": "烽火裁决",
             "name_history": [
@@ -3126,6 +3129,22 @@
             "role_id": 60597693907603,
             "server_region": "visser_aida"
         },
+        "60597694082034": {
+            "crew_id": 4294981407,
+            "crew_name": "喵喵屋",
+            "equipping_title": "2_2_0_11",
+            "gender": 1,
+            "hp": 1946520.0,
+            "last_seen": 1765141280,
+            "level": 100,
+            "name": "伽百璃の铃音",
+            "name_history": [
+                "伽百璃の铃音"
+            ],
+            "registered": "2022年11月26日 上午2:22:14",
+            "role_id": 60597694082034,
+            "server_region": "visser_aida"
+        },
         "60597694525036": {
             "crew_id": 103079229226,
             "crew_name": "星陨阁",
@@ -5329,8 +5348,8 @@
             "crew_name": "一堆大佬",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2086054.0,
-            "last_seen": 1764020659,
+            "hp": 1956429.0,
+            "last_seen": 1765141280,
             "level": 100,
             "name": "明儿卸载",
             "name_history": [
@@ -8932,8 +8951,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 708,
+    "accounts_total": 709,
     "created": 1758086949,
-    "last_updated": 1764969429,
+    "last_updated": 1765141280,
     "server_region": "visser_aida"
 }
