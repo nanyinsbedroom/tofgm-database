@@ -6067,11 +6067,11 @@
         "38174103118546131": {
             "crew_id": 8598822693,
             "crew_name": "迦勒底",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 92920.7578125,
-            "last_seen": 1764269113,
-            "level": 34,
+            "hp": 240331.15625,
+            "last_seen": 1765125744,
+            "level": 53,
             "name": "洛斯琳",
             "name_history": [
                 "洛斯琳"
@@ -17893,9 +17893,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 207336.75,
-            "last_seen": 1765067420,
-            "level": 52,
+            "hp": 235877.4375,
+            "last_seen": 1765125744,
+            "level": 53,
             "name": "ぴぃ",
             "name_history": [
                 "ぴぃ"
@@ -50928,6 +50928,22 @@
             "role_id": 38174103118585510,
             "server_region": "ws_asia_01"
         },
+        "38174103118585531": {
+            "crew_id": 412325748517,
+            "crew_name": "ズンダーロア",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 316416.59375,
+            "last_seen": 1765125744,
+            "level": 53,
+            "name": "Arisia",
+            "name_history": [
+                "Arisia"
+            ],
+            "registered": "Nov 30, 2025, 8:10:33 AM",
+            "role_id": 38174103118585531,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585540": {
             "crew_id": 0,
             "crew_name": "",
@@ -54976,6 +54992,22 @@
             "role_id": 38174103118592460,
             "server_region": "ws_asia_01"
         },
+        "38174103118592476": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 131431.796875,
+            "last_seen": 1765125744,
+            "level": 50,
+            "name": "Noxel",
+            "name_history": [
+                "Noxel"
+            ],
+            "registered": "Dec 5, 2025, 12:51:04 PM",
+            "role_id": 38174103118592476,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592528": {
             "crew_id": 0,
             "crew_name": "",
@@ -55537,8 +55569,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3471,
+    "accounts_total": 3473,
     "created": 1764092421,
-    "last_updated": 1765125683,
+    "last_updated": 1765125744,
     "server_region": "ws_asia_01"
 }
