@@ -14033,13 +14033,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118553755": {
-            "crew_id": 73023332133,
-            "crew_name": "Teyvat",
-            "equipping_title": "None",
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;52",
             "gender": 1,
-            "hp": 91447.0,
-            "last_seen": 1764180462,
-            "level": 29,
+            "hp": 388669.53125,
+            "last_seen": 1765247000,
+            "level": 54,
             "name": "Fenfen",
             "name_history": [
                 "Fenfen"
@@ -38037,9 +38037,9 @@
             "crew_name": "Fractsidus",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 299734.21875,
-            "last_seen": 1765124603,
-            "level": 53,
+            "hp": 337884.625,
+            "last_seen": 1765247000,
+            "level": 54,
             "name": "Bobbie",
             "name_history": [
                 "Bobbie"
@@ -58464,6 +58464,22 @@
             "role_id": 38174103118594804,
             "server_region": "ws_asia_01"
         },
+        "38174103118595677": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56092.0,
+            "last_seen": 1765247000,
+            "level": 20,
+            "name": " Kathleen",
+            "name_history": [
+                " Kathleen"
+            ],
+            "registered": "Dec 8, 2025, 9:55:53 PM",
+            "role_id": 38174103118595677,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595698": {
             "crew_id": 0,
             "crew_name": "",
@@ -58481,8 +58497,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3655,
+    "accounts_total": 3656,
     "created": 1764092421,
-    "last_updated": 1765246339,
+    "last_updated": 1765247000,
     "server_region": "ws_asia_01"
 }
