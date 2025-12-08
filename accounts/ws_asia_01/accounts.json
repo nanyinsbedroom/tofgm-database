@@ -6960,6 +6960,22 @@
             "role_id": 38174103118546335,
             "server_region": "ws_asia_01"
         },
+        "38174103118546338": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_1_5_1",
+            "gender": 0,
+            "hp": 435991.0,
+            "last_seen": 1765217681,
+            "level": 54,
+            "name": "ひざくら",
+            "name_history": [
+                "ひざくら"
+            ],
+            "registered": "Nov 25, 2025, 5:10:39 PM",
+            "role_id": 38174103118546338,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546345": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
@@ -8981,9 +8997,9 @@
             "crew_name": "Restart",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 328895.5,
-            "last_seen": 1764733352,
-            "level": 48,
+            "hp": 425127.0,
+            "last_seen": 1765217681,
+            "level": 54,
             "name": "めるこ",
             "name_history": [
                 "めるこ"
@@ -38995,11 +39011,11 @@
         "38174103118568428": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_053_world;92",
             "gender": 0,
-            "hp": 359650.8125,
-            "last_seen": 1764871770,
-            "level": 50,
+            "hp": 445737.1875,
+            "last_seen": 1765217681,
+            "level": 54,
             "name": "cannot be blank",
             "name_history": [
                 "cannot be blank"
@@ -57153,8 +57169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3572,
+    "accounts_total": 3573,
     "created": 1764092421,
-    "last_updated": 1765217621,
+    "last_updated": 1765217681,
     "server_region": "ws_asia_01"
 }
