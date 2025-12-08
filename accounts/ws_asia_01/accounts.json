@@ -44720,6 +44720,22 @@
             "role_id": 38174103118576238,
             "server_region": "ws_asia_01"
         },
+        "38174103118576305": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;44",
+            "gender": 1,
+            "hp": 387492.4375,
+            "last_seen": 1765220059,
+            "level": 54,
+            "name": "Astarea",
+            "name_history": [
+                "Astarea"
+            ],
+            "registered": "Nov 27, 2025, 11:10:29 AM",
+            "role_id": 38174103118576305,
+            "server_region": "ws_asia_01"
+        },
         "38174103118576340": {
             "crew_id": 442390519589,
             "crew_name": "NoVa",
@@ -44910,6 +44926,22 @@
             ],
             "registered": "Nov 27, 2025, 1:11:18 PM",
             "role_id": 38174103118576637,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118576643": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 338618.0,
+            "last_seen": 1765220059,
+            "level": 53,
+            "name": "エイル",
+            "name_history": [
+                "エイル"
+            ],
+            "registered": "Nov 27, 2025, 1:14:17 PM",
+            "role_id": 38174103118576643,
             "server_region": "ws_asia_01"
         },
         "38174103118576660": {
@@ -57297,8 +57329,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3581,
+    "accounts_total": 3583,
     "created": 1764092421,
-    "last_updated": 1765219939,
+    "last_updated": 1765220059,
     "server_region": "ws_asia_01"
 }
