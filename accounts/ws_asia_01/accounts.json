@@ -3573,9 +3573,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 257128.421875,
-            "last_seen": 1765084711,
-            "level": 52,
+            "hp": 368355.0,
+            "last_seen": 1765230493,
+            "level": 53,
             "name": "Drashel",
             "name_history": [
                 "Drashel"
@@ -4053,9 +4053,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 369366.0,
-            "last_seen": 1764871770,
-            "level": 50,
+            "hp": 449270.0,
+            "last_seen": 1765230493,
+            "level": 54,
             "name": "ままむ",
             "name_history": [
                 "ままむ"
@@ -5427,11 +5427,11 @@
         "38174103118545956": {
             "crew_id": 433800584997,
             "crew_name": "Waifu",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 84270.0,
-            "last_seen": 1764128210,
-            "level": 22,
+            "hp": 338699.625,
+            "last_seen": 1765230493,
+            "level": 54,
             "name": "Aruf",
             "name_history": [
                 "Aruf"
@@ -12019,10 +12019,10 @@
         "38174103118551023": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "WorldBossDamage_3;boss_hum_057_world;12",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 320863.65625,
-            "last_seen": 1765141865,
+            "hp": 219648.359375,
+            "last_seen": 1765230493,
             "level": 52,
             "name": "サリフ",
             "name_history": [
@@ -12771,11 +12771,11 @@
         "38174103118551791": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 366735.0,
-            "last_seen": 1765057419,
-            "level": 51,
+            "hp": 316283.5625,
+            "last_seen": 1765230493,
+            "level": 52,
             "name": "ヘルミー",
             "name_history": [
                 "ヘルミー"
@@ -19649,13 +19649,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118556290": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 39930.0,
-            "last_seen": 1764141659,
-            "level": 11,
+            "hp": 301267.1875,
+            "last_seen": 1765230493,
+            "level": 52,
             "name": "エトルナ",
             "name_history": [
                 "エトルナ"
@@ -57875,6 +57875,6 @@
     },
     "accounts_total": 3617,
     "created": 1764092421,
-    "last_updated": 1765230433,
+    "last_updated": 1765230493,
     "server_region": "ws_asia_01"
 }
