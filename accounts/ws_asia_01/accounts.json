@@ -3201,13 +3201,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545437": {
-            "crew_id": 90203201317,
-            "crew_name": "Wyverns",
-            "equipping_title": "1_1_3_1",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_5_1",
             "gender": 0,
-            "hp": 305804.0,
-            "last_seen": 1764717483,
-            "level": 48,
+            "hp": 411820.21875,
+            "last_seen": 1765228872,
+            "level": 54,
             "name": "FURIOUX",
             "name_history": [
                 "FURIOUX"
@@ -3411,11 +3411,11 @@
         "38174103118545485": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "None",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 213675.0,
-            "last_seen": 1764528194,
-            "level": 44,
+            "hp": 439701.0,
+            "last_seen": 1765228872,
+            "level": 54,
             "name": "buh",
             "name_history": [
                 "buh"
@@ -57763,6 +57763,6 @@
     },
     "accounts_total": 3610,
     "created": 1764092421,
-    "last_updated": 1765228452,
+    "last_updated": 1765228872,
     "server_region": "ws_asia_01"
 }
