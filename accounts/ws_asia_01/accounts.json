@@ -7475,11 +7475,11 @@
         "38174103118546468": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_036_world;12",
             "gender": 1,
-            "hp": 268299.0,
-            "last_seen": 1764525480,
-            "level": 43,
+            "hp": 439932.0,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "Furen",
             "name_history": [
                 "Furen"
@@ -8310,7 +8310,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 406484.40625,
-            "last_seen": 1765237468,
+            "last_seen": 1765243067,
             "level": 54,
             "name": "332",
             "name_history": [
@@ -9779,11 +9779,11 @@
         "38174103118547498": {
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
-            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;36",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 341868.46875,
-            "last_seen": 1765141865,
-            "level": 51,
+            "hp": 375859.25,
+            "last_seen": 1765243067,
+            "level": 53,
             "name": "たきな",
             "name_history": [
                 "たきな"
@@ -10550,7 +10550,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 165963.421875,
-            "last_seen": 1765230373,
+            "last_seen": 1765243067,
             "level": 51,
             "name": "maccha1",
             "name_history": [
@@ -11171,11 +11171,11 @@
         "38174103118549916": {
             "crew_id": 163217645349,
             "crew_name": "Scarface",
-            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;93",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 318027.625,
-            "last_seen": 1765074581,
-            "level": 51,
+            "hp": 318891.625,
+            "last_seen": 1765243067,
+            "level": 52,
             "name": "EnCiel",
             "name_history": [
                 "EnCiel"
@@ -12789,8 +12789,8 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 316283.5625,
-            "last_seen": 1765230493,
+            "hp": 308532.0625,
+            "last_seen": 1765243067,
             "level": 52,
             "name": "ヘルミー",
             "name_history": [
@@ -18514,12 +18514,12 @@
         },
         "38174103118555853": {
             "crew_id": 579829473061,
-            "crew_name": "白血旅劇団",
+            "crew_name": "ブラックムーン海賊団",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 102417.8046875,
-            "last_seen": 1764199416,
-            "level": 28,
+            "gender": 0,
+            "hp": 385172.1875,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "raystream",
             "name_history": [
                 "raystream"
@@ -23157,9 +23157,9 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 125188.203125,
-            "last_seen": 1765147601,
-            "level": 48,
+            "hp": 126916.203125,
+            "last_seen": 1765243067,
+            "level": 50,
             "name": "DedDes RB",
             "name_history": [
                 "DedDes RB"
@@ -25198,6 +25198,22 @@
             ],
             "registered": "Nov 25, 2025, 8:48:44 PM",
             "role_id": 38174103118558627,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558628": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 408559.1875,
+            "last_seen": 1765243067,
+            "level": 54,
+            "name": "KOS",
+            "name_history": [
+                "KOS"
+            ],
+            "registered": "Nov 25, 2025, 8:48:47 PM",
+            "role_id": 38174103118558628,
             "server_region": "ws_asia_01"
         },
         "38174103118558632": {
@@ -29173,9 +29189,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 125779.0,
-            "last_seen": 1764455421,
-            "level": 42,
+            "hp": 342706.0,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "Haruhiro",
             "name_history": [
                 "Haruhiro"
@@ -30901,9 +30917,9 @@
             "crew_name": "ロイヤル紅茶",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 250845.84375,
-            "last_seen": 1764716881,
-            "level": 48,
+            "hp": 375432.625,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "掩蔽",
             "name_history": [
                 "掩蔽"
@@ -38901,9 +38917,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 370449.0,
-            "last_seen": 1765072054,
-            "level": 52,
+            "hp": 406844.0,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "Keparta",
             "name_history": [
                 "Keparta"
@@ -42112,14 +42128,30 @@
             "role_id": 38174103118571193,
             "server_region": "ws_asia_01"
         },
+        "38174103118571196": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 449270.0,
+            "last_seen": 1765243067,
+            "level": 54,
+            "name": "ギンノ",
+            "name_history": [
+                "ギンノ"
+            ],
+            "registered": "Nov 26, 2025, 9:21:09 PM",
+            "role_id": 38174103118571196,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571238": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_017_world;20",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;37",
             "gender": 1,
-            "hp": 357963.59375,
-            "last_seen": 1764808854,
-            "level": 49,
+            "hp": 392306.0,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "Kita",
             "name_history": [
                 "Kita"
@@ -44432,6 +44464,22 @@
             "role_id": 38174103118575151,
             "server_region": "ws_asia_01"
         },
+        "38174103118575167": {
+            "crew_id": 1078045679397,
+            "crew_name": "Lumière",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 139812.40625,
+            "last_seen": 1765243067,
+            "level": 50,
+            "name": "デュラン",
+            "name_history": [
+                "デュラン"
+            ],
+            "registered": "Nov 27, 2025, 3:24:16 AM",
+            "role_id": 38174103118575167,
+            "server_region": "ws_asia_01"
+        },
         "38174103118575188": {
             "crew_id": 0,
             "crew_name": "",
@@ -44750,6 +44798,22 @@
             ],
             "registered": "Nov 27, 2025, 6:57:47 AM",
             "role_id": 38174103118575628,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118575643": {
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 119326.0,
+            "last_seen": 1765243067,
+            "level": 41,
+            "name": "L45K4RBali",
+            "name_history": [
+                "L45K4RBali"
+            ],
+            "registered": "Nov 27, 2025, 7:05:25 AM",
+            "role_id": 38174103118575643,
             "server_region": "ws_asia_01"
         },
         "38174103118575742": {
@@ -45166,6 +45230,22 @@
             ],
             "registered": "Nov 27, 2025, 10:18:02 AM",
             "role_id": 38174103118576138,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118576187": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 213819.203125,
+            "last_seen": 1765243067,
+            "level": 51,
+            "name": "Yusanki",
+            "name_history": [
+                "Yusanki"
+            ],
+            "registered": "Nov 27, 2025, 10:30:55 AM",
+            "role_id": 38174103118576187,
             "server_region": "ws_asia_01"
         },
         "38174103118576234": {
@@ -47637,9 +47717,9 @@
             "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 297640.8125,
-            "last_seen": 1764814247,
-            "level": 48,
+            "hp": 364227.0,
+            "last_seen": 1765243067,
+            "level": 52,
             "name": "yoruka_",
             "name_history": [
                 "yoruka_"
@@ -51045,9 +51125,9 @@
             "crew_name": "Reverie",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 251986.609375,
-            "last_seen": 1765067120,
-            "level": 52,
+            "hp": 373851.625,
+            "last_seen": 1765243067,
+            "level": 54,
             "name": "ユカウラ",
             "name_history": [
                 "ユカウラ"
@@ -51630,6 +51710,22 @@
             ],
             "registered": "Nov 29, 2025, 2:25:20 PM",
             "role_id": 38174103118583478,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118583487": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 103193.6015625,
+            "last_seen": 1765243067,
+            "level": 44,
+            "name": "Venai",
+            "name_history": [
+                "Venai"
+            ],
+            "registered": "Nov 29, 2025, 2:30:10 PM",
+            "role_id": 38174103118583487,
             "server_region": "ws_asia_01"
         },
         "38174103118583504": {
@@ -52510,6 +52606,22 @@
             ],
             "registered": "Nov 29, 2025, 11:20:24 PM",
             "role_id": 38174103118584720,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118584730": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 246761.8125,
+            "last_seen": 1765243067,
+            "level": 54,
+            "name": "AtouNola",
+            "name_history": [
+                "AtouNola"
+            ],
+            "registered": "Nov 29, 2025, 11:22:13 PM",
+            "role_id": 38174103118584730,
             "server_region": "ws_asia_01"
         },
         "38174103118584768": {
@@ -55952,6 +56064,22 @@
             "role_id": 38174103118589804,
             "server_region": "ws_asia_01"
         },
+        "38174103118589822": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 291589.40625,
+            "last_seen": 1765243067,
+            "level": 52,
+            "name": "私Chiisa",
+            "name_history": [
+                "私Chiisa"
+            ],
+            "registered": "Dec 2, 2025, 7:44:54 PM",
+            "role_id": 38174103118589822,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589823": {
             "crew_id": 0,
             "crew_name": "",
@@ -57600,6 +57728,22 @@
             "role_id": 38174103118593222,
             "server_region": "ws_asia_01"
         },
+        "38174103118593231": {
+            "crew_id": 339311304485,
+            "crew_name": "Arcana’s XVI",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 126064.0,
+            "last_seen": 1765243067,
+            "level": 50,
+            "name": "エステヴァン",
+            "name_history": [
+                "エステヴァン"
+            ],
+            "registered": "Dec 6, 2025, 8:01:12 AM",
+            "role_id": 38174103118593231,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593245": {
             "crew_id": 0,
             "crew_name": "",
@@ -58031,10 +58175,26 @@
             "registered": "Dec 7, 2025, 9:11:56 PM",
             "role_id": 38174103118594804,
             "server_region": "ws_asia_01"
+        },
+        "38174103118595698": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 44677.0,
+            "last_seen": 1765243067,
+            "level": 15,
+            "name": "しゆ",
+            "name_history": [
+                "しゆ"
+            ],
+            "registered": "Dec 8, 2025, 10:23:04 PM",
+            "role_id": 38174103118595698,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3627,
+    "accounts_total": 3637,
     "created": 1764092421,
-    "last_updated": 1765242707,
+    "last_updated": 1765243067,
     "server_region": "ws_asia_01"
 }
