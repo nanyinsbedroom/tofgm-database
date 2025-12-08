@@ -5089,13 +5089,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545859": {
-            "crew_id": 622779146021,
-            "crew_name": "Lazy Cat",
-            "equipping_title": "None",
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;63",
             "gender": 1,
-            "hp": 144808.0,
-            "last_seen": 1764383573,
-            "level": 39,
+            "hp": 389356.5,
+            "last_seen": 1765248261,
+            "level": 54,
             "name": "Moon",
             "name_history": [
                 "Moon"
@@ -7494,7 +7494,7 @@
             "equipping_title": "WorldBossDamage_3;Boss_hum_036_world;12",
             "gender": 1,
             "hp": 439932.0,
-            "last_seen": 1765243067,
+            "last_seen": 1765248261,
             "level": 54,
             "name": "Furen",
             "name_history": [
@@ -8326,7 +8326,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 406484.40625,
-            "last_seen": 1765243067,
+            "last_seen": 1765248261,
             "level": 54,
             "name": "332",
             "name_history": [
@@ -9798,7 +9798,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 375859.25,
-            "last_seen": 1765243067,
+            "last_seen": 1765248261,
             "level": 53,
             "name": "たきな",
             "name_history": [
@@ -16657,13 +16657,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554909": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 66392.0,
-            "last_seen": 1764810881,
-            "level": 14,
+            "hp": 247929.0,
+            "last_seen": 1765248261,
+            "level": 54,
             "name": "Tokitsune",
             "name_history": [
                 "Tokitsune"
@@ -30966,7 +30966,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 375432.625,
-            "last_seen": 1765243067,
+            "last_seen": 1765248261,
             "level": 54,
             "name": "掩蔽",
             "name_history": [
@@ -57152,6 +57152,22 @@
             "role_id": 38174103118591288,
             "server_region": "ws_asia_01"
         },
+        "38174103118591379": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 133689.0,
+            "last_seen": 1765248261,
+            "level": 50,
+            "name": "VeTri",
+            "name_history": [
+                "VeTri"
+            ],
+            "registered": "Dec 4, 2025, 3:56:37 AM",
+            "role_id": 38174103118591379,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591423": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
@@ -58497,8 +58513,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3656,
+    "accounts_total": 3657,
     "created": 1764092421,
-    "last_updated": 1765248200,
+    "last_updated": 1765248261,
     "server_region": "ws_asia_01"
 }
