@@ -12885,9 +12885,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 112542.796875,
-            "last_seen": 1764381531,
-            "level": 39,
+            "hp": 313605.8125,
+            "last_seen": 1765217801,
+            "level": 53,
             "name": "Sakiko Togawa",
             "name_history": [
                 "Sakiko Togawa"
@@ -33710,6 +33710,22 @@
             ],
             "registered": "Nov 26, 2025, 1:20:21 AM",
             "role_id": 38174103118563651,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563688": {
+            "crew_id": 644253982501,
+            "crew_name": "Babolz",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 377529.625,
+            "last_seen": 1765217801,
+            "level": 54,
+            "name": "Shuri",
+            "name_history": [
+                "Shuri"
+            ],
+            "registered": "Nov 26, 2025, 1:23:43 AM",
+            "role_id": 38174103118563688,
             "server_region": "ws_asia_01"
         },
         "38174103118563694": {
@@ -55632,6 +55648,22 @@
             "role_id": 38174103118590742,
             "server_region": "ws_asia_01"
         },
+        "38174103118590791": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 116940.6015625,
+            "last_seen": 1765217801,
+            "level": 40,
+            "name": "夜乃とばり",
+            "name_history": [
+                "夜乃とばり"
+            ],
+            "registered": "Dec 3, 2025, 2:22:00 PM",
+            "role_id": 38174103118590791,
+            "server_region": "ws_asia_01"
+        },
         "38174103118590802": {
             "crew_id": 1851139792677,
             "crew_name": "The Spartans",
@@ -57167,10 +57199,26 @@
             "registered": "Dec 7, 2025, 3:19:27 PM",
             "role_id": 38174103118594526,
             "server_region": "ws_asia_01"
+        },
+        "38174103118594804": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 122698.796875,
+            "last_seen": 1765217801,
+            "level": 42,
+            "name": "hyra",
+            "name_history": [
+                "hyra"
+            ],
+            "registered": "Dec 7, 2025, 9:11:56 PM",
+            "role_id": 38174103118594804,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3573,
+    "accounts_total": 3576,
     "created": 1764092421,
-    "last_updated": 1765217741,
+    "last_updated": 1765217801,
     "server_region": "ws_asia_01"
 }
