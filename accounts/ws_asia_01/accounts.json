@@ -37,12 +37,12 @@
             "crew_name": "コネクト",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 82603.0,
-            "last_seen": 1764116494,
-            "level": 22,
-            "name": "ひばり",
+            "hp": 362427.0625,
+            "last_seen": 1765245859,
+            "level": 53,
+            "name": "ひばりたん",
             "name_history": [
-                "ひばり"
+                "ひばりたん"
             ],
             "registered": "Nov 25, 2025, 5:01:36 PM",
             "role_id": 38174103118544910,
@@ -50336,6 +50336,22 @@
             "role_id": 38174103118581954,
             "server_region": "ws_asia_01"
         },
+        "38174103118581959": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 152390.234375,
+            "last_seen": 1765245859,
+            "level": 51,
+            "name": "Flowy",
+            "name_history": [
+                "Flowy"
+            ],
+            "registered": "Nov 29, 2025, 1:06:42 AM",
+            "role_id": 38174103118581959,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581960": {
             "crew_id": 0,
             "crew_name": "",
@@ -58417,8 +58433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3651,
+    "accounts_total": 3652,
     "created": 1764092421,
-    "last_updated": 1765245799,
+    "last_updated": 1765245859,
     "server_region": "ws_asia_01"
 }
