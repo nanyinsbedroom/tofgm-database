@@ -10182,7 +10182,7 @@
             "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;4",
             "gender": 1,
             "hp": 441370.0,
-            "last_seen": 1765329041,
+            "last_seen": 1765329614,
             "level": 55,
             "name": "Rhyna",
             "name_history": [
@@ -22062,6 +22062,22 @@
             ],
             "registered": "Nov 25, 2025, 7:55:54 PM",
             "role_id": 38174103118557350,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557361": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 408922.0,
+            "last_seen": 1765329614,
+            "level": 55,
+            "name": "ChernoobyL.",
+            "name_history": [
+                "ChernoobyL."
+            ],
+            "registered": "Nov 25, 2025, 7:56:25 PM",
+            "role_id": 38174103118557361,
             "server_region": "ws_asia_01"
         },
         "38174103118557362": {
@@ -34565,9 +34581,9 @@
             "crew_name": "Alter",
             "equipping_title": "WorldBossDamage_1;boss_hum_045_world;1",
             "gender": 0,
-            "hp": 286919.125,
-            "last_seen": 1765240429,
-            "level": 54,
+            "hp": 413218.4375,
+            "last_seen": 1765329614,
+            "level": 55,
             "name": "Chatty",
             "name_history": [
                 "Chatty"
@@ -58865,8 +58881,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3679,
+    "accounts_total": 3680,
     "created": 1764092421,
-    "last_updated": 1765329553,
+    "last_updated": 1765329614,
     "server_region": "ws_asia_01"
 }
