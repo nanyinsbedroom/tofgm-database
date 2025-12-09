@@ -44597,9 +44597,9 @@
             "crew_name": "PHANTOMHIVEPH ",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 267237.0,
-            "last_seen": 1764862444,
-            "level": 50,
+            "hp": 364854.0,
+            "last_seen": 1765332831,
+            "level": 55,
             "name": "Margz",
             "name_history": [
                 "Margz"
@@ -58656,6 +58656,22 @@
             "role_id": 38174103118593027,
             "server_region": "ws_asia_01"
         },
+        "38174103118593041": {
+            "crew_id": 283476729637,
+            "crew_name": "Eternal Sky",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 97852.890625,
+            "last_seen": 1765332831,
+            "level": 48,
+            "name": "カツキ",
+            "name_history": [
+                "カツキ"
+            ],
+            "registered": "Dec 6, 2025, 2:21:44 AM",
+            "role_id": 38174103118593041,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593077": {
             "crew_id": 0,
             "crew_name": "",
@@ -59343,10 +59359,26 @@
             "registered": "Dec 8, 2025, 10:23:04 PM",
             "role_id": 38174103118595698,
             "server_region": "ws_asia_01"
+        },
+        "38174103118596125": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 69250.0,
+            "last_seen": 1765332831,
+            "level": 16,
+            "name": "gabri",
+            "name_history": [
+                "gabri"
+            ],
+            "registered": "Dec 9, 2025, 1:44:11 PM",
+            "role_id": 38174103118596125,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3709,
+    "accounts_total": 3711,
     "created": 1764092421,
-    "last_updated": 1765332471,
+    "last_updated": 1765332831,
     "server_region": "ws_asia_01"
 }
