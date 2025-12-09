@@ -1715,11 +1715,11 @@
         "38174103118545164": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;64",
             "gender": 1,
-            "hp": 362468.0,
-            "last_seen": 1764872010,
-            "level": 50,
+            "hp": 428076.0,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "Hres.",
             "name_history": [
                 "Hres."
@@ -6693,9 +6693,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 376508.625,
-            "last_seen": 1765246099,
-            "level": 54,
+            "hp": 379254.1875,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "SpacePenguin",
             "name_history": [
                 "SpacePenguin"
@@ -8835,11 +8835,11 @@
         "38174103118546868": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;40",
             "gender": 1,
-            "hp": 75308.3984375,
-            "last_seen": 1765125623,
-            "level": 51,
+            "hp": 339666.0,
+            "last_seen": 1765329674,
+            "level": 52,
             "name": "Whirley",
             "name_history": [
                 "Whirley"
@@ -29203,11 +29203,11 @@
         "38174103118560397": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;37",
             "gender": 1,
-            "hp": 348768.0,
-            "last_seen": 1764696133,
-            "level": 48,
+            "hp": 450134.0,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "深冷海炎",
             "name_history": [
                 "深冷海炎"
@@ -31877,9 +31877,9 @@
             "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 192441.0,
-            "last_seen": 1765067900,
-            "level": 52,
+            "hp": 217306.203125,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "菊月桜花",
             "name_history": [
                 "菊月桜花"
@@ -36515,11 +36515,11 @@
         "38174103118565055": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_015_Sand_world;72",
+            "equipping_title": "WorldBossDamage_3;boss_hum_053_world;23",
             "gender": 0,
-            "hp": 175147.03125,
-            "last_seen": 1764729166,
-            "level": 48,
+            "hp": 383224.40625,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "Bavarian",
             "name_history": [
                 "Bavarian"
@@ -39253,9 +39253,9 @@
             "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 334506.0,
-            "last_seen": 1764717003,
-            "level": 48,
+            "hp": 420357.8125,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "ファイi",
             "name_history": [
                 "ファイi"
@@ -45845,9 +45845,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 338618.0,
-            "last_seen": 1765220059,
-            "level": 53,
+            "hp": 357658.0,
+            "last_seen": 1765329674,
+            "level": 55,
             "name": "エイル",
             "name_history": [
                 "エイル"
@@ -53376,6 +53376,22 @@
             "role_id": 38174103118585363,
             "server_region": "ws_asia_01"
         },
+        "38174103118585377": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 131232.0,
+            "last_seen": 1765329674,
+            "level": 52,
+            "name": "シゼル",
+            "name_history": [
+                "シゼル"
+            ],
+            "registered": "Nov 30, 2025, 5:48:43 AM",
+            "role_id": 38174103118585377,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585406": {
             "crew_id": 0,
             "crew_name": "",
@@ -58112,6 +58128,22 @@
             "role_id": 38174103118592592,
             "server_region": "ws_asia_01"
         },
+        "38174103118592602": {
+            "crew_id": 1984283778853,
+            "crew_name": "cnclv",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 179526.203125,
+            "last_seen": 1765329674,
+            "level": 53,
+            "name": "TikiWiki",
+            "name_history": [
+                "TikiWiki"
+            ],
+            "registered": "Dec 5, 2025, 4:11:11 PM",
+            "role_id": 38174103118592602,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592803": {
             "crew_id": 0,
             "crew_name": "",
@@ -58881,8 +58913,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3680,
+    "accounts_total": 3682,
     "created": 1764092421,
-    "last_updated": 1765329614,
+    "last_updated": 1765329674,
     "server_region": "ws_asia_01"
 }
