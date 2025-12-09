@@ -6899,11 +6899,11 @@
         "38174103118546303": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;42",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_020_world;8",
             "gender": 0,
-            "hp": 365026.21875,
-            "last_seen": 1765071994,
-            "level": 52,
+            "hp": 396834.0,
+            "last_seen": 1765305991,
+            "level": 55,
             "name": "R A I Z E N",
             "name_history": [
                 "R A I Z E N"
@@ -14405,9 +14405,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 367115.0,
-            "last_seen": 1765126991,
-            "level": 52,
+            "hp": 380256.0,
+            "last_seen": 1765305991,
+            "level": 54,
             "name": "Seika",
             "name_history": [
                 "Seika"
@@ -48064,6 +48064,22 @@
             "role_id": 38174103118579249,
             "server_region": "ws_asia_01"
         },
+        "38174103118579268": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 394600.21875,
+            "last_seen": 1765305991,
+            "level": 55,
+            "name": "Ciaran",
+            "name_history": [
+                "Ciaran"
+            ],
+            "registered": "Nov 28, 2025, 2:42:33 AM",
+            "role_id": 38174103118579268,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579315": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
@@ -58593,8 +58609,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3662,
+    "accounts_total": 3663,
     "created": 1764092421,
-    "last_updated": 1765305931,
+    "last_updated": 1765305991,
     "server_region": "ws_asia_01"
 }
