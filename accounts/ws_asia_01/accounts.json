@@ -277,9 +277,9 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 312460.1875,
-            "last_seen": 1764798257,
-            "level": 49,
+            "hp": 439344.90625,
+            "last_seen": 1765311885,
+            "level": 55,
             "name": "Rune",
             "name_history": [
                 "Rune"
@@ -8003,11 +8003,11 @@
         "38174103118546608": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;100",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 373727.40625,
-            "last_seen": 1765063254,
-            "level": 52,
+            "hp": 396933.21875,
+            "last_seen": 1765311885,
+            "level": 55,
             "name": "BramWarp",
             "name_history": [
                 "BramWarp"
@@ -57488,6 +57488,22 @@
             "role_id": 38174103118591683,
             "server_region": "ws_asia_01"
         },
+        "38174103118591684": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 353640.1875,
+            "last_seen": 1765311885,
+            "level": 55,
+            "name": "Kevin2i",
+            "name_history": [
+                "Kevin2i"
+            ],
+            "registered": "Dec 4, 2025, 2:54:43 PM",
+            "role_id": 38174103118591684,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591745": {
             "crew_id": 0,
             "crew_name": "",
@@ -58753,8 +58769,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3672,
+    "accounts_total": 3673,
     "created": 1764092421,
-    "last_updated": 1765311224,
+    "last_updated": 1765311885,
     "server_region": "ws_asia_01"
 }
