@@ -787,11 +787,11 @@
         "38174103118545029": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;64",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 294896.40625,
-            "last_seen": 1764871770,
-            "level": 49,
+            "hp": 389937.625,
+            "last_seen": 1765329914,
+            "level": 55,
             "name": "cut",
             "name_history": [
                 "cut"
@@ -5840,6 +5840,22 @@
             "role_id": 38174103118546019,
             "server_region": "ws_asia_01"
         },
+        "38174103118546020": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 418369.8125,
+            "last_seen": 1765329914,
+            "level": 55,
+            "name": "金曜倶楽部",
+            "name_history": [
+                "金曜倶楽部"
+            ],
+            "registered": "Nov 25, 2025, 5:07:19 PM",
+            "role_id": 38174103118546020,
+            "server_region": "ws_asia_01"
+        },
         "38174103118546022": {
             "crew_id": 0,
             "crew_name": "",
@@ -8581,9 +8597,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 366515.625,
-            "last_seen": 1765217621,
-            "level": 54,
+            "hp": 384230.25,
+            "last_seen": 1765329914,
+            "level": 55,
             "name": "めろん",
             "name_history": [
                 "めろん"
@@ -22405,9 +22421,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 443356.40625,
-            "last_seen": 1765238543,
-            "level": 54,
+            "hp": 444220.40625,
+            "last_seen": 1765329914,
+            "level": 55,
             "name": " Miro",
             "name_history": [
                 " Miro"
@@ -33118,6 +33134,22 @@
             ],
             "registered": "Nov 26, 2025, 12:26:09 AM",
             "role_id": 38174103118562924,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562925": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 375764.1875,
+            "last_seen": 1765329914,
+            "level": 54,
+            "name": "リュキン",
+            "name_history": [
+                "リュキン"
+            ],
+            "registered": "Nov 26, 2025, 12:26:16 AM",
+            "role_id": 38174103118562925,
             "server_region": "ws_asia_01"
         },
         "38174103118562926": {
@@ -58945,8 +58977,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3684,
+    "accounts_total": 3686,
     "created": 1764092421,
-    "last_updated": 1765329854,
+    "last_updated": 1765329914,
     "server_region": "ws_asia_01"
 }
