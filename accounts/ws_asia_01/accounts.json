@@ -10838,7 +10838,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 335421.03125,
-            "last_seen": 1765245618,
+            "last_seen": 1765329221,
             "level": 52,
             "name": "GachaIsHaram",
             "name_history": [
@@ -13413,9 +13413,9 @@
             "crew_name": "終わりと始まりの理",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 57119.0859375,
-            "last_seen": 1764728266,
-            "level": 47,
+            "hp": 379219.0,
+            "last_seen": 1765329221,
+            "level": 54,
             "name": "ぜく",
             "name_history": [
                 "ぜく"
@@ -41456,6 +41456,22 @@
             "role_id": 38174103118570327,
             "server_region": "ws_asia_01"
         },
+        "38174103118570331": {
+            "crew_id": 47253528357,
+            "crew_name": "じゃぱたま",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 331099.59375,
+            "last_seen": 1765329221,
+            "level": 55,
+            "name": "MVS",
+            "name_history": [
+                "MVS"
+            ],
+            "registered": "Nov 26, 2025, 7:06:01 PM",
+            "role_id": 38174103118570331,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570356": {
             "crew_id": 0,
             "crew_name": "",
@@ -58769,8 +58785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3673,
+    "accounts_total": 3674,
     "created": 1764092421,
-    "last_updated": 1765329161,
+    "last_updated": 1765329221,
     "server_region": "ws_asia_01"
 }
