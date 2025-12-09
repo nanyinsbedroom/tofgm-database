@@ -28113,13 +28113,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118559865": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 144518.8125,
-            "last_seen": 1764431970,
-            "level": 42,
+            "hp": 370314.0,
+            "last_seen": 1765308634,
+            "level": 55,
             "name": "Tsg",
             "name_history": [
                 "Tsg"
@@ -33205,9 +33205,9 @@
             "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 153984.0,
-            "last_seen": 1764359882,
-            "level": 39,
+            "hp": 437362.96875,
+            "last_seen": 1765308634,
+            "level": 55,
             "name": "しい",
             "name_history": [
                 "しい"
@@ -45342,6 +45342,22 @@
             ],
             "registered": "Nov 27, 2025, 9:49:13 AM",
             "role_id": 38174103118576064,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118576079": {
+            "crew_id": 854707380005,
+            "crew_name": "XCEED",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 256106.8125,
+            "last_seen": 1765308634,
+            "level": 54,
+            "name": "Fuyuka",
+            "name_history": [
+                "Fuyuka"
+            ],
+            "registered": "Nov 27, 2025, 9:55:23 AM",
+            "role_id": 38174103118576079,
             "server_region": "ws_asia_01"
         },
         "38174103118576080": {
@@ -58705,8 +58721,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3669,
+    "accounts_total": 3670,
     "created": 1764092421,
-    "last_updated": 1765307964,
+    "last_updated": 1765308634,
     "server_region": "ws_asia_01"
 }
