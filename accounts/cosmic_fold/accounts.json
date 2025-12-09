@@ -9636,11 +9636,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695856501": {
-            "crew_id": 197568510420,
-            "crew_name": "末班车",
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "last_seen": 1759684358,
+            "hp": 1002950.5,
+            "last_seen": 1765333093,
+            "level": 74,
             "name": "拓荒",
+            "name_history": [
+                "拓荒"
+            ],
             "registered": "2025年9月25日 下午7:27:34",
             "role_id": 63582695856501,
             "server_region": "cosmic_fold"
@@ -44569,6 +44575,6 @@
     },
     "accounts_total": 3718,
     "created": 1758803451,
-    "last_updated": 1765333033,
+    "last_updated": 1765333093,
     "server_region": "cosmic_fold"
 }
