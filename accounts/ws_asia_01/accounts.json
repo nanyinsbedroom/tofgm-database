@@ -1830,7 +1830,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 343113.625,
-            "last_seen": 1765400997,
+            "last_seen": 1765402442,
             "level": 56,
             "name": "Mefelgris",
             "name_history": [
@@ -22126,6 +22126,22 @@
             ],
             "registered": "Nov 25, 2025, 7:52:09 PM",
             "role_id": 38174103118557253,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557257": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;65",
+            "gender": 0,
+            "hp": 423648.0,
+            "last_seen": 1765402442,
+            "level": 56,
+            "name": "RedHood",
+            "name_history": [
+                "RedHood"
+            ],
+            "registered": "Nov 25, 2025, 7:52:22 PM",
+            "role_id": 38174103118557257,
             "server_region": "ws_asia_01"
         },
         "38174103118557261": {
@@ -60417,8 +60433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3776,
+    "accounts_total": 3777,
     "created": 1764092421,
-    "last_updated": 1765402382,
+    "last_updated": 1765402442,
     "server_region": "ws_asia_01"
 }
