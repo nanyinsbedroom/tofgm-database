@@ -9333,9 +9333,9 @@
             "crew_name": "Alter",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 294451.875,
-            "last_seen": 1764864125,
-            "level": 50,
+            "hp": 385271.40625,
+            "last_seen": 1765429056,
+            "level": 56,
             "name": "Mortis",
             "name_history": [
                 "Mortis"
@@ -30910,6 +30910,22 @@
             ],
             "registered": "Nov 25, 2025, 10:33:03 PM",
             "role_id": 38174103118560904,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560908": {
+            "crew_id": 90203201317,
+            "crew_name": "Wyverns",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 373374.8125,
+            "last_seen": 1765429056,
+            "level": 56,
+            "name": "Ｌｏｔｕｓ",
+            "name_history": [
+                "Ｌｏｔｕｓ"
+            ],
+            "registered": "Nov 25, 2025, 10:33:10 PM",
+            "role_id": 38174103118560908,
             "server_region": "ws_asia_01"
         },
         "38174103118560909": {
@@ -61329,8 +61345,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3833,
+    "accounts_total": 3834,
     "created": 1764092421,
-    "last_updated": 1765428995,
+    "last_updated": 1765429056,
     "server_region": "ws_asia_01"
 }
