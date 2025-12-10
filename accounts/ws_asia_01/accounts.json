@@ -8211,11 +8211,11 @@
         "38174103118546659": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 86366.0,
-            "last_seen": 1764128991,
-            "level": 22,
+            "hp": 166266.375,
+            "last_seen": 1765398942,
+            "level": 54,
             "name": "あんこ",
             "name_history": [
                 "あんこ"
@@ -58704,6 +58704,22 @@
             "role_id": 38174103118591829,
             "server_region": "ws_asia_01"
         },
+        "38174103118591875": {
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 356858.8125,
+            "last_seen": 1765398942,
+            "level": 55,
+            "name": "RawRie",
+            "name_history": [
+                "RawRie"
+            ],
+            "registered": "Dec 4, 2025, 7:37:24 PM",
+            "role_id": 38174103118591875,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591922": {
             "crew_id": 1821075021605,
             "crew_name": "MEKODIANS",
@@ -59985,8 +60001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3749,
+    "accounts_total": 3750,
     "created": 1764092421,
-    "last_updated": 1765398882,
+    "last_updated": 1765398942,
     "server_region": "ws_asia_01"
 }
