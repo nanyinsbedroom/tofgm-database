@@ -693,9 +693,9 @@
             "crew_name": "Saints",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 398573.40625,
-            "last_seen": 1765230433,
-            "level": 54,
+            "hp": 371605.09375,
+            "last_seen": 1765427915,
+            "level": 56,
             "name": "Suica",
             "name_history": [
                 "Suica"
@@ -47840,6 +47840,22 @@
             "role_id": 38174103118577207,
             "server_region": "ws_asia_01"
         },
+        "38174103118577227": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 145954.8125,
+            "last_seen": 1765427915,
+            "level": 52,
+            "name": "Azuras",
+            "name_history": [
+                "Azuras"
+            ],
+            "registered": "Nov 27, 2025, 4:23:24 PM",
+            "role_id": 38174103118577227,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577261": {
             "crew_id": 0,
             "crew_name": "",
@@ -53614,6 +53630,22 @@
             ],
             "registered": "Nov 29, 2025, 1:27:26 PM",
             "role_id": 38174103118583341,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118583363": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 69935.0,
+            "last_seen": 1765427915,
+            "level": 13,
+            "name": "MadnessTrick",
+            "name_history": [
+                "MadnessTrick"
+            ],
+            "registered": "Nov 29, 2025, 1:36:13 PM",
+            "role_id": 38174103118583363,
             "server_region": "ws_asia_01"
         },
         "38174103118583380": {
@@ -61297,8 +61329,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3831,
+    "accounts_total": 3833,
     "created": 1764092421,
-    "last_updated": 1765426966,
+    "last_updated": 1765427915,
     "server_region": "ws_asia_01"
 }
