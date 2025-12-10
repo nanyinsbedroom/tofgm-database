@@ -12501,9 +12501,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 335316.0,
-            "last_seen": 1765150922,
-            "level": 53,
+            "hp": 388635.0,
+            "last_seen": 1765426546,
+            "level": 56,
             "name": "Venera",
             "name_history": [
                 "Venera"
@@ -24005,9 +24005,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 170145.203125,
-            "last_seen": 1765138582,
-            "level": 48,
+            "hp": 202881.796875,
+            "last_seen": 1765426546,
+            "level": 51,
             "name": "gateoo_",
             "name_history": [
                 "gateoo_"
@@ -24421,8 +24421,8 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 454185.21875,
-            "last_seen": 1765398701,
+            "hp": 457718.0,
+            "last_seen": 1765426546,
             "level": 56,
             "name": "Nohana_z",
             "name_history": [
@@ -31621,9 +31621,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 460214.0,
-            "last_seen": 1765329553,
-            "level": 55,
+            "hp": 461078.0,
+            "last_seen": 1765426546,
+            "level": 56,
             "name": "Semaj",
             "name_history": [
                 "Semaj"
@@ -45694,6 +45694,22 @@
             ],
             "registered": "Nov 27, 2025, 1:40:11 AM",
             "role_id": 38174103118574719,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118574722": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 271530.8125,
+            "last_seen": 1765426546,
+            "level": 56,
+            "name": "Jinyue",
+            "name_history": [
+                "Jinyue"
+            ],
+            "registered": "Nov 27, 2025, 1:40:46 AM",
+            "role_id": 38174103118574722,
             "server_region": "ws_asia_01"
         },
         "38174103118574738": {
@@ -61168,6 +61184,38 @@
             "role_id": 38174103118597203,
             "server_region": "ws_asia_01"
         },
+        "38174103118597212": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 12384.0,
+            "last_seen": 1765426546,
+            "level": 6,
+            "name": "Zyari",
+            "name_history": [
+                "Zyari"
+            ],
+            "registered": "Dec 11, 2025, 1:45:00 AM",
+            "role_id": 38174103118597212,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118597249": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37987.0,
+            "last_seen": 1765426546,
+            "level": 9,
+            "name": "TouchJi",
+            "name_history": [
+                "TouchJi"
+            ],
+            "registered": "Dec 11, 2025, 2:38:48 AM",
+            "role_id": 38174103118597249,
+            "server_region": "ws_asia_01"
+        },
         "38174103118597251": {
             "crew_id": 0,
             "crew_name": "",
@@ -61201,8 +61249,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3825,
+    "accounts_total": 3828,
     "created": 1764092421,
-    "last_updated": 1765426186,
+    "last_updated": 1765426546,
     "server_region": "ws_asia_01"
 }
