@@ -3091,11 +3091,11 @@
         "38174103118545393": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;42",
             "gender": 1,
-            "hp": 120062.0,
-            "last_seen": 1764195216,
-            "level": 29,
+            "hp": 306152.5625,
+            "last_seen": 1765403283,
+            "level": 56,
             "name": "Miyu",
             "name_history": [
                 "Miyu"
@@ -6227,14 +6227,14 @@
         "38174103118546110": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;49",
             "gender": 1,
-            "hp": 121885.3984375,
-            "last_seen": 1764291103,
-            "level": 34,
-            "name": "Felihex",
+            "hp": 446805.0,
+            "last_seen": 1765403283,
+            "level": 56,
+            "name": "เคี้ยวหนม",
             "name_history": [
-                "Felihex"
+                "เคี้ยวหนม"
             ],
             "registered": "Nov 25, 2025, 5:08:11 PM",
             "role_id": 38174103118546110,
@@ -10243,11 +10243,11 @@
         "38174103118548010": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;24",
             "gender": 1,
-            "hp": 111285.0,
-            "last_seen": 1764200677,
-            "level": 29,
+            "hp": 420791.8125,
+            "last_seen": 1765403283,
+            "level": 56,
             "name": "egg",
             "name_history": [
                 "egg"
@@ -17365,9 +17365,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 388551.0,
-            "last_seen": 1765217981,
-            "level": 54,
+            "hp": 393888.59375,
+            "last_seen": 1765403283,
+            "level": 56,
             "name": "เย็ดหีแตกใน",
             "name_history": [
                 "เย็ดหีแตกใน"
@@ -21283,11 +21283,11 @@
         "38174103118556848": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_030_world;11",
             "gender": 1,
-            "hp": 327570.625,
-            "last_seen": 1765078991,
-            "level": 52,
+            "hp": 389473.1875,
+            "last_seen": 1765403283,
+            "level": 56,
             "name": "立つタイプのしゃもじ",
             "name_history": [
                 "立つタイプのしゃもじ"
@@ -21582,6 +21582,22 @@
             ],
             "registered": "Nov 25, 2025, 7:40:11 PM",
             "role_id": 38174103118556993,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556997": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "WorldBossDamage_1;boss_hum_061_World;2",
+            "gender": 1,
+            "hp": 455712.84375,
+            "last_seen": 1765403283,
+            "level": 56,
+            "name": "ぽぷす",
+            "name_history": [
+                "ぽぷす"
+            ],
+            "registered": "Nov 25, 2025, 7:40:17 PM",
+            "role_id": 38174103118556997,
             "server_region": "ws_asia_01"
         },
         "38174103118557003": {
@@ -40272,6 +40288,22 @@
             "role_id": 38174103118567909,
             "server_region": "ws_asia_01"
         },
+        "38174103118567968": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 296643.8125,
+            "last_seen": 1765403283,
+            "level": 56,
+            "name": "ユファ",
+            "name_history": [
+                "ユファ"
+            ],
+            "registered": "Nov 26, 2025, 12:52:25 PM",
+            "role_id": 38174103118567968,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567972": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
@@ -44062,6 +44094,22 @@
             ],
             "registered": "Nov 26, 2025, 10:46:13 PM",
             "role_id": 38174103118572494,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118572595": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 438379.21875,
+            "last_seen": 1765403283,
+            "level": 56,
+            "name": "TunaJr",
+            "name_history": [
+                "TunaJr"
+            ],
+            "registered": "Nov 26, 2025, 10:49:16 PM",
+            "role_id": 38174103118572595,
             "server_region": "ws_asia_01"
         },
         "38174103118572598": {
@@ -60609,8 +60657,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3788,
+    "accounts_total": 3791,
     "created": 1764092421,
-    "last_updated": 1765403223,
+    "last_updated": 1765403283,
     "server_region": "ws_asia_01"
 }
