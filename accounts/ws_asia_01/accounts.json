@@ -2739,11 +2739,11 @@
         "38174103118545338": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 124481.203125,
-            "last_seen": 1764270074,
-            "level": 34,
+            "hp": 286542.21875,
+            "last_seen": 1765400383,
+            "level": 55,
             "name": "Yuukarin",
             "name_history": [
                 "Yuukarin"
@@ -37333,9 +37333,9 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 412593.09375,
-            "last_seen": 1765311224,
-            "level": 55,
+            "hp": 441160.1875,
+            "last_seen": 1765400383,
+            "level": 56,
             "name": "Nyaharu",
             "name_history": [
                 "Nyaharu"
@@ -46817,13 +46817,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118576753": {
-            "crew_id": 51548495653,
-            "crew_name": "Hykros",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 339759.59375,
-            "last_seen": 1764696872,
-            "level": 48,
+            "hp": 454358.0,
+            "last_seen": 1765400383,
+            "level": 56,
             "name": "Mèo",
             "name_history": [
                 "Mèo"
@@ -51806,6 +51806,22 @@
             ],
             "registered": "Nov 29, 2025, 1:21:44 AM",
             "role_id": 38174103118582006,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118582014": {
+            "crew_id": 141742808869,
+            "crew_name": "NoahArk",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 197417.984375,
+            "last_seen": 1765400383,
+            "level": 52,
+            "name": "Reginan",
+            "name_history": [
+                "Reginan"
+            ],
+            "registered": "Nov 29, 2025, 1:25:32 AM",
+            "role_id": 38174103118582014,
             "server_region": "ws_asia_01"
         },
         "38174103118582030": {
@@ -59989,9 +60005,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 173765.71875,
-            "last_seen": 1765245678,
-            "level": 54,
+            "hp": 154171.703125,
+            "last_seen": 1765400383,
+            "level": 56,
             "name": "カミナギ",
             "name_history": [
                 "カミナギ"
@@ -60385,8 +60401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3774,
+    "accounts_total": 3775,
     "created": 1764092421,
-    "last_updated": 1765400323,
+    "last_updated": 1765400383,
     "server_region": "ws_asia_01"
 }
