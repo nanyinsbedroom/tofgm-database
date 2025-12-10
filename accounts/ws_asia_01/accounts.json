@@ -20196,10 +20196,10 @@
             "crew_id": 227642154789,
             "crew_name": "くまたん！",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 112427.0,
-            "last_seen": 1764798677,
-            "level": 47,
+            "gender": 0,
+            "hp": 241390.0,
+            "last_seen": 1765397620,
+            "level": 55,
             "name": "夕凪（Warp版）",
             "name_history": [
                 "夕凪（Warp版）"
@@ -37312,6 +37312,22 @@
             "role_id": 38174103118565305,
             "server_region": "ws_asia_01"
         },
+        "38174103118565312": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 276204.40625,
+            "last_seen": 1765397620,
+            "level": 55,
+            "name": "XiFays",
+            "name_history": [
+                "XiFays"
+            ],
+            "registered": "Nov 26, 2025, 4:49:25 AM",
+            "role_id": 38174103118565312,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565313": {
             "crew_id": 0,
             "crew_name": "",
@@ -38581,9 +38597,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 67704.0,
-            "last_seen": 1764215476,
-            "level": 20,
+            "hp": 212878.21875,
+            "last_seen": 1765397620,
+            "level": 54,
             "name": "ザワ",
             "name_history": [
                 "ザワ"
@@ -39907,11 +39923,11 @@
         "38174103118568109": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 119489.203125,
-            "last_seen": 1764291043,
-            "level": 34,
+            "hp": 390109.625,
+            "last_seen": 1765397620,
+            "level": 56,
             "name": "ztea",
             "name_history": [
                 "ztea"
@@ -40325,9 +40341,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 136762.0,
-            "last_seen": 1764697112,
-            "level": 46,
+            "hp": 242346.21875,
+            "last_seen": 1765397620,
+            "level": 54,
             "name": "Aeriss",
             "name_history": [
                 "Aeriss"
@@ -40526,6 +40542,22 @@
             ],
             "registered": "Nov 26, 2025, 2:49:43 PM",
             "role_id": 38174103118568728,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118568750": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 233299.40625,
+            "last_seen": 1765397620,
+            "level": 54,
+            "name": "エトレエク",
+            "name_history": [
+                "エトレエク"
+            ],
+            "registered": "Nov 26, 2025, 2:53:11 PM",
+            "role_id": 38174103118568750,
             "server_region": "ws_asia_01"
         },
         "38174103118568764": {
@@ -43859,11 +43891,11 @@
         "38174103118573479": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 77240.0,
-            "last_seen": 1764215596,
-            "level": 25,
+            "hp": 348834.8125,
+            "last_seen": 1765397620,
+            "level": 53,
             "name": "Hanasaki69",
             "name_history": [
                 "Hanasaki69"
@@ -59729,8 +59761,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3733,
+    "accounts_total": 3735,
     "created": 1764092421,
-    "last_updated": 1765397560,
+    "last_updated": 1765397620,
     "server_region": "ws_asia_01"
 }
