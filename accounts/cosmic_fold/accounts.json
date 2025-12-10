@@ -12442,6 +12442,22 @@
             "role_id": 63582695858523,
             "server_region": "cosmic_fold"
         },
+        "63582695858534": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "WorldBossDamage_3;boss_hum_079_world;11",
+            "gender": 1,
+            "hp": 196903.53125,
+            "last_seen": 1765418478,
+            "level": 74,
+            "name": "桜",
+            "name_history": [
+                "桜"
+            ],
+            "registered": "2025年9月25日 下午8:14:05",
+            "role_id": 63582695858534,
+            "server_region": "cosmic_fold"
+        },
         "63582695858536": {
             "crew_id": 0,
             "crew_name": "",
@@ -28331,12 +28347,15 @@
         "63582695881513": {
             "crew_id": 304942692820,
             "crew_name": "快乐老家",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 490547.78125,
-            "last_seen": 1760900870,
-            "level": 61,
-            "name": "豆绿北南咪基哈",
+            "hp": 766794.375,
+            "last_seen": 1765418478,
+            "level": 74,
+            "name": "南北哈基米",
+            "name_history": [
+                "南北哈基米"
+            ],
             "registered": "2025年9月27日 下午11:12:16",
             "role_id": 63582695881513,
             "server_region": "cosmic_fold"
@@ -44637,8 +44656,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3722,
+    "accounts_total": 3723,
     "created": 1758803451,
-    "last_updated": 1765417877,
+    "last_updated": 1765418478,
     "server_region": "cosmic_fold"
 }
