@@ -12277,9 +12277,9 @@
             "crew_name": "Restart",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 219648.359375,
-            "last_seen": 1765230493,
-            "level": 52,
+            "hp": 369096.59375,
+            "last_seen": 1765424804,
+            "level": 54,
             "name": "サリフ",
             "name_history": [
                 "サリフ"
@@ -18094,6 +18094,22 @@
             ],
             "registered": "Nov 25, 2025, 6:40:45 PM",
             "role_id": 38174103118555424,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555428": {
+            "crew_id": 382260977445,
+            "crew_name": "Rst",
+            "equipping_title": "WorldBossDamage_1;boss_hum_057_world;3",
+            "gender": 1,
+            "hp": 429347.1875,
+            "last_seen": 1765424804,
+            "level": 56,
+            "name": "るる",
+            "name_history": [
+                "るる"
+            ],
+            "registered": "Nov 25, 2025, 6:40:46 PM",
+            "role_id": 38174103118555428,
             "server_region": "ws_asia_01"
         },
         "38174103118555432": {
@@ -24629,9 +24645,9 @@
             "crew_name": "Restart",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 569270.0625,
-            "last_seen": 1764961308,
-            "level": 51,
+            "hp": 444572.0,
+            "last_seen": 1765424804,
+            "level": 56,
             "name": "がーねっと",
             "name_history": [
                 "がーねっと"
@@ -35525,9 +35541,9 @@
             "crew_name": "Alter",
             "equipping_title": "WorldBossDamage_1;boss_hum_045_world;1",
             "gender": 0,
-            "hp": 413218.4375,
-            "last_seen": 1765329614,
-            "level": 55,
+            "hp": 447503.0,
+            "last_seen": 1765424804,
+            "level": 56,
             "name": "Chatty",
             "name_history": [
                 "Chatty"
@@ -58449,16 +58465,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118589852": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 279181762341,
+            "crew_name": "甘味処パルフェ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 49619.0,
-            "last_seen": 1764717783,
-            "level": 14,
-            "name": "Kyopo",
+            "hp": 312759.8125,
+            "last_seen": 1765424804,
+            "level": 55,
+            "name": "きょぽ",
             "name_history": [
-                "Kyopo"
+                "きょぽ"
             ],
             "registered": "Dec 2, 2025, 8:12:15 PM",
             "role_id": 38174103118589852,
@@ -61137,8 +61153,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3821,
+    "accounts_total": 3822,
     "created": 1764092421,
-    "last_updated": 1765424744,
+    "last_updated": 1765424804,
     "server_region": "ws_asia_01"
 }
