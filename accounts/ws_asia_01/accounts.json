@@ -3107,11 +3107,11 @@
         "38174103118545400": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_030_world;27",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;32",
             "gender": 1,
-            "hp": 243321.859375,
-            "last_seen": 1765068501,
-            "level": 50,
+            "hp": 358101.625,
+            "last_seen": 1765399722,
+            "level": 54,
             "name": "Ahegao_さん。",
             "name_history": [
                 "Ahegao_さん。"
@@ -3477,9 +3477,9 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 136995.8125,
-            "last_seen": 1765245738,
-            "level": 49,
+            "hp": 137859.8125,
+            "last_seen": 1765399722,
+            "level": 50,
             "name": "limmm",
             "name_history": [
                 "limmm"
@@ -13491,11 +13491,11 @@
         "38174103118552394": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 152174.578125,
-            "last_seen": 1764728806,
-            "level": 48,
+            "hp": 296617.0,
+            "last_seen": 1765399722,
+            "level": 55,
             "name": "めぐ",
             "name_history": [
                 "めぐ"
@@ -22357,9 +22357,9 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 353358.0,
-            "last_seen": 1765141865,
-            "level": 53,
+            "hp": 391117.0,
+            "last_seen": 1765399722,
+            "level": 56,
             "name": "ひつぎ",
             "name_history": [
                 "ひつぎ"
@@ -22645,9 +22645,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 444220.40625,
-            "last_seen": 1765329914,
-            "level": 55,
+            "hp": 445084.40625,
+            "last_seen": 1765399722,
+            "level": 56,
             "name": " Miro",
             "name_history": [
                 " Miro"
@@ -25440,6 +25440,22 @@
             "role_id": 38174103118558523,
             "server_region": "ws_asia_01"
         },
+        "38174103118558529": {
+            "crew_id": 695793590053,
+            "crew_name": "ミラポリス幻影騎士団",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 393373.0,
+            "last_seen": 1765399722,
+            "level": 56,
+            "name": "モハン",
+            "name_history": [
+                "モハン"
+            ],
+            "registered": "Nov 25, 2025, 8:45:24 PM",
+            "role_id": 38174103118558529,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558530": {
             "crew_id": 0,
             "crew_name": "",
@@ -28131,11 +28147,11 @@
         "38174103118559684": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_059_world;84",
             "gender": 1,
-            "hp": 343502.0,
-            "last_seen": 1764866210,
-            "level": 49,
+            "hp": 439873.1875,
+            "last_seen": 1765399722,
+            "level": 55,
             "name": "Oshi",
             "name_history": [
                 "Oshi"
@@ -41349,9 +41365,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 345083.5,
-            "last_seen": 1765245678,
-            "level": 53,
+            "hp": 373944.0,
+            "last_seen": 1765399722,
+            "level": 54,
             "name": "Yun4",
             "name_history": [
                 "Yun4"
@@ -60225,8 +60241,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3764,
+    "accounts_total": 3765,
     "created": 1764092421,
-    "last_updated": 1765399602,
+    "last_updated": 1765399722,
     "server_region": "ws_asia_01"
 }
