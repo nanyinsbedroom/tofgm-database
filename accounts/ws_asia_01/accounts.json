@@ -9045,9 +9045,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 318494.4375,
-            "last_seen": 1765130555,
-            "level": 53,
+            "hp": 381330.59375,
+            "last_seen": 1765399422,
+            "level": 56,
             "name": "ナシア",
             "name_history": [
                 "ナシア"
@@ -14497,13 +14497,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118553979": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 113408.203125,
-            "last_seen": 1764271035,
-            "level": 34,
+            "hp": 358936.59375,
+            "last_seen": 1765399422,
+            "level": 56,
             "name": "saifa",
             "name_history": [
                 "saifa"
@@ -55040,6 +55040,22 @@
             "role_id": 38174103118586335,
             "server_region": "ws_asia_01"
         },
+        "38174103118586353": {
+            "crew_id": 1799600185125,
+            "crew_name": "三匹の雄豚",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 350304.8125,
+            "last_seen": 1765399422,
+            "level": 56,
+            "name": "僕達の冒険はこれからだ",
+            "name_history": [
+                "僕達の冒険はこれからだ"
+            ],
+            "registered": "Nov 30, 2025, 4:33:23 PM",
+            "role_id": 38174103118586353,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586384": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
@@ -60113,8 +60129,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3757,
+    "accounts_total": 3758,
     "created": 1764092421,
-    "last_updated": 1765399182,
+    "last_updated": 1765399422,
     "server_region": "ws_asia_01"
 }
