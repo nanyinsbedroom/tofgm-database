@@ -53779,11 +53779,11 @@
         "38174103118583686": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 116555.40625,
-            "last_seen": 1764471695,
-            "level": 36,
+            "hp": 250874.203125,
+            "last_seen": 1765405205,
+            "level": 55,
             "name": "lenonzx",
             "name_history": [
                 "lenonzx"
@@ -55246,6 +55246,22 @@
             ],
             "registered": "Nov 30, 2025, 11:24:27 AM",
             "role_id": 38174103118585801,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118585825": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 66557.0,
+            "last_seen": 1765405205,
+            "level": 15,
+            "name": "Ball",
+            "name_history": [
+                "Ball"
+            ],
+            "registered": "Nov 30, 2025, 11:44:02 AM",
+            "role_id": 38174103118585825,
             "server_region": "ws_asia_01"
         },
         "38174103118585876": {
@@ -60737,8 +60753,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3796,
+    "accounts_total": 3797,
     "created": 1764092421,
-    "last_updated": 1765404964,
+    "last_updated": 1765405205,
     "server_region": "ws_asia_01"
 }
