@@ -37091,11 +37091,11 @@
         "38174103118564701": {
             "crew_id": 279181762341,
             "crew_name": "甘味処パルフェ",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "1_6_4_6",
             "gender": 0,
-            "hp": 429478.40625,
-            "last_seen": 1765217561,
-            "level": 54,
+            "hp": 436025.625,
+            "last_seen": 1765491410,
+            "level": 57,
             "name": "Keizer",
             "name_history": [
                 "Keizer"
@@ -44062,6 +44062,22 @@
             ],
             "registered": "Nov 26, 2025, 9:53:50 PM",
             "role_id": 38174103118571444,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118571460": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 137234.0,
+            "last_seen": 1765491410,
+            "level": 53,
+            "name": "Chooz",
+            "name_history": [
+                "Chooz"
+            ],
+            "registered": "Nov 26, 2025, 9:56:19 PM",
+            "role_id": 38174103118571460,
             "server_region": "ws_asia_01"
         },
         "38174103118571483": {
@@ -54848,6 +54864,22 @@
             "role_id": 38174103118584630,
             "server_region": "ws_asia_01"
         },
+        "38174103118584703": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 82455.234375,
+            "last_seen": 1765491410,
+            "level": 54,
+            "name": "WarpMasterAlpha",
+            "name_history": [
+                "WarpMasterAlpha"
+            ],
+            "registered": "Nov 29, 2025, 11:13:57 PM",
+            "role_id": 38174103118584703,
+            "server_region": "ws_asia_01"
+        },
         "38174103118584706": {
             "crew_id": 0,
             "crew_name": "",
@@ -55408,6 +55440,22 @@
             "role_id": 38174103118585486,
             "server_region": "ws_asia_01"
         },
+        "38174103118585490": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101505.9921875,
+            "last_seen": 1765491410,
+            "level": 54,
+            "name": "WarpMasterBeta",
+            "name_history": [
+                "WarpMasterBeta"
+            ],
+            "registered": "Nov 30, 2025, 7:36:30 AM",
+            "role_id": 38174103118585490,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585494": {
             "crew_id": 0,
             "crew_name": "",
@@ -55870,6 +55918,22 @@
             ],
             "registered": "Nov 30, 2025, 2:54:21 PM",
             "role_id": 38174103118586163,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118586167": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 104827.0,
+            "last_seen": 1765491410,
+            "level": 55,
+            "name": "WarpMasterGamma",
+            "name_history": [
+                "WarpMasterGamma"
+            ],
+            "registered": "Nov 30, 2025, 2:57:09 PM",
+            "role_id": 38174103118586167,
             "server_region": "ws_asia_01"
         },
         "38174103118586185": {
@@ -61553,8 +61617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3847,
+    "accounts_total": 3851,
     "created": 1764092421,
-    "last_updated": 1765491349,
+    "last_updated": 1765491410,
     "server_region": "ws_asia_01"
 }
