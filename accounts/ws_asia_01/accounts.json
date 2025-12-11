@@ -5573,9 +5573,9 @@
             "crew_name": "",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 407099.0,
-            "last_seen": 1765223587,
-            "level": 54,
+            "hp": 442568.59375,
+            "last_seen": 1765516803,
+            "level": 57,
             "name": "suina.",
             "name_history": [
                 "suina."
@@ -13774,6 +13774,22 @@
             ],
             "registered": "Nov 25, 2025, 5:47:51 PM",
             "role_id": 38174103118552825,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118552862": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354638.59375,
+            "last_seen": 1765516803,
+            "level": 57,
+            "name": "Minjeongie",
+            "name_history": [
+                "Minjeongie"
+            ],
+            "registered": "Nov 25, 2025, 5:48:02 PM",
+            "role_id": 38174103118552862,
             "server_region": "ws_asia_01"
         },
         "38174103118552895": {
@@ -42611,11 +42627,11 @@
         "38174103118569452": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 131759.0,
-            "last_seen": 1765245678,
-            "level": 49,
+            "hp": 139673.0,
+            "last_seen": 1765516803,
+            "level": 52,
             "name": "MiTSUKl",
             "name_history": [
                 "MiTSUKl"
@@ -62865,8 +62881,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3929,
+    "accounts_total": 3930,
     "created": 1764092421,
-    "last_updated": 1765516743,
+    "last_updated": 1765516803,
     "server_region": "ws_asia_01"
 }
