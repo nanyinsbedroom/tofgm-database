@@ -3685,9 +3685,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 368355.0,
-            "last_seen": 1765230493,
-            "level": 53,
+            "hp": 344734.34375,
+            "last_seen": 1765517403,
+            "level": 58,
             "name": "Drashel",
             "name_history": [
                 "Drashel"
@@ -14307,11 +14307,11 @@
         "38174103118553590": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_030_world;12",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_030_world;4",
             "gender": 1,
-            "hp": 198328.984375,
-            "last_seen": 1764695412,
-            "level": 48,
+            "hp": 398407.8125,
+            "last_seen": 1765517403,
+            "level": 57,
             "name": "Mirie_Kirzhe",
             "name_history": [
                 "Mirie_Kirzhe"
@@ -25669,9 +25669,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 385559.8125,
-            "last_seen": 1765397921,
-            "level": 55,
+            "hp": 400762.59375,
+            "last_seen": 1765517403,
+            "level": 56,
             "name": "Exshi.",
             "name_history": [
                 "Exshi."
@@ -48800,6 +48800,22 @@
             "role_id": 38174103118577170,
             "server_region": "ws_asia_01"
         },
+        "38174103118577179": {
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 232059.015625,
+            "last_seen": 1765517403,
+            "level": 57,
+            "name": "ユーユー",
+            "name_history": [
+                "ユーユー"
+            ],
+            "registered": "Nov 27, 2025, 4:02:21 PM",
+            "role_id": 38174103118577179,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577188": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
@@ -51361,13 +51377,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118579855": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 37567.0,
-            "last_seen": 1764383753,
-            "level": 12,
+            "hp": 222973.203125,
+            "last_seen": 1765517403,
+            "level": 55,
             "name": "メビウス",
             "name_history": [
                 "メビウス"
@@ -56334,6 +56350,22 @@
             ],
             "registered": "Nov 30, 2025, 3:49:37 AM",
             "role_id": 38174103118585241,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118585243": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 67931.453125,
+            "last_seen": 1765517403,
+            "level": 31,
+            "name": "たかた",
+            "name_history": [
+                "たかた"
+            ],
+            "registered": "Nov 30, 2025, 3:50:36 AM",
+            "role_id": 38174103118585243,
             "server_region": "ws_asia_01"
         },
         "38174103118585313": {
@@ -62945,8 +62977,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3934,
+    "accounts_total": 3936,
     "created": 1764092421,
-    "last_updated": 1765517283,
+    "last_updated": 1765517403,
     "server_region": "ws_asia_01"
 }
