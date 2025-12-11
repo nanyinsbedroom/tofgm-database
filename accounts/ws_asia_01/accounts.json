@@ -1798,7 +1798,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 384701.21875,
-            "last_seen": 1765497153,
+            "last_seen": 1765498399,
             "level": 56,
             "name": "Nyanko",
             "name_history": [
@@ -3078,7 +3078,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 356297.8125,
-            "last_seen": 1765496792,
+            "last_seen": 1765498399,
             "level": 57,
             "name": "シュレリア",
             "name_history": [
@@ -9029,9 +9029,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 448109.0625,
-            "last_seen": 1765402382,
-            "level": 56,
+            "hp": 447752.21875,
+            "last_seen": 1765498399,
+            "level": 57,
             "name": "KINHO",
             "name_history": [
                 "KINHO"
@@ -14222,6 +14222,22 @@
             ],
             "registered": "Nov 25, 2025, 5:53:27 PM",
             "role_id": 38174103118553528,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553554": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 319720.4375,
+            "last_seen": 1765498399,
+            "level": 57,
+            "name": "全王",
+            "name_history": [
+                "全王"
+            ],
+            "registered": "Nov 25, 2025, 5:53:41 PM",
+            "role_id": 38174103118553554,
             "server_region": "ws_asia_01"
         },
         "38174103118553563": {
@@ -36144,6 +36160,22 @@
             "role_id": 38174103118563788,
             "server_region": "ws_asia_01"
         },
+        "38174103118563792": {
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 379328.0,
+            "last_seen": 1765498399,
+            "level": 56,
+            "name": "Mooe",
+            "name_history": [
+                "Mooe"
+            ],
+            "registered": "Nov 26, 2025, 1:34:10 AM",
+            "role_id": 38174103118563792,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563798": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
@@ -47318,7 +47350,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 94236.0,
-            "last_seen": 1765497092,
+            "last_seen": 1765498399,
             "level": 41,
             "name": "DoDo",
             "name_history": [
@@ -49829,9 +49861,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 53266.0,
-            "last_seen": 1765064275,
-            "level": 12,
+            "hp": 55858.0,
+            "last_seen": 1765498399,
+            "level": 15,
             "name": "iFaintSmiLe",
             "name_history": [
                 "iFaintSmiLe"
@@ -49982,6 +50014,22 @@
             ],
             "registered": "Nov 27, 2025, 11:24:22 PM",
             "role_id": 38174103118578646,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118578652": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 194181.203125,
+            "last_seen": 1765498399,
+            "level": 55,
+            "name": "ちゅる",
+            "name_history": [
+                "ちゅる"
+            ],
+            "registered": "Nov 27, 2025, 11:27:31 PM",
+            "role_id": 38174103118578652,
             "server_region": "ws_asia_01"
         },
         "38174103118578662": {
@@ -62767,10 +62815,26 @@
             "registered": "Dec 11, 2025, 12:56:31 PM",
             "role_id": 38174103118597429,
             "server_region": "ws_asia_01"
+        },
+        "38174103118597504": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71088.203125,
+            "last_seen": 1765498399,
+            "level": 35,
+            "name": "レ・ミゼラブル",
+            "name_history": [
+                "レ・ミゼラブル"
+            ],
+            "registered": "Dec 11, 2025, 3:31:36 PM",
+            "role_id": 38174103118597504,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3923,
+    "accounts_total": 3927,
     "created": 1764092421,
-    "last_updated": 1765498339,
+    "last_updated": 1765498399,
     "server_region": "ws_asia_01"
 }
