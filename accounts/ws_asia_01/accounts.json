@@ -10163,11 +10163,11 @@
         "38174103118547691": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;26",
             "gender": 1,
-            "hp": 253035.59375,
-            "last_seen": 1764693495,
-            "level": 48,
+            "hp": 429304.40625,
+            "last_seen": 1765518604,
+            "level": 57,
             "name": "KalwaBhaiya",
             "name_history": [
                 "KalwaBhaiya"
@@ -18832,6 +18832,22 @@
             "role_id": 38174103118555592,
             "server_region": "ws_asia_01"
         },
+        "38174103118555595": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 400995.0,
+            "last_seen": 1765518604,
+            "level": 57,
+            "name": "真由美ちゃん",
+            "name_history": [
+                "真由美ちゃん"
+            ],
+            "registered": "Nov 25, 2025, 6:46:09 PM",
+            "role_id": 38174103118555595,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555598": {
             "crew_id": 0,
             "crew_name": "",
@@ -25317,9 +25333,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 203008.390625,
-            "last_seen": 1765331205,
-            "level": 55,
+            "hp": 430976.0,
+            "last_seen": 1765518604,
+            "level": 58,
             "name": "‎ ‎‎‌",
             "name_history": [
                 "‎ ‎‎‌"
@@ -63057,8 +63073,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3941,
+    "accounts_total": 3942,
     "created": 1764092421,
-    "last_updated": 1765518544,
+    "last_updated": 1765518604,
     "server_region": "ws_asia_01"
 }
