@@ -1685,9 +1685,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 450998.0,
-            "last_seen": 1765424084,
-            "level": 56,
+            "hp": 451862.0,
+            "last_seen": 1765516743,
+            "level": 57,
             "name": "うう",
             "name_history": [
                 "うう"
@@ -6814,6 +6814,22 @@
             ],
             "registered": "Nov 25, 2025, 5:09:39 PM",
             "role_id": 38174103118546244,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546247": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 217389.59375,
+            "last_seen": 1765516743,
+            "level": 53,
+            "name": "Nya",
+            "name_history": [
+                "Nya"
+            ],
+            "registered": "Nov 25, 2025, 5:09:40 PM",
+            "role_id": 38174103118546247,
             "server_region": "ws_asia_01"
         },
         "38174103118546251": {
@@ -12181,9 +12197,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 405717.0,
-            "last_seen": 1765397440,
-            "level": 56,
+            "hp": 382066.0,
+            "last_seen": 1765516743,
+            "level": 57,
             "name": "茜星",
             "name_history": [
                 "茜星"
@@ -61056,6 +61072,22 @@
             "role_id": 38174103118591922,
             "server_region": "ws_asia_01"
         },
+        "38174103118591928": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 254469.0,
+            "last_seen": 1765516743,
+            "level": 55,
+            "name": "Tehpyokha",
+            "name_history": [
+                "Tehpyokha"
+            ],
+            "registered": "Dec 4, 2025, 8:54:17 PM",
+            "role_id": 38174103118591928,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591982": {
             "crew_id": 163217645349,
             "crew_name": "Scarface",
@@ -62833,8 +62865,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3927,
+    "accounts_total": 3929,
     "created": 1764092421,
-    "last_updated": 1765498459,
+    "last_updated": 1765516743,
     "server_region": "ws_asia_01"
 }
