@@ -19221,8 +19221,8 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 235400.40625,
-            "last_seen": 1765494261,
+            "hp": 247159.0,
+            "last_seen": 1765497213,
             "level": 55,
             "name": "Serval",
             "name_history": [
@@ -34590,6 +34590,22 @@
             ],
             "registered": "Nov 26, 2025, 12:27:41 AM",
             "role_id": 38174103118562951,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562953": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 438038.0,
+            "last_seen": 1765497213,
+            "level": 57,
+            "name": "Naitoka",
+            "name_history": [
+                "Naitoka"
+            ],
+            "registered": "Nov 26, 2025, 12:27:48 AM",
+            "role_id": 38174103118562953,
             "server_region": "ws_asia_01"
         },
         "38174103118562961": {
@@ -62529,8 +62545,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3908,
+    "accounts_total": 3909,
     "created": 1764092421,
-    "last_updated": 1765497153,
+    "last_updated": 1765497213,
     "server_region": "ws_asia_01"
 }
