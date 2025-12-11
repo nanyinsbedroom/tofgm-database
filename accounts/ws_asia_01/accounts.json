@@ -227,11 +227,11 @@
         "38174103118544932": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 259908.0,
-            "last_seen": 1764435439,
-            "level": 42,
+            "hp": 437606.21875,
+            "last_seen": 1765497273,
+            "level": 57,
             "name": "Kyoroku",
             "name_history": [
                 "Kyoroku"
@@ -3446,7 +3446,7 @@
             "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;18",
             "gender": 0,
             "hp": 435486.8125,
-            "last_seen": 1765491349,
+            "last_seen": 1765497273,
             "level": 57,
             "name": "Seoule",
             "name_history": [
@@ -20723,11 +20723,11 @@
         "38174103118556434": {
             "crew_id": 55843462949,
             "crew_name": "Fractsidus",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 328360.8125,
-            "last_seen": 1765064636,
-            "level": 52,
+            "hp": 403844.59375,
+            "last_seen": 1765497273,
+            "level": 57,
             "name": "Kirika",
             "name_history": [
                 "Kirika"
@@ -30160,6 +30160,22 @@
             "role_id": 38174103118560277,
             "server_region": "ws_asia_01"
         },
+        "38174103118560284": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 208165.8125,
+            "last_seen": 1765497273,
+            "level": 55,
+            "name": "ダイヤ☆☆",
+            "name_history": [
+                "ダイヤ☆☆"
+            ],
+            "registered": "Nov 25, 2025, 10:04:09 PM",
+            "role_id": 38174103118560284,
+            "server_region": "ws_asia_01"
+        },
         "38174103118560290": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
@@ -32366,6 +32382,22 @@
             ],
             "registered": "Nov 25, 2025, 11:11:21 PM",
             "role_id": 38174103118561616,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561618": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56448.0,
+            "last_seen": 1765497273,
+            "level": 57,
+            "name": "Yeni",
+            "name_history": [
+                "Yeni"
+            ],
+            "registered": "Nov 25, 2025, 11:11:25 PM",
+            "role_id": 38174103118561618,
             "server_region": "ws_asia_01"
         },
         "38174103118561631": {
@@ -45173,9 +45205,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 201771.796875,
-            "last_seen": 1765067300,
-            "level": 50,
+            "hp": 206091.796875,
+            "last_seen": 1765497273,
+            "level": 55,
             "name": "Rokapui",
             "name_history": [
                 "Rokapui"
@@ -60576,6 +60608,22 @@
             "role_id": 38174103118591379,
             "server_region": "ws_asia_01"
         },
+        "38174103118591391": {
+            "crew_id": 558354636581,
+            "crew_name": "Wartag Silver",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 323286.0,
+            "last_seen": 1765497273,
+            "level": 56,
+            "name": "Pukasa",
+            "name_history": [
+                "Pukasa"
+            ],
+            "registered": "Dec 4, 2025, 4:22:12 AM",
+            "role_id": 38174103118591391,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591423": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
@@ -62112,6 +62160,22 @@
             "role_id": 38174103118594945,
             "server_region": "ws_asia_01"
         },
+        "38174103118595180": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 449698.03125,
+            "last_seen": 1765497273,
+            "level": 57,
+            "name": "ろい",
+            "name_history": [
+                "ろい"
+            ],
+            "registered": "Dec 8, 2025, 6:02:22 AM",
+            "role_id": 38174103118595180,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595410": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
@@ -62545,8 +62609,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3909,
+    "accounts_total": 3913,
     "created": 1764092421,
-    "last_updated": 1765497213,
+    "last_updated": 1765497273,
     "server_region": "ws_asia_01"
 }
