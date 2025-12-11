@@ -41653,9 +41653,9 @@
             "crew_name": "Eissentam",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 312364.1875,
-            "last_seen": 1764696872,
-            "level": 48,
+            "hp": 448367.0,
+            "last_seen": 1765516923,
+            "level": 57,
             "name": "Kurogami",
             "name_history": [
                 "Kurogami"
@@ -58720,6 +58720,22 @@
             "role_id": 38174103118588601,
             "server_region": "ws_asia_01"
         },
+        "38174103118588609": {
+            "crew_id": 2001463648037,
+            "crew_name": "Ho229",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 167554.609375,
+            "last_seen": 1765516923,
+            "level": 51,
+            "name": "たまコン",
+            "name_history": [
+                "たまコン"
+            ],
+            "registered": "Dec 1, 2025, 9:28:11 PM",
+            "role_id": 38174103118588609,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588707": {
             "crew_id": 0,
             "crew_name": "",
@@ -62913,8 +62929,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3932,
+    "accounts_total": 3933,
     "created": 1764092421,
-    "last_updated": 1765516863,
+    "last_updated": 1765516923,
     "server_region": "ws_asia_01"
 }
