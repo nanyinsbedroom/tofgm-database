@@ -2661,9 +2661,9 @@
             "crew_name": "Babolz",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 374188.21875,
-            "last_seen": 1765217741,
-            "level": 54,
+            "hp": 403699.84375,
+            "last_seen": 1765491289,
+            "level": 57,
             "name": "Atsu",
             "name_history": [
                 "Atsu"
@@ -61535,10 +61535,26 @@
             "registered": "Dec 11, 2025, 5:35:00 AM",
             "role_id": 38174103118597294,
             "server_region": "ws_asia_01"
+        },
+        "38174103118597429": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91358.203125,
+            "last_seen": 1765491289,
+            "level": 42,
+            "name": "aza",
+            "name_history": [
+                "aza"
+            ],
+            "registered": "Dec 11, 2025, 12:56:31 PM",
+            "role_id": 38174103118597429,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3846,
+    "accounts_total": 3847,
     "created": 1764092421,
-    "last_updated": 1765491229,
+    "last_updated": 1765491289,
     "server_region": "ws_asia_01"
 }
