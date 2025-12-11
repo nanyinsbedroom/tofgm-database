@@ -3637,9 +3637,9 @@
             "crew_name": "松竹梅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 366600.625,
-            "last_seen": 1765137922,
-            "level": 52,
+            "hp": 246054.078125,
+            "last_seen": 1765491830,
+            "level": 57,
             "name": "うぇすた",
             "name_history": [
                 "うぇすた"
@@ -11333,9 +11333,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 180192.0,
-            "last_seen": 1764978453,
-            "level": 48,
+            "hp": 171514.734375,
+            "last_seen": 1765491830,
+            "level": 49,
             "name": "シュパーゲル",
             "name_history": [
                 "シュパーゲル"
@@ -25056,6 +25056,22 @@
             "role_id": 38174103118558244,
             "server_region": "ws_asia_01"
         },
+        "38174103118558246": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 439782.0,
+            "last_seen": 1765491830,
+            "level": 57,
+            "name": "Millennium",
+            "name_history": [
+                "Millennium"
+            ],
+            "registered": "Nov 25, 2025, 8:33:40 PM",
+            "role_id": 38174103118558246,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558248": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
@@ -30622,6 +30638,22 @@
             ],
             "registered": "Nov 25, 2025, 10:25:54 PM",
             "role_id": 38174103118560752,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560757": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 260575.296875,
+            "last_seen": 1765491830,
+            "level": 57,
+            "name": "cstrife7",
+            "name_history": [
+                "cstrife7"
+            ],
+            "registered": "Nov 25, 2025, 10:26:09 PM",
+            "role_id": 38174103118560757,
             "server_region": "ws_asia_01"
         },
         "38174103118560773": {
@@ -56992,6 +57024,22 @@
             "role_id": 38174103118587273,
             "server_region": "ws_asia_01"
         },
+        "38174103118587300": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 117413.6484375,
+            "last_seen": 1765491830,
+            "level": 50,
+            "name": "Zcroze",
+            "name_history": [
+                "Zcroze"
+            ],
+            "registered": "Dec 1, 2025, 1:05:11 AM",
+            "role_id": 38174103118587300,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587328": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
@@ -61713,8 +61761,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3857,
+    "accounts_total": 3860,
     "created": 1764092421,
-    "last_updated": 1765491770,
+    "last_updated": 1765491830,
     "server_region": "ws_asia_01"
 }
