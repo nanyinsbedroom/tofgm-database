@@ -2885,9 +2885,9 @@
             "crew_name": "Saints",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 443310.0,
-            "last_seen": 1765428995,
-            "level": 56,
+            "hp": 444174.0,
+            "last_seen": 1765496792,
+            "level": 57,
             "name": "GTtron",
             "name_history": [
                 "GTtron"
@@ -3059,11 +3059,11 @@
         "38174103118545386": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 61024.0,
-            "last_seen": 1764111492,
-            "level": 16,
+            "hp": 356297.8125,
+            "last_seen": 1765496792,
+            "level": 57,
             "name": "シュレリア",
             "name_history": [
                 "シュレリア"
@@ -10030,6 +10030,22 @@
             ],
             "registered": "Nov 25, 2025, 5:22:56 PM",
             "role_id": 38174103118547512,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118547516": {
+            "crew_id": 262001893157,
+            "crew_name": "Restart",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 334578.625,
+            "last_seen": 1765496792,
+            "level": 57,
+            "name": "絶兎",
+            "name_history": [
+                "絶兎"
+            ],
+            "registered": "Nov 25, 2025, 5:22:57 PM",
+            "role_id": 38174103118547516,
             "server_region": "ws_asia_01"
         },
         "38174103118547523": {
@@ -23093,9 +23109,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 445084.40625,
-            "last_seen": 1765399722,
-            "level": 56,
+            "hp": 446486.0,
+            "last_seen": 1765496792,
+            "level": 57,
             "name": " Miro",
             "name_history": [
                 " Miro"
@@ -29014,7 +29030,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 415626.625,
-            "last_seen": 1765492940,
+            "last_seen": 1765496792,
             "level": 57,
             "name": "KirieZakuZwei",
             "name_history": [
@@ -31206,7 +31222,7 @@
             "equipping_title": "1_6_2_1",
             "gender": 0,
             "hp": 367396.0,
-            "last_seen": 1765493000,
+            "last_seen": 1765496792,
             "level": 57,
             "name": "松露",
             "name_history": [
@@ -62417,8 +62433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3901,
+    "accounts_total": 3902,
     "created": 1764092421,
-    "last_updated": 1765496095,
+    "last_updated": 1765496792,
     "server_region": "ws_asia_01"
 }
