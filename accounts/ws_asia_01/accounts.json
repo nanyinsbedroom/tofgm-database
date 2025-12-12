@@ -9621,12 +9621,12 @@
             "crew_name": "Jawir",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 185758.796875,
-            "last_seen": 1764962746,
-            "level": 50,
-            "name": "bdhejeje",
+            "hp": 263478.8125,
+            "last_seen": 1765587422,
+            "level": 57,
+            "name": "SI HITAM",
             "name_history": [
-                "bdhejeje"
+                "SI HITAM"
             ],
             "registered": "Nov 25, 2025, 5:21:06 PM",
             "role_id": 38174103118547138,
@@ -14294,7 +14294,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 231221.015625,
-            "last_seen": 1765494201,
+            "last_seen": 1765587422,
             "level": 55,
             "name": "SHADOW MASTER",
             "name_history": [
@@ -21093,9 +21093,9 @@
             "crew_name": "Wartag Silver",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 252649.203125,
-            "last_seen": 1765067420,
-            "level": 51,
+            "hp": 330473.40625,
+            "last_seen": 1765587422,
+            "level": 58,
             "name": "YAMI2X",
             "name_history": [
                 "YAMI2X"
@@ -21795,11 +21795,11 @@
         "38174103118556815": {
             "crew_id": 558354636581,
             "crew_name": "Wartag Silver",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;5",
-            "gender": 1,
-            "hp": 312717.21875,
-            "last_seen": 1764865610,
-            "level": 50,
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 462510.0,
+            "last_seen": 1765587422,
+            "level": 58,
             "name": "INDOMIE GORENG",
             "name_history": [
                 "INDOMIE GORENG"
@@ -24819,11 +24819,11 @@
         "38174103118557876": {
             "crew_id": 12893789989,
             "crew_name": "StarDust",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;62",
             "gender": 0,
-            "hp": 298811.8125,
-            "last_seen": 1764811002,
-            "level": 49,
+            "hp": 420707.0,
+            "last_seen": 1765587422,
+            "level": 58,
             "name": "SkyRhapsody",
             "name_history": [
                 "SkyRhapsody"
@@ -30142,6 +30142,22 @@
             ],
             "registered": "Nov 25, 2025, 9:51:29 PM",
             "role_id": 38174103118560057,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560058": {
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 384324.40625,
+            "last_seen": 1765587422,
+            "level": 57,
+            "name": "TheGu",
+            "name_history": [
+                "TheGu"
+            ],
+            "registered": "Nov 25, 2025, 9:51:32 PM",
+            "role_id": 38174103118560058,
             "server_region": "ws_asia_01"
         },
         "38174103118560064": {
@@ -61728,6 +61744,22 @@
             "role_id": 38174103118591288,
             "server_region": "ws_asia_01"
         },
+        "38174103118591309": {
+            "crew_id": 1881204563749,
+            "crew_name": "Himitsu",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 339837.1875,
+            "last_seen": 1765587422,
+            "level": 58,
+            "name": "Cersei",
+            "name_history": [
+                "Cersei"
+            ],
+            "registered": "Dec 4, 2025, 1:26:47 AM",
+            "role_id": 38174103118591309,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591379": {
             "crew_id": 81613266725,
             "crew_name": "Sleeping Cats",
@@ -63969,8 +64001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3998,
+    "accounts_total": 4000,
     "created": 1764092421,
-    "last_updated": 1765587181,
+    "last_updated": 1765587422,
     "server_region": "ws_asia_01"
 }
