@@ -10272,6 +10272,22 @@
             "role_id": 38174103118547844,
             "server_region": "ws_asia_01"
         },
+        "38174103118547848": {
+            "crew_id": 833232543525,
+            "crew_name": "セレスティア戦闘狂団",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 462510.0,
+            "last_seen": 1765581377,
+            "level": 58,
+            "name": "saku",
+            "name_history": [
+                "saku"
+            ],
+            "registered": "Nov 25, 2025, 5:24:08 PM",
+            "role_id": 38174103118547848,
+            "server_region": "ws_asia_01"
+        },
         "38174103118547860": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
@@ -28272,6 +28288,22 @@
             "role_id": 38174103118559300,
             "server_region": "ws_asia_01"
         },
+        "38174103118559307": {
+            "crew_id": 30073659173,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 103812.03125,
+            "last_seen": 1765581377,
+            "level": 46,
+            "name": "URAGA",
+            "name_history": [
+                "URAGA"
+            ],
+            "registered": "Nov 25, 2025, 9:17:32 PM",
+            "role_id": 38174103118559307,
+            "server_region": "ws_asia_01"
+        },
         "38174103118559317": {
             "crew_id": 0,
             "crew_name": "",
@@ -29539,11 +29571,11 @@
         "38174103118559822": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 126505.796875,
-            "last_seen": 1764359642,
-            "level": 39,
+            "hp": 392143.5,
+            "last_seen": 1765581377,
+            "level": 58,
             "name": "GuardianOracle",
             "name_history": [
                 "GuardianOracle"
@@ -63713,8 +63745,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3982,
+    "accounts_total": 3984,
     "created": 1764092421,
-    "last_updated": 1765581317,
+    "last_updated": 1765581377,
     "server_region": "ws_asia_01"
 }
