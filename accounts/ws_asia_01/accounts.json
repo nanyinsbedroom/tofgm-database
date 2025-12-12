@@ -5829,9 +5829,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 373224.59375,
-            "last_seen": 1765248200,
-            "level": 54,
+            "hp": 418824.34375,
+            "last_seen": 1765587782,
+            "level": 58,
             "name": "Saunts",
             "name_history": [
                 "Saunts"
@@ -14581,9 +14581,9 @@
             "crew_name": "EROGE",
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;52",
             "gender": 1,
-            "hp": 388669.53125,
-            "last_seen": 1765247000,
-            "level": 54,
+            "hp": 463792.09375,
+            "last_seen": 1765587782,
+            "level": 58,
             "name": "Fenfen",
             "name_history": [
                 "Fenfen"
@@ -15029,8 +15029,8 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 452838.09375,
-            "last_seen": 1765585213,
+            "hp": 454344.0,
+            "last_seen": 1765587782,
             "level": 57,
             "name": "Arupejio",
             "name_history": [
@@ -22563,11 +22563,11 @@
         "38174103118557115": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 449289.1875,
-            "last_seen": 1765493000,
-            "level": 57,
+            "hp": 739713.0,
+            "last_seen": 1765587782,
+            "level": 58,
             "name": "Warping Salad",
             "name_history": [
                 "Warping Salad"
@@ -33459,11 +33459,11 @@
         "38174103118561869": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 190034.609375,
-            "last_seen": 1764624140,
-            "level": 45,
+            "hp": 413211.71875,
+            "last_seen": 1765587782,
+            "level": 58,
             "name": "kamui",
             "name_history": [
                 "kamui"
@@ -36211,11 +36211,11 @@
         "38174103118563464": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_045_world;11",
             "gender": 1,
-            "hp": 228131.796875,
-            "last_seen": 1764485539,
-            "level": 43,
+            "hp": 454824.46875,
+            "last_seen": 1765587782,
+            "level": 58,
             "name": "Yuuji",
             "name_history": [
                 "Yuuji"
@@ -37838,6 +37838,22 @@
             ],
             "registered": "Nov 26, 2025, 2:40:54 AM",
             "role_id": 38174103118564438,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564474": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 318700.625,
+            "last_seen": 1765587782,
+            "level": 56,
+            "name": "sbuzz",
+            "name_history": [
+                "sbuzz"
+            ],
+            "registered": "Nov 26, 2025, 2:45:06 AM",
+            "role_id": 38174103118564474,
             "server_region": "ws_asia_01"
         },
         "38174103118564476": {
@@ -64001,8 +64017,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4000,
+    "accounts_total": 4001,
     "created": 1764092421,
-    "last_updated": 1765587542,
+    "last_updated": 1765587782,
     "server_region": "ws_asia_01"
 }
