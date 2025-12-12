@@ -6723,11 +6723,11 @@
         "38174103118546214": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 254902.21875,
-            "last_seen": 1764693315,
-            "level": 48,
+            "hp": 414311.0,
+            "last_seen": 1765574596,
+            "level": 58,
             "name": "ไม่เติมเงิน",
             "name_history": [
                 "ไม่เติมเงิน"
@@ -8069,8 +8069,8 @@
             "crew_name": "Lumière",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 242041.390625,
-            "last_seen": 1765493180,
+            "hp": 247333.0,
+            "last_seen": 1765574596,
             "level": 55,
             "name": "豆チョコ",
             "name_history": [
@@ -45248,6 +45248,22 @@
             "role_id": 38174103118571751,
             "server_region": "ws_asia_01"
         },
+        "38174103118571820": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 207102.59375,
+            "last_seen": 1765574596,
+            "level": 52,
+            "name": "whett",
+            "name_history": [
+                "whett"
+            ],
+            "registered": "Nov 26, 2025, 10:33:46 PM",
+            "role_id": 38174103118571820,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571972": {
             "crew_id": 1769535414053,
             "crew_name": "OVERLORDS",
@@ -52142,6 +52158,22 @@
             ],
             "registered": "Nov 28, 2025, 5:06:18 PM",
             "role_id": 38174103118580679,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118580688": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 186784.40625,
+            "last_seen": 1765574596,
+            "level": 51,
+            "name": "りゃ",
+            "name_history": [
+                "りゃ"
+            ],
+            "registered": "Nov 28, 2025, 5:11:06 PM",
+            "role_id": 38174103118580688,
             "server_region": "ws_asia_01"
         },
         "38174103118580725": {
@@ -63185,8 +63217,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3949,
+    "accounts_total": 3951,
     "created": 1764092421,
-    "last_updated": 1765574536,
+    "last_updated": 1765574596,
     "server_region": "ws_asia_01"
 }
