@@ -10261,9 +10261,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 292805.0,
-            "last_seen": 1765397800,
-            "level": 56,
+            "hp": 299870.625,
+            "last_seen": 1765575977,
+            "level": 58,
             "name": "Ner",
             "name_history": [
                 "Ner"
@@ -13365,9 +13365,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 313605.8125,
-            "last_seen": 1765217801,
-            "level": 53,
+            "hp": 338643.8125,
+            "last_seen": 1765575977,
+            "level": 57,
             "name": "Sakiko Togawa",
             "name_history": [
                 "Sakiko Togawa"
@@ -13886,6 +13886,22 @@
             ],
             "registered": "Nov 25, 2025, 5:49:09 PM",
             "role_id": 38174103118553035,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553046": {
+            "crew_id": 231937122085,
+            "crew_name": "たまめいと",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 350617.0,
+            "last_seen": 1765575977,
+            "level": 56,
+            "name": "カズゴン",
+            "name_history": [
+                "カズゴン"
+            ],
+            "registered": "Nov 25, 2025, 5:49:12 PM",
+            "role_id": 38174103118553046,
             "server_region": "ws_asia_01"
         },
         "38174103118553049": {
@@ -16869,9 +16885,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 245740.796875,
-            "last_seen": 1765126331,
-            "level": 52,
+            "hp": 280233.1875,
+            "last_seen": 1765575977,
+            "level": 56,
             "name": "ほたてちゃん",
             "name_history": [
                 "ほたてちゃん"
@@ -29278,6 +29294,22 @@
             ],
             "registered": "Nov 25, 2025, 9:38:54 PM",
             "role_id": 38174103118559773,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559791": {
+            "crew_id": 549764701989,
+            "crew_name": "無言のギルド",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 190686.59375,
+            "last_seen": 1765575977,
+            "level": 55,
+            "name": "ジェトゥム",
+            "name_history": [
+                "ジェトゥム"
+            ],
+            "registered": "Nov 25, 2025, 9:39:36 PM",
+            "role_id": 38174103118559791,
             "server_region": "ws_asia_01"
         },
         "38174103118559804": {
@@ -63377,8 +63409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3961,
+    "accounts_total": 3963,
     "created": 1764092421,
-    "last_updated": 1765575917,
+    "last_updated": 1765575977,
     "server_region": "ws_asia_01"
 }
