@@ -12501,9 +12501,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "1_4_7_3",
             "gender": 0,
-            "hp": 147534.0,
-            "last_seen": 1764814127,
-            "level": 48,
+            "hp": 234243.609375,
+            "last_seen": 1765589668,
+            "level": 58,
             "name": "vHIROv",
             "name_history": [
                 "vHIROv"
@@ -22702,6 +22702,22 @@
             ],
             "registered": "Nov 25, 2025, 7:47:33 PM",
             "role_id": 38174103118557151,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557160": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 235935.796875,
+            "last_seen": 1765589668,
+            "level": 58,
+            "name": "Konata",
+            "name_history": [
+                "Konata"
+            ],
+            "registered": "Nov 25, 2025, 7:48:06 PM",
+            "role_id": 38174103118557160,
             "server_region": "ws_asia_01"
         },
         "38174103118557166": {
@@ -48656,6 +48672,22 @@
             "role_id": 38174103118576238,
             "server_region": "ws_asia_01"
         },
+        "38174103118576239": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 371631.625,
+            "last_seen": 1765589668,
+            "level": 56,
+            "name": "Reinny",
+            "name_history": [
+                "Reinny"
+            ],
+            "registered": "Nov 27, 2025, 10:50:16 AM",
+            "role_id": 38174103118576239,
+            "server_region": "ws_asia_01"
+        },
         "38174103118576305": {
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
@@ -64145,8 +64177,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4009,
+    "accounts_total": 4011,
     "created": 1764092421,
-    "last_updated": 1765589608,
+    "last_updated": 1765589668,
     "server_region": "ws_asia_01"
 }
