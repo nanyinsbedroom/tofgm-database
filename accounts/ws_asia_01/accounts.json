@@ -10197,9 +10197,9 @@
             "crew_name": "†漆黒の翼†",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 296624.625,
-            "last_seen": 1764811936,
-            "level": 49,
+            "hp": 447350.0,
+            "last_seen": 1765574476,
+            "level": 58,
             "name": "うき",
             "name_history": [
                 "うき"
@@ -16766,6 +16766,22 @@
             ],
             "registered": "Nov 25, 2025, 6:16:36 PM",
             "role_id": 38174103118554697,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554706": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 245135.203125,
+            "last_seen": 1765574476,
+            "level": 57,
+            "name": "もんじwp",
+            "name_history": [
+                "もんじwp"
+            ],
+            "registered": "Nov 25, 2025, 6:16:57 PM",
+            "role_id": 38174103118554706,
             "server_region": "ws_asia_01"
         },
         "38174103118554718": {
@@ -61760,6 +61776,22 @@
             "role_id": 38174103118592602,
             "server_region": "ws_asia_01"
         },
+        "38174103118592729": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 392260.8125,
+            "last_seen": 1765574476,
+            "level": 58,
+            "name": "Schnaiffer",
+            "name_history": [
+                "Schnaiffer"
+            ],
+            "registered": "Dec 5, 2025, 7:44:46 PM",
+            "role_id": 38174103118592729,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592763": {
             "crew_id": 1889794498341,
             "crew_name": "THE VOIDKING ID",
@@ -63137,8 +63169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3946,
+    "accounts_total": 3948,
     "created": 1764092421,
-    "last_updated": 1765574416,
+    "last_updated": 1765574476,
     "server_region": "ws_asia_01"
 }
