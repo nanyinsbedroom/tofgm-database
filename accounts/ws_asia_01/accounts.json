@@ -11651,11 +11651,11 @@
         "38174103118550046": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 79540.0,
-            "last_seen": 1764117604,
-            "level": 22,
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 431214.0,
+            "last_seen": 1765577170,
+            "level": 58,
             "name": "SCriPt",
             "name_history": [
                 "SCriPt"
@@ -26512,6 +26512,22 @@
             "role_id": 38174103118558585,
             "server_region": "ws_asia_01"
         },
+        "38174103118558596": {
+            "crew_id": 1945629073189,
+            "crew_name": "White lie",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 178344.59375,
+            "last_seen": 1765577170,
+            "level": 51,
+            "name": "Ruzalka",
+            "name_history": [
+                "Ruzalka"
+            ],
+            "registered": "Nov 25, 2025, 8:47:28 PM",
+            "role_id": 38174103118558596,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558602": {
             "crew_id": 979261431589,
             "crew_name": "Afterglow",
@@ -32435,11 +32451,11 @@
         "38174103118561411": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 337787.21875,
-            "last_seen": 1765055233,
-            "level": 51,
+            "hp": 447055.78125,
+            "last_seen": 1765577170,
+            "level": 58,
             "name": "Lancia Atone",
             "name_history": [
                 "Lancia Atone"
@@ -45782,7 +45798,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 206091.796875,
-            "last_seen": 1765497273,
+            "last_seen": 1765577170,
             "level": 55,
             "name": "Rokapui",
             "name_history": [
@@ -63633,8 +63649,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3977,
+    "accounts_total": 3978,
     "created": 1764092421,
-    "last_updated": 1765577109,
+    "last_updated": 1765577170,
     "server_region": "ws_asia_01"
 }
