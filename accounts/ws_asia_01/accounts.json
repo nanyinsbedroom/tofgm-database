@@ -1654,7 +1654,7 @@
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;3",
             "gender": 1,
             "hp": 441704.0,
-            "last_seen": 1765575377,
+            "last_seen": 1765581438,
             "level": 58,
             "name": "ろあるい",
             "name_history": [
@@ -26816,6 +26816,22 @@
             "role_id": 38174103118558666,
             "server_region": "ws_asia_01"
         },
+        "38174103118558667": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 345566.40625,
+            "last_seen": 1765581438,
+            "level": 58,
+            "name": "Nebula",
+            "name_history": [
+                "Nebula"
+            ],
+            "registered": "Nov 25, 2025, 8:50:22 PM",
+            "role_id": 38174103118558667,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558668": {
             "crew_id": 0,
             "crew_name": "",
@@ -31701,9 +31717,9 @@
             "crew_name": "EIN",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 510997.21875,
-            "last_seen": 1765424684,
-            "level": 56,
+            "hp": 442312.8125,
+            "last_seen": 1765581438,
+            "level": 58,
             "name": "Anfi",
             "name_history": [
                 "Anfi"
@@ -63745,8 +63761,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3984,
+    "accounts_total": 3985,
     "created": 1764092421,
-    "last_updated": 1765581377,
+    "last_updated": 1765581438,
     "server_region": "ws_asia_01"
 }
