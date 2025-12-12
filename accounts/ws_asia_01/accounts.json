@@ -7653,9 +7653,9 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 267731.0,
-            "last_seen": 1765493721,
-            "level": 57,
+            "hp": 169390.640625,
+            "last_seen": 1765574896,
+            "level": 58,
             "name": "ネイ・シオン",
             "name_history": [
                 "ネイ・シオン"
@@ -9059,14 +9059,14 @@
         "38174103118546871": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 124313.203125,
-            "last_seen": 1764301558,
-            "level": 34,
-            "name": "Li Xuan",
+            "hp": 255353.359375,
+            "last_seen": 1765574896,
+            "level": 56,
+            "name": "RyZeii",
             "name_history": [
-                "Li Xuan"
+                "RyZeii"
             ],
             "registered": "Nov 25, 2025, 5:18:21 PM",
             "role_id": 38174103118546871,
@@ -14277,9 +14277,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 453212.40625,
-            "last_seen": 1765492940,
-            "level": 57,
+            "hp": 210073.3125,
+            "last_seen": 1765574896,
+            "level": 58,
             "name": "るーあ",
             "name_history": [
                 "るーあ"
@@ -34245,9 +34245,9 @@
             "crew_name": "INDONESIA",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 151926.0,
-            "last_seen": 1764375549,
-            "level": 39,
+            "hp": 432518.40625,
+            "last_seen": 1765574896,
+            "level": 58,
             "name": "DeZero",
             "name_history": [
                 "DeZero"
@@ -52352,6 +52352,22 @@
             "role_id": 38174103118580920,
             "server_region": "ws_asia_01"
         },
+        "38174103118580923": {
+            "crew_id": 597009342245,
+            "crew_name": "終わりと始まりの理",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 130446.734375,
+            "last_seen": 1765574896,
+            "level": 56,
+            "name": "Cyp",
+            "name_history": [
+                "Cyp"
+            ],
+            "registered": "Nov 28, 2025, 7:06:34 PM",
+            "role_id": 38174103118580923,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580933": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -54277,9 +54293,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 289450.34375,
-            "last_seen": 1764728266,
-            "level": 48,
+            "hp": 181860.5,
+            "last_seen": 1765574896,
+            "level": 58,
             "name": "Tomoi",
             "name_history": [
                 "Tomoi"
@@ -58976,6 +58992,22 @@
             "role_id": 38174103118588609,
             "server_region": "ws_asia_01"
         },
+        "38174103118588703": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 127398.390625,
+            "last_seen": 1765574896,
+            "level": 56,
+            "name": "PRO",
+            "name_history": [
+                "PRO"
+            ],
+            "registered": "Dec 1, 2025, 10:35:46 PM",
+            "role_id": 38174103118588703,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588707": {
             "crew_id": 0,
             "crew_name": "",
@@ -60245,8 +60277,8 @@
             "crew_name": "Kurumi Cult",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 141236.0,
-            "last_seen": 1765497738,
+            "hp": 96746.609375,
+            "last_seen": 1765574896,
             "level": 53,
             "name": "どらーら",
             "name_history": [
@@ -62368,6 +62400,22 @@
             "role_id": 38174103118593629,
             "server_region": "ws_asia_01"
         },
+        "38174103118593653": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 196137.765625,
+            "last_seen": 1765574896,
+            "level": 57,
+            "name": "ZennoIchi",
+            "name_history": [
+                "ZennoIchi"
+            ],
+            "registered": "Dec 6, 2025, 5:56:42 PM",
+            "role_id": 38174103118593653,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593663": {
             "crew_id": 0,
             "crew_name": "",
@@ -63249,8 +63297,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3953,
+    "accounts_total": 3956,
     "created": 1764092421,
-    "last_updated": 1765574776,
+    "last_updated": 1765574896,
     "server_region": "ws_asia_01"
 }
