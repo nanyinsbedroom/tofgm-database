@@ -13473,13 +13473,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118551926": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 579829473061,
+            "crew_name": "ブラックムーン海賊団",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 35636.0,
-            "last_seen": 1764112393,
-            "level": 13,
+            "hp": 423978.03125,
+            "last_seen": 1765582098,
+            "level": 58,
             "name": "はにゃんこ",
             "name_history": [
                 "はにゃんこ"
@@ -44448,6 +44448,22 @@
             "role_id": 38174103118570762,
             "server_region": "ws_asia_01"
         },
+        "38174103118570768": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 422619.625,
+            "last_seen": 1765582098,
+            "level": 58,
+            "name": "オネシャス",
+            "name_history": [
+                "オネシャス"
+            ],
+            "registered": "Nov 26, 2025, 8:17:09 PM",
+            "role_id": 38174103118570768,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570778": {
             "crew_id": 1301383978789,
             "crew_name": "きゃっとている",
@@ -63855,10 +63871,26 @@
             "registered": "Dec 12, 2025, 5:21:57 PM",
             "role_id": 38174103118598140,
             "server_region": "ws_asia_01"
+        },
+        "38174103118598249": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63803.0,
+            "last_seen": 1765582098,
+            "level": 12,
+            "name": "圆圆大魔王",
+            "name_history": [
+                "圆圆大魔王"
+            ],
+            "registered": "Dec 12, 2025, 9:33:16 PM",
+            "role_id": 38174103118598249,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3991,
+    "accounts_total": 3993,
     "created": 1764092421,
-    "last_updated": 1765581978,
+    "last_updated": 1765582098,
     "server_region": "ws_asia_01"
 }
