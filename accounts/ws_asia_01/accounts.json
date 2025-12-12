@@ -4273,13 +4273,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545626": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 90203201317,
+            "crew_name": "Wyverns",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 81764.0,
-            "last_seen": 1764201938,
-            "level": 27,
+            "hp": 329200.1875,
+            "last_seen": 1765577230,
+            "level": 56,
             "name": "Wryz3n",
             "name_history": [
                 "Wryz3n"
@@ -9157,9 +9157,9 @@
             "crew_name": "Scarface",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 122324.0,
-            "last_seen": 1764527954,
-            "level": 42,
+            "hp": 337641.0,
+            "last_seen": 1765577230,
+            "level": 58,
             "name": "Kannory",
             "name_history": [
                 "Kannory"
@@ -10373,9 +10373,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;24",
             "gender": 1,
-            "hp": 420791.8125,
-            "last_seen": 1765403283,
-            "level": 56,
+            "hp": 432416.0,
+            "last_seen": 1765577230,
+            "level": 57,
             "name": "egg",
             "name_history": [
                 "egg"
@@ -44464,6 +44464,22 @@
             "role_id": 38174103118570881,
             "server_region": "ws_asia_01"
         },
+        "38174103118570882": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 153534.203125,
+            "last_seen": 1765577230,
+            "level": 52,
+            "name": "アリスリーゼ",
+            "name_history": [
+                "アリスリーゼ"
+            ],
+            "registered": "Nov 26, 2025, 8:36:03 PM",
+            "role_id": 38174103118570882,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570887": {
             "crew_id": 0,
             "crew_name": "",
@@ -54581,8 +54597,8 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 181860.5,
-            "last_seen": 1765574896,
+            "hp": 458035.8125,
+            "last_seen": 1765577230,
             "level": 58,
             "name": "Tomoi",
             "name_history": [
@@ -63649,8 +63665,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3978,
+    "accounts_total": 3979,
     "created": 1764092421,
-    "last_updated": 1765577170,
+    "last_updated": 1765577230,
     "server_region": "ws_asia_01"
 }
