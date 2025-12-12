@@ -20230,7 +20230,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;65",
             "gender": 1,
             "hp": 438586.0,
-            "last_seen": 1765589608,
+            "last_seen": 1765592461,
             "level": 58,
             "name": "Inaurka",
             "name_history": [
@@ -37270,7 +37270,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;62",
             "gender": 1,
             "hp": 394486.59375,
-            "last_seen": 1765589608,
+            "last_seen": 1765592461,
             "level": 58,
             "name": "Uchinyan",
             "name_history": [
@@ -63824,6 +63824,22 @@
             "role_id": 38174103118596375,
             "server_region": "ws_asia_01"
         },
+        "38174103118596511": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105611.59375,
+            "last_seen": 1765592461,
+            "level": 44,
+            "name": "remarisa",
+            "name_history": [
+                "remarisa"
+            ],
+            "registered": "Dec 10, 2025, 1:32:16 AM",
+            "role_id": 38174103118596511,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596827": {
             "crew_id": 227642154789,
             "crew_name": "くまたん！",
@@ -64193,8 +64209,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4012,
+    "accounts_total": 4013,
     "created": 1764092421,
-    "last_updated": 1765589728,
+    "last_updated": 1765592461,
     "server_region": "ws_asia_01"
 }
