@@ -13587,11 +13587,11 @@
         "38174103118552213": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 219668.21875,
-            "last_seen": 1764693435,
-            "level": 46,
+            "hp": 374366.40625,
+            "last_seen": 1765575137,
+            "level": 58,
             "name": "Starfall Diva",
             "name_history": [
                 "Starfall Diva"
@@ -25525,9 +25525,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 439782.0,
-            "last_seen": 1765491830,
-            "level": 57,
+            "hp": 440646.0,
+            "last_seen": 1765575137,
+            "level": 58,
             "name": "Millennium",
             "name_history": [
                 "Millennium"
@@ -35022,6 +35022,22 @@
             ],
             "registered": "Nov 26, 2025, 12:32:14 AM",
             "role_id": 38174103118563020,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563023": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 148707.1875,
+            "last_seen": 1765575137,
+            "level": 55,
+            "name": "AryaSH ",
+            "name_history": [
+                "AryaSH "
+            ],
+            "registered": "Nov 26, 2025, 12:32:20 AM",
+            "role_id": 38174103118563023,
             "server_region": "ws_asia_01"
         },
         "38174103118563024": {
@@ -63313,8 +63329,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3957,
+    "accounts_total": 3958,
     "created": 1764092421,
-    "last_updated": 1765575016,
+    "last_updated": 1765575137,
     "server_region": "ws_asia_01"
 }
