@@ -2577,13 +2577,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545313": {
-            "crew_id": 201872351013,
-            "crew_name": "VALKYRIE",
-            "equipping_title": "1_1_1_1",
+            "crew_id": 558354636581,
+            "crew_name": "Wartag Silver",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_030_world;23",
             "gender": 0,
-            "hp": 130260.0,
-            "last_seen": 1764360483,
-            "level": 39,
+            "hp": 259890.609375,
+            "last_seen": 1765575857,
+            "level": 57,
             "name": "Kevin ",
             "name_history": [
                 "Kevin "
@@ -22054,7 +22054,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 419866.0,
-            "last_seen": 1765493961,
+            "last_seen": 1765575857,
             "level": 57,
             "name": "ソルシエール",
             "name_history": [
@@ -22686,6 +22686,22 @@
             ],
             "registered": "Nov 25, 2025, 7:50:20 PM",
             "role_id": 38174103118557214,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118557217": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 369919.40625,
+            "last_seen": 1765575857,
+            "level": 56,
+            "name": "ArataSan",
+            "name_history": [
+                "ArataSan"
+            ],
+            "registered": "Nov 25, 2025, 7:50:24 PM",
+            "role_id": 38174103118557217,
             "server_region": "ws_asia_01"
         },
         "38174103118557221": {
@@ -63361,8 +63377,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3960,
+    "accounts_total": 3961,
     "created": 1764092421,
-    "last_updated": 1765575797,
+    "last_updated": 1765575857,
     "server_region": "ws_asia_01"
 }
