@@ -1845,9 +1845,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 392813.375,
-            "last_seen": 1765404304,
-            "level": 56,
+            "hp": 393677.375,
+            "last_seen": 1765574416,
+            "level": 57,
             "name": "ちくわ",
             "name_history": [
                 "ちくわ"
@@ -3877,9 +3877,9 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 360495.0,
-            "last_seen": 1764957813,
-            "level": 50,
+            "hp": 459015.0,
+            "last_seen": 1765574416,
+            "level": 58,
             "name": "こり",
             "name_history": [
                 "こり"
@@ -33568,6 +33568,22 @@
             "role_id": 38174103118562178,
             "server_region": "ws_asia_01"
         },
+        "38174103118562183": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 330013.0,
+            "last_seen": 1765574416,
+            "level": 56,
+            "name": "Exialeo",
+            "name_history": [
+                "Exialeo"
+            ],
+            "registered": "Nov 25, 2025, 11:41:16 PM",
+            "role_id": 38174103118562183,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562189": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
@@ -54982,7 +54998,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 97838.203125,
-            "last_seen": 1765224968,
+            "last_seen": 1765574416,
             "level": 39,
             "name": "ノアチャンガ",
             "name_history": [
@@ -58929,13 +58945,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118588737": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1962808942373,
+            "crew_name": "のんびり茶会倶楽部",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 54191.0,
-            "last_seen": 1764713698,
-            "level": 15,
+            "gender": 0,
+            "hp": 218346.609375,
+            "last_seen": 1765574416,
+            "level": 58,
             "name": "紅蓮アリス",
             "name_history": [
                 "紅蓮アリス"
@@ -62656,6 +62672,22 @@
             "role_id": 38174103118595611,
             "server_region": "ws_asia_01"
         },
+        "38174103118595631": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 117708.3984375,
+            "last_seen": 1765574416,
+            "level": 42,
+            "name": "Reiya ",
+            "name_history": [
+                "Reiya "
+            ],
+            "registered": "Dec 8, 2025, 8:55:53 PM",
+            "role_id": 38174103118595631,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595677": {
             "crew_id": 0,
             "crew_name": "",
@@ -63087,10 +63119,26 @@
             "registered": "Dec 11, 2025, 3:31:36 PM",
             "role_id": 38174103118597504,
             "server_region": "ws_asia_01"
+        },
+        "38174103118598140": {
+            "crew_id": 558354636581,
+            "crew_name": "Wartag Silver",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 126878.6015625,
+            "last_seen": 1765574416,
+            "level": 32,
+            "name": "Days",
+            "name_history": [
+                "Days"
+            ],
+            "registered": "Dec 12, 2025, 5:21:57 PM",
+            "role_id": 38174103118598140,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 3943,
+    "accounts_total": 3946,
     "created": 1764092421,
-    "last_updated": 1765574356,
+    "last_updated": 1765574416,
     "server_region": "ws_asia_01"
 }
