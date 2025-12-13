@@ -9893,8 +9893,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 414890.4375,
-            "last_seen": 1765587482,
+            "hp": 415389.625,
+            "last_seen": 1765661202,
             "level": 58,
             "name": "ppp-star05",
             "name_history": [
@@ -20291,11 +20291,11 @@
         "38174103118556073": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 153892.40625,
-            "last_seen": 1764525059,
-            "level": 43,
+            "hp": 254567.828125,
+            "last_seen": 1765661202,
+            "level": 55,
             "name": "Xie Axu",
             "name_history": [
                 "Xie Axu"
@@ -55824,6 +55824,22 @@
             "role_id": 38174103118583031,
             "server_region": "ws_asia_01"
         },
+        "38174103118583032": {
+            "crew_id": 197577383717,
+            "crew_name": "Kurumi Cult",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 341069.8125,
+            "last_seen": 1765661202,
+            "level": 57,
+            "name": "Raiden Ei",
+            "name_history": [
+                "Raiden Ei"
+            ],
+            "registered": "Nov 29, 2025, 10:56:58 AM",
+            "role_id": 38174103118583032,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583050": {
             "crew_id": 0,
             "crew_name": "",
@@ -61473,13 +61489,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118590166": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 10980.92578125,
-            "last_seen": 1764728266,
-            "level": 8,
+            "hp": 385117.1875,
+            "last_seen": 1765661202,
+            "level": 58,
             "name": "BGz",
             "name_history": [
                 "BGz"
@@ -63936,6 +63952,22 @@
             "role_id": 38174103118594631,
             "server_region": "ws_asia_01"
         },
+        "38174103118594744": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 113911.0,
+            "last_seen": 1765661202,
+            "level": 55,
+            "name": "HARENCHI",
+            "name_history": [
+                "HARENCHI"
+            ],
+            "registered": "Dec 7, 2025, 7:38:52 PM",
+            "role_id": 38174103118594744,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594804": {
             "crew_id": 635664047909,
             "crew_name": "EIN",
@@ -64721,8 +64753,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4045,
+    "accounts_total": 4047,
     "created": 1764092421,
-    "last_updated": 1765661082,
+    "last_updated": 1765661202,
     "server_region": "ws_asia_01"
 }
