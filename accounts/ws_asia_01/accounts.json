@@ -1301,9 +1301,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_3;boss_hum_061_World;16",
             "gender": 1,
-            "hp": 458240.8125,
-            "last_seen": 1765402983,
-            "level": 56,
+            "hp": 430974.25,
+            "last_seen": 1765660421,
+            "level": 58,
             "name": "イリス",
             "name_history": [
                 "イリス"
@@ -1653,8 +1653,8 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;3",
             "gender": 1,
-            "hp": 441704.0,
-            "last_seen": 1765581438,
+            "hp": 416724.90625,
+            "last_seen": 1765660421,
             "level": 58,
             "name": "ろあるい",
             "name_history": [
@@ -14401,16 +14401,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118553511": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 84270.0,
-            "last_seen": 1764111792,
-            "level": 22,
-            "name": "アイラ",
+            "hp": 323757.1875,
+            "last_seen": 1765660421,
+            "level": 58,
+            "name": "ノマド",
             "name_history": [
-                "アイラ"
+                "ノマド"
             ],
             "registered": "Nov 25, 2025, 5:53:17 PM",
             "role_id": 38174103118553511,
@@ -15237,8 +15237,8 @@
             "crew_name": "Fractsidus",
             "equipping_title": "WorldBossDamage_3;Boss_hum_020_world;22",
             "gender": 1,
-            "hp": 297365.375,
-            "last_seen": 1765575257,
+            "hp": 301474.1875,
+            "last_seen": 1765660421,
             "level": 58,
             "name": "BANH RA ĐI EM",
             "name_history": [
@@ -20757,8 +20757,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 452724.0,
-            "last_seen": 1765518244,
+            "hp": 220815.71875,
+            "last_seen": 1765660421,
             "level": 58,
             "name": "2ndaidkit",
             "name_history": [
@@ -23701,9 +23701,9 @@
             "crew_name": "OdysseyID",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 394137.21875,
-            "last_seen": 1765493300,
-            "level": 55,
+            "hp": 424127.59375,
+            "last_seen": 1765660421,
+            "level": 57,
             "name": "Rifal",
             "name_history": [
                 "Rifal"
@@ -30325,8 +30325,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 329645.6875,
-            "last_seen": 1765575377,
+            "hp": 302949.6875,
+            "last_seen": 1765660421,
             "level": 58,
             "name": "Alya",
             "name_history": [
@@ -46720,6 +46720,22 @@
             "role_id": 38174103118573994,
             "server_region": "ws_asia_01"
         },
+        "38174103118574007": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;97",
+            "gender": 1,
+            "hp": 289368.0625,
+            "last_seen": 1765660421,
+            "level": 58,
+            "name": "Verustia",
+            "name_history": [
+                "Verustia"
+            ],
+            "registered": "Nov 26, 2025, 11:44:30 PM",
+            "role_id": 38174103118574007,
+            "server_region": "ws_asia_01"
+        },
         "38174103118574017": {
             "crew_id": 0,
             "crew_name": "",
@@ -47006,6 +47022,22 @@
             ],
             "registered": "Nov 27, 2025, 12:21:08 AM",
             "role_id": 38174103118574263,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118574273": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 117658.40625,
+            "last_seen": 1765660421,
+            "level": 43,
+            "name": "Zre",
+            "name_history": [
+                "Zre"
+            ],
+            "registered": "Nov 27, 2025, 12:22:16 AM",
+            "role_id": 38174103118574273,
             "server_region": "ws_asia_01"
         },
         "38174103118574274": {
@@ -53045,9 +53077,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 366014.59375,
-            "last_seen": 1764868432,
-            "level": 50,
+            "hp": 404260.21875,
+            "last_seen": 1765660421,
+            "level": 58,
             "name": "おぎにりコロリ",
             "name_history": [
                 "おぎにりコロリ"
@@ -64545,8 +64577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4034,
+    "accounts_total": 4036,
     "created": 1764092421,
-    "last_updated": 1765660301,
+    "last_updated": 1765660421,
     "server_region": "ws_asia_01"
 }
