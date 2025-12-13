@@ -14662,7 +14662,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;52",
             "gender": 1,
             "hp": 465892.46875,
-            "last_seen": 1765588647,
+            "last_seen": 1765671520,
             "level": 58,
             "name": "Fenfen",
             "name_history": [
@@ -39472,6 +39472,22 @@
             "role_id": 38174103118565165,
             "server_region": "ws_asia_01"
         },
+        "38174103118565181": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 438894.0,
+            "last_seen": 1765671520,
+            "level": 58,
+            "name": "Ay_4H",
+            "name_history": [
+                "Ay_4H"
+            ],
+            "registered": "Nov 26, 2025, 4:22:49 AM",
+            "role_id": 38174103118565181,
+            "server_region": "ws_asia_01"
+        },
         "38174103118565206": {
             "crew_id": 0,
             "crew_name": "",
@@ -41089,16 +41105,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118566416": {
-            "crew_id": 1430232997669,
-            "crew_name": "Reverie",
+            "crew_id": 974966464293,
+            "crew_name": "Family",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 25626.0546875,
-            "last_seen": 1765055293,
-            "level": 51,
-            "name": "ハク",
+            "hp": 198854.0,
+            "last_seen": 1765671520,
+            "level": 58,
+            "name": "幻塔界隈のホルスタイン　",
             "name_history": [
-                "ハク"
+                "幻塔界隈のホルスタイン　"
             ],
             "registered": "Nov 26, 2025, 8:54:50 AM",
             "role_id": 38174103118566416,
@@ -50644,10 +50660,10 @@
             "crew_id": 163217645349,
             "crew_name": "Scarface",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 298229.40625,
-            "last_seen": 1764984916,
-            "level": 51,
+            "gender": 0,
+            "hp": 400409.0,
+            "last_seen": 1765671520,
+            "level": 58,
             "name": "soyeah",
             "name_history": [
                 "soyeah"
@@ -64977,8 +64993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4061,
+    "accounts_total": 4062,
     "created": 1764092421,
-    "last_updated": 1765671460,
+    "last_updated": 1765671520,
     "server_region": "ws_asia_01"
 }
