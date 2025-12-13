@@ -18741,9 +18741,9 @@
             "crew_name": "甘味処パルフェ",
             "equipping_title": "WorldBossDamage_3;boss_hum_059_world;28",
             "gender": 0,
-            "hp": 436039.40625,
-            "last_seen": 1765498339,
-            "level": 57,
+            "hp": 430901.84375,
+            "last_seen": 1765660962,
+            "level": 58,
             "name": "もち",
             "name_history": [
                 "もち"
@@ -22318,6 +22318,22 @@
             ],
             "registered": "Nov 25, 2025, 7:37:36 PM",
             "role_id": 38174103118556933,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556938": {
+            "crew_id": 352196206373,
+            "crew_name": "ミッドナイト",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 174984.0,
+            "last_seen": 1765660962,
+            "level": 56,
+            "name": "ロロ",
+            "name_history": [
+                "ロロ"
+            ],
+            "registered": "Nov 25, 2025, 7:37:53 PM",
+            "role_id": 38174103118556938,
             "server_region": "ws_asia_01"
         },
         "38174103118556951": {
@@ -64705,8 +64721,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4044,
+    "accounts_total": 4045,
     "created": 1764092421,
-    "last_updated": 1765660902,
+    "last_updated": 1765660962,
     "server_region": "ws_asia_01"
 }
