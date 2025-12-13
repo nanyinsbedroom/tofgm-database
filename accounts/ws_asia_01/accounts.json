@@ -8515,11 +8515,11 @@
         "38174103118546699": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 389640.8125,
-            "last_seen": 1765404003,
-            "level": 56,
+            "hp": 417442.375,
+            "last_seen": 1765660481,
+            "level": 58,
             "name": "NeneChado",
             "name_history": [
                 "NeneChado"
@@ -16019,11 +16019,11 @@
         "38174103118554386": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 49404.0,
-            "last_seen": 1764111492,
-            "level": 14,
+            "hp": 240524.515625,
+            "last_seen": 1765660481,
+            "level": 57,
             "name": "kotatu",
             "name_history": [
                 "kotatu"
@@ -34629,9 +34629,9 @@
             "crew_name": "桜花",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 240360.8125,
-            "last_seen": 1765575317,
-            "level": 57,
+            "hp": 249250.40625,
+            "last_seen": 1765660481,
+            "level": 58,
             "name": "粋麗",
             "name_history": [
                 "粋麗"
@@ -64432,6 +64432,22 @@
             "role_id": 38174103118597429,
             "server_region": "ws_asia_01"
         },
+        "38174103118597464": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 97847.703125,
+            "last_seen": 1765660481,
+            "level": 44,
+            "name": "KurayamiLuno",
+            "name_history": [
+                "KurayamiLuno"
+            ],
+            "registered": "Dec 11, 2025, 1:55:21 PM",
+            "role_id": 38174103118597464,
+            "server_region": "ws_asia_01"
+        },
         "38174103118597492": {
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
@@ -64575,10 +64591,26 @@
             "registered": "Dec 12, 2025, 11:50:01 PM",
             "role_id": 38174103118598315,
             "server_region": "ws_asia_01"
+        },
+        "38174103118598320": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 102433.796875,
+            "last_seen": 1765660481,
+            "level": 52,
+            "name": "yzza",
+            "name_history": [
+                "yzza"
+            ],
+            "registered": "Dec 13, 2025, 12:00:59 AM",
+            "role_id": 38174103118598320,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4036,
+    "accounts_total": 4038,
     "created": 1764092421,
-    "last_updated": 1765660421,
+    "last_updated": 1765660481,
     "server_region": "ws_asia_01"
 }
