@@ -19555,11 +19555,11 @@
         "38174103118555836": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_6_4_19",
             "gender": 1,
-            "hp": 249747.0,
-            "last_seen": 1764432330,
-            "level": 42,
+            "hp": 453973.1875,
+            "last_seen": 1765671159,
+            "level": 58,
             "name": "Laureate",
             "name_history": [
                 "Laureate"
@@ -20757,9 +20757,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 269644.59375,
-            "last_seen": 1765497032,
-            "level": 55,
+            "hp": 271910.1875,
+            "last_seen": 1765671159,
+            "level": 57,
             "name": "ついぷい",
             "name_history": [
                 "ついぷい"
@@ -32565,9 +32565,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 85384.0,
-            "last_seen": 1764291103,
-            "level": 32,
+            "hp": 147135.609375,
+            "last_seen": 1765671159,
+            "level": 58,
             "name": "Chaebae",
             "name_history": [
                 "Chaebae"
@@ -42158,6 +42158,22 @@
             ],
             "registered": "Nov 26, 2025, 12:46:16 PM",
             "role_id": 38174103118567909,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118567933": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 232361.984375,
+            "last_seen": 1765671159,
+            "level": 58,
+            "name": "CIEL NUIT",
+            "name_history": [
+                "CIEL NUIT"
+            ],
+            "registered": "Nov 26, 2025, 12:49:36 PM",
+            "role_id": 38174103118567933,
             "server_region": "ws_asia_01"
         },
         "38174103118567937": {
@@ -53411,14 +53427,14 @@
         "38174103118580994": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 301935.59375,
-            "last_seen": 1764696013,
-            "level": 48,
-            "name": "Chisa.Support",
+            "hp": 399107.46875,
+            "last_seen": 1765671159,
+            "level": 58,
+            "name": "SuperPenguin",
             "name_history": [
-                "Chisa.Support"
+                "SuperPenguin"
             ],
             "registered": "Nov 28, 2025, 7:39:06 PM",
             "role_id": 38174103118580994,
@@ -64881,8 +64897,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4055,
+    "accounts_total": 4056,
     "created": 1764092421,
-    "last_updated": 1765671099,
+    "last_updated": 1765671159,
     "server_region": "ws_asia_01"
 }
