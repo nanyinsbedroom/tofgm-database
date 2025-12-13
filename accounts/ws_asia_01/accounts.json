@@ -691,11 +691,11 @@
         "38174103118545007": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;75",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 372707.0,
-            "last_seen": 1765067300,
-            "level": 52,
+            "hp": 460629.0,
+            "last_seen": 1765680694,
+            "level": 58,
             "name": "Zenxlay",
             "name_history": [
                 "Zenxlay"
@@ -38880,6 +38880,22 @@
             "role_id": 38174103118564750,
             "server_region": "ws_asia_01"
         },
+        "38174103118564766": {
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 332866.8125,
+            "last_seen": 1765680694,
+            "level": 57,
+            "name": "CodeBlack",
+            "name_history": [
+                "CodeBlack"
+            ],
+            "registered": "Nov 26, 2025, 3:23:05 AM",
+            "role_id": 38174103118564766,
+            "server_region": "ws_asia_01"
+        },
         "38174103118564768": {
             "crew_id": 0,
             "crew_name": "",
@@ -45749,9 +45765,9 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 449270.0,
-            "last_seen": 1765248200,
-            "level": 54,
+            "hp": 462510.0,
+            "last_seen": 1765680694,
+            "level": 58,
             "name": "ギンノ",
             "name_history": [
                 "ギンノ"
@@ -65201,8 +65217,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4075,
+    "accounts_total": 4076,
     "created": 1764092421,
-    "last_updated": 1765680634,
+    "last_updated": 1765680694,
     "server_region": "ws_asia_01"
 }
