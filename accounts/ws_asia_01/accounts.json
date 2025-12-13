@@ -34853,8 +34853,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 522304.8125,
-            "last_seen": 1765650348,
+            "hp": 440523.0,
+            "last_seen": 1765670199,
             "level": 58,
             "name": "Good Person",
             "name_history": [
@@ -60304,6 +60304,22 @@
             "role_id": 38174103118588813,
             "server_region": "ws_asia_01"
         },
+        "38174103118588819": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 279985.6875,
+            "last_seen": 1765670199,
+            "level": 58,
+            "name": "Richan",
+            "name_history": [
+                "Richan"
+            ],
+            "registered": "Dec 1, 2025, 11:44:51 PM",
+            "role_id": 38174103118588819,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588822": {
             "crew_id": 0,
             "crew_name": "",
@@ -64769,8 +64785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4048,
+    "accounts_total": 4049,
     "created": 1764092421,
-    "last_updated": 1765669358,
+    "last_updated": 1765670199,
     "server_region": "ws_asia_01"
 }
