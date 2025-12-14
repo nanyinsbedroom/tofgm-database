@@ -1653,8 +1653,8 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;3",
             "gender": 1,
-            "hp": 483796.0625,
-            "last_seen": 1765742059,
+            "hp": 488902.65625,
+            "last_seen": 1765760254,
             "level": 59,
             "name": "ろあるい",
             "name_history": [
@@ -7302,7 +7302,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 365625.0,
-            "last_seen": 1765760028,
+            "last_seen": 1765760254,
             "level": 52,
             "name": "Knyaz_Yuri",
             "name_history": [
@@ -9957,9 +9957,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 339025.8125,
-            "last_seen": 1765399602,
-            "level": 55,
+            "hp": 420303.8125,
+            "last_seen": 1765760254,
+            "level": 59,
             "name": "kafir",
             "name_history": [
                 "kafir"
@@ -19686,7 +19686,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 394319.0,
-            "last_seen": 1765759788,
+            "last_seen": 1765760254,
             "level": 58,
             "name": "Reynould",
             "name_history": [
@@ -25414,7 +25414,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 462605.09375,
-            "last_seen": 1765759007,
+            "last_seen": 1765760254,
             "level": 59,
             "name": "Lumina_",
             "name_history": [
@@ -30422,7 +30422,7 @@
             "equipping_title": "WorldBossDamage_3;boss_hum_053_world;20",
             "gender": 1,
             "hp": 219759.40625,
-            "last_seen": 1765759968,
+            "last_seen": 1765760254,
             "level": 59,
             "name": "MEIVIES",
             "name_history": [
@@ -45334,7 +45334,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 148769.0,
-            "last_seen": 1765759968,
+            "last_seen": 1765760254,
             "level": 57,
             "name": "jessy",
             "name_history": [
@@ -52358,7 +52358,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 109877.796875,
-            "last_seen": 1765760028,
+            "last_seen": 1765760254,
             "level": 55,
             "name": "じゃがリコ",
             "name_history": [
@@ -66143,10 +66143,26 @@
             "registered": "Dec 14, 2025, 8:59:59 PM",
             "role_id": 38174103118599560,
             "server_region": "ws_asia_01"
+        },
+        "38174103118599583": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 32833.0,
+            "last_seen": 1765760254,
+            "level": 11,
+            "name": "想來",
+            "name_history": [
+                "想來"
+            ],
+            "registered": "Dec 14, 2025, 9:35:20 PM",
+            "role_id": 38174103118599583,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4134,
+    "accounts_total": 4135,
     "created": 1764092421,
-    "last_updated": 1765760194,
+    "last_updated": 1765760254,
     "server_region": "ws_asia_01"
 }
