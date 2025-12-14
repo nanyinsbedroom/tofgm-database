@@ -14421,9 +14421,9 @@
             "crew_name": "Teyvat",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 193995.1875,
-            "last_seen": 1764909361,
-            "level": 49,
+            "hp": 393731.0,
+            "last_seen": 1765741774,
+            "level": 59,
             "name": "Breeze",
             "name_history": [
                 "Breeze"
@@ -18574,6 +18574,22 @@
             ],
             "registered": "Nov 25, 2025, 6:39:16 PM",
             "role_id": 38174103118555383,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555388": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 440280.40625,
+            "last_seen": 1765741774,
+            "level": 58,
+            "name": "Luthragon",
+            "name_history": [
+                "Luthragon"
+            ],
+            "registered": "Nov 25, 2025, 6:39:25 PM",
+            "role_id": 38174103118555388,
             "server_region": "ws_asia_01"
         },
         "38174103118555400": {
@@ -24609,13 +24625,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557678": {
-            "crew_id": 262001893157,
-            "crew_name": "Restart",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 264521.625,
-            "last_seen": 1765397560,
-            "level": 55,
+            "hp": 295776.40625,
+            "last_seen": 1765741774,
+            "level": 58,
             "name": "フリル",
             "name_history": [
                 "フリル"
@@ -41126,7 +41142,7 @@
             "equipping_title": "1_6_2_1",
             "gender": 0,
             "hp": 411976.1875,
-            "last_seen": 1765671460,
+            "last_seen": 1765741774,
             "level": 58,
             "name": "MIXMAX",
             "name_history": [
@@ -64981,9 +64997,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 84915.0,
-            "last_seen": 1765492310,
-            "level": 36,
+            "hp": 101704.0,
+            "last_seen": 1765741774,
+            "level": 38,
             "name": "rei_nstalling",
             "name_history": [
                 "rei_nstalling"
@@ -65685,9 +65701,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 10656.0,
-            "last_seen": 1765738322,
-            "level": 4,
+            "hp": 44868.0,
+            "last_seen": 1765741774,
+            "level": 9,
             "name": "Tylar",
             "name_history": [
                 "Tylar"
@@ -65697,8 +65713,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4106,
+    "accounts_total": 4107,
     "created": 1764092421,
-    "last_updated": 1765741714,
+    "last_updated": 1765741774,
     "server_region": "ws_asia_01"
 }
