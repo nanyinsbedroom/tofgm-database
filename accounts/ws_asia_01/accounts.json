@@ -6277,9 +6277,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 181225.59375,
-            "last_seen": 1765130855,
-            "level": 53,
+            "hp": 325694.40625,
+            "last_seen": 1765779965,
+            "level": 59,
             "name": "美優姫",
             "name_history": [
                 "美優姫"
@@ -66160,6 +66160,22 @@
             "role_id": 38174103118598320,
             "server_region": "ws_asia_01"
         },
+        "38174103118598573": {
+            "crew_id": 1589146787621,
+            "crew_name": "full power",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 120879.203125,
+            "last_seen": 1765779965,
+            "level": 40,
+            "name": "IsaacGrimm",
+            "name_history": [
+                "IsaacGrimm"
+            ],
+            "registered": "Dec 13, 2025, 12:25:57 PM",
+            "role_id": 38174103118598573,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598728": {
             "crew_id": 0,
             "crew_name": "",
@@ -66305,8 +66321,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4144,
+    "accounts_total": 4145,
     "created": 1764092421,
-    "last_updated": 1765779905,
+    "last_updated": 1765779965,
     "server_region": "ws_asia_01"
 }
