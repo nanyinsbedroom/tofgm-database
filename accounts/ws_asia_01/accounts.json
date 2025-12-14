@@ -6035,11 +6035,11 @@
         "38174103118546038": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;74",
             "gender": 1,
-            "hp": 38398.02734375,
-            "last_seen": 1764213089,
-            "level": 29,
+            "hp": 352440.875,
+            "last_seen": 1765741444,
+            "level": 58,
             "name": "Yuumi",
             "name_history": [
                 "Yuumi"
@@ -6161,13 +6161,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546081": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 33481.0,
-            "last_seen": 1764095083,
-            "level": 12,
+            "hp": 293608.5625,
+            "last_seen": 1765741444,
+            "level": 58,
             "name": "Mura",
             "name_history": [
                 "Mura"
@@ -22574,6 +22574,22 @@
             ],
             "registered": "Nov 25, 2025, 7:40:09 PM",
             "role_id": 38174103118556991,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556992": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 177161.328125,
+            "last_seen": 1765741444,
+            "level": 59,
+            "name": "azula",
+            "name_history": [
+                "azula"
+            ],
+            "registered": "Nov 25, 2025, 7:40:10 PM",
+            "role_id": 38174103118556992,
             "server_region": "ws_asia_01"
         },
         "38174103118556993": {
@@ -52736,6 +52752,22 @@
             "role_id": 38174103118579450,
             "server_region": "ws_asia_01"
         },
+        "38174103118579477": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 172114.546875,
+            "last_seen": 1765741444,
+            "level": 58,
+            "name": "7282",
+            "name_history": [
+                "7282"
+            ],
+            "registered": "Nov 28, 2025, 4:28:40 AM",
+            "role_id": 38174103118579477,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579480": {
             "crew_id": 201872351013,
             "crew_name": "VALKYRIE",
@@ -65633,8 +65665,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4102,
+    "accounts_total": 4104,
     "created": 1764092421,
-    "last_updated": 1765741264,
+    "last_updated": 1765741444,
     "server_region": "ws_asia_01"
 }
