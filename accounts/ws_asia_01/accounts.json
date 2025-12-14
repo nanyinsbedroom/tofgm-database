@@ -21157,9 +21157,9 @@
             "crew_name": "Restart",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 301267.1875,
-            "last_seen": 1765230493,
-            "level": 52,
+            "hp": 361771.0,
+            "last_seen": 1765780205,
+            "level": 58,
             "name": "エトルナ",
             "name_history": [
                 "エトルナ"
@@ -58640,6 +58640,22 @@
             "role_id": 38174103118585108,
             "server_region": "ws_asia_01"
         },
+        "38174103118585159": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 470438.09375,
+            "last_seen": 1765780205,
+            "level": 59,
+            "name": "ロガにゃん",
+            "name_history": [
+                "ロガにゃん"
+            ],
+            "registered": "Nov 30, 2025, 2:52:08 AM",
+            "role_id": 38174103118585159,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585166": {
             "crew_id": 0,
             "crew_name": "",
@@ -66385,8 +66401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4149,
+    "accounts_total": 4150,
     "created": 1764092421,
-    "last_updated": 1765780145,
+    "last_updated": 1765780205,
     "server_region": "ws_asia_01"
 }
