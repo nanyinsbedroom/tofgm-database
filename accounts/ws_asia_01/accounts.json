@@ -26869,9 +26869,9 @@
             "crew_name": "ブラックムーン海賊団",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 464991.625,
-            "last_seen": 1765397500,
-            "level": 56,
+            "hp": 545502.1875,
+            "last_seen": 1765758422,
+            "level": 59,
             "name": "りゆ",
             "name_history": [
                 "りゆ"
@@ -30341,9 +30341,9 @@
             "crew_name": "Scarface",
             "equipping_title": "WorldBossDamage_3;boss_hum_053_world;20",
             "gender": 1,
-            "hp": 344615.75,
-            "last_seen": 1765402983,
-            "level": 56,
+            "hp": 219759.40625,
+            "last_seen": 1765758422,
+            "level": 59,
             "name": "MEIVIES",
             "name_history": [
                 "MEIVIES"
@@ -34515,11 +34515,11 @@
         "38174103118562172": {
             "crew_id": 283476729637,
             "crew_name": "Eternal Sky",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 459015.0,
-            "last_seen": 1765589728,
-            "level": 58,
+            "hp": 488756.375,
+            "last_seen": 1765758422,
+            "level": 59,
             "name": "芳韻",
             "name_history": [
                 "芳韻"
@@ -35893,8 +35893,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 344981.40625,
-            "last_seen": 1765744250,
+            "hp": 346978.1875,
+            "last_seen": 1765758422,
             "level": 58,
             "name": "LORD",
             "name_history": [
@@ -41518,6 +41518,22 @@
             ],
             "registered": "Nov 26, 2025, 9:00:57 AM",
             "role_id": 38174103118566440,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118566445": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 337358.0,
+            "last_seen": 1765758422,
+            "level": 57,
+            "name": "Pure",
+            "name_history": [
+                "Pure"
+            ],
+            "registered": "Nov 26, 2025, 9:02:32 AM",
+            "role_id": 38174103118566445,
             "server_region": "ws_asia_01"
         },
         "38174103118566448": {
@@ -65318,7 +65334,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 105611.59375,
-            "last_seen": 1765592461,
+            "last_seen": 1765758422,
             "level": 44,
             "name": "remarisa",
             "name_history": [
@@ -65841,8 +65857,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4115,
+    "accounts_total": 4116,
     "created": 1764092421,
-    "last_updated": 1765758362,
+    "last_updated": 1765758422,
     "server_region": "ws_asia_01"
 }
