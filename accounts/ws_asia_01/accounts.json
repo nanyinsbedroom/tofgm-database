@@ -22181,9 +22181,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 163087.21875,
-            "last_seen": 1764796395,
-            "level": 48,
+            "hp": 274202.8125,
+            "last_seen": 1765741024,
+            "level": 58,
             "name": "Daxell",
             "name_history": [
                 "Daxell"
@@ -25861,9 +25861,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 469618.5625,
-            "last_seen": 1765667556,
-            "level": 58,
+            "hp": 315192.625,
+            "last_seen": 1765741024,
+            "level": 59,
             "name": "woof woof",
             "name_history": [
                 "woof woof"
@@ -27251,10 +27251,10 @@
         "38174103118558667": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 345566.40625,
-            "last_seen": 1765581438,
+            "hp": 262189.1875,
+            "last_seen": 1765741024,
             "level": 58,
             "name": "Nebula",
             "name_history": [
@@ -28702,6 +28702,22 @@
             ],
             "registered": "Nov 25, 2025, 9:15:43 PM",
             "role_id": 38174103118559274,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559283": {
+            "crew_id": 266296860453,
+            "crew_name": "CleoneID",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 333021.0,
+            "last_seen": 1765741024,
+            "level": 57,
+            "name": "Exos",
+            "name_history": [
+                "Exos"
+            ],
+            "registered": "Nov 25, 2025, 9:16:15 PM",
+            "role_id": 38174103118559283,
             "server_region": "ws_asia_01"
         },
         "38174103118559292": {
@@ -50864,6 +50880,22 @@
             "role_id": 38174103118577854,
             "server_region": "ws_asia_01"
         },
+        "38174103118577858": {
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 345373.8125,
+            "last_seen": 1765741024,
+            "level": 58,
+            "name": "IIOhmII",
+            "name_history": [
+                "IIOhmII"
+            ],
+            "registered": "Nov 27, 2025, 7:49:48 PM",
+            "role_id": 38174103118577858,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577866": {
             "crew_id": 0,
             "crew_name": "",
@@ -56734,6 +56766,22 @@
             ],
             "registered": "Nov 29, 2025, 2:05:44 PM",
             "role_id": 38174103118583432,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118583445": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 228736.40625,
+            "last_seen": 1765741024,
+            "level": 54,
+            "name": "ポイント太郎",
+            "name_history": [
+                "ポイント太郎"
+            ],
+            "registered": "Nov 29, 2025, 2:13:04 PM",
+            "role_id": 38174103118583445,
             "server_region": "ws_asia_01"
         },
         "38174103118583450": {
@@ -65553,8 +65601,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4097,
+    "accounts_total": 4100,
     "created": 1764092421,
-    "last_updated": 1765740964,
+    "last_updated": 1765741024,
     "server_region": "ws_asia_01"
 }
