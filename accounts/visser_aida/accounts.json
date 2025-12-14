@@ -1045,9 +1045,15 @@
         "60567630490523": {
             "crew_id": 6773163439894,
             "crew_name": "自强者联盟",
+            "equipping_title": "1_7_1_2",
             "gender": 1,
-            "last_seen": 1758117780,
+            "hp": 33781728.0,
+            "last_seen": 1765748873,
+            "level": 100,
             "name": "天镜星",
+            "name_history": [
+                "天镜星"
+            ],
             "registered": "2024年9月20日 上午6:15:14",
             "role_id": 60567630490523,
             "server_region": "visser_aida"
@@ -1674,6 +1680,22 @@
             "name": "木斤",
             "registered": "2025年9月14日 上午4:55:26",
             "role_id": 60567630862787,
+            "server_region": "visser_aida"
+        },
+        "60567630862822": {
+            "crew_id": 68719490851,
+            "crew_name": "世界樹之葉",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 16630081.0,
+            "last_seen": 1765748873,
+            "level": 100,
+            "name": "雨夜落繁星辰",
+            "name_history": [
+                "雨夜落繁星辰"
+            ],
+            "registered": "2025年9月14日 下午4:10:23",
+            "role_id": 60567630862822,
             "server_region": "visser_aida"
         },
         "60567630862995": {
@@ -3389,6 +3411,22 @@
             "role_id": 60597694780974,
             "server_region": "visser_aida"
         },
+        "60597694797370": {
+            "crew_id": 34359752475,
+            "crew_name": "妖颜",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33389884.0,
+            "last_seen": 1765748873,
+            "level": 100,
+            "name": "乙烯一克",
+            "name_history": [
+                "乙烯一克"
+            ],
+            "registered": "2023年12月27日 下午9:04:44",
+            "role_id": 60597694797370,
+            "server_region": "visser_aida"
+        },
         "60597694798096": {
             "crew_id": 266287986574,
             "crew_name": "至冬宫",
@@ -4958,10 +4996,10 @@
         "60666413170859": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
-            "equipping_title": "1_2022",
+            "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1873965.0,
-            "last_seen": 1763820497,
+            "hp": 33624936.0,
+            "last_seen": 1765748873,
             "level": 100,
             "name": "凯撒·烬",
             "name_history": [
@@ -5108,6 +5146,22 @@
             ],
             "registered": "2021年12月19日 下午2:43:58",
             "role_id": 60992830619683,
+            "server_region": "visser_aida"
+        },
+        "60992830783555": {
+            "crew_id": 34359752575,
+            "crew_name": "猫猫乐园",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 33267746.0,
+            "last_seen": 1765748873,
+            "level": 100,
+            "name": "乙咲玲",
+            "name_history": [
+                "乙咲玲"
+            ],
+            "registered": "2022年4月9日 下午2:43:05",
+            "role_id": 60992830783555,
             "server_region": "visser_aida"
         },
         "60992830789216": {
@@ -5525,6 +5579,22 @@
             "name": "楓霜",
             "registered": "2021年12月16日 下午10:34:40",
             "role_id": 61001420532475,
+            "server_region": "visser_aida"
+        },
+        "61001420541669": {
+            "crew_id": 4294981499,
+            "crew_name": "莉可丽丝",
+            "equipping_title": "星莉Sinly的导师,0",
+            "gender": 1,
+            "hp": 33640076.0,
+            "last_seen": 1765748873,
+            "level": 100,
+            "name": "绯白",
+            "name_history": [
+                "绯白"
+            ],
+            "registered": "2021年12月18日 下午2:31:42",
+            "role_id": 61001420541669,
             "server_region": "visser_aida"
         },
         "61005715475286": {
@@ -9288,8 +9358,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 728,
+    "accounts_total": 732,
     "created": 1758086949,
-    "last_updated": 1765748812,
+    "last_updated": 1765748873,
     "server_region": "visser_aida"
 }
