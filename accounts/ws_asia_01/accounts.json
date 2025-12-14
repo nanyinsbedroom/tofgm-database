@@ -13925,9 +13925,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 301582.21875,
-            "last_seen": 1765670859,
-            "level": 56,
+            "hp": 322203.1875,
+            "last_seen": 1765783181,
+            "level": 58,
             "name": "めぐ",
             "name_history": [
                 "めぐ"
@@ -17886,6 +17886,22 @@
             ],
             "registered": "Nov 25, 2025, 6:25:34 PM",
             "role_id": 38174103118554983,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554992": {
+            "crew_id": 811757707045,
+            "crew_name": "Sovereign",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 108896.8046875,
+            "last_seen": 1765783181,
+            "level": 43,
+            "name": "Yomimura",
+            "name_history": [
+                "Yomimura"
+            ],
+            "registered": "Nov 25, 2025, 6:25:44 PM",
+            "role_id": 38174103118554992,
             "server_region": "ws_asia_01"
         },
         "38174103118554998": {
@@ -65904,6 +65920,22 @@
             "role_id": 38174103118596375,
             "server_region": "ws_asia_01"
         },
+        "38174103118596443": {
+            "crew_id": 635664047909,
+            "crew_name": "EIN",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 308097.8125,
+            "last_seen": 1765783181,
+            "level": 59,
+            "name": "Padangyoesa",
+            "name_history": [
+                "Padangyoesa"
+            ],
+            "registered": "Dec 10, 2025, 12:09:36 AM",
+            "role_id": 38174103118596443,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596511": {
             "crew_id": 0,
             "crew_name": "",
@@ -66545,8 +66577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4159,
+    "accounts_total": 4161,
     "created": 1764092421,
-    "last_updated": 1765783121,
+    "last_updated": 1765783181,
     "server_region": "ws_asia_01"
 }
