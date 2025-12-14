@@ -7299,11 +7299,11 @@
         "38174103118546349": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 259506.609375,
-            "last_seen": 1764865610,
-            "level": 49,
+            "hp": 365625.0,
+            "last_seen": 1765760028,
+            "level": 52,
             "name": "Knyaz_Yuri",
             "name_history": [
                 "Knyaz_Yuri"
@@ -52352,6 +52352,22 @@
             "role_id": 38174103118578876,
             "server_region": "ws_asia_01"
         },
+        "38174103118578889": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 109877.796875,
+            "last_seen": 1765760028,
+            "level": 55,
+            "name": "じゃがリコ",
+            "name_history": [
+                "じゃがリコ"
+            ],
+            "registered": "Nov 28, 2025, 12:33:54 AM",
+            "role_id": 38174103118578889,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578904": {
             "crew_id": 859002347301,
             "crew_name": "ポンコツな",
@@ -54222,6 +54238,22 @@
             ],
             "registered": "Nov 28, 2025, 7:39:06 PM",
             "role_id": 38174103118580994,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118581001": {
+            "crew_id": 597009342245,
+            "crew_name": "終わりと始まりの理",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 465217.78125,
+            "last_seen": 1765760028,
+            "level": 59,
+            "name": "きあ",
+            "name_history": [
+                "きあ"
+            ],
+            "registered": "Nov 28, 2025, 7:41:41 PM",
+            "role_id": 38174103118581001,
             "server_region": "ws_asia_01"
         },
         "38174103118581012": {
@@ -65184,6 +65216,22 @@
             "role_id": 38174103118594945,
             "server_region": "ws_asia_01"
         },
+        "38174103118595050": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 45011.328125,
+            "last_seen": 1765760028,
+            "level": 18,
+            "name": "Luci",
+            "name_history": [
+                "Luci"
+            ],
+            "registered": "Dec 8, 2025, 1:54:18 AM",
+            "role_id": 38174103118595050,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595180": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
@@ -66097,8 +66145,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4131,
+    "accounts_total": 4134,
     "created": 1764092421,
-    "last_updated": 1765759968,
+    "last_updated": 1765760028,
     "server_region": "ws_asia_01"
 }
