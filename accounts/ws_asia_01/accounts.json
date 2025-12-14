@@ -1573,9 +1573,9 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 330581.4375,
-            "last_seen": 1765073380,
-            "level": 52,
+            "hp": 463066.78125,
+            "last_seen": 1765780145,
+            "level": 59,
             "name": "いろは",
             "name_history": [
                 "いろは"
@@ -38099,11 +38099,11 @@
         "38174103118564105": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;62",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 409594.1875,
-            "last_seen": 1765680634,
-            "level": 58,
+            "hp": 422285.40625,
+            "last_seen": 1765780145,
+            "level": 59,
             "name": "Uchinyan",
             "name_history": [
                 "Uchinyan"
@@ -41077,9 +41077,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 61239.0,
-            "last_seen": 1764202664,
-            "level": 16,
+            "hp": 450683.09375,
+            "last_seen": 1765780145,
+            "level": 59,
             "name": "ULTRAFAELX",
             "name_history": [
                 "ULTRAFAELX"
@@ -42462,6 +42462,22 @@
             ],
             "registered": "Nov 26, 2025, 11:19:55 AM",
             "role_id": 38174103118567290,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118567296": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 478395.1875,
+            "last_seen": 1765780145,
+            "level": 59,
+            "name": "ねむのき",
+            "name_history": [
+                "ねむのき"
+            ],
+            "registered": "Nov 26, 2025, 11:20:41 AM",
+            "role_id": 38174103118567296,
             "server_region": "ws_asia_01"
         },
         "38174103118567350": {
@@ -66369,8 +66385,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4148,
+    "accounts_total": 4149,
     "created": 1764092421,
-    "last_updated": 1765780085,
+    "last_updated": 1765780145,
     "server_region": "ws_asia_01"
 }
