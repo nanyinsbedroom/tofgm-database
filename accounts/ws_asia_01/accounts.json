@@ -5749,9 +5749,9 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_9_0_1",
             "gender": 1,
-            "hp": 197425.796875,
-            "last_seen": 1764551866,
-            "level": 44,
+            "hp": 385256.625,
+            "last_seen": 1765739943,
+            "level": 58,
             "name": "RuneStone",
             "name_history": [
                 "RuneStone"
@@ -21278,6 +21278,22 @@
             ],
             "registered": "Nov 25, 2025, 7:16:50 PM",
             "role_id": 38174103118556418,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556429": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 171727.0,
+            "last_seen": 1765739943,
+            "level": 56,
+            "name": "未来融合",
+            "name_history": [
+                "未来融合"
+            ],
+            "registered": "Nov 25, 2025, 7:17:32 PM",
+            "role_id": 38174103118556429,
             "server_region": "ws_asia_01"
         },
         "38174103118556433": {
@@ -65409,8 +65425,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4088,
+    "accounts_total": 4089,
     "created": 1764092421,
-    "last_updated": 1765739883,
+    "last_updated": 1765739943,
     "server_region": "ws_asia_01"
 }
