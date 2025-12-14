@@ -15541,9 +15541,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 531796.5,
-            "last_seen": 1765136961,
-            "level": 53,
+            "hp": 242059.109375,
+            "last_seen": 1765741264,
+            "level": 59,
             "name": "ユキウサギ",
             "name_history": [
                 "ユキウサギ"
@@ -41840,6 +41840,22 @@
             "role_id": 38174103118566981,
             "server_region": "ws_asia_01"
         },
+        "38174103118567040": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 384619.0,
+            "last_seen": 1765741264,
+            "level": 58,
+            "name": "Valva Ikumi",
+            "name_history": [
+                "Valva Ikumi"
+            ],
+            "registered": "Nov 26, 2025, 10:40:41 AM",
+            "role_id": 38174103118567040,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567059": {
             "crew_id": 0,
             "crew_name": "",
@@ -65617,8 +65633,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4101,
+    "accounts_total": 4102,
     "created": 1764092421,
-    "last_updated": 1765741084,
+    "last_updated": 1765741264,
     "server_region": "ws_asia_01"
 }
