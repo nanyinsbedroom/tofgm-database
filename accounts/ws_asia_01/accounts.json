@@ -2789,9 +2789,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 286542.21875,
-            "last_seen": 1765400383,
-            "level": 55,
+            "hp": 402492.0,
+            "last_seen": 1765739823,
+            "level": 58,
             "name": "Yuukarin",
             "name_history": [
                 "Yuukarin"
@@ -8821,9 +8821,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 391656.8125,
-            "last_seen": 1765518424,
-            "level": 57,
+            "hp": 400872.8125,
+            "last_seen": 1765739823,
+            "level": 59,
             "name": "Qirothz",
             "name_history": [
                 "Qirothz"
@@ -19902,6 +19902,22 @@
             ],
             "registered": "Nov 25, 2025, 6:59:14 PM",
             "role_id": 38174103118555947,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555950": {
+            "crew_id": 1284204109605,
+            "crew_name": "りんゆかチャンネル",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;32",
+            "gender": 0,
+            "hp": 381727.375,
+            "last_seen": 1765739823,
+            "level": 59,
+            "name": "drinco",
+            "name_history": [
+                "drinco"
+            ],
+            "registered": "Nov 25, 2025, 6:59:19 PM",
+            "role_id": 38174103118555950,
             "server_region": "ws_asia_01"
         },
         "38174103118555953": {
@@ -46672,6 +46688,22 @@
             "role_id": 38174103118572840,
             "server_region": "ws_asia_01"
         },
+        "38174103118572930": {
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 393909.0,
+            "last_seen": 1765739823,
+            "level": 59,
+            "name": "EMind",
+            "name_history": [
+                "EMind"
+            ],
+            "registered": "Nov 26, 2025, 10:58:41 PM",
+            "role_id": 38174103118572930,
+            "server_region": "ws_asia_01"
+        },
         "38174103118572949": {
             "crew_id": 0,
             "crew_name": "",
@@ -49445,9 +49477,9 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 369289.8125,
-            "last_seen": 1765403103,
-            "level": 56,
+            "hp": 449895.59375,
+            "last_seen": 1765739823,
+            "level": 59,
             "name": "noshi",
             "name_history": [
                 "noshi"
@@ -62405,9 +62437,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 176421.0,
-            "last_seen": 1765063495,
-            "level": 50,
+            "hp": 372721.40625,
+            "last_seen": 1765739823,
+            "level": 58,
             "name": "Kanamin",
             "name_history": [
                 "Kanamin"
@@ -65329,8 +65361,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4083,
+    "accounts_total": 4085,
     "created": 1764092421,
-    "last_updated": 1765739763,
+    "last_updated": 1765739823,
     "server_region": "ws_asia_01"
 }
