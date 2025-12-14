@@ -995,11 +995,11 @@
         "38174103118545053": {
             "crew_id": 833232543525,
             "crew_name": "セレスティア戦闘狂団",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;81",
             "gender": 1,
-            "hp": 443470.96875,
-            "last_seen": 1765242707,
-            "level": 54,
+            "hp": 479924.40625,
+            "last_seen": 1765783361,
+            "level": 59,
             "name": "ドヴェルグ",
             "name_history": [
                 "ドヴェルグ"
@@ -25845,9 +25845,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 459446.0,
-            "last_seen": 1765671219,
-            "level": 58,
+            "hp": 482152.21875,
+            "last_seen": 1765783361,
+            "level": 59,
             "name": "Nohana_z",
             "name_history": [
                 "Nohana_z"
@@ -54464,6 +54464,22 @@
             "role_id": 38174103118580920,
             "server_region": "ws_asia_01"
         },
+        "38174103118580922": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 323594.1875,
+            "last_seen": 1765783361,
+            "level": 58,
+            "name": "天奏姫",
+            "name_history": [
+                "天奏姫"
+            ],
+            "registered": "Nov 28, 2025, 7:06:14 PM",
+            "role_id": 38174103118580922,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580923": {
             "crew_id": 597009342245,
             "crew_name": "終わりと始まりの理",
@@ -61168,6 +61184,22 @@
             "role_id": 38174103118588115,
             "server_region": "ws_asia_01"
         },
+        "38174103118588117": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 468911.625,
+            "last_seen": 1765783361,
+            "level": 59,
+            "name": "HikariSayuri",
+            "name_history": [
+                "HikariSayuri"
+            ],
+            "registered": "Dec 1, 2025, 2:02:28 PM",
+            "role_id": 38174103118588117,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588149": {
             "crew_id": 0,
             "crew_name": "",
@@ -66639,10 +66671,26 @@
             "registered": "Dec 14, 2025, 9:35:20 PM",
             "role_id": 38174103118599583,
             "server_region": "ws_asia_01"
+        },
+        "38174103118599803": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 57425.0,
+            "last_seen": 1765783361,
+            "level": 17,
+            "name": "Skyral",
+            "name_history": [
+                "Skyral"
+            ],
+            "registered": "Dec 15, 2025, 3:35:34 AM",
+            "role_id": 38174103118599803,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4165,
+    "accounts_total": 4168,
     "created": 1764092421,
-    "last_updated": 1765783301,
+    "last_updated": 1765783361,
     "server_region": "ws_asia_01"
 }
