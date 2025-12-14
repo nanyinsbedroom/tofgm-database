@@ -22597,9 +22597,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_1;boss_hum_061_World;2",
             "gender": 1,
-            "hp": 467486.0,
-            "last_seen": 1765576037,
-            "level": 58,
+            "hp": 496819.125,
+            "last_seen": 1765741084,
+            "level": 59,
             "name": "ぽぷす",
             "name_history": [
                 "ぽぷす"
@@ -65120,6 +65120,22 @@
             "role_id": 38174103118596827,
             "server_region": "ws_asia_01"
         },
+        "38174103118596839": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 155140.59375,
+            "last_seen": 1765741084,
+            "level": 52,
+            "name": "えんど",
+            "name_history": [
+                "えんど"
+            ],
+            "registered": "Dec 10, 2025, 3:22:22 PM",
+            "role_id": 38174103118596839,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596868": {
             "crew_id": 0,
             "crew_name": "",
@@ -65601,8 +65617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4100,
+    "accounts_total": 4101,
     "created": 1764092421,
-    "last_updated": 1765741024,
+    "last_updated": 1765741084,
     "server_region": "ws_asia_01"
 }
