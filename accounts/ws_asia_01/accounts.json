@@ -14453,9 +14453,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 467486.0,
-            "last_seen": 1765581558,
-            "level": 58,
+            "hp": 527684.0,
+            "last_seen": 1765739763,
+            "level": 59,
             "name": "るーあ",
             "name_history": [
                 "るーあ"
@@ -16195,11 +16195,11 @@
         "38174103118554416": {
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;79",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 291914.59375,
-            "last_seen": 1764871770,
-            "level": 49,
+            "hp": 351528.8125,
+            "last_seen": 1765739763,
+            "level": 57,
             "name": "Poliay",
             "name_history": [
                 "Poliay"
@@ -44944,6 +44944,22 @@
             "role_id": 38174103118570513,
             "server_region": "ws_asia_01"
         },
+        "38174103118570535": {
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;76",
+            "gender": 0,
+            "hp": 279923.625,
+            "last_seen": 1765739763,
+            "level": 58,
+            "name": "ChernoX",
+            "name_history": [
+                "ChernoX"
+            ],
+            "registered": "Nov 26, 2025, 7:41:05 PM",
+            "role_id": 38174103118570535,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570583": {
             "crew_id": 38663593765,
             "crew_name": "แอสทร่า",
@@ -48581,9 +48597,9 @@
             "crew_name": "ミスティルテイン",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 429440.0,
-            "last_seen": 1765661082,
-            "level": 58,
+            "hp": 430304.0,
+            "last_seen": 1765739763,
+            "level": 59,
             "name": "yakishake",
             "name_history": [
                 "yakishake"
@@ -57920,6 +57936,22 @@
             "role_id": 38174103118585166,
             "server_region": "ws_asia_01"
         },
+        "38174103118585172": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_1_5_1",
+            "gender": 0,
+            "hp": 488057.625,
+            "last_seen": 1765739763,
+            "level": 59,
+            "name": "法蘭克",
+            "name_history": [
+                "法蘭克"
+            ],
+            "registered": "Nov 30, 2025, 2:59:58 AM",
+            "role_id": 38174103118585172,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585199": {
             "crew_id": 0,
             "crew_name": "",
@@ -65297,8 +65329,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4081,
+    "accounts_total": 4083,
     "created": 1764092421,
-    "last_updated": 1765739523,
+    "last_updated": 1765739763,
     "server_region": "ws_asia_01"
 }
