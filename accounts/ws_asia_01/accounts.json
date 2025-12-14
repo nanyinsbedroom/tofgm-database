@@ -2483,11 +2483,11 @@
         "38174103118545284": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;59",
             "gender": 1,
-            "hp": 308639.1875,
-            "last_seen": 1764871950,
-            "level": 50,
+            "hp": 458766.0,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "Honami",
             "name_history": [
                 "Honami"
@@ -4798,6 +4798,22 @@
             ],
             "registered": "Nov 25, 2025, 5:04:45 PM",
             "role_id": 38174103118545739,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545740": {
+            "crew_id": 90203201317,
+            "crew_name": "Wyverns",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 521934.0,
+            "last_seen": 1765758603,
+            "level": 59,
+            "name": "Pyrum",
+            "name_history": [
+                "Pyrum"
+            ],
+            "registered": "Nov 25, 2025, 5:04:45 PM",
+            "role_id": 38174103118545740,
             "server_region": "ws_asia_01"
         },
         "38174103118545744": {
@@ -12965,9 +12981,9 @@
             "crew_name": "Hykros",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 327307.8125,
-            "last_seen": 1765073380,
-            "level": 52,
+            "hp": 488825.59375,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "Regrett",
             "name_history": [
                 "Regrett"
@@ -18021,9 +18037,9 @@
             "crew_name": "Hykros",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 447733.40625,
-            "last_seen": 1765518664,
-            "level": 58,
+            "hp": 483379.8125,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "Freijya",
             "name_history": [
                 "Freijya"
@@ -20965,9 +20981,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 220815.71875,
-            "last_seen": 1765660421,
-            "level": 58,
+            "hp": 482464.8125,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "2ndaidkit",
             "name_history": [
                 "2ndaidkit"
@@ -31155,11 +31171,11 @@
         "38174103118560245": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;96",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 173863.484375,
-            "last_seen": 1765493841,
-            "level": 57,
+            "hp": 463404.21875,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "Terjebak",
             "name_history": [
                 "Terjebak"
@@ -36645,9 +36661,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 451028.375,
-            "last_seen": 1765587181,
-            "level": 58,
+            "hp": 462022.4375,
+            "last_seen": 1765758603,
+            "level": 59,
             "name": "DatBaka",
             "name_history": [
                 "DatBaka"
@@ -65935,10 +65951,26 @@
             "registered": "Dec 14, 2025, 6:37:24 PM",
             "role_id": 38174103118599462,
             "server_region": "ws_asia_01"
+        },
+        "38174103118599560": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49344.3984375,
+            "last_seen": 1765758603,
+            "level": 16,
+            "name": "FMG",
+            "name_history": [
+                "FMG"
+            ],
+            "registered": "Dec 14, 2025, 8:59:59 PM",
+            "role_id": 38174103118599560,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4121,
+    "accounts_total": 4123,
     "created": 1764092421,
-    "last_updated": 1765758543,
+    "last_updated": 1765758603,
     "server_region": "ws_asia_01"
 }
