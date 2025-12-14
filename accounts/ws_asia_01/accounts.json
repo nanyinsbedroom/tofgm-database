@@ -15971,11 +15971,11 @@
         "38174103118554332": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 266607.0,
-            "last_seen": 1765064696,
-            "level": 52,
+            "hp": 410304.625,
+            "last_seen": 1765783121,
+            "level": 59,
             "name": "Icarus",
             "name_history": [
                 "Icarus"
@@ -52080,6 +52080,22 @@
             "role_id": 38174103118578503,
             "server_region": "ws_asia_01"
         },
+        "38174103118578559": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 55655.0,
+            "last_seen": 1765783121,
+            "level": 18,
+            "name": "uomza00123",
+            "name_history": [
+                "uomza00123"
+            ],
+            "registered": "Nov 27, 2025, 11:03:11 PM",
+            "role_id": 38174103118578559,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578565": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
@@ -66529,8 +66545,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4158,
+    "accounts_total": 4159,
     "created": 1764092421,
-    "last_updated": 1765782821,
+    "last_updated": 1765783121,
     "server_region": "ws_asia_01"
 }
