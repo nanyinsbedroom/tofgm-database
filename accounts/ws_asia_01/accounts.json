@@ -29235,11 +29235,11 @@
         "38174103118559549": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 249292.421875,
-            "last_seen": 1764958053,
-            "level": 51,
+            "hp": 316438.0,
+            "last_seen": 1765739883,
+            "level": 59,
             "name": "Anya",
             "name_history": [
                 "Anya"
@@ -30885,9 +30885,9 @@
             "crew_name": "他力本願やっせんぼー",
             "equipping_title": "WorldBossDamage_3;Boss_hum_006_world;28",
             "gender": 1,
-            "hp": 405446.40625,
-            "last_seen": 1765575557,
-            "level": 58,
+            "hp": 406955.46875,
+            "last_seen": 1765739883,
+            "level": 59,
             "name": "Myun",
             "name_history": [
                 "Myun"
@@ -33765,9 +33765,9 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 198604.203125,
-            "last_seen": 1764943381,
-            "level": 51,
+            "hp": 441409.8125,
+            "last_seen": 1765739883,
+            "level": 59,
             "name": "UDone",
             "name_history": [
                 "UDone"
@@ -41056,6 +41056,22 @@
             "role_id": 38174103118566267,
             "server_region": "ws_asia_01"
         },
+        "38174103118566305": {
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 308742.84375,
+            "last_seen": 1765739883,
+            "level": 58,
+            "name": "K.O.R.N",
+            "name_history": [
+                "K.O.R.N"
+            ],
+            "registered": "Nov 26, 2025, 8:35:45 AM",
+            "role_id": 38174103118566305,
+            "server_region": "ws_asia_01"
+        },
         "38174103118566334": {
             "crew_id": 0,
             "crew_name": "",
@@ -44078,6 +44094,22 @@
             ],
             "registered": "Nov 26, 2025, 5:25:55 PM",
             "role_id": 38174103118569714,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118569750": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;53",
+            "gender": 0,
+            "hp": 439566.0,
+            "last_seen": 1765739883,
+            "level": 57,
+            "name": "WIRO SABLENG ",
+            "name_history": [
+                "WIRO SABLENG "
+            ],
+            "registered": "Nov 26, 2025, 5:31:03 PM",
+            "role_id": 38174103118569750,
             "server_region": "ws_asia_01"
         },
         "38174103118569756": {
@@ -59824,6 +59856,22 @@
             "role_id": 38174103118587391,
             "server_region": "ws_asia_01"
         },
+        "38174103118587441": {
+            "crew_id": 1086635613989,
+            "crew_name": "แม่เรียกกินข้าว",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 213736.203125,
+            "last_seen": 1765739883,
+            "level": 52,
+            "name": "YIMYIM",
+            "name_history": [
+                "YIMYIM"
+            ],
+            "registered": "Dec 1, 2025, 2:42:49 AM",
+            "role_id": 38174103118587441,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587462": {
             "crew_id": 523994898213,
             "crew_name": "Mysterious",
@@ -65361,8 +65409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4085,
+    "accounts_total": 4088,
     "created": 1764092421,
-    "last_updated": 1765739823,
+    "last_updated": 1765739883,
     "server_region": "ws_asia_01"
 }
