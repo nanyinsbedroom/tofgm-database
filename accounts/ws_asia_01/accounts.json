@@ -6371,11 +6371,11 @@
         "38174103118546138": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "WorldBossDamage_2;boss_hum_061_World;5",
             "gender": 0,
-            "hp": 324207.0,
-            "last_seen": 1764696872,
-            "level": 48,
+            "hp": 453807.0,
+            "last_seen": 1765742180,
+            "level": 58,
             "name": "HOTARU",
             "name_history": [
                 "HOTARU"
@@ -6709,9 +6709,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 258542.0,
-            "last_seen": 1764548654,
-            "level": 44,
+            "hp": 518856.0625,
+            "last_seen": 1765742180,
+            "level": 58,
             "name": "Crescente",
             "name_history": [
                 "Crescente"
@@ -16846,6 +16846,22 @@
             ],
             "registered": "Nov 25, 2025, 6:14:45 PM",
             "role_id": 38174103118554628,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554629": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 350434.40625,
+            "last_seen": 1765742180,
+            "level": 58,
+            "name": "Shinny",
+            "name_history": [
+                "Shinny"
+            ],
+            "registered": "Nov 25, 2025, 6:14:55 PM",
+            "role_id": 38174103118554629,
             "server_region": "ws_asia_01"
         },
         "38174103118554630": {
@@ -27286,7 +27302,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 346430.40625,
-            "last_seen": 1765741894,
+            "last_seen": 1765742180,
             "level": 59,
             "name": "Nebula",
             "name_history": [
@@ -48064,6 +48080,22 @@
             "role_id": 38174103118574495,
             "server_region": "ws_asia_01"
         },
+        "38174103118574519": {
+            "crew_id": 81613266725,
+            "crew_name": "Sleeping Cats",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 405698.8125,
+            "last_seen": 1765742180,
+            "level": 58,
+            "name": "4l31UET5",
+            "name_history": [
+                "4l31UET5"
+            ],
+            "registered": "Nov 27, 2025, 1:00:31 AM",
+            "role_id": 38174103118574519,
+            "server_region": "ws_asia_01"
+        },
         "38174103118574566": {
             "crew_id": 0,
             "crew_name": "",
@@ -49651,11 +49683,11 @@
         "38174103118576340": {
             "crew_id": 442390519589,
             "crew_name": "NoVa",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 340865.0,
-            "last_seen": 1764869852,
-            "level": 50,
+            "hp": 406081.21875,
+            "last_seen": 1765742180,
+            "level": 59,
             "name": "MaFeunG",
             "name_history": [
                 "MaFeunG"
@@ -50966,7 +50998,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 345373.8125,
-            "last_seen": 1765741654,
+            "last_seen": 1765742180,
             "level": 58,
             "name": "IIOhmII",
             "name_history": [
@@ -65729,8 +65761,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4108,
+    "accounts_total": 4110,
     "created": 1764092421,
-    "last_updated": 1765742119,
+    "last_updated": 1765742180,
     "server_region": "ws_asia_01"
 }
