@@ -1011,11 +1011,11 @@
         "38174103118545054": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "WorldBossDamage_1;boss_hum_057_world;1",
+            "equipping_title": "1_6_4_33",
             "gender": 1,
-            "hp": 398061.15625,
-            "last_seen": 1765328921,
-            "level": 55,
+            "hp": 544428.3125,
+            "last_seen": 1765852405,
+            "level": 59,
             "name": "JellySG",
             "name_history": [
                 "JellySG"
@@ -5267,11 +5267,11 @@
         "38174103118545859": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;63",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;49",
             "gender": 1,
-            "hp": 389356.5,
-            "last_seen": 1765248261,
-            "level": 54,
+            "hp": 403895.15625,
+            "last_seen": 1765852405,
+            "level": 59,
             "name": "Moon",
             "name_history": [
                 "Moon"
@@ -10581,9 +10581,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 389403.59375,
-            "last_seen": 1765573455,
-            "level": 58,
+            "hp": 415647.59375,
+            "last_seen": 1765852405,
+            "level": 59,
             "name": "Feyrouz",
             "name_history": [
                 "Feyrouz"
@@ -46192,6 +46192,22 @@
             "role_id": 38174103118570887,
             "server_region": "ws_asia_01"
         },
+        "38174103118570903": {
+            "crew_id": 244822023973,
+            "crew_name": "女神の祝福・霞",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 362656.8125,
+            "last_seen": 1765852405,
+            "level": 57,
+            "name": "Hizard",
+            "name_history": [
+                "Hizard"
+            ],
+            "registered": "Nov 26, 2025, 8:38:45 PM",
+            "role_id": 38174103118570903,
+            "server_region": "ws_asia_01"
+        },
         "38174103118570913": {
             "crew_id": 0,
             "crew_name": "",
@@ -54837,9 +54853,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 399107.46875,
-            "last_seen": 1765671159,
-            "level": 58,
+            "hp": 539273.75,
+            "last_seen": 1765852405,
+            "level": 59,
             "name": "SuperPenguin",
             "name_history": [
                 "SuperPenguin"
@@ -67121,8 +67137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4195,
+    "accounts_total": 4196,
     "created": 1764092421,
-    "last_updated": 1765852345,
+    "last_updated": 1765852405,
     "server_region": "ws_asia_01"
 }
