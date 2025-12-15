@@ -933,9 +933,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 382361.0,
-            "last_seen": 1765424864,
-            "level": 56,
+            "hp": 546611.75,
+            "last_seen": 1765846867,
+            "level": 59,
             "name": "Coral",
             "name_history": [
                 "Coral"
@@ -2670,6 +2670,22 @@
             ],
             "registered": "Nov 25, 2025, 5:02:47 PM",
             "role_id": 38174103118545320,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545321": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_4;boss_hum_053_world;58",
+            "gender": 1,
+            "hp": 409729.8125,
+            "last_seen": 1765846867,
+            "level": 59,
+            "name": "VELO",
+            "name_history": [
+                "VELO"
+            ],
+            "registered": "Nov 25, 2025, 5:02:47 PM",
+            "role_id": 38174103118545321,
             "server_region": "ws_asia_01"
         },
         "38174103118545322": {
@@ -15189,9 +15205,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 380256.0,
-            "last_seen": 1765305991,
-            "level": 54,
+            "hp": 437722.8125,
+            "last_seen": 1765846867,
+            "level": 59,
             "name": "Seika",
             "name_history": [
                 "Seika"
@@ -27025,13 +27041,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558411": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 79864.0546875,
-            "last_seen": 1764285340,
-            "level": 34,
+            "hp": 483218.0,
+            "last_seen": 1765846867,
+            "level": 59,
             "name": "Tako･3･Winner",
             "name_history": [
                 "Tako･3･Winner"
@@ -66977,8 +66993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4186,
+    "accounts_total": 4187,
     "created": 1764092421,
-    "last_updated": 1765846807,
+    "last_updated": 1765846867,
     "server_region": "ws_asia_01"
 }
