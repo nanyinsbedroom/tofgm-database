@@ -5747,11 +5747,11 @@
         "38174103118545983": {
             "crew_id": 85908234021,
             "crew_name": "Eissentam",
-            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;2",
+            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;1",
             "gender": 1,
-            "hp": 561958.125,
-            "last_seen": 1765589608,
-            "level": 58,
+            "hp": 530520.625,
+            "last_seen": 1765825673,
+            "level": 59,
             "name": "A i k e e e",
             "name_history": [
                 "A i k e e e"
@@ -28453,9 +28453,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 381270.1875,
-            "last_seen": 1765493240,
-            "level": 56,
+            "hp": 454296.0,
+            "last_seen": 1765825673,
+            "level": 59,
             "name": "カムラ",
             "name_history": [
                 "カムラ"
@@ -40193,12 +40193,12 @@
             "server_region": "ws_asia_01"
         },
         "38174103118565230": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 1589146787621,
+            "crew_name": "full power",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 55239.6875,
-            "last_seen": 1765680634,
+            "hp": 38527.11328125,
+            "last_seen": 1765825673,
             "level": 16,
             "name": "Sagi",
             "name_history": [
@@ -48035,11 +48035,11 @@
         "38174103118574120": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;84",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 383472.78125,
-            "last_seen": 1765670859,
-            "level": 58,
+            "hp": 453563.96875,
+            "last_seen": 1765825673,
+            "level": 59,
             "name": "バックレーン",
             "name_history": [
                 "バックレーン"
@@ -53955,11 +53955,11 @@
         "38174103118580269": {
             "crew_id": 1189714829093,
             "crew_name": "ムーンライトスピード",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "1_1_18_1",
             "gender": 1,
-            "hp": 214416.15625,
-            "last_seen": 1765398101,
-            "level": 56,
+            "hp": 483207.59375,
+            "last_seen": 1765825673,
+            "level": 59,
             "name": "れいさん",
             "name_history": [
                 "れいさん"
@@ -66640,6 +66640,22 @@
             "role_id": 38174103118599056,
             "server_region": "ws_asia_01"
         },
+        "38174103118599137": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 49372.0,
+            "last_seen": 1765825673,
+            "level": 20,
+            "name": "しょうくん",
+            "name_history": [
+                "しょうくん"
+            ],
+            "registered": "Dec 14, 2025, 9:17:48 AM",
+            "role_id": 38174103118599137,
+            "server_region": "ws_asia_01"
+        },
         "38174103118599451": {
             "crew_id": 0,
             "crew_name": "",
@@ -66737,8 +66753,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4171,
+    "accounts_total": 4172,
     "created": 1764092421,
-    "last_updated": 1765783481,
+    "last_updated": 1765825673,
     "server_region": "ws_asia_01"
 }
