@@ -9635,11 +9635,11 @@
         "38174103118547023": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;27",
             "gender": 0,
-            "hp": 381082.21875,
-            "last_seen": 1765126331,
-            "level": 53,
+            "hp": 456961.1875,
+            "last_seen": 1765847348,
+            "level": 59,
             "name": "hibikishina",
             "name_history": [
                 "hibikishina"
@@ -16869,9 +16869,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 424854.5,
-            "last_seen": 1765670859,
-            "level": 58,
+            "hp": 431966.65625,
+            "last_seen": 1765847348,
+            "level": 59,
             "name": "Umirii",
             "name_history": [
                 "Umirii"
@@ -66304,6 +66304,22 @@
             "role_id": 38174103118596336,
             "server_region": "ws_asia_01"
         },
+        "38174103118596360": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 366625.1875,
+            "last_seen": 1765847348,
+            "level": 58,
+            "name": "Seraphana",
+            "name_history": [
+                "Seraphana"
+            ],
+            "registered": "Dec 9, 2025, 10:03:02 PM",
+            "role_id": 38174103118596360,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596375": {
             "crew_id": 0,
             "crew_name": "",
@@ -67009,8 +67025,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4188,
+    "accounts_total": 4189,
     "created": 1764092421,
-    "last_updated": 1765847228,
+    "last_updated": 1765847348,
     "server_region": "ws_asia_01"
 }
