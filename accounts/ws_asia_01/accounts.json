@@ -5827,11 +5827,11 @@
         "38174103118545986": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 198994.40625,
-            "last_seen": 1764943441,
-            "level": 49,
+            "hp": 312092.40625,
+            "last_seen": 1765852645,
+            "level": 59,
             "name": "flare01x",
             "name_history": [
                 "flare01x"
@@ -54432,6 +54432,22 @@
             "role_id": 38174103118580542,
             "server_region": "ws_asia_01"
         },
+        "38174103118580546": {
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 390605.1875,
+            "last_seen": 1765852645,
+            "level": 57,
+            "name": "YukiHImeS",
+            "name_history": [
+                "YukiHImeS"
+            ],
+            "registered": "Nov 28, 2025, 4:03:09 PM",
+            "role_id": 38174103118580546,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580547": {
             "crew_id": 0,
             "crew_name": "",
@@ -67153,8 +67169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4197,
+    "accounts_total": 4198,
     "created": 1764092421,
-    "last_updated": 1765852465,
+    "last_updated": 1765852645,
     "server_region": "ws_asia_01"
 }
