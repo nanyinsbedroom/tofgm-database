@@ -36579,11 +36579,11 @@
         "38174103118563042": {
             "crew_id": 1086635613989,
             "crew_name": "แม่เรียกกินข้าว",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_065_world;92",
             "gender": 0,
-            "hp": 203647.234375,
-            "last_seen": 1764729767,
-            "level": 48,
+            "hp": 287031.40625,
+            "last_seen": 1765852705,
+            "level": 59,
             "name": "อึหอม",
             "name_history": [
                 "อึหอม"
@@ -52432,6 +52432,22 @@
             "role_id": 38174103118578503,
             "server_region": "ws_asia_01"
         },
+        "38174103118578530": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 399438.5625,
+            "last_seen": 1765852705,
+            "level": 59,
+            "name": "Anael",
+            "name_history": [
+                "Anael"
+            ],
+            "registered": "Nov 27, 2025, 10:57:50 PM",
+            "role_id": 38174103118578530,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578559": {
             "crew_id": 0,
             "crew_name": "",
@@ -56771,11 +56787,11 @@
         "38174103118582337": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;14",
+            "equipping_title": "WorldBossDamage_4;boss_hum_059_world;56",
             "gender": 0,
-            "hp": 369465.40625,
-            "last_seen": 1765227191,
-            "level": 54,
+            "hp": 429635.03125,
+            "last_seen": 1765852705,
+            "level": 59,
             "name": "Capriccio",
             "name_history": [
                 "Capriccio"
@@ -63600,6 +63616,22 @@
             "role_id": 38174103118590395,
             "server_region": "ws_asia_01"
         },
+        "38174103118590449": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 450871.5,
+            "last_seen": 1765852705,
+            "level": 59,
+            "name": "xNoia",
+            "name_history": [
+                "xNoia"
+            ],
+            "registered": "Dec 3, 2025, 6:18:05 AM",
+            "role_id": 38174103118590449,
+            "server_region": "ws_asia_01"
+        },
         "38174103118590461": {
             "crew_id": 0,
             "crew_name": "",
@@ -66320,6 +66352,22 @@
             "role_id": 38174103118595728,
             "server_region": "ws_asia_01"
         },
+        "38174103118595804": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 344785.15625,
+            "last_seen": 1765852705,
+            "level": 58,
+            "name": "Shade3",
+            "name_history": [
+                "Shade3"
+            ],
+            "registered": "Dec 9, 2025, 12:59:32 AM",
+            "role_id": 38174103118595804,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595807": {
             "crew_id": 0,
             "crew_name": "",
@@ -67169,8 +67217,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4198,
+    "accounts_total": 4201,
     "created": 1764092421,
-    "last_updated": 1765852645,
+    "last_updated": 1765852705,
     "server_region": "ws_asia_01"
 }
