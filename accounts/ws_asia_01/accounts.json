@@ -17363,11 +17363,11 @@
         "38174103118554791": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 279851.78125,
-            "last_seen": 1765126811,
-            "level": 52,
+            "hp": 470954.375,
+            "last_seen": 1765846207,
+            "level": 59,
             "name": "名瀬大先生",
             "name_history": [
                 "名瀬大先生"
@@ -59155,11 +59155,11 @@
         "38174103118585408": {
             "crew_id": 300656598821,
             "crew_name": "INDONESIA",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 227503.15625,
-            "last_seen": 1765328921,
-            "level": 52,
+            "hp": 202236.171875,
+            "last_seen": 1765846207,
+            "level": 57,
             "name": "S A S A K I",
             "name_history": [
                 "S A S A K I"
@@ -64880,6 +64880,22 @@
             "role_id": 38174103118592857,
             "server_region": "ws_asia_01"
         },
+        "38174103118592885": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 190356.40625,
+            "last_seen": 1765846207,
+            "level": 53,
+            "name": "LeafLeSS",
+            "name_history": [
+                "LeafLeSS"
+            ],
+            "registered": "Dec 5, 2025, 10:46:08 PM",
+            "role_id": 38174103118592885,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592904": {
             "crew_id": 0,
             "crew_name": "",
@@ -66833,8 +66849,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4177,
+    "accounts_total": 4178,
     "created": 1764092421,
-    "last_updated": 1765846147,
+    "last_updated": 1765846207,
     "server_region": "ws_asia_01"
 }
