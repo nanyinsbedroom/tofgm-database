@@ -6323,11 +6323,11 @@
         "38174103118546110": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;49",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;75",
             "gender": 1,
-            "hp": 446805.0,
-            "last_seen": 1765403283,
-            "level": 56,
+            "hp": 448533.0,
+            "last_seen": 1765852825,
+            "level": 58,
             "name": "เคี้ยวหนม",
             "name_history": [
                 "เคี้ยวหนม"
@@ -65216,6 +65216,22 @@
             "role_id": 38174103118592885,
             "server_region": "ws_asia_01"
         },
+        "38174103118592891": {
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 367510.1875,
+            "last_seen": 1765852825,
+            "level": 59,
+            "name": "Unsheathed",
+            "name_history": [
+                "Unsheathed"
+            ],
+            "registered": "Dec 5, 2025, 10:52:13 PM",
+            "role_id": 38174103118592891,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592904": {
             "crew_id": 0,
             "crew_name": "",
@@ -66384,6 +66400,22 @@
             "role_id": 38174103118595807,
             "server_region": "ws_asia_01"
         },
+        "38174103118595827": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 428851.8125,
+            "last_seen": 1765852825,
+            "level": 59,
+            "name": "‎ ‎‎",
+            "name_history": [
+                "‎ ‎‎"
+            ],
+            "registered": "Dec 9, 2025, 1:45:20 AM",
+            "role_id": 38174103118595827,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595880": {
             "crew_id": 0,
             "crew_name": "",
@@ -67217,8 +67249,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4201,
+    "accounts_total": 4203,
     "created": 1764092421,
-    "last_updated": 1765852765,
+    "last_updated": 1765852825,
     "server_region": "ws_asia_01"
 }
