@@ -9589,9 +9589,9 @@
             "crew_name": "Alter",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 385271.40625,
-            "last_seen": 1765429056,
-            "level": 56,
+            "hp": 331096.375,
+            "last_seen": 1765847168,
+            "level": 58,
             "name": "Mortis",
             "name_history": [
                 "Mortis"
@@ -45136,6 +45136,22 @@
             "role_id": 38174103118569916,
             "server_region": "ws_asia_01"
         },
+        "38174103118569922": {
+            "crew_id": 55843462949,
+            "crew_name": "Fractsidus",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_world;14",
+            "gender": 0,
+            "hp": 455539.78125,
+            "last_seen": 1765847168,
+            "level": 59,
+            "name": "Yurneo",
+            "name_history": [
+                "Yurneo"
+            ],
+            "registered": "Nov 26, 2025, 5:58:04 PM",
+            "role_id": 38174103118569922,
+            "server_region": "ws_asia_01"
+        },
         "38174103118569930": {
             "crew_id": 266296860453,
             "crew_name": "CleoneID",
@@ -66993,8 +67009,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4187,
+    "accounts_total": 4188,
     "created": 1764092421,
-    "last_updated": 1765847048,
+    "last_updated": 1765847168,
     "server_region": "ws_asia_01"
 }
