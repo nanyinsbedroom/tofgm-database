@@ -1459,11 +1459,11 @@
         "38174103118545120": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_1_5_1",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;5",
             "gender": 1,
-            "hp": 428469.0,
-            "last_seen": 1765493360,
-            "level": 57,
+            "hp": 556143.3125,
+            "last_seen": 1765917470,
+            "level": 60,
             "name": "ウィル",
             "name_history": [
                 "ウィル"
@@ -11950,6 +11950,22 @@
             ],
             "registered": "Nov 25, 2025, 5:33:03 PM",
             "role_id": 38174103118549916,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118549963": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 211368.59375,
+            "last_seen": 1765917470,
+            "level": 57,
+            "name": "ハクレン",
+            "name_history": [
+                "ハクレン"
+            ],
+            "registered": "Nov 25, 2025, 5:33:13 PM",
+            "role_id": 38174103118549963,
             "server_region": "ws_asia_01"
         },
         "38174103118549975": {
@@ -26976,6 +26992,22 @@
             "role_id": 38174103118558252,
             "server_region": "ws_asia_01"
         },
+        "38174103118558253": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 438628.78125,
+            "last_seen": 1765917470,
+            "level": 60,
+            "name": "カザミ",
+            "name_history": [
+                "カザミ"
+            ],
+            "registered": "Nov 25, 2025, 8:34:06 PM",
+            "role_id": 38174103118558253,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558260": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
@@ -36021,12 +36053,12 @@
             "crew_name": "Fractsidus",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 188916.0,
-            "last_seen": 1765399122,
-            "level": 54,
-            "name": "Peanuts",
+            "hp": 222489.0,
+            "last_seen": 1765917470,
+            "level": 59,
+            "name": "VERGILING",
             "name_history": [
-                "Peanuts"
+                "VERGILING"
             ],
             "registered": "Nov 26, 2025, 12:08:40 AM",
             "role_id": 38174103118562650,
@@ -37070,6 +37102,22 @@
             ],
             "registered": "Nov 26, 2025, 12:36:46 AM",
             "role_id": 38174103118563082,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563084": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 247887.8125,
+            "last_seen": 1765917470,
+            "level": 59,
+            "name": "Wulfstan_w",
+            "name_history": [
+                "Wulfstan_w"
+            ],
+            "registered": "Nov 26, 2025, 12:37:02 AM",
+            "role_id": 38174103118563084,
             "server_region": "ws_asia_01"
         },
         "38174103118563094": {
@@ -51509,9 +51557,9 @@
             "crew_name": "EIN",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 402843.34375,
-            "last_seen": 1765740544,
-            "level": 59,
+            "hp": 452272.40625,
+            "last_seen": 1765917470,
+            "level": 60,
             "name": "Zhou pan ",
             "name_history": [
                 "Zhou pan "
@@ -63440,6 +63488,22 @@
             "role_id": 38174103118589459,
             "server_region": "ws_asia_01"
         },
+        "38174103118589467": {
+            "crew_id": 442390519589,
+            "crew_name": "NoVa",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 383573.625,
+            "last_seen": 1765917470,
+            "level": 58,
+            "name": "UchieDevil",
+            "name_history": [
+                "UchieDevil"
+            ],
+            "registered": "Dec 2, 2025, 12:58:28 PM",
+            "role_id": 38174103118589467,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589474": {
             "crew_id": 219052220197,
             "crew_name": "Extreme",
@@ -68033,8 +68097,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4252,
+    "accounts_total": 4256,
     "created": 1764092421,
-    "last_updated": 1765917350,
+    "last_updated": 1765917470,
     "server_region": "ws_asia_01"
 }
