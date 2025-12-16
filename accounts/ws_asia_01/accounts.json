@@ -2853,9 +2853,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 439428.0,
-            "last_seen": 1765491229,
-            "level": 57,
+            "hp": 483491.40625,
+            "last_seen": 1765917050,
+            "level": 60,
             "name": "朝姫",
             "name_history": [
                 "朝姫"
@@ -14467,11 +14467,11 @@
         "38174103118553161": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 269646.0,
-            "last_seen": 1764548058,
-            "level": 44,
+            "hp": 552563.9375,
+            "last_seen": 1765917050,
+            "level": 60,
             "name": "Zenxiao",
             "name_history": [
                 "Zenxiao"
@@ -21331,11 +21331,11 @@
         "38174103118556207": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
-            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;20",
+            "equipping_title": "WorldBossDamage_3;boss_hum_067_World;25",
             "gender": 1,
-            "hp": 440062.1875,
-            "last_seen": 1765397500,
-            "level": 56,
+            "hp": 544302.0,
+            "last_seen": 1765917050,
+            "level": 60,
             "name": "アリス３０７",
             "name_history": [
                 "アリス３０７"
@@ -27957,8 +27957,8 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 346430.40625,
-            "last_seen": 1765742180,
+            "hp": 370122.59375,
+            "last_seen": 1765917050,
             "level": 59,
             "name": "Nebula",
             "name_history": [
@@ -29406,6 +29406,22 @@
             ],
             "registered": "Nov 25, 2025, 9:15:43 PM",
             "role_id": 38174103118559274,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559280": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 216485.390625,
+            "last_seen": 1765917050,
+            "level": 55,
+            "name": "Misty26",
+            "name_history": [
+                "Misty26"
+            ],
+            "registered": "Nov 25, 2025, 9:16:14 PM",
+            "role_id": 38174103118559280,
             "server_region": "ws_asia_01"
         },
         "38174103118559283": {
@@ -64613,9 +64629,9 @@
             "crew_name": "CleoneID",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 376337.1875,
-            "last_seen": 1765670859,
-            "level": 57,
+            "hp": 379888.625,
+            "last_seen": 1765917050,
+            "level": 58,
             "name": "Rapiaer ",
             "name_history": [
                 "Rapiaer "
@@ -68001,8 +68017,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4250,
+    "accounts_total": 4251,
     "created": 1764092421,
-    "last_updated": 1765916990,
+    "last_updated": 1765917050,
     "server_region": "ws_asia_01"
 }
