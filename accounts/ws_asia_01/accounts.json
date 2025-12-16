@@ -1203,11 +1203,11 @@
         "38174103118545079": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;90",
             "gender": 1,
-            "hp": 250459.609375,
-            "last_seen": 1764359582,
-            "level": 39,
+            "hp": 488931.3125,
+            "last_seen": 1765909602,
+            "level": 60,
             "name": "ZoyaYami",
             "name_history": [
                 "ZoyaYami"
@@ -6453,9 +6453,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 239919.203125,
-            "last_seen": 1765068801,
-            "level": 52,
+            "hp": 448954.8125,
+            "last_seen": 1765909602,
+            "level": 60,
             "name": "Erika Araki",
             "name_history": [
                 "Erika Araki"
@@ -39536,6 +39536,22 @@
             "role_id": 38174103118564719,
             "server_region": "ws_asia_01"
         },
+        "38174103118564726": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 544062.4375,
+            "last_seen": 1765909602,
+            "level": 60,
+            "name": "KumoBear",
+            "name_history": [
+                "KumoBear"
+            ],
+            "registered": "Nov 26, 2025, 3:15:56 AM",
+            "role_id": 38174103118564726,
+            "server_region": "ws_asia_01"
+        },
         "38174103118564728": {
             "crew_id": 0,
             "crew_name": "",
@@ -57680,6 +57696,22 @@
             "role_id": 38174103118583104,
             "server_region": "ws_asia_01"
         },
+        "38174103118583117": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 321216.0,
+            "last_seen": 1765909602,
+            "level": 59,
+            "name": "AilesAmour",
+            "name_history": [
+                "AilesAmour"
+            ],
+            "registered": "Nov 29, 2025, 11:34:59 AM",
+            "role_id": 38174103118583117,
+            "server_region": "ws_asia_01"
+        },
         "38174103118583180": {
             "crew_id": 0,
             "crew_name": "",
@@ -61153,13 +61185,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118587166": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 1821075021605,
+            "crew_name": "MEKODIANS",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 31857.927734375,
-            "last_seen": 1764547265,
-            "level": 6,
+            "hp": 401377.59375,
+            "last_seen": 1765909602,
+            "level": 60,
             "name": "ibo",
             "name_history": [
                 "ibo"
@@ -66672,6 +66704,22 @@
             "role_id": 38174103118596125,
             "server_region": "ws_asia_01"
         },
+        "38174103118596171": {
+            "crew_id": 1069455744805,
+            "crew_name": "OTL",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 357416.625,
+            "last_seen": 1765909602,
+            "level": 58,
+            "name": "Longan",
+            "name_history": [
+                "Longan"
+            ],
+            "registered": "Dec 9, 2025, 3:57:29 PM",
+            "role_id": 38174103118596171,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596314": {
             "crew_id": 0,
             "crew_name": "",
@@ -67461,9 +67509,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 57425.0,
-            "last_seen": 1765783361,
-            "level": 17,
+            "hp": 111161.1953125,
+            "last_seen": 1765909602,
+            "level": 45,
             "name": "Skyral",
             "name_history": [
                 "Skyral"
@@ -67473,8 +67521,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4217,
+    "accounts_total": 4220,
     "created": 1764092421,
-    "last_updated": 1765909542,
+    "last_updated": 1765909602,
     "server_region": "ws_asia_01"
 }
