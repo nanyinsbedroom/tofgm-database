@@ -179,11 +179,11 @@
         "38174103118544927": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;36",
+            "equipping_title": "1_6_4_5",
             "gender": 1,
-            "hp": 288197.46875,
-            "last_seen": 1765330394,
-            "level": 55,
+            "hp": 436811.0,
+            "last_seen": 1765918070,
+            "level": 58,
             "name": "ネロ",
             "name_history": [
                 "ネロ"
@@ -5779,14 +5779,14 @@
         "38174103118545966": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 66526.0,
-            "last_seen": 1764102853,
-            "level": 21,
-            "name": "Lin",
+            "hp": 510336.34375,
+            "last_seen": 1765918070,
+            "level": 60,
+            "name": "Hexe",
             "name_history": [
-                "Lin"
+                "Hexe"
             ],
             "registered": "Nov 25, 2025, 5:06:46 PM",
             "role_id": 38174103118545966,
@@ -15168,6 +15168,22 @@
             "role_id": 38174103118553850,
             "server_region": "ws_asia_01"
         },
+        "38174103118553854": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 306050.1875,
+            "last_seen": 1765918070,
+            "level": 58,
+            "name": "ハルカ",
+            "name_history": [
+                "ハルカ"
+            ],
+            "registered": "Nov 25, 2025, 5:56:44 PM",
+            "role_id": 38174103118553854,
+            "server_region": "ws_asia_01"
+        },
         "38174103118553861": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
@@ -17507,11 +17523,11 @@
         "38174103118554755": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;46",
             "gender": 1,
-            "hp": 280233.1875,
-            "last_seen": 1765575977,
-            "level": 56,
+            "hp": 304195.0,
+            "last_seen": 1765918070,
+            "level": 58,
             "name": "ほたてちゃん",
             "name_history": [
                 "ほたてちゃん"
@@ -50803,11 +50819,11 @@
         "38174103118576080": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_2;boss_hum_044_world;10",
             "gender": 1,
-            "hp": 351155.34375,
-            "last_seen": 1764867832,
-            "level": 50,
+            "hp": 569481.3125,
+            "last_seen": 1765918070,
+            "level": 60,
             "name": "いしいちゃん",
             "name_history": [
                 "いしいちゃん"
@@ -51982,6 +51998,22 @@
             ],
             "registered": "Nov 27, 2025, 5:00:09 PM",
             "role_id": 38174103118577361,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118577369": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176864.203125,
+            "last_seen": 1765918070,
+            "level": 50,
+            "name": "マナト",
+            "name_history": [
+                "マナト"
+            ],
+            "registered": "Nov 27, 2025, 5:02:17 PM",
+            "role_id": 38174103118577369,
             "server_region": "ws_asia_01"
         },
         "38174103118577382": {
@@ -65424,6 +65456,22 @@
             "role_id": 38174103118592004,
             "server_region": "ws_asia_01"
         },
+        "38174103118592024": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 128126.0,
+            "last_seen": 1765918070,
+            "level": 47,
+            "name": "Vepe",
+            "name_history": [
+                "Vepe"
+            ],
+            "registered": "Dec 4, 2025, 11:13:55 PM",
+            "role_id": 38174103118592024,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592034": {
             "crew_id": 0,
             "crew_name": "",
@@ -68129,8 +68177,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4258,
+    "accounts_total": 4261,
     "created": 1764092421,
-    "last_updated": 1765918010,
+    "last_updated": 1765918070,
     "server_region": "ws_asia_01"
 }
