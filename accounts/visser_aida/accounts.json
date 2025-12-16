@@ -1095,8 +1095,8 @@
             "crew_name": "世界樹之葉",
             "equipping_title": "NotArtter的导师,0",
             "gender": 0,
-            "hp": 1355924.0,
-            "last_seen": 1763821373,
+            "hp": 1291096.625,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "ItsArtter",
             "name_history": [
@@ -1415,10 +1415,13 @@
             "crew_name": "世界樹之葉",
             "equipping_title": "ItsArtter的学徒,0",
             "gender": 0,
-            "hp": 1033008.3125,
-            "last_seen": 1761917502,
+            "hp": 997780.0,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "NotArtter",
+            "name_history": [
+                "NotArtter"
+            ],
             "registered": "2025年4月25日 下午1:59:26",
             "role_id": 60567630703324,
             "server_region": "visser_aida"
@@ -5657,11 +5660,17 @@
             "server_region": "visser_aida"
         },
         "60997126744517": {
-            "crew_id": 833223669626,
-            "crew_name": "天空之城",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2023",
             "gender": 0,
-            "last_seen": 1759072396,
+            "hp": 1545444.625,
+            "last_seen": 1765926598,
+            "level": 100,
             "name": "Karpy",
+            "name_history": [
+                "Karpy"
+            ],
             "registered": "2023年9月3日 上午8:57:45",
             "role_id": 60997126744517,
             "server_region": "visser_aida"
@@ -5707,8 +5716,8 @@
             "crew_name": "天空之城",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1566911.0,
-            "last_seen": 1764968108,
+            "hp": 1483238.75,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "Nanashiなな",
             "name_history": [
@@ -6028,8 +6037,8 @@
             "crew_name": "天空之城",
             "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 2081133.25,
-            "last_seen": 1765846255,
+            "hp": 1786124.75,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "Sussy",
             "name_history": [
@@ -6764,8 +6773,8 @@
             "crew_name": "天空之城",
             "equipping_title": "2_2_0_42",
             "gender": 0,
-            "hp": 2494141.25,
-            "last_seen": 1765846315,
+            "hp": 2252021.5,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "gateoo",
             "name_history": [
@@ -9287,8 +9296,8 @@
             "crew_name": "天空之城",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2202711.5,
-            "last_seen": 1765846315,
+            "hp": 2249983.25,
+            "last_seen": 1765926598,
             "level": 100,
             "name": "Nahano_z",
             "name_history": [
@@ -9750,6 +9759,6 @@
     },
     "accounts_total": 753,
     "created": 1758086949,
-    "last_updated": 1765926538,
+    "last_updated": 1765926598,
     "server_region": "visser_aida"
 }
