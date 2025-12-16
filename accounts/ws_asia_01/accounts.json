@@ -25475,11 +25475,11 @@
         "38174103118557794": {
             "crew_id": 352196206373,
             "crew_name": "ミッドナイト",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 253207.203125,
-            "last_seen": 1764359943,
-            "level": 39,
+            "hp": 532078.8125,
+            "last_seen": 1765910082,
+            "level": 60,
             "name": "SK",
             "name_history": [
                 "SK"
@@ -33568,6 +33568,22 @@
             "role_id": 38174103118561330,
             "server_region": "ws_asia_01"
         },
+        "38174103118561333": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 391314.21875,
+            "last_seen": 1765910082,
+            "level": 60,
+            "name": "ﾀﾞﾝｽｲﾝｻﾞ",
+            "name_history": [
+                "ﾀﾞﾝｽｲﾝｻﾞ"
+            ],
+            "registered": "Nov 25, 2025, 10:56:00 PM",
+            "role_id": 38174103118561333,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561335": {
             "crew_id": 0,
             "crew_name": "",
@@ -33637,9 +33653,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 472590.0,
-            "last_seen": 1765661022,
-            "level": 58,
+            "hp": 555802.5625,
+            "last_seen": 1765910082,
+            "level": 60,
             "name": "Semaj",
             "name_history": [
                 "Semaj"
@@ -39381,9 +39397,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 259754.125,
-            "last_seen": 1764901187,
-            "level": 50,
+            "hp": 532804.8125,
+            "last_seen": 1765910082,
+            "level": 60,
             "name": "テレミン",
             "name_history": [
                 "テレミン"
@@ -51717,9 +51733,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 140166.796875,
-            "last_seen": 1765330334,
-            "level": 53,
+            "hp": 234870.21875,
+            "last_seen": 1765910082,
+            "level": 59,
             "name": "すいか",
             "name_history": [
                 "すいか"
@@ -67569,8 +67585,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4223,
+    "accounts_total": 4224,
     "created": 1764092421,
-    "last_updated": 1765910022,
+    "last_updated": 1765910082,
     "server_region": "ws_asia_01"
 }
