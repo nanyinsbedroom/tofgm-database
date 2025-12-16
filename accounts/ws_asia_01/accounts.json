@@ -1011,11 +1011,11 @@
         "38174103118545054": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "1_6_4_33",
+            "equipping_title": "Your Mother's Mentor,0",
             "gender": 1,
-            "hp": 544428.3125,
-            "last_seen": 1765852405,
-            "level": 59,
+            "hp": 548537.875,
+            "last_seen": 1765908821,
+            "level": 60,
             "name": "JellySG",
             "name_history": [
                 "JellySG"
@@ -3573,9 +3573,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 311996.1875,
-            "last_seen": 1765397440,
-            "level": 56,
+            "hp": 393993.9375,
+            "last_seen": 1765908821,
+            "level": 60,
             "name": "Rinoa",
             "name_history": [
                 "Rinoa"
@@ -3893,9 +3893,9 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 459015.0,
-            "last_seen": 1765574416,
-            "level": 58,
+            "hp": 495496.1875,
+            "last_seen": 1765908821,
+            "level": 60,
             "name": "こり",
             "name_history": [
                 "こり"
@@ -5957,9 +5957,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 402782.4375,
-            "last_seen": 1765581317,
-            "level": 58,
+            "hp": 446328.625,
+            "last_seen": 1765908821,
+            "level": 60,
             "name": " ウィル ",
             "name_history": [
                 " ウィル "
@@ -20821,9 +20821,9 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 459630.59375,
-            "last_seen": 1765680634,
-            "level": 58,
+            "hp": 517530.0,
+            "last_seen": 1765908821,
+            "level": 60,
             "name": "たいまつ",
             "name_history": [
                 "たいまつ"
@@ -51600,6 +51600,22 @@
             "role_id": 38174103118577451,
             "server_region": "ws_asia_01"
         },
+        "38174103118577492": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 60617.0,
+            "last_seen": 1765908821,
+            "level": 22,
+            "name": "Gawza",
+            "name_history": [
+                "Gawza"
+            ],
+            "registered": "Nov 27, 2025, 5:44:13 PM",
+            "role_id": 38174103118577492,
+            "server_region": "ws_asia_01"
+        },
         "38174103118577510": {
             "crew_id": 0,
             "crew_name": "",
@@ -67393,8 +67409,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4212,
+    "accounts_total": 4213,
     "created": 1764092421,
-    "last_updated": 1765908761,
+    "last_updated": 1765908821,
     "server_region": "ws_asia_01"
 }
