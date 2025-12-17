@@ -32133,9 +32133,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 208165.8125,
-            "last_seen": 1765581317,
-            "level": 55,
+            "hp": 218764.203125,
+            "last_seen": 1766011595,
+            "level": 59,
             "name": "ダイヤ☆☆",
             "name_history": [
                 "ダイヤ☆☆"
@@ -49043,11 +49043,11 @@
         "38174103118574120": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;89",
             "gender": 1,
-            "hp": 453563.96875,
-            "last_seen": 1765825673,
-            "level": 59,
+            "hp": 489067.0625,
+            "last_seen": 1766011595,
+            "level": 60,
             "name": "バックレーン",
             "name_history": [
                 "バックレーン"
@@ -52990,6 +52990,22 @@
             ],
             "registered": "Nov 27, 2025, 9:21:03 PM",
             "role_id": 38174103118578168,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118578169": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_015_Sand_world;3",
+            "gender": 1,
+            "hp": 437031.375,
+            "last_seen": 1766011595,
+            "level": 60,
+            "name": "ワンタ",
+            "name_history": [
+                "ワンタ"
+            ],
+            "registered": "Nov 27, 2025, 9:21:42 PM",
+            "role_id": 38174103118578169,
             "server_region": "ws_asia_01"
         },
         "38174103118578175": {
@@ -68673,8 +68689,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4292,
+    "accounts_total": 4293,
     "created": 1764092421,
-    "last_updated": 1766011475,
+    "last_updated": 1766011595,
     "server_region": "ws_asia_01"
 }
