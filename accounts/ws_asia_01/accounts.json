@@ -9702,7 +9702,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 584288.8125,
-            "last_seen": 1766013730,
+            "last_seen": 1766014578,
             "level": 60,
             "name": "めるこ",
             "name_history": [
@@ -18326,7 +18326,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 504665.0,
-            "last_seen": 1766013730,
+            "last_seen": 1766014578,
             "level": 60,
             "name": "OTL",
             "name_history": [
@@ -24979,11 +24979,11 @@
         "38174103118557510": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;89",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 289193.59375,
-            "last_seen": 1765230433,
-            "level": 52,
+            "hp": 372607.0,
+            "last_seen": 1766014578,
+            "level": 60,
             "name": "KyrieXD",
             "name_history": [
                 "KyrieXD"
@@ -36278,7 +36278,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 488314.8125,
-            "last_seen": 1766013730,
+            "last_seen": 1766014578,
             "level": 60,
             "name": "アルハ",
             "name_history": [
@@ -47622,7 +47622,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 550753.0,
-            "last_seen": 1766013730,
+            "last_seen": 1766014578,
             "level": 60,
             "name": "ギンノ",
             "name_history": [
@@ -48725,9 +48725,9 @@
             "crew_name": "NoahArk",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 217110.0,
-            "last_seen": 1765397440,
-            "level": 54,
+            "hp": 289875.0,
+            "last_seen": 1766014578,
+            "level": 59,
             "name": "Quino",
             "name_history": [
                 "Quino"
@@ -56032,6 +56032,22 @@
             "role_id": 38174103118580923,
             "server_region": "ws_asia_01"
         },
+        "38174103118580925": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 53286.0,
+            "last_seen": 1766014578,
+            "level": 17,
+            "name": "ハルサクイッチ",
+            "name_history": [
+                "ハルサクイッチ"
+            ],
+            "registered": "Nov 28, 2025, 7:06:50 PM",
+            "role_id": 38174103118580925,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580933": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -56758,7 +56774,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 128737.0,
-            "last_seen": 1766013790,
+            "last_seen": 1766014578,
             "level": 58,
             "name": "ウルティナ",
             "name_history": [
@@ -57301,9 +57317,9 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 111307.1953125,
-            "last_seen": 1765742059,
-            "level": 43,
+            "hp": 219986.0,
+            "last_seen": 1766014578,
+            "level": 55,
             "name": "kouBDFF",
             "name_history": [
                 "kouBDFF"
@@ -68662,7 +68678,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 28370.0,
-            "last_seen": 1766013790,
+            "last_seen": 1766014578,
             "level": 11,
             "name": "Nanachi",
             "name_history": [
@@ -69137,8 +69153,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4321,
+    "accounts_total": 4322,
     "created": 1764092421,
-    "last_updated": 1766014518,
+    "last_updated": 1766014578,
     "server_region": "ws_asia_01"
 }
