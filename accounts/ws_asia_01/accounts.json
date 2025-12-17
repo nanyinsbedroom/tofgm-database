@@ -1683,11 +1683,11 @@
         "38174103118545154": {
             "crew_id": 377966010149,
             "crew_name": "ユートピア",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 345173.1875,
-            "last_seen": 1764864786,
-            "level": 50,
+            "hp": 457339.90625,
+            "last_seen": 1766012556,
+            "level": 60,
             "name": "ゴーシュ",
             "name_history": [
                 "ゴーシュ"
@@ -7571,11 +7571,11 @@
         "38174103118546357": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "WorldBossDamage_1;boss_hum_052_world;1",
+            "equipping_title": "WorldBossDamage_1;boss_hum_052_world;3",
             "gender": 1,
-            "hp": 473350.5625,
-            "last_seen": 1765680634,
-            "level": 58,
+            "hp": 528832.625,
+            "last_seen": 1766012556,
+            "level": 60,
             "name": "Las",
             "name_history": [
                 "Las"
@@ -10805,9 +10805,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 415647.59375,
-            "last_seen": 1765852405,
-            "level": 59,
+            "hp": 399192.84375,
+            "last_seen": 1766012556,
+            "level": 60,
             "name": "Feyrouz",
             "name_history": [
                 "Feyrouz"
@@ -20627,11 +20627,11 @@
         "38174103118555950": {
             "crew_id": 1284204109605,
             "crew_name": "りんゆかチャンネル",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;32",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;57",
             "gender": 0,
-            "hp": 388025.0,
-            "last_seen": 1765757490,
-            "level": 59,
+            "hp": 359602.53125,
+            "last_seen": 1766012556,
+            "level": 60,
             "name": "drinco",
             "name_history": [
                 "drinco"
@@ -20997,8 +20997,8 @@
             "crew_name": "OdysseyID",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 313828.59375,
-            "last_seen": 1765915789,
+            "hp": 456876.625,
+            "last_seen": 1766012556,
             "level": 60,
             "name": "Trap",
             "name_history": [
@@ -39454,6 +39454,22 @@
             ],
             "registered": "Nov 26, 2025, 2:25:07 AM",
             "role_id": 38174103118564304,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564308": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 405854.375,
+            "last_seen": 1766012556,
+            "level": 58,
+            "name": "Please_help_",
+            "name_history": [
+                "Please_help_"
+            ],
+            "registered": "Nov 26, 2025, 2:25:32 AM",
+            "role_id": 38174103118564308,
             "server_region": "ws_asia_01"
         },
         "38174103118564314": {
@@ -68801,8 +68817,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4300,
+    "accounts_total": 4301,
     "created": 1764092421,
-    "last_updated": 1766012135,
+    "last_updated": 1766012556,
     "server_region": "ws_asia_01"
 }
