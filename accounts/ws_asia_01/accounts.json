@@ -16117,9 +16117,9 @@
             "crew_name": "Restart",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 429612.34375,
-            "last_seen": 1765592521,
-            "level": 58,
+            "hp": 548741.125,
+            "last_seen": 1766014878,
+            "level": 60,
             "name": "ゼフィ",
             "name_history": [
                 "ゼフィ"
@@ -21646,6 +21646,22 @@
             ],
             "registered": "Nov 25, 2025, 7:09:41 PM",
             "role_id": 38174103118556223,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556235": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 46811.0,
+            "last_seen": 1766014878,
+            "level": 11,
+            "name": "建御雷",
+            "name_history": [
+                "建御雷"
+            ],
+            "registered": "Nov 25, 2025, 7:10:07 PM",
+            "role_id": 38174103118556235,
             "server_region": "ws_asia_01"
         },
         "38174103118556238": {
@@ -30270,6 +30286,22 @@
             ],
             "registered": "Nov 25, 2025, 9:25:52 PM",
             "role_id": 38174103118559486,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559489": {
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 240207.40625,
+            "last_seen": 1766014878,
+            "level": 59,
+            "name": "Sethos",
+            "name_history": [
+                "Sethos"
+            ],
+            "registered": "Nov 25, 2025, 9:25:56 PM",
+            "role_id": 38174103118559489,
             "server_region": "ws_asia_01"
         },
         "38174103118559507": {
@@ -54128,6 +54160,22 @@
             "role_id": 38174103118578889,
             "server_region": "ws_asia_01"
         },
+        "38174103118578898": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60159.0,
+            "last_seen": 1766014878,
+            "level": 15,
+            "name": "INFIDE廴",
+            "name_history": [
+                "INFIDE廴"
+            ],
+            "registered": "Nov 28, 2025, 12:37:05 AM",
+            "role_id": 38174103118578898,
+            "server_region": "ws_asia_01"
+        },
         "38174103118578904": {
             "crew_id": 859002347301,
             "crew_name": "ポンコツな",
@@ -69185,8 +69233,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4324,
+    "accounts_total": 4327,
     "created": 1764092421,
-    "last_updated": 1766014818,
+    "last_updated": 1766014878,
     "server_region": "ws_asia_01"
 }
