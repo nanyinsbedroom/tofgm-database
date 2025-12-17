@@ -17827,11 +17827,11 @@
         "38174103118554820": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;87",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 353579.40625,
-            "last_seen": 1764814247,
-            "level": 49,
+            "hp": 463285.40625,
+            "last_seen": 1766010394,
+            "level": 60,
             "name": "Izkerman",
             "name_history": [
                 "Izkerman"
@@ -24837,9 +24837,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 299484.0625,
-            "last_seen": 1765848943,
-            "level": 59,
+            "hp": 535656.75,
+            "last_seen": 1766010394,
+            "level": 60,
             "name": "zzzzz",
             "name_history": [
                 "zzzzz"
@@ -43280,6 +43280,22 @@
             "role_id": 38174103118567265,
             "server_region": "ws_asia_01"
         },
+        "38174103118567272": {
+            "crew_id": 2126017699621,
+            "crew_name": "Btgtu",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 310274.375,
+            "last_seen": 1766010394,
+            "level": 58,
+            "name": "PeSD",
+            "name_history": [
+                "PeSD"
+            ],
+            "registered": "Nov 26, 2025, 11:18:19 AM",
+            "role_id": 38174103118567272,
+            "server_region": "ws_asia_01"
+        },
         "38174103118567282": {
             "crew_id": 55843462949,
             "crew_name": "Fractsidus",
@@ -45349,9 +45365,9 @@
             "crew_name": "こなもん",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 415315.8125,
-            "last_seen": 1765670859,
-            "level": 58,
+            "hp": 471909.59375,
+            "last_seen": 1766010394,
+            "level": 60,
             "name": "黒音紅ケイ",
             "name_history": [
                 "黒音紅ケイ"
@@ -55603,11 +55619,11 @@
         "38174103118580920": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "式歌ベリア＠Vtuber's Apprentice,0",
             "gender": 1,
-            "hp": 238727.8125,
-            "last_seen": 1765245618,
-            "level": 54,
+            "hp": 607162.5625,
+            "last_seen": 1766010394,
+            "level": 60,
             "name": "Milieu",
             "name_history": [
                 "Milieu"
@@ -66800,6 +66816,22 @@
             "role_id": 38174103118593735,
             "server_region": "ws_asia_01"
         },
+        "38174103118593744": {
+            "crew_id": 2126017699621,
+            "crew_name": "Btgtu",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 273692.1875,
+            "last_seen": 1766010394,
+            "level": 59,
+            "name": "Tensai",
+            "name_history": [
+                "Tensai"
+            ],
+            "registered": "Dec 6, 2025, 8:13:20 PM",
+            "role_id": 38174103118593744,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593765": {
             "crew_id": 0,
             "crew_name": "",
@@ -68513,8 +68545,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4282,
+    "accounts_total": 4284,
     "created": 1764092421,
-    "last_updated": 1766010334,
+    "last_updated": 1766010394,
     "server_region": "ws_asia_01"
 }
