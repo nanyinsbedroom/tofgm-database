@@ -11635,11 +11635,11 @@
         "38174103118549132": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "None",
+            "equipping_title": "1_6_4_26",
             "gender": 1,
-            "hp": 260528.03125,
-            "last_seen": 1764957753,
-            "level": 51,
+            "hp": 501954.8125,
+            "last_seen": 1766014938,
+            "level": 60,
             "name": "小鳥遊楓",
             "name_history": [
                 "小鳥遊楓"
@@ -34126,6 +34126,22 @@
             ],
             "registered": "Nov 25, 2025, 10:53:16 PM",
             "role_id": 38174103118561271,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561291": {
+            "crew_id": 712973459237,
+            "crew_name": "BATTALION 57",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 398342.4375,
+            "last_seen": 1766014938,
+            "level": 60,
+            "name": "MamaCoco",
+            "name_history": [
+                "MamaCoco"
+            ],
+            "registered": "Nov 25, 2025, 10:53:59 PM",
+            "role_id": 38174103118561291,
             "server_region": "ws_asia_01"
         },
         "38174103118561302": {
@@ -69233,8 +69249,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4327,
+    "accounts_total": 4328,
     "created": 1764092421,
-    "last_updated": 1766014878,
+    "last_updated": 1766014938,
     "server_region": "ws_asia_01"
 }
