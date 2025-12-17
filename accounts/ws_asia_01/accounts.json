@@ -357,9 +357,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 483491.78125,
-            "last_seen": 1765759007,
-            "level": 59,
+            "hp": 538487.0,
+            "last_seen": 1766003720,
+            "level": 60,
             "name": "『夜』Aleria",
             "name_history": [
                 "『夜』Aleria"
@@ -1029,8 +1029,8 @@
             "crew_name": "EROGE",
             "equipping_title": "Your Mother's Mentor,0",
             "gender": 1,
-            "hp": 548537.875,
-            "last_seen": 1765908821,
+            "hp": 556940.625,
+            "last_seen": 1766003720,
             "level": 60,
             "name": "JellySG",
             "name_history": [
@@ -23349,9 +23349,9 @@
             "crew_name": "EROGE",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 539076.3125,
-            "last_seen": 1765825733,
-            "level": 59,
+            "hp": 562528.8125,
+            "last_seen": 1766003720,
+            "level": 60,
             "name": "XhERES",
             "name_history": [
                 "XhERES"
@@ -26659,11 +26659,11 @@
         "38174103118558129": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;1",
             "gender": 1,
-            "hp": 519282.6875,
-            "last_seen": 1765743950,
-            "level": 59,
+            "hp": 574859.3125,
+            "last_seen": 1766003720,
+            "level": 60,
             "name": "woof woof",
             "name_history": [
                 "woof woof"
@@ -27637,8 +27637,8 @@
             "crew_name": "EROGE",
             "equipping_title": "WorldBossDamage_2;Boss_hum_085_world;6",
             "gender": 1,
-            "hp": 514744.78125,
-            "last_seen": 1765913447,
+            "hp": 552998.4375,
+            "last_seen": 1766003720,
             "level": 60,
             "name": "KenmaRyu",
             "name_history": [
@@ -35184,6 +35184,22 @@
             "role_id": 38174103118562033,
             "server_region": "ws_asia_01"
         },
+        "38174103118562056": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 133706.0,
+            "last_seen": 1766003720,
+            "level": 58,
+            "name": "shizuku",
+            "name_history": [
+                "shizuku"
+            ],
+            "registered": "Nov 25, 2025, 11:34:39 PM",
+            "role_id": 38174103118562056,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562069": {
             "crew_id": 0,
             "crew_name": "",
@@ -37697,13 +37713,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118563407": {
-            "crew_id": 115973005093,
-            "crew_name": "Serenity",
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 255254.0,
-            "last_seen": 1765067120,
-            "level": 52,
+            "hp": 407711.21875,
+            "last_seen": 1766003720,
+            "level": 60,
             "name": "BlueBeary",
             "name_history": [
                 "BlueBeary"
@@ -68337,8 +68353,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4271,
+    "accounts_total": 4272,
     "created": 1764092421,
-    "last_updated": 1766003600,
+    "last_updated": 1766003720,
     "server_region": "ws_asia_01"
 }
