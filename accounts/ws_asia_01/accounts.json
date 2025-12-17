@@ -17619,11 +17619,11 @@
         "38174103118554766": {
             "crew_id": 352196206373,
             "crew_name": "ミッドナイト",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_065_world;86",
             "gender": 1,
-            "hp": 364762.8125,
-            "last_seen": 1765310503,
-            "level": 55,
+            "hp": 413089.21875,
+            "last_seen": 1766010994,
+            "level": 60,
             "name": "唯月峻",
             "name_history": [
                 "唯月峻"
@@ -36270,6 +36270,22 @@
             ],
             "registered": "Nov 26, 2025, 12:09:28 AM",
             "role_id": 38174103118562667,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118562668": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 209856.203125,
+            "last_seen": 1766010994,
+            "level": 59,
+            "name": "るiのれCんi",
+            "name_history": [
+                "るiのれCんi"
+            ],
+            "registered": "Nov 26, 2025, 12:09:30 AM",
+            "role_id": 38174103118562668,
             "server_region": "ws_asia_01"
         },
         "38174103118562678": {
@@ -68593,8 +68609,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4287,
+    "accounts_total": 4288,
     "created": 1764092421,
-    "last_updated": 1766010934,
+    "last_updated": 1766010994,
     "server_region": "ws_asia_01"
 }
