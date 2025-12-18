@@ -18677,9 +18677,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 386884.1875,
-            "last_seen": 1765398701,
-            "level": 56,
+            "hp": 487192.9375,
+            "last_seen": 1766121707,
+            "level": 61,
             "name": "ミャコ",
             "name_history": [
                 "ミャコ"
@@ -69232,6 +69232,22 @@
             "role_id": 38174103118598328,
             "server_region": "ws_asia_01"
         },
+        "38174103118598331": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 159207.0,
+            "last_seen": 1766121707,
+            "level": 55,
+            "name": "Aica",
+            "name_history": [
+                "Aica"
+            ],
+            "registered": "Dec 13, 2025, 12:08:33 AM",
+            "role_id": 38174103118598331,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598573": {
             "crew_id": 1589146787621,
             "crew_name": "full power",
@@ -69583,10 +69599,26 @@
             "registered": "Dec 17, 2025, 8:38:26 PM",
             "role_id": 38174103118601336,
             "server_region": "ws_asia_01"
+        },
+        "38174103118601792": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1766121707,
+            "level": 4,
+            "name": "knoko ",
+            "name_history": [
+                "knoko "
+            ],
+            "registered": "Dec 18, 2025, 7:05:26 PM",
+            "role_id": 38174103118601792,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4349,
+    "accounts_total": 4351,
     "created": 1764092421,
-    "last_updated": 1766121587,
+    "last_updated": 1766121707,
     "server_region": "ws_asia_01"
 }
