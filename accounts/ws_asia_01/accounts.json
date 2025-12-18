@@ -1091,11 +1091,11 @@
         "38174103118545059": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "バスちゃん's Mentor,0",
             "gender": 1,
-            "hp": 313941.0,
-            "last_seen": 1764964873,
-            "level": 51,
+            "hp": 553342.625,
+            "last_seen": 1766122708,
+            "level": 61,
             "name": "Yuuko",
             "name_history": [
                 "Yuuko"
@@ -15606,7 +15606,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 568895.1875,
-            "last_seen": 1766095796,
+            "last_seen": 1766122708,
             "level": 61,
             "name": "EinzEquinox",
             "name_history": [
@@ -18574,6 +18574,22 @@
             ],
             "registered": "Nov 25, 2025, 6:28:14 PM",
             "role_id": 38174103118555058,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118555064": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "monchan's Mentor,0",
+            "gender": 1,
+            "hp": 432017.21875,
+            "last_seen": 1766122708,
+            "level": 61,
+            "name": "よっちゃん",
+            "name_history": [
+                "よっちゃん"
+            ],
+            "registered": "Nov 25, 2025, 6:28:25 PM",
+            "role_id": 38174103118555064,
             "server_region": "ws_asia_01"
         },
         "38174103118555076": {
@@ -30672,6 +30688,22 @@
             "role_id": 38174103118559599,
             "server_region": "ws_asia_01"
         },
+        "38174103118559600": {
+            "crew_id": 1112405417765,
+            "crew_name": "月明かりに照らされて",
+            "equipping_title": "2_10_0_5",
+            "gender": 1,
+            "hp": 397060.8125,
+            "last_seen": 1766122708,
+            "level": 60,
+            "name": "ダイヤモンド",
+            "name_history": [
+                "ダイヤモンド"
+            ],
+            "registered": "Nov 25, 2025, 9:30:34 PM",
+            "role_id": 38174103118559600,
+            "server_region": "ws_asia_01"
+        },
         "38174103118559610": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -42309,9 +42341,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 373593.0,
-            "last_seen": 1765072955,
-            "level": 52,
+            "hp": 520856.96875,
+            "last_seen": 1766122708,
+            "level": 60,
             "name": " のば ",
             "name_history": [
                 " のば "
@@ -64032,6 +64064,22 @@
             "role_id": 38174103118588910,
             "server_region": "ws_asia_01"
         },
+        "38174103118588927": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 464456.59375,
+            "last_seen": 1766122708,
+            "level": 61,
+            "name": "kisaragi4913",
+            "name_history": [
+                "kisaragi4913"
+            ],
+            "registered": "Dec 2, 2025, 12:57:09 AM",
+            "role_id": 38174103118588927,
+            "server_region": "ws_asia_01"
+        },
         "38174103118588930": {
             "crew_id": 0,
             "crew_name": "",
@@ -69809,8 +69857,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4363,
+    "accounts_total": 4366,
     "created": 1764092421,
-    "last_updated": 1766122648,
+    "last_updated": 1766122708,
     "server_region": "ws_asia_01"
 }
