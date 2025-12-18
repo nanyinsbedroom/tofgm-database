@@ -25427,11 +25427,11 @@
         "38174103118557651": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;43",
+            "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 576439.1875,
-            "last_seen": 1765918551,
-            "level": 60,
+            "hp": 582765.0,
+            "last_seen": 1766095676,
+            "level": 61,
             "name": "Sherry",
             "name_history": [
                 "Sherry"
@@ -27061,9 +27061,9 @@
             "crew_name": "千本桜",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 380230.40625,
-            "last_seen": 1765917350,
-            "level": 59,
+            "hp": 403777.625,
+            "last_seen": 1766095676,
+            "level": 61,
             "name": "玲桜",
             "name_history": [
                 "玲桜"
@@ -31331,11 +31331,11 @@
         "38174103118559865": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 370314.0,
-            "last_seen": 1765308634,
-            "level": 55,
+            "hp": 525937.5625,
+            "last_seen": 1766095676,
+            "level": 61,
             "name": "Tsg",
             "name_history": [
                 "Tsg"
@@ -38661,9 +38661,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 262747.8125,
-            "last_seen": 1765742059,
-            "level": 59,
+            "hp": 312078.0,
+            "last_seen": 1766095676,
+            "level": 61,
             "name": "Z-クルリ",
             "name_history": [
                 "Z-クルリ"
@@ -68000,6 +68000,22 @@
             "role_id": 38174103118594945,
             "server_region": "ws_asia_01"
         },
+        "38174103118595003": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 381136.625,
+            "last_seen": 1766095676,
+            "level": 59,
+            "name": "อาม่า",
+            "name_history": [
+                "อาม่า"
+            ],
+            "registered": "Dec 8, 2025, 12:57:01 AM",
+            "role_id": 38174103118595003,
+            "server_region": "ws_asia_01"
+        },
         "38174103118595050": {
             "crew_id": 0,
             "crew_name": "",
@@ -69409,8 +69425,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4338,
+    "accounts_total": 4339,
     "created": 1764092421,
-    "last_updated": 1766095616,
+    "last_updated": 1766095676,
     "server_region": "ws_asia_01"
 }
