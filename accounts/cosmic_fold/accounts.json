@@ -26647,11 +26647,11 @@
         "63582695875146": {
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
-            "equipping_title": "2_10_1_11",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 855007.375,
-            "last_seen": 1763483142,
-            "level": 71,
+            "hp": 929142.25,
+            "last_seen": 1766110922,
+            "level": 72,
             "name": "若有人喵山之阿",
             "name_history": [
                 "若有人喵山之阿"
@@ -44870,10 +44870,26 @@
             "registered": "2025年12月7日 上午5:17:14",
             "role_id": 63582695973681,
             "server_region": "cosmic_fold"
+        },
+        "63582695980649": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74829.0,
+            "last_seen": 1766110922,
+            "level": 27,
+            "name": "嘟嘟大絔王",
+            "name_history": [
+                "嘟嘟大絔王"
+            ],
+            "registered": "2025年12月18日 下午6:37:08",
+            "role_id": 63582695980649,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3735,
+    "accounts_total": 3736,
     "created": 1758803451,
-    "last_updated": 1766110862,
+    "last_updated": 1766110922,
     "server_region": "cosmic_fold"
 }
