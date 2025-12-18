@@ -18678,7 +18678,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 487192.9375,
-            "last_seen": 1766121707,
+            "last_seen": 1766121927,
             "level": 61,
             "name": "ミャコ",
             "name_history": [
@@ -22736,6 +22736,22 @@
             "role_id": 38174103118556662,
             "server_region": "ws_asia_01"
         },
+        "38174103118556681": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 218242.0,
+            "last_seen": 1766121927,
+            "level": 59,
+            "name": "Kiana1",
+            "name_history": [
+                "Kiana1"
+            ],
+            "registered": "Nov 25, 2025, 7:27:32 PM",
+            "role_id": 38174103118556681,
+            "server_region": "ws_asia_01"
+        },
         "38174103118556682": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
@@ -22755,11 +22771,11 @@
         "38174103118556686": {
             "crew_id": 81613266725,
             "crew_name": "Sleeping Cats",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 147513.0,
-            "last_seen": 1764472235,
-            "level": 42,
+            "hp": 266323.625,
+            "last_seen": 1766121927,
+            "level": 60,
             "name": "threeburrito453",
             "name_history": [
                 "threeburrito453"
@@ -69617,8 +69633,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4351,
+    "accounts_total": 4352,
     "created": 1764092421,
-    "last_updated": 1766121707,
+    "last_updated": 1766121927,
     "server_region": "ws_asia_01"
 }
