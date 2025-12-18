@@ -6327,6 +6327,22 @@
             "role_id": 63582695853602,
             "server_region": "cosmic_fold"
         },
+        "63582695853613": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1010955.75,
+            "last_seen": 1766110862,
+            "level": 76,
+            "name": "丶焦糖",
+            "name_history": [
+                "丶焦糖"
+            ],
+            "registered": "2025年9月25日 下午6:46:34",
+            "role_id": 63582695853613,
+            "server_region": "cosmic_fold"
+        },
         "63582695853615": {
             "crew_id": 38654720468,
             "crew_name": "萌团",
@@ -10310,14 +10326,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695856972": {
-            "crew_id": 34359753172,
-            "crew_name": "魔法少女",
-            "equipping_title": "1_1_18_1",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_45",
             "gender": 1,
-            "hp": 488124.25,
-            "last_seen": 1760453811,
-            "level": 59,
+            "hp": 1094529.25,
+            "last_seen": 1766110862,
+            "level": 76,
             "name": "桜花殘月",
+            "name_history": [
+                "桜花殘月"
+            ],
             "registered": "2025年9月25日 下午7:37:56",
             "role_id": 63582695856972,
             "server_region": "cosmic_fold"
@@ -44835,10 +44854,26 @@
             "registered": "2025年12月5日 下午9:04:57",
             "role_id": 63582695972411,
             "server_region": "cosmic_fold"
+        },
+        "63582695973681": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "4_2025",
+            "gender": 0,
+            "hp": 90449.203125,
+            "last_seen": 1766110862,
+            "level": 33,
+            "name": "归宿",
+            "name_history": [
+                "归宿"
+            ],
+            "registered": "2025年12月7日 上午5:17:14",
+            "role_id": 63582695973681,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3733,
+    "accounts_total": 3735,
     "created": 1758803451,
-    "last_updated": 1766110802,
+    "last_updated": 1766110862,
     "server_region": "cosmic_fold"
 }
