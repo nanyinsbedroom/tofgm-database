@@ -6053,9 +6053,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 515797.34375,
-            "last_seen": 1766004325,
-            "level": 60,
+            "hp": 519489.75,
+            "last_seen": 1766096697,
+            "level": 61,
             "name": "Saunts",
             "name_history": [
                 "Saunts"
@@ -27310,6 +27310,22 @@
             ],
             "registered": "Nov 25, 2025, 8:34:26 PM",
             "role_id": 38174103118558260,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558262": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 186512.0,
+            "last_seen": 1766096697,
+            "level": 58,
+            "name": "age",
+            "name_history": [
+                "age"
+            ],
+            "registered": "Nov 25, 2025, 8:34:31 PM",
+            "role_id": 38174103118558262,
             "server_region": "ws_asia_01"
         },
         "38174103118558264": {
@@ -53590,7 +53606,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 26163.0,
-            "last_seen": 1764715800,
+            "last_seen": 1766096697,
             "level": 10,
             "name": "가문비",
             "name_history": [
@@ -68912,6 +68928,22 @@
             "role_id": 38174103118597549,
             "server_region": "ws_asia_01"
         },
+        "38174103118597627": {
+            "crew_id": 433800584997,
+            "crew_name": "Waifu",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71924.0,
+            "last_seen": 1766096697,
+            "level": 55,
+            "name": "Klee 1",
+            "name_history": [
+                "Klee 1"
+            ],
+            "registered": "Dec 11, 2025, 8:21:45 PM",
+            "role_id": 38174103118597627,
+            "server_region": "ws_asia_01"
+        },
         "38174103118597665": {
             "crew_id": 0,
             "crew_name": "",
@@ -69457,8 +69489,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4341,
+    "accounts_total": 4343,
     "created": 1764092421,
-    "last_updated": 1766096337,
+    "last_updated": 1766096697,
     "server_region": "ws_asia_01"
 }
