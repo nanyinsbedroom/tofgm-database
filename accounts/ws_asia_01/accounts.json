@@ -4595,11 +4595,11 @@
         "38174103118545662": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;51",
             "gender": 1,
-            "hp": 408903.0,
-            "last_seen": 1765741714,
-            "level": 58,
+            "hp": 560165.625,
+            "last_seen": 1766095736,
+            "level": 61,
             "name": "Corvus",
             "name_history": [
                 "Corvus"
@@ -33089,13 +33089,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118560677": {
-            "crew_id": 974966464293,
-            "crew_name": "Family",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 445576.0,
-            "last_seen": 1765670859,
-            "level": 58,
+            "hp": 272593.21875,
+            "last_seen": 1766095736,
+            "level": 60,
             "name": "はけこ",
             "name_history": [
                 "はけこ"
@@ -69427,6 +69427,6 @@
     },
     "accounts_total": 4339,
     "created": 1764092421,
-    "last_updated": 1766095676,
+    "last_updated": 1766095736,
     "server_region": "ws_asia_01"
 }
