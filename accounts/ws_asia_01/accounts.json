@@ -13635,11 +13635,11 @@
         "38174103118551529": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "None",
+            "equipping_title": "Cocoritter's Mentor,0",
             "gender": 1,
-            "hp": 126301.40625,
-            "last_seen": 1764432451,
-            "level": 40,
+            "hp": 239876.15625,
+            "last_seen": 1766096877,
+            "level": 61,
             "name": "Yuna",
             "name_history": [
                 "Yuna"
@@ -18325,8 +18325,8 @@
             "crew_name": "OTL",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 504665.0,
-            "last_seen": 1766014578,
+            "hp": 538656.4375,
+            "last_seen": 1766096877,
             "level": 60,
             "name": "OTL",
             "name_history": [
@@ -26805,9 +26805,9 @@
             "crew_name": "ブラックムーン海賊団",
             "equipping_title": "ホメオスタシス斎藤's Mentor,0",
             "gender": 1,
-            "hp": 585845.25,
-            "last_seen": 1766014518,
-            "level": 60,
+            "hp": 594927.1875,
+            "last_seen": 1766096877,
+            "level": 61,
             "name": "がーねっと",
             "name_history": [
                 "がーねっと"
@@ -28161,13 +28161,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558622": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 73023332133,
+            "crew_name": "Teyvat",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 41015.0,
-            "last_seen": 1764111492,
-            "level": 14,
+            "hp": 384674.90625,
+            "last_seen": 1766096877,
+            "level": 61,
             "name": "iZA1N",
             "name_history": [
                 "iZA1N"
@@ -56096,6 +56096,22 @@
             "role_id": 38174103118580750,
             "server_region": "ws_asia_01"
         },
+        "38174103118580769": {
+            "crew_id": 1657866264357,
+            "crew_name": "真夜中のお茶会",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 428134.40625,
+            "last_seen": 1766096877,
+            "level": 60,
+            "name": "ヒメルリ",
+            "name_history": [
+                "ヒメルリ"
+            ],
+            "registered": "Nov 28, 2025, 5:52:58 PM",
+            "role_id": 38174103118580769,
+            "server_region": "ws_asia_01"
+        },
         "38174103118580773": {
             "crew_id": 0,
             "crew_name": "",
@@ -69489,8 +69505,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4343,
+    "accounts_total": 4344,
     "created": 1764092421,
-    "last_updated": 1766096757,
+    "last_updated": 1766096877,
     "server_region": "ws_asia_01"
 }
