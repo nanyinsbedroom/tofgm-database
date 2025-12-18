@@ -23125,9 +23125,9 @@
             "crew_name": "たまめいと",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 402121.21875,
-            "last_seen": 1765589548,
-            "level": 58,
+            "hp": 489793.0,
+            "last_seen": 1766122588,
+            "level": 61,
             "name": "桜井サチコ",
             "name_history": [
                 "桜井サチコ"
@@ -43118,6 +43118,22 @@
             ],
             "registered": "Nov 26, 2025, 9:02:59 AM",
             "role_id": 38174103118566450,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118566488": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 81624.203125,
+            "last_seen": 1766122588,
+            "level": 29,
+            "name": "わたあめ",
+            "name_history": [
+                "わたあめ"
+            ],
+            "registered": "Nov 26, 2025, 9:08:55 AM",
+            "role_id": 38174103118566488,
             "server_region": "ws_asia_01"
         },
         "38174103118566515": {
@@ -69793,8 +69809,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4362,
+    "accounts_total": 4363,
     "created": 1764092421,
-    "last_updated": 1766122288,
+    "last_updated": 1766122588,
     "server_region": "ws_asia_01"
 }
