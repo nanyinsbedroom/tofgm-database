@@ -4227,11 +4227,11 @@
         "38174103118545592": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;26",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_036_world;12",
             "gender": 0,
-            "hp": 365010.0,
-            "last_seen": 1764868651,
-            "level": 50,
+            "hp": 551564.125,
+            "last_seen": 1766094775,
+            "level": 61,
             "name": "ミリラ  ナオ",
             "name_history": [
                 "ミリラ  ナオ"
@@ -62256,6 +62256,22 @@
             "role_id": 38174103118586997,
             "server_region": "ws_asia_01"
         },
+        "38174103118587012": {
+            "crew_id": 1447412866853,
+            "crew_name": "No Rules",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 148434.0,
+            "last_seen": 1766094775,
+            "level": 58,
+            "name": "アールグレイ13",
+            "name_history": [
+                "アールグレイ13"
+            ],
+            "registered": "Nov 30, 2025, 10:19:42 PM",
+            "role_id": 38174103118587012,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587028": {
             "crew_id": 0,
             "crew_name": "",
@@ -69249,8 +69265,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4328,
+    "accounts_total": 4329,
     "created": 1764092421,
-    "last_updated": 1766036122,
+    "last_updated": 1766094775,
     "server_region": "ws_asia_01"
 }
