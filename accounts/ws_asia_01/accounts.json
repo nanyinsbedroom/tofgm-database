@@ -35109,9 +35109,9 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 247750.203125,
-            "last_seen": 1765403103,
-            "level": 55,
+            "hp": 387587.46875,
+            "last_seen": 1766181904,
+            "level": 61,
             "name": "はな",
             "name_history": [
                 "はな"
@@ -39262,6 +39262,22 @@
             ],
             "registered": "Nov 26, 2025, 1:52:19 AM",
             "role_id": 38174103118563975,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118563976": {
+            "crew_id": 12893789989,
+            "crew_name": "StarDust",
+            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;96",
+            "gender": 1,
+            "hp": 379330.40625,
+            "last_seen": 1766181904,
+            "level": 59,
+            "name": "Nayuki",
+            "name_history": [
+                "Nayuki"
+            ],
+            "registered": "Nov 26, 2025, 1:52:33 AM",
+            "role_id": 38174103118563976,
             "server_region": "ws_asia_01"
         },
         "38174103118563978": {
@@ -53281,13 +53297,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118577828": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 68728364837,
+            "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 25103.0,
-            "last_seen": 1764285280,
-            "level": 14,
+            "hp": 319968.0,
+            "last_seen": 1766181904,
+            "level": 60,
             "name": "Yoshii",
             "name_history": [
                 "Yoshii"
@@ -70145,8 +70161,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4384,
+    "accounts_total": 4385,
     "created": 1764092421,
-    "last_updated": 1766181724,
+    "last_updated": 1766181904,
     "server_region": "ws_asia_01"
 }
