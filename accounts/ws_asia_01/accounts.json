@@ -9697,13 +9697,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546947": {
-            "crew_id": 1060865810213,
-            "crew_name": "TowerOfFantasy",
-            "equipping_title": "1_7_1_1",
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;36",
             "gender": 0,
-            "hp": 187561.0,
-            "last_seen": 1764864426,
-            "level": 49,
+            "hp": 655895.25,
+            "last_seen": 1766178874,
+            "level": 60,
             "name": "Ryu Hayabusa",
             "name_history": [
                 "Ryu Hayabusa"
@@ -69744,6 +69744,22 @@
             "role_id": 38174103118599255,
             "server_region": "ws_asia_01"
         },
+        "38174103118599303": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 338855.40625,
+            "last_seen": 1766178874,
+            "level": 61,
+            "name": "ﾘﾅ",
+            "name_history": [
+                "ﾘﾅ"
+            ],
+            "registered": "Dec 14, 2025, 2:20:18 PM",
+            "role_id": 38174103118599303,
+            "server_region": "ws_asia_01"
+        },
         "38174103118599451": {
             "crew_id": 0,
             "crew_name": "",
@@ -70097,8 +70113,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4381,
+    "accounts_total": 4382,
     "created": 1764092421,
-    "last_updated": 1766178454,
+    "last_updated": 1766178874,
     "server_region": "ws_asia_01"
 }
