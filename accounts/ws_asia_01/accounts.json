@@ -11157,8 +11157,8 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 490943.21875,
-            "last_seen": 1766174732,
+            "hp": 314576.5,
+            "last_seen": 1766175211,
             "level": 61,
             "name": "レエル",
             "name_history": [
@@ -16453,8 +16453,8 @@
             "crew_name": "Hykros",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 484271.0,
-            "last_seen": 1766174132,
+            "hp": 398732.0625,
+            "last_seen": 1766175211,
             "level": 61,
             "name": "Icarus",
             "name_history": [
@@ -16558,6 +16558,22 @@
             ],
             "registered": "Nov 25, 2025, 6:07:52 PM",
             "role_id": 38174103118554350,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118554352": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 295169.8125,
+            "last_seen": 1766175211,
+            "level": 60,
+            "name": "pani",
+            "name_history": [
+                "pani"
+            ],
+            "registered": "Nov 25, 2025, 6:07:55 PM",
+            "role_id": 38174103118554352,
             "server_region": "ws_asia_01"
         },
         "38174103118554361": {
@@ -24934,7 +24950,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 206825.1875,
-            "last_seen": 1766174672,
+            "last_seen": 1766175211,
             "level": 50,
             "name": "Nodocchi",
             "name_history": [
@@ -25702,7 +25718,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 416179.8125,
-            "last_seen": 1766174672,
+            "last_seen": 1766175211,
             "level": 61,
             "name": "Nerissa",
             "name_history": [
@@ -40053,9 +40069,9 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 443155.59375,
-            "last_seen": 1766012135,
-            "level": 60,
+            "hp": 466328.71875,
+            "last_seen": 1766175211,
+            "level": 61,
             "name": "冬猫",
             "name_history": [
                 "冬猫"
@@ -42006,7 +42022,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 274922.0,
-            "last_seen": 1766174672,
+            "last_seen": 1766175211,
             "level": 59,
             "name": "Dinar",
             "name_history": [
@@ -47059,11 +47075,11 @@
         "38174103118570535": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;76",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 279923.625,
-            "last_seen": 1765739763,
-            "level": 58,
+            "hp": 301248.8125,
+            "last_seen": 1766175211,
+            "level": 59,
             "name": "ChernoX",
             "name_history": [
                 "ChernoX"
@@ -69985,8 +70001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4374,
+    "accounts_total": 4375,
     "created": 1764092421,
-    "last_updated": 1766174973,
+    "last_updated": 1766175211,
     "server_region": "ws_asia_01"
 }
