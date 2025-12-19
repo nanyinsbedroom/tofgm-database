@@ -3328,6 +3328,22 @@
             "role_id": 38174103118545411,
             "server_region": "ws_asia_01"
         },
+        "38174103118545414": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 522455.0,
+            "last_seen": 1766175812,
+            "level": 61,
+            "name": "usagi",
+            "name_history": [
+                "usagi"
+            ],
+            "registered": "Nov 25, 2025, 5:03:08 PM",
+            "role_id": 38174103118545414,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545419": {
             "crew_id": 841822478117,
             "crew_name": "『居酒屋ギャオゴリ』",
@@ -39301,9 +39317,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 152816.0,
-            "last_seen": 1764731285,
-            "level": 45,
+            "hp": 295748.8125,
+            "last_seen": 1766175812,
+            "level": 59,
             "name": "cincay",
             "name_history": [
                 "cincay"
@@ -45486,6 +45502,22 @@
             ],
             "registered": "Nov 26, 2025, 3:33:38 PM",
             "role_id": 38174103118569017,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118569033": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 285600.40625,
+            "last_seen": 1766175812,
+            "level": 60,
+            "name": "CryptooDevil",
+            "name_history": [
+                "CryptooDevil"
+            ],
+            "registered": "Nov 26, 2025, 3:35:38 PM",
+            "role_id": 38174103118569033,
             "server_region": "ws_asia_01"
         },
         "38174103118569035": {
@@ -70065,8 +70097,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4379,
+    "accounts_total": 4381,
     "created": 1764092421,
-    "last_updated": 1766175751,
+    "last_updated": 1766175812,
     "server_region": "ws_asia_01"
 }
