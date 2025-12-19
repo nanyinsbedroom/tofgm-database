@@ -102,7 +102,7 @@
             "equipping_title": "1_1_1_1",
             "gender": 1,
             "hp": 462654.34375,
-            "last_seen": 1766117013,
+            "last_seen": 1766118249,
             "level": 60,
             "name": "Arta",
             "name_history": [
@@ -742,7 +742,7 @@
             "equipping_title": "1_1_22_1",
             "gender": 0,
             "hp": 593574.75,
-            "last_seen": 1766117013,
+            "last_seen": 1766118249,
             "level": 61,
             "name": "OtaKasa",
             "name_history": [
@@ -9744,6 +9744,22 @@
             "role_id": 38174107413531309,
             "server_region": "ws_america_01"
         },
+        "38174107413531967": {
+            "crew_id": 8598822694,
+            "crew_name": "Mythic",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 476440.5625,
+            "last_seen": 1766118249,
+            "level": 60,
+            "name": "Silento",
+            "name_history": [
+                "Silento"
+            ],
+            "registered": "Nov 26, 2025, 1:49:41 AM",
+            "role_id": 38174107413531967,
+            "server_region": "ws_america_01"
+        },
         "38174107413535501": {
             "crew_id": 184692481830,
             "crew_name": "Stray",
@@ -10289,8 +10305,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 643,
+    "accounts_total": 644,
     "created": 1764067509,
-    "last_updated": 1766118054,
+    "last_updated": 1766118249,
     "server_region": "ws_america_01"
 }
