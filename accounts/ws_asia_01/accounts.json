@@ -21558,7 +21558,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 532032.0,
-            "last_seen": 1766095376,
+            "last_seen": 1766174672,
             "level": 61,
             "name": "ハマグリさん",
             "name_history": [
@@ -21763,14 +21763,14 @@
         "38174103118556260": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 333797.8125,
-            "last_seen": 1765760314,
-            "level": 59,
-            "name": "2ndaidkit",
+            "hp": 557343.0625,
+            "last_seen": 1766174672,
+            "level": 61,
+            "name": "REN.",
             "name_history": [
-                "2ndaidkit"
+                "REN."
             ],
             "registered": "Nov 25, 2025, 7:11:06 PM",
             "role_id": 38174103118556260,
@@ -24933,8 +24933,8 @@
             "crew_name": "Couch Kittens",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 176912.0,
-            "last_seen": 1765740123,
+            "hp": 206825.1875,
+            "last_seen": 1766174672,
             "level": 50,
             "name": "Nodocchi",
             "name_history": [
@@ -25701,9 +25701,9 @@
             "crew_name": "Couch Kittens",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 328020.15625,
-            "last_seen": 1765740123,
-            "level": 59,
+            "hp": 416179.8125,
+            "last_seen": 1766174672,
+            "level": 61,
             "name": "Nerissa",
             "name_history": [
                 "Nerissa"
@@ -35024,6 +35024,22 @@
             "role_id": 38174103118561672,
             "server_region": "ws_asia_01"
         },
+        "38174103118561690": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "WorldBossDamage_1;boss_hum_044_world;3",
+            "gender": 1,
+            "hp": 476229.78125,
+            "last_seen": 1766174672,
+            "level": 61,
+            "name": "Achlys",
+            "name_history": [
+                "Achlys"
+            ],
+            "registered": "Nov 25, 2025, 11:15:28 PM",
+            "role_id": 38174103118561690,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561692": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -36742,7 +36758,7 @@
             "equipping_title": "1_6_2_2",
             "gender": 1,
             "hp": 553560.3125,
-            "last_seen": 1766095376,
+            "last_seen": 1766174672,
             "level": 61,
             "name": "Nee",
             "name_history": [
@@ -41982,6 +41998,22 @@
             ],
             "registered": "Nov 26, 2025, 5:45:32 AM",
             "role_id": 38174103118565523,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118565526": {
+            "crew_id": 1967103909669,
+            "crew_name": "Dunia Lain",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 274922.0,
+            "last_seen": 1766174672,
+            "level": 59,
+            "name": "Dinar",
+            "name_history": [
+                "Dinar"
+            ],
+            "registered": "Nov 26, 2025, 5:45:57 AM",
+            "role_id": 38174103118565526,
             "server_region": "ws_asia_01"
         },
         "38174103118565527": {
@@ -52851,11 +52883,11 @@
         "38174103118577382": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 240850.40625,
-            "last_seen": 1765124663,
-            "level": 53,
+            "hp": 305978.4375,
+            "last_seen": 1766174672,
+            "level": 61,
             "name": "マロネーゼ",
             "name_history": [
                 "マロネーゼ"
@@ -55349,8 +55381,8 @@
             "crew_name": "EIN",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 475910.40625,
-            "last_seen": 1766096937,
+            "hp": 480403.21875,
+            "last_seen": 1766174672,
             "level": 60,
             "name": "Felicia ",
             "name_history": [
@@ -69921,8 +69953,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4370,
+    "accounts_total": 4372,
     "created": 1764092421,
-    "last_updated": 1766174612,
+    "last_updated": 1766174672,
     "server_region": "ws_asia_01"
 }
