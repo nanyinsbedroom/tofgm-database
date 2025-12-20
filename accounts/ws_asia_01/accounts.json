@@ -14181,9 +14181,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 545898.75,
-            "last_seen": 1766095856,
-            "level": 61,
+            "hp": 578033.5625,
+            "last_seen": 1766294843,
+            "level": 62,
             "name": "12welve",
             "name_history": [
                 "12welve"
@@ -39091,11 +39091,11 @@
         "38174103118563484": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 349263.0,
-            "last_seen": 1765220540,
-            "level": 53,
+            "hp": 479516.3125,
+            "last_seen": 1766294843,
+            "level": 61,
             "name": "Sonia Auersperg",
             "name_history": [
                 "Sonia Auersperg"
@@ -67792,6 +67792,22 @@
             "role_id": 38174103118591309,
             "server_region": "ws_asia_01"
         },
+        "38174103118591322": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 534056.5625,
+            "last_seen": 1766294843,
+            "level": 62,
+            "name": "覚醒生駒",
+            "name_history": [
+                "覚醒生駒"
+            ],
+            "registered": "Dec 4, 2025, 1:55:57 AM",
+            "role_id": 38174103118591322,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591334": {
             "crew_id": 0,
             "crew_name": "",
@@ -72225,8 +72241,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4514,
+    "accounts_total": 4515,
     "created": 1764092421,
-    "last_updated": 1766294783,
+    "last_updated": 1766294843,
     "server_region": "ws_asia_01"
 }
