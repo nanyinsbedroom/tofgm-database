@@ -149,9 +149,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "WorldBossDamage_1;Boss_hum_036_world;1",
             "gender": 1,
-            "hp": 587071.0625,
-            "last_seen": 1766176412,
-            "level": 61,
+            "hp": 596950.125,
+            "last_seen": 1766261079,
+            "level": 62,
             "name": "ぼこぼこ",
             "name_history": [
                 "ぼこぼこ"
@@ -6405,9 +6405,9 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 543952.9375,
-            "last_seen": 1766176352,
-            "level": 61,
+            "hp": 557750.0,
+            "last_seen": 1766261079,
+            "level": 62,
             "name": "クラリス",
             "name_history": [
                 "クラリス"
@@ -9973,9 +9973,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 565824.0625,
-            "last_seen": 1766176892,
-            "level": 61,
+            "hp": 582319.375,
+            "last_seen": 1766261079,
+            "level": 62,
             "name": "Generic",
             "name_history": [
                 "Generic"
@@ -26192,6 +26192,22 @@
             "role_id": 38174103118557774,
             "server_region": "ws_asia_01"
         },
+        "38174103118557778": {
+            "crew_id": 180397514533,
+            "crew_name": "StarsUs",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_015_Sand_world;1",
+            "gender": 1,
+            "hp": 543509.8125,
+            "last_seen": 1766261079,
+            "level": 62,
+            "name": "Dee",
+            "name_history": [
+                "Dee"
+            ],
+            "registered": "Nov 25, 2025, 8:14:39 PM",
+            "role_id": 38174103118557778,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557780": {
             "crew_id": 0,
             "crew_name": "",
@@ -37219,11 +37235,11 @@
         "38174103118562808": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_020_world;3",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_020_world;2",
             "gender": 0,
-            "hp": 379322.0,
-            "last_seen": 1765124603,
-            "level": 53,
+            "hp": 563580.375,
+            "last_seen": 1766261079,
+            "level": 62,
             "name": "HEATHCLIFF",
             "name_history": [
                 "HEATHCLIFF"
@@ -70864,6 +70880,22 @@
             "role_id": 38174103118601336,
             "server_region": "ws_asia_01"
         },
+        "38174103118601533": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 27452.0,
+            "last_seen": 1766261079,
+            "level": 10,
+            "name": "Pratcuh",
+            "name_history": [
+                "Pratcuh"
+            ],
+            "registered": "Dec 18, 2025, 2:52:52 AM",
+            "role_id": 38174103118601533,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601792": {
             "crew_id": 0,
             "crew_name": "",
@@ -70894,6 +70926,22 @@
             ],
             "registered": "Dec 18, 2025, 9:11:44 PM",
             "role_id": 38174103118601834,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118601897": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Muraa's Apprentice,0",
+            "gender": 1,
+            "hp": 100013.3984375,
+            "last_seen": 1766261079,
+            "level": 38,
+            "name": "愛桜",
+            "name_history": [
+                "愛桜"
+            ],
+            "registered": "Dec 18, 2025, 11:29:48 PM",
+            "role_id": 38174103118601897,
             "server_region": "ws_asia_01"
         },
         "38174103118601962": {
@@ -70993,8 +71041,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4437,
+    "accounts_total": 4440,
     "created": 1764092421,
-    "last_updated": 1766261019,
+    "last_updated": 1766261079,
     "server_region": "ws_asia_01"
 }
