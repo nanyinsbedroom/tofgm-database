@@ -1953,13 +1953,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708480863": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 41996.8203125,
-            "last_seen": 1764094095,
-            "level": 15,
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "2_8_0_8",
+            "gender": 0,
+            "hp": 584578.875,
+            "last_seen": 1766255768,
+            "level": 62,
             "name": "Ferura",
             "name_history": [
                 "Ferura"
@@ -7744,6 +7744,22 @@
             "role_id": 38174111708505374,
             "server_region": "ws_europe_01"
         },
+        "38174111708505441": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 49829.0,
+            "last_seen": 1766255768,
+            "level": 13,
+            "name": "Фанат",
+            "name_history": [
+                "Фанат"
+            ],
+            "registered": "Dec 6, 2025, 1:11:18 AM",
+            "role_id": 38174111708505441,
+            "server_region": "ws_europe_01"
+        },
         "38174111708505723": {
             "crew_id": 0,
             "crew_name": "",
@@ -8145,8 +8161,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 509,
+    "accounts_total": 510,
     "created": 1764046902,
-    "last_updated": 1766255708,
+    "last_updated": 1766255768,
     "server_region": "ws_europe_01"
 }
