@@ -14677,9 +14677,9 @@
             "crew_name": "『居酒屋ギャオゴリ』",
             "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;36",
             "gender": 0,
-            "hp": 466464.40625,
-            "last_seen": 1766011174,
-            "level": 60,
+            "hp": 505479.59375,
+            "last_seen": 1766273767,
+            "level": 62,
             "name": "暴風ペンタマ",
             "name_history": [
                 "暴風ペンタマ"
@@ -30094,6 +30094,22 @@
             ],
             "registered": "Nov 25, 2025, 9:13:38 PM",
             "role_id": 38174103118559226,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559234": {
+            "crew_id": 1159650058021,
+            "crew_name": "CASTLE",
+            "equipping_title": "1_1_14_1",
+            "gender": 1,
+            "hp": 551507.625,
+            "last_seen": 1766273767,
+            "level": 62,
+            "name": "Zetto",
+            "name_history": [
+                "Zetto"
+            ],
+            "registered": "Nov 25, 2025, 9:14:03 PM",
+            "role_id": 38174103118559234,
             "server_region": "ws_asia_01"
         },
         "38174103118559238": {
@@ -50305,13 +50321,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118574221": {
-            "crew_id": 176102547237,
-            "crew_name": "สมาคมฮันเตอร์",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 383777.0,
-            "last_seen": 1764984916,
-            "level": 51,
+            "hp": 596924.375,
+            "last_seen": 1766273767,
+            "level": 62,
             "name": "トリビー",
             "name_history": [
                 "トリビー"
@@ -71489,8 +71505,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4468,
+    "accounts_total": 4469,
     "created": 1764092421,
-    "last_updated": 1766272866,
+    "last_updated": 1766273767,
     "server_region": "ws_asia_01"
 }
