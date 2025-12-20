@@ -3829,8 +3829,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 508833.53125,
-            "last_seen": 1766290339,
+            "hp": 503822.90625,
+            "last_seen": 1766301153,
             "level": 61,
             "name": "Drashel",
             "name_history": [
@@ -7525,8 +7525,8 @@
             "crew_name": "Eissentam",
             "equipping_title": "WorldBossDamage_2;Boss_hum_020_world;5",
             "gender": 0,
-            "hp": 551874.8125,
-            "last_seen": 1766290219,
+            "hp": 552143.625,
+            "last_seen": 1766301153,
             "level": 62,
             "name": "R A I Z E N",
             "name_history": [
@@ -25045,9 +25045,9 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 435549.40625,
-            "last_seen": 1765779665,
-            "level": 59,
+            "hp": 441040.59375,
+            "last_seen": 1766301153,
+            "level": 61,
             "name": "ひつぎ",
             "name_history": [
                 "ひつぎ"
@@ -29998,6 +29998,22 @@
             ],
             "registered": "Nov 25, 2025, 9:07:02 PM",
             "role_id": 38174103118559055,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118559060": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 296606.0,
+            "last_seen": 1766301153,
+            "level": 59,
+            "name": "いり助",
+            "name_history": [
+                "いり助"
+            ],
+            "registered": "Nov 25, 2025, 9:07:17 PM",
+            "role_id": 38174103118559060,
             "server_region": "ws_asia_01"
         },
         "38174103118559074": {
@@ -72431,10 +72447,26 @@
             "registered": "Dec 21, 2025, 4:13:03 AM",
             "role_id": 38174103118603042,
             "server_region": "ws_asia_01"
+        },
+        "38174103118603054": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 45732.0,
+            "last_seen": 1766301153,
+            "level": 10,
+            "name": "Shadow King",
+            "name_history": [
+                "Shadow King"
+            ],
+            "registered": "Dec 21, 2025, 4:46:35 AM",
+            "role_id": 38174103118603054,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4527,
+    "accounts_total": 4529,
     "created": 1764092421,
-    "last_updated": 1766299712,
+    "last_updated": 1766301153,
     "server_region": "ws_asia_01"
 }
