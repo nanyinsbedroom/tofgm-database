@@ -1683,11 +1683,11 @@
         "38174111708480586": {
             "crew_id": 47253528359,
             "crew_name": "Oasis",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;55",
             "gender": 1,
-            "hp": 72819.0,
-            "last_seen": 1764092107,
-            "level": 22,
+            "hp": 520175.03125,
+            "last_seen": 1766255648,
+            "level": 61,
             "name": "Imperfect",
             "name_history": [
                 "Imperfect"
@@ -4480,6 +4480,22 @@
             "role_id": 38174111708483540,
             "server_region": "ws_europe_01"
         },
+        "38174111708483577": {
+            "crew_id": 68728364839,
+            "crew_name": "HEX",
+            "equipping_title": "1_1_18_1",
+            "gender": 0,
+            "hp": 542940.0,
+            "last_seen": 1766255648,
+            "level": 62,
+            "name": ".depressive",
+            "name_history": [
+                ".depressive"
+            ],
+            "registered": "Nov 25, 2025, 2:26:03 PM",
+            "role_id": 38174111708483577,
+            "server_region": "ws_europe_01"
+        },
         "38174111708483581": {
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
@@ -5296,6 +5312,22 @@
             "role_id": 38174111708484634,
             "server_region": "ws_europe_01"
         },
+        "38174111708484661": {
+            "crew_id": 30073659175,
+            "crew_name": "Tea Syndicate",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 418633.8125,
+            "last_seen": 1766255648,
+            "level": 60,
+            "name": "Kotone",
+            "name_history": [
+                "Kotone"
+            ],
+            "registered": "Nov 25, 2025, 4:21:39 PM",
+            "role_id": 38174111708484661,
+            "server_region": "ws_europe_01"
+        },
         "38174111708484681": {
             "crew_id": 0,
             "crew_name": "",
@@ -5454,6 +5486,22 @@
             ],
             "registered": "Nov 25, 2025, 5:14:12 PM",
             "role_id": 38174111708485151,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708485209": {
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;33",
+            "gender": 1,
+            "hp": 557218.75,
+            "last_seen": 1766255648,
+            "level": 61,
+            "name": "GODDESS BUNNY",
+            "name_history": [
+                "GODDESS BUNNY"
+            ],
+            "registered": "Nov 25, 2025, 5:20:23 PM",
+            "role_id": 38174111708485209,
             "server_region": "ws_europe_01"
         },
         "38174111708485322": {
@@ -5902,6 +5950,22 @@
             ],
             "registered": "Nov 25, 2025, 8:16:48 PM",
             "role_id": 38174111708486961,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708487006": {
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 416149.78125,
+            "last_seen": 1766255648,
+            "level": 61,
+            "name": "SouLost",
+            "name_history": [
+                "SouLost"
+            ],
+            "registered": "Nov 25, 2025, 8:22:22 PM",
+            "role_id": 38174111708487006,
             "server_region": "ws_europe_01"
         },
         "38174111708487144": {
@@ -8049,8 +8113,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 503,
+    "accounts_total": 507,
     "created": 1764046902,
-    "last_updated": 1766255588,
+    "last_updated": 1766255648,
     "server_region": "ws_europe_01"
 }
