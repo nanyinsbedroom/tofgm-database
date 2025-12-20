@@ -10736,6 +10736,22 @@
             "role_id": 38174107413558163,
             "server_region": "ws_america_01"
         },
+        "38174107413558622": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 109227.0,
+            "last_seen": 1766236330,
+            "level": 37,
+            "name": "Ikary",
+            "name_history": [
+                "Ikary"
+            ],
+            "registered": "Dec 7, 2025, 12:14:20 PM",
+            "role_id": 38174107413558622,
+            "server_region": "ws_america_01"
+        },
         "38174107413559277": {
             "crew_id": 674318753574,
             "crew_name": "Maid Café",
@@ -10913,8 +10929,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 682,
+    "accounts_total": 683,
     "created": 1764067509,
-    "last_updated": 1766236209,
+    "last_updated": 1766236330,
     "server_region": "ws_america_01"
 }
