@@ -2805,9 +2805,9 @@
             "crew_name": "Scarface",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 323901.625,
-            "last_seen": 1765068321,
-            "level": 52,
+            "hp": 409826.40625,
+            "last_seen": 1766290700,
+            "level": 60,
             "name": "TinyTina",
             "name_history": [
                 "TinyTina"
@@ -23566,6 +23566,22 @@
             ],
             "registered": "Nov 25, 2025, 7:34:56 PM",
             "role_id": 38174103118556872,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556878": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 343313.59375,
+            "last_seen": 1766290700,
+            "level": 60,
+            "name": "DD",
+            "name_history": [
+                "DD"
+            ],
+            "registered": "Nov 25, 2025, 7:35:05 PM",
+            "role_id": 38174103118556878,
             "server_region": "ws_asia_01"
         },
         "38174103118556897": {
@@ -47955,11 +47971,11 @@
         "38174103118570762": {
             "crew_id": 227642154789,
             "crew_name": "くまたん！",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 357362.0,
-            "last_seen": 1765654518,
-            "level": 58,
+            "hp": 440691.03125,
+            "last_seen": 1766290700,
+            "level": 62,
             "name": "コロニャン",
             "name_history": [
                 "コロニャン"
@@ -51685,9 +51701,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 117782.0,
-            "last_seen": 1766289654,
-            "level": 45,
+            "hp": 118646.0,
+            "last_seen": 1766290700,
+            "level": 46,
             "name": "zetaⅡ",
             "name_history": [
                 "zetaⅡ"
@@ -63040,6 +63056,22 @@
             "role_id": 38174103118586253,
             "server_region": "ws_asia_01"
         },
+        "38174103118586270": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 265570.59375,
+            "last_seen": 1766290700,
+            "level": 60,
+            "name": "Ninefall",
+            "name_history": [
+                "Ninefall"
+            ],
+            "registered": "Nov 30, 2025, 3:48:20 PM",
+            "role_id": 38174103118586270,
+            "server_region": "ws_asia_01"
+        },
         "38174103118586273": {
             "crew_id": 1288499076901,
             "crew_name": "SCARLETBLAZE",
@@ -71857,8 +71889,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4491,
+    "accounts_total": 4493,
     "created": 1764092421,
-    "last_updated": 1766290639,
+    "last_updated": 1766290700,
     "server_region": "ws_asia_01"
 }
