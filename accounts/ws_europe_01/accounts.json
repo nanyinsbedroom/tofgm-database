@@ -3136,6 +3136,22 @@
             "role_id": 38174111708482003,
             "server_region": "ws_europe_01"
         },
+        "38174111708482015": {
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 506958.25,
+            "last_seen": 1766254927,
+            "level": 62,
+            "name": "Лунная лиса",
+            "name_history": [
+                "Лунная лиса"
+            ],
+            "registered": "Nov 25, 2025, 11:46:30 AM",
+            "role_id": 38174111708482015,
+            "server_region": "ws_europe_01"
+        },
         "38174111708482022": {
             "crew_id": 0,
             "crew_name": "",
@@ -3614,6 +3630,22 @@
             ],
             "registered": "Nov 25, 2025, 12:54:27 PM",
             "role_id": 38174111708482669,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708482674": {
+            "crew_id": 68728364839,
+            "crew_name": "HEX",
+            "equipping_title": "1_1_5_1",
+            "gender": 0,
+            "hp": 557131.625,
+            "last_seen": 1766254927,
+            "level": 62,
+            "name": "Blasreit",
+            "name_history": [
+                "Blasreit"
+            ],
+            "registered": "Nov 25, 2025, 12:54:38 PM",
+            "role_id": 38174111708482674,
             "server_region": "ws_europe_01"
         },
         "38174111708482687": {
@@ -7185,8 +7217,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 449,
+    "accounts_total": 451,
     "created": 1764046902,
-    "last_updated": 1766254867,
+    "last_updated": 1766254927,
     "server_region": "ws_europe_01"
 }
