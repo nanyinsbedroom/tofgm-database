@@ -1139,11 +1139,11 @@
         "38174111708480186": {
             "crew_id": 73023332135,
             "crew_name": "Адепты Бура",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 258027.0,
-            "last_seen": 1764444962,
-            "level": 42,
+            "hp": 579798.625,
+            "last_seen": 1766255168,
+            "level": 62,
             "name": "Jeda",
             "name_history": [
                 "Jeda"
@@ -4078,6 +4078,22 @@
             ],
             "registered": "Nov 25, 2025, 1:39:34 PM",
             "role_id": 38174111708483122,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708483147": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1766255168,
+            "level": 4,
+            "name": "Lady",
+            "name_history": [
+                "Lady"
+            ],
+            "registered": "Nov 25, 2025, 1:41:55 PM",
+            "role_id": 38174111708483147,
             "server_region": "ws_europe_01"
         },
         "38174111708483168": {
@@ -7264,6 +7280,22 @@
             "role_id": 38174111708508229,
             "server_region": "ws_europe_01"
         },
+        "38174111708511462": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30883.47265625,
+            "last_seen": 1766255168,
+            "level": 13,
+            "name": "zena",
+            "name_history": [
+                "zena"
+            ],
+            "registered": "Dec 15, 2025, 4:37:01 AM",
+            "role_id": 38174111708511462,
+            "server_region": "ws_europe_01"
+        },
         "38174111708511974": {
             "crew_id": 811757707047,
             "crew_name": "مخيم كازوكي ",
@@ -7296,6 +7328,38 @@
             "role_id": 38174111708512992,
             "server_region": "ws_europe_01"
         },
+        "38174111708513237": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 81556.0,
+            "last_seen": 1766255168,
+            "level": 43,
+            "name": "まり菜",
+            "name_history": [
+                "まり菜"
+            ],
+            "registered": "Dec 18, 2025, 9:40:52 PM",
+            "role_id": 38174111708513237,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708513559": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Highallagan's Apprentice,0",
+            "gender": 0,
+            "hp": 38467.015625,
+            "last_seen": 1766255168,
+            "level": 39,
+            "name": "Intrax",
+            "name_history": [
+                "Intrax"
+            ],
+            "registered": "Dec 19, 2025, 3:49:39 PM",
+            "role_id": 38174111708513559,
+            "server_region": "ws_europe_01"
+        },
         "38174111708513958": {
             "crew_id": 0,
             "crew_name": "",
@@ -7311,10 +7375,42 @@
             "registered": "Dec 20, 2025, 1:56:00 PM",
             "role_id": 38174111708513958,
             "server_region": "ws_europe_01"
+        },
+        "38174111708514115": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8928.0,
+            "last_seen": 1766255168,
+            "level": 2,
+            "name": "GoodFrosty",
+            "name_history": [
+                "GoodFrosty"
+            ],
+            "registered": "Dec 20, 2025, 6:02:55 PM",
+            "role_id": 38174111708514115,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708514123": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1766255168,
+            "level": 1,
+            "name": "Lucyocka13",
+            "name_history": [
+                "Lucyocka13"
+            ],
+            "registered": "Dec 20, 2025, 6:19:24 PM",
+            "role_id": 38174111708514123,
+            "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 457,
+    "accounts_total": 463,
     "created": 1764046902,
-    "last_updated": 1766255107,
+    "last_updated": 1766255168,
     "server_region": "ws_europe_01"
 }
