@@ -9475,11 +9475,11 @@
         "38174103118546813": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "1_1_15_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 368329.21875,
-            "last_seen": 1764869732,
-            "level": 50,
+            "hp": 545136.6875,
+            "last_seen": 1766299652,
+            "level": 61,
             "name": "BossKeitaro",
             "name_history": [
                 "BossKeitaro"
@@ -11477,8 +11477,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 400417.8125,
-            "last_seen": 1766122228,
+            "hp": 413781.59375,
+            "last_seen": 1766299652,
             "level": 60,
             "name": "あいす",
             "name_history": [
@@ -11486,6 +11486,22 @@
             ],
             "registered": "Nov 25, 2025, 5:27:31 PM",
             "role_id": 38174103118548518,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118548522": {
+            "crew_id": 90203201317,
+            "crew_name": "Wyverns",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 505331.84375,
+            "last_seen": 1766299652,
+            "level": 62,
+            "name": "Schwi_",
+            "name_history": [
+                "Schwi_"
+            ],
+            "registered": "Nov 25, 2025, 5:27:33 PM",
+            "role_id": 38174103118548522,
             "server_region": "ws_asia_01"
         },
         "38174103118548544": {
@@ -11539,14 +11555,14 @@
         "38174103118548602": {
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "ฝันร้าย's Mentor,0",
             "gender": 1,
-            "hp": 426537.0,
-            "last_seen": 1765403103,
-            "level": 56,
-            "name": "NyX",
+            "hp": 546728.0,
+            "last_seen": 1766299652,
+            "level": 62,
+            "name": "♥M♥",
             "name_history": [
-                "NyX"
+                "♥M♥"
             ],
             "registered": "Nov 25, 2025, 5:28:03 PM",
             "role_id": 38174103118548602,
@@ -14462,6 +14478,22 @@
             ],
             "registered": "Nov 25, 2025, 5:44:05 PM",
             "role_id": 38174103118552098,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118552107": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 409257.0,
+            "last_seen": 1766299652,
+            "level": 62,
+            "name": "justin",
+            "name_history": [
+                "justin"
+            ],
+            "registered": "Nov 25, 2025, 5:44:12 PM",
+            "role_id": 38174103118552107,
             "server_region": "ws_asia_01"
         },
         "38174103118552147": {
@@ -18917,8 +18949,8 @@
             "crew_name": "宿屋享楽",
             "equipping_title": "WorldBossDamage_4;boss_hum_061_World;70",
             "gender": 1,
-            "hp": 285748.59375,
-            "last_seen": 1766260779,
+            "hp": 447051.375,
+            "last_seen": 1766299652,
             "level": 62,
             "name": "よっちゃん",
             "name_history": [
@@ -63589,9 +63621,9 @@
             "crew_name": "ミスティルテイン",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 429785.0,
-            "last_seen": 1765581257,
-            "level": 58,
+            "hp": 485029.46875,
+            "last_seen": 1766299652,
+            "level": 61,
             "name": "スイ",
             "name_history": [
                 "スイ"
@@ -70166,7 +70198,7 @@
             "equipping_title": "WorldBossDamage_4;Boss_hum_065_world;100",
             "gender": 1,
             "hp": 533611.0,
-            "last_seen": 1766297741,
+            "last_seen": 1766299652,
             "level": 62,
             "name": "Itiel",
             "name_history": [
@@ -72369,8 +72401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4523,
+    "accounts_total": 4525,
     "created": 1764092421,
-    "last_updated": 1766298522,
+    "last_updated": 1766299652,
     "server_region": "ws_asia_01"
 }
