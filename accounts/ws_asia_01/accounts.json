@@ -275,11 +275,11 @@
         "38174103118544938": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 247601.609375,
-            "last_seen": 1764864846,
-            "level": 49,
+            "hp": 356122.90625,
+            "last_seen": 1766290880,
+            "level": 62,
             "name": "Winterie",
             "name_history": [
                 "Winterie"
@@ -10054,7 +10054,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 483196.5625,
-            "last_seen": 1766289834,
+            "last_seen": 1766290880,
             "level": 60,
             "name": "Mortis",
             "name_history": [
@@ -49686,7 +49686,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 538504.0,
-            "last_seen": 1766289594,
+            "last_seen": 1766290880,
             "level": 62,
             "name": "EMind",
             "name_history": [
@@ -71824,6 +71824,22 @@
             "role_id": 38174103118601995,
             "server_region": "ws_asia_01"
         },
+        "38174103118602167": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 46335.0,
+            "last_seen": 1766290880,
+            "level": 13,
+            "name": "Mutsumi",
+            "name_history": [
+                "Mutsumi"
+            ],
+            "registered": "Dec 19, 2025, 2:44:30 PM",
+            "role_id": 38174103118602167,
+            "server_region": "ws_asia_01"
+        },
         "38174103118602321": {
             "crew_id": 0,
             "crew_name": "",
@@ -71905,8 +71921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4494,
+    "accounts_total": 4495,
     "created": 1764092421,
-    "last_updated": 1766290820,
+    "last_updated": 1766290880,
     "server_region": "ws_asia_01"
 }
