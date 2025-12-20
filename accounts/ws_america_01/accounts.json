@@ -3045,9 +3045,9 @@
             "crew_name": "Coven de Batata",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 334871.59375,
-            "last_seen": 1766116893,
-            "level": 61,
+            "hp": 364157.75,
+            "last_seen": 1766237711,
+            "level": 62,
             "name": "Gangane",
             "name_history": [
                 "Gangane"
@@ -11680,6 +11680,22 @@
             "role_id": 38174107413560907,
             "server_region": "ws_america_01"
         },
+        "38174107413561439": {
+            "crew_id": 1610621624102,
+            "crew_name": "ANGEL HEART",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 278207.625,
+            "last_seen": 1766237711,
+            "level": 61,
+            "name": "Tj leo",
+            "name_history": [
+                "Tj leo"
+            ],
+            "registered": "Dec 10, 2025, 5:05:06 PM",
+            "role_id": 38174107413561439,
+            "server_region": "ws_america_01"
+        },
         "38174107413562256": {
             "crew_id": 0,
             "crew_name": "",
@@ -11839,10 +11855,26 @@
             "registered": "Dec 19, 2025, 2:41:51 AM",
             "role_id": 38174107413566794,
             "server_region": "ws_america_01"
+        },
+        "38174107413567535": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8928.0,
+            "last_seen": 1766237711,
+            "level": 2,
+            "name": "Subarukun",
+            "name_history": [
+                "Subarukun"
+            ],
+            "registered": "Dec 20, 2025, 1:18:09 PM",
+            "role_id": 38174107413567535,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 740,
+    "accounts_total": 742,
     "created": 1764067509,
-    "last_updated": 1766237651,
+    "last_updated": 1766237711,
     "server_region": "ws_america_01"
 }
