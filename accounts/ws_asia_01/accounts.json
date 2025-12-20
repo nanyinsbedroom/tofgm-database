@@ -4021,9 +4021,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 490407.0,
-            "last_seen": 1765743950,
-            "level": 59,
+            "hp": 571027.75,
+            "last_seen": 1766270961,
+            "level": 61,
             "name": "Hikari",
             "name_history": [
                 "Hikari"
@@ -9102,6 +9102,22 @@
             ],
             "registered": "Nov 25, 2025, 5:15:38 PM",
             "role_id": 38174103118546722,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546729": {
+            "crew_id": 833232543525,
+            "crew_name": "セレスティア戦闘狂団",
+            "equipping_title": "WorldBossDamage_2;boss_hum_053_world;7",
+            "gender": 1,
+            "hp": 499873.0,
+            "last_seen": 1766270961,
+            "level": 62,
+            "name": "ユニ",
+            "name_history": [
+                "ユニ"
+            ],
+            "registered": "Nov 25, 2025, 5:15:43 PM",
+            "role_id": 38174103118546729,
             "server_region": "ws_asia_01"
         },
         "38174103118546731": {
@@ -24405,9 +24421,9 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 181422.390625,
-            "last_seen": 1764535422,
-            "level": 43,
+            "hp": 455682.8125,
+            "last_seen": 1766270961,
+            "level": 62,
             "name": "黒白",
             "name_history": [
                 "黒白"
@@ -57443,11 +57459,11 @@
         "38174103118581238": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 439085.8125,
-            "last_seen": 1765518424,
-            "level": 58,
+            "hp": 566128.625,
+            "last_seen": 1766270961,
+            "level": 62,
             "name": "Aindaris",
             "name_history": [
                 "Aindaris"
@@ -70768,6 +70784,22 @@
             "role_id": 38174103118599303,
             "server_region": "ws_asia_01"
         },
+        "38174103118599330": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48316.0,
+            "last_seen": 1766270961,
+            "level": 11,
+            "name": "TekananBatin",
+            "name_history": [
+                "TekananBatin"
+            ],
+            "registered": "Dec 14, 2025, 2:55:21 PM",
+            "role_id": 38174103118599330,
+            "server_region": "ws_asia_01"
+        },
         "38174103118599451": {
             "crew_id": 0,
             "crew_name": "",
@@ -71235,6 +71267,6 @@
     },
     "accounts_total": 4454,
     "created": 1764092421,
-    "last_updated": 1766263453,
+    "last_updated": 1766270961,
     "server_region": "ws_asia_01"
 }
