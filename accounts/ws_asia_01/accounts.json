@@ -3349,9 +3349,9 @@
             "crew_name": "『居酒屋ギャオゴリ』",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 374260.40625,
-            "last_seen": 1765493000,
-            "level": 57,
+            "hp": 490679.21875,
+            "last_seen": 1766258860,
+            "level": 62,
             "name": "ろぜっち",
             "name_history": [
                 "ろぜっち"
@@ -26976,6 +26976,22 @@
             "role_id": 38174103118558103,
             "server_region": "ws_asia_01"
         },
+        "38174103118558106": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 259162.203125,
+            "last_seen": 1766258860,
+            "level": 61,
+            "name": "トール８８",
+            "name_history": [
+                "トール８８"
+            ],
+            "registered": "Nov 25, 2025, 8:28:34 PM",
+            "role_id": 38174103118558106,
+            "server_region": "ws_asia_01"
+        },
         "38174103118558110": {
             "crew_id": 0,
             "crew_name": "",
@@ -43459,14 +43475,14 @@
         "38174103118566704": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "WorldBossDamage_3;boss_hum_045_world;25",
+            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;100",
             "gender": 1,
-            "hp": 342201.0,
-            "last_seen": 1764872010,
-            "level": 50,
-            "name": "ExAlterVtuber",
+            "hp": 470431.40625,
+            "last_seen": 1766258860,
+            "level": 61,
+            "name": "Sierra Vtuber",
             "name_history": [
-                "ExAlterVtuber"
+                "Sierra Vtuber"
             ],
             "registered": "Nov 26, 2025, 9:44:49 AM",
             "role_id": 38174103118566704,
@@ -70417,8 +70433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4401,
+    "accounts_total": 4402,
     "created": 1764092421,
-    "last_updated": 1766258800,
+    "last_updated": 1766258860,
     "server_region": "ws_asia_01"
 }
