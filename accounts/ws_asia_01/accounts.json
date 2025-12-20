@@ -17555,11 +17555,11 @@
         "38174103118554557": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
-            "equipping_title": "None",
+            "equipping_title": "euclase's Apprentice,0",
             "gender": 1,
-            "hp": 339609.40625,
-            "last_seen": 1766096337,
-            "level": 59,
+            "hp": 383297.625,
+            "last_seen": 1766274728,
+            "level": 60,
             "name": "采羽",
             "name_history": [
                 "采羽"
@@ -18837,9 +18837,9 @@
             "crew_name": "Scarface",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 312614.59375,
-            "last_seen": 1766096097,
-            "level": 59,
+            "hp": 324384.84375,
+            "last_seen": 1766274728,
+            "level": 60,
             "name": "Igoy",
             "name_history": [
                 "Igoy"
@@ -34734,6 +34734,22 @@
             ],
             "registered": "Nov 25, 2025, 10:53:16 PM",
             "role_id": 38174103118561271,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561274": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354306.1875,
+            "last_seen": 1766274728,
+            "level": 60,
+            "name": "れみすと",
+            "name_history": [
+                "れみすと"
+            ],
+            "registered": "Nov 25, 2025, 10:53:22 PM",
+            "role_id": 38174103118561274,
             "server_region": "ws_asia_01"
         },
         "38174103118561291": {
@@ -71585,8 +71601,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4474,
+    "accounts_total": 4475,
     "created": 1764092421,
-    "last_updated": 1766274668,
+    "last_updated": 1766274728,
     "server_region": "ws_asia_01"
 }
