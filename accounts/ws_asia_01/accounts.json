@@ -9190,7 +9190,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 569809.5625,
-            "last_seen": 1766271545,
+            "last_seen": 1766289534,
             "level": 62,
             "name": "《EclipseペナPeИɑ》",
             "name_history": [
@@ -10069,8 +10069,8 @@
             "crew_name": "EROGE",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 407322.96875,
-            "last_seen": 1766274668,
+            "hp": 582319.375,
+            "last_seen": 1766289534,
             "level": 62,
             "name": "Generic",
             "name_history": [
@@ -10549,9 +10549,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 233252.78125,
-            "last_seen": 1766207896,
-            "level": 60,
+            "hp": 234116.796875,
+            "last_seen": 1766289534,
+            "level": 61,
             "name": "うろつき",
             "name_history": [
                 "うろつき"
@@ -24691,11 +24691,11 @@
         "38174103118557280": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 361359.0,
-            "last_seen": 1764986177,
-            "level": 51,
+            "hp": 571922.5,
+            "last_seen": 1766289534,
+            "level": 62,
             "name": "Castella",
             "name_history": [
                 "Castella"
@@ -39973,8 +39973,8 @@
             "crew_name": "Eissentam",
             "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;89",
             "gender": 1,
-            "hp": 491502.0,
-            "last_seen": 1766271605,
+            "hp": 499297.78125,
+            "last_seen": 1766289534,
             "level": 62,
             "name": "Uchinyan",
             "name_history": [
@@ -43621,9 +43621,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 465004.75,
-            "last_seen": 1765760194,
-            "level": 59,
+            "hp": 485867.4375,
+            "last_seen": 1766289534,
+            "level": 62,
             "name": "Loope",
             "name_history": [
                 "Loope"
@@ -61205,9 +61205,9 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 340535.40625,
-            "last_seen": 1766207896,
-            "level": 58,
+            "hp": 362232.0,
+            "last_seen": 1766289534,
+            "level": 60,
             "name": "​​❀​​",
             "name_history": [
                 "​​❀​​"
@@ -68389,9 +68389,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 237539.0,
-            "last_seen": 1766207896,
-            "level": 60,
+            "hp": 238403.0,
+            "last_seen": 1766289534,
+            "level": 61,
             "name": "りこーて",
             "name_history": [
                 "りこーて"
@@ -69701,9 +69701,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 248059.8125,
-            "last_seen": 1766207896,
-            "level": 60,
+            "hp": 248923.796875,
+            "last_seen": 1766289534,
+            "level": 61,
             "name": "アトゥ",
             "name_history": [
                 "アトゥ"
@@ -69717,9 +69717,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 199782.8125,
-            "last_seen": 1766207896,
-            "level": 60,
+            "hp": 200646.8125,
+            "last_seen": 1766289534,
+            "level": 61,
             "name": "てぃあ",
             "name_history": [
                 "てぃあ"
@@ -71711,10 +71711,26 @@
             "registered": "Dec 19, 2025, 11:10:36 PM",
             "role_id": 38174103118602340,
             "server_region": "ws_asia_01"
+        },
+        "38174103118602964": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 36919.0,
+            "last_seen": 1766289534,
+            "level": 11,
+            "name": "adara",
+            "name_history": [
+                "adara"
+            ],
+            "registered": "Dec 21, 2025, 1:13:54 AM",
+            "role_id": 38174103118602964,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4482,
+    "accounts_total": 4483,
     "created": 1764092421,
-    "last_updated": 1766275869,
+    "last_updated": 1766289534,
     "server_region": "ws_asia_01"
 }
