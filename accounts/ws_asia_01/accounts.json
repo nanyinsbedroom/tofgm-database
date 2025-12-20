@@ -26995,11 +26995,11 @@
         "38174103118558067": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 167550.40625,
-            "last_seen": 1765067180,
-            "level": 50,
+            "hp": 177903.0,
+            "last_seen": 1766261440,
+            "level": 54,
             "name": "慈雨",
             "name_history": [
                 "慈雨"
@@ -32709,8 +32709,8 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 152653.328125,
-            "last_seen": 1766259338,
+            "hp": 220087.796875,
+            "last_seen": 1766261440,
             "level": 60,
             "name": "フィアテス",
             "name_history": [
@@ -38992,6 +38992,22 @@
             "role_id": 38174103118563651,
             "server_region": "ws_asia_01"
         },
+        "38174103118563680": {
+            "crew_id": 300656598821,
+            "crew_name": "INDONESIA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 380114.0,
+            "last_seen": 1766261440,
+            "level": 61,
+            "name": "Rainn",
+            "name_history": [
+                "Rainn"
+            ],
+            "registered": "Nov 26, 2025, 1:22:58 AM",
+            "role_id": 38174103118563680,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563688": {
             "crew_id": 644253982501,
             "crew_name": "Babolz",
@@ -41286,7 +41302,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 553324.125,
-            "last_seen": 1766259398,
+            "last_seen": 1766261440,
             "level": 62,
             "name": "VelonicaZ",
             "name_history": [
@@ -43333,9 +43349,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 212878.21875,
-            "last_seen": 1765397620,
-            "level": 54,
+            "hp": 190121.765625,
+            "last_seen": 1766261440,
+            "level": 60,
             "name": "ザワ",
             "name_history": [
                 "ザワ"
@@ -67974,7 +67990,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 266400.8125,
-            "last_seen": 1766095376,
+            "last_seen": 1766261440,
             "level": 60,
             "name": "Chinjaku",
             "name_history": [
@@ -68454,7 +68470,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 224206.40625,
-            "last_seen": 1766260179,
+            "last_seen": 1766261440,
             "level": 58,
             "name": "あゆみ",
             "name_history": [
@@ -71041,8 +71057,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4440,
+    "accounts_total": 4441,
     "created": 1764092421,
-    "last_updated": 1766261319,
+    "last_updated": 1766261440,
     "server_region": "ws_asia_01"
 }
