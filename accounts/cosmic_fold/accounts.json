@@ -25076,10 +25076,13 @@
             "crew_name": "眉间雪",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 188658.609375,
-            "last_seen": 1760796642,
-            "level": 59,
-            "name": "Anolen1",
+            "hp": 512337.5,
+            "last_seen": 1766266611,
+            "level": 75,
+            "name": "酸橘子",
+            "name_history": [
+                "酸橘子"
+            ],
             "registered": "2025年9月26日 下午8:35:44",
             "role_id": 63582695872250,
             "server_region": "cosmic_fold"
@@ -36651,6 +36654,22 @@
             "role_id": 63582695917455,
             "server_region": "cosmic_fold"
         },
+        "63582695917618": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "4_2025",
+            "gender": 0,
+            "hp": 866600.0,
+            "last_seen": 1766266611,
+            "level": 76,
+            "name": "比奇堡恶魔方块",
+            "name_history": [
+                "比奇堡恶魔方块"
+            ],
+            "registered": "2025年10月7日 下午10:46:15",
+            "role_id": 63582695917618,
+            "server_region": "cosmic_fold"
+        },
         "63582695917667": {
             "crew_id": 974957590996,
             "crew_name": "塔塔",
@@ -45388,8 +45407,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3765,
+    "accounts_total": 3766,
     "created": 1758803451,
-    "last_updated": 1766266551,
+    "last_updated": 1766266611,
     "server_region": "cosmic_fold"
 }
