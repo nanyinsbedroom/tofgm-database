@@ -10368,6 +10368,22 @@
             "role_id": 38174103118547290,
             "server_region": "ws_asia_01"
         },
+        "38174103118547294": {
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 512581.9375,
+            "last_seen": 1766260899,
+            "level": 61,
+            "name": "Summers",
+            "name_history": [
+                "Summers"
+            ],
+            "registered": "Nov 25, 2025, 5:22:11 PM",
+            "role_id": 38174103118547294,
+            "server_region": "ws_asia_01"
+        },
         "38174103118547302": {
             "crew_id": 0,
             "crew_name": "",
@@ -37910,7 +37926,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 522951.78125,
-            "last_seen": 1766260419,
+            "last_seen": 1766260899,
             "level": 62,
             "name": "はむ太郎",
             "name_history": [
@@ -66417,13 +66433,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118590865": {
-            "crew_id": 141742808869,
-            "crew_name": "NoahArk",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 474728.0,
-            "last_seen": 1766014518,
-            "level": 60,
+            "hp": 502787.8125,
+            "last_seen": 1766260899,
+            "level": 61,
             "name": "lights",
             "name_history": [
                 "lights"
@@ -70710,7 +70726,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 38431.0,
-            "last_seen": 1766259398,
+            "last_seen": 1766260899,
             "level": 13,
             "name": "Zurg",
             "name_history": [
@@ -70753,8 +70769,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4422,
+    "accounts_total": 4423,
     "created": 1764092421,
-    "last_updated": 1766260839,
+    "last_updated": 1766260899,
     "server_region": "ws_asia_01"
 }
