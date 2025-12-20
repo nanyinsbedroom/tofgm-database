@@ -30899,11 +30899,11 @@
         "38174103118559639": {
             "crew_id": 635664047909,
             "crew_name": "EIN",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 291944.40625,
-            "last_seen": 1765494141,
-            "level": 56,
+            "hp": 464709.625,
+            "last_seen": 1766259040,
+            "level": 61,
             "name": "Zuzuzaza",
             "name_history": [
                 "Zuzuzaza"
@@ -35493,9 +35493,9 @@
             "crew_name": "EIN",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 358229.625,
-            "last_seen": 1765493240,
-            "level": 56,
+            "hp": 535009.0,
+            "last_seen": 1766259040,
+            "level": 62,
             "name": "Raichee",
             "name_history": [
                 "Raichee"
@@ -40275,11 +40275,11 @@
         "38174103118564534": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 259586.40625,
-            "last_seen": 1765063555,
-            "level": 52,
+            "hp": 446746.8125,
+            "last_seen": 1766259040,
+            "level": 59,
             "name": "ShishioX",
             "name_history": [
                 "ShishioX"
@@ -50693,8 +50693,8 @@
             "crew_name": "Eissentam",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 490818.1875,
-            "last_seen": 1766258499,
+            "hp": 417196.03125,
+            "last_seen": 1766259040,
             "level": 62,
             "name": "Ezper",
             "name_history": [
@@ -69221,9 +69221,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 21201.0,
-            "last_seen": 1765493841,
-            "level": 6,
+            "hp": 155665.953125,
+            "last_seen": 1766259040,
+            "level": 58,
             "name": "MOAW",
             "name_history": [
                 "MOAW"
@@ -69984,6 +69984,22 @@
             "role_id": 38174103118598606,
             "server_region": "ws_asia_01"
         },
+        "38174103118598651": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 81705.0,
+            "last_seen": 1766259040,
+            "level": 26,
+            "name": "Aesah",
+            "name_history": [
+                "Aesah"
+            ],
+            "registered": "Dec 13, 2025, 3:50:35 PM",
+            "role_id": 38174103118598651,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598728": {
             "crew_id": 0,
             "crew_name": "",
@@ -70272,6 +70288,22 @@
             "role_id": 38174103118600255,
             "server_region": "ws_asia_01"
         },
+        "38174103118600475": {
+            "crew_id": 1120995352357,
+            "crew_name": "ヴァッサーシュトローム",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 203784.8125,
+            "last_seen": 1766259040,
+            "level": 52,
+            "name": "bonyamin2",
+            "name_history": [
+                "bonyamin2"
+            ],
+            "registered": "Dec 16, 2025, 9:46:59 AM",
+            "role_id": 38174103118600475,
+            "server_region": "ws_asia_01"
+        },
         "38174103118600659": {
             "crew_id": 0,
             "crew_name": "",
@@ -70497,8 +70529,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4406,
+    "accounts_total": 4408,
     "created": 1764092421,
-    "last_updated": 1766258980,
+    "last_updated": 1766259040,
     "server_region": "ws_asia_01"
 }
