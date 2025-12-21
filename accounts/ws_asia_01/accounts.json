@@ -53446,7 +53446,7 @@
             "equipping_title": "WorldBossDamage_2;Boss_hum_017_world;9",
             "gender": 1,
             "hp": 588277.0,
-            "last_seen": 1766271021,
+            "last_seen": 1766334657,
             "level": 62,
             "name": "Vey",
             "name_history": [
@@ -57589,8 +57589,8 @@
             "crew_name": "INTROVERTS",
             "equipping_title": "WorldBossDamage_3;boss_hum_067_World;11",
             "gender": 0,
-            "hp": 529398.375,
-            "last_seen": 1766262313,
+            "hp": 560817.75,
+            "last_seen": 1766334657,
             "level": 62,
             "name": "Finz",
             "name_history": [
@@ -72448,6 +72448,22 @@
             "role_id": 38174103118601196,
             "server_region": "ws_asia_01"
         },
+        "38174103118601275": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 33482.0,
+            "last_seen": 1766334657,
+            "level": 12,
+            "name": "Fikseno",
+            "name_history": [
+                "Fikseno"
+            ],
+            "registered": "Dec 17, 2025, 6:24:59 PM",
+            "role_id": 38174103118601275,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601309": {
             "crew_id": 0,
             "crew_name": "",
@@ -72881,8 +72897,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4555,
+    "accounts_total": 4556,
     "created": 1764092421,
-    "last_updated": 1766334597,
+    "last_updated": 1766334657,
     "server_region": "ws_asia_01"
 }
