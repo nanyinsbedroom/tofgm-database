@@ -19699,11 +19699,11 @@
         "38174103118555333": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;38",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 339562.1875,
-            "last_seen": 1765140504,
-            "level": 53,
+            "hp": 506385.75,
+            "last_seen": 1766347113,
+            "level": 61,
             "name": "NxhardcorE",
             "name_history": [
                 "NxhardcorE"
@@ -31285,9 +31285,9 @@
             "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 162381.984375,
-            "last_seen": 1764869192,
-            "level": 50,
+            "hp": 563395.125,
+            "last_seen": 1766347113,
+            "level": 62,
             "name": "ハマーン",
             "name_history": [
                 "ハマーン"
@@ -48878,6 +48878,22 @@
             ],
             "registered": "Nov 26, 2025, 8:33:00 PM",
             "role_id": 38174103118570866,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118570878": {
+            "crew_id": 760218099493,
+            "crew_name": "Angkringan Caya",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 516776.625,
+            "last_seen": 1766347113,
+            "level": 62,
+            "name": "Albek",
+            "name_history": [
+                "Albek"
+            ],
+            "registered": "Nov 26, 2025, 8:35:15 PM",
+            "role_id": 38174103118570878,
             "server_region": "ws_asia_01"
         },
         "38174103118570881": {
@@ -68406,7 +68422,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 553948.375,
-            "last_seen": 1766340877,
+            "last_seen": 1766347113,
             "level": 62,
             "name": "ลูกแมวน้อย",
             "name_history": [
@@ -68502,7 +68518,7 @@
             "equipping_title": "1_6_2_2",
             "gender": 1,
             "hp": 555945.25,
-            "last_seen": 1766297741,
+            "last_seen": 1766347113,
             "level": 62,
             "name": "ลูกปลาปักเป้า",
             "name_history": [
@@ -73601,8 +73617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4600,
+    "accounts_total": 4601,
     "created": 1764092421,
-    "last_updated": 1766346873,
+    "last_updated": 1766347113,
     "server_region": "ws_asia_01"
 }
