@@ -7573,8 +7573,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Nyaan's Mentor,0",
             "gender": 1,
-            "hp": 528822.625,
-            "last_seen": 1766290219,
+            "hp": 529827.0,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "Akina",
             "name_history": [
@@ -7590,7 +7590,7 @@
             "equipping_title": "WorldBossDamage_2;Boss_hum_020_world;5",
             "gender": 0,
             "hp": 553142.0,
-            "last_seen": 1766337694,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "R A I Z E N",
             "name_history": [
@@ -7857,13 +7857,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118546357": {
-            "crew_id": 262001893157,
-            "crew_name": "Restart",
-            "equipping_title": "WorldBossDamage_1;boss_hum_052_world;3",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "1_1_17_1",
             "gender": 1,
-            "hp": 528832.625,
-            "last_seen": 1766012556,
-            "level": 60,
+            "hp": 595560.125,
+            "last_seen": 1766361313,
+            "level": 62,
             "name": "Las",
             "name_history": [
                 "Las"
@@ -14691,11 +14691,11 @@
         "38174103118552231": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;57",
+            "equipping_title": "ネクト's Mentor,0",
             "gender": 0,
-            "hp": 337339.21875,
-            "last_seen": 1764714479,
-            "level": 48,
+            "hp": 548370.75,
+            "last_seen": 1766361313,
+            "level": 62,
             "name": "ナアシ",
             "name_history": [
                 "ナアシ"
@@ -18709,8 +18709,8 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 470234.40625,
-            "last_seen": 1766349875,
+            "hp": 486016.8125,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "もちもちまんじゅう",
             "name_history": [
@@ -18933,8 +18933,8 @@
             "crew_name": "OTL",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 544186.0,
-            "last_seen": 1766349875,
+            "hp": 552212.25,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "OTL",
             "name_history": [
@@ -25350,7 +25350,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 441040.59375,
-            "last_seen": 1766349875,
+            "last_seen": 1766361313,
             "level": 61,
             "name": "ひつぎ",
             "name_history": [
@@ -27702,7 +27702,7 @@
             "equipping_title": "ホメオスタシス斎藤's Mentor,0",
             "gender": 1,
             "hp": 602537.1875,
-            "last_seen": 1766290760,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "がーねっと",
             "name_history": [
@@ -45093,9 +45093,9 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 255966.609375,
-            "last_seen": 1765057419,
-            "level": 51,
+            "hp": 402160.84375,
+            "last_seen": 1766361313,
+            "level": 60,
             "name": "れがしぃ",
             "name_history": [
                 "れがしぃ"
@@ -47926,7 +47926,7 @@
             "equipping_title": "MapleMini's Mentor,0",
             "gender": 1,
             "hp": 566670.75,
-            "last_seen": 1766349875,
+            "last_seen": 1766361313,
             "level": 62,
             "name": "Specterer",
             "name_history": [
@@ -72928,6 +72928,38 @@
             "role_id": 38174103118598882,
             "server_region": "ws_asia_01"
         },
+        "38174103118598897": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19296.0,
+            "last_seen": 1766361313,
+            "level": 14,
+            "name": "Adam　",
+            "name_history": [
+                "Adam　"
+            ],
+            "registered": "Dec 14, 2025, 12:06:49 AM",
+            "role_id": 38174103118598897,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118598905": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 47472.0,
+            "last_seen": 1766361313,
+            "level": 15,
+            "name": "Eve　",
+            "name_history": [
+                "Eve　"
+            ],
+            "registered": "Dec 14, 2025, 12:09:41 AM",
+            "role_id": 38174103118598905,
+            "server_region": "ws_asia_01"
+        },
         "38174103118599037": {
             "crew_id": 0,
             "crew_name": "",
@@ -74209,8 +74241,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4638,
+    "accounts_total": 4640,
     "created": 1764092421,
-    "last_updated": 1766361133,
+    "last_updated": 1766361313,
     "server_region": "ws_asia_01"
 }
