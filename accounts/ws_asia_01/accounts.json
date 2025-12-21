@@ -5747,11 +5747,11 @@
         "38174103118545903": {
             "crew_id": 90203201317,
             "crew_name": "Wyverns",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 136958.0,
-            "last_seen": 1764202904,
-            "level": 29,
+            "hp": 548288.0,
+            "last_seen": 1766349155,
+            "level": 62,
             "name": "Pakingteyp",
             "name_history": [
                 "Pakingteyp"
@@ -7758,6 +7758,22 @@
             ],
             "registered": "Nov 25, 2025, 5:10:39 PM",
             "role_id": 38174103118546338,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546341": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 550223.0,
+            "last_seen": 1766349155,
+            "level": 62,
+            "name": "躑躅",
+            "name_history": [
+                "躑躅"
+            ],
+            "registered": "Nov 25, 2025, 5:10:40 PM",
+            "role_id": 38174103118546341,
             "server_region": "ws_asia_01"
         },
         "38174103118546345": {
@@ -29493,8 +29509,8 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "WorldBossDamage_3;boss_hum_061_World;26",
             "gender": 1,
-            "hp": 381612.25,
-            "last_seen": 1766337875,
+            "hp": 537482.0,
+            "last_seen": 1766349155,
             "level": 62,
             "name": "／＾o＾＼ﾌｯｼﾞｻｰﾝwww",
             "name_history": [
@@ -40662,7 +40678,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 274181.1875,
-            "last_seen": 1766337815,
+            "last_seen": 1766349155,
             "level": 62,
             "name": "JinShynestra龍",
             "name_history": [
@@ -57653,9 +57669,9 @@
             "crew_name": "",
             "equipping_title": "1_1_11_1",
             "gender": 0,
-            "hp": 394092.0,
-            "last_seen": 1766274488,
-            "level": 61,
+            "hp": 400225.0,
+            "last_seen": 1766349155,
+            "level": 62,
             "name": "Wolfheze",
             "name_history": [
                 "Wolfheze"
@@ -61265,12 +61281,12 @@
             "server_region": "ws_asia_01"
         },
         "38174103118582995": {
-            "crew_id": 1086635613989,
-            "crew_name": "แม่เรียกกินข้าว",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 452230.40625,
-            "last_seen": 1766095436,
+            "hp": 461170.0,
+            "last_seen": 1766349155,
             "level": 61,
             "name": "RubyFox ",
             "name_history": [
@@ -69237,9 +69253,9 @@
             "crew_name": "ねぷねぷ教",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 153370.796875,
-            "last_seen": 1765134468,
-            "level": 49,
+            "hp": 460329.40625,
+            "last_seen": 1766349155,
+            "level": 59,
             "name": "肉まんニギニギbird",
             "name_history": [
                 "肉まんニギニギbird"
@@ -74081,8 +74097,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4630,
+    "accounts_total": 4631,
     "created": 1764092421,
-    "last_updated": 1766349095,
+    "last_updated": 1766349155,
     "server_region": "ws_asia_01"
 }
