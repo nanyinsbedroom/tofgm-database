@@ -598,6 +598,22 @@
             "role_id": 60567630027896,
             "server_region": "visser_aida"
         },
+        "60567630058872": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 242869.578125,
+            "last_seen": 1766356480,
+            "level": 51,
+            "name": "若天寺佑麦L",
+            "name_history": [
+                "若天寺佑麦L"
+            ],
+            "registered": "2023年12月4日 下午11:11:20",
+            "role_id": 60567630058872,
+            "server_region": "visser_aida"
+        },
         "60567630058899": {
             "crew_id": 111669163804,
             "crew_name": "云中歌",
@@ -3675,6 +3691,22 @@
             "role_id": 60597694798096,
             "server_region": "visser_aida"
         },
+        "60597694798205": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "炖鱼的学徒,0",
+            "gender": 1,
+            "hp": 76147.296875,
+            "last_seen": 1766356480,
+            "level": 100,
+            "name": "蝉鸣伴时雨丶",
+            "name_history": [
+                "蝉鸣伴时雨丶"
+            ],
+            "registered": "2024年1月27日 下午8:46:27",
+            "role_id": 60597694798205,
+            "server_region": "visser_aida"
+        },
         "60597694798938": {
             "crew_id": 1395864385310,
             "crew_name": "柑蕉桔梨萝柚",
@@ -6546,9 +6578,15 @@
         "61035780286256": {
             "crew_id": 270582953855,
             "crew_name": "不氪金联盟",
+            "equipping_title": "七月兮的学徒,0",
             "gender": 1,
-            "last_seen": 1759337654,
+            "hp": 1192841.25,
+            "last_seen": 1766356480,
+            "level": 100,
             "name": "月西江",
+            "name_history": [
+                "月西江"
+            ],
             "registered": "2021年12月19日 下午4:41:10",
             "role_id": 61035780286256,
             "server_region": "visser_aida"
@@ -7024,14 +7062,17 @@
             "server_region": "visser_aida"
         },
         "61078729937270": {
-            "crew_id": 833223669626,
-            "crew_name": "天空之城",
+            "crew_id": 270582953855,
+            "crew_name": "不氪金联盟",
             "equipping_title": "月西江的导师,0",
             "gender": 1,
-            "hp": 2514255.75,
-            "last_seen": 1761920749,
+            "hp": 1303568.0,
+            "last_seen": 1766356480,
             "level": 100,
             "name": "七月兮",
+            "name_history": [
+                "七月兮"
+            ],
             "registered": "2021年12月16日 下午1:22:31",
             "role_id": 61078729937270,
             "server_region": "visser_aida"
@@ -10058,8 +10099,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 769,
+    "accounts_total": 771,
     "created": 1758086949,
-    "last_updated": 1766356420,
+    "last_updated": 1766356480,
     "server_region": "visser_aida"
 }
