@@ -15683,11 +15683,11 @@
         "38174103118553792": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "None",
+            "equipping_title": "Jintsuu's Apprentice,0",
             "gender": 1,
-            "hp": 272255.375,
-            "last_seen": 1765075171,
-            "level": 51,
+            "hp": 437826.625,
+            "last_seen": 1766348315,
+            "level": 62,
             "name": "Lumiere",
             "name_history": [
                 "Lumiere"
@@ -23379,11 +23379,11 @@
         "38174103118556662": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_1_22_1",
+            "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 483682.09375,
-            "last_seen": 1765517824,
-            "level": 57,
+            "hp": 619954.3125,
+            "last_seen": 1766348315,
+            "level": 62,
             "name": "ノラ",
             "name_history": [
                 "ノラ"
@@ -70928,6 +70928,22 @@
             "role_id": 38174103118594220,
             "server_region": "ws_asia_01"
         },
+        "38174103118594334": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 350454.8125,
+            "last_seen": 1766348315,
+            "level": 61,
+            "name": "Maphiel",
+            "name_history": [
+                "Maphiel"
+            ],
+            "registered": "Dec 7, 2025, 11:01:31 AM",
+            "role_id": 38174103118594334,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594349": {
             "crew_id": 0,
             "crew_name": "",
@@ -73921,8 +73937,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4620,
+    "accounts_total": 4621,
     "created": 1764092421,
-    "last_updated": 1766348254,
+    "last_updated": 1766348315,
     "server_region": "ws_asia_01"
 }
