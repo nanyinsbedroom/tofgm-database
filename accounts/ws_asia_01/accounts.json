@@ -2547,11 +2547,11 @@
         "38174103118545284": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;59",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 361301.5,
-            "last_seen": 1765760314,
-            "level": 59,
+            "hp": 555945.25,
+            "last_seen": 1766346092,
+            "level": 62,
             "name": "Honami",
             "name_history": [
                 "Honami"
@@ -18992,6 +18992,22 @@
             "role_id": 38174103118555013,
             "server_region": "ws_asia_01"
         },
+        "38174103118555021": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 47472.0,
+            "last_seen": 1766346092,
+            "level": 15,
+            "name": "慧御",
+            "name_history": [
+                "慧御"
+            ],
+            "registered": "Nov 25, 2025, 6:26:34 PM",
+            "role_id": 38174103118555021,
+            "server_region": "ws_asia_01"
+        },
         "38174103118555024": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -29710,6 +29726,22 @@
             ],
             "registered": "Nov 25, 2025, 8:58:21 PM",
             "role_id": 38174103118558858,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558861": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;62",
+            "gender": 0,
+            "hp": 520001.75,
+            "last_seen": 1766346092,
+            "level": 62,
+            "name": "fies",
+            "name_history": [
+                "fies"
+            ],
+            "registered": "Nov 25, 2025, 8:58:28 PM",
+            "role_id": 38174103118558861,
             "server_region": "ws_asia_01"
         },
         "38174103118558866": {
@@ -58469,9 +58501,9 @@
             "crew_name": "Scarface",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 309139.4375,
-            "last_seen": 1766174132,
-            "level": 60,
+            "hp": 311808.21875,
+            "last_seen": 1766346092,
+            "level": 61,
             "name": "MuS",
             "name_history": [
                 "MuS"
@@ -73489,8 +73521,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4593,
+    "accounts_total": 4595,
     "created": 1764092421,
-    "last_updated": 1766345131,
+    "last_updated": 1766346092,
     "server_region": "ws_asia_01"
 }
