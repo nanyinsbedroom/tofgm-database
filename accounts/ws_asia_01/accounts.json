@@ -17381,9 +17381,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 581114.6875,
-            "last_seen": 1766174132,
-            "level": 61,
+            "hp": 588277.0,
+            "last_seen": 1766347233,
+            "level": 62,
             "name": "Kumaxion",
             "name_history": [
                 "Kumaxion"
@@ -23189,8 +23189,8 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "WorldBossDamage_4;Boss_hum_064_world;61",
             "gender": 1,
-            "hp": 524664.0,
-            "last_seen": 1766261139,
+            "hp": 539463.0,
+            "last_seen": 1766347233,
             "level": 62,
             "name": "りゅーん",
             "name_history": [
@@ -24531,11 +24531,11 @@
         "38174103118557115": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "EOS's Mentor,0",
             "gender": 0,
-            "hp": 966723.9375,
-            "last_seen": 1765847708,
-            "level": 59,
+            "hp": 600297.875,
+            "last_seen": 1766347233,
+            "level": 62,
             "name": "Warping Salad",
             "name_history": [
                 "Warping Salad"
@@ -57200,6 +57200,22 @@
             "role_id": 38174103118579751,
             "server_region": "ws_asia_01"
         },
+        "38174103118579778": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 81727.796875,
+            "last_seen": 1766347233,
+            "level": 30,
+            "name": "MahiruTOF",
+            "name_history": [
+                "MahiruTOF"
+            ],
+            "registered": "Nov 28, 2025, 8:28:05 AM",
+            "role_id": 38174103118579778,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579792": {
             "crew_id": 1189714829093,
             "crew_name": "ムーンライトスピード",
@@ -66688,6 +66704,22 @@
             "role_id": 38174103118589224,
             "server_region": "ws_asia_01"
         },
+        "38174103118589235": {
+            "crew_id": 1696520970021,
+            "crew_name": "ヘヴリディーズWARP拠点",
+            "equipping_title": "柾稀's Apprentice,0",
+            "gender": 1,
+            "hp": 193699.203125,
+            "last_seen": 1766347233,
+            "level": 58,
+            "name": "芽維",
+            "name_history": [
+                "芽維"
+            ],
+            "registered": "Dec 2, 2025, 8:03:32 AM",
+            "role_id": 38174103118589235,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589243": {
             "crew_id": 240527056677,
             "crew_name": "아이다",
@@ -73665,8 +73697,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4604,
+    "accounts_total": 4606,
     "created": 1764092421,
-    "last_updated": 1766347173,
+    "last_updated": 1766347233,
     "server_region": "ws_asia_01"
 }
