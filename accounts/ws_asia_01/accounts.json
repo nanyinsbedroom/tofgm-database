@@ -358,7 +358,7 @@
             "equipping_title": "1_1_22_1",
             "gender": 1,
             "hp": 580264.8125,
-            "last_seen": 1766333517,
+            "last_seen": 1766364616,
             "level": 62,
             "name": "『夜』Aleria",
             "name_history": [
@@ -38128,6 +38128,22 @@
             "role_id": 38174103118562712,
             "server_region": "ws_asia_01"
         },
+        "38174103118562729": {
+            "crew_id": 1142470188837,
+            "crew_name": "グランブルー",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 463450.84375,
+            "last_seen": 1766364616,
+            "level": 61,
+            "name": "秘華",
+            "name_history": [
+                "秘華"
+            ],
+            "registered": "Nov 26, 2025, 12:13:29 AM",
+            "role_id": 38174103118562729,
+            "server_region": "ws_asia_01"
+        },
         "38174103118562743": {
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
@@ -60976,6 +60992,22 @@
             "role_id": 38174103118582463,
             "server_region": "ws_asia_01"
         },
+        "38174103118582464": {
+            "crew_id": 1086635613989,
+            "crew_name": "แม่เรียกกินข้าว",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 154173.0,
+            "last_seen": 1766364616,
+            "level": 58,
+            "name": "ATATH",
+            "name_history": [
+                "ATATH"
+            ],
+            "registered": "Nov 29, 2025, 5:23:25 AM",
+            "role_id": 38174103118582464,
+            "server_region": "ws_asia_01"
+        },
         "38174103118582510": {
             "crew_id": 163217645349,
             "crew_name": "Scarface",
@@ -62851,11 +62883,11 @@
         "38174103118584322": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 339769.0,
-            "last_seen": 1765079787,
-            "level": 52,
+            "hp": 558373.625,
+            "last_seen": 1766364616,
+            "level": 62,
             "name": "SARANLAP",
             "name_history": [
                 "SARANLAP"
@@ -74545,8 +74577,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4659,
+    "accounts_total": 4661,
     "created": 1764092421,
-    "last_updated": 1766364556,
+    "last_updated": 1766364616,
     "server_region": "ws_asia_01"
 }
