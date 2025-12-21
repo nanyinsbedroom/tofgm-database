@@ -11829,9 +11829,9 @@
             "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 536424.0625,
-            "last_seen": 1766098018,
-            "level": 61,
+            "hp": 518871.9375,
+            "last_seen": 1766338295,
+            "level": 62,
             "name": "Adélie",
             "name_history": [
                 "Adélie"
@@ -13686,7 +13686,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 518077.71875,
-            "last_seen": 1766263453,
+            "last_seen": 1766338295,
             "level": 62,
             "name": "RoxySalvatore",
             "name_history": [
@@ -22757,8 +22757,8 @@
             "crew_name": "Wartag Silver",
             "equipping_title": "WorldBossDamage_2;Boss_hum_085_world;5",
             "gender": 1,
-            "hp": 401773.8125,
-            "last_seen": 1766333457,
+            "hp": 423456.0,
+            "last_seen": 1766338295,
             "level": 62,
             "name": "YAMI2X",
             "name_history": [
@@ -23555,11 +23555,11 @@
         "38174103118556815": {
             "crew_id": 558354636581,
             "crew_name": "Wartag Silver",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_085_world;2",
             "gender": 0,
-            "hp": 476583.59375,
-            "last_seen": 1765741654,
-            "level": 59,
+            "hp": 563251.0625,
+            "last_seen": 1766338295,
+            "level": 62,
             "name": "INDOMIE GORENG",
             "name_history": [
                 "INDOMIE GORENG"
@@ -35280,6 +35280,22 @@
             "role_id": 38174103118561335,
             "server_region": "ws_asia_01"
         },
+        "38174103118561344": {
+            "crew_id": 85908234021,
+            "crew_name": "Eissentam",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;94",
+            "gender": 0,
+            "hp": 505893.5625,
+            "last_seen": 1766338295,
+            "level": 62,
+            "name": "buukbeureum",
+            "name_history": [
+                "buukbeureum"
+            ],
+            "registered": "Nov 25, 2025, 10:56:43 PM",
+            "role_id": 38174103118561344,
+            "server_region": "ws_asia_01"
+        },
         "38174103118561370": {
             "crew_id": 1069455744805,
             "crew_name": "OTL",
@@ -37157,9 +37173,9 @@
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 343206.8125,
-            "last_seen": 1764873752,
-            "level": 50,
+            "hp": 522654.875,
+            "last_seen": 1766338295,
+            "level": 62,
             "name": "Feryna",
             "name_history": [
                 "Feryna"
@@ -73121,8 +73137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4570,
+    "accounts_total": 4571,
     "created": 1764092421,
-    "last_updated": 1766338115,
+    "last_updated": 1766338295,
     "server_region": "ws_asia_01"
 }
