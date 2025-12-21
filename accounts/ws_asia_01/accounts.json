@@ -6117,9 +6117,9 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 312092.40625,
-            "last_seen": 1765852645,
-            "level": 59,
+            "hp": 359908.59375,
+            "last_seen": 1766333577,
+            "level": 61,
             "name": "flare01x",
             "name_history": [
                 "flare01x"
@@ -15406,6 +15406,22 @@
             ],
             "registered": "Nov 25, 2025, 5:54:13 PM",
             "role_id": 38174103118553648,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553650": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 317971.1875,
+            "last_seen": 1766333577,
+            "level": 60,
+            "name": "Arona",
+            "name_history": [
+                "Arona"
+            ],
+            "registered": "Nov 25, 2025, 5:54:14 PM",
+            "role_id": 38174103118553650,
             "server_region": "ws_asia_01"
         },
         "38174103118553679": {
@@ -64432,6 +64448,22 @@
             "role_id": 38174103118587166,
             "server_region": "ws_asia_01"
         },
+        "38174103118587171": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48112.0,
+            "last_seen": 1766333577,
+            "level": 14,
+            "name": "ポチ",
+            "name_history": [
+                "ポチ"
+            ],
+            "registered": "Nov 30, 2025, 11:39:46 PM",
+            "role_id": 38174103118587171,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587175": {
             "crew_id": 0,
             "crew_name": "",
@@ -72240,6 +72272,22 @@
             "role_id": 38174103118600761,
             "server_region": "ws_asia_01"
         },
+        "38174103118600768": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 203841.203125,
+            "last_seen": 1766333577,
+            "level": 57,
+            "name": "Pixy",
+            "name_history": [
+                "Pixy"
+            ],
+            "registered": "Dec 16, 2025, 9:56:50 PM",
+            "role_id": 38174103118600768,
+            "server_region": "ws_asia_01"
+        },
         "38174103118600788": {
             "crew_id": 382260977445,
             "crew_name": "Rst",
@@ -72737,8 +72785,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4546,
+    "accounts_total": 4549,
     "created": 1764092421,
-    "last_updated": 1766333517,
+    "last_updated": 1766333577,
     "server_region": "ws_asia_01"
 }
