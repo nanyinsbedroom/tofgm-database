@@ -15173,9 +15173,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 72546.0,
-            "last_seen": 1764112573,
-            "level": 21,
+            "hp": 542335.75,
+            "last_seen": 1766362454,
+            "level": 62,
             "name": "ひかり",
             "name_history": [
                 "ひかり"
@@ -39702,7 +39702,7 @@
             "equipping_title": "WorldBossDamage_2;boss_hum_045_world;6",
             "gender": 1,
             "hp": 562183.8125,
-            "last_seen": 1766333697,
+            "last_seen": 1766362454,
             "level": 62,
             "name": "Yuuji",
             "name_history": [
@@ -40758,7 +40758,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 274181.1875,
-            "last_seen": 1766349155,
+            "last_seen": 1766362454,
             "level": 62,
             "name": "JinShynestra龍",
             "name_history": [
@@ -50467,11 +50467,11 @@
         "38174103118571751": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "1_6_4_17",
+            "equipping_title": "りう's Mentor,0",
             "gender": 1,
-            "hp": 444735.1875,
-            "last_seen": 1765329553,
-            "level": 55,
+            "hp": 571030.375,
+            "last_seen": 1766362454,
+            "level": 62,
             "name": "未来雪花",
             "name_history": [
                 "未来雪花"
@@ -51941,9 +51941,9 @@
             "crew_name": "EIN",
             "equipping_title": "WorldBossDamage_2;Boss_hum_065_world;6",
             "gender": 1,
-            "hp": 562542.625,
-            "last_seen": 1766207956,
-            "level": 61,
+            "hp": 572653.625,
+            "last_seen": 1766362454,
+            "level": 62,
             "name": "Edvoid",
             "name_history": [
                 "Edvoid"
@@ -63648,6 +63648,22 @@
             "role_id": 38174103118585377,
             "server_region": "ws_asia_01"
         },
+        "38174103118585393": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105556.3984375,
+            "last_seen": 1766362454,
+            "level": 41,
+            "name": "Qaz",
+            "name_history": [
+                "Qaz"
+            ],
+            "registered": "Nov 30, 2025, 6:02:13 AM",
+            "role_id": 38174103118585393,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585406": {
             "crew_id": 0,
             "crew_name": "",
@@ -74401,8 +74417,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4650,
+    "accounts_total": 4651,
     "created": 1764092421,
-    "last_updated": 1766362094,
+    "last_updated": 1766362454,
     "server_region": "ws_asia_01"
 }
