@@ -7651,11 +7651,11 @@
         "38174103118546321": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;97",
             "gender": 1,
-            "hp": 260938.0,
-            "last_seen": 1764548835,
-            "level": 44,
+            "hp": 565926.5,
+            "last_seen": 1766349095,
+            "level": 62,
             "name": "ValianT",
             "name_history": [
                 "ValianT"
@@ -32901,9 +32901,9 @@
             "crew_name": "SCARLETBLAZE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 271680.1875,
-            "last_seen": 1766096337,
-            "level": 59,
+            "hp": 272544.1875,
+            "last_seen": 1766349095,
+            "level": 60,
             "name": "SITA",
             "name_history": [
                 "SITA"
@@ -35342,6 +35342,22 @@
             ],
             "registered": "Nov 25, 2025, 10:52:52 PM",
             "role_id": 38174103118561266,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561269": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "WorldBossDamage_2;boss_hum_057_world;4",
+            "gender": 1,
+            "hp": 480382.75,
+            "last_seen": 1766349095,
+            "level": 62,
+            "name": "RenazeL",
+            "name_history": [
+                "RenazeL"
+            ],
+            "registered": "Nov 25, 2025, 10:53:02 PM",
+            "role_id": 38174103118561269,
             "server_region": "ws_asia_01"
         },
         "38174103118561271": {
@@ -42181,9 +42197,9 @@
             "crew_name": "Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 380933.0,
-            "last_seen": 1765066197,
-            "level": 52,
+            "hp": 398096.25,
+            "last_seen": 1766349095,
+            "level": 62,
             "name": "Cresent",
             "name_history": [
                 "Cresent"
@@ -58659,11 +58675,11 @@
         "38174103118581021": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 270485.40625,
-            "last_seen": 1764868432,
-            "level": 50,
+            "hp": 416000.40625,
+            "last_seen": 1766349095,
+            "level": 60,
             "name": "Sahlo",
             "name_history": [
                 "Sahlo"
@@ -74065,8 +74081,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4629,
+    "accounts_total": 4630,
     "created": 1764092421,
-    "last_updated": 1766349035,
+    "last_updated": 1766349095,
     "server_region": "ws_asia_01"
 }
