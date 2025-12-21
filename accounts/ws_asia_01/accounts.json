@@ -979,11 +979,11 @@
         "38174103118545043": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "Nyaan's Mentor,0",
             "gender": 1,
-            "hp": 546611.75,
-            "last_seen": 1765846867,
-            "level": 59,
+            "hp": 604393.25,
+            "last_seen": 1766366057,
+            "level": 62,
             "name": "Coral",
             "name_history": [
                 "Coral"
@@ -9253,8 +9253,8 @@
             "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "WorldBossDamage_2;boss_hum_053_world;7",
             "gender": 1,
-            "hp": 499873.0,
-            "last_seen": 1766270961,
+            "hp": 527905.0,
+            "last_seen": 1766366057,
             "level": 62,
             "name": "ユニ",
             "name_history": [
@@ -20022,7 +20022,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 404034.21875,
-            "last_seen": 1766341298,
+            "last_seen": 1766366057,
             "level": 62,
             "name": "沙耶",
             "name_history": [
@@ -27301,9 +27301,9 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 406912.8125,
-            "last_seen": 1765779725,
-            "level": 59,
+            "hp": 552409.8125,
+            "last_seen": 1766366057,
+            "level": 62,
             "name": "goffar",
             "name_history": [
                 "goffar"
@@ -66000,6 +66000,22 @@
             "role_id": 38174103118587674,
             "server_region": "ws_asia_01"
         },
+        "38174103118587704": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 4401.5,
+            "last_seen": 1766366057,
+            "level": 11,
+            "name": "Mad",
+            "name_history": [
+                "Mad"
+            ],
+            "registered": "Dec 1, 2025, 6:28:05 AM",
+            "role_id": 38174103118587704,
+            "server_region": "ws_asia_01"
+        },
         "38174103118587730": {
             "crew_id": 0,
             "crew_name": "",
@@ -74641,8 +74657,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4665,
+    "accounts_total": 4666,
     "created": 1764092421,
-    "last_updated": 1766365997,
+    "last_updated": 1766366057,
     "server_region": "ws_asia_01"
 }
