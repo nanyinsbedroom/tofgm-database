@@ -1795,11 +1795,11 @@
         "38174103118545164": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;64",
+            "equipping_title": "WorldBossDamage_4;boss_hum_059_world;80",
             "gender": 1,
-            "hp": 483841.21875,
-            "last_seen": 1765740604,
-            "level": 59,
+            "hp": 565234.0,
+            "last_seen": 1766347593,
+            "level": 62,
             "name": "Hres.",
             "name_history": [
                 "Hres."
@@ -19173,9 +19173,9 @@
             "crew_name": "Hykros",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 314196.90625,
-            "last_seen": 1765760314,
-            "level": 59,
+            "hp": 425458.84375,
+            "last_seen": 1766347593,
+            "level": 62,
             "name": "Freijya",
             "name_history": [
                 "Freijya"
@@ -42158,6 +42158,22 @@
             ],
             "registered": "Nov 26, 2025, 3:39:06 AM",
             "role_id": 38174103118564884,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564885": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 111733.3984375,
+            "last_seen": 1766347593,
+            "level": 44,
+            "name": "landragon53",
+            "name_history": [
+                "landragon53"
+            ],
+            "registered": "Nov 26, 2025, 3:39:06 AM",
+            "role_id": 38174103118564885,
             "server_region": "ws_asia_01"
         },
         "38174103118564889": {
@@ -73857,8 +73873,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4616,
+    "accounts_total": 4617,
     "created": 1764092421,
-    "last_updated": 1766347533,
+    "last_updated": 1766347593,
     "server_region": "ws_asia_01"
 }
