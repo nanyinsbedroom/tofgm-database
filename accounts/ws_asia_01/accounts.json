@@ -9557,9 +9557,9 @@
             "crew_name": "Wyverns",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 545136.6875,
-            "last_seen": 1766299652,
-            "level": 61,
+            "hp": 546030.0,
+            "last_seen": 1766349035,
+            "level": 62,
             "name": "BossKeitaro",
             "name_history": [
                 "BossKeitaro"
@@ -73552,6 +73552,22 @@
             "role_id": 38174103118601372,
             "server_region": "ws_asia_01"
         },
+        "38174103118601392": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 106704.3984375,
+            "last_seen": 1766349035,
+            "level": 40,
+            "name": "Anatixey",
+            "name_history": [
+                "Anatixey"
+            ],
+            "registered": "Dec 17, 2025, 10:34:42 PM",
+            "role_id": 38174103118601392,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601496": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
@@ -74049,8 +74065,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4628,
+    "accounts_total": 4629,
     "created": 1764092421,
-    "last_updated": 1766348975,
+    "last_updated": 1766349035,
     "server_region": "ws_asia_01"
 }
