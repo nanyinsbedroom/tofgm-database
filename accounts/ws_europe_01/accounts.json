@@ -209,13 +209,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708479555": {
-            "crew_id": 51548495655,
-            "crew_name": "Kuragami",
-            "equipping_title": "None",
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "1_1_11_1",
             "gender": 0,
-            "hp": 84270.0,
-            "last_seen": 1764094095,
-            "level": 22,
+            "hp": 616397.125,
+            "last_seen": 1766430740,
+            "level": 63,
             "name": "Natsrey",
             "name_history": [
                 "Natsrey"
@@ -5987,11 +5987,11 @@
         "38174111708487148": {
             "crew_id": 12893789991,
             "crew_name": "Fantasy",
-            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;36",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 489697.8125,
-            "last_seen": 1766254567,
-            "level": 62,
+            "hp": 504769.84375,
+            "last_seen": 1766430740,
+            "level": 63,
             "name": "Esty",
             "name_history": [
                 "Esty"
@@ -7936,6 +7936,22 @@
             "role_id": 38174111708512621,
             "server_region": "ws_europe_01"
         },
+        "38174111708512750": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 142959.40625,
+            "last_seen": 1766430740,
+            "level": 54,
+            "name": "Parasite Eve",
+            "name_history": [
+                "Parasite Eve"
+            ],
+            "registered": "Dec 17, 2025, 8:51:25 PM",
+            "role_id": 38174111708512750,
+            "server_region": "ws_europe_01"
+        },
         "38174111708512992": {
             "crew_id": 0,
             "crew_name": "",
@@ -8177,8 +8193,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 511,
+    "accounts_total": 512,
     "created": 1764046902,
-    "last_updated": 1766255948,
+    "last_updated": 1766430740,
     "server_region": "ws_europe_01"
 }
