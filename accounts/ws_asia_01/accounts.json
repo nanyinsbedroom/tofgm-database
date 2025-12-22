@@ -11061,9 +11061,9 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 543773.0,
-            "last_seen": 1766430582,
-            "level": 62,
+            "hp": 553968.25,
+            "last_seen": 1766453194,
+            "level": 63,
             "name": "うき",
             "name_history": [
                 "うき"
@@ -35390,6 +35390,22 @@
             ],
             "registered": "Nov 25, 2025, 10:42:05 PM",
             "role_id": 38174103118561063,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118561064": {
+            "crew_id": 695793590053,
+            "crew_name": "ミラポリス幻影騎士団",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 566171.375,
+            "last_seen": 1766453194,
+            "level": 63,
+            "name": "キリシマ",
+            "name_history": [
+                "キリシマ"
+            ],
+            "registered": "Nov 25, 2025, 10:42:10 PM",
+            "role_id": 38174103118561064,
             "server_region": "ws_asia_01"
         },
         "38174103118561086": {
@@ -75905,8 +75921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4744,
+    "accounts_total": 4745,
     "created": 1764092421,
-    "last_updated": 1766453134,
+    "last_updated": 1766453194,
     "server_region": "ws_asia_01"
 }
