@@ -22133,8 +22133,8 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 550665.8125,
-            "last_seen": 1766432371,
+            "hp": 556504.375,
+            "last_seen": 1766437065,
             "level": 63,
             "name": "たいまつ",
             "name_history": [
@@ -70720,6 +70720,22 @@
             "role_id": 38174103118592540,
             "server_region": "ws_asia_01"
         },
+        "38174103118592545": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 411772.0,
+            "last_seen": 1766437065,
+            "level": 63,
+            "name": "プリム",
+            "name_history": [
+                "プリム"
+            ],
+            "registered": "Dec 5, 2025, 2:39:02 PM",
+            "role_id": 38174103118592545,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592575": {
             "crew_id": 0,
             "crew_name": "",
@@ -75185,8 +75201,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4699,
+    "accounts_total": 4700,
     "created": 1764092421,
-    "last_updated": 1766437005,
+    "last_updated": 1766437065,
     "server_region": "ws_asia_01"
 }
