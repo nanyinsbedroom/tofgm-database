@@ -3877,8 +3877,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 509875.09375,
-            "last_seen": 1766365157,
+            "hp": 416876.3125,
+            "last_seen": 1766429561,
             "level": 62,
             "name": "Drashel",
             "name_history": [
@@ -4755,11 +4755,11 @@
         "38174103118545662": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;51",
+            "equipping_title": "WorldBossDamage_3;boss_hum_057_world;30",
             "gender": 1,
-            "hp": 560165.625,
-            "last_seen": 1766095736,
-            "level": 61,
+            "hp": 561818.0625,
+            "last_seen": 1766429561,
+            "level": 62,
             "name": "Corvus",
             "name_history": [
                 "Corvus"
@@ -23566,6 +23566,22 @@
             ],
             "registered": "Nov 25, 2025, 7:26:35 PM",
             "role_id": 38174103118556662,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118556665": {
+            "crew_id": 227642154789,
+            "crew_name": "くまたん！",
+            "equipping_title": "2_9_0_1",
+            "gender": 0,
+            "hp": 470187.03125,
+            "last_seen": 1766429561,
+            "level": 63,
+            "name": "ユグドラ",
+            "name_history": [
+                "ユグドラ"
+            ],
+            "registered": "Nov 25, 2025, 7:26:40 PM",
+            "role_id": 38174103118556665,
             "server_region": "ws_asia_01"
         },
         "38174103118556681": {
@@ -74849,8 +74865,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4678,
+    "accounts_total": 4679,
     "created": 1764092421,
-    "last_updated": 1766429441,
+    "last_updated": 1766429561,
     "server_region": "ws_asia_01"
 }
