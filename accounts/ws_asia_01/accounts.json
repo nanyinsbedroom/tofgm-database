@@ -12099,11 +12099,11 @@
         "38174103118549132": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "1_6_4_26",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_025_world;26",
             "gender": 1,
-            "hp": 502818.8125,
-            "last_seen": 1766174132,
-            "level": 61,
+            "hp": 546557.0,
+            "last_seen": 1766469601,
+            "level": 63,
             "name": "小鳥遊楓",
             "name_history": [
                 "小鳥遊楓"
@@ -18581,9 +18581,9 @@
             "crew_name": "Restart",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 470954.375,
-            "last_seen": 1765846207,
-            "level": 59,
+            "hp": 514978.9375,
+            "last_seen": 1766469601,
+            "level": 62,
             "name": "名瀬大先生",
             "name_history": [
                 "名瀬大先生"
@@ -19110,7 +19110,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 555917.8125,
-            "last_seen": 1766463052,
+            "last_seen": 1766469601,
             "level": 63,
             "name": "OTL",
             "name_history": [
@@ -27392,6 +27392,22 @@
             "role_id": 38174103118557852,
             "server_region": "ws_asia_01"
         },
+        "38174103118557858": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 51131.99609375,
+            "last_seen": 1766469601,
+            "level": 16,
+            "name": "ワンダベア",
+            "name_history": [
+                "ワンダベア"
+            ],
+            "registered": "Nov 25, 2025, 8:18:12 PM",
+            "role_id": 38174103118557858,
+            "server_region": "ws_asia_01"
+        },
         "38174103118557870": {
             "crew_id": 0,
             "crew_name": "",
@@ -30069,9 +30085,9 @@
             "crew_name": "くまたん！",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 333112.21875,
-            "last_seen": 1765125323,
-            "level": 53,
+            "hp": 556609.25,
+            "last_seen": 1766469601,
+            "level": 63,
             "name": "TKG",
             "name_history": [
                 "TKG"
@@ -43509,9 +43525,9 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 556265.5,
-            "last_seen": 1766366117,
-            "level": 62,
+            "hp": 626198.0,
+            "last_seen": 1766469601,
+            "level": 63,
             "name": "xY2x",
             "name_history": [
                 "xY2x"
@@ -67622,7 +67638,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 24855.16015625,
-            "last_seen": 1766463052,
+            "last_seen": 1766469601,
             "level": 21,
             "name": "「閃光」のアスナ",
             "name_history": [
@@ -70245,9 +70261,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 534056.5625,
-            "last_seen": 1766295801,
-            "level": 62,
+            "hp": 536425.4375,
+            "last_seen": 1766469601,
+            "level": 63,
             "name": "覚醒生駒",
             "name_history": [
                 "覚醒生駒"
@@ -72355,11 +72371,11 @@
         "38174103118594240": {
             "crew_id": 712973459237,
             "crew_name": "BATTALION 57",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 142468.203125,
-            "last_seen": 1766349215,
-            "level": 58,
+            "hp": 150513.0,
+            "last_seen": 1766469601,
+            "level": 59,
             "name": "Hiirami",
             "name_history": [
                 "Hiirami"
@@ -76273,8 +76289,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4767,
+    "accounts_total": 4768,
     "created": 1764092421,
-    "last_updated": 1766469541,
+    "last_updated": 1766469601,
     "server_region": "ws_asia_01"
 }
