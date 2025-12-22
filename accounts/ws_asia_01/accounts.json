@@ -18325,9 +18325,9 @@
             "crew_name": "INTROVERTS",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 291971.40625,
-            "last_seen": 1765075291,
-            "level": 50,
+            "hp": 374799.625,
+            "last_seen": 1766433392,
+            "level": 59,
             "name": "MEDZALUNA",
             "name_history": [
                 "MEDZALUNA"
@@ -22997,9 +22997,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 314893.1875,
-            "last_seen": 1766260539,
-            "level": 59,
+            "hp": 346021.0,
+            "last_seen": 1766433392,
+            "level": 61,
             "name": "未来融合",
             "name_history": [
                 "未来融合"
@@ -46801,13 +46801,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118568428": {
-            "crew_id": 107383070501,
-            "crew_name": "WeWillWin",
-            "equipping_title": "WorldBossDamage_4;boss_hum_053_world;92",
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 445737.1875,
-            "last_seen": 1765217681,
-            "level": 54,
+            "hp": 597829.375,
+            "last_seen": 1766433392,
+            "level": 63,
             "name": "cannot be blank",
             "name_history": [
                 "cannot be blank"
@@ -73232,6 +73232,22 @@
             "role_id": 38174103118598061,
             "server_region": "ws_asia_01"
         },
+        "38174103118598072": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54629.0,
+            "last_seen": 1766433392,
+            "level": 17,
+            "name": "Yukiko",
+            "name_history": [
+                "Yukiko"
+            ],
+            "registered": "Dec 12, 2025, 1:25:01 PM",
+            "role_id": 38174103118598072,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598140": {
             "crew_id": 558354636581,
             "crew_name": "Wartag Silver",
@@ -74977,8 +74993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4686,
+    "accounts_total": 4687,
     "created": 1764092421,
-    "last_updated": 1766433152,
+    "last_updated": 1766433392,
     "server_region": "ws_asia_01"
 }
