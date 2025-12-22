@@ -11622,7 +11622,7 @@
             "equipping_title": "1_6_2_2",
             "gender": 0,
             "hp": 640789.625,
-            "last_seen": 1766453614,
+            "last_seen": 1766459145,
             "level": 63,
             "name": "KNG",
             "name_history": [
@@ -42501,9 +42501,9 @@
             "crew_name": "甘味処パルフェ",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 560442.25,
-            "last_seen": 1766290639,
-            "level": 62,
+            "hp": 564353.0625,
+            "last_seen": 1766459145,
+            "level": 63,
             "name": "Keizer",
             "name_history": [
                 "Keizer"
@@ -56814,6 +56814,22 @@
             ],
             "registered": "Nov 27, 2025, 10:57:50 PM",
             "role_id": 38174103118578530,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118578534": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26793.0,
+            "last_seen": 1766459145,
+            "level": 6,
+            "name": "HimeCess",
+            "name_history": [
+                "HimeCess"
+            ],
+            "registered": "Nov 27, 2025, 10:58:05 PM",
+            "role_id": 38174103118578534,
             "server_region": "ws_asia_01"
         },
         "38174103118578551": {
@@ -74768,6 +74784,22 @@
             "role_id": 38174103118600312,
             "server_region": "ws_asia_01"
         },
+        "38174103118600344": {
+            "crew_id": 2289226456869,
+            "crew_name": "Fire Ember",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55648.0,
+            "last_seen": 1766459145,
+            "level": 16,
+            "name": "Zoe Lane",
+            "name_history": [
+                "Zoe Lane"
+            ],
+            "registered": "Dec 16, 2025, 2:28:00 AM",
+            "role_id": 38174103118600344,
+            "server_region": "ws_asia_01"
+        },
         "38174103118600475": {
             "crew_id": 1120995352357,
             "crew_name": "ヴァッサーシュトローム",
@@ -76097,8 +76129,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4756,
+    "accounts_total": 4758,
     "created": 1764092421,
-    "last_updated": 1766459085,
+    "last_updated": 1766459145,
     "server_region": "ws_asia_01"
 }
