@@ -18773,9 +18773,9 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 486016.8125,
-            "last_seen": 1766361313,
-            "level": 62,
+            "hp": 490567.1875,
+            "last_seen": 1766429381,
+            "level": 63,
             "name": "もちもちまんじゅう",
             "name_history": [
                 "もちもちまんじゅう"
@@ -47203,11 +47203,11 @@
         "38174103118568924": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;3",
+            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;2",
             "gender": 1,
-            "hp": 571035.6875,
-            "last_seen": 1766361373,
-            "level": 62,
+            "hp": 599291.6875,
+            "last_seen": 1766429381,
+            "level": 63,
             "name": "Maplee",
             "name_history": [
                 "Maplee"
@@ -74736,6 +74736,22 @@
             "role_id": 38174103118603054,
             "server_region": "ws_asia_01"
         },
+        "38174103118603057": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50489.0,
+            "last_seen": 1766429381,
+            "level": 17,
+            "name": "Fea",
+            "name_history": [
+                "Fea"
+            ],
+            "registered": "Dec 21, 2025, 5:01:28 AM",
+            "role_id": 38174103118603057,
+            "server_region": "ws_asia_01"
+        },
         "38174103118603097": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
@@ -74817,8 +74833,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4676,
+    "accounts_total": 4677,
     "created": 1764092421,
-    "last_updated": 1766428720,
+    "last_updated": 1766429381,
     "server_region": "ws_asia_01"
 }
