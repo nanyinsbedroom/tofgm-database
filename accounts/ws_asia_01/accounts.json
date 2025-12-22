@@ -11411,11 +11411,11 @@
         "38174103118548100": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_064_world;82",
             "gender": 0,
-            "hp": 142084.40625,
-            "last_seen": 1764548654,
-            "level": 44,
+            "hp": 512013.84375,
+            "last_seen": 1766454155,
+            "level": 63,
             "name": "rlthm",
             "name_history": [
                 "rlthm"
@@ -27462,7 +27462,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 556267.375,
-            "last_seen": 1766449367,
+            "last_seen": 1766454155,
             "level": 62,
             "name": "Lumina_",
             "name_history": [
@@ -64672,6 +64672,22 @@
             "role_id": 38174103118585548,
             "server_region": "ws_asia_01"
         },
+        "38174103118585566": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 50202.90234375,
+            "last_seen": 1766454155,
+            "level": 32,
+            "name": "zenos",
+            "name_history": [
+                "zenos"
+            ],
+            "registered": "Nov 30, 2025, 8:39:38 AM",
+            "role_id": 38174103118585566,
+            "server_region": "ws_asia_01"
+        },
         "38174103118585571": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
@@ -70048,6 +70064,22 @@
             "role_id": 38174103118591309,
             "server_region": "ws_asia_01"
         },
+        "38174103118591319": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "1_1_18_1",
+            "gender": 1,
+            "hp": 592122.8125,
+            "last_seen": 1766454155,
+            "level": 63,
+            "name": "HATA",
+            "name_history": [
+                "HATA"
+            ],
+            "registered": "Dec 4, 2025, 1:53:09 AM",
+            "role_id": 38174103118591319,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591322": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
@@ -71509,9 +71541,9 @@
             "crew_name": "ムーンライトスピード",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 144814.0,
-            "last_seen": 1766011775,
-            "level": 47,
+            "hp": 218314.796875,
+            "last_seen": 1766454155,
+            "level": 58,
             "name": "クレメンティナ",
             "name_history": [
                 "クレメンティナ"
@@ -75969,8 +76001,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4748,
+    "accounts_total": 4750,
     "created": 1764092421,
-    "last_updated": 1766454095,
+    "last_updated": 1766454155,
     "server_region": "ws_asia_01"
 }
