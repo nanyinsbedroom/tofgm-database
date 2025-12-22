@@ -2517,9 +2517,9 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 560031.75,
-            "last_seen": 1766237471,
-            "level": 62,
+            "hp": 540065.5625,
+            "last_seen": 1766411001,
+            "level": 63,
             "name": "Meru",
             "name_history": [
                 "Meru"
@@ -5422,6 +5422,22 @@
             ],
             "registered": "Nov 25, 2025, 7:36:42 AM",
             "role_id": 38174107413516719,
+            "server_region": "ws_america_01"
+        },
+        "38174107413516732": {
+            "crew_id": 115973005094,
+            "crew_name": "DreamFall",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 643194.0625,
+            "last_seen": 1766411001,
+            "level": 63,
+            "name": "Ozora",
+            "name_history": [
+                "Ozora"
+            ],
+            "registered": "Nov 25, 2025, 7:37:24 AM",
+            "role_id": 38174107413516732,
             "server_region": "ws_america_01"
         },
         "38174107413516739": {
@@ -11888,6 +11904,22 @@
             "role_id": 38174107413543532,
             "server_region": "ws_america_01"
         },
+        "38174107413543761": {
+            "crew_id": 38663593766,
+            "crew_name": "ACxE",
+            "equipping_title": "Komochi's Apprentice,0",
+            "gender": 1,
+            "hp": 493862.125,
+            "last_seen": 1766411001,
+            "level": 60,
+            "name": "Sady.",
+            "name_history": [
+                "Sady."
+            ],
+            "registered": "Nov 28, 2025, 8:19:25 PM",
+            "role_id": 38174107413543761,
+            "server_region": "ws_america_01"
+        },
         "38174107413543764": {
             "crew_id": 0,
             "crew_name": "",
@@ -12576,6 +12608,22 @@
             "role_id": 38174107413564095,
             "server_region": "ws_america_01"
         },
+        "38174107413564102": {
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
+            "equipping_title": "1_1_3_1",
+            "gender": 1,
+            "hp": 297659.3125,
+            "last_seen": 1766411001,
+            "level": 61,
+            "name": "Freak Season",
+            "name_history": [
+                "Freak Season"
+            ],
+            "registered": "Dec 14, 2025, 5:28:42 PM",
+            "role_id": 38174107413564102,
+            "server_region": "ws_america_01"
+        },
         "38174107413564103": {
             "crew_id": 0,
             "crew_name": "",
@@ -12881,8 +12929,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 805,
+    "accounts_total": 808,
     "created": 1764067509,
-    "last_updated": 1766410941,
+    "last_updated": 1766411001,
     "server_region": "ws_america_01"
 }
