@@ -7605,8 +7605,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Nyaan's Mentor,0",
             "gender": 1,
-            "hp": 529827.0,
-            "last_seen": 1766361313,
+            "hp": 531681.1875,
+            "last_seen": 1766436034,
             "level": 62,
             "name": "Akina",
             "name_history": [
@@ -10675,11 +10675,11 @@
         "38174103118547290": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "ゆきにゃまる's Apprentice,0",
+            "equipping_title": "noeLe's Apprentice,0",
             "gender": 1,
-            "hp": 361327.1875,
-            "last_seen": 1766096757,
-            "level": 59,
+            "hp": 407895.78125,
+            "last_seen": 1766436034,
+            "level": 60,
             "name": "ましろ",
             "name_history": [
                 "ましろ"
@@ -56853,9 +56853,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 421567.21875,
-            "last_seen": 1766014698,
-            "level": 60,
+            "hp": 484758.625,
+            "last_seen": 1766436034,
+            "level": 62,
             "name": "Naye",
             "name_history": [
                 "Naye"
@@ -74272,6 +74272,22 @@
             "role_id": 38174103118600788,
             "server_region": "ws_asia_01"
         },
+        "38174103118600810": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70450.0,
+            "last_seen": 1766436034,
+            "level": 21,
+            "name": "etheria",
+            "name_history": [
+                "etheria"
+            ],
+            "registered": "Dec 16, 2025, 11:09:34 PM",
+            "role_id": 38174103118600810,
+            "server_region": "ws_asia_01"
+        },
         "38174103118600825": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
@@ -75121,8 +75137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4695,
+    "accounts_total": 4696,
     "created": 1764092421,
-    "last_updated": 1766435734,
+    "last_updated": 1766436034,
     "server_region": "ws_asia_01"
 }
