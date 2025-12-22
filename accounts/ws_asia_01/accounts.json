@@ -179,11 +179,11 @@
         "38174103118544927": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "1_6_4_5",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 550068.5,
-            "last_seen": 1766343210,
-            "level": 61,
+            "hp": 563668.3125,
+            "last_seen": 1766430582,
+            "level": 62,
             "name": "ネロ",
             "name_history": [
                 "ネロ"
@@ -11014,7 +11014,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 543773.0,
-            "last_seen": 1766366117,
+            "last_seen": 1766430582,
             "level": 62,
             "name": "うき",
             "name_history": [
@@ -24849,13 +24849,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118557139": {
-            "crew_id": 171807579941,
-            "crew_name": "GUARDIAN",
+            "crew_id": 2065888157477,
+            "crew_name": "BAD COMPANY",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 394449.0,
-            "last_seen": 1765660902,
-            "level": 58,
+            "hp": 408273.59375,
+            "last_seen": 1766430582,
+            "level": 60,
             "name": "BabyRya",
             "name_history": [
                 "BabyRya"
@@ -73424,6 +73424,22 @@
             "role_id": 38174103118598688,
             "server_region": "ws_asia_01"
         },
+        "38174103118598701": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 154867.0,
+            "last_seen": 1766430582,
+            "level": 59,
+            "name": "ToFu.",
+            "name_history": [
+                "ToFu."
+            ],
+            "registered": "Dec 13, 2025, 5:28:34 PM",
+            "role_id": 38174103118598701,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598728": {
             "crew_id": 0,
             "crew_name": "",
@@ -74881,8 +74897,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4680,
+    "accounts_total": 4681,
     "created": 1764092421,
-    "last_updated": 1766430342,
+    "last_updated": 1766430582,
     "server_region": "ws_asia_01"
 }
