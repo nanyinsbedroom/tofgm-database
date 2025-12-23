@@ -13395,11 +13395,11 @@
         "38174103118550750": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "None",
+            "equipping_title": "りらっくす's Apprentice,0",
             "gender": 1,
-            "hp": 382066.0,
-            "last_seen": 1765516743,
-            "level": 57,
+            "hp": 522608.96875,
+            "last_seen": 1766537521,
+            "level": 62,
             "name": "茜星",
             "name_history": [
                 "茜星"
@@ -14641,13 +14641,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118551897": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 68764.0,
-            "last_seen": 1764112991,
-            "level": 16,
+            "hp": 533066.0,
+            "last_seen": 1766537521,
+            "level": 63,
             "name": "マルリ",
             "name_history": [
                 "マルリ"
@@ -41253,8 +41253,8 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "WorldBossDamage_1;boss_hum_044_world;1",
             "gender": 1,
-            "hp": 499725.96875,
-            "last_seen": 1766465867,
+            "hp": 248125.796875,
+            "last_seen": 1766537521,
             "level": 63,
             "name": "シェラザードMKⅡ",
             "name_history": [
@@ -76352,6 +76352,22 @@
             "role_id": 38174103118601897,
             "server_region": "ws_asia_01"
         },
+        "38174103118601921": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 201113.40625,
+            "last_seen": 1766537521,
+            "level": 49,
+            "name": "茜飴",
+            "name_history": [
+                "茜飴"
+            ],
+            "registered": "Dec 19, 2025, 12:18:34 AM",
+            "role_id": 38174103118601921,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601962": {
             "crew_id": 0,
             "crew_name": "",
@@ -77153,8 +77169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4822,
+    "accounts_total": 4823,
     "created": 1764092421,
-    "last_updated": 1766536740,
+    "last_updated": 1766537521,
     "server_region": "ws_asia_01"
 }
