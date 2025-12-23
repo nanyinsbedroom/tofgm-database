@@ -2517,8 +2517,8 @@
             "crew_name": "EROGE",
             "equipping_title": "Ponyers's Mentor,0",
             "gender": 1,
-            "hp": 648376.5,
-            "last_seen": 1766450732,
+            "hp": 648376.4375,
+            "last_seen": 1766506909,
             "level": 63,
             "name": "Dwin",
             "name_history": [
@@ -6277,8 +6277,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 578576.25,
-            "last_seen": 1766468870,
+            "hp": 510402.84375,
+            "last_seen": 1766506909,
             "level": 63,
             "name": "Saunts",
             "name_history": [
@@ -6526,6 +6526,22 @@
             ],
             "registered": "Nov 25, 2025, 5:07:37 PM",
             "role_id": 38174103118546046,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118546053": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 578447.0,
+            "last_seen": 1766506909,
+            "level": 63,
+            "name": "Garnet",
+            "name_history": [
+                "Garnet"
+            ],
+            "registered": "Nov 25, 2025, 5:07:42 PM",
+            "role_id": 38174103118546053,
             "server_region": "ws_asia_01"
         },
         "38174103118546058": {
@@ -18885,8 +18901,8 @@
             "crew_name": "Arcana’s XVI",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 490567.1875,
-            "last_seen": 1766442449,
+            "hp": 501673.0,
+            "last_seen": 1766506909,
             "level": 63,
             "name": "もちもちまんじゅう",
             "name_history": [
@@ -36150,7 +36166,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 636972.4375,
-            "last_seen": 1766434953,
+            "last_seen": 1766506909,
             "level": 63,
             "name": "Semaj",
             "name_history": [
@@ -76433,8 +76449,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4777,
+    "accounts_total": 4778,
     "created": 1764092421,
-    "last_updated": 1766506849,
+    "last_updated": 1766506909,
     "server_region": "ws_asia_01"
 }
