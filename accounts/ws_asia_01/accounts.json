@@ -1957,8 +1957,8 @@
             "crew_name": "EROGE",
             "equipping_title": "2_8_0_6",
             "gender": 1,
-            "hp": 633810.5,
-            "last_seen": 1766507750,
+            "hp": 609388.5625,
+            "last_seen": 1766535960,
             "level": 63,
             "name": "Amelia",
             "name_history": [
@@ -2981,9 +2981,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 580099.8125,
-            "last_seen": 1766350872,
-            "level": 62,
+            "hp": 599282.6875,
+            "last_seen": 1766535960,
+            "level": 63,
             "name": "pesy",
             "name_history": [
                 "pesy"
@@ -11733,8 +11733,8 @@
             "crew_name": "StarsUs",
             "equipping_title": "WorldBossDamage_2;Boss_hum_030_world;6",
             "gender": 1,
-            "hp": 563476.75,
-            "last_seen": 1766526043,
+            "hp": 589629.5625,
+            "last_seen": 1766535960,
             "level": 63,
             "name": "mamah dede",
             "name_history": [
@@ -14643,11 +14643,11 @@
         "38174103118551959": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_061_World;17",
             "gender": 1,
-            "hp": 199806.015625,
-            "last_seen": 1764731285,
-            "level": 48,
+            "hp": 609503.0,
+            "last_seen": 1766535960,
+            "level": 63,
             "name": "Lotusdorei",
             "name_history": [
                 "Lotusdorei"
@@ -16069,9 +16069,9 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 564641.0,
-            "last_seen": 1766342078,
-            "level": 62,
+            "hp": 575429.4375,
+            "last_seen": 1766535960,
+            "level": 63,
             "name": "Vape",
             "name_history": [
                 "Vape"
@@ -66801,13 +66801,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118587166": {
-            "crew_id": 1821075021605,
-            "crew_name": "MEKODIANS",
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 497087.875,
-            "last_seen": 1766365037,
-            "level": 62,
+            "hp": 557436.0,
+            "last_seen": 1766535960,
+            "level": 63,
             "name": "ibo",
             "name_history": [
                 "ibo"
@@ -74832,6 +74832,22 @@
             "role_id": 38174103118598573,
             "server_region": "ws_asia_01"
         },
+        "38174103118598596": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 363915.625,
+            "last_seen": 1766535960,
+            "level": 63,
+            "name": "Sinna",
+            "name_history": [
+                "Sinna"
+            ],
+            "registered": "Dec 13, 2025, 1:27:55 PM",
+            "role_id": 38174103118598596,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598606": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -77057,8 +77073,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4816,
+    "accounts_total": 4817,
     "created": 1764092421,
-    "last_updated": 1766535900,
+    "last_updated": 1766535960,
     "server_region": "ws_asia_01"
 }
