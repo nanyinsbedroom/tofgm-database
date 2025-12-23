@@ -34243,11 +34243,11 @@
         "38174103118560475": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "Gawza's Mentor,0",
+            "equipping_title": "พ่องมึง's Mentor,0",
             "gender": 0,
-            "hp": 562126.8125,
-            "last_seen": 1766293462,
-            "level": 62,
+            "hp": 621730.25,
+            "last_seen": 1766514297,
+            "level": 63,
             "name": "Summer",
             "name_history": [
                 "Summer"
@@ -69056,6 +69056,22 @@
             "role_id": 38174103118589689,
             "server_region": "ws_asia_01"
         },
+        "38174103118589721": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 146146.0,
+            "last_seen": 1766514297,
+            "level": 58,
+            "name": "イクト",
+            "name_history": [
+                "イクト"
+            ],
+            "registered": "Dec 2, 2025, 5:59:57 PM",
+            "role_id": 38174103118589721,
+            "server_region": "ws_asia_01"
+        },
         "38174103118589724": {
             "crew_id": 0,
             "crew_name": "",
@@ -76768,6 +76784,22 @@
             "role_id": 38174103118603904,
             "server_region": "ws_asia_01"
         },
+        "38174103118603914": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 59356.0,
+            "last_seen": 1766514297,
+            "level": 16,
+            "name": "XZAI",
+            "name_history": [
+                "XZAI"
+            ],
+            "registered": "Dec 22, 2025, 9:09:14 PM",
+            "role_id": 38174103118603914,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604004": {
             "crew_id": 0,
             "crew_name": "",
@@ -76801,8 +76833,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4800,
+    "accounts_total": 4802,
     "created": 1764092421,
-    "last_updated": 1766514237,
+    "last_updated": 1766514297,
     "server_region": "ws_asia_01"
 }
