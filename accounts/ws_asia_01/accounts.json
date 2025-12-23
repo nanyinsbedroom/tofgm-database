@@ -2933,9 +2933,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 446709.59375,
-            "last_seen": 1766263453,
-            "level": 61,
+            "hp": 456021.59375,
+            "last_seen": 1766536260,
+            "level": 62,
             "name": "Yuukarin",
             "name_history": [
                 "Yuukarin"
@@ -5614,6 +5614,22 @@
             ],
             "registered": "Nov 25, 2025, 5:05:29 PM",
             "role_id": 38174103118545840,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545844": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "2_8_0_2",
+            "gender": 1,
+            "hp": 512026.8125,
+            "last_seen": 1766536260,
+            "level": 63,
+            "name": "Ohagi man",
+            "name_history": [
+                "Ohagi man"
+            ],
+            "registered": "Nov 25, 2025, 5:05:30 PM",
+            "role_id": 38174103118545844,
             "server_region": "ws_asia_01"
         },
         "38174103118545845": {
@@ -9429,8 +9445,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 600312.1875,
-            "last_seen": 1766465988,
+            "hp": 601823.3125,
+            "last_seen": 1766536260,
             "level": 63,
             "name": "Leʍon√PeNa",
             "name_history": [
@@ -32965,9 +32981,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 525937.5625,
-            "last_seen": 1766095676,
-            "level": 61,
+            "hp": 574686.1875,
+            "last_seen": 1766536260,
+            "level": 63,
             "name": "Tsg",
             "name_history": [
                 "Tsg"
@@ -61829,9 +61845,9 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 570905.625,
-            "last_seen": 1766293462,
-            "level": 62,
+            "hp": 587516.5,
+            "last_seen": 1766536260,
+            "level": 63,
             "name": "雪色みゆ",
             "name_history": [
                 "雪色みゆ"
@@ -70832,6 +70848,22 @@
             "role_id": 38174103118591391,
             "server_region": "ws_asia_01"
         },
+        "38174103118591411": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 428540.625,
+            "last_seen": 1766536260,
+            "level": 62,
+            "name": "Anita",
+            "name_history": [
+                "Anita"
+            ],
+            "registered": "Dec 4, 2025, 5:09:58 AM",
+            "role_id": 38174103118591411,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591423": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
@@ -77105,8 +77137,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4819,
+    "accounts_total": 4821,
     "created": 1764092421,
-    "last_updated": 1766536200,
+    "last_updated": 1766536260,
     "server_region": "ws_asia_01"
 }
