@@ -1152,6 +1152,22 @@
             "role_id": 38174103118545061,
             "server_region": "ws_asia_01"
         },
+        "38174103118545064": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 526578.625,
+            "last_seen": 1766527965,
+            "level": 63,
+            "name": "ヘレネー・ウェステンフルス",
+            "name_history": [
+                "ヘレネー・ウェステンフルス"
+            ],
+            "registered": "Nov 25, 2025, 5:01:54 PM",
+            "role_id": 38174103118545064,
+            "server_region": "ws_asia_01"
+        },
         "38174103118545065": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
@@ -68213,8 +68229,8 @@
             "crew_name": "Fractsidus",
             "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;58",
             "gender": 0,
-            "hp": 579017.5,
-            "last_seen": 1766463172,
+            "hp": 576155.0,
+            "last_seen": 1766527965,
             "level": 63,
             "name": "Krios",
             "name_history": [
@@ -76847,10 +76863,26 @@
             "registered": "Dec 23, 2025, 3:56:43 PM",
             "role_id": 38174103118604266,
             "server_region": "ws_asia_01"
+        },
+        "38174103118604311": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 33907.0,
+            "last_seen": 1766527965,
+            "level": 11,
+            "name": "Une",
+            "name_history": [
+                "Une"
+            ],
+            "registered": "Dec 23, 2025, 6:53:05 PM",
+            "role_id": 38174103118604311,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4803,
+    "accounts_total": 4805,
     "created": 1764092421,
-    "last_updated": 1766527604,
+    "last_updated": 1766527965,
     "server_region": "ws_asia_01"
 }
