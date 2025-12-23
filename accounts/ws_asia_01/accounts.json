@@ -1059,11 +1059,11 @@
         "38174103118545053": {
             "crew_id": 833232543525,
             "crew_name": "セレスティア戦闘狂団",
-            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;81",
+            "equipping_title": "WorldBossDamage_1;boss_hum_052_world;1",
             "gender": 1,
-            "hp": 556214.0,
-            "last_seen": 1766366298,
-            "level": 62,
+            "hp": 567292.4375,
+            "last_seen": 1766513756,
+            "level": 63,
             "name": "ドヴェルグ",
             "name_history": [
                 "ドヴェルグ"
@@ -18483,11 +18483,11 @@
         "38174103118554755": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;46",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 330452.40625,
-            "last_seen": 1766341838,
-            "level": 60,
+            "hp": 339111.625,
+            "last_seen": 1766513756,
+            "level": 61,
             "name": "ほたてちゃん",
             "name_history": [
                 "ほたてちゃん"
@@ -27918,6 +27918,22 @@
             ],
             "registered": "Nov 25, 2025, 8:25:06 PM",
             "role_id": 38174103118558019,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558023": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 118001.3984375,
+            "last_seen": 1766513756,
+            "level": 48,
+            "name": "Chijuro",
+            "name_history": [
+                "Chijuro"
+            ],
+            "registered": "Nov 25, 2025, 8:25:11 PM",
+            "role_id": 38174103118558023,
             "server_region": "ws_asia_01"
         },
         "38174103118558028": {
@@ -43397,9 +43413,9 @@
             "crew_name": "BAD COMPANY",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 499711.8125,
-            "last_seen": 1766290074,
-            "level": 62,
+            "hp": 538251.25,
+            "last_seen": 1766513756,
+            "level": 63,
             "name": "AweiDavid",
             "name_history": [
                 "AweiDavid"
@@ -43974,7 +43990,7 @@
             "equipping_title": "2_2_0_31",
             "gender": 0,
             "hp": 624154.0625,
-            "last_seen": 1766506729,
+            "last_seen": 1766513756,
             "level": 63,
             "name": "ボリス",
             "name_history": [
@@ -49813,9 +49829,9 @@
             "crew_name": "くまたん！",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 440691.03125,
-            "last_seen": 1766290700,
-            "level": 62,
+            "hp": 444089.40625,
+            "last_seen": 1766513756,
+            "level": 63,
             "name": "コロニャン",
             "name_history": [
                 "コロニャン"
@@ -52581,8 +52597,8 @@
             "crew_name": "Alter",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 546385.625,
-            "last_seen": 1766463052,
+            "hp": 572315.9375,
+            "last_seen": 1766513756,
             "level": 63,
             "name": "yohratwoB",
             "name_history": [
@@ -59395,11 +59411,11 @@
         "38174103118580619": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "WorldBossDamage_3;boss_hum_067_World;11",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 560817.75,
-            "last_seen": 1766334657,
-            "level": 62,
+            "hp": 576336.25,
+            "last_seen": 1766513756,
+            "level": 63,
             "name": "Finz",
             "name_history": [
                 "Finz"
@@ -76721,8 +76737,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4795,
+    "accounts_total": 4796,
     "created": 1764092421,
-    "last_updated": 1766513696,
+    "last_updated": 1766513756,
     "server_region": "ws_asia_01"
 }
