@@ -5221,8 +5221,8 @@
             "crew_name": "Wyverns",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 542078.1875,
-            "last_seen": 1766451573,
+            "hp": 546683.8125,
+            "last_seen": 1766506969,
             "level": 63,
             "name": "Ian.",
             "name_history": [
@@ -21619,11 +21619,11 @@
         "38174103118555934": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "1_1_18_1",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 379258.21875,
-            "last_seen": 1765059997,
-            "level": 52,
+            "hp": 649439.1875,
+            "last_seen": 1766506969,
+            "level": 63,
             "name": "KyuRaku. ",
             "name_history": [
                 "KyuRaku. "
@@ -75584,6 +75584,22 @@
             "role_id": 38174103118601613,
             "server_region": "ws_asia_01"
         },
+        "38174103118601692": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 136126.0,
+            "last_seen": 1766506969,
+            "level": 48,
+            "name": "なゆた",
+            "name_history": [
+                "なゆた"
+            ],
+            "registered": "Dec 18, 2025, 12:59:48 PM",
+            "role_id": 38174103118601692,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601745": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
@@ -76449,8 +76465,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4778,
+    "accounts_total": 4779,
     "created": 1764092421,
-    "last_updated": 1766506909,
+    "last_updated": 1766506969,
     "server_region": "ws_asia_01"
 }
