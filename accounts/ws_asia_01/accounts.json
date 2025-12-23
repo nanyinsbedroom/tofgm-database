@@ -15765,9 +15765,9 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 317971.1875,
-            "last_seen": 1766333577,
-            "level": 60,
+            "hp": 350120.1875,
+            "last_seen": 1766539489,
+            "level": 62,
             "name": "Arona",
             "name_history": [
                 "Arona"
@@ -19825,13 +19825,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118555198": {
-            "crew_id": 485340192549,
-            "crew_name": "コネクト",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 257146.0,
-            "last_seen": 1765224908,
-            "level": 52,
+            "hp": 498200.34375,
+            "last_seen": 1766539489,
+            "level": 62,
             "name": "ohirune",
             "name_history": [
                 "ohirune"
@@ -77168,6 +77168,22 @@
             "role_id": 38174103118604004,
             "server_region": "ws_asia_01"
         },
+        "38174103118604048": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 27674.0,
+            "last_seen": 1766539489,
+            "level": 12,
+            "name": "Нина",
+            "name_history": [
+                "Нина"
+            ],
+            "registered": "Dec 23, 2025, 2:41:33 AM",
+            "role_id": 38174103118604048,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604266": {
             "crew_id": 0,
             "crew_name": "",
@@ -77201,8 +77217,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4825,
+    "accounts_total": 4826,
     "created": 1764092421,
-    "last_updated": 1766539369,
+    "last_updated": 1766539489,
     "server_region": "ws_asia_01"
 }
