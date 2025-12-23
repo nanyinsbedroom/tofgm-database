@@ -21667,11 +21667,11 @@
         "38174103118555947": {
             "crew_id": 262001893157,
             "crew_name": "Restart",
-            "equipping_title": "WorldBossDamage_3;boss_hum_059_world;30",
+            "equipping_title": "WorldBossDamage_2;boss_hum_059_world;5",
             "gender": 1,
-            "hp": 161799.390625,
-            "last_seen": 1765126391,
-            "level": 53,
+            "hp": 617356.0625,
+            "last_seen": 1766511586,
+            "level": 63,
             "name": "maccha7",
             "name_history": [
                 "maccha7"
@@ -69603,11 +69603,11 @@
         "38174103118590449": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_4;boss_hum_074_world;39",
             "gender": 1,
-            "hp": 450871.5,
-            "last_seen": 1765852705,
-            "level": 59,
+            "hp": 568202.5,
+            "last_seen": 1766511586,
+            "level": 63,
             "name": "xNoia",
             "name_history": [
                 "xNoia"
@@ -76576,6 +76576,22 @@
             "role_id": 38174103118603890,
             "server_region": "ws_asia_01"
         },
+        "38174103118603904": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 47636.0,
+            "last_seen": 1766511586,
+            "level": 16,
+            "name": "มานากะ",
+            "name_history": [
+                "มานากะ"
+            ],
+            "registered": "Dec 22, 2025, 8:51:01 PM",
+            "role_id": 38174103118603904,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604004": {
             "crew_id": 0,
             "crew_name": "",
@@ -76609,8 +76625,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4788,
+    "accounts_total": 4789,
     "created": 1764092421,
-    "last_updated": 1766511406,
+    "last_updated": 1766511586,
     "server_region": "ws_asia_01"
 }
