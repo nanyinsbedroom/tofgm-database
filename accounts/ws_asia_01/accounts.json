@@ -1877,9 +1877,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 577836.75,
-            "last_seen": 1766349215,
-            "level": 62,
+            "hp": 593066.4375,
+            "last_seen": 1766506789,
+            "level": 63,
             "name": "じゅにあ",
             "name_history": [
                 "じゅにあ"
@@ -22979,11 +22979,11 @@
         "38174103118556345": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;boss_hum_074_world;3",
             "gender": 1,
-            "hp": 573893.75,
-            "last_seen": 1766334357,
-            "level": 62,
+            "hp": 600741.0,
+            "last_seen": 1766506789,
+            "level": 63,
             "name": "ユイカ",
             "name_history": [
                 "ユイカ"
@@ -26771,11 +26771,11 @@
         "38174103118557687": {
             "crew_id": 382260977445,
             "crew_name": "Rst",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_020_world;1",
             "gender": 1,
-            "hp": 265669.0,
-            "last_seen": 1764525480,
-            "level": 44,
+            "hp": 566447.625,
+            "last_seen": 1766506789,
+            "level": 63,
             "name": "おむすび",
             "name_history": [
                 "おむすび"
@@ -48481,13 +48481,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118569708": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 77318299429,
+            "crew_name": "GamuGakuen",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 63190.0,
-            "last_seen": 1764202844,
-            "level": 20,
+            "hp": 390109.8125,
+            "last_seen": 1766506789,
+            "level": 60,
             "name": "Luwe",
             "name_history": [
                 "Luwe"
@@ -63557,8 +63557,8 @@
             "crew_name": "WeWillWin",
             "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;53",
             "gender": 0,
-            "hp": 373586.4375,
-            "last_seen": 1766458125,
+            "hp": 527930.625,
+            "last_seen": 1766506789,
             "level": 63,
             "name": "WCKD",
             "name_history": [
@@ -67374,6 +67374,22 @@
             ],
             "registered": "Dec 1, 2025, 5:38:59 PM",
             "role_id": 38174103118588357,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118588365": {
+            "crew_id": 854707380005,
+            "crew_name": "XCEED",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 262896.625,
+            "last_seen": 1766506789,
+            "level": 50,
+            "name": "MinaMitsuki",
+            "name_history": [
+                "MinaMitsuki"
+            ],
+            "registered": "Dec 1, 2025, 5:49:30 PM",
+            "role_id": 38174103118588365,
             "server_region": "ws_asia_01"
         },
         "38174103118588366": {
@@ -76385,8 +76401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4774,
+    "accounts_total": 4775,
     "created": 1764092421,
-    "last_updated": 1766506729,
+    "last_updated": 1766506789,
     "server_region": "ws_asia_01"
 }
