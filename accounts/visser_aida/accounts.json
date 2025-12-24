@@ -309,6 +309,22 @@
             "role_id": 60567628824937,
             "server_region": "visser_aida"
         },
+        "60567628825082": {
+            "crew_id": 1958505101084,
+            "crew_name": "星海旅人",
+            "equipping_title": "2_2_0_92",
+            "gender": 1,
+            "hp": 33805332.0,
+            "last_seen": 1766611259,
+            "level": 100,
+            "name": "田所浩二",
+            "name_history": [
+                "田所浩二"
+            ],
+            "registered": "2021年12月16日 上午11:13:52",
+            "role_id": 60567628825082,
+            "server_region": "visser_aida"
+        },
         "60567628826953": {
             "crew_id": 481036351254,
             "crew_name": "星语星愿",
@@ -1052,12 +1068,15 @@
         "60567630279361": {
             "crew_id": 103079229226,
             "crew_name": "星陨阁",
-            "equipping_title": "1_6_3_1",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1617818.125,
-            "last_seen": 1761569146,
+            "hp": 33463480.0,
+            "last_seen": 1766611259,
             "level": 100,
             "name": "Stagnant",
+            "name_history": [
+                "Stagnant"
+            ],
             "registered": "2024年7月19日 上午1:57:24",
             "role_id": 60567630279361,
             "server_region": "visser_aida"
@@ -5609,8 +5628,8 @@
             "crew_name": "绯月",
             "equipping_title": "3_2021",
             "gender": 0,
-            "hp": 1829900.125,
-            "last_seen": 1766353626,
+            "hp": 31815096.0,
+            "last_seen": 1766611259,
             "level": 100,
             "name": "法尔法",
             "name_history": [
@@ -11030,8 +11049,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 826,
+    "accounts_total": 827,
     "created": 1758086949,
-    "last_updated": 1766611139,
+    "last_updated": 1766611259,
     "server_region": "visser_aida"
 }
