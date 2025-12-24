@@ -3941,8 +3941,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 559386.75,
-            "last_seen": 1766616690,
+            "hp": 561426.125,
+            "last_seen": 1766624519,
             "level": 63,
             "name": "Drashel",
             "name_history": [
@@ -22886,7 +22886,7 @@
             "equipping_title": "2_8_0_3",
             "gender": 1,
             "hp": 635144.25,
-            "last_seen": 1766617651,
+            "last_seen": 1766624519,
             "level": 64,
             "name": "REN.",
             "name_history": [
@@ -42478,6 +42478,22 @@
             ],
             "registered": "Nov 26, 2025, 2:40:54 AM",
             "role_id": 38174103118564438,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118564449": {
+            "crew_id": 17188757285,
+            "crew_name": "OdysseyID",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;78",
+            "gender": 1,
+            "hp": 565958.375,
+            "last_seen": 1766624519,
+            "level": 64,
+            "name": "Noet",
+            "name_history": [
+                "Noet"
+            ],
+            "registered": "Nov 26, 2025, 2:41:40 AM",
+            "role_id": 38174103118564449,
             "server_region": "ws_asia_01"
         },
         "38174103118564474": {
@@ -77185,13 +77201,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118602809": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 215456.59375,
-            "last_seen": 1766347173,
-            "level": 54,
+            "hp": 447405.40625,
+            "last_seen": 1766624519,
+            "level": 63,
             "name": "YukihimeSOAFlw",
             "name_history": [
                 "YukihimeSOAFlw"
@@ -77825,8 +77841,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4864,
+    "accounts_total": 4865,
     "created": 1764092421,
-    "last_updated": 1766624459,
+    "last_updated": 1766624519,
     "server_region": "ws_asia_01"
 }
