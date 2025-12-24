@@ -1441,13 +1441,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545106": {
-            "crew_id": 352196206373,
-            "crew_name": "ミッドナイト",
-            "equipping_title": "1_1_1_1",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "1_1_27_1",
             "gender": 1,
-            "hp": 177909.109375,
-            "last_seen": 1764485900,
-            "level": 43,
+            "hp": 601345.3125,
+            "last_seen": 1766595283,
+            "level": 64,
             "name": "モブドリ",
             "name_history": [
                 "モブドリ"
@@ -5038,6 +5038,22 @@
             ],
             "registered": "Nov 25, 2025, 5:04:31 PM",
             "role_id": 38174103118545712,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118545713": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 497116.4375,
+            "last_seen": 1766595283,
+            "level": 64,
+            "name": "オイオイ",
+            "name_history": [
+                "オイオイ"
+            ],
+            "registered": "Nov 25, 2025, 5:04:32 PM",
+            "role_id": 38174103118545713,
             "server_region": "ws_asia_01"
         },
         "38174103118545719": {
@@ -41107,11 +41123,11 @@
         "38174103118563812": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;2",
+            "equipping_title": "WorldBossDamage_1;boss_hum_045_world;3",
             "gender": 0,
-            "hp": 560020.0625,
-            "last_seen": 1766014518,
-            "level": 60,
+            "hp": 589085.75,
+            "last_seen": 1766595283,
+            "level": 63,
             "name": "Chatty",
             "name_history": [
                 "Chatty"
@@ -62197,9 +62213,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 567657.25,
-            "last_seen": 1766526103,
-            "level": 63,
+            "hp": 587766.4375,
+            "last_seen": 1766595283,
+            "level": 64,
             "name": "Tomoi",
             "name_history": [
                 "Tomoi"
@@ -76688,6 +76704,22 @@
             "role_id": 38174103118602541,
             "server_region": "ws_asia_01"
         },
+        "38174103118602573": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54333.0546875,
+            "last_seen": 1766595283,
+            "level": 17,
+            "name": "TioTzy",
+            "name_history": [
+                "TioTzy"
+            ],
+            "registered": "Dec 20, 2025, 9:28:23 AM",
+            "role_id": 38174103118602573,
+            "server_region": "ws_asia_01"
+        },
         "38174103118602640": {
             "crew_id": 0,
             "crew_name": "",
@@ -77265,8 +77297,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4829,
+    "accounts_total": 4831,
     "created": 1764092421,
-    "last_updated": 1766595042,
+    "last_updated": 1766595283,
     "server_region": "ws_asia_01"
 }
