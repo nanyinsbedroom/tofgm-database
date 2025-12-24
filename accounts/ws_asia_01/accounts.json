@@ -22675,11 +22675,11 @@
         "38174103118556188": {
             "crew_id": 30073659173,
             "crew_name": "ミスティルテイン",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_2;boss_hum_074_world;10",
             "gender": 1,
-            "hp": 532032.0,
-            "last_seen": 1766174672,
-            "level": 61,
+            "hp": 593544.3125,
+            "last_seen": 1766617651,
+            "level": 64,
             "name": "ハマグリさん",
             "name_history": [
                 "ハマグリさん"
@@ -22883,11 +22883,11 @@
         "38174103118556260": {
             "crew_id": 51548495653,
             "crew_name": "Hykros",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 610648.75,
-            "last_seen": 1766465988,
-            "level": 63,
+            "hp": 635144.25,
+            "last_seen": 1766617651,
+            "level": 64,
             "name": "REN.",
             "name_history": [
                 "REN."
@@ -63875,14 +63875,14 @@
         "38174103118583727": {
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_057_world;21",
             "gender": 1,
-            "hp": 224121.0,
-            "last_seen": 1764875673,
-            "level": 50,
-            "name": "melvs",
+            "hp": 624087.125,
+            "last_seen": 1766617651,
+            "level": 64,
+            "name": "Outlaw",
             "name_history": [
-                "melvs"
+                "Outlaw"
             ],
             "registered": "Nov 29, 2025, 4:22:10 PM",
             "role_id": 38174103118583727,
@@ -77747,6 +77747,6 @@
     },
     "accounts_total": 4859,
     "created": 1764092421,
-    "last_updated": 1766617591,
+    "last_updated": 1766617651,
     "server_region": "ws_asia_01"
 }
