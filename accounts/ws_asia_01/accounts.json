@@ -3942,7 +3942,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 532722.375,
-            "last_seen": 1766535359,
+            "last_seen": 1766605911,
             "level": 63,
             "name": "Drashel",
             "name_history": [
@@ -52896,6 +52896,22 @@
             "role_id": 38174103118574232,
             "server_region": "ws_asia_01"
         },
+        "38174103118574244": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 62306.0,
+            "last_seen": 1766605911,
+            "level": 14,
+            "name": "Obolos",
+            "name_history": [
+                "Obolos"
+            ],
+            "registered": "Nov 27, 2025, 12:19:59 AM",
+            "role_id": 38174103118574244,
+            "server_region": "ws_asia_01"
+        },
         "38174103118574252": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
@@ -59491,11 +59507,11 @@
         "38174103118580269": {
             "crew_id": 1189714829093,
             "crew_name": "ムーンライトスピード",
-            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;71",
+            "equipping_title": "1_1_20_1",
             "gender": 1,
-            "hp": 574068.8125,
-            "last_seen": 1766526043,
-            "level": 63,
+            "hp": 590614.75,
+            "last_seen": 1766605911,
+            "level": 64,
             "name": "れいさん",
             "name_history": [
                 "れいさん"
@@ -77505,8 +77521,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4844,
+    "accounts_total": 4845,
     "created": 1764092421,
-    "last_updated": 1766604289,
+    "last_updated": 1766605911,
     "server_region": "ws_asia_01"
 }
