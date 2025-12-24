@@ -6101,9 +6101,9 @@
             "crew_name": "CASTLE",
             "equipping_title": "WorldBossDamage_4;boss_hum_074_world;60",
             "gender": 1,
-            "hp": 573630.75,
-            "last_seen": 1766540210,
-            "level": 63,
+            "hp": 561537.9375,
+            "last_seen": 1766619213,
+            "level": 64,
             "name": "Aruf",
             "name_history": [
                 "Aruf"
@@ -26837,8 +26837,8 @@
             "crew_name": "StarsUs",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 639717.9375,
-            "last_seen": 1766595943,
+            "hp": 649638.9375,
+            "last_seen": 1766619213,
             "level": 64,
             "name": "Sherry",
             "name_history": [
@@ -42771,11 +42771,11 @@
         "38174103118564636": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 324536.40625,
-            "last_seen": 1765124723,
-            "level": 52,
+            "hp": 587421.875,
+            "last_seen": 1766619213,
+            "level": 63,
             "name": "FateMaker",
             "name_history": [
                 "FateMaker"
@@ -68549,9 +68549,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 498682.1875,
-            "last_seen": 1766444439,
-            "level": 63,
+            "hp": 545408.875,
+            "last_seen": 1766619213,
+            "level": 64,
             "name": "Richan",
             "name_history": [
                 "Richan"
@@ -77040,6 +77040,22 @@
             "role_id": 38174103118602407,
             "server_region": "ws_asia_01"
         },
+        "38174103118602454": {
+            "crew_id": 2289226456869,
+            "crew_name": "Fire Ember",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 161309.203125,
+            "last_seen": 1766619213,
+            "level": 50,
+            "name": "kaiseryu",
+            "name_history": [
+                "kaiseryu"
+            ],
+            "registered": "Dec 20, 2025, 3:01:56 AM",
+            "role_id": 38174103118602454,
+            "server_region": "ws_asia_01"
+        },
         "38174103118602515": {
             "crew_id": 0,
             "crew_name": "",
@@ -77777,8 +77793,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4861,
+    "accounts_total": 4862,
     "created": 1764092421,
-    "last_updated": 1766619153,
+    "last_updated": 1766619213,
     "server_region": "ws_asia_01"
 }
