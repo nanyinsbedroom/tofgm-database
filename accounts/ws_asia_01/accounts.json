@@ -83,11 +83,11 @@
         "38174103118544915": {
             "crew_id": 244822023973,
             "crew_name": "女神の祝福・霞",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;boss_hum_053_world;3",
             "gender": 0,
-            "hp": 651879.5625,
-            "last_seen": 1766295561,
-            "level": 62,
+            "hp": 637768.75,
+            "last_seen": 1766725078,
+            "level": 64,
             "name": "kuesu",
             "name_history": [
                 "kuesu"
@@ -966,7 +966,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 568759.5625,
-            "last_seen": 1766720826,
+            "last_seen": 1766725078,
             "level": 64,
             "name": "Inorinae",
             "name_history": [
@@ -14849,13 +14849,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118552107": {
-            "crew_id": 214757252901,
-            "crew_name": "幻塔の星騎士",
-            "equipping_title": "1_7_1_1",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 409257.0,
-            "last_seen": 1766299652,
-            "level": 62,
+            "hp": 504933.53125,
+            "last_seen": 1766725078,
+            "level": 64,
             "name": "justin",
             "name_history": [
                 "justin"
@@ -17301,9 +17301,9 @@
             "crew_name": "Hykros",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 492503.84375,
-            "last_seen": 1766340877,
-            "level": 62,
+            "hp": 552258.1875,
+            "last_seen": 1766725078,
+            "level": 64,
             "name": "Icarus",
             "name_history": [
                 "Icarus"
@@ -28454,7 +28454,7 @@
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;1",
             "gender": 1,
             "hp": 664708.875,
-            "last_seen": 1766720886,
+            "last_seen": 1766725078,
             "level": 64,
             "name": "woof woof",
             "name_history": [
@@ -29493,8 +29493,8 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 647632.0625,
-            "last_seen": 1766720946,
+            "hp": 657572.625,
+            "last_seen": 1766725078,
             "level": 64,
             "name": "Zoe Chu",
             "name_history": [
@@ -33349,9 +33349,9 @@
             "crew_name": "低スペックチーム",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 521733.8125,
-            "last_seen": 1766453614,
-            "level": 63,
+            "hp": 584628.625,
+            "last_seen": 1766725078,
+            "level": 64,
             "name": "どっぐふーどyama",
             "name_history": [
                 "どっぐふーどyama"
@@ -41520,6 +41520,22 @@
             "role_id": 38174103118563943,
             "server_region": "ws_asia_01"
         },
+        "38174103118563956": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 456400.0,
+            "last_seen": 1766725078,
+            "level": 63,
+            "name": "Syaochan",
+            "name_history": [
+                "Syaochan"
+            ],
+            "registered": "Nov 26, 2025, 1:50:30 AM",
+            "role_id": 38174103118563956,
+            "server_region": "ws_asia_01"
+        },
         "38174103118563971": {
             "crew_id": 0,
             "crew_name": "",
@@ -43827,11 +43843,11 @@
         "38174103118565133": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 562409.75,
-            "last_seen": 1766012135,
-            "level": 60,
+            "hp": 565839.6875,
+            "last_seen": 1766725078,
+            "level": 62,
             "name": "Nyaharu",
             "name_history": [
                 "Nyaharu"
@@ -71440,6 +71456,22 @@
             "role_id": 38174103118591628,
             "server_region": "ws_asia_01"
         },
+        "38174103118591641": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 243969.40625,
+            "last_seen": 1766725078,
+            "level": 59,
+            "name": "yaoyao",
+            "name_history": [
+                "yaoyao"
+            ],
+            "registered": "Dec 4, 2025, 1:45:22 PM",
+            "role_id": 38174103118591641,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591653": {
             "crew_id": 279181762341,
             "crew_name": "甘味処パルフェ",
@@ -74161,12 +74193,12 @@
             "server_region": "ws_asia_01"
         },
         "38174103118595792": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 2065888157477,
+            "crew_name": "BAD COMPANY",
             "equipping_title": "None",
             "gender": 1,
             "hp": 144623.0,
-            "last_seen": 1766720886,
+            "last_seen": 1766725078,
             "level": 55,
             "name": "みみっく",
             "name_history": [
@@ -74305,13 +74337,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118596036": {
-            "crew_id": 12893789989,
-            "crew_name": "StarDust",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 326933.40625,
-            "last_seen": 1766295801,
-            "level": 62,
+            "hp": 426696.5625,
+            "last_seen": 1766725078,
+            "level": 64,
             "name": "Autumn Winter",
             "name_history": [
                 "Autumn Winter"
@@ -78129,8 +78161,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4883,
+    "accounts_total": 4885,
     "created": 1764092421,
-    "last_updated": 1766725018,
+    "last_updated": 1766725078,
     "server_region": "ws_asia_01"
 }
