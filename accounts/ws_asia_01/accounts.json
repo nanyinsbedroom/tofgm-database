@@ -7734,7 +7734,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 595842.0,
-            "last_seen": 1766624339,
+            "last_seen": 1766675415,
             "level": 64,
             "name": "R A I Z E N",
             "name_history": [
@@ -10821,9 +10821,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "noeLe's Apprentice,0",
             "gender": 1,
-            "hp": 409455.9375,
-            "last_seen": 1766539129,
-            "level": 61,
+            "hp": 459746.65625,
+            "last_seen": 1766675415,
+            "level": 62,
             "name": "ましろ",
             "name_history": [
                 "ましろ"
@@ -35989,9 +35989,9 @@
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 473299.8125,
-            "last_seen": 1766262372,
-            "level": 62,
+            "hp": 564936.0,
+            "last_seen": 1766675415,
+            "level": 64,
             "name": "Xero",
             "name_history": [
                 "Xero"
@@ -77280,6 +77280,22 @@
             "role_id": 38174103118602916,
             "server_region": "ws_asia_01"
         },
+        "38174103118602921": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60323.0,
+            "last_seen": 1766675415,
+            "level": 16,
+            "name": "Almydea",
+            "name_history": [
+                "Almydea"
+            ],
+            "registered": "Dec 21, 2025, 12:24:32 AM",
+            "role_id": 38174103118602921,
+            "server_region": "ws_asia_01"
+        },
         "38174103118602964": {
             "crew_id": 0,
             "crew_name": "",
@@ -77857,8 +77873,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4866,
+    "accounts_total": 4867,
     "created": 1764092421,
-    "last_updated": 1766675355,
+    "last_updated": 1766675415,
     "server_region": "ws_asia_01"
 }
