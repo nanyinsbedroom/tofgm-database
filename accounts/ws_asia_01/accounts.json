@@ -16067,11 +16067,11 @@
         "38174103118553854": {
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 306050.1875,
-            "last_seen": 1765918070,
-            "level": 58,
+            "hp": 446334.40625,
+            "last_seen": 1766714659,
+            "level": 62,
             "name": "ハルカ",
             "name_history": [
                 "ハルカ"
@@ -57989,9 +57989,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 491670.59375,
-            "last_seen": 1766453614,
-            "level": 62,
+            "hp": 496921.40625,
+            "last_seen": 1766714659,
+            "level": 64,
             "name": "Naye",
             "name_history": [
                 "Naye"
@@ -77760,6 +77760,22 @@
             "role_id": 38174103118603730,
             "server_region": "ws_asia_01"
         },
+        "38174103118603760": {
+            "crew_id": 841822478117,
+            "crew_name": "居酒屋『桜花ギャオゴリ』",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 175390.8125,
+            "last_seen": 1766714659,
+            "level": 50,
+            "name": "スナックちくわサワー",
+            "name_history": [
+                "スナックちくわサワー"
+            ],
+            "registered": "Dec 22, 2025, 12:12:44 PM",
+            "role_id": 38174103118603760,
+            "server_region": "ws_asia_01"
+        },
         "38174103118603865": {
             "crew_id": 0,
             "crew_name": "",
@@ -77951,10 +77967,26 @@
             "registered": "Dec 24, 2025, 2:37:46 PM",
             "role_id": 38174103118604732,
             "server_region": "ws_asia_01"
+        },
+        "38174103118605431": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1766714659,
+            "level": 4,
+            "name": "NegiNoka",
+            "name_history": [
+                "NegiNoka"
+            ],
+            "registered": "Dec 26, 2025, 1:20:55 AM",
+            "role_id": 38174103118605431,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4872,
+    "accounts_total": 4874,
     "created": 1764092421,
-    "last_updated": 1766714599,
+    "last_updated": 1766714659,
     "server_region": "ws_asia_01"
 }
