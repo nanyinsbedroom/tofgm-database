@@ -13829,9 +13829,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 434016.96875,
-            "last_seen": 1766364556,
-            "level": 62,
+            "hp": 491383.0625,
+            "last_seen": 1766714719,
+            "level": 64,
             "name": "Venera",
             "name_history": [
                 "Venera"
@@ -54805,9 +54805,9 @@
             "crew_name": "Lumière",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 176420.796875,
-            "last_seen": 1766347653,
-            "level": 58,
+            "hp": 195327.09375,
+            "last_seen": 1766714719,
+            "level": 61,
             "name": "Apilokico ",
             "name_history": [
                 "Apilokico "
@@ -70224,6 +70224,22 @@
             "role_id": 38174103118590233,
             "server_region": "ws_asia_01"
         },
+        "38174103118590243": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90089.0,
+            "last_seen": 1766714719,
+            "level": 39,
+            "name": "NahIdwin",
+            "name_history": [
+                "NahIdwin"
+            ],
+            "registered": "Dec 3, 2025, 1:18:08 AM",
+            "role_id": 38174103118590243,
+            "server_region": "ws_asia_01"
+        },
         "38174103118590257": {
             "crew_id": 0,
             "crew_name": "",
@@ -72190,6 +72206,22 @@
             ],
             "registered": "Dec 5, 2025, 1:17:20 PM",
             "role_id": 38174103118592498,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118592505": {
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
+            "equipping_title": "1_10_0_5",
+            "gender": 1,
+            "hp": 511923.625,
+            "last_seen": 1766714719,
+            "level": 63,
+            "name": "sopi",
+            "name_history": [
+                "sopi"
+            ],
+            "registered": "Dec 5, 2025, 1:32:44 PM",
+            "role_id": 38174103118592505,
             "server_region": "ws_asia_01"
         },
         "38174103118592528": {
@@ -77968,6 +78000,38 @@
             "role_id": 38174103118604732,
             "server_region": "ws_asia_01"
         },
+        "38174103118605374": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 67996.0,
+            "last_seen": 1766714719,
+            "level": 26,
+            "name": "Yoi",
+            "name_history": [
+                "Yoi"
+            ],
+            "registered": "Dec 25, 2025, 11:17:39 PM",
+            "role_id": 38174103118605374,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118605375": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40997.0,
+            "last_seen": 1766714719,
+            "level": 9,
+            "name": "야르",
+            "name_history": [
+                "야르"
+            ],
+            "registered": "Dec 25, 2025, 11:19:53 PM",
+            "role_id": 38174103118605375,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605431": {
             "crew_id": 0,
             "crew_name": "",
@@ -77985,8 +78049,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4874,
+    "accounts_total": 4878,
     "created": 1764092421,
-    "last_updated": 1766714659,
+    "last_updated": 1766714719,
     "server_region": "ws_asia_01"
 }
