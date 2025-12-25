@@ -17302,7 +17302,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 552258.1875,
-            "last_seen": 1766725078,
+            "last_seen": 1766725854,
             "level": 64,
             "name": "Icarus",
             "name_history": [
@@ -25878,7 +25878,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 441904.59375,
-            "last_seen": 1766725018,
+            "last_seen": 1766725854,
             "level": 62,
             "name": "ひつぎ",
             "name_history": [
@@ -28454,7 +28454,7 @@
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;1",
             "gender": 1,
             "hp": 664708.875,
-            "last_seen": 1766725078,
+            "last_seen": 1766725854,
             "level": 64,
             "name": "woof woof",
             "name_history": [
@@ -29253,9 +29253,9 @@
             "crew_name": "Hykros",
             "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;85",
             "gender": 1,
-            "hp": 665498.25,
-            "last_seen": 1766720886,
-            "level": 64,
+            "hp": 667096.625,
+            "last_seen": 1766725854,
+            "level": 65,
             "name": "Xyolqynthaexra",
             "name_history": [
                 "Xyolqynthaexra"
@@ -36677,9 +36677,9 @@
             "crew_name": "こなもん",
             "equipping_title": "WorldBossDamage_4;boss_hum_067_World;37",
             "gender": 0,
-            "hp": 386561.8125,
-            "last_seen": 1766467369,
-            "level": 63,
+            "hp": 420366.9375,
+            "last_seen": 1766725854,
+            "level": 65,
             "name": "黒澤遥人",
             "name_history": [
                 "黒澤遥人"
@@ -38385,13 +38385,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118562340": {
-            "crew_id": 1086635613989,
-            "crew_name": "แม่เรียกกินข้าว",
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
             "equipping_title": "WorldBossDamage_3;Boss_hum_017_world;17",
             "gender": 0,
-            "hp": 403316.40625,
-            "last_seen": 1766469662,
-            "level": 63,
+            "hp": 439815.0,
+            "last_seen": 1766725854,
+            "level": 64,
             "name": "Det37",
             "name_history": [
                 "Det37"
@@ -45406,6 +45406,22 @@
             ],
             "registered": "Nov 26, 2025, 7:44:57 AM",
             "role_id": 38174103118566057,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118566070": {
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 656062.25,
+            "last_seen": 1766725854,
+            "level": 64,
+            "name": "StyxZ",
+            "name_history": [
+                "StyxZ"
+            ],
+            "registered": "Nov 26, 2025, 7:48:46 AM",
+            "role_id": 38174103118566070,
             "server_region": "ws_asia_01"
         },
         "38174103118566073": {
@@ -59797,9 +59813,9 @@
             "crew_name": "Alter",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 586139.875,
-            "last_seen": 1766513636,
-            "level": 63,
+            "hp": 615629.5625,
+            "last_seen": 1766725854,
+            "level": 64,
             "name": "MaryAnne",
             "name_history": [
                 "MaryAnne"
@@ -74197,8 +74213,8 @@
             "crew_name": "BAD COMPANY",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 144623.0,
-            "last_seen": 1766725078,
+            "hp": 141304.078125,
+            "last_seen": 1766725854,
             "level": 55,
             "name": "みみっく",
             "name_history": [
@@ -76646,7 +76662,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 244458.0,
-            "last_seen": 1766725018,
+            "last_seen": 1766725854,
             "level": 59,
             "name": "13",
             "name_history": [
@@ -78161,8 +78177,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4885,
+    "accounts_total": 4886,
     "created": 1764092421,
-    "last_updated": 1766725078,
+    "last_updated": 1766725854,
     "server_region": "ws_asia_01"
 }
