@@ -467,11 +467,11 @@
         "38174103118544963": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
-            "equipping_title": "WorldBossDamage_1;boss_hum_079_world;2",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 580130.375,
-            "last_seen": 1766349875,
-            "level": 62,
+            "hp": 603295.0625,
+            "last_seen": 1766786577,
+            "level": 65,
             "name": "Fubuking",
             "name_history": [
                 "Fubuking"
@@ -549,9 +549,9 @@
             "crew_name": "Alter",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 447948.6875,
-            "last_seen": 1766010214,
-            "level": 60,
+            "hp": 514810.75,
+            "last_seen": 1766786577,
+            "level": 63,
             "name": "Daddy",
             "name_history": [
                 "Daddy"
@@ -25619,11 +25619,11 @@
         "38174103118557257": {
             "crew_id": 68728364837,
             "crew_name": "Saints",
-            "equipping_title": "WorldBossDamage_4;boss_hum_057_world;63",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 563273.8125,
-            "last_seen": 1766344651,
-            "level": 62,
+            "hp": 605800.0,
+            "last_seen": 1766786577,
+            "level": 65,
             "name": "RedHood",
             "name_history": [
                 "RedHood"
@@ -34165,9 +34165,9 @@
             "crew_name": "CleoneID",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 246108.203125,
-            "last_seen": 1765064275,
-            "level": 52,
+            "hp": 579134.375,
+            "last_seen": 1766786577,
+            "level": 65,
             "name": "SkyXeno",
             "name_history": [
                 "SkyXeno"
@@ -34446,6 +34446,22 @@
             ],
             "registered": "Nov 25, 2025, 10:08:42 PM",
             "role_id": 38174103118560397,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560404": {
+            "crew_id": 459570388773,
+            "crew_name": "低スペックチーム",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 535641.625,
+            "last_seen": 1766786577,
+            "level": 65,
+            "name": "テリアサーガ",
+            "name_history": [
+                "テリアサーガ"
+            ],
+            "registered": "Nov 25, 2025, 10:08:56 PM",
+            "role_id": 38174103118560404,
             "server_region": "ws_asia_01"
         },
         "38174103118560423": {
@@ -53797,9 +53813,9 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 500638.1875,
-            "last_seen": 1766005046,
-            "level": 60,
+            "hp": 542821.75,
+            "last_seen": 1766786577,
+            "level": 64,
             "name": "chimerax",
             "name_history": [
                 "chimerax"
@@ -58533,9 +58549,9 @@
             "crew_name": "Alter",
             "equipping_title": "•69•'s Mentor,0",
             "gender": 1,
-            "hp": 575074.75,
-            "last_seen": 1766728422,
-            "level": 63,
+            "hp": 576634.5,
+            "last_seen": 1766786577,
+            "level": 64,
             "name": "∅¿∅",
             "name_history": [
                 "∅¿∅"
@@ -64949,9 +64965,9 @@
             "crew_name": "宿屋享楽",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 220880.90625,
-            "last_seen": 1765493841,
-            "level": 55,
+            "hp": 380607.8125,
+            "last_seen": 1766786577,
+            "level": 59,
             "name": "のか",
             "name_history": [
                 "のか"
@@ -78529,8 +78545,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4908,
+    "accounts_total": 4909,
     "created": 1764092421,
-    "last_updated": 1766786457,
+    "last_updated": 1766786577,
     "server_region": "ws_asia_01"
 }
