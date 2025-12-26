@@ -8277,9 +8277,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 564017.9375,
-            "last_seen": 1766444859,
-            "level": 63,
+            "hp": 613544.0,
+            "last_seen": 1766786397,
+            "level": 65,
             "name": "Caltsio",
             "name_history": [
                 "Caltsio"
@@ -50081,13 +50081,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118570475": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 163217645349,
+            "crew_name": "Scarface",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 188963.0,
-            "last_seen": 1764866210,
-            "level": 50,
+            "hp": 398899.59375,
+            "last_seen": 1766786397,
+            "level": 65,
             "name": "taranta147",
             "name_history": [
                 "taranta147"
@@ -52126,6 +52126,22 @@
             ],
             "registered": "Nov 26, 2025, 10:49:37 PM",
             "role_id": 38174103118572601,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118572603": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "雪色みゆ's Apprentice,0",
+            "gender": 0,
+            "hp": 375543.8125,
+            "last_seen": 1766786397,
+            "level": 63,
+            "name": "カムイレイ",
+            "name_history": [
+                "カムイレイ"
+            ],
+            "registered": "Nov 26, 2025, 10:49:54 PM",
+            "role_id": 38174103118572603,
             "server_region": "ws_asia_01"
         },
         "38174103118572606": {
@@ -64947,11 +64963,11 @@
         "38174103118584695": {
             "crew_id": 1142470188837,
             "crew_name": "グランブルー",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 235541.0,
-            "last_seen": 1766260959,
-            "level": 58,
+            "hp": 327298.25,
+            "last_seen": 1766786397,
+            "level": 62,
             "name": "taroimo",
             "name_history": [
                 "taroimo"
@@ -72064,6 +72080,22 @@
             "role_id": 38174103118592024,
             "server_region": "ws_asia_01"
         },
+        "38174103118592026": {
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "1_9_0_1",
+            "gender": 1,
+            "hp": 579629.625,
+            "last_seen": 1766786397,
+            "level": 65,
+            "name": " トマト栽培のプロ",
+            "name_history": [
+                " トマト栽培のプロ"
+            ],
+            "registered": "Dec 4, 2025, 11:15:12 PM",
+            "role_id": 38174103118592026,
+            "server_region": "ws_asia_01"
+        },
         "38174103118592034": {
             "crew_id": 0,
             "crew_name": "",
@@ -78497,8 +78529,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4906,
+    "accounts_total": 4908,
     "created": 1764092421,
-    "last_updated": 1766786277,
+    "last_updated": 1766786397,
     "server_region": "ws_asia_01"
 }
