@@ -4357,9 +4357,9 @@
             "crew_name": "Stray",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 579040.6875,
-            "last_seen": 1766235069,
-            "level": 62,
+            "hp": 674612.0625,
+            "last_seen": 1766750972,
+            "level": 65,
             "name": "Avalon",
             "name_history": [
                 "Avalon"
@@ -6014,6 +6014,22 @@
             ],
             "registered": "Nov 25, 2025, 7:40:22 AM",
             "role_id": 38174107413516772,
+            "server_region": "ws_america_01"
+        },
+        "38174107413516801": {
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 595677.0625,
+            "last_seen": 1766750972,
+            "level": 65,
+            "name": "Texina",
+            "name_history": [
+                "Texina"
+            ],
+            "registered": "Nov 25, 2025, 7:42:01 AM",
+            "role_id": 38174107413516801,
             "server_region": "ws_america_01"
         },
         "38174107413516820": {
@@ -15505,8 +15521,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 969,
+    "accounts_total": 970,
     "created": 1764067509,
-    "last_updated": 1766750912,
+    "last_updated": 1766750972,
     "server_region": "ws_america_01"
 }
