@@ -115,11 +115,11 @@
         "38174107413512218": {
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
-            "equipping_title": "Borg's Mentor,0",
+            "equipping_title": "Ars's Mentor,0",
             "gender": 0,
-            "hp": 297125.59375,
-            "last_seen": 1766252519,
-            "level": 62,
+            "hp": 605151.4375,
+            "last_seen": 1766752852,
+            "level": 63,
             "name": "Tini",
             "name_history": [
                 "Tini"
@@ -1282,12 +1282,12 @@
         },
         "38174107413512769": {
             "crew_id": 8598822694,
-            "crew_name": "Mythic",
-            "equipping_title": "1_7_1_1",
+            "crew_name": "Solstice",
+            "equipping_title": "1_10_0_5",
             "gender": 0,
-            "hp": 499481.0,
-            "last_seen": 1766252700,
-            "level": 61,
+            "hp": 504837.8125,
+            "last_seen": 1766752852,
+            "level": 62,
             "name": "Kazuma",
             "name_history": [
                 "Kazuma"
@@ -3573,8 +3573,8 @@
             "crew_name": "DreamFall",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 474892.9375,
-            "last_seen": 1766750672,
+            "hp": 662510.6875,
+            "last_seen": 1766752852,
             "level": 65,
             "name": "Oscar Jaeger",
             "name_history": [
@@ -11552,6 +11552,22 @@
             "role_id": 38174107413523747,
             "server_region": "ws_america_01"
         },
+        "38174107413523757": {
+            "crew_id": 249116991270,
+            "crew_name": "Satoras Fallen",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 347839.8125,
+            "last_seen": 1766752852,
+            "level": 64,
+            "name": "Siyukaro ",
+            "name_history": [
+                "Siyukaro "
+            ],
+            "registered": "Nov 25, 2025, 3:14:40 PM",
+            "role_id": 38174107413523757,
+            "server_region": "ws_america_01"
+        },
         "38174107413523763": {
             "crew_id": 0,
             "crew_name": "",
@@ -12160,6 +12176,22 @@
             "role_id": 38174107413525034,
             "server_region": "ws_america_01"
         },
+        "38174107413525039": {
+            "crew_id": 360786140966,
+            "crew_name": "Ravenous",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 559680.25,
+            "last_seen": 1766752852,
+            "level": 65,
+            "name": "Claos",
+            "name_history": [
+                "Claos"
+            ],
+            "registered": "Nov 25, 2025, 4:47:33 PM",
+            "role_id": 38174107413525039,
+            "server_region": "ws_america_01"
+        },
         "38174107413525080": {
             "crew_id": 674318753574,
             "crew_name": "Maid Café",
@@ -12624,6 +12656,22 @@
             "role_id": 38174107413526934,
             "server_region": "ws_america_01"
         },
+        "38174107413527029": {
+            "crew_id": 231937122086,
+            "crew_name": "RedSuns",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 166951.390625,
+            "last_seen": 1766752852,
+            "level": 52,
+            "name": "Jae-Ha",
+            "name_history": [
+                "Jae-Ha"
+            ],
+            "registered": "Nov 25, 2025, 6:27:33 PM",
+            "role_id": 38174107413527029,
+            "server_region": "ws_america_01"
+        },
         "38174107413527135": {
             "crew_id": 34368626470,
             "crew_name": "YoRHa",
@@ -12693,9 +12741,9 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 360838.9375,
-            "last_seen": 1766750492,
-            "level": 64,
+            "hp": 672682.875,
+            "last_seen": 1766752852,
+            "level": 65,
             "name": "Suniaster",
             "name_history": [
                 "Suniaster"
@@ -14976,6 +15024,22 @@
             "role_id": 38174107413553048,
             "server_region": "ws_america_01"
         },
+        "38174107413553088": {
+            "crew_id": 68728364838,
+            "crew_name": "Soul",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 400443.78125,
+            "last_seen": 1766752852,
+            "level": 59,
+            "name": "Kyram",
+            "name_history": [
+                "Kyram"
+            ],
+            "registered": "Dec 2, 2025, 1:35:36 PM",
+            "role_id": 38174107413553088,
+            "server_region": "ws_america_01"
+        },
         "38174107413553666": {
             "crew_id": 0,
             "crew_name": "",
@@ -15605,9 +15669,9 @@
             "crew_name": "Aceldama",
             "equipping_title": "IzanagiRyuu's Apprentice,0",
             "gender": 1,
-            "hp": 156625.859375,
-            "last_seen": 1766492459,
-            "level": 46,
+            "hp": 208327.0,
+            "last_seen": 1766752852,
+            "level": 51,
             "name": "BLANCA ···",
             "name_history": [
                 "BLANCA ···"
@@ -16001,8 +16065,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1000,
+    "accounts_total": 1004,
     "created": 1764067509,
-    "last_updated": 1766752792,
+    "last_updated": 1766752852,
     "server_region": "ws_america_01"
 }
