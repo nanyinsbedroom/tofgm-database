@@ -966,7 +966,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 575350.625,
-            "last_seen": 1766798867,
+            "last_seen": 1766800591,
             "level": 65,
             "name": "Inorinae",
             "name_history": [
@@ -15749,8 +15749,8 @@
             "crew_name": "Hykros",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 592500.3125,
-            "last_seen": 1766798867,
+            "hp": 485526.21875,
+            "last_seen": 1766800591,
             "level": 65,
             "name": "IcarusX",
             "name_history": [
@@ -73936,6 +73936,22 @@
             "role_id": 38174103118594477,
             "server_region": "ws_asia_01"
         },
+        "38174103118594478": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 107001.796875,
+            "last_seen": 1766800591,
+            "level": 32,
+            "name": "モーニエ",
+            "name_history": [
+                "モーニエ"
+            ],
+            "registered": "Dec 7, 2025, 2:19:01 PM",
+            "role_id": 38174103118594478,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594479": {
             "crew_id": 0,
             "crew_name": "",
@@ -78689,8 +78705,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4918,
+    "accounts_total": 4919,
     "created": 1764092421,
-    "last_updated": 1766800531,
+    "last_updated": 1766800591,
     "server_region": "ws_asia_01"
 }
