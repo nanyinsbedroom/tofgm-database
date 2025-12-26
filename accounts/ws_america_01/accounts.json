@@ -901,9 +901,9 @@
             "crew_name": "Gato",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 579620.5,
-            "last_seen": 1766252519,
-            "level": 62,
+            "hp": 670280.0,
+            "last_seen": 1766750912,
+            "level": 65,
             "name": "woob",
             "name_history": [
                 "woob"
@@ -4501,9 +4501,9 @@
             "crew_name": "Stray",
             "equipping_title": "Aiko369's Mentor,0",
             "gender": 0,
-            "hp": 581647.1875,
-            "last_seen": 1766492219,
-            "level": 63,
+            "hp": 635213.9375,
+            "last_seen": 1766750912,
+            "level": 65,
             "name": "Lesharany",
             "name_history": [
                 "Lesharany"
@@ -7038,6 +7038,22 @@
             ],
             "registered": "Nov 25, 2025, 8:39:51 AM",
             "role_id": 38174107413517820,
+            "server_region": "ws_america_01"
+        },
+        "38174107413517825": {
+            "crew_id": 249116991270,
+            "crew_name": "Satoras Fallen",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 587689.625,
+            "last_seen": 1766750912,
+            "level": 65,
+            "name": "Whafle",
+            "name_history": [
+                "Whafle"
+            ],
+            "registered": "Nov 25, 2025, 8:40:03 AM",
+            "role_id": 38174107413517825,
             "server_region": "ws_america_01"
         },
         "38174107413517831": {
@@ -10689,13 +10705,13 @@
             "server_region": "ws_america_01"
         },
         "38174107413522091": {
-            "crew_id": 1859729727270,
-            "crew_name": "Horda Libre",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 452305.8125,
-            "last_seen": 1766492459,
-            "level": 61,
+            "hp": 486101.625,
+            "last_seen": 1766750912,
+            "level": 64,
             "name": "XTSpells",
             "name_history": [
                 "XTSpells"
@@ -12526,6 +12542,22 @@
             ],
             "registered": "Nov 25, 2025, 7:34:01 PM",
             "role_id": 38174107413528223,
+            "server_region": "ws_america_01"
+        },
+        "38174107413528418": {
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 565046.0,
+            "last_seen": 1766750912,
+            "level": 65,
+            "name": "Starks",
+            "name_history": [
+                "Starks"
+            ],
+            "registered": "Nov 25, 2025, 7:46:24 PM",
+            "role_id": 38174107413528418,
             "server_region": "ws_america_01"
         },
         "38174107413528603": {
@@ -15473,8 +15505,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 967,
+    "accounts_total": 969,
     "created": 1764067509,
-    "last_updated": 1766750852,
+    "last_updated": 1766750912,
     "server_region": "ws_america_01"
 }
