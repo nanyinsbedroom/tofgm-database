@@ -7557,9 +7557,9 @@
             "crew_name": "こなもん",
             "equipping_title": "1_1_2_1",
             "gender": 1,
-            "hp": 497651.90625,
-            "last_seen": 1766010274,
-            "level": 60,
+            "hp": 595931.875,
+            "last_seen": 1766780016,
+            "level": 65,
             "name": "かわん",
             "name_history": [
                 "かわん"
@@ -11267,11 +11267,11 @@
         "38174103118547860": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_015_Sand_world;6",
             "gender": 0,
-            "hp": 403059.125,
-            "last_seen": 1765917350,
-            "level": 60,
+            "hp": 444159.5,
+            "last_seen": 1766780016,
+            "level": 64,
             "name": "Ner",
             "name_history": [
                 "Ner"
@@ -16529,13 +16529,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118554110": {
-            "crew_id": 180397514533,
-            "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_030_world;4",
+            "crew_id": 120267972389,
+            "crew_name": "Eclipse Kitchen",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 485505.90625,
-            "last_seen": 1764874412,
-            "level": 50,
+            "hp": 603334.75,
+            "last_seen": 1766780016,
+            "level": 65,
             "name": "Rossweisse",
             "name_history": [
                 "Rossweisse"
@@ -29141,9 +29141,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "式歌ベリア＠Vtuber's Apprentice,0",
             "gender": 1,
-            "hp": 478311.0,
-            "last_seen": 1766343210,
-            "level": 59,
+            "hp": 560835.0,
+            "last_seen": 1766780016,
+            "level": 62,
             "name": "天華",
             "name_history": [
                 "天華"
@@ -35733,9 +35733,9 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 88713.796875,
-            "last_seen": 1766333457,
-            "level": 45,
+            "hp": 104843.0,
+            "last_seen": 1766780016,
+            "level": 49,
             "name": "✿アキナ✿",
             "name_history": [
                 "✿アキナ✿"
@@ -43541,9 +43541,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "WorldBossDamage_2;Boss_hum_036_world;8",
             "gender": 1,
-            "hp": 573818.375,
-            "last_seen": 1766442509,
-            "level": 63,
+            "hp": 632409.1875,
+            "last_seen": 1766780016,
+            "level": 65,
             "name": "ZooloIN",
             "name_history": [
                 "ZooloIN"
@@ -70773,9 +70773,9 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 191368.0,
-            "last_seen": 1766333457,
-            "level": 60,
+            "hp": 271020.0,
+            "last_seen": 1766780016,
+            "level": 63,
             "name": "Opalis",
             "name_history": [
                 "Opalis"
@@ -76485,9 +76485,9 @@
             "crew_name": "Alter",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 53116.0,
-            "last_seen": 1766465507,
-            "level": 44,
+            "hp": 144755.0,
+            "last_seen": 1766780016,
+            "level": 52,
             "name": "Not Melene",
             "name_history": [
                 "Not Melene"
@@ -77301,9 +77301,9 @@
             "crew_name": "StarsUs",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 279093.8125,
-            "last_seen": 1766443410,
-            "level": 52,
+            "hp": 418568.9375,
+            "last_seen": 1766780016,
+            "level": 62,
             "name": "Aaerith",
             "name_history": [
                 "Aaerith"
@@ -77534,6 +77534,22 @@
             ],
             "registered": "Dec 20, 2025, 3:47:11 PM",
             "role_id": 38174103118602699,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118602781": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 86271.0,
+            "last_seen": 1766780016,
+            "level": 27,
+            "name": "Patman",
+            "name_history": [
+                "Patman"
+            ],
+            "registered": "Dec 20, 2025, 7:24:56 PM",
+            "role_id": 38174103118602781,
             "server_region": "ws_asia_01"
         },
         "38174103118602809": {
@@ -78289,8 +78305,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4893,
+    "accounts_total": 4894,
     "created": 1764092421,
-    "last_updated": 1766779956,
+    "last_updated": 1766780016,
     "server_region": "ws_asia_01"
 }
