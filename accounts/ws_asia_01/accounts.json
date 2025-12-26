@@ -6373,8 +6373,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 594275.875,
-            "last_seen": 1766782546,
+            "hp": 594275.75,
+            "last_seen": 1766785736,
             "level": 65,
             "name": "Saunts",
             "name_history": [
@@ -10870,7 +10870,7 @@
             "equipping_title": "noeLe's Apprentice,0",
             "gender": 1,
             "hp": 461997.0,
-            "last_seen": 1766782546,
+            "last_seen": 1766785736,
             "level": 63,
             "name": "ましろ",
             "name_history": [
@@ -12485,9 +12485,9 @@
             "crew_name": "Rst",
             "equipping_title": "WorldBossDamage_1;boss_hum_057_world;1",
             "gender": 1,
-            "hp": 657166.0625,
-            "last_seen": 1766601947,
-            "level": 64,
+            "hp": 677889.625,
+            "last_seen": 1766785736,
+            "level": 65,
             "name": "ゆう",
             "name_history": [
                 "ゆう"
@@ -19094,7 +19094,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 539689.0,
-            "last_seen": 1766782546,
+            "last_seen": 1766785736,
             "level": 65,
             "name": "もちもちまんじゅう",
             "name_history": [
@@ -25014,7 +25014,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 578933.5,
-            "last_seen": 1766782546,
+            "last_seen": 1766785736,
             "level": 65,
             "name": "偽野おにぎり",
             "name_history": [
@@ -25667,11 +25667,11 @@
         "38174103118557273": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_2;boss_hum_059_world;9",
+            "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 583181.25,
-            "last_seen": 1766451152,
-            "level": 63,
+            "hp": 630731.5,
+            "last_seen": 1766785736,
+            "level": 65,
             "name": "C1ZE",
             "name_history": [
                 "C1ZE"
@@ -45029,9 +45029,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 638811.875,
-            "last_seen": 1766616630,
-            "level": 64,
+            "hp": 651006.5625,
+            "last_seen": 1766785736,
+            "level": 65,
             "name": " のば ",
             "name_history": [
                 " のば "
@@ -45093,9 +45093,9 @@
             "crew_name": "EROGE",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 965739.125,
-            "last_seen": 1766781422,
-            "level": 64,
+            "hp": 670359.0,
+            "last_seen": 1766785736,
+            "level": 65,
             "name": "-ALPHA",
             "name_history": [
                 "-ALPHA"
@@ -73397,9 +73397,9 @@
             "crew_name": "Rst",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 474332.53125,
-            "last_seen": 1766601947,
-            "level": 64,
+            "hp": 368662.0,
+            "last_seen": 1766785736,
+            "level": 65,
             "name": "AliceRin",
             "name_history": [
                 "AliceRin"
@@ -76821,8 +76821,8 @@
             "crew_name": "Rst",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 250639.796875,
-            "last_seen": 1766601947,
+            "hp": 279247.8125,
+            "last_seen": 1766785736,
             "level": 62,
             "name": "Izaku",
             "name_history": [
@@ -78176,6 +78176,22 @@
             "role_id": 38174103118603914,
             "server_region": "ws_asia_01"
         },
+        "38174103118603945": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 28316.0,
+            "last_seen": 1766785736,
+            "level": 11,
+            "name": "TAKEMIKAZUCHI",
+            "name_history": [
+                "TAKEMIKAZUCHI"
+            ],
+            "registered": "Dec 22, 2025, 10:22:04 PM",
+            "role_id": 38174103118603945,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604004": {
             "crew_id": 0,
             "crew_name": "",
@@ -78352,6 +78368,22 @@
             "role_id": 38174103118605431,
             "server_region": "ws_asia_01"
         },
+        "38174103118605519": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1436.3526611328125,
+            "last_seen": 1766785736,
+            "level": 20,
+            "name": "Kristina",
+            "name_history": [
+                "Kristina"
+            ],
+            "registered": "Dec 26, 2025, 4:54:56 AM",
+            "role_id": 38174103118605519,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605703": {
             "crew_id": 0,
             "crew_name": "",
@@ -78369,8 +78401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4898,
+    "accounts_total": 4900,
     "created": 1764092421,
-    "last_updated": 1766785676,
+    "last_updated": 1766785736,
     "server_region": "ws_asia_01"
 }
