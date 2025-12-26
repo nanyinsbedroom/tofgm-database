@@ -1171,11 +1171,11 @@
         "38174103118545064": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "2_8_0_6",
             "gender": 1,
-            "hp": 580554.0625,
-            "last_seen": 1766624339,
-            "level": 64,
+            "hp": 618552.125,
+            "last_seen": 1766799347,
+            "level": 65,
             "name": "ヘレネー・ウェステンフルス",
             "name_history": [
                 "ヘレネー・ウェステンフルス"
@@ -11571,11 +11571,11 @@
         "38174103118548100": {
             "crew_id": 180397514533,
             "crew_name": "StarsUs",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_064_world;82",
+            "equipping_title": "1_1_24_1",
             "gender": 0,
-            "hp": 512786.4375,
-            "last_seen": 1766539549,
-            "level": 63,
+            "hp": 576408.125,
+            "last_seen": 1766799347,
+            "level": 65,
             "name": "rlthm",
             "name_history": [
                 "rlthm"
@@ -29862,7 +29862,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 619629.875,
-            "last_seen": 1766779956,
+            "last_seen": 1766799347,
             "level": 65,
             "name": "KOS",
             "name_history": [
@@ -43971,10 +43971,10 @@
         "38174103118565133": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
             "hp": 565839.6875,
-            "last_seen": 1766725078,
+            "last_seen": 1766799347,
             "level": 62,
             "name": "Nyaharu",
             "name_history": [
@@ -57974,7 +57974,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 55236.0,
-            "last_seen": 1766785856,
+            "last_seen": 1766799347,
             "level": 21,
             "name": "Jam​​",
             "name_history": [
@@ -64741,9 +64741,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 558373.625,
-            "last_seen": 1766364616,
-            "level": 62,
+            "hp": 626445.625,
+            "last_seen": 1766799347,
+            "level": 65,
             "name": "SARANLAP",
             "name_history": [
                 "SARANLAP"
@@ -71813,9 +71813,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 497838.625,
-            "last_seen": 1766347413,
-            "level": 62,
+            "hp": 526999.0,
+            "last_seen": 1766799347,
+            "level": 64,
             "name": "Kirk",
             "name_history": [
                 "Kirk"
@@ -77136,6 +77136,22 @@
             "role_id": 38174103118601336,
             "server_region": "ws_asia_01"
         },
+        "38174103118601364": {
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 319120.8125,
+            "last_seen": 1766799347,
+            "level": 58,
+            "name": "βøłø₱εⱤ¢øɣø",
+            "name_history": [
+                "βøłø₱εⱤ¢øɣø"
+            ],
+            "registered": "Dec 17, 2025, 9:55:33 PM",
+            "role_id": 38174103118601364,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601372": {
             "crew_id": 0,
             "crew_name": "",
@@ -78657,8 +78673,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4916,
+    "accounts_total": 4917,
     "created": 1764092421,
-    "last_updated": 1766799287,
+    "last_updated": 1766799347,
     "server_region": "ws_asia_01"
 }
