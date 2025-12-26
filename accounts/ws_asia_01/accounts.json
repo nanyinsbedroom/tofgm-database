@@ -61587,11 +61587,11 @@
         "38174103118581722": {
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 500195.8125,
-            "last_seen": 1766010274,
-            "level": 60,
+            "hp": 606496.125,
+            "last_seen": 1766799047,
+            "level": 65,
             "name": "ツナオ",
             "name_history": [
                 "ツナオ"
@@ -78560,6 +78560,22 @@
             "role_id": 38174103118605375,
             "server_region": "ws_asia_01"
         },
+        "38174103118605412": {
+            "crew_id": 38663593765,
+            "crew_name": "แอสทร่า",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 180319.59375,
+            "last_seen": 1766799047,
+            "level": 54,
+            "name": "FlyingAlone",
+            "name_history": [
+                "FlyingAlone"
+            ],
+            "registered": "Dec 26, 2025, 12:40:28 AM",
+            "role_id": 38174103118605412,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605431": {
             "crew_id": 0,
             "crew_name": "",
@@ -78609,8 +78625,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4913,
+    "accounts_total": 4914,
     "created": 1764092421,
-    "last_updated": 1766798987,
+    "last_updated": 1766799047,
     "server_region": "ws_asia_01"
 }
