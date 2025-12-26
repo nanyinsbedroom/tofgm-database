@@ -3221,9 +3221,9 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 601940.5,
-            "last_seen": 1766492579,
-            "level": 63,
+            "hp": 624421.625,
+            "last_seen": 1766751032,
+            "level": 64,
             "name": "Douglasn",
             "name_history": [
                 "Douglasn"
@@ -9664,6 +9664,22 @@
             "role_id": 38174107413520182,
             "server_region": "ws_america_01"
         },
+        "38174107413520184": {
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 664662.75,
+            "last_seen": 1766751032,
+            "level": 65,
+            "name": "Zakku",
+            "name_history": [
+                "Zakku"
+            ],
+            "registered": "Nov 25, 2025, 10:55:20 AM",
+            "role_id": 38174107413520184,
+            "server_region": "ws_america_01"
+        },
         "38174107413520191": {
             "crew_id": 0,
             "crew_name": "",
@@ -10030,6 +10046,22 @@
             ],
             "registered": "Nov 25, 2025, 11:33:54 AM",
             "role_id": 38174107413520779,
+            "server_region": "ws_america_01"
+        },
+        "38174107413520792": {
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
+            "equipping_title": "Vincy's Mentor,0",
+            "gender": 0,
+            "hp": 510187.8125,
+            "last_seen": 1766751032,
+            "level": 64,
+            "name": "Seamaiden",
+            "name_history": [
+                "Seamaiden"
+            ],
+            "registered": "Nov 25, 2025, 11:34:30 AM",
+            "role_id": 38174107413520792,
             "server_region": "ws_america_01"
         },
         "38174107413520819": {
@@ -15521,8 +15553,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 970,
+    "accounts_total": 972,
     "created": 1764067509,
-    "last_updated": 1766750972,
+    "last_updated": 1766751032,
     "server_region": "ws_america_01"
 }
