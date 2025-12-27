@@ -31795,11 +31795,11 @@
         "38174103118559355": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
-            "equipping_title": "WorldBossDamage_2;boss_hum_055_World;7",
+            "equipping_title": "WorldBossDamage_2;boss_hum_055_World;8",
             "gender": 1,
-            "hp": 561281.4375,
-            "last_seen": 1766368939,
-            "level": 62,
+            "hp": 649044.125,
+            "last_seen": 1766856950,
+            "level": 65,
             "name": "Raco",
             "name_history": [
                 "Raco"
@@ -60784,6 +60784,22 @@
             "role_id": 38174103118581073,
             "server_region": "ws_asia_01"
         },
+        "38174103118581077": {
+            "crew_id": 219052220197,
+            "crew_name": "Extreme☆",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 113790.796875,
+            "last_seen": 1766856950,
+            "level": 50,
+            "name": "Orchid",
+            "name_history": [
+                "Orchid"
+            ],
+            "registered": "Nov 28, 2025, 8:09:23 PM",
+            "role_id": 38174103118581077,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581084": {
             "crew_id": 0,
             "crew_name": "",
@@ -78977,8 +78993,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4936,
+    "accounts_total": 4937,
     "created": 1764092421,
-    "last_updated": 1766856890,
+    "last_updated": 1766856950,
     "server_region": "ws_asia_01"
 }
