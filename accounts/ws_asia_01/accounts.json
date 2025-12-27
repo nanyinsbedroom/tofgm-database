@@ -6293,9 +6293,9 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_9_0_1",
             "gender": 1,
-            "hp": 198070.625,
-            "last_seen": 1766351232,
-            "level": 62,
+            "hp": 545876.125,
+            "last_seen": 1766877498,
+            "level": 65,
             "name": "RuneStone",
             "name_history": [
                 "RuneStone"
@@ -61632,6 +61632,22 @@
             "role_id": 38174103118581608,
             "server_region": "ws_asia_01"
         },
+        "38174103118581633": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 160465.0,
+            "last_seen": 1766877498,
+            "level": 49,
+            "name": "Yukouri",
+            "name_history": [
+                "Yukouri"
+            ],
+            "registered": "Nov 28, 2025, 11:14:15 PM",
+            "role_id": 38174103118581633,
+            "server_region": "ws_asia_01"
+        },
         "38174103118581651": {
             "crew_id": 0,
             "crew_name": "",
@@ -62350,6 +62366,22 @@
             ],
             "registered": "Nov 29, 2025, 1:36:04 AM",
             "role_id": 38174103118582042,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118582048": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19296.0,
+            "last_seen": 1766877498,
+            "level": 14,
+            "name": "Falna",
+            "name_history": [
+                "Falna"
+            ],
+            "registered": "Nov 29, 2025, 1:37:00 AM",
+            "role_id": 38174103118582048,
             "server_region": "ws_asia_01"
         },
         "38174103118582062": {
@@ -79217,8 +79249,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4951,
+    "accounts_total": 4953,
     "created": 1764092421,
-    "last_updated": 1766877018,
+    "last_updated": 1766877498,
     "server_region": "ws_asia_01"
 }
