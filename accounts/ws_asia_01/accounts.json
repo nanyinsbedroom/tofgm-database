@@ -67685,9 +67685,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 213541.59375,
-            "last_seen": 1765915428,
-            "level": 59,
+            "hp": 350499.0,
+            "last_seen": 1766856710,
+            "level": 63,
             "name": "Nerieru",
             "name_history": [
                 "Nerieru"
@@ -78880,6 +78880,22 @@
             "role_id": 38174103118605431,
             "server_region": "ws_asia_01"
         },
+        "38174103118605508": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 102335.8046875,
+            "last_seen": 1766856710,
+            "level": 57,
+            "name": "Solaries",
+            "name_history": [
+                "Solaries"
+            ],
+            "registered": "Dec 26, 2025, 4:33:21 AM",
+            "role_id": 38174103118605508,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605519": {
             "crew_id": 0,
             "crew_name": "",
@@ -78894,6 +78910,22 @@
             ],
             "registered": "Dec 26, 2025, 4:54:56 AM",
             "role_id": 38174103118605519,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118605575": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41220.0,
+            "last_seen": 1766856710,
+            "level": 11,
+            "name": "CHRSTMS",
+            "name_history": [
+                "CHRSTMS"
+            ],
+            "registered": "Dec 26, 2025, 6:43:43 AM",
+            "role_id": 38174103118605575,
             "server_region": "ws_asia_01"
         },
         "38174103118605703": {
@@ -78911,10 +78943,26 @@
             "registered": "Dec 26, 2025, 2:31:02 PM",
             "role_id": 38174103118605703,
             "server_region": "ws_asia_01"
+        },
+        "38174103118606276": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 36697.0,
+            "last_seen": 1766856710,
+            "level": 9,
+            "name": "Shinra Tensei",
+            "name_history": [
+                "Shinra Tensei"
+            ],
+            "registered": "Dec 27, 2025, 3:30:31 PM",
+            "role_id": 38174103118606276,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4932,
+    "accounts_total": 4935,
     "created": 1764092421,
-    "last_updated": 1766856590,
+    "last_updated": 1766856710,
     "server_region": "ws_asia_01"
 }
