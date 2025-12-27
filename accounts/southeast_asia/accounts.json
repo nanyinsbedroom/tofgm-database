@@ -7473,10 +7473,10 @@
         "68758131495525": {
             "crew_id": 395137007241,
             "crew_name": "Guardians",
-            "equipping_title": "1_8_0_30",
+            "equipping_title": "1_8_0_33",
             "gender": 0,
-            "hp": 2259758.75,
-            "last_seen": 1762513916,
+            "hp": 2555799.5,
+            "last_seen": 1766852390,
             "level": 100,
             "name": "shira_nai",
             "name_history": [
@@ -11208,10 +11208,13 @@
             "crew_name": "CASTLE",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2250378.25,
-            "last_seen": 1761134374,
+            "hp": 1958508.375,
+            "last_seen": 1766852390,
             "level": 100,
             "name": "Hoshi_RO",
+            "name_history": [
+                "Hoshi_RO"
+            ],
             "registered": "Aug 23, 2022, 2:53:47 PM",
             "role_id": 68775311391039,
             "server_region": "southeast_asia"
@@ -21409,6 +21412,22 @@
             "role_id": 68775311759711,
             "server_region": "southeast_asia"
         },
+        "68775311759739": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 132788.015625,
+            "last_seen": 1766852390,
+            "level": 27,
+            "name": "Ezze_99",
+            "name_history": [
+                "Ezze_99"
+            ],
+            "registered": "Dec 26, 2025, 12:39:44 AM",
+            "role_id": 68775311759739,
+            "server_region": "southeast_asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -26203,6 +26222,22 @@
             "role_id": 68809671060764,
             "server_region": "southeast_asia"
         },
+        "68809671062514": {
+            "crew_id": 519691058826,
+            "crew_name": "OnlyFนN",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2124599.25,
+            "last_seen": 1766852390,
+            "level": 100,
+            "name": "ชินเลย์",
+            "name_history": [
+                "ชินเลย์"
+            ],
+            "registered": "Aug 20, 2022, 6:35:26 PM",
+            "role_id": 68809671062514,
+            "server_region": "southeast_asia"
+        },
         "68809671068735": {
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
@@ -26725,8 +26760,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1992,
+    "accounts_total": 1994,
     "created": 1753795148,
-    "last_updated": 1766817827,
+    "last_updated": 1766852390,
     "server_region": "southeast_asia"
 }
