@@ -7525,9 +7525,9 @@
             "crew_name": "Restart",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 264006.46875,
-            "last_seen": 1764528795,
-            "level": 44,
+            "hp": 698930.0,
+            "last_seen": 1766899466,
+            "level": 66,
             "name": "アリサ",
             "name_history": [
                 "アリサ"
@@ -15582,6 +15582,22 @@
             ],
             "registered": "Nov 25, 2025, 5:52:10 PM",
             "role_id": 38174103118553420,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118553430": {
+            "crew_id": 459570388773,
+            "crew_name": "低スペックチーム",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 589506.4375,
+            "last_seen": 1766899466,
+            "level": 66,
+            "name": "黒兎",
+            "name_history": [
+                "黒兎"
+            ],
+            "registered": "Nov 25, 2025, 5:52:20 PM",
+            "role_id": 38174103118553430,
             "server_region": "ws_asia_01"
         },
         "38174103118553451": {
@@ -53939,11 +53955,11 @@
         "38174103118574590": {
             "crew_id": 635664047909,
             "crew_name": "EIN",
-            "equipping_title": "None",
+            "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 472897.21875,
-            "last_seen": 1766530942,
-            "level": 63,
+            "hp": 488007.59375,
+            "last_seen": 1766899466,
+            "level": 66,
             "name": "Ai言葉IV",
             "name_history": [
                 "Ai言葉IV"
@@ -66929,13 +66945,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118586353": {
-            "crew_id": 1799600185125,
-            "crew_name": "三匹の雄豚",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 350304.8125,
-            "last_seen": 1765399422,
-            "level": 56,
+            "hp": 392532.59375,
+            "last_seen": 1766899466,
+            "level": 63,
             "name": "僕達の冒険はこれからだ",
             "name_history": [
                 "僕達の冒険はこれからだ"
@@ -72433,13 +72449,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118591990": {
-            "crew_id": 163217645349,
-            "crew_name": "Scarface",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 261850.265625,
-            "last_seen": 1766601587,
-            "level": 64,
+            "hp": 552833.4375,
+            "last_seen": 1766899466,
+            "level": 66,
             "name": "bahora",
             "name_history": [
                 "bahora"
@@ -75952,6 +75968,22 @@
             "role_id": 38174103118597926,
             "server_region": "ws_asia_01"
         },
+        "38174103118597951": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "mench1's Apprentice,0",
+            "gender": 1,
+            "hp": 148770.796875,
+            "last_seen": 1766899466,
+            "level": 52,
+            "name": "由乃",
+            "name_history": [
+                "由乃"
+            ],
+            "registered": "Dec 12, 2025, 6:28:43 AM",
+            "role_id": 38174103118597951,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598013": {
             "crew_id": 0,
             "crew_name": "",
@@ -79152,6 +79184,22 @@
             "role_id": 38174103118604760,
             "server_region": "ws_asia_01"
         },
+        "38174103118605055": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 113383.796875,
+            "last_seen": 1766899466,
+            "level": 42,
+            "name": "Luccy",
+            "name_history": [
+                "Luccy"
+            ],
+            "registered": "Dec 25, 2025, 8:03:48 AM",
+            "role_id": 38174103118605055,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605219": {
             "crew_id": 0,
             "crew_name": "",
@@ -79333,9 +79381,9 @@
             "crew_name": "Saints",
             "equipping_title": "Adélie's Apprentice,0",
             "gender": 1,
-            "hp": 144976.40625,
-            "last_seen": 1766856770,
-            "level": 53,
+            "hp": 270860.96875,
+            "last_seen": 1766899466,
+            "level": 63,
             "name": "Xeuce",
             "name_history": [
                 "Xeuce"
@@ -79393,8 +79441,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4962,
+    "accounts_total": 4965,
     "created": 1764092421,
-    "last_updated": 1766899406,
+    "last_updated": 1766899466,
     "server_region": "ws_asia_01"
 }
