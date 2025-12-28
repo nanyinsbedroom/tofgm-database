@@ -99,11 +99,11 @@
         "38174103118544917": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "None",
+            "equipping_title": "Kinako's Mentor,0",
             "gender": 1,
-            "hp": 636959.8125,
-            "last_seen": 1766786097,
-            "level": 65,
+            "hp": 658756.625,
+            "last_seen": 1766956110,
+            "level": 66,
             "name": "Suihyuni",
             "name_history": [
                 "Suihyuni"
@@ -76400,6 +76400,22 @@
             "role_id": 38174103118598230,
             "server_region": "ws_asia_01"
         },
+        "38174103118598235": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 568315.5625,
+            "last_seen": 1766956110,
+            "level": 64,
+            "name": "SORq",
+            "name_history": [
+                "SORq"
+            ],
+            "registered": "Dec 12, 2025, 9:00:26 PM",
+            "role_id": 38174103118598235,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598249": {
             "crew_id": 0,
             "crew_name": "",
@@ -79808,6 +79824,22 @@
             "role_id": 38174103118606326,
             "server_region": "ws_asia_01"
         },
+        "38174103118606578": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78411.0,
+            "last_seen": 1766956110,
+            "level": 22,
+            "name": "QueenAngel",
+            "name_history": [
+                "QueenAngel"
+            ],
+            "registered": "Dec 28, 2025, 5:01:30 AM",
+            "role_id": 38174103118606578,
+            "server_region": "ws_asia_01"
+        },
         "38174103118606692": {
             "crew_id": 0,
             "crew_name": "",
@@ -79825,8 +79857,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4989,
+    "accounts_total": 4991,
     "created": 1764092421,
-    "last_updated": 1766956050,
+    "last_updated": 1766956110,
     "server_region": "ws_asia_01"
 }
