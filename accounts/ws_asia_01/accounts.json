@@ -11317,9 +11317,9 @@
             "crew_name": "セレスティア戦闘狂団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 557750.0,
-            "last_seen": 1766365877,
-            "level": 62,
+            "hp": 633454.375,
+            "last_seen": 1766957251,
+            "level": 66,
             "name": "saku",
             "name_history": [
                 "saku"
@@ -30517,9 +30517,9 @@
             "crew_name": "ポンコツな",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 501731.78125,
-            "last_seen": 1766800531,
-            "level": 64,
+            "hp": 533588.0,
+            "last_seen": 1766957251,
+            "level": 65,
             "name": "かつどん",
             "name_history": [
                 "かつどん"
@@ -79520,6 +79520,22 @@
             "role_id": 38174103118604400,
             "server_region": "ws_asia_01"
         },
+        "38174103118604577": {
+            "crew_id": 579829473061,
+            "crew_name": "ブラックムーン海賊団",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 113584.0,
+            "last_seen": 1766957251,
+            "level": 44,
+            "name": "ぺりどっと",
+            "name_history": [
+                "ぺりどっと"
+            ],
+            "registered": "Dec 24, 2025, 6:34:58 AM",
+            "role_id": 38174103118604577,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604669": {
             "crew_id": 0,
             "crew_name": "",
@@ -79905,8 +79921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4994,
+    "accounts_total": 4995,
     "created": 1764092421,
-    "last_updated": 1766957191,
+    "last_updated": 1766957251,
     "server_region": "ws_asia_01"
 }
