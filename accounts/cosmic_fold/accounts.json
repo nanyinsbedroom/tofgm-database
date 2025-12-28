@@ -32712,11 +32712,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695896391": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "last_seen": 1759602986,
-            "name": "玲阙嘉梦",
+            "hp": 1182659.0,
+            "last_seen": 1766965281,
+            "level": 77,
+            "name": "元气少女猪刚鬣",
+            "name_history": [
+                "元气少女猪刚鬣"
+            ],
             "registered": "2025年10月1日 下午7:52:06",
             "role_id": 63582695896391,
             "server_region": "cosmic_fold"
@@ -44071,6 +44077,22 @@
             "role_id": 63582695953258,
             "server_region": "cosmic_fold"
         },
+        "63582695953340": {
+            "crew_id": 2920577776084,
+            "crew_name": "喵塔喵了喵",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 193701.203125,
+            "last_seen": 1766965281,
+            "level": 69,
+            "name": "cookie",
+            "name_history": [
+                "cookie"
+            ],
+            "registered": "2025年11月6日 上午8:43:47",
+            "role_id": 63582695953340,
+            "server_region": "cosmic_fold"
+        },
         "63582695954899": {
             "crew_id": 193273543124,
             "crew_name": "天使社",
@@ -44232,13 +44254,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695956873": {
-            "crew_id": 304942692820,
-            "crew_name": "快乐老家",
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 426554.0,
-            "last_seen": 1763483682,
-            "level": 63,
+            "hp": 668651.0,
+            "last_seen": 1766965281,
+            "level": 75,
             "name": "诺菈",
             "name_history": [
                 "诺菈"
@@ -44648,13 +44670,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695958514": {
-            "crew_id": 390842038740,
-            "crew_name": "高原",
-            "equipping_title": "1_7_1_1",
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 435368.625,
-            "last_seen": 1763944110,
-            "level": 62,
+            "hp": 1120921.5,
+            "last_seen": 1766965281,
+            "level": 77,
             "name": "重拾旧梦",
             "name_history": [
                 "重拾旧梦"
@@ -47144,8 +47166,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3868,
+    "accounts_total": 3869,
     "created": 1758803451,
-    "last_updated": 1766965221,
+    "last_updated": 1766965281,
     "server_region": "cosmic_fold"
 }
