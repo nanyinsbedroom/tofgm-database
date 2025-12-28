@@ -29906,12 +29906,12 @@
         },
         "63582695884471": {
             "crew_id": 128849033684,
-            "crew_name": "神待少女",
-            "equipping_title": "WorldBossDamage_3;boss_hum_045_world;11",
+            "crew_name": "月歌行",
+            "equipping_title": "2_2_0_82",
             "gender": 1,
-            "hp": 865699.25,
-            "last_seen": 1763938872,
-            "level": 72,
+            "hp": 1147087.5,
+            "last_seen": 1766965341,
+            "level": 77,
             "name": "鈴娜",
             "name_history": [
                 "鈴娜"
@@ -44077,6 +44077,22 @@
             "role_id": 63582695953258,
             "server_region": "cosmic_fold"
         },
+        "63582695953336": {
+            "crew_id": 2920577776084,
+            "crew_name": "喵塔喵了喵",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 195960.203125,
+            "last_seen": 1766965341,
+            "level": 69,
+            "name": "死了",
+            "name_history": [
+                "死了"
+            ],
+            "registered": "2025年11月6日 上午8:31:55",
+            "role_id": 63582695953336,
+            "server_region": "cosmic_fold"
+        },
         "63582695953340": {
             "crew_id": 2920577776084,
             "crew_name": "喵塔喵了喵",
@@ -44091,6 +44107,22 @@
             ],
             "registered": "2025年11月6日 上午8:43:47",
             "role_id": 63582695953340,
+            "server_region": "cosmic_fold"
+        },
+        "63582695953342": {
+            "crew_id": 2920577776084,
+            "crew_name": "喵塔喵了喵",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 191067.203125,
+            "last_seen": 1766965341,
+            "level": 69,
+            "name": "二重螺旋高手",
+            "name_history": [
+                "二重螺旋高手"
+            ],
+            "registered": "2025年11月6日 上午8:45:07",
+            "role_id": 63582695953342,
             "server_region": "cosmic_fold"
         },
         "63582695954899": {
@@ -47166,8 +47198,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3869,
+    "accounts_total": 3871,
     "created": 1758803451,
-    "last_updated": 1766965281,
+    "last_updated": 1766965341,
     "server_region": "cosmic_fold"
 }
