@@ -11909,9 +11909,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 422827.0625,
-            "last_seen": 1765852345,
-            "level": 59,
+            "hp": 641836.0,
+            "last_seen": 1766957491,
+            "level": 66,
             "name": "トラビス",
             "name_history": [
                 "トラビス"
@@ -53136,6 +53136,22 @@
             "role_id": 38174103118573804,
             "server_region": "ws_asia_01"
         },
+        "38174103118573864": {
+            "crew_id": 339311304485,
+            "crew_name": "Arcana’s XVI",
+            "equipping_title": "1_1_10_1",
+            "gender": 0,
+            "hp": 589621.625,
+            "last_seen": 1766957491,
+            "level": 66,
+            "name": "モリス",
+            "name_history": [
+                "モリス"
+            ],
+            "registered": "Nov 26, 2025, 11:25:43 PM",
+            "role_id": 38174103118573864,
+            "server_region": "ws_asia_01"
+        },
         "38174103118573872": {
             "crew_id": 0,
             "crew_name": "",
@@ -76928,6 +76944,22 @@
             "role_id": 38174103118599137,
             "server_region": "ws_asia_01"
         },
+        "38174103118599167": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56706.0,
+            "last_seen": 1766957491,
+            "level": 12,
+            "name": "柒枍",
+            "name_history": [
+                "柒枍"
+            ],
+            "registered": "Dec 14, 2025, 10:25:35 AM",
+            "role_id": 38174103118599167,
+            "server_region": "ws_asia_01"
+        },
         "38174103118599255": {
             "crew_id": 55843462949,
             "crew_name": "Fractsidus",
@@ -79937,8 +79969,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4996,
+    "accounts_total": 4998,
     "created": 1764092421,
-    "last_updated": 1766957371,
+    "last_updated": 1766957491,
     "server_region": "ws_asia_01"
 }
