@@ -4819,11 +4819,11 @@
         "38174103118545660": {
             "crew_id": 1696520970021,
             "crew_name": "ヘヴリディーズWARP拠点",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "克稀's Mentor,0",
             "gender": 0,
-            "hp": 233890.796875,
-            "last_seen": 1766258800,
-            "level": 59,
+            "hp": 273738.0,
+            "last_seen": 1766953287,
+            "level": 63,
             "name": "柾稀",
             "name_history": [
                 "柾稀"
@@ -74437,8 +74437,8 @@
             "crew_name": "สมาคมฮันเตอร์",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 346714.0,
-            "last_seen": 1766947247,
+            "hp": 354454.0,
+            "last_seen": 1766953287,
             "level": 63,
             "name": "อมไข่เซา",
             "name_history": [
@@ -79408,6 +79408,22 @@
             "role_id": 38174103118605055,
             "server_region": "ws_asia_01"
         },
+        "38174103118605080": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 134289.203125,
+            "last_seen": 1766953287,
+            "level": 52,
+            "name": "ぶらぼ〜",
+            "name_history": [
+                "ぶらぼ〜"
+            ],
+            "registered": "Dec 25, 2025, 9:42:56 AM",
+            "role_id": 38174103118605080,
+            "server_region": "ws_asia_01"
+        },
         "38174103118605219": {
             "crew_id": 0,
             "crew_name": "",
@@ -79649,8 +79665,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 4978,
+    "accounts_total": 4979,
     "created": 1764092421,
-    "last_updated": 1766953227,
+    "last_updated": 1766953287,
     "server_region": "ws_asia_01"
 }
