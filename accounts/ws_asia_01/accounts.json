@@ -11813,9 +11813,9 @@
             "crew_name": "女神の祝福・霞",
             "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 640789.625,
-            "last_seen": 1766459145,
-            "level": 63,
+            "hp": 655334.125,
+            "last_seen": 1766974499,
+            "level": 66,
             "name": "KNG",
             "name_history": [
                 "KNG"
@@ -52144,6 +52144,22 @@
             "role_id": 38174103118571630,
             "server_region": "ws_asia_01"
         },
+        "38174103118571638": {
+            "crew_id": 901952020261,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "«Erza Titania»'s Apprentice,0",
+            "gender": 1,
+            "hp": 186653.5625,
+            "last_seen": 1766974499,
+            "level": 56,
+            "name": "Pecorine ",
+            "name_history": [
+                "Pecorine "
+            ],
+            "registered": "Nov 26, 2025, 10:18:52 PM",
+            "role_id": 38174103118571638,
+            "server_region": "ws_asia_01"
+        },
         "38174103118571646": {
             "crew_id": 0,
             "crew_name": "",
@@ -62115,11 +62131,11 @@
         "38174103118581689": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 350695.25,
-            "last_seen": 1765126031,
-            "level": 52,
+            "hp": 635784.5625,
+            "last_seen": 1766974499,
+            "level": 66,
             "name": "舞桜",
             "name_history": [
                 "舞桜"
@@ -75776,6 +75792,22 @@
             "role_id": 38174103118596511,
             "server_region": "ws_asia_01"
         },
+        "38174103118596518": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 32759.1484375,
+            "last_seen": 1766974499,
+            "level": 11,
+            "name": "MaD Max",
+            "name_history": [
+                "MaD Max"
+            ],
+            "registered": "Dec 10, 2025, 1:40:02 AM",
+            "role_id": 38174103118596518,
+            "server_region": "ws_asia_01"
+        },
         "38174103118596572": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
@@ -80145,8 +80177,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5009,
+    "accounts_total": 5011,
     "created": 1764092421,
-    "last_updated": 1766974439,
+    "last_updated": 1766974499,
     "server_region": "ws_asia_01"
 }
