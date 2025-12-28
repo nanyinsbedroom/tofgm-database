@@ -4439,14 +4439,14 @@
         "63582695852277": {
             "crew_id": 8589949396,
             "crew_name": "星辰",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "2_2_0_58",
             "gender": 1,
-            "hp": 783571.875,
-            "last_seen": 1763937543,
-            "level": 71,
-            "name": "果汁橙、",
+            "hp": 1045123.1875,
+            "last_seen": 1766962699,
+            "level": 77,
+            "name": "Milu.",
             "name_history": [
-                "果汁橙、"
+                "Milu."
             ],
             "registered": "2025年9月25日 下午6:26:50",
             "role_id": 63582695852277,
@@ -11369,9 +11369,15 @@
         "63582695857577": {
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "last_seen": 1759955188,
+            "hp": 1067271.0,
+            "last_seen": 1766962699,
+            "level": 76,
             "name": "加藤惠",
+            "name_history": [
+                "加藤惠"
+            ],
             "registered": "2025年9月25日 下午7:51:11",
             "role_id": 63582695857577,
             "server_region": "cosmic_fold"
@@ -17455,6 +17461,22 @@
             "name": "柠檬.君",
             "registered": "2025年9月25日 下午10:03:41",
             "role_id": 63582695862085,
+            "server_region": "cosmic_fold"
+        },
+        "63582695862088": {
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "2_2_0_31",
+            "gender": 1,
+            "hp": 1194672.875,
+            "last_seen": 1766962699,
+            "level": 77,
+            "name": "珠泪哀歌",
+            "name_history": [
+                "珠泪哀歌"
+            ],
+            "registered": "2025年9月25日 下午10:03:47",
+            "role_id": 63582695862088,
             "server_region": "cosmic_fold"
         },
         "63582695862105": {
@@ -43446,6 +43468,22 @@
             "role_id": 63582695951584,
             "server_region": "cosmic_fold"
         },
+        "63582695951625": {
+            "crew_id": 347892365780,
+            "crew_name": "格兰塞法",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 780923.125,
+            "last_seen": 1766962699,
+            "level": 76,
+            "name": "太太",
+            "name_history": [
+                "太太"
+            ],
+            "registered": "2025年11月3日 上午12:01:11",
+            "role_id": 63582695951625,
+            "server_region": "cosmic_fold"
+        },
         "63582695951691": {
             "crew_id": 0,
             "crew_name": "",
@@ -43652,6 +43690,22 @@
             ],
             "registered": "2025年11月9日 上午1:25:29",
             "role_id": 63582695955524,
+            "server_region": "cosmic_fold"
+        },
+        "63582695956551": {
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 929961.6875,
+            "last_seen": 1766962699,
+            "level": 75,
+            "name": "永裴",
+            "name_history": [
+                "永裴"
+            ],
+            "registered": "2025年11月10日 上午4:33:58",
+            "role_id": 63582695956551,
             "server_region": "cosmic_fold"
         },
         "63582695956702": {
@@ -43958,6 +44012,22 @@
             "role_id": 63582695958626,
             "server_region": "cosmic_fold"
         },
+        "63582695958675": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137358.0,
+            "last_seen": 1766962699,
+            "level": 55,
+            "name": "oeeeeq",
+            "name_history": [
+                "oeeeeq"
+            ],
+            "registered": "2025年11月14日 下午2:17:27",
+            "role_id": 63582695958675,
+            "server_region": "cosmic_fold"
+        },
         "63582695958679": {
             "crew_id": 536870926804,
             "crew_name": "女神装置",
@@ -43972,6 +44042,22 @@
             ],
             "registered": "2025年11月14日 下午2:21:56",
             "role_id": 63582695958679,
+            "server_region": "cosmic_fold"
+        },
+        "63582695958692": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137358.0,
+            "last_seen": 1766962699,
+            "level": 55,
+            "name": "okjjhhh",
+            "name_history": [
+                "okjjhhh"
+            ],
+            "registered": "2025年11月14日 下午3:00:51",
+            "role_id": 63582695958692,
             "server_region": "cosmic_fold"
         },
         "63582695958769": {
@@ -46183,8 +46269,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3810,
+    "accounts_total": 3815,
     "created": 1758803451,
-    "last_updated": 1766962639,
+    "last_updated": 1766962699,
     "server_region": "cosmic_fold"
 }
