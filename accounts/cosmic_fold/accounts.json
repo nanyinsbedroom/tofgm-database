@@ -20023,12 +20023,15 @@
         "63582695864476": {
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 566047.6875,
-            "last_seen": 1760698319,
-            "level": 60,
+            "hp": 1089202.375,
+            "last_seen": 1766963780,
+            "level": 77,
             "name": "宇宙天魔",
+            "name_history": [
+                "宇宙天魔"
+            ],
             "registered": "2025年9月25日 下午11:42:05",
             "role_id": 63582695864476,
             "server_region": "cosmic_fold"
@@ -23172,6 +23175,22 @@
             "name": "幻想撼动巨龙",
             "registered": "2025年9月26日 下午1:01:30",
             "role_id": 63582695868707,
+            "server_region": "cosmic_fold"
+        },
+        "63582695868713": {
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "2_10_1_8",
+            "gender": 1,
+            "hp": 1139601.125,
+            "last_seen": 1766963780,
+            "level": 77,
+            "name": "群众",
+            "name_history": [
+                "群众"
+            ],
+            "registered": "2025年9月26日 下午1:02:16",
+            "role_id": 63582695868713,
             "server_region": "cosmic_fold"
         },
         "63582695868733": {
@@ -31477,12 +31496,12 @@
         },
         "63582695890693": {
             "crew_id": 128849033684,
-            "crew_name": "神待少女",
-            "equipping_title": "1_6_4_26",
+            "crew_name": "月歌行",
+            "equipping_title": "2_2_0_62",
             "gender": 1,
-            "hp": 888771.1875,
-            "last_seen": 1763833090,
-            "level": 72,
+            "hp": 1131472.5,
+            "last_seen": 1766963780,
+            "level": 77,
             "name": "林鹿",
             "name_history": [
                 "林鹿"
@@ -34580,6 +34599,22 @@
             "name": "发呢天",
             "registered": "2025年10月4日 下午1:25:36",
             "role_id": 63582695905910,
+            "server_region": "cosmic_fold"
+        },
+        "63582695905921": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "2_7_0_12",
+            "gender": 0,
+            "hp": 1174338.5,
+            "last_seen": 1766963780,
+            "level": 77,
+            "name": "信仰即可得救",
+            "name_history": [
+                "信仰即可得救"
+            ],
+            "registered": "2025年10月4日 下午1:34:36",
+            "role_id": 63582695905921,
             "server_region": "cosmic_fold"
         },
         "63582695905944": {
@@ -46494,6 +46529,22 @@
             "role_id": 63582695981747,
             "server_region": "cosmic_fold"
         },
+        "63582695981830": {
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "1_1_4_1",
+            "gender": 1,
+            "hp": 351199.0,
+            "last_seen": 1766963780,
+            "level": 77,
+            "name": "火柴",
+            "name_history": [
+                "火柴"
+            ],
+            "registered": "2025年12月24日 下午4:52:19",
+            "role_id": 63582695981830,
+            "server_region": "cosmic_fold"
+        },
         "63582695982521": {
             "crew_id": 0,
             "crew_name": "",
@@ -46511,8 +46562,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3829,
+    "accounts_total": 3832,
     "created": 1758803451,
-    "last_updated": 1766963720,
+    "last_updated": 1766963780,
     "server_region": "cosmic_fold"
 }
