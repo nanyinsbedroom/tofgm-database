@@ -2660,8 +2660,8 @@
             "crew_name": "FridayKnight",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1941970.375,
-            "last_seen": 1762683371,
+            "hp": 1755427.75,
+            "last_seen": 1766939111,
             "level": 100,
             "name": "孤狼",
             "name_history": [
@@ -18097,12 +18097,15 @@
         "68775311752531": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_3_1_5",
             "gender": 1,
-            "hp": 870109.5,
-            "last_seen": 1761300579,
-            "level": 81,
+            "hp": 946049.1875,
+            "last_seen": 1766939111,
+            "level": 100,
             "name": "mia07",
+            "name_history": [
+                "mia07"
+            ],
             "registered": "Sep 29, 2025, 8:18:05 AM",
             "role_id": 68775311752531,
             "server_region": "southeast_asia"
@@ -21438,6 +21441,22 @@
             ],
             "registered": "Nov 27, 2025, 6:45:28 AM",
             "role_id": 68775311758519,
+            "server_region": "southeast_asia"
+        },
+        "68775311758872": {
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 806723.9375,
+            "last_seen": 1766939111,
+            "level": 96,
+            "name": " Elysia ",
+            "name_history": [
+                " Elysia "
+            ],
+            "registered": "Dec 2, 2025, 7:13:20 AM",
+            "role_id": 68775311758872,
             "server_region": "southeast_asia"
         },
         "68775311759606": {
@@ -26858,8 +26877,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 1999,
+    "accounts_total": 2000,
     "created": 1753795148,
-    "last_updated": 1766939051,
+    "last_updated": 1766939111,
     "server_region": "southeast_asia"
 }
