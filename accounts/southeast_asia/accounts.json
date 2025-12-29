@@ -2145,9 +2145,15 @@
         "68732361645328": {
             "crew_id": 992137461379,
             "crew_name": "ExilesMY",
+            "equipping_title": "Tencent_Sever_113",
             "gender": 0,
-            "last_seen": 1756571007,
+            "hp": 1082718.75,
+            "last_seen": 1767038884,
+            "level": 100,
             "name": "Pentagon",
+            "name_history": [
+                "Pentagon"
+            ],
             "registered": "Aug 11, 2022, 8:35:08 AM",
             "role_id": 68732361645328,
             "server_region": "southeast_asia"
@@ -26457,6 +26463,22 @@
             "role_id": 68809671079746,
             "server_region": "southeast_asia"
         },
+        "68813966183735": {
+            "crew_id": 38654721665,
+            "crew_name": "SOVEREIGN",
+            "equipping_title": "Title_tencentshare_os_4",
+            "gender": 0,
+            "hp": 1516634.75,
+            "last_seen": 1767038884,
+            "level": 100,
+            "name": "Ioia",
+            "name_history": [
+                "Ioia"
+            ],
+            "registered": "Mar 8, 2023, 1:44:49 PM",
+            "role_id": 68813966183735,
+            "server_region": "southeast_asia"
+        },
         "68818260984133": {
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
@@ -26911,8 +26933,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 2001,
+    "accounts_total": 2002,
     "created": 1753795148,
-    "last_updated": 1767038824,
+    "last_updated": 1767038884,
     "server_region": "southeast_asia"
 }
