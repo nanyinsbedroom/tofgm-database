@@ -64,6 +64,22 @@
             "role_id": 38174111708479499,
             "server_region": "ws_europe_01"
         },
+        "38174111708479501": {
+            "crew_id": 17188757287,
+            "crew_name": "Moonlight",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1149203.5,
+            "last_seen": 1767127830,
+            "level": 67,
+            "name": "Lico",
+            "name_history": [
+                "Lico"
+            ],
+            "registered": "Nov 25, 2025, 9:01:39 AM",
+            "role_id": 38174111708479501,
+            "server_region": "ws_europe_01"
+        },
         "38174111708479505": {
             "crew_id": 0,
             "crew_name": "",
@@ -1086,6 +1102,22 @@
             ],
             "registered": "Nov 25, 2025, 9:10:33 AM",
             "role_id": 38174111708480030,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708480034": {
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "1_6_4_27",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_seen": 1767127830,
+            "level": 67,
+            "name": "Blender",
+            "name_history": [
+                "Blender"
+            ],
+            "registered": "Nov 25, 2025, 9:10:41 AM",
+            "role_id": 38174111708480034,
             "server_region": "ws_europe_01"
         },
         "38174111708480044": {
@@ -3171,11 +3203,11 @@
         "38174111708481616": {
             "crew_id": 622779146023,
             "crew_name": "العرب المبتدئين",
-            "equipping_title": "2_9_0_1",
+            "equipping_title": "2_10_1_10",
             "gender": 0,
-            "hp": 396676.59375,
-            "last_seen": 1766431881,
-            "level": 63,
+            "hp": 3108491.5,
+            "last_seen": 1767127830,
+            "level": 67,
             "name": "Omar",
             "name_history": [
                 "Omar"
@@ -3955,11 +3987,11 @@
         "38174111708482195": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_017_world;2",
+            "equipping_title": "1_1_18_1",
             "gender": 1,
-            "hp": 356622.0,
-            "last_seen": 1764858512,
-            "level": 50,
+            "hp": 2600000.0,
+            "last_seen": 1767127830,
+            "level": 66,
             "name": "excessive10",
             "name_history": [
                 "excessive10"
@@ -5326,6 +5358,22 @@
             ],
             "registered": "Nov 25, 2025, 2:56:27 PM",
             "role_id": 38174111708483860,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708483875": {
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "2_10_1_8",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_seen": 1767127830,
+            "level": 67,
+            "name": "GP",
+            "name_history": [
+                "GP"
+            ],
+            "registered": "Nov 25, 2025, 2:58:12 PM",
+            "role_id": 38174111708483875,
             "server_region": "ws_europe_01"
         },
         "38174111708483888": {
@@ -6947,11 +6995,11 @@
         "38174111708487144": {
             "crew_id": 12893789991,
             "crew_name": "Fantasy",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 450002.03125,
-            "last_seen": 1766254987,
-            "level": 61,
+            "hp": 1804822.75,
+            "last_seen": 1767127830,
+            "level": 65,
             "name": "IxNightxI",
             "name_history": [
                 "IxNightxI"
@@ -7118,6 +7166,22 @@
             ],
             "registered": "Nov 25, 2025, 9:17:16 PM",
             "role_id": 38174111708487466,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708487494": {
+            "crew_id": 266296860455,
+            "crew_name": "Star Guardians",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_020_world;15",
+            "gender": 0,
+            "hp": 1485792.75,
+            "last_seen": 1767127830,
+            "level": 67,
+            "name": "DatAhsan",
+            "name_history": [
+                "DatAhsan"
+            ],
+            "registered": "Nov 25, 2025, 9:20:37 PM",
+            "role_id": 38174111708487494,
             "server_region": "ws_europe_01"
         },
         "38174111708487596": {
@@ -8369,13 +8433,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708492093": {
-            "crew_id": 511109996327,
-            "crew_name": "Chaos",
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 578541.875,
-            "last_seen": 1766254627,
-            "level": 62,
+            "hp": 2600000.0,
+            "last_seen": 1767127830,
+            "level": 67,
             "name": "DaemendLock",
             "name_history": [
                 "DaemendLock"
@@ -10497,8 +10561,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 656,
+    "accounts_total": 660,
     "created": 1764046902,
-    "last_updated": 1767127770,
+    "last_updated": 1767127830,
     "server_region": "ws_europe_01"
 }
