@@ -147,11 +147,11 @@
         "38174111708479519": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "2_2_0_19",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 656526.0,
-            "last_seen": 1766430860,
-            "level": 63,
+            "hp": 1100769.375,
+            "last_seen": 1767128010,
+            "level": 67,
             "name": "Feras",
             "name_history": [
                 "Feras"
@@ -494,6 +494,22 @@
             ],
             "registered": "Nov 25, 2025, 9:03:20 AM",
             "role_id": 38174111708479697,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708479699": {
+            "crew_id": 17188757287,
+            "crew_name": "Moonlight",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_seen": 1767128010,
+            "level": 64,
+            "name": "ZenovA",
+            "name_history": [
+                "ZenovA"
+            ],
+            "registered": "Nov 25, 2025, 9:03:21 AM",
+            "role_id": 38174111708479699,
             "server_region": "ws_europe_01"
         },
         "38174111708479702": {
@@ -3246,6 +3262,22 @@
             ],
             "registered": "Nov 25, 2025, 11:06:54 AM",
             "role_id": 38174111708481625,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708481638": {
+            "crew_id": 622779146023,
+            "crew_name": "العرب المبتدئين",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_seen": 1767128010,
+            "level": 67,
+            "name": "gogo1",
+            "name_history": [
+                "gogo1"
+            ],
+            "registered": "Nov 25, 2025, 11:08:11 AM",
+            "role_id": 38174111708481638,
             "server_region": "ws_europe_01"
         },
         "38174111708481663": {
@@ -6992,6 +7024,22 @@
             "role_id": 38174111708487006,
             "server_region": "ws_europe_01"
         },
+        "38174111708487115": {
+            "crew_id": 141742808871,
+            "crew_name": "Timeless",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_seen": 1767128010,
+            "level": 66,
+            "name": "Pixielle",
+            "name_history": [
+                "Pixielle"
+            ],
+            "registered": "Nov 25, 2025, 8:34:16 PM",
+            "role_id": 38174111708487115,
+            "server_region": "ws_europe_01"
+        },
         "38174111708487144": {
             "crew_id": 12893789991,
             "crew_name": "Fantasy",
@@ -10561,8 +10609,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 660,
+    "accounts_total": 663,
     "created": 1764046902,
-    "last_updated": 1767127830,
+    "last_updated": 1767128010,
     "server_region": "ws_europe_01"
 }
