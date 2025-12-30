@@ -2408,6 +2408,22 @@
             "role_id": 60567630866647,
             "server_region": "visser_aida"
         },
+        "60567630866868": {
+            "crew_id": 270582953855,
+            "crew_name": "不氪金联盟",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 749396.375,
+            "last_seen": 1767136294,
+            "level": 69,
+            "name": "永恒的烛火",
+            "name_history": [
+                "永恒的烛火"
+            ],
+            "registered": "2025年12月16日 下午4:16:30",
+            "role_id": 60567630866868,
+            "server_region": "visser_aida"
+        },
         "60567630867106": {
             "crew_id": 111669164000,
             "crew_name": "神域",
@@ -4501,12 +4517,12 @@
             "server_region": "visser_aida"
         },
         "60601988557288": {
-            "crew_id": 25769817880,
-            "crew_name": "白晝梦",
-            "equipping_title": "卷卷鳕的启迪人,1",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2229176.5,
-            "last_seen": 1766961498,
+            "hp": 2230096.0,
+            "last_seen": 1767136294,
             "level": 100,
             "name": "星稀",
             "name_history": [
@@ -11725,8 +11741,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 867,
+    "accounts_total": 868,
     "created": 1758086949,
-    "last_updated": 1767135753,
+    "last_updated": 1767136294,
     "server_region": "visser_aida"
 }
