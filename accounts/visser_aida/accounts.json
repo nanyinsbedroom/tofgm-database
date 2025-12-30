@@ -402,10 +402,13 @@
             "crew_name": "白晝梦",
             "equipping_title": "2_9_0_1",
             "gender": 1,
-            "hp": 1852921.625,
-            "last_seen": 1761569326,
+            "hp": 1927968.125,
+            "last_seen": 1767131915,
             "level": 100,
             "name": "小火柴∪",
+            "name_history": [
+                "小火柴∪"
+            ],
             "registered": "2021年12月16日 下午11:20:08",
             "role_id": 60567628836918,
             "server_region": "visser_aida"
@@ -3189,6 +3192,22 @@
             ],
             "registered": "2021年12月16日 下午3:00:27",
             "role_id": 60580513729208,
+            "server_region": "visser_aida"
+        },
+        "60580513748539": {
+            "crew_id": 219043346204,
+            "crew_name": "魔法少女",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2262769.25,
+            "last_seen": 1767131915,
+            "level": 100,
+            "name": "小哑",
+            "name_history": [
+                "小哑"
+            ],
+            "registered": "2021年12月18日 下午5:15:46",
+            "role_id": 60580513748539,
             "server_region": "visser_aida"
         },
         "60580513762655": {
@@ -11457,8 +11476,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 851,
+    "accounts_total": 852,
     "created": 1758086949,
-    "last_updated": 1767130972,
+    "last_updated": 1767131915,
     "server_region": "visser_aida"
 }
