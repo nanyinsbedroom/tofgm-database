@@ -3314,11 +3314,11 @@
         "63582695851593": {
             "crew_id": 8589949396,
             "crew_name": "星辰",
-            "equipping_title": "1_1_22_1",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 892606.875,
-            "last_seen": 1763816325,
-            "level": 72,
+            "hp": 1150227.0,
+            "last_seen": 1767140035,
+            "level": 77,
             "name": "无名的死咸鱼",
             "name_history": [
                 "无名的死咸鱼"
@@ -47488,6 +47488,22 @@
             "role_id": 63582695977385,
             "server_region": "cosmic_fold"
         },
+        "63582695977527": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91091.234375,
+            "last_seen": 1767140035,
+            "level": 38,
+            "name": "暮云生",
+            "name_history": [
+                "暮云生"
+            ],
+            "registered": "2025年12月13日 下午3:33:07",
+            "role_id": 63582695977527,
+            "server_region": "cosmic_fold"
+        },
         "63582695979043": {
             "crew_id": 94489295316,
             "crew_name": "魅魔",
@@ -47711,10 +47727,26 @@
             "registered": "2025年12月29日 下午10:26:01",
             "role_id": 63582695982654,
             "server_region": "cosmic_fold"
+        },
+        "63582695982779": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 4848.47314453125,
+            "last_seen": 1767140035,
+            "level": 11,
+            "name": "美人洞受罪",
+            "name_history": [
+                "美人洞受罪"
+            ],
+            "registered": "2025年12月30日 下午10:50:48",
+            "role_id": 63582695982779,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3900,
+    "accounts_total": 3902,
     "created": 1758803451,
-    "last_updated": 1767139915,
+    "last_updated": 1767140035,
     "server_region": "cosmic_fold"
 }
