@@ -1753,9 +1753,15 @@
         "60567630701662": {
             "crew_id": 416611841916,
             "crew_name": "一堆大佬",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759408420,
+            "hp": 33237940.0,
+            "last_seen": 1767130912,
+            "level": 100,
             "name": "星尘雨落",
+            "name_history": [
+                "星尘雨落"
+            ],
             "registered": "2025年4月14日 下午1:45:57",
             "role_id": 60567630701662,
             "server_region": "visser_aida"
@@ -8036,8 +8042,8 @@
             "crew_name": "天空之城",
             "equipping_title": "2_2_0_43",
             "gender": 0,
-            "hp": 24452896.0,
-            "last_seen": 1766610298,
+            "hp": 33807464.0,
+            "last_seen": 1767130912,
             "level": 100,
             "name": "gateoo",
             "name_history": [
@@ -8091,8 +8097,8 @@
             "crew_name": "不氪金联盟",
             "equipping_title": "月西江的导师,0",
             "gender": 1,
-            "hp": 2585976.25,
-            "last_seen": 1766960731,
+            "hp": 33769600.0,
+            "last_seen": 1767130912,
             "level": 100,
             "name": "七月兮",
             "name_history": [
@@ -11450,6 +11456,6 @@
     },
     "accounts_total": 851,
     "created": 1758086949,
-    "last_updated": 1767130851,
+    "last_updated": 1767130912,
     "server_region": "visser_aida"
 }
