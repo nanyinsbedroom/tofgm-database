@@ -6632,14 +6632,14 @@
         "63582695853696": {
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;1",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 958131.125,
-            "last_seen": 1763819343,
-            "level": 72,
-            "name": "蓝樱",
+            "hp": 1211619.625,
+            "last_seen": 1767139795,
+            "level": 77,
+            "name": "柚歌10号",
             "name_history": [
-                "蓝樱"
+                "柚歌10号"
             ],
             "registered": "2025年9月25日 下午6:47:56",
             "role_id": 63582695853696,
@@ -33292,11 +33292,11 @@
         "63582695897734": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_8_0_8",
+            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;58",
             "gender": 1,
-            "hp": 900559.4375,
-            "last_seen": 1763943510,
-            "level": 72,
+            "hp": 1175730.25,
+            "last_seen": 1767139795,
+            "level": 77,
             "name": "冰美式",
             "name_history": [
                 "冰美式"
@@ -47536,10 +47536,26 @@
             "registered": "2025年12月28日 下午9:00:13",
             "role_id": 63582695982521,
             "server_region": "cosmic_fold"
+        },
+        "63582695982654": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 91382.203125,
+            "last_seen": 1767139795,
+            "level": 34,
+            "name": "莫宁教授",
+            "name_history": [
+                "莫宁教授"
+            ],
+            "registered": "2025年12月29日 下午10:26:01",
+            "role_id": 63582695982654,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3890,
+    "accounts_total": 3891,
     "created": 1758803451,
-    "last_updated": 1767139734,
+    "last_updated": 1767139795,
     "server_region": "cosmic_fold"
 }
