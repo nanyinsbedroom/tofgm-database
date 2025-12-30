@@ -14124,12 +14124,12 @@
             "crew_name": "抵达深空",
             "equipping_title": "通天晓的导师,0",
             "gender": 1,
-            "hp": 498581.0625,
-            "last_seen": 1763819523,
-            "level": 71,
-            "name": "收吐蕃米的豆腐",
+            "hp": 593598.0,
+            "last_seen": 1767137855,
+            "level": 75,
+            "name": "佛山黄黑红",
             "name_history": [
-                "收吐蕃米的豆腐"
+                "佛山黄黑红"
             ],
             "registered": "2025年9月25日 下午8:33:02",
             "role_id": 63582695859250,
@@ -21670,11 +21670,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695865992": {
-            "crew_id": 107374197204,
-            "crew_name": "幻塔",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759681873,
+            "hp": 987106.8125,
+            "last_seen": 1767137855,
+            "level": 76,
             "name": "无语",
+            "name_history": [
+                "无语"
+            ],
             "registered": "2025年9月26日 上午1:41:57",
             "role_id": 63582695865992,
             "server_region": "cosmic_fold"
@@ -24248,8 +24254,8 @@
             "crew_name": "天使社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1111291.125,
-            "last_seen": 1766962339,
+            "hp": 1136012.0,
+            "last_seen": 1767137855,
             "level": 77,
             "name": "秋辰",
             "name_history": [
@@ -47323,6 +47329,22 @@
             "role_id": 63582695980766,
             "server_region": "cosmic_fold"
         },
+        "63582695981007": {
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_2_0_48",
+            "gender": 1,
+            "hp": 974382.5625,
+            "last_seen": 1767137855,
+            "level": 77,
+            "name": "开心小洋",
+            "name_history": [
+                "开心小洋"
+            ],
+            "registered": "2025年12月20日 下午2:48:06",
+            "role_id": 63582695981007,
+            "server_region": "cosmic_fold"
+        },
         "63582695981110": {
             "crew_id": 0,
             "crew_name": "",
@@ -47420,8 +47442,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3883,
+    "accounts_total": 3884,
     "created": 1758803451,
-    "last_updated": 1767137795,
+    "last_updated": 1767137855,
     "server_region": "cosmic_fold"
 }
