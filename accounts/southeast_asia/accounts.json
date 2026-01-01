@@ -1622,7 +1622,7 @@
             "equipping_title": "1_8_0_9",
             "gender": 1,
             "hp": 6332984.0,
-            "last_seen": 1767300004,
+            "last_seen": 1767300652,
             "level": 100,
             "name": "KZ ソワレ",
             "name_history": [
@@ -3336,11 +3336,17 @@
             "server_region": "southeast_asia"
         },
         "68736656625154": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
+            "equipping_title": "1_8_1_1",
             "gender": 1,
-            "last_seen": 1758281850,
+            "hp": 6187884.5,
+            "last_seen": 1767300652,
+            "level": 100,
             "name": "ElderTayan",
+            "name_history": [
+                "ElderTayan"
+            ],
             "registered": "Aug 11, 2022, 12:38:00 PM",
             "role_id": 68736656625154,
             "server_region": "southeast_asia"
@@ -7338,8 +7344,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2835838.25,
-            "last_seen": 1767285851,
+            "hp": 5557700.0,
+            "last_seen": 1767300652,
             "level": 100,
             "name": "EinAvellino",
             "name_history": [
@@ -27059,6 +27065,6 @@
     },
     "accounts_total": 2009,
     "created": 1753795148,
-    "last_updated": 1767300545,
+    "last_updated": 1767300652,
     "server_region": "southeast_asia"
 }
