@@ -2598,7 +2598,7 @@
             "equipping_title": "2_8_0_9",
             "gender": 1,
             "hp": 826347.75,
-            "last_seen": 1767984254,
+            "last_seen": 1768009300,
             "level": 70,
             "name": "Dwin",
             "name_history": [
@@ -8307,11 +8307,11 @@
         "38174103118546429": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_10",
             "gender": 0,
-            "hp": 626858.375,
-            "last_seen": 1766953107,
-            "level": 65,
+            "hp": 747707.875,
+            "last_seen": 1768009300,
+            "level": 70,
             "name": "Caltsio",
             "name_history": [
                 "Caltsio"
@@ -15446,7 +15446,7 @@
             "equipping_title": "KZ ソワレ的导师,0",
             "gender": 1,
             "hp": 808399.375,
-            "last_seen": 1767983532,
+            "last_seen": 1768009300,
             "level": 70,
             "name": "Zenxiao",
             "name_history": [
@@ -16566,7 +16566,7 @@
             "equipping_title": "2_10_1_12",
             "gender": 1,
             "hp": 764463.5,
-            "last_seen": 1767984314,
+            "last_seen": 1768009300,
             "level": 70,
             "name": "PolitanNeko",
             "name_history": [
@@ -27891,11 +27891,11 @@
         "38174103118557876": {
             "crew_id": 12893789989,
             "crew_name": "StarDust",
-            "equipping_title": "1_9_0_1",
+            "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 542750.25,
-            "last_seen": 1766297741,
-            "level": 62,
+            "hp": 689855.0,
+            "last_seen": 1768009300,
+            "level": 70,
             "name": "SkyRhapsody",
             "name_history": [
                 "SkyRhapsody"
@@ -77056,6 +77056,22 @@
             "role_id": 38174103118598728,
             "server_region": "ws_asia_01"
         },
+        "38174103118598752": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 44256.0,
+            "last_seen": 1768009300,
+            "level": 18,
+            "name": "Чай",
+            "name_history": [
+                "Чай"
+            ],
+            "registered": "Dec 13, 2025, 7:04:44 PM",
+            "role_id": 38174103118598752,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598813": {
             "crew_id": 0,
             "crew_name": "",
@@ -77651,11 +77667,11 @@
         "38174103118600166": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 470907.6875,
-            "last_seen": 1766506729,
-            "level": 63,
+            "hp": 673695.1875,
+            "last_seen": 1768009300,
+            "level": 70,
             "name": "takec",
             "name_history": [
                 "takec"
@@ -80449,8 +80465,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5028,
+    "accounts_total": 5029,
     "created": 1764092421,
-    "last_updated": 1768009240,
+    "last_updated": 1768009300,
     "server_region": "ws_asia_01"
 }
