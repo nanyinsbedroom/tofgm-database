@@ -74353,13 +74353,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118593653": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "1_1_1_1",
+            "crew_id": 51548495653,
+            "crew_name": "Hykros",
+            "equipping_title": "2_8_0_7",
             "gender": 0,
-            "hp": 196137.765625,
-            "last_seen": 1765574896,
-            "level": 57,
+            "hp": 744554.5,
+            "last_seen": 1767984074,
+            "level": 70,
             "name": "ZennoIchi",
             "name_history": [
                 "ZennoIchi"
@@ -80352,6 +80352,22 @@
             "role_id": 38174103118607296,
             "server_region": "ws_asia_01"
         },
+        "38174103118608308": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 336991.8125,
+            "last_seen": 1767984074,
+            "level": 70,
+            "name": "師匠",
+            "name_history": [
+                "師匠"
+            ],
+            "registered": "Dec 31, 2025, 11:56:32 PM",
+            "role_id": 38174103118608308,
+            "server_region": "ws_asia_01"
+        },
         "38174103118609442": {
             "crew_id": 0,
             "crew_name": "",
@@ -80385,8 +80401,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5024,
+    "accounts_total": 5025,
     "created": 1764092421,
-    "last_updated": 1767983773,
+    "last_updated": 1767984074,
     "server_region": "ws_asia_01"
 }
