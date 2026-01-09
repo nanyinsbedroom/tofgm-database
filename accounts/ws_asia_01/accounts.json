@@ -10915,11 +10915,11 @@
         "38174103118547290": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "noeLe's Apprentice,0",
+            "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 461997.0,
-            "last_seen": 1766798807,
-            "level": 63,
+            "hp": 590662.75,
+            "last_seen": 1767984854,
+            "level": 69,
             "name": "ましろ",
             "name_history": [
                 "ましろ"
@@ -80352,6 +80352,22 @@
             "role_id": 38174103118607003,
             "server_region": "ws_asia_01"
         },
+        "38174103118607169": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137940.8125,
+            "last_seen": 1767984854,
+            "level": 49,
+            "name": "Savage Rat",
+            "name_history": [
+                "Savage Rat"
+            ],
+            "registered": "Dec 29, 2025, 8:44:42 AM",
+            "role_id": 38174103118607169,
+            "server_region": "ws_asia_01"
+        },
         "38174103118607296": {
             "crew_id": 0,
             "crew_name": "",
@@ -80417,8 +80433,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5026,
+    "accounts_total": 5027,
     "created": 1764092421,
-    "last_updated": 1767984734,
+    "last_updated": 1767984854,
     "server_region": "ws_asia_01"
 }
