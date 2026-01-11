@@ -1027,11 +1027,11 @@
         "38174103118545043": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "Nyaan's Mentor,0",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 699834.0625,
-            "last_seen": 1766875937,
-            "level": 65,
+            "hp": 827340.8125,
+            "last_seen": 1768188856,
+            "level": 70,
             "name": "Coral",
             "name_history": [
                 "Coral"
@@ -12613,8 +12613,8 @@
             "crew_name": "Hykros",
             "equipping_title": "WorldBossDamage_3;boss_hum_079_world;13",
             "gender": 1,
-            "hp": 804839.0625,
-            "last_seen": 1767984194,
+            "hp": 753526.25,
+            "last_seen": 1768188856,
             "level": 70,
             "name": "ไอหวัง",
             "name_history": [
@@ -21797,8 +21797,8 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_10_0_6",
             "gender": 0,
-            "hp": 820541.75,
-            "last_seen": 1767983532,
+            "hp": 824174.375,
+            "last_seen": 1768188856,
             "level": 70,
             "name": "えりぃと",
             "name_history": [
@@ -74368,6 +74368,22 @@
             "role_id": 38174103118593530,
             "server_region": "ws_asia_01"
         },
+        "38174103118593544": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 44715.0,
+            "last_seen": 1768188856,
+            "level": 25,
+            "name": "KING-",
+            "name_history": [
+                "KING-"
+            ],
+            "registered": "Dec 6, 2025, 4:08:57 PM",
+            "role_id": 38174103118593544,
+            "server_region": "ws_asia_01"
+        },
         "38174103118593587": {
             "crew_id": 0,
             "crew_name": "",
@@ -76574,6 +76590,22 @@
             ],
             "registered": "Dec 11, 2025, 5:04:53 PM",
             "role_id": 38174103118597549,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118597560": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 568130.875,
+            "last_seen": 1768188856,
+            "level": 69,
+            "name": "ANKTM",
+            "name_history": [
+                "ANKTM"
+            ],
+            "registered": "Dec 11, 2025, 5:38:50 PM",
+            "role_id": 38174103118597560,
             "server_region": "ws_asia_01"
         },
         "38174103118597579": {
@@ -80735,10 +80767,26 @@
             "registered": "Jan 10, 2026, 2:37:56 AM",
             "role_id": 38174103118609567,
             "server_region": "ws_asia_01"
+        },
+        "38174103118609701": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 64580.66796875,
+            "last_seen": 1768188856,
+            "level": 19,
+            "name": "Lina HveoG",
+            "name_history": [
+                "Lina HveoG"
+            ],
+            "registered": "Jan 11, 2026, 1:53:37 AM",
+            "role_id": 38174103118609701,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5046,
+    "accounts_total": 5049,
     "created": 1764092421,
-    "last_updated": 1768188796,
+    "last_updated": 1768188856,
     "server_region": "ws_asia_01"
 }
