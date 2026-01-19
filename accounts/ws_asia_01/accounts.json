@@ -371,11 +371,11 @@
         "38174103118544951": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "1_1_22_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 869856.625,
-            "last_seen": 1766956350,
-            "level": 66,
+            "hp": 844006.625,
+            "last_seen": 1768872806,
+            "level": 71,
             "name": "『夜』Aleria",
             "name_history": [
                 "『夜』Aleria"
@@ -12595,11 +12595,11 @@
         "38174103118549472": {
             "crew_id": 382260977445,
             "crew_name": "Rst",
-            "equipping_title": "WorldBossDamage_1;boss_hum_057_world;1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 696595.4375,
-            "last_seen": 1767036543,
-            "level": 66,
+            "hp": 851000.125,
+            "last_seen": 1768872806,
+            "level": 71,
             "name": "ゆう",
             "name_history": [
                 "ゆう"
@@ -20499,11 +20499,11 @@
         "38174103118555357": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_1_3_1",
             "gender": 0,
-            "hp": 170997.59375,
-            "last_seen": 1765000007,
-            "level": 52,
+            "hp": 576494.375,
+            "last_seen": 1768872806,
+            "level": 70,
             "name": "おむっちょ",
             "name_history": [
                 "おむっちょ"
@@ -44757,9 +44757,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 460965.21875,
-            "last_seen": 1767984194,
-            "level": 70,
+            "hp": 476344.40625,
+            "last_seen": 1768872806,
+            "level": 71,
             "name": "XiFays",
             "name_history": [
                 "XiFays"
@@ -75392,6 +75392,22 @@
             "role_id": 38174103118594804,
             "server_region": "ws_asia_01"
         },
+        "38174103118594872": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 196873.0,
+            "last_seen": 1768872806,
+            "level": 66,
+            "name": "IAmPraveen",
+            "name_history": [
+                "IAmPraveen"
+            ],
+            "registered": "Dec 7, 2025, 10:23:31 PM",
+            "role_id": 38174103118594872,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594878": {
             "crew_id": 0,
             "crew_name": "",
@@ -76526,6 +76542,22 @@
             ],
             "registered": "Dec 11, 2025, 2:44:29 AM",
             "role_id": 38174103118597251,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118597262": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 62908.0,
+            "last_seen": 1768872806,
+            "level": 17,
+            "name": "Yrha Agatha",
+            "name_history": [
+                "Yrha Agatha"
+            ],
+            "registered": "Dec 11, 2025, 3:10:24 AM",
+            "role_id": 38174103118597262,
             "server_region": "ws_asia_01"
         },
         "38174103118597264": {
@@ -81088,6 +81120,22 @@
             "role_id": 38174103118610138,
             "server_region": "ws_asia_01"
         },
+        "38174103118610620": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 283469.9375,
+            "last_seen": 1768872806,
+            "level": 70,
+            "name": " Aliceliese",
+            "name_history": [
+                " Aliceliese"
+            ],
+            "registered": "Jan 18, 2026, 4:24:37 PM",
+            "role_id": 38174103118610620,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610747": {
             "crew_id": 0,
             "crew_name": "",
@@ -81121,8 +81169,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5070,
+    "accounts_total": 5073,
     "created": 1764092421,
-    "last_updated": 1768872746,
+    "last_updated": 1768872806,
     "server_region": "ws_asia_01"
 }
