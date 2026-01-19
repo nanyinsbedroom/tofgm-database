@@ -4069,9 +4069,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 470026.96875,
-            "last_seen": 1766974379,
-            "level": 64,
+            "hp": 539768.125,
+            "last_seen": 1768872746,
+            "level": 69,
             "name": "N00B",
             "name_history": [
                 "N00B"
@@ -6594,12 +6594,12 @@
         },
         "38174103118546025": {
             "crew_id": 579829473061,
-            "crew_name": "白血旅劇団",
+            "crew_name": "ブラックムーン海賊団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 95677.796875,
-            "last_seen": 1764199416,
-            "level": 27,
+            "hp": 748036.125,
+            "last_seen": 1768872746,
+            "level": 71,
             "name": "otela_shu",
             "name_history": [
                 "otela_shu"
@@ -80928,6 +80928,22 @@
             "role_id": 38174103118608885,
             "server_region": "ws_asia_01"
         },
+        "38174103118609177": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 161760.59375,
+            "last_seen": 1768872746,
+            "level": 58,
+            "name": "ちゃお☆彡",
+            "name_history": [
+                "ちゃお☆彡"
+            ],
+            "registered": "Jan 6, 2026, 11:42:56 PM",
+            "role_id": 38174103118609177,
+            "server_region": "ws_asia_01"
+        },
         "38174103118609216": {
             "crew_id": 579829473061,
             "crew_name": "ブラックムーン海賊団",
@@ -81040,6 +81056,38 @@
             "role_id": 38174103118609748,
             "server_region": "ws_asia_01"
         },
+        "38174103118609941": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 18628.0,
+            "last_seen": 1768872746,
+            "level": 8,
+            "name": "N0f01",
+            "name_history": [
+                "N0f01"
+            ],
+            "registered": "Jan 12, 2026, 3:54:26 PM",
+            "role_id": 38174103118609941,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118610138": {
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 120875.0,
+            "last_seen": 1768872746,
+            "level": 49,
+            "name": "拓荒者　　",
+            "name_history": [
+                "拓荒者　　"
+            ],
+            "registered": "Jan 14, 2026, 3:40:14 AM",
+            "role_id": 38174103118610138,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610747": {
             "crew_id": 0,
             "crew_name": "",
@@ -81073,8 +81121,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5067,
+    "accounts_total": 5070,
     "created": 1764092421,
-    "last_updated": 1768872565,
+    "last_updated": 1768872746,
     "server_region": "ws_asia_01"
 }
