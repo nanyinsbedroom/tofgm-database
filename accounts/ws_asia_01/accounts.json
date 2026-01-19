@@ -45299,11 +45299,11 @@
         "38174103118565623": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_2_0_61",
             "gender": 1,
-            "hp": 307373.59375,
-            "last_seen": 1766011235,
-            "level": 60,
+            "hp": 754232.5,
+            "last_seen": 1768873166,
+            "level": 71,
             "name": "Extase",
             "name_history": [
                 "Extase"
@@ -47891,11 +47891,11 @@
         "38174103118567974": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 465009.40625,
-            "last_seen": 1766888591,
-            "level": 63,
+            "hp": 787223.3125,
+            "last_seen": 1768873166,
+            "level": 71,
             "name": "vikidev",
             "name_history": [
                 "vikidev"
@@ -76083,11 +76083,11 @@
         "38174103118596257": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 600882.0625,
-            "last_seen": 1766856770,
-            "level": 65,
+            "hp": 839675.9375,
+            "last_seen": 1768873166,
+            "level": 71,
             "name": "ϻisty",
             "name_history": [
                 "ϻisty"
@@ -81120,6 +81120,22 @@
             "role_id": 38174103118610138,
             "server_region": "ws_asia_01"
         },
+        "38174103118610591": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 42949.0,
+            "last_seen": 1768873166,
+            "level": 13,
+            "name": "Haezt",
+            "name_history": [
+                "Haezt"
+            ],
+            "registered": "Jan 18, 2026, 11:52:28 AM",
+            "role_id": 38174103118610591,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610620": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
@@ -81169,8 +81185,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5073,
+    "accounts_total": 5074,
     "created": 1764092421,
-    "last_updated": 1768873106,
+    "last_updated": 1768873166,
     "server_region": "ws_asia_01"
 }
