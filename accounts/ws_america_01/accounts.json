@@ -499,11 +499,11 @@
         "38174107413512335": {
             "crew_id": 8598822694,
             "crew_name": "Solstice",
-            "equipping_title": "2_8_0_8",
+            "equipping_title": "1_10_0_5",
             "gender": 1,
-            "hp": 646750.75,
-            "last_seen": 1766752972,
-            "level": 64,
+            "hp": 771105.625,
+            "last_seen": 1768828226,
+            "level": 71,
             "name": "Easie",
             "name_history": [
                 "Easie"
@@ -2638,6 +2638,22 @@
             ],
             "registered": "Nov 25, 2025, 3:38:48 AM",
             "role_id": 38174107413513550,
+            "server_region": "ws_america_01"
+        },
+        "38174107413513554": {
+            "crew_id": 115973005094,
+            "crew_name": "DreamFall",
+            "equipping_title": "1_10_0_4",
+            "gender": 1,
+            "hp": 837959.125,
+            "last_seen": 1768828226,
+            "level": 71,
+            "name": "The HP Bar",
+            "name_history": [
+                "The HP Bar"
+            ],
+            "registered": "Nov 25, 2025, 3:39:11 AM",
+            "role_id": 38174107413513554,
             "server_region": "ws_america_01"
         },
         "38174107413513571": {
@@ -10721,13 +10737,13 @@
             "server_region": "ws_america_01"
         },
         "38174107413521339": {
-            "crew_id": 25778691878,
-            "crew_name": "Fate",
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 633748.0,
-            "last_seen": 1766492339,
-            "level": 63,
+            "hp": 826235.1875,
+            "last_seen": 1768828226,
+            "level": 71,
             "name": "Yofy",
             "name_history": [
                 "Yofy"
@@ -16801,8 +16817,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1050,
+    "accounts_total": 1051,
     "created": 1764067509,
-    "last_updated": 1768828106,
+    "last_updated": 1768828226,
     "server_region": "ws_america_01"
 }
