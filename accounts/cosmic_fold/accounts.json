@@ -9476,12 +9476,12 @@
         },
         "63582695856040": {
             "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "狄淇儿的学徒,0",
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_10_1_10",
             "gender": 1,
-            "hp": 857904.375,
-            "last_seen": 1763483682,
-            "level": 71,
+            "hp": 1189617.75,
+            "last_seen": 1768955585,
+            "level": 79,
             "name": "六冰",
             "name_history": [
                 "六冰"
@@ -10275,6 +10275,22 @@
             "name": "玛托伊",
             "registered": "2025年9月25日 下午7:32:00",
             "role_id": 63582695856712,
+            "server_region": "cosmic_fold"
+        },
+        "63582695856716": {
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_2_0_40",
+            "gender": 1,
+            "hp": 1273515.5,
+            "last_seen": 1768955585,
+            "level": 79,
+            "name": "琉",
+            "name_history": [
+                "琉"
+            ],
+            "registered": "2025年9月25日 下午7:32:03",
+            "role_id": 63582695856716,
             "server_region": "cosmic_fold"
         },
         "63582695856726": {
@@ -22277,14 +22293,14 @@
         "63582695866459": {
             "crew_id": 42949687764,
             "crew_name": "群星",
-            "equipping_title": "2_2_0_87",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1115417.5,
-            "last_seen": 1766266491,
-            "level": 76,
-            "name": "月星",
+            "hp": 1327458.125,
+            "last_seen": 1768955585,
+            "level": 79,
+            "name": "蕾贝贝",
             "name_history": [
-                "月星"
+                "蕾贝贝"
             ],
             "registered": "2025年9月26日 上午3:28:14",
             "role_id": 63582695866459,
@@ -28369,13 +28385,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695877195": {
-            "crew_id": 94489295316,
-            "crew_name": "魅魔",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 300107.65625,
-            "last_seen": 1764031675,
-            "level": 70,
+            "hp": 1035580.0,
+            "last_seen": 1768955585,
+            "level": 79,
             "name": "妹妹",
             "name_history": [
                 "妹妹"
@@ -39101,9 +39117,9 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1095522.75,
-            "last_seen": 1767137795,
-            "level": 77,
+            "hp": 1194081.25,
+            "last_seen": 1768955585,
+            "level": 79,
             "name": "三星时装锚点",
             "name_history": [
                 "三星时装锚点"
@@ -48769,6 +48785,22 @@
             "role_id": 63582695992304,
             "server_region": "cosmic_fold"
         },
+        "63582695992406": {
+            "crew_id": 2937757645268,
+            "crew_name": "摆烂",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 58067.0,
+            "last_seen": 1768955585,
+            "level": 16,
+            "name": "绯生",
+            "name_history": [
+                "绯生"
+            ],
+            "registered": "2026年1月20日 上午9:34:42",
+            "role_id": 63582695992406,
+            "server_region": "cosmic_fold"
+        },
         "63582695992453": {
             "crew_id": 0,
             "crew_name": "",
@@ -49026,8 +49058,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3980,
+    "accounts_total": 3982,
     "created": 1758803451,
-    "last_updated": 1768955465,
+    "last_updated": 1768955585,
     "server_region": "cosmic_fold"
 }
