@@ -3074,13 +3074,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695851498": {
-            "crew_id": 42949687764,
-            "crew_name": "群星",
-            "equipping_title": "2_10_1_9",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 1095087.375,
-            "last_seen": 1766962579,
-            "level": 77,
+            "hp": 1241152.0,
+            "last_seen": 1768955345,
+            "level": 79,
             "name": "起源35",
             "name_history": [
                 "起源35"
@@ -13554,14 +13554,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695858898": {
-            "crew_id": 304942692820,
-            "crew_name": "快乐老家",
-            "equipping_title": "None",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 472831.875,
-            "last_seen": 1760439356,
-            "level": 59,
+            "hp": 1312335.25,
+            "last_seen": 1768955345,
+            "level": 79,
             "name": "猫饭",
+            "name_history": [
+                "猫饭"
+            ],
             "registered": "2025年9月25日 下午8:23:25",
             "role_id": 63582695858898,
             "server_region": "cosmic_fold"
@@ -17486,6 +17489,22 @@
             "name": "Miruto",
             "registered": "2025年9月25日 下午9:52:18",
             "role_id": 63582695861797,
+            "server_region": "cosmic_fold"
+        },
+        "63582695861820": {
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 1161966.75,
+            "last_seen": 1768955345,
+            "level": 79,
+            "name": "白糖芷柔",
+            "name_history": [
+                "白糖芷柔"
+            ],
+            "registered": "2025年9月25日 下午9:53:10",
+            "role_id": 63582695861820,
             "server_region": "cosmic_fold"
         },
         "63582695861827": {
@@ -39097,6 +39116,22 @@
             "role_id": 63582695922389,
             "server_region": "cosmic_fold"
         },
+        "63582695922406": {
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 390775.8125,
+            "last_seen": 1768955345,
+            "level": 70,
+            "name": "曲终散",
+            "name_history": [
+                "曲终散"
+            ],
+            "registered": "2025年10月10日 下午6:31:32",
+            "role_id": 63582695922406,
+            "server_region": "cosmic_fold"
+        },
         "63582695922412": {
             "crew_id": 128849033684,
             "crew_name": "神待少女",
@@ -48921,8 +48956,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3974,
+    "accounts_total": 3976,
     "created": 1758803451,
-    "last_updated": 1768955045,
+    "last_updated": 1768955345,
     "server_region": "cosmic_fold"
 }
