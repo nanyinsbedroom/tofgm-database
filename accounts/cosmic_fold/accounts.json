@@ -22508,11 +22508,11 @@
         "63582695866887": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_8_0_8",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 1090716.875,
-            "last_seen": 1767137795,
-            "level": 77,
+            "hp": 1197733.25,
+            "last_seen": 1768953603,
+            "level": 79,
             "name": "角色",
             "name_history": [
                 "角色"
@@ -23576,9 +23576,9 @@
             "crew_name": "魔女之旅",
             "equipping_title": "1_1_11_1",
             "gender": 1,
-            "hp": 468645.46875,
-            "last_seen": 1764031735,
-            "level": 72,
+            "hp": 1207782.5,
+            "last_seen": 1768953603,
+            "level": 79,
             "name": "光头披风侠",
             "name_history": [
                 "光头披风侠"
@@ -38581,6 +38581,22 @@
             "role_id": 63582695920244,
             "server_region": "cosmic_fold"
         },
+        "63582695920290": {
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 589925.0,
+            "last_seen": 1768953603,
+            "level": 76,
+            "name": "一起喵喵喵",
+            "name_history": [
+                "一起喵喵喵"
+            ],
+            "registered": "2025年10月9日 上午4:52:03",
+            "role_id": 63582695920290,
+            "server_region": "cosmic_fold"
+        },
         "63582695920629": {
             "crew_id": 60129556948,
             "crew_name": "舟有舟道",
@@ -48566,8 +48582,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3952,
+    "accounts_total": 3953,
     "created": 1758803451,
-    "last_updated": 1768953543,
+    "last_updated": 1768953603,
     "server_region": "cosmic_fold"
 }
