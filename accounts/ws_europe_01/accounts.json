@@ -9058,12 +9058,12 @@
         },
         "38174111708494504": {
             "crew_id": 622779146023,
-            "crew_name": "العرب المبتدئين",
-            "equipping_title": "2_10_1_10",
+            "crew_name": "النخبة",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": 1767127770,
-            "level": 67,
+            "hp": 893646.0,
+            "last_seen": 1768942656,
+            "level": 72,
             "name": "SPARK1",
             "name_history": [
                 "SPARK1"
@@ -9733,9 +9733,9 @@
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 508750.8125,
-            "last_seen": 1766255348,
-            "level": 62,
+            "hp": 798701.0,
+            "last_seen": 1768942656,
+            "level": 72,
             "name": "Athika",
             "name_history": [
                 "Athika"
@@ -9998,6 +9998,22 @@
             ],
             "registered": "Dec 2, 2025, 5:42:22 PM",
             "role_id": 38174111708502652,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708502764": {
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_3_2_1",
+            "gender": 0,
+            "hp": 824274.625,
+            "last_seen": 1768942656,
+            "level": 71,
+            "name": "Aeon",
+            "name_history": [
+                "Aeon"
+            ],
+            "registered": "Dec 2, 2025, 7:27:06 PM",
+            "role_id": 38174111708502764,
             "server_region": "ws_europe_01"
         },
         "38174111708502813": {
@@ -10273,13 +10289,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708507182": {
-            "crew_id": 214757252903,
-            "crew_name": "Eternity",
-            "equipping_title": "Xia Xeng's Mentor,0",
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 234809.0,
-            "last_seen": 1766441762,
-            "level": 61,
+            "hp": 640085.5625,
+            "last_seen": 1768942656,
+            "level": 71,
             "name": "Alfio",
             "name_history": [
                 "Alfio"
@@ -11200,6 +11216,22 @@
             "role_id": 38174111708521500,
             "server_region": "ws_europe_01"
         },
+        "38174111708521636": {
+            "crew_id": 1683636068135,
+            "crew_name": "Disco-team",
+            "equipping_title": "WorldBossDamage_4;boss_hum_044_world;43",
+            "gender": 1,
+            "hp": 381710.40625,
+            "last_seen": 1768942656,
+            "level": 67,
+            "name": "Tokyo-Tengu",
+            "name_history": [
+                "Tokyo-Tengu"
+            ],
+            "registered": "Jan 11, 2026, 7:06:51 AM",
+            "role_id": 38174111708521636,
+            "server_region": "ws_europe_01"
+        },
         "38174111708521755": {
             "crew_id": 0,
             "crew_name": "",
@@ -11345,8 +11377,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 709,
+    "accounts_total": 711,
     "created": 1764046902,
-    "last_updated": 1768849179,
+    "last_updated": 1768942656,
     "server_region": "ws_europe_01"
 }
