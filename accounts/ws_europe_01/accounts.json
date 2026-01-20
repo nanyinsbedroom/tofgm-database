@@ -51,11 +51,11 @@
         "38174111708479499": {
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "Carbon's Mentor,0",
+            "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 552169.8125,
-            "last_seen": 1766254867,
-            "level": 62,
+            "hp": 925978.8125,
+            "last_seen": 1768942896,
+            "level": 72,
             "name": "Alice",
             "name_history": [
                 "Alice"
@@ -6533,9 +6533,9 @@
             "crew_name": "Asylum",
             "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 850379.75,
-            "last_seen": 1768848518,
-            "level": 71,
+            "hp": 933115.6875,
+            "last_seen": 1768942896,
+            "level": 72,
             "name": "MTaDirector",
             "name_history": [
                 "MTaDirector"
@@ -9856,6 +9856,22 @@
             "role_id": 38174111708498506,
             "server_region": "ws_europe_01"
         },
+        "38174111708498561": {
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "Wendy_Marvell的导师,0",
+            "gender": 1,
+            "hp": 927331.1875,
+            "last_seen": 1768942896,
+            "level": 72,
+            "name": "Tanji",
+            "name_history": [
+                "Tanji"
+            ],
+            "registered": "Nov 29, 2025, 9:08:01 PM",
+            "role_id": 38174111708498561,
+            "server_region": "ws_europe_01"
+        },
         "38174111708498815": {
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
@@ -10318,6 +10334,22 @@
             ],
             "registered": "Dec 5, 2025, 1:36:54 PM",
             "role_id": 38174111708505002,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708505189": {
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "WorldBossDamage_1;boss_hum_055_World;1",
+            "gender": 1,
+            "hp": 773489.3125,
+            "last_seen": 1768942896,
+            "level": 72,
+            "name": "Rosémi",
+            "name_history": [
+                "Rosémi"
+            ],
+            "registered": "Dec 5, 2025, 6:55:47 PM",
+            "role_id": 38174111708505189,
             "server_region": "ws_europe_01"
         },
         "38174111708505334": {
@@ -11601,8 +11633,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 725,
+    "accounts_total": 727,
     "created": 1764046902,
-    "last_updated": 1768942836,
+    "last_updated": 1768942896,
     "server_region": "ws_europe_01"
 }
