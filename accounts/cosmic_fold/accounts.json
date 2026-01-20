@@ -35135,10 +35135,13 @@
             "crew_name": "白月破晓",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 447669.0,
-            "last_seen": 1760450709,
-            "level": 59,
+            "hp": 1196816.375,
+            "last_seen": 1768955465,
+            "level": 79,
             "name": "夜无眠",
+            "name_history": [
+                "夜无眠"
+            ],
             "registered": "2025年10月4日 上午10:41:27",
             "role_id": 63582695905462,
             "server_region": "cosmic_fold"
@@ -48414,6 +48417,22 @@
             "role_id": 63582695981911,
             "server_region": "cosmic_fold"
         },
+        "63582695981943": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 1044425.0625,
+            "last_seen": 1768955465,
+            "level": 79,
+            "name": "敏敏酱丶",
+            "name_history": [
+                "敏敏酱丶"
+            ],
+            "registered": "2025年12月25日 上午11:36:10",
+            "role_id": 63582695981943,
+            "server_region": "cosmic_fold"
+        },
         "63582695982344": {
             "crew_id": 137438968276,
             "crew_name": "耳狸窝",
@@ -49007,8 +49026,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3979,
+    "accounts_total": 3980,
     "created": 1758803451,
-    "last_updated": 1768955405,
+    "last_updated": 1768955465,
     "server_region": "cosmic_fold"
 }
