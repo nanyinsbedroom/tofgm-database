@@ -694,11 +694,11 @@
         "63582695850229": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_2_0_41",
+            "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 1134621.25,
-            "last_seen": 1766962339,
-            "level": 77,
+            "hp": 1246923.75,
+            "last_seen": 1768955405,
+            "level": 79,
             "name": "爱丽丝克萝蒂亚",
             "name_history": [
                 "爱丽丝克萝蒂亚"
@@ -19173,8 +19173,8 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_4_6_3",
             "gender": 1,
-            "hp": 1319244.75,
-            "last_seen": 1768927667,
+            "hp": 1322738.75,
+            "last_seen": 1768955405,
             "level": 79,
             "name": "子敏",
             "name_history": [
@@ -21542,13 +21542,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695865534": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "七奈洋葱的导师,0",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1151764.75,
-            "last_seen": 1766965401,
-            "level": 77,
+            "hp": 1318101.25,
+            "last_seen": 1768955405,
+            "level": 79,
             "name": "沉淀猫猫",
             "name_history": [
                 "沉淀猫猫"
@@ -21718,12 +21718,15 @@
         "63582695865752": {
             "crew_id": 304942692820,
             "crew_name": "快乐老家",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 375140.625,
-            "last_seen": 1760442059,
-            "level": 57,
+            "hp": 1074654.375,
+            "last_seen": 1768955405,
+            "level": 79,
             "name": "谢咩蒙",
+            "name_history": [
+                "谢咩蒙"
+            ],
             "registered": "2025年9月26日 上午1:10:05",
             "role_id": 63582695865752,
             "server_region": "cosmic_fold"
@@ -33598,9 +33601,9 @@
             "crew_name": "月歌行",
             "equipping_title": "浅箱的后继者,1",
             "gender": 1,
-            "hp": 1048051.25,
-            "last_seen": 1766962278,
-            "level": 77,
+            "hp": 1161959.75,
+            "last_seen": 1768955405,
+            "level": 79,
             "name": "猫箱",
             "name_history": [
                 "猫箱"
@@ -34359,6 +34362,22 @@
             "name": "月落星荧",
             "registered": "2025年10月3日 上午2:08:59",
             "role_id": 63582695901573,
+            "server_region": "cosmic_fold"
+        },
+        "63582695901586": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 753571.875,
+            "last_seen": 1768955405,
+            "level": 77,
+            "name": "钟鱼",
+            "name_history": [
+                "钟鱼"
+            ],
+            "registered": "2025年10月3日 上午2:17:39",
+            "role_id": 63582695901586,
             "server_region": "cosmic_fold"
         },
         "63582695901629": {
@@ -46475,6 +46494,22 @@
             "role_id": 63582695962553,
             "server_region": "cosmic_fold"
         },
+        "63582695962769": {
+            "crew_id": 3148211042772,
+            "crew_name": "可爱",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 92141.0,
+            "last_seen": 1768955405,
+            "level": 70,
+            "name": "Ruler.",
+            "name_history": [
+                "Ruler."
+            ],
+            "registered": "2025年11月20日 上午5:15:27",
+            "role_id": 63582695962769,
+            "server_region": "cosmic_fold"
+        },
         "63582695962878": {
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
@@ -48507,6 +48542,22 @@
             "role_id": 63582695986881,
             "server_region": "cosmic_fold"
         },
+        "63582695987901": {
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "2_10_1_12",
+            "gender": 1,
+            "hp": 107549.3984375,
+            "last_seen": 1768955405,
+            "level": 42,
+            "name": "灵瑶儿",
+            "name_history": [
+                "灵瑶儿"
+            ],
+            "registered": "2026年1月12日 下午12:57:49",
+            "role_id": 63582695987901,
+            "server_region": "cosmic_fold"
+        },
         "63582695988704": {
             "crew_id": 0,
             "crew_name": "",
@@ -48956,8 +49007,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3976,
+    "accounts_total": 3979,
     "created": 1758803451,
-    "last_updated": 1768955345,
+    "last_updated": 1768955405,
     "server_region": "cosmic_fold"
 }
