@@ -697,7 +697,7 @@
             "equipping_title": "2_2_0_44",
             "gender": 1,
             "hp": 1246923.75,
-            "last_seen": 1768955405,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "爱丽丝克萝蒂亚",
             "name_history": [
@@ -1350,11 +1350,11 @@
         "63582695850559": {
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1130678.75,
-            "last_seen": 1766962579,
-            "level": 77,
+            "hp": 1301742.0,
+            "last_seen": 1768957456,
+            "level": 79,
             "name": "怀夕",
             "name_history": [
                 "怀夕"
@@ -1662,7 +1662,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 955309.6875,
-            "last_seen": 1768953303,
+            "last_seen": 1768957456,
             "level": 78,
             "name": "海嘉德讨伐分部",
             "name_history": [
@@ -7358,8 +7358,8 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1307034.625,
-            "last_seen": 1768953243,
+            "hp": 1303497.75,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "渡渡鹭",
             "name_history": [
@@ -18979,7 +18979,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1182845.0,
-            "last_seen": 1768953423,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "gateoo",
             "name_history": [
@@ -23348,7 +23348,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1252452.75,
-            "last_seen": 1768953243,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "琳妮特",
             "name_history": [
@@ -29644,7 +29644,7 @@
             "equipping_title": "2_2_0_84",
             "gender": 1,
             "hp": 1131072.25,
-            "last_seen": 1768953423,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "无敌糖球子",
             "name_history": [
@@ -32103,7 +32103,7 @@
             "equipping_title": "2_2_0_63",
             "gender": 1,
             "hp": 1286364.875,
-            "last_seen": 1768953243,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "林鹿",
             "name_history": [
@@ -34768,7 +34768,7 @@
             "equipping_title": "1_9_0_2",
             "gender": 1,
             "hp": 1302945.5,
-            "last_seen": 1768953243,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "小米辣条",
             "name_history": [
@@ -48391,7 +48391,7 @@
             "equipping_title": "2_10_1_12",
             "gender": 1,
             "hp": 1120324.5,
-            "last_seen": 1768953243,
+            "last_seen": 1768957456,
             "level": 79,
             "name": "旧金山卫健委",
             "name_history": [
@@ -48673,6 +48673,22 @@
             "role_id": 63582695990517,
             "server_region": "cosmic_fold"
         },
+        "63582695991019": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 47910.0,
+            "last_seen": 1768957456,
+            "level": 17,
+            "name": "墨一",
+            "name_history": [
+                "墨一"
+            ],
+            "registered": "2026年1月18日 上午7:08:19",
+            "role_id": 63582695991019,
+            "server_region": "cosmic_fold"
+        },
         "63582695991072": {
             "crew_id": 0,
             "crew_name": "",
@@ -48897,6 +48913,22 @@
             "role_id": 63582695992640,
             "server_region": "cosmic_fold"
         },
+        "63582695992722": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 48907.0,
+            "last_seen": 1768957456,
+            "level": 11,
+            "name": "三叶草琦",
+            "name_history": [
+                "三叶草琦"
+            ],
+            "registered": "2026年1月20日 下午7:30:02",
+            "role_id": 63582695992722,
+            "server_region": "cosmic_fold"
+        },
         "63582695992825": {
             "crew_id": 0,
             "crew_name": "",
@@ -49058,8 +49090,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 3982,
+    "accounts_total": 3984,
     "created": 1758803451,
-    "last_updated": 1768956065,
+    "last_updated": 1768957456,
     "server_region": "cosmic_fold"
 }
