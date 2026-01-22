@@ -279,12 +279,15 @@
         "60567628812811": {
             "crew_id": 34359752575,
             "crew_name": "猫猫乐园",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1803039.375,
-            "last_seen": 1761572334,
+            "hp": 1876979.25,
+            "last_seen": 1769110454,
             "level": 100,
             "name": "佑天寺喵梦",
+            "name_history": [
+                "佑天寺喵梦"
+            ],
             "registered": "2021年12月16日 上午8:01:56",
             "role_id": 60567628812811,
             "server_region": "visser_aida"
@@ -9485,6 +9488,22 @@
             "role_id": 61435212244311,
             "server_region": "visser_aida"
         },
+        "61435212245250": {
+            "crew_id": 3899830318870,
+            "crew_name": "破晓",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 720444.625,
+            "last_seen": 1769110454,
+            "level": 100,
+            "name": "阿尼亚六号",
+            "name_history": [
+                "阿尼亚六号"
+            ],
+            "registered": "2021年12月20日 下午4:36:32",
+            "role_id": 61435212245250,
+            "server_region": "visser_aida"
+        },
         "61435212246482": {
             "crew_id": 717259552733,
             "crew_name": "芬璃尔应援会",
@@ -9822,8 +9841,8 @@
             "crew_name": "幻月之境",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 2059194.875,
-            "last_seen": 1767394438,
+            "hp": 2108394.5,
+            "last_seen": 1769110454,
             "level": 100,
             "name": "岚岚岚岚岚岚宝",
             "name_history": [
@@ -12110,8 +12129,8 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 889,
+    "accounts_total": 890,
     "created": 1758086949,
-    "last_updated": 1769110213,
+    "last_updated": 1769110454,
     "server_region": "visser_aida"
 }
