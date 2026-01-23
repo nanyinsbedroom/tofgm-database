@@ -3569,13 +3569,13 @@
             "server_region": "ws_america_01"
         },
         "38174107413514227": {
-            "crew_id": 674318753574,
-            "crew_name": "Maid Café",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_036_world;25",
+            "crew_id": 115973005094,
+            "crew_name": "DreamFall",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_078_world;2",
             "gender": 1,
-            "hp": 598396.9375,
-            "last_seen": 1766492219,
-            "level": 63,
+            "hp": 0.0,
+            "last_seen": 1769174147,
+            "level": 72,
             "name": "Sylvian",
             "name_history": [
                 "Sylvian"
@@ -3731,11 +3731,11 @@
         "38174107413514317": {
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_62",
             "gender": 1,
-            "hp": 83694.1640625,
-            "last_seen": 1764068465,
-            "level": 22,
+            "hp": 582485.75,
+            "last_seen": 1769174147,
+            "level": 71,
             "name": "Gwen",
             "name_history": [
                 "Gwen"
@@ -7251,11 +7251,11 @@
         "38174107413517740": {
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 633133.6875,
-            "last_seen": 1766751332,
-            "level": 65,
+            "hp": 0.0,
+            "last_seen": 1769174147,
+            "level": 71,
             "name": "Luca",
             "name_history": [
                 "Luca"
@@ -13536,6 +13536,22 @@
             "role_id": 38174107413530096,
             "server_region": "ws_america_01"
         },
+        "38174107413530138": {
+            "crew_id": 21483724582,
+            "crew_name": "Kawaii Kittens",
+            "equipping_title": "1_6_4_5",
+            "gender": 1,
+            "hp": 0.0,
+            "last_seen": 1769174147,
+            "level": 72,
+            "name": "Seithr",
+            "name_history": [
+                "Seithr"
+            ],
+            "registered": "Nov 25, 2025, 9:49:32 PM",
+            "role_id": 38174107413530138,
+            "server_region": "ws_america_01"
+        },
         "38174107413530163": {
             "crew_id": 700088557350,
             "crew_name": "SHADOW HUNTERS",
@@ -17072,6 +17088,22 @@
             "role_id": 38174107413569074,
             "server_region": "ws_america_01"
         },
+        "38174107413569084": {
+            "crew_id": 115973005094,
+            "crew_name": "DreamFall",
+            "equipping_title": "2_8_0_3",
+            "gender": 1,
+            "hp": 0.0,
+            "last_seen": 1769174147,
+            "level": 72,
+            "name": "navi♡",
+            "name_history": [
+                "navi♡"
+            ],
+            "registered": "Dec 22, 2025, 9:36:45 PM",
+            "role_id": 38174107413569084,
+            "server_region": "ws_america_01"
+        },
         "38174107413570083": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -17680,6 +17712,22 @@
             "role_id": 38174107413578980,
             "server_region": "ws_america_01"
         },
+        "38174107413579082": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 95156.0,
+            "last_seen": 1769174147,
+            "level": 57,
+            "name": "Romanji",
+            "name_history": [
+                "Romanji"
+            ],
+            "registered": "Jan 23, 2026, 8:01:57 AM",
+            "role_id": 38174107413579082,
+            "server_region": "ws_america_01"
+        },
         "38174107413579102": {
             "crew_id": 0,
             "crew_name": "",
@@ -17777,8 +17825,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1111,
+    "accounts_total": 1114,
     "created": 1764067509,
-    "last_updated": 1769174087,
+    "last_updated": 1769174147,
     "server_region": "ws_america_01"
 }
