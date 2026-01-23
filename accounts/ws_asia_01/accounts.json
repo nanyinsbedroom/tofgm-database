@@ -373,9 +373,9 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 844006.625,
-            "last_seen": 1768872806,
-            "level": 71,
+            "hp": 922821.8125,
+            "last_seen": 1769211754,
+            "level": 72,
             "name": "『夜』Aleria",
             "name_history": [
                 "『夜』Aleria"
@@ -21331,11 +21331,11 @@
         "38174103118555675": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_085_world;3",
+            "equipping_title": "WorldBossDamage_1;boss_hum_057_world;3",
             "gender": 0,
-            "hp": 816466.0625,
-            "last_seen": 1767983532,
-            "level": 70,
+            "hp": 932098.5,
+            "last_seen": 1769211754,
+            "level": 72,
             "name": "GRYPHON.",
             "name_history": [
                 "GRYPHON."
@@ -81200,6 +81200,22 @@
             "role_id": 38174103118610138,
             "server_region": "ws_asia_01"
         },
+        "38174103118610509": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 49606.0,
+            "last_seen": 1769211754,
+            "level": 11,
+            "name": "ゆむむゆりを",
+            "name_history": [
+                "ゆむむゆりを"
+            ],
+            "registered": "Jan 17, 2026, 5:18:53 PM",
+            "role_id": 38174103118610509,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610591": {
             "crew_id": 0,
             "crew_name": "",
@@ -81313,8 +81329,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5082,
+    "accounts_total": 5083,
     "created": 1764092421,
-    "last_updated": 1769211694,
+    "last_updated": 1769211754,
     "server_region": "ws_asia_01"
 }
