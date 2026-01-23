@@ -4691,11 +4691,11 @@
         "38174103118545632": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "Avorozer's Mentor,0",
+            "equipping_title": "Weke的导师,0",
             "gender": 1,
-            "hp": 692916.3125,
-            "last_seen": 1766900907,
-            "level": 66,
+            "hp": 919811.5,
+            "last_seen": 1769211694,
+            "level": 72,
             "name": "Selene Moon",
             "name_history": [
                 "Selene Moon"
@@ -12563,11 +12563,11 @@
         "38174103118549435": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "2_10_1_10",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 698717.25,
-            "last_seen": 1768009240,
-            "level": 70,
+            "hp": 896922.0,
+            "last_seen": 1769211694,
+            "level": 72,
             "name": "Weke",
             "name_history": [
                 "Weke"
@@ -53781,9 +53781,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 188078.0,
-            "last_seen": 1766366418,
-            "level": 54,
+            "hp": 456220.9375,
+            "last_seen": 1769211694,
+            "level": 71,
             "name": "ちょこりん",
             "name_history": [
                 "ちょこりん"
@@ -79600,6 +79600,22 @@
             "role_id": 38174103118602916,
             "server_region": "ws_asia_01"
         },
+        "38174103118602920": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 863582.0,
+            "last_seen": 1769211694,
+            "level": 72,
+            "name": "むぎりん",
+            "name_history": [
+                "むぎりん"
+            ],
+            "registered": "Dec 21, 2025, 12:23:36 AM",
+            "role_id": 38174103118602920,
+            "server_region": "ws_asia_01"
+        },
         "38174103118602921": {
             "crew_id": 0,
             "crew_name": "",
@@ -80469,9 +80485,9 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "Specterer的学徒,0",
             "gender": 1,
-            "hp": 293087.40625,
-            "last_seen": 1768856160,
-            "level": 70,
+            "hp": 327436.1875,
+            "last_seen": 1769211694,
+            "level": 71,
             "name": "Elon Musk",
             "name_history": [
                 "Elon Musk"
@@ -80896,6 +80912,22 @@
             "role_id": 38174103118608072,
             "server_region": "ws_asia_01"
         },
+        "38174103118608206": {
+            "crew_id": 68728364837,
+            "crew_name": "StarDust Saints",
+            "equipping_title": "Ista 的学徒,0",
+            "gender": 1,
+            "hp": 502630.34375,
+            "last_seen": 1769211694,
+            "level": 71,
+            "name": "MOoLaH",
+            "name_history": [
+                "MOoLaH"
+            ],
+            "registered": "Dec 31, 2025, 12:03:38 PM",
+            "role_id": 38174103118608206,
+            "server_region": "ws_asia_01"
+        },
         "38174103118608308": {
             "crew_id": 0,
             "crew_name": "",
@@ -81281,8 +81313,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5080,
+    "accounts_total": 5082,
     "created": 1764092421,
-    "last_updated": 1769211634,
+    "last_updated": 1769211694,
     "server_region": "ws_asia_01"
 }
