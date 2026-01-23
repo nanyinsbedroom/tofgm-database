@@ -1348,9 +1348,15 @@
         "64458869188393": {
             "crew_id": 257698052762,
             "crew_name": "MoonRiders",
+            "equipping_title": "RedBunny的导师,0",
             "gender": 1,
-            "last_seen": 1758644537,
+            "hp": 2298519.5,
+            "last_seen": 1769180000,
+            "level": 100,
             "name": "Almendra F2P$",
+            "name_history": [
+                "Almendra F2P$"
+            ],
             "registered": "Aug 10, 2022, 9:04:58 PM",
             "role_id": 64458869188393,
             "server_region": "south_america"
@@ -4248,6 +4254,22 @@
             "role_id": 64493229277166,
             "server_region": "south_america"
         },
+        "64493229280856": {
+            "crew_id": 4294982299,
+            "crew_name": "STARSEEDS",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 395894.09375,
+            "last_seen": 1769180000,
+            "level": 55,
+            "name": "Noslen ",
+            "name_history": [
+                "Noslen "
+            ],
+            "registered": "Dec 22, 2025, 2:16:34 AM",
+            "role_id": 64493229280856,
+            "server_region": "south_america"
+        },
         "64497523888165": {
             "crew_id": 3676492020378,
             "crew_name": "TENGU",
@@ -4516,8 +4538,8 @@
             "server_region": "south_america"
         }
     },
-    "accounts_total": 315,
+    "accounts_total": 316,
     "created": 1757168442,
-    "last_updated": 1763910554,
+    "last_updated": 1769180000,
     "server_region": "south_america"
 }
