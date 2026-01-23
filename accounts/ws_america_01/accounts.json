@@ -101,9 +101,9 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 729196.375,
-            "last_seen": 1767179656,
-            "level": 67,
+            "hp": 957328.75,
+            "last_seen": 1769173666,
+            "level": 72,
             "name": "Arta",
             "name_history": [
                 "Arta"
@@ -389,9 +389,9 @@
             "crew_name": "DreamFall",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 849590.5,
-            "last_seen": 1768828106,
-            "level": 71,
+            "hp": 941425.1875,
+            "last_seen": 1769173666,
+            "level": 72,
             "name": "Milk",
             "name_history": [
                 "Milk"
@@ -4142,6 +4142,22 @@
             ],
             "registered": "Nov 25, 2025, 5:05:14 AM",
             "role_id": 38174107413514657,
+            "server_region": "ws_america_01"
+        },
+        "38174107413514664": {
+            "crew_id": 38663593766,
+            "crew_name": "ACxBoba",
+            "equipping_title": "2_2_0_31",
+            "gender": 1,
+            "hp": 845971.5,
+            "last_seen": 1769173666,
+            "level": 71,
+            "name": "Daenerys.",
+            "name_history": [
+                "Daenerys."
+            ],
+            "registered": "Nov 25, 2025, 5:05:56 AM",
+            "role_id": 38174107413514664,
             "server_region": "ws_america_01"
         },
         "38174107413514680": {
@@ -8433,13 +8449,13 @@
             "server_region": "ws_america_01"
         },
         "38174107413518603": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 231937122086,
+            "crew_name": "RedSuns",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_015_world;1",
             "gender": 1,
-            "hp": 63393.0,
-            "last_seen": 1764080299,
-            "level": 17,
+            "hp": 901138.8125,
+            "last_seen": 1769173666,
+            "level": 72,
             "name": "PG13",
             "name_history": [
                 "PG13"
@@ -17521,8 +17537,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1095,
+    "accounts_total": 1096,
     "created": 1764067509,
-    "last_updated": 1769173606,
+    "last_updated": 1769173666,
     "server_region": "ws_america_01"
 }
