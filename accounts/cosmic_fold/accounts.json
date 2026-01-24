@@ -3987,8 +3987,8 @@
             "crew_name": "紫微星垣",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1237189.5,
-            "last_seen": 1769290054,
+            "hp": 1276702.5,
+            "last_seen": 1769291431,
             "level": 80,
             "name": "诺言诺语",
             "name_history": [
@@ -22545,11 +22545,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695866646": {
-            "crew_id": 360777267668,
-            "crew_name": "梦幻",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_8_0_7",
             "gender": 1,
-            "last_seen": 1759682293,
+            "hp": 1261944.5,
+            "last_seen": 1769291431,
+            "level": 80,
             "name": "blomster",
+            "name_history": [
+                "blomster"
+            ],
             "registered": "2025年9月26日 上午4:49:52",
             "role_id": 63582695866646,
             "server_region": "cosmic_fold"
@@ -31613,7 +31619,7 @@
             "equipping_title": "2_2_0_58",
             "gender": 1,
             "hp": 1376739.5,
-            "last_seen": 1769289873,
+            "last_seen": 1769291431,
             "level": 80,
             "name": "杀心心",
             "name_history": [
@@ -36363,7 +36369,7 @@
             "equipping_title": "最帅最强最无敌的导师,0",
             "gender": 1,
             "hp": 1309826.0,
-            "last_seen": 1769289873,
+            "last_seen": 1769291431,
             "level": 80,
             "name": "起个短短短名字",
             "name_history": [
@@ -49819,6 +49825,22 @@
             "role_id": 63582695994597,
             "server_region": "cosmic_fold"
         },
+        "63582695994774": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 5623.6953125,
+            "last_seen": 1769291431,
+            "level": 13,
+            "name": "神秘液体钙片",
+            "name_history": [
+                "神秘液体钙片"
+            ],
+            "registered": "2026年1月24日 下午1:31:19",
+            "role_id": 63582695994774,
+            "server_region": "cosmic_fold"
+        },
         "63582695995038": {
             "crew_id": 0,
             "crew_name": "",
@@ -49852,8 +49874,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4029,
+    "accounts_total": 4030,
     "created": 1758803451,
-    "last_updated": 1769291371,
+    "last_updated": 1769291431,
     "server_region": "cosmic_fold"
 }
