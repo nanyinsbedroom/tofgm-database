@@ -2336,6 +2336,22 @@
             "role_id": 38174111708480739,
             "server_region": "ws_europe_01"
         },
+        "38174111708480770": {
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 386421.53125,
+            "last_seen": 1769288664,
+            "level": 70,
+            "name": "Фред",
+            "name_history": [
+                "Фред"
+            ],
+            "registered": "Nov 25, 2025, 9:53:24 AM",
+            "role_id": 38174111708480770,
+            "server_region": "ws_europe_01"
+        },
         "38174111708480772": {
             "crew_id": 0,
             "crew_name": "",
@@ -12225,8 +12241,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 764,
+    "accounts_total": 765,
     "created": 1764046902,
-    "last_updated": 1769288604,
+    "last_updated": 1769288664,
     "server_region": "ws_europe_01"
 }
