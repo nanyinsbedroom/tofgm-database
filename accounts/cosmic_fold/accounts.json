@@ -11828,8 +11828,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1340118.875,
-            "last_seen": 1769290054,
+            "hp": 1340118.75,
+            "last_seen": 1769291070,
             "level": 80,
             "name": "響音",
             "name_history": [
@@ -21512,9 +21512,9 @@
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1264809.25,
-            "last_seen": 1768955705,
-            "level": 79,
+            "hp": 1325698.0,
+            "last_seen": 1769291070,
+            "level": 80,
             "name": "MX_BAKA",
             "name_history": [
                 "MX_BAKA"
@@ -22213,12 +22213,12 @@
             "crew_name": "天月之境",
             "equipping_title": "1_1_17_1",
             "gender": 1,
-            "hp": 1144087.5,
-            "last_seen": 1766962759,
-            "level": 77,
-            "name": "弥溺Nig゜",
+            "hp": 1191482.0,
+            "last_seen": 1769291070,
+            "level": 78,
+            "name": "弥溺Nig",
             "name_history": [
-                "弥溺Nig゜"
+                "弥溺Nig"
             ],
             "registered": "2025年9月26日 上午2:23:07",
             "role_id": 63582695866230,
@@ -48590,7 +48590,7 @@
             "equipping_title": "怪力大王橘雪莉的导师,0",
             "gender": 1,
             "hp": 1153208.75,
-            "last_seen": 1769289873,
+            "last_seen": 1769291070,
             "level": 80,
             "name": "百合园小咲",
             "name_history": [
@@ -48806,6 +48806,22 @@
             ],
             "registered": "2025年12月25日 上午11:36:10",
             "role_id": 63582695981943,
+            "server_region": "cosmic_fold"
+        },
+        "63582695982095": {
+            "crew_id": 820338768340,
+            "crew_name": "抵达深空",
+            "equipping_title": "牢大的扔子的学徒,0",
+            "gender": 0,
+            "hp": 353754.90625,
+            "last_seen": 1769291070,
+            "level": 77,
+            "name": "开导",
+            "name_history": [
+                "开导"
+            ],
+            "registered": "2025年12月26日 下午3:29:22",
+            "role_id": 63582695982095,
             "server_region": "cosmic_fold"
         },
         "63582695982344": {
@@ -49737,8 +49753,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4022,
+    "accounts_total": 4023,
     "created": 1758803451,
-    "last_updated": 1769291010,
+    "last_updated": 1769291070,
     "server_region": "cosmic_fold"
 }
