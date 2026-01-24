@@ -739,11 +739,11 @@
         "38174111708479789": {
             "crew_id": 17188757287,
             "crew_name": "Moonlight",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 87333.0,
-            "last_seen": 1764092107,
-            "level": 22,
+            "equipping_title": "1_9_0_2",
+            "gender": 0,
+            "hp": 933150.0,
+            "last_seen": 1769289566,
+            "level": 72,
             "name": "MaximS",
             "name_history": [
                 "MaximS"
@@ -8464,6 +8464,22 @@
             "role_id": 38174111708488819,
             "server_region": "ws_europe_01"
         },
+        "38174111708488828": {
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "WorldBossDamage_2;boss_hum_052_world;10",
+            "gender": 1,
+            "hp": 837152.25,
+            "last_seen": 1769289566,
+            "level": 72,
+            "name": "Staraxya1",
+            "name_history": [
+                "Staraxya1"
+            ],
+            "registered": "Nov 26, 2025, 1:07:31 AM",
+            "role_id": 38174111708488828,
+            "server_region": "ws_europe_01"
+        },
         "38174111708489004": {
             "crew_id": 481045225255,
             "crew_name": "Elysium",
@@ -10613,9 +10629,9 @@
             "crew_name": "Rebirth",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 665030.375,
-            "last_seen": 1768943136,
-            "level": 67,
+            "hp": 667302.5,
+            "last_seen": 1769289566,
+            "level": 68,
             "name": "Ducky_",
             "name_history": [
                 "Ducky_"
@@ -10881,19 +10897,35 @@
             "server_region": "ws_europe_01"
         },
         "38174111708505441": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "Tais Blood的学徒,0",
             "gender": 0,
-            "hp": 49829.0,
-            "last_seen": 1766255768,
-            "level": 13,
+            "hp": 432753.1875,
+            "last_seen": 1769289566,
+            "level": 70,
             "name": "Фанат",
             "name_history": [
                 "Фанат"
             ],
             "registered": "Dec 6, 2025, 1:11:18 AM",
             "role_id": 38174111708505441,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708505472": {
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 844171.625,
+            "last_seen": 1769289566,
+            "level": 72,
+            "name": " Фанат",
+            "name_history": [
+                " Фанат"
+            ],
+            "registered": "Dec 6, 2025, 2:08:45 AM",
+            "role_id": 38174111708505472,
             "server_region": "ws_europe_01"
         },
         "38174111708505591": {
@@ -12481,8 +12513,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 780,
+    "accounts_total": 782,
     "created": 1764046902,
-    "last_updated": 1769289506,
+    "last_updated": 1769289566,
     "server_region": "ws_europe_01"
 }
