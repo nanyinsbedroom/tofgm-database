@@ -14540,7 +14540,7 @@
             "equipping_title": "艾斯加德时三的学徒,0",
             "gender": 0,
             "hp": 1312222.625,
-            "last_seen": 1769289873,
+            "last_seen": 1769291130,
             "level": 80,
             "name": "画笔断墨",
             "name_history": [
@@ -21670,7 +21670,7 @@
             "equipping_title": "2_2_0_32",
             "gender": 1,
             "hp": 1375548.375,
-            "last_seen": 1769287110,
+            "last_seen": 1769291130,
             "level": 80,
             "name": "沉淀猫猫",
             "name_history": [
@@ -28823,14 +28823,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695878450": {
-            "crew_id": 154618837460,
-            "crew_name": "十月天宫",
-            "equipping_title": "2_8_0_1",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 699229.25,
-            "last_seen": 1761849843,
-            "level": 67,
-            "name": "正义猫猫",
+            "hp": 1151751.125,
+            "last_seen": 1769291130,
+            "level": 78,
+            "name": "发财猫猫",
+            "name_history": [
+                "发财猫猫"
+            ],
             "registered": "2025年9月27日 下午4:05:28",
             "role_id": 63582695878450,
             "server_region": "cosmic_fold"
@@ -49016,6 +49019,22 @@
             "role_id": 63582695987901,
             "server_region": "cosmic_fold"
         },
+        "63582695988003": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 53705.0,
+            "last_seen": 1769291130,
+            "level": 14,
+            "name": "朝不保夕。",
+            "name_history": [
+                "朝不保夕。"
+            ],
+            "registered": "2026年1月12日 下午5:53:05",
+            "role_id": 63582695988003,
+            "server_region": "cosmic_fold"
+        },
         "63582695988255": {
             "crew_id": 0,
             "crew_name": "",
@@ -49753,8 +49772,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4023,
+    "accounts_total": 4024,
     "created": 1758803451,
-    "last_updated": 1769291070,
+    "last_updated": 1769291130,
     "server_region": "cosmic_fold"
 }
