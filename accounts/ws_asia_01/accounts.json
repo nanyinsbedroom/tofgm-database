@@ -373,8 +373,8 @@
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 922821.8125,
-            "last_seen": 1769211754,
+            "hp": 922821.875,
+            "last_seen": 1769284296,
             "level": 72,
             "name": "『夜』Aleria",
             "name_history": [
@@ -1349,9 +1349,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 832413.5,
-            "last_seen": 1768856220,
-            "level": 71,
+            "hp": 899343.5,
+            "last_seen": 1769284296,
+            "level": 72,
             "name": "エミネム",
             "name_history": [
                 "エミネム"
@@ -18246,7 +18246,7 @@
             "equipping_title": "2_2_0_31",
             "gender": 1,
             "hp": 920929.625,
-            "last_seen": 1769212775,
+            "last_seen": 1769284296,
             "level": 72,
             "name": "みすじ",
             "name_history": [
@@ -59776,6 +59776,22 @@
             "role_id": 38174103118579268,
             "server_region": "ws_asia_01"
         },
+        "38174103118579273": {
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 114608.6015625,
+            "last_seen": 1769284296,
+            "level": 45,
+            "name": "たらまゆゆ",
+            "name_history": [
+                "たらまゆゆ"
+            ],
+            "registered": "Nov 28, 2025, 2:45:20 AM",
+            "role_id": 38174103118579273,
+            "server_region": "ws_asia_01"
+        },
         "38174103118579282": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
@@ -80416,6 +80432,22 @@
             "role_id": 38174103118604143,
             "server_region": "ws_asia_01"
         },
+        "38174103118604252": {
+            "crew_id": 68728364837,
+            "crew_name": "StarDust Saints",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 729327.5,
+            "last_seen": 1769284296,
+            "level": 72,
+            "name": "WatermelonMY",
+            "name_history": [
+                "WatermelonMY"
+            ],
+            "registered": "Dec 23, 2025, 2:55:51 PM",
+            "role_id": 38174103118604252,
+            "server_region": "ws_asia_01"
+        },
         "38174103118604266": {
             "crew_id": 0,
             "crew_name": "",
@@ -81585,8 +81617,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5099,
+    "accounts_total": 5101,
     "created": 1764092421,
-    "last_updated": 1769284236,
+    "last_updated": 1769284296,
     "server_region": "ws_asia_01"
 }
