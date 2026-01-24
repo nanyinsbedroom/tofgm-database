@@ -659,11 +659,11 @@
         "38174111708479749": {
             "crew_id": 115973005095,
             "crew_name": "Arcana",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 12479.330078125,
-            "last_seen": 1764094215,
-            "level": 22,
+            "hp": 930779.625,
+            "last_seen": 1769287534,
+            "level": 72,
             "name": "Erwyn",
             "name_history": [
                 "Erwyn"
@@ -1502,6 +1502,22 @@
             ],
             "registered": "Nov 25, 2025, 9:16:56 AM",
             "role_id": 38174111708480188,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708480189": {
+            "crew_id": 98793135911,
+            "crew_name": "ColdHeart",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 570450.75,
+            "last_seen": 1769287534,
+            "level": 70,
+            "name": "Nailia",
+            "name_history": [
+                "Nailia"
+            ],
+            "registered": "Nov 25, 2025, 9:17:01 AM",
+            "role_id": 38174111708480189,
             "server_region": "ws_europe_01"
         },
         "38174111708480192": {
@@ -4222,6 +4238,22 @@
             ],
             "registered": "Nov 25, 2025, 11:56:18 AM",
             "role_id": 38174111708482115,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708482120": {
+            "crew_id": 17188757287,
+            "crew_name": "Moonlight",
+            "equipping_title": "1_1_3_1",
+            "gender": 0,
+            "hp": 890961.375,
+            "last_seen": 1769287534,
+            "level": 72,
+            "name": "Rise",
+            "name_history": [
+                "Rise"
+            ],
+            "registered": "Nov 25, 2025, 11:57:04 AM",
+            "role_id": 38174111708482120,
             "server_region": "ws_europe_01"
         },
         "38174111708482155": {
@@ -12001,8 +12033,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 750,
+    "accounts_total": 752,
     "created": 1764046902,
-    "last_updated": 1769287414,
+    "last_updated": 1769287534,
     "server_region": "ws_europe_01"
 }
