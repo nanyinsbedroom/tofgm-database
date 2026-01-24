@@ -3733,8 +3733,8 @@
             "crew_name": "Supernova",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 923621.25,
-            "last_seen": 1769165228,
+            "hp": 910056.6875,
+            "last_seen": 1769263221,
             "level": 72,
             "name": "Shizuka Kuze",
             "name_history": [
@@ -8022,7 +8022,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 930244.6875,
-            "last_seen": 1769173546,
+            "last_seen": 1769263221,
             "level": 72,
             "name": "Khansado",
             "name_history": [
@@ -16400,6 +16400,22 @@
             "role_id": 38174107413560066,
             "server_region": "ws_america_01"
         },
+        "38174107413560600": {
+            "crew_id": 1434527964966,
+            "crew_name": "Nighthawks",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 163749.0,
+            "last_seen": 1769263221,
+            "level": 70,
+            "name": "sungwuu",
+            "name_history": [
+                "sungwuu"
+            ],
+            "registered": "Dec 9, 2025, 3:01:12 PM",
+            "role_id": 38174107413560600,
+            "server_region": "ws_america_01"
+        },
         "38174107413560730": {
             "crew_id": 163217645350,
             "crew_name": "Michi Pizzería",
@@ -18069,9 +18085,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 8064.0,
-            "last_seen": 1769173967,
-            "level": 1,
+            "hp": 65693.0,
+            "last_seen": 1769263221,
+            "level": 14,
             "name": "Yun Fang",
             "name_history": [
                 "Yun Fang"
@@ -18079,10 +18095,26 @@
             "registered": "Jan 23, 2026, 1:03:21 PM",
             "role_id": 38174107413579122,
             "server_region": "ws_america_01"
+        },
+        "38174107413579218": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 16704.0,
+            "last_seen": 1769263221,
+            "level": 11,
+            "name": "Koro_belmont",
+            "name_history": [
+                "Koro_belmont"
+            ],
+            "registered": "Jan 23, 2026, 9:37:45 PM",
+            "role_id": 38174107413579218,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1130,
+    "accounts_total": 1132,
     "created": 1764067509,
-    "last_updated": 1769263161,
+    "last_updated": 1769263221,
     "server_region": "ws_america_01"
 }
