@@ -13571,11 +13571,11 @@
         "38174103118550750": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "りらっくす's Apprentice,0",
+            "equipping_title": "りらっくす的学徒,0",
             "gender": 1,
-            "hp": 522608.96875,
-            "last_seen": 1766537521,
-            "level": 62,
+            "hp": 757266.625,
+            "last_seen": 1769283853,
+            "level": 72,
             "name": "茜星",
             "name_history": [
                 "茜星"
@@ -14835,11 +14835,11 @@
         "38174103118551897": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 588150.6875,
-            "last_seen": 1766955749,
-            "level": 66,
+            "hp": 875785.25,
+            "last_seen": 1769283853,
+            "level": 72,
             "name": "マルリ",
             "name_history": [
                 "マルリ"
@@ -40099,11 +40099,11 @@
         "38174103118562993": {
             "crew_id": 141742808869,
             "crew_name": "NoahArk",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 542697.0,
-            "last_seen": 1766259398,
-            "level": 62,
+            "hp": 811279.75,
+            "last_seen": 1769283853,
+            "level": 72,
             "name": "しい",
             "name_history": [
                 "しい"
@@ -49942,7 +49942,7 @@
             "equipping_title": "2_2_0_43",
             "gender": 1,
             "hp": 920746.5625,
-            "last_seen": 1769211634,
+            "last_seen": 1769283853,
             "level": 72,
             "name": "Specterer",
             "name_history": [
@@ -79120,14 +79120,30 @@
             "role_id": 38174103118601897,
             "server_region": "ws_asia_01"
         },
+        "38174103118601906": {
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "Ayana的学徒,0",
+            "gender": 1,
+            "hp": 414507.21875,
+            "last_seen": 1769283853,
+            "level": 70,
+            "name": "Puck4",
+            "name_history": [
+                "Puck4"
+            ],
+            "registered": "Dec 18, 2025, 11:59:20 PM",
+            "role_id": 38174103118601906,
+            "server_region": "ws_asia_01"
+        },
         "38174103118601921": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 347926.1875,
-            "last_seen": 1766953347,
-            "level": 62,
+            "hp": 558620.5,
+            "last_seen": 1769283853,
+            "level": 72,
             "name": "茜飴",
             "name_history": [
                 "茜飴"
@@ -80917,8 +80933,8 @@
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 508350.0,
-            "last_seen": 1769211934,
+            "hp": 528318.0,
+            "last_seen": 1769283853,
             "level": 72,
             "name": "ちびねい",
             "name_history": [
@@ -81537,8 +81553,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5096,
+    "accounts_total": 5097,
     "created": 1764092421,
-    "last_updated": 1769212895,
+    "last_updated": 1769283853,
     "server_region": "ws_asia_01"
 }
