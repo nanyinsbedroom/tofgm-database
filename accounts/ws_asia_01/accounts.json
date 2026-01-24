@@ -2401,13 +2401,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118545232": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 695793590053,
+            "crew_name": "ミラポリス幻影騎士団",
+            "equipping_title": "2_8_0_7",
             "gender": 1,
-            "hp": 45509.0,
-            "last_seen": 1764094283,
-            "level": 8,
+            "hp": 705227.0,
+            "last_seen": 1769321514,
+            "level": 72,
             "name": "Helga",
             "name_history": [
                 "Helga"
@@ -23589,9 +23589,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 346021.0,
-            "last_seen": 1766433392,
-            "level": 61,
+            "hp": 474507.0,
+            "last_seen": 1769321514,
+            "level": 71,
             "name": "未来融合",
             "name_history": [
                 "未来融合"
@@ -81152,6 +81152,22 @@
             "role_id": 38174103118607377,
             "server_region": "ws_asia_01"
         },
+        "38174103118607574": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 142955.0,
+            "last_seen": 1769321514,
+            "level": 53,
+            "name": "Neythan",
+            "name_history": [
+                "Neythan"
+            ],
+            "registered": "Dec 30, 2025, 5:14:02 AM",
+            "role_id": 38174103118607574,
+            "server_region": "ws_asia_01"
+        },
         "38174103118608072": {
             "crew_id": 0,
             "crew_name": "",
@@ -81793,8 +81809,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5112,
+    "accounts_total": 5113,
     "created": 1764092421,
-    "last_updated": 1769321093,
+    "last_updated": 1769321514,
     "server_region": "ws_asia_01"
 }
