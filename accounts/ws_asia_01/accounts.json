@@ -6437,8 +6437,8 @@
             "crew_name": "EROGE",
             "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 817295.0,
-            "last_seen": 1769284034,
+            "hp": 459050.15625,
+            "last_seen": 1769321998,
             "level": 72,
             "name": "Saunts",
             "name_history": [
@@ -12371,11 +12371,11 @@
         "38174103118549132": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_025_world;26",
+            "equipping_title": "1_6_4_27",
             "gender": 1,
-            "hp": 546557.0,
-            "last_seen": 1766469601,
-            "level": 63,
+            "hp": 740486.375,
+            "last_seen": 1769321998,
+            "level": 72,
             "name": "小鳥遊楓",
             "name_history": [
                 "小鳥遊楓"
@@ -19253,8 +19253,8 @@
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 802961.1875,
-            "last_seen": 1769283973,
+            "hp": 802961.125,
+            "last_seen": 1769321998,
             "level": 72,
             "name": "もちもちまんじゅう",
             "name_history": [
@@ -19477,9 +19477,9 @@
             "crew_name": "OTL",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 811693.875,
-            "last_seen": 1768872866,
-            "level": 71,
+            "hp": 852317.25,
+            "last_seen": 1769321998,
+            "level": 72,
             "name": "OTL",
             "name_history": [
                 "OTL"
@@ -28645,9 +28645,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "えりぃと的学徒,0",
             "gender": 1,
-            "hp": 803564.25,
-            "last_seen": 1768189096,
-            "level": 70,
+            "hp": 895777.375,
+            "last_seen": 1769321998,
+            "level": 72,
             "name": "PennnyTinpo",
             "name_history": [
                 "PennnyTinpo"
@@ -30270,6 +30270,22 @@
             ],
             "registered": "Nov 25, 2025, 8:50:22 PM",
             "role_id": 38174103118558668,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118558670": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 98703.078125,
+            "last_seen": 1769321998,
+            "level": 44,
+            "name": "Asuna 2.0",
+            "name_history": [
+                "Asuna 2.0"
+            ],
+            "registered": "Nov 25, 2025, 8:50:24 PM",
+            "role_id": 38174103118558670,
             "server_region": "ws_asia_01"
         },
         "38174103118558671": {
@@ -49941,8 +49957,8 @@
             "crew_name": "Library",
             "equipping_title": "The Devil的导师,0",
             "gender": 1,
-            "hp": 876737.0,
-            "last_seen": 1769284034,
+            "hp": 883725.25,
+            "last_seen": 1769321998,
             "level": 72,
             "name": "R​ozemyne​",
             "name_history": [
@@ -57605,9 +57621,9 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 811298.5625,
-            "last_seen": 1768246645,
-            "level": 70,
+            "hp": 939258.8125,
+            "last_seen": 1769321998,
+            "level": 72,
             "name": "ニセモノ",
             "name_history": [
                 "ニセモノ"
@@ -78641,16 +78657,16 @@
             "server_region": "ws_asia_01"
         },
         "38174103118600800": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "えりぃと's Apprentice,0",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 153191.28125,
-            "last_seen": 1766963442,
-            "level": 58,
-            "name": "PennyTinpo2",
+            "hp": 303088.96875,
+            "last_seen": 1769321998,
+            "level": 63,
+            "name": "NPC003",
             "name_history": [
-                "PennyTinpo2"
+                "NPC003"
             ],
             "registered": "Dec 16, 2025, 10:57:51 PM",
             "role_id": 38174103118600800,
@@ -81376,6 +81392,22 @@
             "role_id": 38174103118608623,
             "server_region": "ws_asia_01"
         },
+        "38174103118608799": {
+            "crew_id": 2439550312229,
+            "crew_name": "Cream Cheese",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 130958.1875,
+            "last_seen": 1769321998,
+            "level": 53,
+            "name": "桃祈",
+            "name_history": [
+                "桃祈"
+            ],
+            "registered": "Jan 4, 2026, 2:31:18 PM",
+            "role_id": 38174103118608799,
+            "server_region": "ws_asia_01"
+        },
         "38174103118608869": {
             "crew_id": 2576989265701,
             "crew_name": "Wuthering Waves",
@@ -81889,8 +81921,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5118,
+    "accounts_total": 5120,
     "created": 1764092421,
-    "last_updated": 1769321878,
+    "last_updated": 1769321998,
     "server_region": "ws_asia_01"
 }
