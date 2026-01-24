@@ -6830,10 +6830,13 @@
             "crew_name": "Haneul",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "hp": 1770892.25,
-            "last_seen": 1761686156,
+            "hp": 1844988.75,
+            "last_seen": 1769262376,
             "level": 100,
             "name": "LudicHeart",
+            "name_history": [
+                "LudicHeart"
+            ],
             "registered": "Dec 4, 2024, 6:41:15 PM",
             "role_id": 51629802287056,
             "server_region": "north_america"
@@ -7086,11 +7089,17 @@
             "server_region": "north_america"
         },
         "51629802308420": {
-            "crew_id": 55834586853,
-            "crew_name": "F2PAnonymous",
+            "crew_id": 867583405806,
+            "crew_name": "Love",
+            "equipping_title": "3_2025",
             "gender": 1,
-            "last_seen": 1759291150,
+            "hp": 1706020.875,
+            "last_seen": 1769262376,
+            "level": 100,
             "name": "IceCreamBop",
+            "name_history": [
+                "IceCreamBop"
+            ],
             "registered": "Mar 9, 2025, 6:47:47 PM",
             "role_id": 51629802308420,
             "server_region": "north_america"
@@ -9462,6 +9471,22 @@
             "role_id": 51629802365072,
             "server_region": "north_america"
         },
+        "51629802365430": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 14036.1982421875,
+            "last_seen": 1769262376,
+            "level": 15,
+            "name": "Рицессель",
+            "name_history": [
+                "Рицессель"
+            ],
+            "registered": "Jan 22, 2026, 9:15:54 AM",
+            "role_id": 51629802365430,
+            "server_region": "north_america"
+        },
         "51629802365664": {
             "crew_id": 0,
             "crew_name": "",
@@ -9492,6 +9517,22 @@
             ],
             "registered": "Jan 23, 2026, 7:28:02 PM",
             "role_id": 51629802366096,
+            "server_region": "north_america"
+        },
+        "51629802366109": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 18525.56640625,
+            "last_seen": 1769262376,
+            "level": 20,
+            "name": "ManholerKel",
+            "name_history": [
+                "ManholerKel"
+            ],
+            "registered": "Jan 23, 2026, 7:55:28 PM",
+            "role_id": 51629802366109,
             "server_region": "north_america"
         },
         "51629802366203": {
@@ -10505,8 +10546,8 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 778,
+    "accounts_total": 780,
     "created": 1753804860,
-    "last_updated": 1769262135,
+    "last_updated": 1769262376,
     "server_region": "north_america"
 }
