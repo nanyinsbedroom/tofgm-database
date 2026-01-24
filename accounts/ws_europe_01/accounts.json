@@ -1397,9 +1397,9 @@
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 587233.25,
-            "last_seen": 1768848518,
-            "level": 70,
+            "hp": 590593.25,
+            "last_seen": 1769288424,
+            "level": 71,
             "name": "イセル",
             "name_history": [
                 "イセル"
@@ -1749,9 +1749,9 @@
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 581879.4375,
-            "last_seen": 1768848578,
-            "level": 70,
+            "hp": 584241.0,
+            "last_seen": 1769288424,
+            "level": 71,
             "name": "Исэль",
             "name_history": [
                 "Исэль"
@@ -10448,6 +10448,22 @@
             "role_id": 38174111708501603,
             "server_region": "ws_europe_01"
         },
+        "38174111708501734": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90388.734375,
+            "last_seen": 1769288424,
+            "level": 47,
+            "name": "Lorelheï",
+            "name_history": [
+                "Lorelheï"
+            ],
+            "registered": "Dec 1, 2025, 8:20:16 PM",
+            "role_id": 38174111708501734,
+            "server_region": "ws_europe_01"
+        },
         "38174111708501804": {
             "crew_id": 1206894698279,
             "crew_name": "JurasTempest",
@@ -12081,8 +12097,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 755,
+    "accounts_total": 756,
     "created": 1764046902,
-    "last_updated": 1769287594,
+    "last_updated": 1769288424,
     "server_region": "ws_europe_01"
 }
