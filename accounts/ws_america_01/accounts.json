@@ -3761,13 +3761,13 @@
             "server_region": "ws_america_01"
         },
         "38174107413514307": {
-            "crew_id": 528289865510,
-            "crew_name": "Coven de Batata",
-            "equipping_title": "1_6_2_2",
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 364157.75,
-            "last_seen": 1766237711,
-            "level": 62,
+            "hp": 569406.4375,
+            "last_seen": 1769357660,
+            "level": 70,
             "name": "Gangane",
             "name_history": [
                 "Gangane"
@@ -19200,6 +19200,22 @@
             "role_id": 38174107413579411,
             "server_region": "ws_america_01"
         },
+        "38174107413579520": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 10656.0,
+            "last_seen": 1769357660,
+            "level": 4,
+            "name": "Stark_0919",
+            "name_history": [
+                "Stark_0919"
+            ],
+            "registered": "Jan 25, 2026, 2:20:38 PM",
+            "role_id": 38174107413579520,
+            "server_region": "ws_america_01"
+        },
         "38174107413579536": {
             "crew_id": 0,
             "crew_name": "",
@@ -19233,8 +19249,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1202,
+    "accounts_total": 1203,
     "created": 1764067509,
-    "last_updated": 1769357600,
+    "last_updated": 1769357660,
     "server_region": "ws_america_01"
 }
