@@ -29068,11 +29068,11 @@
         "63582695878793": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_2_0_86",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1169072.0,
-            "last_seen": 1767139855,
-            "level": 77,
+            "hp": 1347462.0,
+            "last_seen": 1769375811,
+            "level": 80,
             "name": "清荷",
             "name_history": [
                 "清荷"
@@ -48910,7 +48910,7 @@
             "equipping_title": "怪力大王橘雪莉的导师,0",
             "gender": 1,
             "hp": 1155704.75,
-            "last_seen": 1769374852,
+            "last_seen": 1769375811,
             "level": 80,
             "name": "百合园小咲",
             "name_history": [
@@ -50279,10 +50279,26 @@
             "registered": "2026年1月25日 下午7:11:09",
             "role_id": 63582695996092,
             "server_region": "cosmic_fold"
+        },
+        "63582695996112": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54994.0,
+            "last_seen": 1769375811,
+            "level": 14,
+            "name": "M_LIN",
+            "name_history": [
+                "M_LIN"
+            ],
+            "registered": "2026年1月25日 下午7:38:25",
+            "role_id": 63582695996112,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4053,
+    "accounts_total": 4054,
     "created": 1758803451,
-    "last_updated": 1769375751,
+    "last_updated": 1769375811,
     "server_region": "cosmic_fold"
 }
