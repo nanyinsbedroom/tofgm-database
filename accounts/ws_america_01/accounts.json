@@ -389,8 +389,8 @@
             "crew_name": "DreamFall",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 941425.1875,
-            "last_seen": 1769173666,
+            "hp": 940771.1875,
+            "last_seen": 1769355808,
             "level": 72,
             "name": "Milk",
             "name_history": [
@@ -3781,8 +3781,8 @@
             "crew_name": "Supernova",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 910056.6875,
-            "last_seen": 1769272319,
+            "hp": 909547.6875,
+            "last_seen": 1769355808,
             "level": 72,
             "name": "Shizuka Kuze",
             "name_history": [
@@ -4272,6 +4272,22 @@
             "role_id": 38174107413514695,
             "server_region": "ws_america_01"
         },
+        "38174107413514700": {
+            "crew_id": 115973005094,
+            "crew_name": "DreamFall",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 858429.625,
+            "last_seen": 1769355808,
+            "level": 72,
+            "name": "AltairAguilar",
+            "name_history": [
+                "AltairAguilar"
+            ],
+            "registered": "Nov 25, 2025, 5:09:02 AM",
+            "role_id": 38174107413514700,
+            "server_region": "ws_america_01"
+        },
         "38174107413514717": {
             "crew_id": 0,
             "crew_name": "",
@@ -4677,9 +4693,9 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 840667.4375,
-            "last_seen": 1768828407,
-            "level": 71,
+            "hp": 923307.3125,
+            "last_seen": 1769355808,
+            "level": 72,
             "name": "Avalon",
             "name_history": [
                 "Avalon"
@@ -9571,11 +9587,11 @@
         "38174107413519551": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_12",
             "gender": 0,
-            "hp": 525063.0,
-            "last_seen": 1766237471,
-            "level": 62,
+            "hp": 921310.8125,
+            "last_seen": 1769355808,
+            "level": 72,
             "name": "Xkinna",
             "name_history": [
                 "Xkinna"
@@ -14142,6 +14158,22 @@
             ],
             "registered": "Nov 26, 2025, 12:02:39 PM",
             "role_id": 38174107413534007,
+            "server_region": "ws_america_01"
+        },
+        "38174107413534008": {
+            "crew_id": 360786140966,
+            "crew_name": "Ravenous",
+            "equipping_title": "2_2_0_84",
+            "gender": 0,
+            "hp": 892136.125,
+            "last_seen": 1769355808,
+            "level": 72,
+            "name": "NobreLinx",
+            "name_history": [
+                "NobreLinx"
+            ],
+            "registered": "Nov 26, 2025, 12:02:56 PM",
+            "role_id": 38174107413534008,
             "server_region": "ws_america_01"
         },
         "38174107413534212": {
@@ -18849,8 +18881,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1178,
+    "accounts_total": 1180,
     "created": 1764067509,
-    "last_updated": 1769355748,
+    "last_updated": 1769355808,
     "server_region": "ws_america_01"
 }
