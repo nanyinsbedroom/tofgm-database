@@ -6354,14 +6354,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695853500": {
-            "crew_id": 77309426132,
-            "crew_name": "晓",
-            "equipping_title": "None",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 406234.0,
-            "last_seen": 1760446566,
-            "level": 59,
+            "hp": 1181649.625,
+            "last_seen": 1769374912,
+            "level": 80,
             "name": "海嘉德我的梦",
+            "name_history": [
+                "海嘉德我的梦"
+            ],
             "registered": "2025年9月25日 下午6:44:50",
             "role_id": 63582695853500,
             "server_region": "cosmic_fold"
@@ -8277,11 +8280,11 @@
         "63582695854951": {
             "crew_id": 25769818580,
             "crew_name": "暖暖会",
-            "equipping_title": "说话带喵的启迪人,1",
+            "equipping_title": "说话带喵的导师,0",
             "gender": 1,
-            "hp": 1157658.0,
-            "last_seen": 1766962278,
-            "level": 77,
+            "hp": 1306596.75,
+            "last_seen": 1769374912,
+            "level": 80,
             "name": "异化猫猫",
             "name_history": [
                 "异化猫猫"
@@ -29684,8 +29687,8 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 1230562.0,
-            "last_seen": 1769291010,
+            "hp": 1264891.625,
+            "last_seen": 1769374912,
             "level": 80,
             "name": "水镜映月明",
             "name_history": [
@@ -33551,11 +33554,11 @@
         "63582695896391": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 1342756.0,
-            "last_seen": 1768927667,
-            "level": 79,
+            "hp": 1389973.0,
+            "last_seen": 1769374912,
+            "level": 80,
             "name": "赫赫",
             "name_history": [
                 "赫赫"
@@ -37345,7 +37348,7 @@
             "equipping_title": "2_2_0_84",
             "gender": 1,
             "hp": 1292242.5,
-            "last_seen": 1769291010,
+            "last_seen": 1769374912,
             "level": 80,
             "name": "果汁橙",
             "name_history": [
@@ -48378,6 +48381,22 @@
             "role_id": 63582695968790,
             "server_region": "cosmic_fold"
         },
+        "63582695969126": {
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 88846.203125,
+            "last_seen": 1769374912,
+            "level": 78,
+            "name": "无敌小鱼",
+            "name_history": [
+                "无敌小鱼"
+            ],
+            "registered": "2025年11月29日 下午10:41:52",
+            "role_id": 63582695969126,
+            "server_region": "cosmic_fold"
+        },
         "63582695969410": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
@@ -48392,6 +48411,22 @@
             ],
             "registered": "2025年11月30日 上午9:19:04",
             "role_id": 63582695969410,
+            "server_region": "cosmic_fold"
+        },
+        "63582695969821": {
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "果味丶甜妹妹的导师,0",
+            "gender": 0,
+            "hp": 1199682.0,
+            "last_seen": 1769374912,
+            "level": 80,
+            "name": "果味丶怪蜀黍",
+            "name_history": [
+                "果味丶怪蜀黍"
+            ],
+            "registered": "2025年11月30日 下午5:09:54",
+            "role_id": 63582695969821,
             "server_region": "cosmic_fold"
         },
         "63582695971503": {
@@ -50059,8 +50094,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4041,
+    "accounts_total": 4043,
     "created": 1758803451,
-    "last_updated": 1769374852,
+    "last_updated": 1769374912,
     "server_region": "cosmic_fold"
 }
