@@ -6489,8 +6489,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_74",
             "gender": 1,
-            "hp": 1240448.375,
-            "last_seen": 1769291010,
+            "hp": 1290066.25,
+            "last_seen": 1769375092,
             "level": 80,
             "name": "香奈美",
             "name_history": [
@@ -29405,19 +29405,35 @@
             "server_region": "cosmic_fold"
         },
         "63582695880063": {
-            "crew_id": 197568510420,
-            "crew_name": "末班车",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
             "equipping_title": "香奈美的学徒,0",
             "gender": 1,
-            "hp": 680395.9375,
-            "last_seen": 1762269298,
-            "level": 69,
+            "hp": 1296527.375,
+            "last_seen": 1769375092,
+            "level": 80,
             "name": "香奈美的主人",
             "name_history": [
                 "香奈美的主人"
             ],
             "registered": "2025年9月27日 下午8:02:45",
             "role_id": 63582695880063,
+            "server_region": "cosmic_fold"
+        },
+        "63582695880120": {
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_2_0_88",
+            "gender": 1,
+            "hp": 1276068.0,
+            "last_seen": 1769375092,
+            "level": 80,
+            "name": "镜華",
+            "name_history": [
+                "镜華"
+            ],
+            "registered": "2025年9月27日 下午8:11:36",
+            "role_id": 63582695880120,
             "server_region": "cosmic_fold"
         },
         "63582695880152": {
@@ -40030,9 +40046,9 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1080280.25,
-            "last_seen": 1766962278,
-            "level": 76,
+            "hp": 1127751.0,
+            "last_seen": 1769375092,
+            "level": 78,
             "name": "细雨纷飞五月天",
             "name_history": [
                 "细雨纷飞五月天"
@@ -50038,6 +50054,22 @@
             "role_id": 63582695994057,
             "server_region": "cosmic_fold"
         },
+        "63582695994263": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54353.0,
+            "last_seen": 1769375092,
+            "level": 15,
+            "name": "不想说话1",
+            "name_history": [
+                "不想说话1"
+            ],
+            "registered": "2026年1月23日 下午9:05:22",
+            "role_id": 63582695994263,
+            "server_region": "cosmic_fold"
+        },
         "63582695994280": {
             "crew_id": 0,
             "crew_name": "",
@@ -50167,8 +50199,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4047,
+    "accounts_total": 4049,
     "created": 1758803451,
-    "last_updated": 1769375032,
+    "last_updated": 1769375092,
     "server_region": "cosmic_fold"
 }
