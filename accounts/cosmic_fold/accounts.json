@@ -19434,11 +19434,11 @@
         "63582695863482": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_030_world;6",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;1",
             "gender": 1,
-            "hp": 1106544.5,
-            "last_seen": 1766266731,
-            "level": 76,
+            "hp": 1308472.625,
+            "last_seen": 1769376412,
+            "level": 80,
             "name": "坤坤",
             "name_history": [
                 "坤坤"
@@ -49323,6 +49323,22 @@
             "role_id": 63582695984107,
             "server_region": "cosmic_fold"
         },
+        "63582695984354": {
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 880403.75,
+            "last_seen": 1769376412,
+            "level": 80,
+            "name": "小羊饮春泽",
+            "name_history": [
+                "小羊饮春泽"
+            ],
+            "registered": "2026年1月6日 下午10:16:39",
+            "role_id": 63582695984354,
+            "server_region": "cosmic_fold"
+        },
         "63582695984786": {
             "crew_id": 614180338132,
             "crew_name": "梦想夏乡",
@@ -50363,6 +50379,22 @@
             "role_id": 63582695995515,
             "server_region": "cosmic_fold"
         },
+        "63582695995618": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41435.0,
+            "last_seen": 1769376412,
+            "level": 11,
+            "name": "哈基米的饭碗",
+            "name_history": [
+                "哈基米的饭碗"
+            ],
+            "registered": "2026年1月25日 上午10:21:13",
+            "role_id": 63582695995618,
+            "server_region": "cosmic_fold"
+        },
         "63582695995640": {
             "crew_id": 0,
             "crew_name": "",
@@ -50412,8 +50444,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4061,
+    "accounts_total": 4063,
     "created": 1758803451,
-    "last_updated": 1769376352,
+    "last_updated": 1769376412,
     "server_region": "cosmic_fold"
 }
