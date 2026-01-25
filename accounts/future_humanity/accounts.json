@@ -1843,9 +1843,15 @@
         "60563335606203": {
             "crew_id": 300647724821,
             "crew_name": "可爱",
+            "equipping_title": "不愉悦的猫的导师,0",
             "gender": 1,
-            "last_seen": 1759854011,
+            "hp": 1329350.75,
+            "last_seen": 1769382800,
+            "level": 100,
             "name": "忘却可爱的你",
+            "name_history": [
+                "忘却可爱的你"
+            ],
             "registered": "2024年11月11日 下午7:24:55",
             "role_id": 60563335606203,
             "server_region": "future_humanity"
@@ -2779,6 +2785,22 @@
             "role_id": 60563335942330,
             "server_region": "future_humanity"
         },
+        "60563335944545": {
+            "crew_id": 14383845488405,
+            "crew_name": "投降喵",
+            "equipping_title": "2_2_0_81",
+            "gender": 1,
+            "hp": 1173105.125,
+            "last_seen": 1769382800,
+            "level": 100,
+            "name": "Elisa",
+            "name_history": [
+                "Elisa"
+            ],
+            "registered": "2025年9月6日 下午9:31:06",
+            "role_id": 60563335944545,
+            "server_region": "future_humanity"
+        },
         "60563335946103": {
             "crew_id": 7597797160725,
             "crew_name": "玲珑",
@@ -3399,6 +3421,22 @@
             "role_id": 60563335966090,
             "server_region": "future_humanity"
         },
+        "60563335986037": {
+            "crew_id": 863288440597,
+            "crew_name": "樱花庄",
+            "equipping_title": "4_2026",
+            "gender": 1,
+            "hp": 431313.84375,
+            "last_seen": 1769382800,
+            "level": 54,
+            "name": "婴宁",
+            "name_history": [
+                "婴宁"
+            ],
+            "registered": "2026年1月9日 上午8:44:36",
+            "role_id": 60563335986037,
+            "server_region": "future_humanity"
+        },
         "60563335986964": {
             "crew_id": 0,
             "crew_name": "",
@@ -3413,6 +3451,22 @@
             ],
             "registered": "2026年1月10日 下午10:58:40",
             "role_id": 60563335986964,
+            "server_region": "future_humanity"
+        },
+        "60563335993142": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 6051.98046875,
+            "last_seen": 1769382800,
+            "level": 15,
+            "name": "万业",
+            "name_history": [
+                "万业"
+            ],
+            "registered": "2026年1月25日 下午8:42:06",
+            "role_id": 60563335993142,
             "server_region": "future_humanity"
         },
         "60563335993169": {
@@ -4528,6 +4582,22 @@
             "role_id": 62727997444514,
             "server_region": "future_humanity"
         },
+        "62736587293383": {
+            "crew_id": 14263586404117,
+            "crew_name": "神待少女",
+            "equipping_title": "2_10_0_5",
+            "gender": 0,
+            "hp": 2225778.25,
+            "last_seen": 1769382800,
+            "level": 100,
+            "name": "不愉悦的喵",
+            "name_history": [
+                "不愉悦的喵"
+            ],
+            "registered": "2022年12月15日 上午10:03:23",
+            "role_id": 62736587293383,
+            "server_region": "future_humanity"
+        },
         "62736587565417": {
             "crew_id": 7322919253781,
             "crew_name": "雾巷猫",
@@ -4658,8 +4728,8 @@
             "server_region": "future_humanity"
         }
     },
-    "accounts_total": 328,
+    "accounts_total": 332,
     "created": 1758711045,
-    "last_updated": 1769382740,
+    "last_updated": 1769382800,
     "server_region": "future_humanity"
 }
