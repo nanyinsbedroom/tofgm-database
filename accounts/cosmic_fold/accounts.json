@@ -6053,12 +6053,15 @@
         "63582695853293": {
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
-            "equipping_title": "WorldBossDamage_1;英招;3",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 671950.0625,
-            "last_seen": 1761573418,
-            "level": 65,
+            "hp": 1320489.875,
+            "last_seen": 1769375691,
+            "level": 80,
             "name": "慢悠悠的子熙",
+            "name_history": [
+                "慢悠悠的子熙"
+            ],
             "registered": "2025年9月25日 下午6:41:42",
             "role_id": 63582695853293,
             "server_region": "cosmic_fold"
@@ -6575,7 +6578,7 @@
             "equipping_title": "1_6_2_1",
             "gender": 1,
             "hp": 1336841.75,
-            "last_seen": 1769374972,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "新跃迁者",
             "name_history": [
@@ -7933,7 +7936,7 @@
             "equipping_title": "2_2_0_29",
             "gender": 1,
             "hp": 1352681.625,
-            "last_seen": 1769374972,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "偶阵雨",
             "name_history": [
@@ -15441,7 +15444,7 @@
             "equipping_title": "1_9_0_3",
             "gender": 1,
             "hp": 1290028.25,
-            "last_seen": 1769374852,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "别查我的DPS",
             "name_history": [
@@ -15567,14 +15570,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695860126": {
-            "crew_id": 12884916692,
-            "crew_name": "喵御宅",
-            "equipping_title": "陪我许个愿的学徒,0",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_2_0_80",
             "gender": 1,
-            "hp": 635769.1875,
-            "last_seen": 1761548405,
-            "level": 64,
-            "name": "梦乄晓",
+            "hp": 1135266.0,
+            "last_seen": 1769375691,
+            "level": 80,
+            "name": "影、梦",
+            "name_history": [
+                "影、梦"
+            ],
             "registered": "2025年9月25日 下午8:58:18",
             "role_id": 63582695860126,
             "server_region": "cosmic_fold"
@@ -16310,8 +16316,8 @@
             "crew_name": "天月之境",
             "equipping_title": "1_9_0_3",
             "gender": 1,
-            "hp": 1272502.125,
-            "last_seen": 1769374852,
+            "hp": 1195347.375,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "想念",
             "name_history": [
@@ -22150,8 +22156,8 @@
             "crew_name": "天月之境",
             "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 1357145.5,
-            "last_seen": 1769374852,
+            "hp": 1320473.875,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "唐喵",
             "name_history": [
@@ -35284,7 +35290,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 1277966.0,
-            "last_seen": 1769374852,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "momon",
             "name_history": [
@@ -40862,8 +40868,8 @@
             "crew_name": "天月之境",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1305864.75,
-            "last_seen": 1769374852,
+            "hp": 972869.125,
+            "last_seen": 1769375691,
             "level": 80,
             "name": "晨曦之星",
             "name_history": [
@@ -50245,6 +50251,6 @@
     },
     "accounts_total": 4051,
     "created": 1758803451,
-    "last_updated": 1769375631,
+    "last_updated": 1769375691,
     "server_region": "cosmic_fold"
 }
