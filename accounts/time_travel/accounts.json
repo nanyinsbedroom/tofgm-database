@@ -82,6 +82,22 @@
             "role_id": 63574105916071,
             "server_region": "time_travel"
         },
+        "63574105916078": {
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1400476.375,
+            "last_seen": 1769482228,
+            "level": 80,
+            "name": "白蓝帝",
+            "name_history": [
+                "白蓝帝"
+            ],
+            "registered": "2023年12月14日 上午10:00:14",
+            "role_id": 63574105916078,
+            "server_region": "time_travel"
+        },
         "63574105916169": {
             "crew_id": 283467856338,
             "crew_name": "异世相遇",
@@ -206,9 +222,15 @@
         "63574105917331": {
             "crew_id": 4552665348563,
             "crew_name": "心焰",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759857433,
-            "name": "暁桜",
+            "hp": 1478663.125,
+            "last_seen": 1769482228,
+            "level": 80,
+            "name": "Willorn",
+            "name_history": [
+                "Willorn"
+            ],
             "registered": "2023年12月14日 上午10:01:27",
             "role_id": 63574105917331,
             "server_region": "time_travel"
@@ -344,6 +366,22 @@
             ],
             "registered": "2023年12月14日 上午10:09:26",
             "role_id": 63574105920671,
+            "server_region": "time_travel"
+        },
+        "63574105921693": {
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "1_2023",
+            "gender": 1,
+            "hp": 1135667.0,
+            "last_seen": 1769482228,
+            "level": 80,
+            "name": "na小青",
+            "name_history": [
+                "na小青"
+            ],
+            "registered": "2023年12月14日 上午10:10:51",
+            "role_id": 63574105921693,
             "server_region": "time_travel"
         },
         "63574105922357": {
@@ -2158,10 +2196,10 @@
         "63574106381764": {
             "crew_id": 996432427474,
             "crew_name": "幻策司梦阁",
-            "equipping_title": "0_8_0_63",
+            "equipping_title": "1_9_0_4",
             "gender": 0,
             "hp": 1340589.5,
-            "last_seen": 1769377673,
+            "last_seen": 1769482228,
             "level": 80,
             "name": "遐蝶焕羽",
             "name_history": [
@@ -3422,8 +3460,8 @@
             "crew_name": "七宫",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1351121.0,
-            "last_seen": 1769377673,
+            "hp": 1389226.5,
+            "last_seen": 1769482228,
             "level": 80,
             "name": "零五壹贰",
             "name_history": [
@@ -5209,10 +5247,42 @@
             "registered": "2026年1月25日 下午9:33:42",
             "role_id": 63578401998274,
             "server_region": "time_travel"
+        },
+        "63578401998477": {
+            "crew_id": 5677946780115,
+            "crew_name": "林深不知处",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 52801.0,
+            "last_seen": 1769482228,
+            "level": 17,
+            "name": "霖孀",
+            "name_history": [
+                "霖孀"
+            ],
+            "registered": "2026年1月27日 上午12:50:26",
+            "role_id": 63578401998477,
+            "server_region": "time_travel"
+        },
+        "63578401998480": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 35414.0,
+            "last_seen": 1769482228,
+            "level": 11,
+            "name": "孤言陌",
+            "name_history": [
+                "孤言陌"
+            ],
+            "registered": "2026年1月27日 上午1:36:15",
+            "role_id": 63578401998480,
+            "server_region": "time_travel"
         }
     },
-    "accounts_total": 419,
+    "accounts_total": 423,
     "created": 1758107405,
-    "last_updated": 1769377711,
+    "last_updated": 1769482228,
     "server_region": "time_travel"
 }
