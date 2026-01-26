@@ -3094,11 +3094,17 @@
             "server_region": "asia_pacific"
         },
         "47261820149831": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 124554062588,
+            "crew_name": "ふぇありー",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759402683,
+            "hp": 2432136.75,
+            "last_seen": 1769450285,
+            "level": 100,
             "name": "エメット",
+            "name_history": [
+                "エメット"
+            ],
             "registered": "Aug 11, 2022, 4:32:24 PM",
             "role_id": 47261820149831,
             "server_region": "asia_pacific"
@@ -12360,6 +12366,22 @@
             ],
             "registered": "Jun 8, 2023, 12:55:28 PM",
             "role_id": 47321950667126,
+            "server_region": "asia_pacific"
+        },
+        "47326244651117": {
+            "crew_id": 47244651275,
+            "crew_name": "Chocolate",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 1805151.25,
+            "last_seen": 1769450285,
+            "level": 100,
+            "name": "Mumei6",
+            "name_history": [
+                "Mumei6"
+            ],
+            "registered": "Aug 11, 2022, 4:49:37 PM",
+            "role_id": 47326244651117,
             "server_region": "asia_pacific"
         },
         "47326244652339": {
@@ -34159,8 +34181,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2487,
+    "accounts_total": 2488,
     "created": "1754829154",
-    "last_updated": 1769450225,
+    "last_updated": 1769450285,
     "server_region": "asia_pacific"
 }
