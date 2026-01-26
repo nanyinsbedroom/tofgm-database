@@ -52,12 +52,15 @@
         "63574105915977": {
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
-            "equipping_title": "1_6_4_11",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 624220.8125,
-            "last_seen": 1760970413,
-            "level": 62,
+            "hp": 1399762.75,
+            "last_seen": 1769482408,
+            "level": 80,
             "name": "Minami",
+            "name_history": [
+                "Minami"
+            ],
             "registered": "2023年12月14日 上午10:00:10",
             "role_id": 63574105915977,
             "server_region": "time_travel"
@@ -2354,6 +2357,22 @@
             "name": "朱雀1号",
             "registered": "2024年5月1日 上午2:39:50",
             "role_id": 63574106446259,
+            "server_region": "time_travel"
+        },
+        "63574106451326": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 29188.0,
+            "last_seen": 1769482408,
+            "level": 14,
+            "name": "铃星羽",
+            "name_history": [
+                "铃星羽"
+            ],
+            "registered": "2024年5月2日 下午2:10:52",
+            "role_id": 63574106451326,
             "server_region": "time_travel"
         },
         "63574106463663": {
@@ -5361,8 +5380,8 @@
             "server_region": "time_travel"
         }
     },
-    "accounts_total": 428,
+    "accounts_total": 429,
     "created": 1758107405,
-    "last_updated": 1769482348,
+    "last_updated": 1769482408,
     "server_region": "time_travel"
 }
