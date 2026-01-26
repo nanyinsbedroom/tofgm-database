@@ -7472,10 +7472,10 @@
         "68758131475729": {
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
-            "equipping_title": "2_2_0_90",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 6179896.0,
-            "last_seen": 1767307529,
+            "hp": 2604172.75,
+            "last_seen": 1769470615,
             "level": 100,
             "name": "Wulfstan",
             "name_history": [
@@ -21870,6 +21870,38 @@
             "role_id": 68775311760079,
             "server_region": "southeast_asia"
         },
+        "68775311760188": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 860591.375,
+            "last_seen": 1769470615,
+            "level": 79,
+            "name": "Ancukk",
+            "name_history": [
+                "Ancukk"
+            ],
+            "registered": "Jan 10, 2026, 2:02:40 PM",
+            "role_id": 68775311760188,
+            "server_region": "southeast_asia"
+        },
+        "68775311760458": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 6895.02783203125,
+            "last_seen": 1769470615,
+            "level": 13,
+            "name": "绝影",
+            "name_history": [
+                "绝影"
+            ],
+            "registered": "Jan 21, 2026, 11:25:44 PM",
+            "role_id": 68775311760458,
+            "server_region": "southeast_asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -24773,8 +24805,8 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2230333.0,
-            "last_seen": 1763936100,
+            "hp": 2256165.0,
+            "last_seen": 1769470615,
             "level": 100,
             "name": "Chef Sakiko",
             "name_history": [
@@ -27306,8 +27338,8 @@
             "server_region": "southeast_asia"
         }
     },
-    "accounts_total": 2021,
+    "accounts_total": 2023,
     "created": 1753795148,
-    "last_updated": 1769470435,
+    "last_updated": 1769470615,
     "server_region": "southeast_asia"
 }
