@@ -12612,12 +12612,15 @@
         "47326244729880": {
             "crew_id": 438086675211,
             "crew_name": "スターダストメモリー",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2625307.75,
-            "last_seen": 1761987937,
+            "hp": 2711821.75,
+            "last_seen": 1769449144,
             "level": 100,
             "name": "うましら〜#e",
+            "name_history": [
+                "うましら〜#e"
+            ],
             "registered": "Aug 21, 2022, 10:52:32 AM",
             "role_id": 47326244729880,
             "server_region": "asia_pacific"
@@ -27774,6 +27777,38 @@
             "role_id": 47343427975069,
             "server_region": "asia_pacific"
         },
+        "47343427978646": {
+            "crew_id": 3066606660346,
+            "crew_name": "幻塔の黒騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 7027.43115234375,
+            "last_seen": 1769449144,
+            "level": 17,
+            "name": "Rachel Eden",
+            "name_history": [
+                "Rachel Eden"
+            ],
+            "registered": "Jan 26, 2026, 1:44:00 PM",
+            "role_id": 47343427978646,
+            "server_region": "asia_pacific"
+        },
+        "47343427978729": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_seen": 1769449144,
+            "level": 1,
+            "name": "Putri dfc",
+            "name_history": [
+                "Putri dfc"
+            ],
+            "registered": "Jan 26, 2026, 6:22:57 PM",
+            "role_id": 47343427978729,
+            "server_region": "asia_pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -33677,8 +33712,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2458,
+    "accounts_total": 2460,
     "created": "1754829154",
-    "last_updated": 1769449024,
+    "last_updated": 1769449144,
     "server_region": "asia_pacific"
 }
