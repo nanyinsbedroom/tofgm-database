@@ -2748,14 +2748,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695851270": {
-            "crew_id": 12884916692,
-            "crew_name": "喵御宅",
-            "equipping_title": "None",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 430887.59375,
-            "last_seen": 1760450589,
-            "level": 57,
-            "name": "夏娜",
+            "hp": 1356008.125,
+            "last_seen": 1769474962,
+            "level": 80,
+            "name": "千咲サ",
+            "name_history": [
+                "千咲サ"
+            ],
             "registered": "2025年9月25日 下午6:14:50",
             "role_id": 63582695851270,
             "server_region": "cosmic_fold"
@@ -32293,15 +32296,15 @@
         },
         "63582695889714": {
             "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "2_10_1_7",
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 918835.5625,
-            "last_seen": 1763819343,
-            "level": 72,
-            "name": "牡丹皮",
+            "hp": 1327969.0,
+            "last_seen": 1769474962,
+            "level": 80,
+            "name": "幻塔药丸",
             "name_history": [
-                "牡丹皮"
+                "幻塔药丸"
             ],
             "registered": "2025年9月29日 下午10:34:02",
             "role_id": 63582695889714,
@@ -40052,6 +40055,22 @@
             "role_id": 63582695923100,
             "server_region": "cosmic_fold"
         },
+        "63582695923129": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 94370.0,
+            "last_seen": 1769474962,
+            "level": 36,
+            "name": "倒瞰清白",
+            "name_history": [
+                "倒瞰清白"
+            ],
+            "registered": "2025年10月11日 上午2:51:05",
+            "role_id": 63582695923129,
+            "server_region": "cosmic_fold"
+        },
         "63582695923157": {
             "crew_id": 163208772052,
             "crew_name": "二次元赛高",
@@ -45562,6 +45581,22 @@
             "role_id": 63582695951023,
             "server_region": "cosmic_fold"
         },
+        "63582695951139": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 135203.0,
+            "last_seen": 1769474962,
+            "level": 58,
+            "name": "决胜局",
+            "name_history": [
+                "决胜局"
+            ],
+            "registered": "2025年11月2日 下午2:44:40",
+            "role_id": 63582695951139,
+            "server_region": "cosmic_fold"
+        },
         "63582695951262": {
             "crew_id": 425201777108,
             "crew_name": "星期三",
@@ -50987,8 +51022,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4096,
+    "accounts_total": 4098,
     "created": 1758803451,
-    "last_updated": 1769474902,
+    "last_updated": 1769474962,
     "server_region": "cosmic_fold"
 }
