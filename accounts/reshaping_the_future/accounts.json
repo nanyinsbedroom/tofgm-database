@@ -122,12 +122,15 @@
         "60597694670006": {
             "crew_id": 10209137277194,
             "crew_name": "心愿岛",
-            "equipping_title": "HuntingRank_1;imitation_34;1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2354495.0,
-            "last_seen": 1760455125,
+            "hp": 2328882.5,
+            "last_seen": 1769476789,
             "level": 100,
             "name": "风景37号",
+            "name_history": [
+                "风景37号"
+            ],
             "registered": "2023年2月24日 下午4:46:36",
             "role_id": 60597694670006,
             "server_region": "reshaping_the_future"
@@ -590,12 +593,15 @@
         "62715112856283": {
             "crew_id": 7348689058058,
             "crew_name": "风花雪月楼",
-            "equipping_title": "2_10_1_5",
+            "equipping_title": "2_2_0_75",
             "gender": 1,
-            "hp": 2325228.25,
-            "last_seen": 1761467218,
+            "hp": 1973179.875,
+            "last_seen": 1769476789,
             "level": 100,
             "name": "诗意灬茜羽",
+            "name_history": [
+                "诗意灬茜羽"
+            ],
             "registered": "2022年6月18日 下午8:19:25",
             "role_id": 62715112856283,
             "server_region": "reshaping_the_future"
@@ -3247,6 +3253,6 @@
     },
     "accounts_total": 238,
     "created": 1758712976,
-    "last_updated": 1769476729,
+    "last_updated": 1769476789,
     "server_region": "reshaping_the_future"
 }
