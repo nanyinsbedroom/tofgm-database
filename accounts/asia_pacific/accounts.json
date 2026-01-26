@@ -4460,10 +4460,13 @@
             "crew_name": "オグリキャップだよろしく頼む",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2291302.25,
-            "last_seen": 1760703922,
+            "hp": 2345350.25,
+            "last_seen": 1769449925,
             "level": 100,
             "name": "syusyu　",
+            "name_history": [
+                "syusyu　"
+            ],
             "registered": "Aug 14, 2022, 5:06:29 PM",
             "role_id": 47270410132624,
             "server_region": "asia_pacific"
@@ -4639,10 +4642,10 @@
         "47274705031270": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
-            "equipping_title": "1_8_0_35",
+            "equipping_title": "2_2_0_90",
             "gender": 1,
-            "hp": 2562848.0,
-            "last_seen": 1763928025,
+            "hp": 2183193.25,
+            "last_seen": 1769449925,
             "level": 100,
             "name": "-Hippy-",
             "name_history": [
@@ -6257,9 +6260,15 @@
         "47279001000400": {
             "crew_id": 18223546247951,
             "crew_name": "Flonac",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1760110768,
+            "hp": 1543072.125,
+            "last_seen": 1769449925,
+            "level": 100,
             "name": "  ⁺₊⁺₊♥  $",
+            "name_history": [
+                "  ⁺₊⁺₊♥  $"
+            ],
             "registered": "Apr 8, 2023, 7:39:02 AM",
             "role_id": 47279001000400,
             "server_region": "asia_pacific"
@@ -29326,10 +29335,10 @@
         "47360604419430": {
             "crew_id": 794568960785,
             "crew_name": "たまめいと",
-            "equipping_title": "Tencent_Sever_27",
+            "equipping_title": "2_10_0_4",
             "gender": 0,
-            "hp": 2323522.75,
-            "last_seen": 1762342112,
+            "hp": 2478241.0,
+            "last_seen": 1769449925,
             "level": 100,
             "name": "HinotoRe",
             "name_history": [
@@ -30180,12 +30189,12 @@
             "crew_name": "SmileLive",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1093615.25,
-            "last_seen": 1762790652,
+            "hp": 1218936.5,
+            "last_seen": 1769449925,
             "level": 100,
-            "name": "凡夢月眠絕夜逆凡",
+            "name": "peawyuの冬瓜",
             "name_history": [
-                "凡夢月眠絕夜逆凡"
+                "peawyuの冬瓜"
             ],
             "registered": "Aug 14, 2022, 10:23:26 PM",
             "role_id": 47373489284806,
@@ -32646,6 +32655,22 @@
             "role_id": 47433618876885,
             "server_region": "asia_pacific"
         },
+        "47433618876943": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2025",
+            "gender": 0,
+            "hp": 152817.703125,
+            "last_seen": 1769449925,
+            "level": 29,
+            "name": "Vectus",
+            "name_history": [
+                "Vectus"
+            ],
+            "registered": "May 18, 2025, 1:56:25 AM",
+            "role_id": 47433618876943,
+            "server_region": "asia_pacific"
+        },
         "47433618879231": {
             "crew_id": 21474847524,
             "crew_name": "Morning Star",
@@ -34086,8 +34111,8 @@
             "server_region": "asia_pacific"
         }
     },
-    "accounts_total": 2483,
+    "accounts_total": 2484,
     "created": "1754829154",
-    "last_updated": 1769449745,
+    "last_updated": 1769449925,
     "server_region": "asia_pacific"
 }
