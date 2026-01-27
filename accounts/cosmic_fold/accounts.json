@@ -1681,7 +1681,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1460497.0,
-            "last_seen": 1769553864,
+            "last_seen": 1769554820,
             "level": 78,
             "name": "海嘉德讨伐分部",
             "name_history": [
@@ -49655,7 +49655,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 826494.8125,
-            "last_seen": 1769554164,
+            "last_seen": 1769554820,
             "level": 78,
             "name": "Scout",
             "name_history": [
@@ -51937,6 +51937,22 @@
             "role_id": 63582695996691,
             "server_region": "cosmic_fold"
         },
+        "63582695996728": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26822.392578125,
+            "last_seen": 1769554820,
+            "level": 14,
+            "name": "龙豆",
+            "name_history": [
+                "龙豆"
+            ],
+            "registered": "2026年1月26日 下午9:35:45",
+            "role_id": 63582695996728,
+            "server_region": "cosmic_fold"
+        },
         "63582695996747": {
             "crew_id": 0,
             "crew_name": "",
@@ -52146,8 +52162,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4166,
+    "accounts_total": 4167,
     "created": 1758803451,
-    "last_updated": 1769554760,
+    "last_updated": 1769554820,
     "server_region": "cosmic_fold"
 }
