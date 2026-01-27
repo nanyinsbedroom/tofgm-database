@@ -12197,9 +12197,9 @@
             "crew_name": "Ravenous",
             "equipping_title": "1_10_0_5",
             "gender": 0,
-            "hp": 715344.625,
-            "last_seen": 1769430577,
-            "level": 72,
+            "hp": 746743.3125,
+            "last_seen": 1769518008,
+            "level": 73,
             "name": "...",
             "name_history": [
                 "..."
@@ -16384,6 +16384,22 @@
             "role_id": 38174107413548873,
             "server_region": "ws_america_01"
         },
+        "38174107413549320": {
+            "crew_id": 1434527964966,
+            "crew_name": "Nighthawks",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 429695.21875,
+            "last_seen": 1769518008,
+            "level": 71,
+            "name": "Junisha",
+            "name_history": [
+                "Junisha"
+            ],
+            "registered": "Nov 30, 2025, 3:39:50 PM",
+            "role_id": 38174107413549320,
+            "server_region": "ws_america_01"
+        },
         "38174107413549700": {
             "crew_id": 369376075558,
             "crew_name": "Minor Threat",
@@ -19983,10 +19999,58 @@
             "registered": "Jan 26, 2026, 12:21:30 PM",
             "role_id": 38174107413579725,
             "server_region": "ws_america_01"
+        },
+        "38174107413579787": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30019.0,
+            "last_seen": 1769518008,
+            "level": 6,
+            "name": "B1indsided",
+            "name_history": [
+                "B1indsided"
+            ],
+            "registered": "Jan 26, 2026, 7:12:46 PM",
+            "role_id": 38174107413579787,
+            "server_region": "ws_america_01"
+        },
+        "38174107413579826": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 34987.0,
+            "last_seen": 1769518008,
+            "level": 12,
+            "name": "Axiste",
+            "name_history": [
+                "Axiste"
+            ],
+            "registered": "Jan 26, 2026, 11:24:03 PM",
+            "role_id": 38174107413579826,
+            "server_region": "ws_america_01"
+        },
+        "38174107413579852": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 18300.986328125,
+            "last_seen": 1769518008,
+            "level": 6,
+            "name": "TheBigBans ",
+            "name_history": [
+                "TheBigBans "
+            ],
+            "registered": "Jan 27, 2026, 4:05:21 AM",
+            "role_id": 38174107413579852,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1249,
+    "accounts_total": 1253,
     "created": 1764067509,
-    "last_updated": 1769517948,
+    "last_updated": 1769518008,
     "server_region": "ws_america_01"
 }
