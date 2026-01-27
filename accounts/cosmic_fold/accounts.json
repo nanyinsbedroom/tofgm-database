@@ -1826,14 +1826,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695850818": {
-            "crew_id": 622770272724,
-            "crew_name": "净土",
-            "equipping_title": "None",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 256395.125,
-            "last_seen": 1760889504,
-            "level": 61,
-            "name": "Anolen",
+            "hp": 1317306.125,
+            "last_seen": 1769554164,
+            "level": 80,
+            "name": "瓶盖",
+            "name_history": [
+                "瓶盖"
+            ],
             "registered": "2025年9月25日 下午6:10:08",
             "role_id": 63582695850818,
             "server_region": "cosmic_fold"
@@ -20486,6 +20489,22 @@
             "role_id": 63582695864298,
             "server_region": "cosmic_fold"
         },
+        "63582695864305": {
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_8_0_2",
+            "gender": 1,
+            "hp": 1271567.75,
+            "last_seen": 1769554164,
+            "level": 79,
+            "name": "铃沐爱理",
+            "name_history": [
+                "铃沐爱理"
+            ],
+            "registered": "2025年9月25日 下午11:34:52",
+            "role_id": 63582695864305,
+            "server_region": "cosmic_fold"
+        },
         "63582695864329": {
             "crew_id": 0,
             "crew_name": "",
@@ -23897,9 +23916,9 @@
             "crew_name": "塔学之家",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1177869.625,
-            "last_seen": 1768953423,
-            "level": 79,
+            "hp": 1199571.75,
+            "last_seen": 1769554164,
+            "level": 80,
             "name": "夜落朦空",
             "name_history": [
                 "夜落朦空"
@@ -34909,11 +34928,11 @@
         "63582695900866": {
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
-            "equipping_title": "1_3_2_1",
+            "equipping_title": "窝囊的导师,0",
             "gender": 1,
-            "hp": 1305419.75,
-            "last_seen": 1768953543,
-            "level": 79,
+            "hp": 1352995.75,
+            "last_seen": 1769554164,
+            "level": 80,
             "name": "梅恋恋",
             "name_history": [
                 "梅恋恋"
@@ -39425,12 +39444,12 @@
         },
         "63582695919962": {
             "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "None",
+            "crew_name": "少女终末旅行",
+            "equipping_title": "调皮捣蛋芬璃尔的学徒,0",
             "gender": 1,
-            "hp": 774436.875,
-            "last_seen": 1763816385,
-            "level": 72,
+            "hp": 908152.25,
+            "last_seen": 1769554164,
+            "level": 77,
             "name": "sasa",
             "name_history": [
                 "sasa"
@@ -40448,8 +40467,8 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1128250.25,
-            "last_seen": 1769376592,
+            "hp": 1164001.25,
+            "last_seen": 1769554164,
             "level": 78,
             "name": "细雨纷飞五月天",
             "name_history": [
@@ -41062,7 +41081,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 1263854.5,
-            "last_seen": 1769475742,
+            "last_seen": 1769554164,
             "level": 80,
             "name": "刹那S清英",
             "name_history": [
@@ -43354,6 +43373,22 @@
             "name": "绮雪",
             "registered": "2025年10月16日 下午8:16:12",
             "role_id": 63582695930753,
+            "server_region": "cosmic_fold"
+        },
+        "63582695930815": {
+            "crew_id": 3173980846548,
+            "crew_name": "空花构造体",
+            "equipping_title": "梅恋恋的学徒,0",
+            "gender": 1,
+            "hp": 205959.390625,
+            "last_seen": 1769554164,
+            "level": 57,
+            "name": "窝囊",
+            "name_history": [
+                "窝囊"
+            ],
+            "registered": "2025年10月16日 下午9:09:18",
+            "role_id": 63582695930815,
             "server_region": "cosmic_fold"
         },
         "63582695930889": {
@@ -49454,7 +49489,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 634749.75,
-            "last_seen": 1769475322,
+            "last_seen": 1769554164,
             "level": 78,
             "name": "ShowMaker",
             "name_history": [
@@ -49486,7 +49521,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 826494.8125,
-            "last_seen": 1769475262,
+            "last_seen": 1769554164,
             "level": 78,
             "name": "Scout",
             "name_history": [
@@ -51913,8 +51948,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4152,
+    "accounts_total": 4154,
     "created": 1758803451,
-    "last_updated": 1769554044,
+    "last_updated": 1769554164,
     "server_region": "cosmic_fold"
 }
