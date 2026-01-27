@@ -78,9 +78,15 @@
         "63574105916071": {
             "crew_id": 283467856338,
             "crew_name": "异世相遇",
+            "equipping_title": "失格斜陽的导师,0",
             "gender": 1,
-            "last_seen": 1758725765,
+            "hp": 1433792.5,
+            "last_seen": 1769558402,
+            "level": 80,
             "name": "桃羽诗诗",
+            "name_history": [
+                "桃羽诗诗"
+            ],
             "registered": "2023年12月14日 上午10:00:14",
             "role_id": 63574105916071,
             "server_region": "time_travel"
@@ -3612,6 +3618,22 @@
             "role_id": 63578401729261,
             "server_region": "time_travel"
         },
+        "63578401732038": {
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "2_2_0_40",
+            "gender": 1,
+            "hp": 1482338.5,
+            "last_seen": 1769558402,
+            "level": 80,
+            "name": "雪月樱纷飞",
+            "name_history": [
+                "雪月樱纷飞"
+            ],
+            "registered": "2024年11月5日 下午3:58:15",
+            "role_id": 63578401732038,
+            "server_region": "time_travel"
+        },
         "63578401734532": {
             "crew_id": 1769526540754,
             "crew_name": "山海阁",
@@ -5369,6 +5391,22 @@
             "role_id": 63578401983820,
             "server_region": "time_travel"
         },
+        "63578401992354": {
+            "crew_id": 60129556946,
+            "crew_name": "幻塔",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 811054.5,
+            "last_seen": 1769558402,
+            "level": 80,
+            "name": "时回溯",
+            "name_history": [
+                "时回溯"
+            ],
+            "registered": "2025年12月28日 下午4:10:34",
+            "role_id": 63578401992354,
+            "server_region": "time_travel"
+        },
         "63578401997441": {
             "crew_id": 824633735634,
             "crew_name": "小怪兽",
@@ -5496,10 +5534,26 @@
             "registered": "2026年1月27日 上午2:02:37",
             "role_id": 63578401998483,
             "server_region": "time_travel"
+        },
+        "63578401998493": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 34043.19140625,
+            "last_seen": 1769558402,
+            "level": 9,
+            "name": "555hhu",
+            "name_history": [
+                "555hhu"
+            ],
+            "registered": "2026年1月27日 上午5:01:30",
+            "role_id": 63578401998493,
+            "server_region": "time_travel"
         }
     },
-    "accounts_total": 436,
+    "accounts_total": 439,
     "created": 1758107405,
-    "last_updated": 1769558342,
+    "last_updated": 1769558402,
     "server_region": "time_travel"
 }
