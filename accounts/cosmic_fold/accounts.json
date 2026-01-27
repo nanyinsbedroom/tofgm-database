@@ -9451,14 +9451,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695855824": {
-            "crew_id": 614180338132,
-            "crew_name": "梦想夏乡",
-            "equipping_title": "None",
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_2_0_82",
             "gender": 1,
-            "hp": 477204.375,
-            "last_seen": 1760446566,
-            "level": 59,
+            "hp": 1229443.0,
+            "last_seen": 1769553684,
+            "level": 80,
             "name": "闇焰の邪眼",
+            "name_history": [
+                "闇焰の邪眼"
+            ],
             "registered": "2025年9月25日 下午7:18:18",
             "role_id": 63582695855824,
             "server_region": "cosmic_fold"
@@ -13095,6 +13098,22 @@
             "role_id": 63582695858511,
             "server_region": "cosmic_fold"
         },
+        "63582695858515": {
+            "crew_id": 184683608532,
+            "crew_name": "天月之境",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1222413.625,
+            "last_seen": 1769553684,
+            "level": 80,
+            "name": "帅前",
+            "name_history": [
+                "帅前"
+            ],
+            "registered": "2025年9月25日 下午8:13:34",
+            "role_id": 63582695858515,
+            "server_region": "cosmic_fold"
+        },
         "63582695858519": {
             "crew_id": 0,
             "crew_name": "",
@@ -13758,10 +13777,13 @@
             "crew_name": "幻神",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 676842.5625,
-            "last_seen": 1761552504,
-            "level": 65,
+            "hp": 1147861.125,
+            "last_seen": 1769553684,
+            "level": 78,
             "name": "哈哈你爹来咯",
+            "name_history": [
+                "哈哈你爹来咯"
+            ],
             "registered": "2025年9月25日 下午8:22:29",
             "role_id": 63582695858870,
             "server_region": "cosmic_fold"
@@ -31091,13 +31113,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695884819": {
-            "crew_id": 304942692820,
-            "crew_name": "快乐老家",
-            "equipping_title": "1_9_0_1",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "只会哈气的导师,0",
             "gender": 1,
-            "hp": 1058765.875,
-            "last_seen": 1766263068,
-            "level": 76,
+            "hp": 1314967.75,
+            "last_seen": 1769553684,
+            "level": 80,
             "name": "芝士小猫",
             "name_history": [
                 "芝士小猫"
@@ -33151,6 +33173,22 @@
             "role_id": 63582695892315,
             "server_region": "cosmic_fold"
         },
+        "63582695892326": {
+            "crew_id": 1176821053908,
+            "crew_name": "眉间雪",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 305979.8125,
+            "last_seen": 1769553684,
+            "level": 73,
+            "name": "ggggwu",
+            "name_history": [
+                "ggggwu"
+            ],
+            "registered": "2025年9月30日 下午7:59:00",
+            "role_id": 63582695892326,
+            "server_region": "cosmic_fold"
+        },
         "63582695892422": {
             "crew_id": 682899814868,
             "crew_name": "味真足",
@@ -35056,8 +35094,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 753571.875,
-            "last_seen": 1768955405,
+            "hp": 787489.4375,
+            "last_seen": 1769553684,
             "level": 77,
             "name": "钟鱼",
             "name_history": [
@@ -45284,6 +45322,54 @@
             "role_id": 63582695944745,
             "server_region": "cosmic_fold"
         },
+        "63582695945206": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137899.796875,
+            "last_seen": 1769553684,
+            "level": 70,
+            "name": "我不是导购",
+            "name_history": [
+                "我不是导购"
+            ],
+            "registered": "2025年10月28日 上午1:12:39",
+            "role_id": 63582695945206,
+            "server_region": "cosmic_fold"
+        },
+        "63582695945207": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 120374.796875,
+            "last_seen": 1769553684,
+            "level": 70,
+            "name": "救救我救救我",
+            "name_history": [
+                "救救我救救我"
+            ],
+            "registered": "2025年10月28日 上午1:13:01",
+            "role_id": 63582695945207,
+            "server_region": "cosmic_fold"
+        },
+        "63582695945208": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 120304.6015625,
+            "last_seen": 1769553684,
+            "level": 70,
+            "name": "咪哈友",
+            "name_history": [
+                "咪哈友"
+            ],
+            "registered": "2025年10月28日 上午1:13:36",
+            "role_id": 63582695945208,
+            "server_region": "cosmic_fold"
+        },
         "63582695945219": {
             "crew_id": 820338768340,
             "crew_name": "抵达深空",
@@ -51728,8 +51814,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4141,
+    "accounts_total": 4146,
     "created": 1758803451,
-    "last_updated": 1769553624,
+    "last_updated": 1769553684,
     "server_region": "cosmic_fold"
 }
