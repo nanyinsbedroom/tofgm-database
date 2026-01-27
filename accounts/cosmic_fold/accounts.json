@@ -28633,6 +28633,22 @@
             "role_id": 63582695875981,
             "server_region": "cosmic_fold"
         },
+        "63582695875996": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54129.0,
+            "last_seen": 1769555601,
+            "level": 13,
+            "name": "千年老檀木",
+            "name_history": [
+                "千年老檀木"
+            ],
+            "registered": "2025年9月27日 上午9:31:09",
+            "role_id": 63582695875996,
+            "server_region": "cosmic_fold"
+        },
         "63582695876042": {
             "crew_id": 0,
             "crew_name": "",
@@ -33565,12 +33581,15 @@
         "63582695893757": {
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
-            "equipping_title": "WorldBossDamage_1;伦迪尔;3",
+            "equipping_title": "这货才是瑾小落的导师,0",
             "gender": 1,
-            "hp": 676209.0625,
-            "last_seen": 1761581525,
-            "level": 65,
+            "hp": 1275421.875,
+            "last_seen": 1769555601,
+            "level": 80,
             "name": "这货不是瑾小落",
+            "name_history": [
+                "这货不是瑾小落"
+            ],
             "registered": "2025年10月1日 上午6:04:05",
             "role_id": 63582695893757,
             "server_region": "cosmic_fold"
@@ -34440,9 +34459,9 @@
             "crew_name": "月歌行",
             "equipping_title": "浅箱的后继者,1",
             "gender": 1,
-            "hp": 1161959.75,
-            "last_seen": 1768955405,
-            "level": 79,
+            "hp": 1190296.0,
+            "last_seen": 1769555601,
+            "level": 80,
             "name": "猫箱",
             "name_history": [
                 "猫箱"
@@ -41188,6 +41207,22 @@
             "role_id": 63582695926028,
             "server_region": "cosmic_fold"
         },
+        "63582695926036": {
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "这货不是瑾小落的学徒,0",
+            "gender": 1,
+            "hp": 1126241.125,
+            "last_seen": 1769555601,
+            "level": 78,
+            "name": "这货才是瑾小落",
+            "name_history": [
+                "这货才是瑾小落"
+            ],
+            "registered": "2025年10月12日 下午10:37:04",
+            "role_id": 63582695926036,
+            "server_region": "cosmic_fold"
+        },
         "63582695926061": {
             "crew_id": 528280992212,
             "crew_name": "星月",
@@ -46459,6 +46494,22 @@
             ],
             "registered": "2025年11月8日 下午4:06:00",
             "role_id": 63582695954983,
+            "server_region": "cosmic_fold"
+        },
+        "63582695955169": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40153.0,
+            "last_seen": 1769555601,
+            "level": 13,
+            "name": "铭潮",
+            "name_history": [
+                "铭潮"
+            ],
+            "registered": "2025年11月8日 下午7:09:09",
+            "role_id": 63582695955169,
             "server_region": "cosmic_fold"
         },
         "63582695955360": {
@@ -52286,8 +52337,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4174,
+    "accounts_total": 4177,
     "created": 1758803451,
-    "last_updated": 1769555541,
+    "last_updated": 1769555601,
     "server_region": "cosmic_fold"
 }
