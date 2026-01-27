@@ -24134,9 +24134,9 @@
             "crew_name": "魔女之旅",
             "equipping_title": "1_1_11_1",
             "gender": 1,
-            "hp": 1207782.5,
-            "last_seen": 1768953603,
-            "level": 79,
+            "hp": 1272803.0,
+            "last_seen": 1769558245,
+            "level": 80,
             "name": "光头披风侠",
             "name_history": [
                 "光头披风侠"
@@ -52300,6 +52300,22 @@
             "role_id": 63582695996821,
             "server_region": "cosmic_fold"
         },
+        "63582695997000": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19476.599609375,
+            "last_seen": 1769558245,
+            "level": 11,
+            "name": "女武神.",
+            "name_history": [
+                "女武神."
+            ],
+            "registered": "2026年1月27日 下午2:16:05",
+            "role_id": 63582695997000,
+            "server_region": "cosmic_fold"
+        },
         "63582695997125": {
             "crew_id": 0,
             "crew_name": "",
@@ -52397,8 +52413,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4180,
+    "accounts_total": 4181,
     "created": 1758803451,
-    "last_updated": 1769558222,
+    "last_updated": 1769558245,
     "server_region": "cosmic_fold"
 }
