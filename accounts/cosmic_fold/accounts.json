@@ -11951,8 +11951,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1340118.75,
-            "last_seen": 1769291070,
+            "hp": 1353168.625,
+            "last_seen": 1769553247,
             "level": 80,
             "name": "響音",
             "name_history": [
@@ -43550,6 +43550,22 @@
             "role_id": 63582695932263,
             "server_region": "cosmic_fold"
         },
+        "63582695932285": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 98745.796875,
+            "last_seen": 1769553247,
+            "level": 58,
+            "name": "鹿将军",
+            "name_history": [
+                "鹿将军"
+            ],
+            "registered": "2025年10月17日 下午11:01:43",
+            "role_id": 63582695932285,
+            "server_region": "cosmic_fold"
+        },
         "63582695932303": {
             "crew_id": 0,
             "crew_name": "",
@@ -46251,6 +46267,22 @@
             ],
             "registered": "2025年11月12日 下午4:01:44",
             "role_id": 63582695957722,
+            "server_region": "cosmic_fold"
+        },
+        "63582695957799": {
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "2_8_0_9",
+            "gender": 0,
+            "hp": 1181932.125,
+            "last_seen": 1769553247,
+            "level": 80,
+            "name": "響小音",
+            "name_history": [
+                "響小音"
+            ],
+            "registered": "2025年11月12日 下午6:49:53",
+            "role_id": 63582695957799,
             "server_region": "cosmic_fold"
         },
         "63582695957864": {
@@ -51502,8 +51534,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4128,
+    "accounts_total": 4130,
     "created": 1758803451,
-    "last_updated": 1769553187,
+    "last_updated": 1769553247,
     "server_region": "cosmic_fold"
 }
