@@ -3368,14 +3368,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695851592": {
-            "crew_id": 8589949396,
-            "crew_name": "星辰",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 627703.9375,
-            "last_seen": 1761547744,
-            "level": 64,
+            "hp": 1242066.75,
+            "last_seen": 1769554940,
+            "level": 80,
             "name": "南斗",
+            "name_history": [
+                "南斗"
+            ],
             "registered": "2025年9月25日 下午6:18:06",
             "role_id": 63582695851592,
             "server_region": "cosmic_fold"
@@ -48087,7 +48090,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 629024.1875,
-            "last_seen": 1769475082,
+            "last_seen": 1769554940,
             "level": 77,
             "name": "Rookie.",
             "name_history": [
@@ -52164,6 +52167,6 @@
     },
     "accounts_total": 4167,
     "created": 1758803451,
-    "last_updated": 1769554880,
+    "last_updated": 1769554940,
     "server_region": "cosmic_fold"
 }
