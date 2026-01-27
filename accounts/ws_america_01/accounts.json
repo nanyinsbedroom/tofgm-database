@@ -1413,8 +1413,8 @@
             "crew_name": "Sovereign",
             "equipping_title": "Sleepy的导师,0",
             "gender": 0,
-            "hp": 905638.6875,
-            "last_seen": 1769397756,
+            "hp": 907231.1875,
+            "last_seen": 1769518128,
             "level": 72,
             "name": "ⓑⓡⓤⓤⓗ",
             "name_history": [
@@ -15077,8 +15077,8 @@
             "crew_name": "Sovereign",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 883072.5,
-            "last_seen": 1769174327,
+            "hp": 747961.75,
+            "last_seen": 1769518128,
             "level": 72,
             "name": "Ink",
             "name_history": [
@@ -15150,6 +15150,22 @@
             ],
             "registered": "Nov 27, 2025, 10:02:16 AM",
             "role_id": 38174107413538881,
+            "server_region": "ws_america_01"
+        },
+        "38174107413539417": {
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 271309.625,
+            "last_seen": 1769518128,
+            "level": 67,
+            "name": "Andros Leo",
+            "name_history": [
+                "Andros Leo"
+            ],
+            "registered": "Nov 27, 2025, 1:43:50 PM",
+            "role_id": 38174107413539417,
             "server_region": "ws_america_01"
         },
         "38174107413539473": {
@@ -20063,10 +20079,26 @@
             "registered": "Jan 27, 2026, 9:33:59 AM",
             "role_id": 38174107413579874,
             "server_region": "ws_america_01"
+        },
+        "38174107413579893": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8928.0,
+            "last_seen": 1769518128,
+            "level": 2,
+            "name": "Trap",
+            "name_history": [
+                "Trap"
+            ],
+            "registered": "Jan 27, 2026, 12:36:48 PM",
+            "role_id": 38174107413579893,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1254,
+    "accounts_total": 1256,
     "created": 1764067509,
-    "last_updated": 1769518068,
+    "last_updated": 1769518128,
     "server_region": "ws_america_01"
 }
