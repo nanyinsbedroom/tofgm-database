@@ -8106,12 +8106,12 @@
             "server_region": "southeast_asia"
         },
         "68758131608445": {
-            "crew_id": 1662152359567,
-            "crew_name": "Luminous",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "Jazzberry的后继者,1",
-            "gender": 0,
-            "hp": 2116247.75,
-            "last_seen": 1763126051,
+            "gender": 1,
+            "hp": 25165.048828125,
+            "last_seen": 1769642957,
             "level": 100,
             "name": "Morticus",
             "name_history": [
@@ -9063,14 +9063,17 @@
             "server_region": "southeast_asia"
         },
         "68762426460911": {
-            "crew_id": 1421634190994,
-            "crew_name": "Lunar Exclaire",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_3_1_4",
-            "gender": 1,
-            "hp": 2088044.25,
-            "last_seen": 1761049126,
+            "gender": 0,
+            "hp": 25165.048828125,
+            "last_seen": 1769642957,
             "level": 100,
             "name": "camselow",
+            "name_history": [
+                "camselow"
+            ],
             "registered": "Aug 12, 2022, 7:27:58 PM",
             "role_id": 68762426460911,
             "server_region": "southeast_asia"
@@ -10881,12 +10884,12 @@
             "server_region": "southeast_asia"
         },
         "68771016452069": {
-            "crew_id": 395137007241,
-            "crew_name": "Guardians",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "Tencent_Sever_122",
             "gender": 0,
-            "hp": 2045461.75,
-            "last_seen": 1767300952,
+            "hp": 25165.048828125,
+            "last_seen": 1769642957,
             "level": 100,
             "name": "R A I Z E N",
             "name_history": [
@@ -25555,11 +25558,17 @@
             "server_region": "southeast_asia"
         },
         "68801081124268": {
-            "crew_id": 133144002183,
-            "crew_name": "INDONESIA ",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": 1759093304,
+            "hp": 25165.048828125,
+            "last_seen": 1769642957,
+            "level": 100,
             "name": "tigerninja#c",
+            "name_history": [
+                "tigerninja#c"
+            ],
             "registered": "Aug 11, 2022, 7:50:55 PM",
             "role_id": 68801081124268,
             "server_region": "southeast_asia"
@@ -27429,6 +27438,6 @@
     },
     "accounts_total": 2028,
     "created": 1753795148,
-    "last_updated": 1769642897,
+    "last_updated": 1769642957,
     "server_region": "southeast_asia"
 }
