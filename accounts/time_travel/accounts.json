@@ -1631,12 +1631,15 @@
         "63574105995742": {
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
-            "equipping_title": "2_11_1_1",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 666962.5625,
-            "last_seen": 1760970293,
-            "level": 62,
-            "name": "小耶土豆",
+            "hp": 1422302.25,
+            "last_seen": 1769623959,
+            "level": 80,
+            "name": "JUN君",
+            "name_history": [
+                "JUN君"
+            ],
             "registered": "2023年12月16日 下午7:44:37",
             "role_id": 63574105995742,
             "server_region": "time_travel"
@@ -3218,6 +3221,22 @@
             "role_id": 63578401483097,
             "server_region": "time_travel"
         },
+        "63578401485274": {
+            "crew_id": 4552665348563,
+            "crew_name": "心焰",
+            "equipping_title": "2_2_0_92",
+            "gender": 1,
+            "hp": 1267289.625,
+            "last_seen": 1769623959,
+            "level": 80,
+            "name": "诗律",
+            "name_history": [
+                "诗律"
+            ],
+            "registered": "2024年5月26日 上午11:48:40",
+            "role_id": 63578401485274,
+            "server_region": "time_travel"
+        },
         "63578401492080": {
             "crew_id": 304942692818,
             "crew_name": "深月航迹",
@@ -4239,6 +4258,22 @@
             "name": "柠砉",
             "registered": "2024年12月26日 下午9:08:29",
             "role_id": 63578401772193,
+            "server_region": "time_travel"
+        },
+        "63578401772700": {
+            "crew_id": 34359753170,
+            "crew_name": "魔法少女",
+            "equipping_title": "3_2024",
+            "gender": 0,
+            "hp": 249051.0,
+            "last_seen": 1769623959,
+            "level": 80,
+            "name": "鹤无闲",
+            "name_history": [
+                "鹤无闲"
+            ],
+            "registered": "2024年12月27日 下午5:14:24",
+            "role_id": 63578401772700,
             "server_region": "time_travel"
         },
         "63578401773024": {
@@ -6046,6 +6081,22 @@
             "role_id": 63578401997441,
             "server_region": "time_travel"
         },
+        "63578401997636": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 45527.0,
+            "last_seen": 1769623959,
+            "level": 13,
+            "name": "喵苭苭",
+            "name_history": [
+                "喵苭苭"
+            ],
+            "registered": "2026年1月23日 下午12:57:56",
+            "role_id": 63578401997636,
+            "server_region": "time_travel"
+        },
         "63578401998209": {
             "crew_id": 0,
             "crew_name": "",
@@ -6271,8 +6322,8 @@
             "server_region": "time_travel"
         }
     },
-    "accounts_total": 483,
+    "accounts_total": 486,
     "created": 1758107405,
-    "last_updated": 1769623899,
+    "last_updated": 1769623959,
     "server_region": "time_travel"
 }
