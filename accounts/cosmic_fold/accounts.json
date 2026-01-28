@@ -2215,14 +2215,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695850999": {
-            "crew_id": 30064785876,
-            "crew_name": "魔女之旅",
-            "equipping_title": "1_6_2_1",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_8_0_8",
             "gender": 0,
-            "hp": 261508.5,
-            "last_seen": 1760889625,
-            "level": 61,
-            "name": "Klian",
+            "hp": 1180445.0,
+            "last_seen": 1769624380,
+            "level": 80,
+            "name": "IDmomo",
+            "name_history": [
+                "IDmomo"
+            ],
             "registered": "2025年9月25日 下午6:11:46",
             "role_id": 63582695850999,
             "server_region": "cosmic_fold"
@@ -9423,12 +9426,12 @@
         },
         "63582695855696": {
             "crew_id": 128849033684,
-            "crew_name": "神待少女",
-            "equipping_title": "WorldBossDamage_4;boss_hum_055_World;43",
+            "crew_name": "月歌行",
+            "equipping_title": "猫箱的启迪人,1",
             "gender": 1,
-            "hp": 912638.3125,
-            "last_seen": 1763938872,
-            "level": 72,
+            "hp": 1371171.5,
+            "last_seen": 1769624380,
+            "level": 80,
             "name": "浅箱",
             "name_history": [
                 "浅箱"
@@ -32624,7 +32627,7 @@
             "equipping_title": "2_7_0_13",
             "gender": 1,
             "hp": 1279625.625,
-            "last_seen": 1769558162,
+            "last_seen": 1769624380,
             "level": 80,
             "name": "空※白",
             "name_history": [
@@ -38729,7 +38732,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 544006.25,
-            "last_seen": 1769554044,
+            "last_seen": 1769624380,
             "level": 79,
             "name": "UZI",
             "name_history": [
@@ -51858,6 +51861,22 @@
             "role_id": 63582695994774,
             "server_region": "cosmic_fold"
         },
+        "63582695994801": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 70247.0,
+            "last_seen": 1769624380,
+            "level": 24,
+            "name": "周王",
+            "name_history": [
+                "周王"
+            ],
+            "registered": "2026年1月24日 下午1:53:15",
+            "role_id": 63582695994801,
+            "server_region": "cosmic_fold"
+        },
         "63582695995038": {
             "crew_id": 0,
             "crew_name": "",
@@ -52160,6 +52179,22 @@
             ],
             "registered": "2026年1月25日 下午10:59:14",
             "role_id": 63582695996272,
+            "server_region": "cosmic_fold"
+        },
+        "63582695996289": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "珂赛特的学徒,0",
+            "gender": 1,
+            "hp": 120657.296875,
+            "last_seen": 1769624380,
+            "level": 51,
+            "name": "媛QAQ媛",
+            "name_history": [
+                "媛QAQ媛"
+            ],
+            "registered": "2026年1月25日 下午11:26:26",
+            "role_id": 63582695996289,
             "server_region": "cosmic_fold"
         },
         "63582695996299": {
@@ -52514,6 +52549,22 @@
             "role_id": 63582695997340,
             "server_region": "cosmic_fold"
         },
+        "63582695997478": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 47034.0,
+            "last_seen": 1769624380,
+            "level": 13,
+            "name": "小吉米",
+            "name_history": [
+                "小吉米"
+            ],
+            "registered": "2026年1月28日 下午12:04:32",
+            "role_id": 63582695997478,
+            "server_region": "cosmic_fold"
+        },
         "63582695997522": {
             "crew_id": 0,
             "crew_name": "",
@@ -52531,8 +52582,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4188,
+    "accounts_total": 4191,
     "created": 1758803451,
-    "last_updated": 1769624320,
+    "last_updated": 1769624380,
     "server_region": "cosmic_fold"
 }
