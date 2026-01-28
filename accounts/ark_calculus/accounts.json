@@ -494,8 +494,8 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_35",
             "gender": 1,
-            "hp": 2366487.5,
-            "last_seen": 1769476343,
+            "hp": 2716633.5,
+            "last_seen": 1769615248,
             "level": 100,
             "name": "铃玖",
             "name_history": [
@@ -2452,13 +2452,19 @@
             "server_region": "ark_calculus"
         },
         "62723702489311": {
-            "crew_id": "764504193292",
+            "crew_id": 764504193292,
             "crew_name": "天际雪漫城",
-            "gender": "1",
-            "last_seen": "1759851309",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 1919075.0,
+            "last_seen": 1769615248,
+            "level": 100,
             "name": "柯洛伊",
+            "name_history": [
+                "柯洛伊"
+            ],
             "registered": "2022年7月25日 上午8:47:48",
-            "role_id": "62723702489311",
+            "role_id": 62723702489311,
             "server_region": "ark_calculus"
         },
         "62723702526957": {
@@ -3456,14 +3462,14 @@
         "62732292459009": {
             "crew_id": 2353642092817,
             "crew_name": "楼兰月影",
-            "equipping_title": "霜色霜泠霜惜白的后继者,1",
+            "equipping_title": "2_2_0_35",
             "gender": 0,
-            "hp": 1698190.0,
-            "last_seen": 1764005785,
+            "hp": 2030831.75,
+            "last_seen": 1769615248,
             "level": 100,
-            "name": "瑶画瑶棂瑶怜湘",
+            "name": "温瑶",
             "name_history": [
-                "瑶画瑶棂瑶怜湘"
+                "温瑶"
             ],
             "registered": "2022年11月22日 上午11:52:17",
             "role_id": 62732292459009,
@@ -3682,6 +3688,38 @@
             "role_id": "62736587292841",
             "server_region": "ark_calculus"
         },
+        "62736587293548": {
+            "crew_id": 5312874559654,
+            "crew_name": "记录の地平线",
+            "equipping_title": "2_2_0_92",
+            "gender": 1,
+            "hp": 2172418.75,
+            "last_seen": 1769615248,
+            "level": 100,
+            "name": "文梦",
+            "name_history": [
+                "文梦"
+            ],
+            "registered": "2022年12月15日 上午10:04:48",
+            "role_id": 62736587293548,
+            "server_region": "ark_calculus"
+        },
+        "62736587296147": {
+            "crew_id": 68719491341,
+            "crew_name": "破晓",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 2141677.5,
+            "last_seen": 1769615248,
+            "level": 100,
+            "name": "清雨OvO歆月",
+            "name_history": [
+                "清雨OvO歆月"
+            ],
+            "registered": "2022年12月15日 上午11:35:22",
+            "role_id": 62736587296147,
+            "server_region": "ark_calculus"
+        },
         "62736587298361": {
             "crew_id": "5312874559654",
             "crew_name": "记录の地平线",
@@ -3782,10 +3820,10 @@
         "62736587409491": {
             "crew_id": 128849033487,
             "crew_name": "东方幻想乡",
-            "equipping_title": "2_2_0_8",
+            "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 1974581.0,
-            "last_seen": 1764007346,
+            "hp": 2029685.5,
+            "last_seen": 1769615248,
             "level": 100,
             "name": "体温恒定39度",
             "name_history": [
@@ -5327,6 +5365,22 @@
             "role_id": 63144609306717,
             "server_region": "ark_calculus"
         },
+        "63144609309359": {
+            "crew_id": 4294981806,
+            "crew_name": "白丝猫耳娘",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 2168176.5,
+            "last_seen": 1769615248,
+            "level": 100,
+            "name": "刹那绚烂",
+            "name_history": [
+                "刹那绚烂"
+            ],
+            "registered": "2023年8月9日 下午1:40:31",
+            "role_id": 63144609309359,
+            "server_region": "ark_calculus"
+        },
         "63144609316537": {
             "crew_id": 55834589550,
             "crew_name": "上林花似锦",
@@ -5440,8 +5494,8 @@
             "server_region": "ark_calculus"
         }
     },
-    "accounts_total": 381,
+    "accounts_total": 384,
     "created": "1758713877",
-    "last_updated": 1769615128,
+    "last_updated": 1769615248,
     "server_region": "ark_calculus"
 }
