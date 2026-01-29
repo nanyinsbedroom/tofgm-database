@@ -10720,6 +10720,22 @@
             "role_id": 38174111708502820,
             "server_region": "ws_europe_01"
         },
+        "38174111708503060": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 433269.21875,
+            "last_seen": 1769721105,
+            "level": 68,
+            "name": "アルティナ",
+            "name_history": [
+                "アルティナ"
+            ],
+            "registered": "Dec 3, 2025, 12:47:31 AM",
+            "role_id": 38174111708503060,
+            "server_region": "ws_europe_01"
+        },
         "38174111708503434": {
             "crew_id": 0,
             "crew_name": "",
@@ -10798,6 +10814,22 @@
             ],
             "registered": "Dec 4, 2025, 6:46:54 AM",
             "role_id": 38174111708504075,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708504146": {
+            "crew_id": 481045225255,
+            "crew_name": "Elysium",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 744538.4375,
+            "last_seen": 1769721105,
+            "level": 71,
+            "name": "Viki",
+            "name_history": [
+                "Viki"
+            ],
+            "registered": "Dec 4, 2025, 9:37:34 AM",
+            "role_id": 38174111708504146,
             "server_region": "ws_europe_01"
         },
         "38174111708504341": {
@@ -12623,10 +12655,42 @@
             "registered": "Jan 24, 2026, 8:41:24 PM",
             "role_id": 38174111708523314,
             "server_region": "ws_europe_01"
+        },
+        "38174111708523598": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1769721105,
+            "level": 1,
+            "name": "Details",
+            "name_history": [
+                "Details"
+            ],
+            "registered": "Jan 27, 2026, 9:01:28 AM",
+            "role_id": 38174111708523598,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708523781": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91401.0078125,
+            "last_seen": 1769721105,
+            "level": 29,
+            "name": "Yuki Cross",
+            "name_history": [
+                "Yuki Cross"
+            ],
+            "registered": "Jan 28, 2026, 4:14:00 PM",
+            "role_id": 38174111708523781,
+            "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 789,
+    "accounts_total": 793,
     "created": 1764046902,
-    "last_updated": 1769720985,
+    "last_updated": 1769721105,
     "server_region": "ws_europe_01"
 }
