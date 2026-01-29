@@ -3557,9 +3557,9 @@
             "crew_name": "Asylum",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 845166.5625,
-            "last_seen": 1768848698,
-            "level": 71,
+            "hp": 969058.0,
+            "last_seen": 1769721826,
+            "level": 73,
             "name": "gogo1",
             "name_history": [
                 "gogo1"
@@ -5923,11 +5923,11 @@
         "38174111708483875": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "2_10_1_8",
+            "equipping_title": "2_2_0_29",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": 1767127830,
-            "level": 67,
+            "hp": 897553.6875,
+            "last_seen": 1769721826,
+            "level": 73,
             "name": "GP",
             "name_history": [
                 "GP"
@@ -8366,6 +8366,22 @@
             ],
             "registered": "Nov 25, 2025, 10:42:40 PM",
             "role_id": 38174111708488100,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708488173": {
+            "crew_id": 115973005095,
+            "crew_name": "Arcana",
+            "equipping_title": "2_8_0_7",
+            "gender": 1,
+            "hp": 410899.34375,
+            "last_seen": 1769721826,
+            "level": 70,
+            "name": "Missisa",
+            "name_history": [
+                "Missisa"
+            ],
+            "registered": "Nov 25, 2025, 10:53:18 PM",
+            "role_id": 38174111708488173,
             "server_region": "ws_europe_01"
         },
         "38174111708488276": {
@@ -10976,6 +10992,22 @@
             "role_id": 38174111708504481,
             "server_region": "ws_europe_01"
         },
+        "38174111708504484": {
+            "crew_id": 188987449127,
+            "crew_name": "EuzeroFR",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 634792.75,
+            "last_seen": 1769721826,
+            "level": 71,
+            "name": "Amaranthe",
+            "name_history": [
+                "Amaranthe"
+            ],
+            "registered": "Dec 4, 2025, 7:28:23 PM",
+            "role_id": 38174111708504484,
+            "server_region": "ws_europe_01"
+        },
         "38174111708505002": {
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
@@ -12961,8 +12993,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 810,
+    "accounts_total": 812,
     "created": 1764046902,
-    "last_updated": 1769721645,
+    "last_updated": 1769721826,
     "server_region": "ws_europe_01"
 }
