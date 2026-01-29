@@ -12832,6 +12832,22 @@
             "role_id": 38174111708523781,
             "server_region": "ws_europe_01"
         },
+        "38174111708523800": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 14976.0,
+            "last_seen": 1769721465,
+            "level": 9,
+            "name": "Святой Сергий",
+            "name_history": [
+                "Святой Сергий"
+            ],
+            "registered": "Jan 28, 2026, 8:42:56 PM",
+            "role_id": 38174111708523800,
+            "server_region": "ws_europe_01"
+        },
         "38174111708523885": {
             "crew_id": 0,
             "crew_name": "",
@@ -12865,8 +12881,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 804,
+    "accounts_total": 805,
     "created": 1764046902,
-    "last_updated": 1769721405,
+    "last_updated": 1769721465,
     "server_region": "ws_europe_01"
 }
