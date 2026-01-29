@@ -4293,9 +4293,9 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 644563.6875,
-            "last_seen": 1766432431,
-            "level": 63,
+            "hp": 972960.75,
+            "last_seen": 1769711796,
+            "level": 73,
             "name": "ヤノンスキーⅡ",
             "name_history": [
                 "ヤノンスキーⅡ"
@@ -29169,13 +29169,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118558264": {
-            "crew_id": 262001893157,
-            "crew_name": "Restart",
-            "equipping_title": "None",
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "2_7_0_12",
             "gender": 1,
-            "hp": 568447.8125,
-            "last_seen": 1765909241,
-            "level": 60,
+            "hp": 963488.5625,
+            "last_seen": 1769711796,
+            "level": 73,
             "name": "Greenteaaa",
             "name_history": [
                 "Greenteaaa"
@@ -81984,6 +81984,22 @@
             "role_id": 38174103118611124,
             "server_region": "ws_asia_01"
         },
+        "38174103118611132": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 164488.984375,
+            "last_seen": 1769711796,
+            "level": 49,
+            "name": "ヴィセ",
+            "name_history": [
+                "ヴィセ"
+            ],
+            "registered": "Jan 23, 2026, 11:49:49 PM",
+            "role_id": 38174103118611132,
+            "server_region": "ws_asia_01"
+        },
         "38174103118611268": {
             "crew_id": 0,
             "crew_name": "",
@@ -81998,6 +82014,22 @@
             ],
             "registered": "Jan 25, 2026, 5:28:46 AM",
             "role_id": 38174103118611268,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118611643": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42294.0,
+            "last_seen": 1769711796,
+            "level": 11,
+            "name": "シャシア",
+            "name_history": [
+                "シャシア"
+            ],
+            "registered": "Jan 28, 2026, 10:14:52 PM",
+            "role_id": 38174103118611643,
             "server_region": "ws_asia_01"
         },
         "38174103118611705": {
@@ -82017,8 +82049,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5126,
+    "accounts_total": 5128,
     "created": 1764092421,
-    "last_updated": 1769711676,
+    "last_updated": 1769711796,
     "server_region": "ws_asia_01"
 }
