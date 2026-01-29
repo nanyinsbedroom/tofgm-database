@@ -25571,11 +25571,11 @@
         "38174103118557166": {
             "crew_id": 283476729637,
             "crew_name": "Eternal Sky",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 210441.796875,
-            "last_seen": 1765397440,
-            "level": 54,
+            "hp": 349992.21875,
+            "last_seen": 1769712689,
+            "level": 71,
             "name": "Freudia",
             "name_history": [
                 "Freudia"
@@ -35806,6 +35806,22 @@
             ],
             "registered": "Nov 25, 2025, 10:28:56 PM",
             "role_id": 38174103118560814,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118560817": {
+            "crew_id": 506815029029,
+            "crew_name": "INTROVERTS",
+            "equipping_title": "1_10_0_5",
+            "gender": 1,
+            "hp": 955265.8125,
+            "last_seen": 1769712689,
+            "level": 73,
+            "name": "Mr Atenk CS",
+            "name_history": [
+                "Mr Atenk CS"
+            ],
+            "registered": "Nov 25, 2025, 10:29:10 PM",
+            "role_id": 38174103118560817,
             "server_region": "ws_asia_01"
         },
         "38174103118560824": {
@@ -82193,8 +82209,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5137,
+    "accounts_total": 5138,
     "created": 1764092421,
-    "last_updated": 1769712629,
+    "last_updated": 1769712689,
     "server_region": "ws_asia_01"
 }
