@@ -1184,6 +1184,22 @@
             "role_id": 38174107413512621,
             "server_region": "ws_america_01"
         },
+        "38174107413512626": {
+            "crew_id": 21483724582,
+            "crew_name": "Kawaii Kittens",
+            "equipping_title": "WorldBossDamage_3;boss_hum_061_World;16",
+            "gender": 1,
+            "hp": 828848.0,
+            "last_seen": 1769787755,
+            "level": 73,
+            "name": "Guinevere",
+            "name_history": [
+                "Guinevere"
+            ],
+            "registered": "Nov 25, 2025, 3:04:11 AM",
+            "role_id": 38174107413512626,
+            "server_region": "ws_america_01"
+        },
         "38174107413512635": {
             "crew_id": 249116991270,
             "crew_name": "Satoras Fallen",
@@ -20351,10 +20367,26 @@
             "registered": "Jan 29, 2026, 11:52:25 PM",
             "role_id": 38174107413580301,
             "server_region": "ws_america_01"
+        },
+        "38174107413580324": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21888.0,
+            "last_seen": 1769787755,
+            "level": 17,
+            "name": "Enzo e maria",
+            "name_history": [
+                "Enzo e maria"
+            ],
+            "registered": "Jan 30, 2026, 6:27:00 AM",
+            "role_id": 38174107413580324,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1272,
+    "accounts_total": 1274,
     "created": 1764067509,
-    "last_updated": 1769787633,
+    "last_updated": 1769787755,
     "server_region": "ws_america_01"
 }
