@@ -2750,11 +2750,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695851258": {
-            "crew_id": 21474851284,
-            "crew_name": "高级美容院",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1758806231,
-            "name": "绫濑沙季",
+            "hp": 1354530.25,
+            "last_seen": 1769822227,
+            "level": 81,
+            "name": "秋山澪灬",
+            "name_history": [
+                "秋山澪灬"
+            ],
             "registered": "2025年9月25日 下午6:14:39",
             "role_id": 63582695851258,
             "server_region": "cosmic_fold"
@@ -21770,16 +21776,16 @@
             "server_region": "cosmic_fold"
         },
         "63582695865344": {
-            "crew_id": 8589949396,
-            "crew_name": "星辰",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1198191.0,
-            "last_seen": 1769286870,
-            "level": 80,
-            "name": "琴龡紬",
+            "hp": 1204787.25,
+            "last_seen": 1769822227,
+            "level": 81,
+            "name": "aicer",
             "name_history": [
-                "琴龡紬"
+                "aicer"
             ],
             "registered": "2025年9月26日 上午12:34:26",
             "role_id": 63582695865344,
@@ -52635,6 +52641,6 @@
     },
     "accounts_total": 4194,
     "created": 1758803451,
-    "last_updated": 1769822167,
+    "last_updated": 1769822227,
     "server_region": "cosmic_fold"
 }
