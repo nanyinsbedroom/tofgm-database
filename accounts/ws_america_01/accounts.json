@@ -4052,9 +4052,9 @@
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
-            "gender": 2,
+            "gender": 1,
             "hp": 46080.0,
-            "last_seen": 1769760010,
+            "last_seen": 1769760070,
             "level": 45,
             "name": "BeefKebab",
             "name_history": [
@@ -18928,6 +18928,22 @@
             "role_id": 38174107413576510,
             "server_region": "ws_america_01"
         },
+        "38174107413576581": {
+            "crew_id": 360786140966,
+            "crew_name": "Ravenous",
+            "equipping_title": "Nathiely的学徒,0",
+            "gender": 1,
+            "hp": 394071.0,
+            "last_seen": 1769760070,
+            "level": 64,
+            "name": "Blackviana",
+            "name_history": [
+                "Blackviana"
+            ],
+            "registered": "Jan 8, 2026, 11:26:53 PM",
+            "role_id": 38174107413576581,
+            "server_region": "ws_america_01"
+        },
         "38174107413576889": {
             "crew_id": 2851867172646,
             "crew_name": "akatsuki ",
@@ -19158,7 +19174,7 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 597049.1875,
-            "last_seen": 1769760010,
+            "last_seen": 1769760070,
             "level": 70,
             "name": "Nathiely",
             "name_history": [
@@ -19888,6 +19904,22 @@
             "role_id": 38174107413579520,
             "server_region": "ws_america_01"
         },
+        "38174107413579525": {
+            "crew_id": 360786140966,
+            "crew_name": "Ravenous",
+            "equipping_title": "Nathiely的学徒,0",
+            "gender": 0,
+            "hp": 425979.40625,
+            "last_seen": 1769760070,
+            "level": 69,
+            "name": "DrKeep",
+            "name_history": [
+                "DrKeep"
+            ],
+            "registered": "Jan 25, 2026, 2:34:36 PM",
+            "role_id": 38174107413579525,
+            "server_region": "ws_america_01"
+        },
         "38174107413579536": {
             "crew_id": 0,
             "crew_name": "",
@@ -20113,8 +20145,8 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1257,
+    "accounts_total": 1259,
     "created": 1764067509,
-    "last_updated": 1769742010,
+    "last_updated": 1769742070,
     "server_region": "ws_america_01"
 }
