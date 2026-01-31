@@ -48275,6 +48275,22 @@
             "role_id": 63582695962132,
             "server_region": "cosmic_fold"
         },
+        "63582695962138": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "矢量矩阵的学徒,0",
+            "gender": 1,
+            "hp": 840053.9375,
+            "last_seen": 1769900632,
+            "level": 77,
+            "name": "黑翼",
+            "name_history": [
+                "黑翼"
+            ],
+            "registered": "2025年11月18日 下午9:14:45",
+            "role_id": 63582695962138,
+            "server_region": "cosmic_fold"
+        },
         "63582695962195": {
             "crew_id": 614180338132,
             "crew_name": "梦想夏乡",
@@ -54034,10 +54050,26 @@
             "registered": "2026年1月31日 下午10:54:42",
             "role_id": 63582695999997,
             "server_region": "cosmic_fold"
+        },
+        "63582695999999": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1769900632,
+            "level": 1,
+            "name": "肝将丨摸鱼",
+            "name_history": [
+                "肝将丨摸鱼"
+            ],
+            "registered": "2026年1月31日 下午11:01:51",
+            "role_id": 63582695999999,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4280,
+    "accounts_total": 4282,
     "created": 1758803451,
-    "last_updated": 1769900571,
+    "last_updated": 1769900632,
     "server_region": "cosmic_fold"
 }
