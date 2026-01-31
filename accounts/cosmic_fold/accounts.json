@@ -48440,8 +48440,8 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 718205.3125,
-            "last_seen": 1769897916,
+            "hp": 692650.875,
+            "last_seen": 1769901353,
             "level": 80,
             "name": "樱桃子",
             "name_history": [
@@ -50817,6 +50817,22 @@
             ],
             "registered": "2025年12月20日 下午9:20:06",
             "role_id": 63582695981127,
+            "server_region": "cosmic_fold"
+        },
+        "63582695981258": {
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "WorldBossDamage_3;boss_hum_082_world;16",
+            "gender": 1,
+            "hp": 1103769.0,
+            "last_seen": 1769901353,
+            "level": 81,
+            "name": "陈道一",
+            "name_history": [
+                "陈道一"
+            ],
+            "registered": "2025年12月21日 上午11:32:00",
+            "role_id": 63582695981258,
             "server_region": "cosmic_fold"
         },
         "63582695981405": {
@@ -54146,10 +54162,26 @@
             "registered": "2026年1月31日 下午11:01:51",
             "role_id": 63582695999999,
             "server_region": "cosmic_fold"
+        },
+        "63582696000005": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_seen": 1769901353,
+            "level": 1,
+            "name": "子木",
+            "name_history": [
+                "子木"
+            ],
+            "registered": "2026年1月31日 下午11:10:29",
+            "role_id": 63582696000005,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4287,
+    "accounts_total": 4289,
     "created": 1758803451,
-    "last_updated": 1769901232,
+    "last_updated": 1769901353,
     "server_region": "cosmic_fold"
 }
