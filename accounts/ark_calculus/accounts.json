@@ -1164,6 +1164,22 @@
             "role_id": 62285617623308,
             "server_region": "ark_calculus"
         },
+        "62285617625281": {
+            "crew_id": 128849033487,
+            "crew_name": "东方幻想乡",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 1098800.25,
+            "last_seen": 1769878251,
+            "level": 97,
+            "name": "梅放",
+            "name_history": [
+                "梅放"
+            ],
+            "registered": "2025年4月7日 下午9:20:51",
+            "role_id": 62285617625281,
+            "server_region": "ark_calculus"
+        },
         "62285617625819": {
             "crew_id": 197568510221,
             "crew_name": "无上散人",
@@ -2824,8 +2840,8 @@
             "crew_name": "天际雪漫城",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1919075.0,
-            "last_seen": 1769700687,
+            "hp": 1922206.625,
+            "last_seen": 1769878251,
             "level": 100,
             "name": "柯洛伊",
             "name_history": [
@@ -3097,13 +3113,19 @@
             "server_region": "ark_calculus"
         },
         "62727997398528": {
-            "crew_id": "2860448233741",
+            "crew_id": 2860448233741,
             "crew_name": "摆烂",
-            "gender": "1",
-            "last_seen": "1759851309",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 1664724.0,
+            "last_seen": 1769878251,
+            "level": 100,
             "name": "PPX、卿烟",
+            "name_history": [
+                "PPX、卿烟"
+            ],
             "registered": "2022年9月11日 下午1:39:18",
-            "role_id": "62727997398528",
+            "role_id": 62727997398528,
             "server_region": "ark_calculus"
         },
         "62727997417043": {
@@ -6116,10 +6138,26 @@
             "registered": "2024年2月14日 下午7:19:11",
             "role_id": 63574106314317,
             "server_region": "ark_calculus"
+        },
+        "63578401925882": {
+            "crew_id": 171798706449,
+            "crew_name": "休闲茶会",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 344931.53125,
+            "last_seen": 1769878251,
+            "level": 100,
+            "name": "快乐卷卷猫",
+            "name_history": [
+                "快乐卷卷猫"
+            ],
+            "registered": "2025年7月27日 下午5:30:10",
+            "role_id": 63578401925882,
+            "server_region": "ark_calculus"
         }
     },
-    "accounts_total": 423,
+    "accounts_total": 425,
     "created": "1758713877",
-    "last_updated": 1769878011,
+    "last_updated": 1769878251,
     "server_region": "ark_calculus"
 }
