@@ -51796,13 +51796,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695992405": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "幻塔第一潇楠凉的学徒,0",
+            "crew_id": 244813150676,
+            "crew_name": "原神",
+            "equipping_title": "WorldBossDamage_3;boss_hum_057_world;20",
             "gender": 0,
-            "hp": 387691.1875,
-            "last_seen": 1769553564,
-            "level": 62,
+            "hp": 246121.265625,
+            "last_seen": 1769902134,
+            "level": 77,
             "name": "躲厕所斗蛆",
             "name_history": [
                 "躲厕所斗蛆"
@@ -53009,6 +53009,22 @@
             ],
             "registered": "2026年1月26日 下午1:17:38",
             "role_id": 63582695996475,
+            "server_region": "cosmic_fold"
+        },
+        "63582695996593": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54575.0,
+            "last_seen": 1769902134,
+            "level": 17,
+            "name": "砺西",
+            "name_history": [
+                "砺西"
+            ],
+            "registered": "2026年1月26日 下午6:04:50",
+            "role_id": 63582695996593,
             "server_region": "cosmic_fold"
         },
         "63582695996691": {
@@ -54324,8 +54340,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4298,
+    "accounts_total": 4299,
     "created": 1758803451,
-    "last_updated": 1769902016,
+    "last_updated": 1769902134,
     "server_region": "cosmic_fold"
 }
