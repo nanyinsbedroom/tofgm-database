@@ -8664,12 +8664,15 @@
         "63582695855195": {
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
-            "equipping_title": "WorldBossDamage_3;玛格玛;28",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 495568.5,
-            "last_seen": 1760439116,
-            "level": 59,
+            "hp": 1392976.75,
+            "last_seen": 1769892263,
+            "level": 81,
             "name": "廖丽",
+            "name_history": [
+                "廖丽"
+            ],
             "registered": "2025年9月25日 下午7:07:48",
             "role_id": 63582695855195,
             "server_region": "cosmic_fold"
@@ -52653,10 +52656,26 @@
             "registered": "2026年1月28日 下午4:10:49",
             "role_id": 63582695997597,
             "server_region": "cosmic_fold"
+        },
+        "63582695999343": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54791.0,
+            "last_seen": 1769892263,
+            "level": 17,
+            "name": "控制控制你",
+            "name_history": [
+                "控制控制你"
+            ],
+            "registered": "2026年1月31日 上午8:55:56",
+            "role_id": 63582695999343,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4195,
+    "accounts_total": 4196,
     "created": 1758803451,
-    "last_updated": 1769892203,
+    "last_updated": 1769892263,
     "server_region": "cosmic_fold"
 }
