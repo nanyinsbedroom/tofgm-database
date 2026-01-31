@@ -52582,7 +52582,7 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 23793.0,
-            "last_seen": 1769898581,
+            "last_seen": 1769898944,
             "level": 9,
             "name": "完美青年",
             "name_history": [
@@ -53637,9 +53637,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
-            "last_seen": 1769898520,
-            "level": 1,
+            "hp": 8928.0,
+            "last_seen": 1769898944,
+            "level": 2,
             "name": "沫雨鑫",
             "name_history": [
                 "沫雨鑫"
@@ -53663,10 +53663,26 @@
             "registered": "2026年1月31日 下午10:29:27",
             "role_id": 63582695999981,
             "server_region": "cosmic_fold"
+        },
+        "63582695999983": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": 1769898944,
+            "level": 2,
+            "name": "袍袍子",
+            "name_history": [
+                "袍袍子"
+            ],
+            "registered": "2026年1月31日 下午10:31:39",
+            "role_id": 63582695999983,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4257,
+    "accounts_total": 4258,
     "created": 1758803451,
-    "last_updated": 1769898702,
+    "last_updated": 1769898944,
     "server_region": "cosmic_fold"
 }
