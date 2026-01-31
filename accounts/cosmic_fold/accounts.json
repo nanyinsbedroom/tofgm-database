@@ -25830,11 +25830,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695871375": {
-            "crew_id": 987842492884,
-            "crew_name": "星镜",
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": 1759568454,
+            "hp": 1221129.625,
+            "last_seen": 1769898280,
+            "level": 80,
             "name": "真得控制你",
+            "name_history": [
+                "真得控制你"
+            ],
             "registered": "2025年9月26日 下午6:59:44",
             "role_id": 63582695871375,
             "server_region": "cosmic_fold"
@@ -29505,12 +29511,15 @@
         "63582695878768": {
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 501160.53125,
-            "last_seen": 1761548895,
-            "level": 64,
+            "hp": 1191234.875,
+            "last_seen": 1769898280,
+            "level": 81,
             "name": "夏洛特-奥琳",
+            "name_history": [
+                "夏洛特-奥琳"
+            ],
             "registered": "2025年9月27日 下午4:51:17",
             "role_id": 63582695878768,
             "server_region": "cosmic_fold"
@@ -50540,9 +50549,9 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "WorldBossDamage_1;Boss_hum_075_World;1",
             "gender": 1,
-            "hp": 1165635.5,
-            "last_seen": 1769624320,
-            "level": 80,
+            "hp": 1238927.0,
+            "last_seen": 1769898280,
+            "level": 81,
             "name": "百合园小咲",
             "name_history": [
                 "百合园小咲"
@@ -53159,6 +53168,22 @@
             "role_id": 63582695998848,
             "server_region": "cosmic_fold"
         },
+        "63582695998894": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60595.0,
+            "last_seen": 1769898280,
+            "level": 17,
+            "name": "克林尔",
+            "name_history": [
+                "克林尔"
+            ],
+            "registered": "2026年1月30日 下午5:01:56",
+            "role_id": 63582695998894,
+            "server_region": "cosmic_fold"
+        },
         "63582695998973": {
             "crew_id": 0,
             "crew_name": "",
@@ -53285,6 +53310,22 @@
             ],
             "registered": "2026年1月31日 下午6:18:52",
             "role_id": 63582695999759,
+            "server_region": "cosmic_fold"
+        },
+        "63582695999773": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25299.0,
+            "last_seen": 1769898280,
+            "level": 9,
+            "name": "小怪兽绘梨衣.",
+            "name_history": [
+                "小怪兽绘梨衣."
+            ],
+            "registered": "2026年1月31日 下午6:35:06",
+            "role_id": 63582695999773,
             "server_region": "cosmic_fold"
         },
         "63582695999821": {
@@ -53464,8 +53505,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4245,
+    "accounts_total": 4247,
     "created": 1758803451,
-    "last_updated": 1769898218,
+    "last_updated": 1769898280,
     "server_region": "cosmic_fold"
 }
