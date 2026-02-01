@@ -9877,9 +9877,9 @@
             "crew_name": "こなもん",
             "equipping_title": "1_1_5_1",
             "gender": 1,
-            "hp": 612143.0,
-            "last_seen": 1766782546,
-            "level": 65,
+            "hp": 941489.75,
+            "last_seen": 1769978265,
+            "level": 73,
             "name": "蒼生",
             "name_history": [
                 "蒼生"
@@ -82241,6 +82241,22 @@
             "role_id": 38174103118610781,
             "server_region": "ws_asia_01"
         },
+        "38174103118611077": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 49620.16015625,
+            "last_seen": 1769978265,
+            "level": 26,
+            "name": "まだお",
+            "name_history": [
+                "まだお"
+            ],
+            "registered": "Jan 22, 2026, 10:36:09 PM",
+            "role_id": 38174103118611077,
+            "server_region": "ws_asia_01"
+        },
         "38174103118611082": {
             "crew_id": 0,
             "crew_name": "",
@@ -82417,6 +82433,22 @@
             "role_id": 38174103118611712,
             "server_region": "ws_asia_01"
         },
+        "38174103118611726": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 68730.0,
+            "last_seen": 1769978265,
+            "level": 21,
+            "name": "AZ41",
+            "name_history": [
+                "AZ41"
+            ],
+            "registered": "Jan 29, 2026, 10:17:53 PM",
+            "role_id": 38174103118611726,
+            "server_region": "ws_asia_01"
+        },
         "38174103118611738": {
             "crew_id": 2529744625445,
             "crew_name": "Nem-esis Resort",
@@ -82482,8 +82514,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5155,
+    "accounts_total": 5157,
     "created": 1764092421,
-    "last_updated": 1769978211,
+    "last_updated": 1769978265,
     "server_region": "ws_asia_01"
 }
