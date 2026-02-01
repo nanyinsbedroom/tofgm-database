@@ -23508,14 +23508,15 @@
         "38174103118556370": {
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "2_10_0_4",
+            "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 477716.40625,
-            "last_seen": 1766014518,
-            "level": 60,
-            "name": "はる",
+            "hp": 929348.25,
+            "last_seen": 1769980089,
+            "level": 73,
+            "name": "❀はる❀",
             "name_history": [
-                "はる"
+                "はる",
+                "❀はる❀"
             ],
             "registered": "Nov 25, 2025, 7:14:58 PM",
             "role_id": 38174103118556370,
@@ -24486,12 +24487,13 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_2_0_43",
             "gender": 1,
-            "hp": 976953.125,
-            "last_seen": 1768940246,
-            "level": 72,
-            "name": "　　つきなし　",
+            "hp": 1017552.5,
+            "last_seen": 1769980089,
+            "level": 73,
+            "name": "つきなし",
             "name_history": [
-                "　　つきなし　"
+                "　　つきなし　",
+                "つきなし"
             ],
             "registered": "Nov 25, 2025, 7:30:17 PM",
             "role_id": 38174103118556754,
@@ -61942,11 +61944,11 @@
         "38174103118581238": {
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;8",
+            "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 797656.0625,
-            "last_seen": 1768068124,
-            "level": 70,
+            "hp": 966725.625,
+            "last_seen": 1769980089,
+            "level": 73,
             "name": "Aindaris",
             "name_history": [
                 "Aindaris"
@@ -66488,9 +66490,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 681561.5625,
-            "last_seen": 1768872926,
-            "level": 71,
+            "hp": 787768.25,
+            "last_seen": 1769980089,
+            "level": 73,
             "name": "紅茶派",
             "name_history": [
                 "紅茶派"
@@ -77683,6 +77685,22 @@
             "role_id": 38174103118598573,
             "server_region": "ws_asia_01"
         },
+        "38174103118598585": {
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 553868.25,
+            "last_seen": 1769980089,
+            "level": 72,
+            "name": "すみお",
+            "name_history": [
+                "すみお"
+            ],
+            "registered": "Dec 13, 2025, 12:56:48 PM",
+            "role_id": 38174103118598585,
+            "server_region": "ws_asia_01"
+        },
         "38174103118598596": {
             "crew_id": 0,
             "crew_name": "",
@@ -80038,14 +80056,15 @@
         "38174103118602809": {
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 447405.40625,
-            "last_seen": 1766624519,
-            "level": 63,
-            "name": "YukihimeSOAFlw",
+            "hp": 898005.5,
+            "last_seen": 1769980089,
+            "level": 73,
+            "name": "ShiroYukihime",
             "name_history": [
-                "YukihimeSOAFlw"
+                "YukihimeSOAFlw",
+                "ShiroYukihime"
             ],
             "registered": "Dec 20, 2025, 8:07:14 PM",
             "role_id": 38174103118602809,
@@ -82564,8 +82583,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5160,
+    "accounts_total": 5161,
     "created": 1764092421,
-    "last_updated": 1769980024,
+    "last_updated": 1769980089,
     "server_region": "ws_asia_01"
 }
