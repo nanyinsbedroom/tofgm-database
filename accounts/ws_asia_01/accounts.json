@@ -54279,11 +54279,11 @@
         "38174103118574263": {
             "crew_id": 137447841573,
             "crew_name": "Alter",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;44",
             "gender": 1,
-            "hp": 613753.0625,
-            "last_seen": 1766807388,
-            "level": 65,
+            "hp": 951138.1875,
+            "last_seen": 1769998382,
+            "level": 73,
             "name": "yohratwoB",
             "name_history": [
                 "yohratwoB"
@@ -65995,7 +65995,7 @@
             "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
             "hp": 961440.4375,
-            "last_seen": 1769978078,
+            "last_seen": 1769998382,
             "level": 73,
             "name": "SARANLAP",
             "name_history": [
@@ -73352,11 +73352,11 @@
         "38174103118591655": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "2_8_0_2",
             "gender": 0,
-            "hp": 580507.375,
-            "last_seen": 1766975325,
-            "level": 65,
+            "hp": 892224.4375,
+            "last_seen": 1769998382,
+            "level": 73,
             "name": "Kirk",
             "name_history": [
                 "Kirk"
@@ -82358,6 +82358,22 @@
             "role_id": 38174103118610622,
             "server_region": "ws_asia_01"
         },
+        "38174103118610686": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 405972.0,
+            "last_seen": 1769998382,
+            "level": 69,
+            "name": "evシンカ　　",
+            "name_history": [
+                "evシンカ　　"
+            ],
+            "registered": "Jan 19, 2026, 6:16:59 AM",
+            "role_id": 38174103118610686,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610735": {
             "crew_id": 0,
             "crew_name": "",
@@ -82516,6 +82532,22 @@
             ],
             "registered": "Jan 23, 2026, 11:49:49 PM",
             "role_id": 38174103118611132,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118611173": {
+            "crew_id": 176102547237,
+            "crew_name": "สมาคมฮันเตอร์",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 259538.984375,
+            "last_seen": 1769998382,
+            "level": 71,
+            "name": "SixMantHV2",
+            "name_history": [
+                "SixMantHV2"
+            ],
+            "registered": "Jan 24, 2026, 10:57:00 AM",
+            "role_id": 38174103118611173,
             "server_region": "ws_asia_01"
         },
         "38174103118611268": {
@@ -82743,8 +82775,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5171,
+    "accounts_total": 5173,
     "created": 1764092421,
-    "last_updated": 1769998322,
+    "last_updated": 1769998382,
     "server_region": "ws_asia_01"
 }
