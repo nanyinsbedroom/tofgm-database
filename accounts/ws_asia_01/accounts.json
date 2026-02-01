@@ -28726,11 +28726,11 @@
         "38174103118558103": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "えりぃと的学徒,0",
+            "equipping_title": "えりぃと的后继者,1",
             "gender": 1,
-            "hp": 895777.375,
-            "last_seen": 1769321998,
-            "level": 72,
+            "hp": 933029.0,
+            "last_seen": 1769998442,
+            "level": 73,
             "name": "PennnyTinpo",
             "name_history": [
                 "PennnyTinpo"
@@ -79210,9 +79210,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 62178.0,
-            "last_seen": 1769978018,
-            "level": 37,
+            "hp": 34867.5078125,
+            "last_seen": 1769998442,
+            "level": 62,
             "name": "CCz",
             "name_history": [
                 "CCz"
@@ -82773,10 +82773,26 @@
             "registered": "Feb 2, 2026, 12:07:05 AM",
             "role_id": 38174103118612048,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612054": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1769998442,
+            "level": 4,
+            "name": "しゅうちゃん４号機",
+            "name_history": [
+                "しゅうちゃん４号機"
+            ],
+            "registered": "Feb 2, 2026, 1:56:04 AM",
+            "role_id": 38174103118612054,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5173,
+    "accounts_total": 5174,
     "created": 1764092421,
-    "last_updated": 1769998382,
+    "last_updated": 1769998442,
     "server_region": "ws_asia_01"
 }
