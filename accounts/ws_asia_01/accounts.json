@@ -28632,9 +28632,9 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 930124.0625,
-            "last_seen": 1769283914,
-            "level": 72,
+            "hp": 666873.25,
+            "last_seen": 1769980511,
+            "level": 73,
             "name": "Trail",
             "name_history": [
                 "Trail"
@@ -50137,9 +50137,9 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "2_2_0_43",
             "gender": 1,
-            "hp": 920746.5625,
-            "last_seen": 1769283853,
-            "level": 72,
+            "hp": 570594.375,
+            "last_seen": 1769980511,
+            "level": 73,
             "name": "Specterer",
             "name_history": [
                 "Specterer"
@@ -82693,10 +82693,26 @@
             "registered": "Feb 1, 2026, 6:46:18 PM",
             "role_id": 38174103118612006,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612021": {
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40820.0,
+            "last_seen": 1769980511,
+            "level": 19,
+            "name": "Abang Jibby",
+            "name_history": [
+                "Abang Jibby"
+            ],
+            "registered": "Feb 1, 2026, 9:02:48 PM",
+            "role_id": 38174103118612021,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5168,
+    "accounts_total": 5169,
     "created": 1764092421,
-    "last_updated": 1769980449,
+    "last_updated": 1769980511,
     "server_region": "ws_asia_01"
 }
