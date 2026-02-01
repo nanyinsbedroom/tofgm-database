@@ -25492,11 +25492,11 @@
         "38174103118557115": {
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "EOS's Mentor,0",
+            "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 512317.625,
-            "last_seen": 1766947007,
-            "level": 66,
+            "hp": 951489.4375,
+            "last_seen": 1769978940,
+            "level": 73,
             "name": "Salad",
             "name_history": [
                 "Salad"
@@ -78723,6 +78723,22 @@
             "role_id": 38174103118600701,
             "server_region": "ws_asia_01"
         },
+        "38174103118600702": {
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 112716.0,
+            "last_seen": 1769978940,
+            "level": 66,
+            "name": "Klee table",
+            "name_history": [
+                "Klee table"
+            ],
+            "registered": "Dec 16, 2025, 7:30:38 PM",
+            "role_id": 38174103118600702,
+            "server_region": "ws_asia_01"
+        },
         "38174103118600724": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
@@ -82548,8 +82564,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5159,
+    "accounts_total": 5160,
     "created": 1764092421,
-    "last_updated": 1769978873,
+    "last_updated": 1769978940,
     "server_region": "ws_asia_01"
 }
