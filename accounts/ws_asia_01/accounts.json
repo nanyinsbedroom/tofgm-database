@@ -64443,9 +64443,9 @@
             "crew_name": "Reverie",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 435473.21875,
-            "last_seen": 1765589548,
-            "level": 57,
+            "hp": 634713.75,
+            "last_seen": 1770057583,
+            "level": 73,
             "name": "ユカウラ",
             "name_history": [
                 "ユカウラ"
@@ -73638,6 +73638,22 @@
             "role_id": 38174103118591875,
             "server_region": "ws_asia_01"
         },
+        "38174103118591895": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 12538.5,
+            "last_seen": 1770057583,
+            "level": 7,
+            "name": "いろはす",
+            "name_history": [
+                "いろはす"
+            ],
+            "registered": "Dec 4, 2025, 8:03:26 PM",
+            "role_id": 38174103118591895,
+            "server_region": "ws_asia_01"
+        },
         "38174103118591922": {
             "crew_id": 1821075021605,
             "crew_name": "MEKODIANS",
@@ -82071,6 +82087,22 @@
             "role_id": 38174103118608799,
             "server_region": "ws_asia_01"
         },
+        "38174103118608802": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 107709.0,
+            "last_seen": 1770057583,
+            "level": 44,
+            "name": "Kikkadoom",
+            "name_history": [
+                "Kikkadoom"
+            ],
+            "registered": "Jan 4, 2026, 3:03:43 PM",
+            "role_id": 38174103118608802,
+            "server_region": "ws_asia_01"
+        },
         "38174103118608869": {
             "crew_id": 2576989265701,
             "crew_name": "Wuthering Waves",
@@ -83048,8 +83080,8 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5190,
+    "accounts_total": 5192,
     "created": 1764092421,
-    "last_updated": 1770057524,
+    "last_updated": 1770057583,
     "server_region": "ws_asia_01"
 }
