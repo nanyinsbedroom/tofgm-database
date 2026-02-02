@@ -34909,11 +34909,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695898689": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 64424524244,
+            "crew_name": "烧鸡",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": 1759679831,
+            "hp": 230429.234375,
+            "last_seen": 1770070921,
+            "level": 78,
             "name": "NMMNNM",
+            "name_history": [
+                "NMMNNM"
+            ],
             "registered": "2025年10月2日 上午11:54:28",
             "role_id": 63582695898689,
             "server_region": "cosmic_fold"
@@ -54995,6 +55001,22 @@
             "role_id": 63582696001123,
             "server_region": "cosmic_fold"
         },
+        "63582696001313": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60379.75,
+            "last_seen": 1770070921,
+            "level": 17,
+            "name": "刀子",
+            "name_history": [
+                "刀子"
+            ],
+            "registered": "2026年2月2日 下午6:26:50",
+            "role_id": 63582696001313,
+            "server_region": "cosmic_fold"
+        },
         "63582696001341": {
             "crew_id": 0,
             "crew_name": "",
@@ -55028,8 +55050,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4342,
+    "accounts_total": 4343,
     "created": 1758803451,
-    "last_updated": 1770062645,
+    "last_updated": 1770070921,
     "server_region": "cosmic_fold"
 }
