@@ -1044,6 +1044,22 @@
             "role_id": 63582695850365,
             "server_region": "cosmic_fold"
         },
+        "63582695850366": {
+            "crew_id": 64424524244,
+            "crew_name": "烧鸡",
+            "equipping_title": "2_7_0_19",
+            "gender": 1,
+            "hp": 1255847.75,
+            "last_seen": 1770162113,
+            "level": 81,
+            "name": "烧鸡",
+            "name_history": [
+                "烧鸡"
+            ],
+            "registered": "2025年9月25日 下午6:05:20",
+            "role_id": 63582695850366,
+            "server_region": "cosmic_fold"
+        },
         "63582695850378": {
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
@@ -3829,13 +3845,16 @@
         },
         "63582695851795": {
             "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "1_7_1_1",
+            "crew_name": "少女终末旅行",
+            "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 505097.03125,
-            "last_seen": 1760441038,
-            "level": 59,
+            "hp": 1353676.625,
+            "last_seen": 1770162113,
+            "level": 81,
             "name": "野猪霸王",
+            "name_history": [
+                "野猪霸王"
+            ],
             "registered": "2025年9月25日 下午6:20:29",
             "role_id": 63582695851795,
             "server_region": "cosmic_fold"
@@ -56059,8 +56078,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4405,
+    "accounts_total": 4406,
     "created": 1758803451,
-    "last_updated": 1770162054,
+    "last_updated": 1770162113,
     "server_region": "cosmic_fold"
 }
