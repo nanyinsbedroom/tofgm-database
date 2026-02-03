@@ -405,9 +405,9 @@
             "crew_name": "Rebirth",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 919277.9375,
-            "last_seen": 1768942836,
-            "level": 72,
+            "hp": 1026867.9375,
+            "last_seen": 1770132409,
+            "level": 74,
             "name": "Flux",
             "name_history": [
                 "Flux"
@@ -3842,12 +3842,12 @@
         },
         "38174111708481856": {
             "crew_id": 622779146023,
-            "crew_name": "العرب المبتدئين",
-            "equipping_title": "2_8_0_2",
+            "crew_name": "النخبة",
+            "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 2557219.5,
-            "last_seen": 1767127770,
-            "level": 67,
+            "hp": 1010061.5,
+            "last_seen": 1770132409,
+            "level": 74,
             "name": "كتكات",
             "name_history": [
                 "كتكات"
@@ -4958,6 +4958,22 @@
             ],
             "registered": "Nov 25, 2025, 1:02:37 PM",
             "role_id": 38174111708482741,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708482743": {
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "2_8_0_7",
+            "gender": 0,
+            "hp": 1013233.0625,
+            "last_seen": 1770132409,
+            "level": 74,
+            "name": "DэDэ",
+            "name_history": [
+                "DэDэ"
+            ],
+            "registered": "Nov 25, 2025, 1:02:40 PM",
+            "role_id": 38174111708482743,
             "server_region": "ws_europe_01"
         },
         "38174111708482780": {
@@ -7632,6 +7648,22 @@
             "role_id": 38174111708486524,
             "server_region": "ws_europe_01"
         },
+        "38174111708486534": {
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 968129.9375,
+            "last_seen": 1770132409,
+            "level": 74,
+            "name": "BeuDen",
+            "name_history": [
+                "BeuDen"
+            ],
+            "registered": "Nov 25, 2025, 7:29:08 PM",
+            "role_id": 38174111708486534,
+            "server_region": "ws_europe_01"
+        },
         "38174111708486549": {
             "crew_id": 0,
             "crew_name": "",
@@ -7763,11 +7795,11 @@
         "38174111708486825": {
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "2_2_0_92",
+            "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 934682.3125,
-            "last_seen": 1769721585,
-            "level": 73,
+            "hp": 980635.3125,
+            "last_seen": 1770132409,
+            "level": 74,
             "name": "Krimpai",
             "name_history": [
                 "Krimpai"
@@ -13121,8 +13153,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 820,
+    "accounts_total": 822,
     "created": 1764046902,
-    "last_updated": 1770132353,
+    "last_updated": 1770132409,
     "server_region": "ws_europe_01"
 }
