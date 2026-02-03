@@ -3405,8 +3405,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1395855.5,
-            "last_seen": 1770072581,
+            "hp": 1324646.125,
+            "last_seen": 1770159841,
             "level": 81,
             "name": "无名的死咸鱼",
             "name_history": [
@@ -3775,7 +3775,7 @@
             "equipping_title": "1_9_0_3",
             "gender": 1,
             "hp": 1423137.375,
-            "last_seen": 1770072520,
+            "last_seen": 1770159841,
             "level": 81,
             "name": "konakona",
             "name_history": [
@@ -8073,7 +8073,7 @@
             "equipping_title": "2_2_0_29",
             "gender": 1,
             "hp": 1401302.5,
-            "last_seen": 1770072581,
+            "last_seen": 1770159841,
             "level": 81,
             "name": "偶阵雨",
             "name_history": [
@@ -12532,9 +12532,9 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 937761.5625,
-            "last_seen": 1764031855,
-            "level": 72,
+            "hp": 1377280.375,
+            "last_seen": 1770159841,
+            "level": 81,
             "name": "布隆",
             "name_history": [
                 "布隆"
@@ -55530,6 +55530,22 @@
             "role_id": 63582696001513,
             "server_region": "cosmic_fold"
         },
+        "63582696001602": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 20085.537109375,
+            "last_seen": 1770159841,
+            "level": 18,
+            "name": "傲气静待轮回",
+            "name_history": [
+                "傲气静待轮回"
+            ],
+            "registered": "2026年2月3日 上午7:25:00",
+            "role_id": 63582696001602,
+            "server_region": "cosmic_fold"
+        },
         "63582696001615": {
             "crew_id": 0,
             "crew_name": "",
@@ -55755,8 +55771,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4387,
+    "accounts_total": 4388,
     "created": 1758803451,
-    "last_updated": 1770159783,
+    "last_updated": 1770159841,
     "server_region": "cosmic_fold"
 }
