@@ -67,11 +67,11 @@
         "38174111708479501": {
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "None",
+            "equipping_title": "1_4_6_1",
             "gender": 1,
-            "hp": 920093.5,
-            "last_seen": 1769720985,
-            "level": 73,
+            "hp": 989494.375,
+            "last_seen": 1770132285,
+            "level": 74,
             "name": "Lico",
             "name_history": [
                 "Lico"
@@ -3408,6 +3408,22 @@
             "role_id": 38174111708481546,
             "server_region": "ws_europe_01"
         },
+        "38174111708481552": {
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1010727.375,
+            "last_seen": 1770132285,
+            "level": 74,
+            "name": "Midona",
+            "name_history": [
+                "Midona"
+            ],
+            "registered": "Nov 25, 2025, 10:59:14 AM",
+            "role_id": 38174111708481552,
+            "server_region": "ws_europe_01"
+        },
         "38174111708481553": {
             "crew_id": 0,
             "crew_name": "",
@@ -5601,13 +5617,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708483577": {
-            "crew_id": 68728364839,
-            "crew_name": "HEX",
-            "equipping_title": "1_1_18_1",
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "2_8_0_8",
             "gender": 0,
-            "hp": 542940.0,
-            "last_seen": 1766255648,
-            "level": 62,
+            "hp": 894105.875,
+            "last_seen": 1770132285,
+            "level": 73,
             "name": ".depressive",
             "name_history": [
                 ".depressive"
@@ -7313,13 +7329,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708486159": {
-            "crew_id": 188987449127,
-            "crew_name": "EuzeroFR",
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 596438.0,
-            "last_seen": 1766431881,
-            "level": 63,
+            "hp": 1009477.875,
+            "last_seen": 1770132285,
+            "level": 74,
             "name": "Broly",
             "name_history": [
                 "Broly"
@@ -7793,13 +7809,13 @@
             "server_region": "ws_europe_01"
         },
         "38174111708486952": {
-            "crew_id": 17188757287,
-            "crew_name": "Moonlight",
-            "equipping_title": "ZenovA的导师,0",
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_10_1_9",
             "gender": 1,
-            "hp": 880650.125,
-            "last_seen": 1768942956,
-            "level": 72,
+            "hp": 1003706.8125,
+            "last_seen": 1770132285,
+            "level": 74,
             "name": "Kagerou",
             "name_history": [
                 "Kagerou"
@@ -13041,8 +13057,8 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 815,
+    "accounts_total": 816,
     "created": 1764046902,
-    "last_updated": 1769721886,
+    "last_updated": 1770132285,
     "server_region": "ws_europe_01"
 }
