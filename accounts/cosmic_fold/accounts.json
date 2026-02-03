@@ -4405,11 +4405,11 @@
         "63582695852097": {
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "1_10_0_1",
             "gender": 1,
-            "hp": 962620.0625,
-            "last_seen": 1769291010,
-            "level": 80,
+            "hp": 1381270.5,
+            "last_seen": 1770162234,
+            "level": 81,
             "name": "霧雨萌音",
             "name_history": [
                 "霧雨萌音"
@@ -6797,13 +6797,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695853615": {
-            "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "2_8_0_10",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 919448.625,
-            "last_seen": 1764031915,
-            "level": 72,
+            "hp": 1401503.75,
+            "last_seen": 1770162234,
+            "level": 81,
             "name": "拉娜",
             "name_history": [
                 "拉娜"
@@ -51654,9 +51654,9 @@
             "crew_name": "抵达深空",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 1012880.625,
-            "last_seen": 1769624320,
-            "level": 80,
+            "hp": 1080031.5,
+            "last_seen": 1770162234,
+            "level": 81,
             "name": "奥义√牧了个苏",
             "name_history": [
                 "奥义√牧了个苏"
@@ -53215,6 +53215,22 @@
             ],
             "registered": "2026年1月24日 下午3:14:56",
             "role_id": 63582695994887,
+            "server_region": "cosmic_fold"
+        },
+        "63582695994914": {
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 660660.875,
+            "last_seen": 1770162234,
+            "level": 79,
+            "name": "太龙",
+            "name_history": [
+                "太龙"
+            ],
+            "registered": "2026年1月24日 下午3:42:26",
+            "role_id": 63582695994914,
             "server_region": "cosmic_fold"
         },
         "63582695995038": {
@@ -56098,8 +56114,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4407,
+    "accounts_total": 4408,
     "created": 1758803451,
-    "last_updated": 1770162173,
+    "last_updated": 1770162234,
     "server_region": "cosmic_fold"
 }
