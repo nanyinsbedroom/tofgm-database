@@ -7548,9 +7548,9 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1303497.75,
-            "last_seen": 1768957456,
-            "level": 79,
+            "hp": 1390427.0,
+            "last_seen": 1770159719,
+            "level": 81,
             "name": "渡渡鹭",
             "name_history": [
                 "渡渡鹭"
@@ -23913,7 +23913,7 @@
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;3",
             "gender": 1,
             "hp": 1371401.375,
-            "last_seen": 1770072520,
+            "last_seen": 1770159719,
             "level": 81,
             "name": "莫妮卡",
             "name_history": [
@@ -25003,16 +25003,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695869745": {
-            "crew_id": 154618837460,
-            "crew_name": "十月天宫",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_006_world;15",
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 928431.625,
-            "last_seen": 1764031675,
-            "level": 72,
-            "name": "浅梦",
+            "hp": 1366270.0,
+            "last_seen": 1770159719,
+            "level": 81,
+            "name": "幻舞",
             "name_history": [
-                "浅梦"
+                "浅梦",
+                "幻舞"
             ],
             "registered": "2025年9月26日 下午3:39:34",
             "role_id": 63582695869745,
@@ -37365,6 +37366,22 @@
             "name": "井上泷奈",
             "registered": "2025年10月5日 上午5:07:40",
             "role_id": 63582695908424,
+            "server_region": "cosmic_fold"
+        },
+        "63582695908429": {
+            "crew_id": 236223216084,
+            "crew_name": "恶魔",
+            "equipping_title": "2_8_0_6",
+            "gender": 1,
+            "hp": 1009968.375,
+            "last_seen": 1770159719,
+            "level": 79,
+            "name": "好汁为汁",
+            "name_history": [
+                "好汁为汁"
+            ],
+            "registered": "2025年10月5日 上午5:15:17",
+            "role_id": 63582695908429,
             "server_region": "cosmic_fold"
         },
         "63582695908442": {
@@ -55738,8 +55755,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4386,
+    "accounts_total": 4387,
     "created": 1758803451,
-    "last_updated": 1770159660,
+    "last_updated": 1770159719,
     "server_region": "cosmic_fold"
 }
