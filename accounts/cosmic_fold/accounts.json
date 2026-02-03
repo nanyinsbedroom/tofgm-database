@@ -31,9 +31,9 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1356931.375,
-            "last_seen": 1769375631,
-            "level": 80,
+            "hp": 1397600.75,
+            "last_seen": 1770162173,
+            "level": 81,
             "name": "神",
             "name_history": [
                 "神"
@@ -9487,12 +9487,13 @@
             "crew_name": "紫微星垣",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1304451.0,
-            "last_seen": 1768953423,
-            "level": 79,
-            "name": "蓝桉",
+            "hp": 1393955.75,
+            "last_seen": 1770162173,
+            "level": 81,
+            "name": "逆神·八重樱",
             "name_history": [
-                "蓝桉"
+                "蓝桉",
+                "逆神·八重樱"
             ],
             "registered": "2025年9月25日 下午7:16:42",
             "role_id": 63582695855655,
@@ -23522,12 +23523,12 @@
         },
         "63582695867496": {
             "crew_id": 128849033684,
-            "crew_name": "神待少女",
-            "equipping_title": "None",
+            "crew_name": "月歌行",
+            "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 863694.6875,
-            "last_seen": 1763833330,
-            "level": 72,
+            "hp": 1263371.625,
+            "last_seen": 1770162173,
+            "level": 81,
             "name": "馒头",
             "name_history": [
                 "馒头"
@@ -27358,14 +27359,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695873107": {
-            "crew_id": 146028902868,
-            "crew_name": "146028902868",
-            "equipping_title": "WorldBossDamage_3;英招;13",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 623139.25,
-            "last_seen": 1761853510,
-            "level": 67,
+            "hp": 1317364.0,
+            "last_seen": 1770162173,
+            "level": 81,
             "name": "梦回21年开服",
+            "name_history": [
+                "梦回21年开服"
+            ],
             "registered": "2025年9月26日 下午9:58:52",
             "role_id": 63582695873107,
             "server_region": "cosmic_fold"
@@ -45267,8 +45271,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1245119.625,
-            "last_seen": 1769897616,
+            "hp": 1285648.25,
+            "last_seen": 1770162173,
             "level": 81,
             "name": "芙圻",
             "name_history": [
@@ -51392,10 +51396,10 @@
         "63582695981258": {
             "crew_id": 128849033684,
             "crew_name": "月歌行",
-            "equipping_title": "WorldBossDamage_3;boss_hum_082_world;16",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_015_world;21",
             "gender": 1,
-            "hp": 1103769.0,
-            "last_seen": 1769901353,
+            "hp": 1110796.125,
+            "last_seen": 1770162173,
             "level": 81,
             "name": "陈道一",
             "name_history": [
@@ -52386,9 +52390,9 @@
             "crew_name": "塔学之家",
             "equipping_title": "观世正宗的学徒,0",
             "gender": 1,
-            "hp": 363128.1875,
-            "last_seen": 1769474601,
-            "level": 80,
+            "hp": 498416.0,
+            "last_seen": 1770162173,
+            "level": 81,
             "name": "我要陪你一整夜",
             "name_history": [
                 "我要陪你一整夜"
@@ -52907,6 +52911,22 @@
             ],
             "registered": "2026年1月22日 下午7:44:10",
             "role_id": 63582695993666,
+            "server_region": "cosmic_fold"
+        },
+        "63582695993780": {
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;97",
+            "gender": 1,
+            "hp": 760844.5,
+            "last_seen": 1770162173,
+            "level": 81,
+            "name": "小鸟游玉子",
+            "name_history": [
+                "小鸟游玉子"
+            ],
+            "registered": "2026年1月22日 下午10:32:53",
+            "role_id": 63582695993780,
             "server_region": "cosmic_fold"
         },
         "63582695993885": {
@@ -56078,8 +56098,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4406,
+    "accounts_total": 4407,
     "created": 1758803451,
-    "last_updated": 1770162113,
+    "last_updated": 1770162173,
     "server_region": "cosmic_fold"
 }
