@@ -1728,6 +1728,22 @@
             "role_id": 38174111708480216,
             "server_region": "ws_europe_01"
         },
+        "38174111708480231": {
+            "crew_id": 120267972391,
+            "crew_name": "Dynasty",
+            "equipping_title": "1_4_6_6",
+            "gender": 1,
+            "hp": 1001795.625,
+            "last_seen": 1770132589,
+            "level": 74,
+            "name": "Zaraki75",
+            "name_history": [
+                "Zaraki75"
+            ],
+            "registered": "Nov 25, 2025, 9:19:05 AM",
+            "role_id": 38174111708480231,
+            "server_region": "ws_europe_01"
+        },
         "38174111708480232": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
@@ -2690,12 +2706,12 @@
         },
         "38174111708480956": {
             "crew_id": 120267972391,
-            "crew_name": "Les ToFers",
-            "equipping_title": "None",
+            "crew_name": "Dynasty",
+            "equipping_title": "2_2_0_87",
             "gender": 0,
-            "hp": 68450.6015625,
-            "last_seen": 1764092047,
-            "level": 22,
+            "hp": 908213.5,
+            "last_seen": 1770132589,
+            "level": 74,
             "name": "NeyroX",
             "name_history": [
                 "NeyroX"
@@ -4115,10 +4131,10 @@
         "38174111708481988": {
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
-            "equipping_title": "canapi的导师,0",
+            "equipping_title": "canapi's Mentor,0",
             "gender": 1,
             "hp": 956756.3125,
-            "last_seen": 1769721886,
+            "last_seen": 1770132589,
             "level": 73,
             "name": "Canatek",
             "name_history": [
@@ -13136,6 +13152,22 @@
             "role_id": 38174111708523314,
             "server_region": "ws_europe_01"
         },
+        "38174111708523431": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 288740.0,
+            "last_seen": 1770132589,
+            "level": 64,
+            "name": "Naureen",
+            "name_history": [
+                "Naureen"
+            ],
+            "registered": "Jan 25, 2026, 9:14:32 PM",
+            "role_id": 38174111708523431,
+            "server_region": "ws_europe_01"
+        },
         "38174111708523598": {
             "crew_id": 0,
             "crew_name": "",
@@ -13279,10 +13311,42 @@
             "registered": "Jan 31, 2026, 9:20:45 PM",
             "role_id": 38174111708524106,
             "server_region": "ws_europe_01"
+        },
+        "38174111708524250": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38425.0,
+            "last_seen": 1770132589,
+            "level": 11,
+            "name": "sasori-dz",
+            "name_history": [
+                "sasori-dz"
+            ],
+            "registered": "Feb 1, 2026, 9:10:58 PM",
+            "role_id": 38174111708524250,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708524303": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 69586.0,
+            "last_seen": 1770132589,
+            "level": 20,
+            "name": "Nekosphaire",
+            "name_history": [
+                "Nekosphaire"
+            ],
+            "registered": "Feb 2, 2026, 1:36:32 PM",
+            "role_id": 38174111708524303,
+            "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 830,
+    "accounts_total": 834,
     "created": 1764046902,
-    "last_updated": 1770132530,
+    "last_updated": 1770132589,
     "server_region": "ws_europe_01"
 }
