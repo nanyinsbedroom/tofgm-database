@@ -54024,9 +54024,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 10930.40625,
-            "last_seen": 1769900511,
-            "level": 21,
+            "hp": 102276.59375,
+            "last_seen": 1770159352,
+            "level": 45,
             "name": "小昭打不过",
             "name_history": [
                 "小昭打不过"
@@ -55395,6 +55395,22 @@
             "role_id": 63582696001489,
             "server_region": "cosmic_fold"
         },
+        "63582696001497": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 90783.203125,
+            "last_seen": 1770159352,
+            "level": 34,
+            "name": "yb",
+            "name_history": [
+                "yb"
+            ],
+            "registered": "2026年2月2日 下午10:43:11",
+            "role_id": 63582696001497,
+            "server_region": "cosmic_fold"
+        },
         "63582696001513": {
             "crew_id": 0,
             "crew_name": "",
@@ -55556,8 +55572,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4375,
+    "accounts_total": 4376,
     "created": 1758803451,
-    "last_updated": 1770159294,
+    "last_updated": 1770159352,
     "server_region": "cosmic_fold"
 }
