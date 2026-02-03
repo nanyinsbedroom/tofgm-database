@@ -3965,8 +3965,8 @@
             "crew_name": "天使社",
             "equipping_title": "2_7_0_14",
             "gender": 1,
-            "hp": 1145367.25,
-            "last_seen": 1770072520,
+            "hp": 995618.4375,
+            "last_seen": 1770159904,
             "level": 79,
             "name": "白龙",
             "name_history": [
@@ -7413,11 +7413,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695853965": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_8_0_7",
             "gender": 1,
-            "last_seen": 1758805991,
-            "name": "纸鸢.",
+            "hp": 1368645.875,
+            "last_seen": 1770159904,
+            "level": 81,
+            "name": "伊泽瑞尔",
+            "name_history": [
+                "伊泽瑞尔"
+            ],
             "registered": "2025年9月25日 下午6:52:07",
             "role_id": 63582695853965,
             "server_region": "cosmic_fold"
@@ -26181,8 +26187,8 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1401723.0,
-            "last_seen": 1769898159,
+            "hp": 1403220.625,
+            "last_seen": 1770159904,
             "level": 81,
             "name": "白龍",
             "name_history": [
@@ -45359,6 +45365,22 @@
             "role_id": 63582695940724,
             "server_region": "cosmic_fold"
         },
+        "63582695940750": {
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_7_0_17",
+            "gender": 1,
+            "hp": 1317739.5,
+            "last_seen": 1770159904,
+            "level": 81,
+            "name": "memon",
+            "name_history": [
+                "memon"
+            ],
+            "registered": "2025年10月24日 下午12:27:13",
+            "role_id": 63582695940750,
+            "server_region": "cosmic_fold"
+        },
         "63582695940765": {
             "crew_id": 0,
             "crew_name": "",
@@ -51277,11 +51299,11 @@
         "63582695982095": {
             "crew_id": 820338768340,
             "crew_name": "抵达深空",
-            "equipping_title": "牢大的扔子的学徒,0",
+            "equipping_title": "曼波的学徒,0",
             "gender": 0,
-            "hp": 353754.90625,
-            "last_seen": 1769291070,
-            "level": 77,
+            "hp": 413907.6875,
+            "last_seen": 1770159904,
+            "level": 79,
             "name": "开导",
             "name_history": [
                 "开导"
@@ -55771,8 +55793,8 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4388,
+    "accounts_total": 4389,
     "created": 1758803451,
-    "last_updated": 1770159841,
+    "last_updated": 1770159904,
     "server_region": "cosmic_fold"
 }
