@@ -3631,8 +3631,18 @@
             "server_region": "north_america"
         },
         "51591147164290": {
-            "last_seen": "Feb 3, 2026, 1:48:33 PM",
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2148019.0,
+            "last_seen": "Feb 3, 2026, 1:59:35 PM",
+            "level": 100,
             "name": "Atrocus",
+            "name_history": [
+                "Atrocus"
+            ],
+            "registered": "Aug 10, 2022, 7:52:02 PM",
             "role_id": 51591147164290,
             "server_region": "north_america"
         },
@@ -9445,9 +9455,35 @@
             "server_region": "north_america"
         },
         "51629802356493": {
-            "last_seen": "Feb 4, 2026, 1:47:32 AM",
+            "crew_id": 867583405806,
+            "crew_name": "Love",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 903474.75,
+            "last_seen": "Feb 3, 2026, 1:59:35 PM",
+            "level": 71,
             "name": "Beskalina",
+            "name_history": [
+                "Beskalina"
+            ],
+            "registered": "Jan 5, 2026, 2:46:35 PM",
             "role_id": 51629802356493,
+            "server_region": "north_america"
+        },
+        "51629802358174": {
+            "crew_id": 14302241107701,
+            "crew_name": "GravePlace",
+            "equipping_title": "TinyRaven's Mentor,0",
+            "gender": 1,
+            "hp": 1001948.9375,
+            "last_seen": "Feb 3, 2026, 1:59:35 PM",
+            "level": 95,
+            "name": "Kryptous",
+            "name_history": [
+                "Kryptous"
+            ],
+            "registered": "Jan 8, 2026, 2:02:57 AM",
+            "role_id": 51629802358174,
             "server_region": "north_america"
         },
         "51629802358836": {
@@ -11027,7 +11063,7 @@
             "server_region": "north_america"
         }
     },
-    "accounts_total": 811,
-    "last_updated": "Feb 3, 2026, 1:58:35 PM",
+    "accounts_total": 812,
+    "last_updated": "Feb 3, 2026, 1:59:35 PM",
     "server_region": "north_america"
 }
