@@ -8101,9 +8101,9 @@
             "crew_name": "Tempest",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 469336.21875,
-            "last_seen": 1768849179,
-            "level": 70,
+            "hp": 499269.0,
+            "last_seen": 1770132649,
+            "level": 71,
             "name": "Yunai",
             "name_history": [
                 "Yunai"
@@ -12944,6 +12944,22 @@
             "role_id": 38174111708522756,
             "server_region": "ws_europe_01"
         },
+        "38174111708522826": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56277.0,
+            "last_seen": 1770132649,
+            "level": 12,
+            "name": "Saturn.",
+            "name_history": [
+                "Saturn."
+            ],
+            "registered": "Jan 20, 2026, 9:24:06 PM",
+            "role_id": 38174111708522826,
+            "server_region": "ws_europe_01"
+        },
         "38174111708522886": {
             "crew_id": 0,
             "crew_name": "",
@@ -13168,6 +13184,22 @@
             "role_id": 38174111708523431,
             "server_region": "ws_europe_01"
         },
+        "38174111708523525": {
+            "crew_id": 962081562407,
+            "crew_name": "Clear Skies",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_064_world;96",
+            "gender": 0,
+            "hp": 430440.25,
+            "last_seen": 1770132649,
+            "level": 69,
+            "name": "Nelween",
+            "name_history": [
+                "Nelween"
+            ],
+            "registered": "Jan 26, 2026, 5:54:28 PM",
+            "role_id": 38174111708523525,
+            "server_region": "ws_europe_01"
+        },
         "38174111708523598": {
             "crew_id": 0,
             "crew_name": "",
@@ -13343,10 +13375,26 @@
             "registered": "Feb 2, 2026, 1:36:32 PM",
             "role_id": 38174111708524303,
             "server_region": "ws_europe_01"
+        },
+        "38174111708524404": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": 1770132649,
+            "level": 4,
+            "name": "ShredderKun",
+            "name_history": [
+                "ShredderKun"
+            ],
+            "registered": "Feb 3, 2026, 2:57:53 PM",
+            "role_id": 38174111708524404,
+            "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 834,
+    "accounts_total": 837,
     "created": 1764046902,
-    "last_updated": 1770132589,
+    "last_updated": 1770132649,
     "server_region": "ws_europe_01"
 }
