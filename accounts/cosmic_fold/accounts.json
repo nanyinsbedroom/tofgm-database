@@ -50652,8 +50652,8 @@
             "crew_name": "NOVA学院",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1206081.75,
-            "last_seen": 1770253287,
+            "hp": 1222967.0,
+            "last_seen": [],
             "level": 81,
             "name": "呵呜唵欢",
             "name_history": [
@@ -56007,6 +56007,22 @@
             "role_id": 63582696001497,
             "server_region": "cosmic_fold"
         },
+        "63582696001502": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 78352.0,
+            "last_seen": [],
+            "level": 21,
+            "name": "泪星遗梦",
+            "name_history": [
+                "泪星遗梦"
+            ],
+            "registered": "2026年2月2日 下午10:56:19",
+            "role_id": 63582696001502,
+            "server_region": "cosmic_fold"
+        },
         "63582696001513": {
             "crew_id": 0,
             "crew_name": "",
@@ -56310,9 +56326,25 @@
             "registered": "2026年2月5日 上午12:54:24",
             "role_id": 63582696002910,
             "server_region": "cosmic_fold"
+        },
+        "63582696002915": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": [],
+            "level": 2,
+            "name": "浮世生乐",
+            "name_history": [
+                "浮世生乐"
+            ],
+            "registered": "2026年2月5日 上午1:34:23",
+            "role_id": 63582696002915,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4420,
+    "accounts_total": 4422,
     "last_updated": [],
     "server_region": "cosmic_fold"
 }
