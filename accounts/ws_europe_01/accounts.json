@@ -3930,7 +3930,7 @@
             "equipping_title": "1_3_2_1",
             "gender": 0,
             "hp": 1010061.5,
-            "last_seen": 1770133137,
+            "last_seen": [],
             "level": 74,
             "name": "كتكات",
             "name_history": [
@@ -4858,7 +4858,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 53927.0,
-            "last_seen": 1764091866,
+            "last_seen": [],
             "level": 16,
             "name": "YumeAtaraxia",
             "name_history": [
@@ -7010,6 +7010,13 @@
             ],
             "registered": "Nov 25, 2025, 5:14:12 PM",
             "role_id": 38174111708485151,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708485152": {
+            "last_seen": [],
+            "name": "Telafilu",
+            "registered": "Nov 25, 2025, 5:14:12 PM",
+            "role_id": 38174111708485152,
             "server_region": "ws_europe_01"
         },
         "38174111708485209": {
@@ -11529,6 +11536,13 @@
             "role_id": 38174111708505723,
             "server_region": "ws_europe_01"
         },
+        "38174111708505869": {
+            "last_seen": [],
+            "name": "EvaGrin",
+            "registered": "Dec 6, 2025, 2:35:34 PM",
+            "role_id": 38174111708505869,
+            "server_region": "ws_europe_01"
+        },
         "38174111708505902": {
             "crew_id": 0,
             "crew_name": "",
@@ -13485,6 +13499,13 @@
             "role_id": 38174111708523889,
             "server_region": "ws_europe_01"
         },
+        "38174111708523911": {
+            "last_seen": [],
+            "name": "vasd4",
+            "registered": "Jan 30, 2026, 12:08:16 AM",
+            "role_id": 38174111708523911,
+            "server_region": "ws_europe_01"
+        },
         "38174111708524086": {
             "crew_id": 115973005095,
             "crew_name": "Arcana",
@@ -13587,7 +13608,7 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 856,
+    "accounts_total": 859,
     "last_updated": [],
     "server_region": "ws_europe_01"
 }
