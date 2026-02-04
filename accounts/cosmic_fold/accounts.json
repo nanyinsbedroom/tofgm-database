@@ -663,8 +663,8 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_8_0_9",
             "gender": 0,
-            "hp": 1200588.0,
-            "last_seen": 1770159783,
+            "hp": 1215948.0,
+            "last_seen": [],
             "level": 81,
             "name": "Remmy",
             "name_history": [
@@ -18356,9 +18356,9 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 1194672.875,
-            "last_seen": 1766962699,
-            "level": 77,
+            "hp": 1431786.5,
+            "last_seen": [],
+            "level": 81,
             "name": "珠泪哀歌",
             "name_history": [
                 "珠泪哀歌"
@@ -24032,7 +24032,7 @@
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;3",
             "gender": 1,
             "hp": 1371401.375,
-            "last_seen": 1770159719,
+            "last_seen": [],
             "level": 81,
             "name": "莫妮卡",
             "name_history": [
@@ -34249,11 +34249,11 @@
         "63582695895087": {
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;55",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;94",
             "gender": 0,
-            "hp": 1324043.375,
-            "last_seen": 1769554760,
-            "level": 80,
+            "hp": 1390666.0,
+            "last_seen": [],
+            "level": 81,
             "name": "33078",
             "name_history": [
                 "33078"
@@ -37777,9 +37777,9 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1376394.875,
-            "last_seen": 1769624320,
-            "level": 80,
+            "hp": 1421891.125,
+            "last_seen": [],
+            "level": 81,
             "name": "Toveovo",
             "name_history": [
                 "Toveovo"
@@ -38420,7 +38420,7 @@
             "equipping_title": "2_2_0_84",
             "gender": 1,
             "hp": 1375113.625,
-            "last_seen": 1770160749,
+            "last_seen": [],
             "level": 81,
             "name": "果汁橙",
             "name_history": [
@@ -41078,6 +41078,22 @@
             "name": "真的不是月",
             "registered": "2025年10月11日 下午2:30:38",
             "role_id": 63582695923508,
+            "server_region": "cosmic_fold"
+        },
+        "63582695923551": {
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "2_10_1_12",
+            "gender": 1,
+            "hp": 997528.625,
+            "last_seen": [],
+            "level": 79,
+            "name": "巳",
+            "name_history": [
+                "巳"
+            ],
+            "registered": "2025年10月11日 下午3:17:22",
+            "role_id": 63582695923551,
             "server_region": "cosmic_fold"
         },
         "63582695923562": {
@@ -44354,14 +44370,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695931003": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 176392.40625,
-            "last_seen": 1760772935,
-            "level": 59,
+            "hp": 1133768.0,
+            "last_seen": [],
+            "level": 81,
             "name": "魔法少女米月",
+            "name_history": [
+                "魔法少女米月"
+            ],
             "registered": "2025年10月16日 下午11:10:18",
             "role_id": 63582695931003,
             "server_region": "cosmic_fold"
@@ -44383,13 +44402,13 @@
             "server_region": "cosmic_fold"
         },
         "63582695931062": {
-            "crew_id": 30064785876,
-            "crew_name": "魔女之旅",
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 688573.1875,
-            "last_seen": 1766965401,
-            "level": 75,
+            "hp": 1122905.25,
+            "last_seen": [],
+            "level": 81,
             "name": "魔法少女米玥",
             "name_history": [
                 "魔法少女米玥"
@@ -51020,9 +51039,9 @@
             "crew_name": "可爱",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 792536.9375,
-            "last_seen": 1769555240,
-            "level": 78,
+            "hp": 806650.1875,
+            "last_seen": [],
+            "level": 81,
             "name": "Faker.",
             "name_history": [
                 "Faker."
@@ -51669,6 +51688,22 @@
             ],
             "registered": "2025年12月26日 下午3:29:22",
             "role_id": 63582695982095,
+            "server_region": "cosmic_fold"
+        },
+        "63582695982182": {
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1200087.0,
+            "last_seen": [],
+            "level": 81,
+            "name": "风影凌云",
+            "name_history": [
+                "风影凌云"
+            ],
+            "registered": "2025年12月27日 上午4:20:20",
+            "role_id": 63582695982182,
             "server_region": "cosmic_fold"
         },
         "63582695982344": {
@@ -56344,7 +56379,7 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4422,
+    "accounts_total": 4424,
     "last_updated": [],
     "server_region": "cosmic_fold"
 }
