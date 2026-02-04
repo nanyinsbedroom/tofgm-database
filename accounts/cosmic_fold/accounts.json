@@ -5292,12 +5292,18 @@
         "63582695852563": {
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "last_seen": 1758803931,
+            "hp": 334001.59375,
+            "last_seen": [],
+            "level": 73,
             "name": "豚喵",
+            "name_history": [
+                "豚喵"
+            ],
             "registered": "2025年9月25日 下午6:30:31",
             "role_id": 63582695852563,
-            "server_region": "unknown"
+            "server_region": "cosmic_fold"
         },
         "63582695852573": {
             "crew_id": 55834589652,
@@ -54550,8 +54556,8 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 120127.796875,
-            "last_seen": 1770253287,
+            "hp": 159958.609375,
+            "last_seen": [],
             "level": 50,
             "name": "小昭打不过",
             "name_history": [
@@ -56307,6 +56313,6 @@
         }
     },
     "accounts_total": 4420,
-    "last_updated": 1770253330,
+    "last_updated": [],
     "server_region": "cosmic_fold"
 }
