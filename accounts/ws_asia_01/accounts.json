@@ -1142,7 +1142,7 @@
             "equipping_title": "2_2_0_41",
             "gender": 1,
             "hp": 975050.375,
-            "last_seen": 1769211634,
+            "last_seen": [],
             "level": 72,
             "name": "Neko♡",
             "name_history": [
@@ -56331,7 +56331,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 578664.75,
-            "last_seen": 1766785856,
+            "last_seen": [],
             "level": 65,
             "name": "Lindwurm",
             "name_history": [
@@ -82071,6 +82071,13 @@
             "role_id": 38174103118608510,
             "server_region": "ws_asia_01"
         },
+        "38174103118608594": {
+            "last_seen": [],
+            "name": "tower2",
+            "registered": "Jan 3, 2026, 6:47:57 AM",
+            "role_id": 38174103118608594,
+            "server_region": "ws_asia_01"
+        },
         "38174103118608623": {
             "crew_id": 0,
             "crew_name": "",
@@ -83174,9 +83181,16 @@
             "registered": "Feb 2, 2026, 6:39:59 PM",
             "role_id": 38174103118612126,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612159": {
+            "last_seen": [],
+            "name": "yulimia",
+            "registered": "Feb 3, 2026, 1:47:57 AM",
+            "role_id": 38174103118612159,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5198,
+    "accounts_total": 5200,
     "last_updated": [],
     "server_region": "ws_asia_01"
 }
