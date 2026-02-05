@@ -5173,9 +5173,15 @@
         "55886114464975": {
             "crew_id": 3401614111442,
             "crew_name": "Elysium",
+            "equipping_title": "Title_iwplay33_os06",
             "gender": 1,
-            "last_seen": 1754340749,
+            "hp": 1630457.25,
+            "last_seen": "Feb 5, 2026, 7:48:31 PM",
+            "level": 100,
             "name": "Asa Akira.",
+            "name_history": [
+                "Asa Akira."
+            ],
             "registered": "Aug 11, 2022, 2:46:30 AM",
             "role_id": 55886114464975,
             "server_region": "europe"
@@ -16265,6 +16271,38 @@
             "role_id": 55963424761270,
             "server_region": "europe"
         },
+        "55963424761303": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1662.6259765625,
+            "last_seen": "Feb 5, 2026, 7:48:31 PM",
+            "level": 5,
+            "name": "Весняшка",
+            "name_history": [
+                "Весняшка"
+            ],
+            "registered": "Feb 5, 2026, 7:18:41 PM",
+            "role_id": 55963424761303,
+            "server_region": "europe"
+        },
+        "55963424761305": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 907.31298828125,
+            "last_seen": "Feb 5, 2026, 7:48:31 PM",
+            "level": 2,
+            "name": "Cristinarosa16",
+            "name_history": [
+                "Cristinarosa16"
+            ],
+            "registered": "Feb 5, 2026, 7:22:08 PM",
+            "role_id": 55963424761305,
+            "server_region": "europe"
+        },
         "55967718837209": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -16955,7 +16993,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1226,
-    "last_updated": "Feb 5, 2026, 7:47:31 PM",
+    "accounts_total": 1228,
+    "last_updated": "Feb 5, 2026, 7:48:31 PM",
     "server_region": "europe"
 }
