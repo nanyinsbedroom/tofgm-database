@@ -17,10 +17,10 @@
         50,
         58,
         52,
-        52,
+        55,
         58,
-        51,
-        56
+        52,
+        49
     ],
     "regions": {
         "ark_calculus": {
@@ -61,8 +61,29 @@
             "total_accounts": 1216
         },
         "future_humanity": {
-            "last_update": 1769851586,
-            "total_accounts": 373
+            "last_updated": [
+                50,
+                48,
+                50,
+                54,
+                24180,
+                50,
+                26376,
+                54,
+                26085,
+                32,
+                19978,
+                21320,
+                49,
+                50,
+                58,
+                52,
+                55,
+                58,
+                52,
+                49
+            ],
+            "total_accounts": 377
         },
         "korea": {
             "last_update": 1769449441,
@@ -167,5 +188,5 @@
             "total_accounts": 874
         }
     },
-    "total_accounts": 22532
+    "total_accounts": 22536
 }
