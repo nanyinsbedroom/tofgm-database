@@ -23475,13 +23475,13 @@
             "server_region": "ws_asia_01"
         },
         "38174103118556335": {
-            "crew_id": 180397514533,
-            "crew_name": "StarsUs",
-            "equipping_title": "1_6_2_2",
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "2_2_0_62",
             "gender": 1,
-            "hp": 579099.75,
-            "last_seen": 1766786637,
-            "level": 64,
+            "hp": 995325.3125,
+            "last_seen": [],
+            "level": 74,
             "name": "MyunHwarin",
             "name_history": [
                 "MyunHwarin"
@@ -34843,9 +34843,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 688661.9375,
-            "last_seen": 1769978148,
-            "level": 73,
+            "hp": 743274.375,
+            "last_seen": [],
+            "level": 74,
             "name": "ダイヤ☆☆",
             "name_history": [
                 "ダイヤ☆☆"
@@ -82167,11 +82167,52 @@
             "role_id": 38174103118608510,
             "server_region": "ws_asia_01"
         },
-        "38174103118608594": {
+        "38174103118608592": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 293247.8125,
             "last_seen": [],
+            "level": 74,
+            "name": "tower1",
+            "name_history": [
+                "tower1"
+            ],
+            "registered": "Jan 3, 2026, 6:05:18 AM",
+            "role_id": 38174103118608592,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118608594": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 184903.59375,
+            "last_seen": [],
+            "level": 73,
             "name": "tower2",
+            "name_history": [
+                "tower2"
+            ],
             "registered": "Jan 3, 2026, 6:47:57 AM",
             "role_id": 38174103118608594,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118608596": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 179786.0,
+            "last_seen": [],
+            "level": 72,
+            "name": "tower3",
+            "name_history": [
+                "tower3"
+            ],
+            "registered": "Jan 3, 2026, 7:04:06 AM",
+            "role_id": 38174103118608596,
             "server_region": "ws_asia_01"
         },
         "38174103118608623": {
@@ -82577,11 +82618,11 @@
         "38174103118610250": {
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
-            "equipping_title": "WorldBossDamage_4;boss_hum_052_world;52",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 285550.1875,
-            "last_seen": 1769978325,
-            "level": 73,
+            "hp": 288910.1875,
+            "last_seen": [],
+            "level": 74,
             "name": "su824360",
             "name_history": [
                 "su824360"
@@ -82755,9 +82796,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 405972.0,
-            "last_seen": 1769998382,
-            "level": 69,
+            "hp": 472220.8125,
+            "last_seen": [],
+            "level": 71,
             "name": "evシンカ　　",
             "name_history": [
                 "evシンカ　　"
@@ -83251,9 +83292,9 @@
             "crew_name": "แอสทร่า",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 143766.0,
-            "last_seen": 1769978018,
-            "level": 61,
+            "hp": 163431.0,
+            "last_seen": [],
+            "level": 72,
             "name": "紅蓮  咲",
             "name_history": [
                 "紅蓮  咲"
@@ -83403,9 +83444,25 @@
             "registered": "Feb 5, 2026, 8:21:13 AM",
             "role_id": 38174103118612296,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612314": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 31735.0,
+            "last_seen": [],
+            "level": 5,
+            "name": "butzeins",
+            "name_history": [
+                "butzeins"
+            ],
+            "registered": "Feb 5, 2026, 10:55:15 AM",
+            "role_id": 38174103118612314,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5215,
+    "accounts_total": 5218,
     "last_updated": [],
     "server_region": "ws_asia_01"
 }
