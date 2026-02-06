@@ -33925,12 +33925,15 @@
         "63582695891178": {
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_036_world;15",
             "gender": 0,
-            "hp": 515566.625,
-            "last_seen": 1760450289,
-            "level": 59,
+            "hp": 1414834.875,
+            "last_seen": "2026年2月6日 下午11:56:39",
+            "level": 82,
             "name": "。。。.",
+            "name_history": [
+                "。。。."
+            ],
             "registered": "2025年9月30日 下午1:05:43",
             "role_id": 63582695891178,
             "server_region": "cosmic_fold"
@@ -53407,8 +53410,8 @@
             "crew_name": "梦想夏乡",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 128148.796875,
-            "last_seen": "2026年2月6日 下午11:44:45",
+            "hp": 96199.953125,
+            "last_seen": "2026年2月6日 下午11:56:39",
             "level": 53,
             "name": "陨白",
             "name_history": [
@@ -53647,8 +53650,8 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 117228.6796875,
-            "last_seen": "2026年2月6日 下午11:44:45",
+            "hp": 111497.8359375,
+            "last_seen": "2026年2月6日 下午11:56:39",
             "level": 51,
             "name": "小岛焓云",
             "name_history": [
@@ -56233,6 +56236,22 @@
             "role_id": 63582695997810,
             "server_region": "cosmic_fold"
         },
+        "63582695997839": {
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 267516.40625,
+            "last_seen": "2026年2月6日 下午11:56:39",
+            "level": 65,
+            "name": "繁花一梦",
+            "name_history": [
+                "繁花一梦"
+            ],
+            "registered": "2026年1月28日 下午9:43:45",
+            "role_id": 63582695997839,
+            "server_region": "cosmic_fold"
+        },
         "63582695998259": {
             "crew_id": 0,
             "crew_name": "",
@@ -58222,6 +58241,22 @@
             "role_id": 63582696002150,
             "server_region": "cosmic_fold"
         },
+        "63582696002153": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42300.0,
+            "last_seen": "2026年2月6日 下午11:56:39",
+            "level": 12,
+            "name": "qween",
+            "name_history": [
+                "qween"
+            ],
+            "registered": "2026年2月3日 下午10:30:51",
+            "role_id": 63582696002153,
+            "server_region": "cosmic_fold"
+        },
         "63582696002155": {
             "crew_id": 0,
             "crew_name": "",
@@ -59220,9 +59255,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
-            "last_seen": "2026年2月6日 下午11:44:45",
-            "level": 1,
+            "hp": 10656.0,
+            "last_seen": "2026年2月6日 下午11:56:39",
+            "level": 4,
             "name": "不岛甜蜜",
             "name_history": [
                 "不岛甜蜜"
@@ -59232,7 +59267,7 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4519,
-    "last_updated": "2026年2月6日 下午11:55:38",
+    "accounts_total": 4521,
+    "last_updated": "2026年2月6日 下午11:56:39",
     "server_region": "cosmic_fold"
 }
