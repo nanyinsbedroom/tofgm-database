@@ -53,8 +53,8 @@
             "crew_name": "Wonderland",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1000102.0,
-            "last_seen": "Feb 5, 2026, 8:06:13 PM",
+            "hp": 1025647.125,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
             "level": 74,
             "name": "Alice",
             "name_history": [
@@ -195,11 +195,11 @@
         "38174111708479531": {
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 571842.375,
-            "last_seen": 1766441762,
-            "level": 63,
+            "hp": 1039022.5,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
+            "level": 74,
             "name": "Love",
             "name_history": [
                 "Love"
@@ -6058,7 +6058,7 @@
             "equipping_title": "1_4_6_4",
             "gender": 0,
             "hp": 1065663.75,
-            "last_seen": "Feb 7, 2026, 7:58:58 PM",
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
             "level": 74,
             "name": "PM For Heal",
             "name_history": [
@@ -7947,6 +7947,22 @@
             "role_id": 38174111708486101,
             "server_region": "ws_europe_01"
         },
+        "38174111708486112": {
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_2_0_44",
+            "gender": 0,
+            "hp": 844426.8125,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
+            "level": 73,
+            "name": "Yevon",
+            "name_history": [
+                "Yevon"
+            ],
+            "registered": "Nov 25, 2025, 6:43:22 PM",
+            "role_id": 38174111708486112,
+            "server_region": "ws_europe_01"
+        },
         "38174111708486159": {
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
@@ -8128,6 +8144,22 @@
             ],
             "registered": "Nov 25, 2025, 7:04:34 PM",
             "role_id": 38174111708486312,
+            "server_region": "ws_europe_01"
+        },
+        "38174111708486350": {
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "TinYin's Apprentice,0",
+            "gender": 1,
+            "hp": 990494.125,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
+            "level": 74,
+            "name": "Plüschi",
+            "name_history": [
+                "Plüschi"
+            ],
+            "registered": "Nov 25, 2025, 7:07:48 PM",
+            "role_id": 38174111708486350,
             "server_region": "ws_europe_01"
         },
         "38174111708486355": {
@@ -9383,8 +9415,8 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_44",
             "gender": 0,
-            "hp": 928980.375,
-            "last_seen": "Feb 7, 2026, 7:58:58 PM",
+            "hp": 928784.75,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
             "level": 74,
             "name": "Yuppe",
             "name_history": [
@@ -11086,8 +11118,8 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 1040382.75,
-            "last_seen": "Feb 7, 2026, 7:58:07 PM",
+            "hp": 1000455.8125,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
             "level": 74,
             "name": "Sarah",
             "name_history": [
@@ -11592,7 +11624,7 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1034582.875,
-            "last_seen": "Feb 7, 2026, 8:11:03 PM",
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
             "level": 74,
             "name": "Zanta",
             "name_history": [
@@ -13400,8 +13432,17 @@
             "server_region": "ws_europe_01"
         },
         "38174111708518683": {
-            "last_seen": [],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 659422.375,
+            "last_seen": "Feb 7, 2026, 10:55:03 PM",
+            "level": 70,
             "name": "KiraTeran",
+            "name_history": [
+                "KiraTeran"
+            ],
             "registered": "Dec 28, 2025, 11:13:34 PM",
             "role_id": 38174111708518683,
             "server_region": "ws_europe_01"
@@ -14876,7 +14917,7 @@
             "server_region": "ws_europe_01"
         }
     },
-    "accounts_total": 946,
-    "last_updated": "Feb 7, 2026, 10:54:03 PM",
+    "accounts_total": 948,
+    "last_updated": "Feb 7, 2026, 10:55:03 PM",
     "server_region": "ws_europe_01"
 }
