@@ -27694,9 +27694,9 @@
             "crew_name": "紫微星垣",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1377086.75,
-            "last_seen": 1770072642,
-            "level": 81,
+            "hp": 1445587.0,
+            "last_seen": "2026年2月7日 下午4:57:36",
+            "level": 82,
             "name": "柚歌",
             "name_history": [
                 "柚歌"
@@ -33678,11 +33678,11 @@
         "63582695890693": {
             "crew_id": 128849033684,
             "crew_name": "月歌行",
-            "equipping_title": "2_2_0_63",
+            "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1331679.0,
-            "last_seen": 1769624320,
-            "level": 80,
+            "hp": 1420585.375,
+            "last_seen": "2026年2月7日 下午4:57:36",
+            "level": 82,
             "name": "林鹿",
             "name_history": [
                 "林鹿"
@@ -59394,6 +59394,22 @@
             "role_id": 63582696004448,
             "server_region": "cosmic_fold"
         },
+        "63582696004465": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48977.0,
+            "last_seen": "2026年2月7日 下午4:57:36",
+            "level": 15,
+            "name": "我是L",
+            "name_history": [
+                "我是L"
+            ],
+            "registered": "2026年2月7日 下午12:59:46",
+            "role_id": 63582696004465,
+            "server_region": "cosmic_fold"
+        },
         "63582696004493": {
             "crew_id": 0,
             "crew_name": "",
@@ -59555,7 +59571,7 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4555,
-    "last_updated": "2026年2月7日 下午4:55:36",
+    "accounts_total": 4556,
+    "last_updated": "2026年2月7日 下午4:57:36",
     "server_region": "cosmic_fold"
 }
