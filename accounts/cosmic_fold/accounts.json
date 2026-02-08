@@ -29777,14 +29777,17 @@
             "server_region": "cosmic_fold"
         },
         "63582695877543": {
-            "crew_id": 85899360724,
-            "crew_name": "樱花庄",
-            "equipping_title": "None",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 267318.375,
-            "last_seen": 1760552211,
-            "level": 59,
+            "hp": 1347475.0,
+            "last_seen": "2026年2月8日 下午8:31:26",
+            "level": 82,
             "name": "卟卟",
+            "name_history": [
+                "卟卟"
+            ],
             "registered": "2025年9月27日 下午1:48:43",
             "role_id": 63582695877543,
             "server_region": "cosmic_fold"
@@ -53229,6 +53232,22 @@
             "role_id": 63582695981635,
             "server_region": "cosmic_fold"
         },
+        "63582695981703": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 204371.0,
+            "last_seen": "2026年2月8日 下午8:31:26",
+            "level": 80,
+            "name": "Nick-Aloo",
+            "name_history": [
+                "Nick-Aloo"
+            ],
+            "registered": "2025年12月23日 下午8:33:53",
+            "role_id": 63582695981703,
+            "server_region": "cosmic_fold"
+        },
         "63582695981747": {
             "crew_id": 1099511642580,
             "crew_name": "百合姬",
@@ -55387,6 +55406,22 @@
             ],
             "registered": "2026年1月24日 下午8:26:53",
             "role_id": 63582695995215,
+            "server_region": "cosmic_fold"
+        },
+        "63582695995244": {
+            "crew_id": 25769818580,
+            "crew_name": "暖暖会",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 218874.828125,
+            "last_seen": "2026年2月8日 下午8:31:26",
+            "level": 70,
+            "name": "厄歌莉娅的恶魔",
+            "name_history": [
+                "厄歌莉娅的恶魔"
+            ],
+            "registered": "2026年1月24日 下午8:50:22",
+            "role_id": 63582695995244,
             "server_region": "cosmic_fold"
         },
         "63582695995374": {
@@ -59986,6 +60021,22 @@
             "role_id": 63582696004825,
             "server_region": "cosmic_fold"
         },
+        "63582696005073": {
+            "crew_id": 3208340584916,
+            "crew_name": "莹箍棒",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 89767.0859375,
+            "last_seen": "2026年2月8日 下午8:31:26",
+            "level": 35,
+            "name": "天空属于GTI",
+            "name_history": [
+                "天空属于GTI"
+            ],
+            "registered": "2026年2月8日 上午9:40:10",
+            "role_id": 63582696005073,
+            "server_region": "cosmic_fold"
+        },
         "63582696005141": {
             "crew_id": 0,
             "crew_name": "",
@@ -60035,7 +60086,7 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4585,
-    "last_updated": "2026年2月8日 下午8:30:26",
+    "accounts_total": 4588,
+    "last_updated": "2026年2月8日 下午8:31:26",
     "server_region": "cosmic_fold"
 }
