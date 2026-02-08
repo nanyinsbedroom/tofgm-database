@@ -27756,7 +27756,7 @@
             "equipping_title": "2_8_0_8",
             "gender": 1,
             "hp": 899529.3125,
-            "last_seen": [],
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
             "level": 74,
             "name": "まほろば",
             "name_history": [
@@ -38684,9 +38684,9 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 908536.5,
-            "last_seen": [],
-            "level": 72,
+            "hp": 1068627.125,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 74,
             "name": "むぎちょこ",
             "name_history": [
                 "むぎちょこ"
@@ -52877,11 +52877,11 @@
         "38174103118571706": {
             "crew_id": 68728364837,
             "crew_name": "StarDust Saints",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_083_world;29",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 952783.625,
-            "last_seen": 1769998750,
-            "level": 73,
+            "hp": 999015.3125,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 74,
             "name": "Autumnrust ",
             "name_history": [
                 "Autumnrust "
@@ -54191,9 +54191,9 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 456220.9375,
-            "last_seen": 1769211694,
-            "level": 71,
+            "hp": 549236.3125,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 73,
             "name": "ちょこりん",
             "name_history": [
                 "ちょこりん"
@@ -59803,6 +59803,22 @@
             ],
             "registered": "Nov 28, 2025, 12:57:16 AM",
             "role_id": 38174103118578951,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118578956": {
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 329883.4375,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 72,
+            "name": "Silverwing",
+            "name_history": [
+                "Silverwing"
+            ],
+            "registered": "Nov 28, 2025, 12:59:15 AM",
+            "role_id": 38174103118578956,
             "server_region": "ws_asia_01"
         },
         "38174103118578972": {
@@ -82353,8 +82369,8 @@
             "crew_name": "りんごあめ",
             "equipping_title": "まほろば's Apprentice,0",
             "gender": 1,
-            "hp": 636864.5,
-            "last_seen": [],
+            "hp": 640820.5,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
             "level": 72,
             "name": "ことのは",
             "name_history": [
@@ -83679,11 +83695,11 @@
         "38174103118612122": {
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 20763.0,
-            "last_seen": 1770057464,
-            "level": 4,
+            "hp": 232094.1875,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 53,
             "name": "Ray C",
             "name_history": [
                 "Ray C"
@@ -83897,9 +83913,25 @@
             "registered": "Feb 7, 2026, 10:32:52 AM",
             "role_id": 38174103118612471,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612607": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_seen": "Feb 8, 2026, 7:11:03 PM",
+            "level": 4,
+            "name": "YaSy",
+            "name_history": [
+                "YaSy"
+            ],
+            "registered": "Feb 8, 2026, 6:59:49 PM",
+            "role_id": 38174103118612607,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5245,
-    "last_updated": "Feb 8, 2026, 7:08:01 PM",
+    "accounts_total": 5247,
+    "last_updated": "Feb 8, 2026, 7:11:03 PM",
     "server_region": "ws_asia_01"
 }
