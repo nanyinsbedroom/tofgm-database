@@ -746,11 +746,11 @@
         "38174111708479749": {
             "crew_id": 115973005095,
             "crew_name": "Arcana",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 930779.625,
-            "last_seen": 1769287534,
-            "level": 72,
+            "hp": 1089136.5,
+            "last_seen": "Feb 8, 2026, 9:50:59 PM",
+            "level": 74,
             "name": "Erwyn",
             "name_history": [
                 "Erwyn"
@@ -3144,8 +3144,18 @@
             "server_region": "ws_europe_01"
         },
         "38174111708481157": {
-            "last_seen": 1770132709,
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "2_7_0_12",
+            "gender": 1,
+            "hp": 1048580.25,
+            "last_seen": "Feb 8, 2026, 9:50:59 PM",
+            "level": 74,
             "name": "Kurxoo",
+            "name_history": [
+                "Kurxoo"
+            ],
+            "registered": "Nov 25, 2025, 10:22:31 AM",
             "role_id": 38174111708481157,
             "server_region": "ws_europe_01"
         },
@@ -15727,6 +15737,6 @@
         }
     },
     "accounts_total": 998,
-    "last_updated": "Feb 8, 2026, 9:50:00 PM",
+    "last_updated": "Feb 8, 2026, 9:50:59 PM",
     "server_region": "ws_europe_01"
 }
