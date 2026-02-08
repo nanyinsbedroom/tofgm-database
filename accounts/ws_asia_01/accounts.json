@@ -18009,7 +18009,7 @@
             "equipping_title": "2_7_0_12",
             "gender": 1,
             "hp": 1033587.9375,
-            "last_seen": [],
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
             "level": 74,
             "name": "Kumaxion",
             "name_history": [
@@ -21928,8 +21928,8 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_10_0_6",
             "gender": 0,
-            "hp": 1046181.3125,
-            "last_seen": [],
+            "hp": 1073672.75,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
             "level": 74,
             "name": "えりぃと",
             "name_history": [
@@ -59474,9 +59474,9 @@
             "crew_name": "Library",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 715725.5625,
-            "last_seen": 1769212598,
-            "level": 72,
+            "hp": 948044.875,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
+            "level": 74,
             "name": "Naye",
             "name_history": [
                 "Naye"
@@ -70848,14 +70848,15 @@
         "38174103118588927": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;88",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 576169.0,
-            "last_seen": 1766506729,
-            "level": 63,
-            "name": "kisaragi4913",
+            "hp": 935566.5,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
+            "level": 74,
+            "name": "如月 時雨",
             "name_history": [
-                "kisaragi4913"
+                "kisaragi4913",
+                "如月 時雨"
             ],
             "registered": "Dec 2, 2025, 12:57:09 AM",
             "role_id": 38174103118588927,
@@ -80593,8 +80594,8 @@
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1060085.375,
-            "last_seen": "Feb 8, 2026, 7:07:02 PM",
+            "hp": 1019312.9375,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
             "level": 74,
             "name": "むぎりん",
             "name_history": [
@@ -83052,6 +83053,22 @@
             "role_id": 38174103118610534,
             "server_region": "ws_asia_01"
         },
+        "38174103118610536": {
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 303350.40625,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
+            "level": 61,
+            "name": "狐きつね",
+            "name_history": [
+                "狐きつね"
+            ],
+            "registered": "Jan 17, 2026, 11:10:45 PM",
+            "role_id": 38174103118610536,
+            "server_region": "ws_asia_01"
+        },
         "38174103118610591": {
             "crew_id": 0,
             "crew_name": "",
@@ -83930,6 +83947,38 @@
             "role_id": 38174103118612471,
             "server_region": "ws_asia_01"
         },
+        "38174103118612562": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 81962.0,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
+            "level": 23,
+            "name": "Arthas85",
+            "name_history": [
+                "Arthas85"
+            ],
+            "registered": "Feb 8, 2026, 9:59:44 AM",
+            "role_id": 38174103118612562,
+            "server_region": "ws_asia_01"
+        },
+        "38174103118612579": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 65770.0,
+            "last_seen": "Feb 8, 2026, 5:19:21 PM",
+            "level": 20,
+            "name": "HRTK",
+            "name_history": [
+                "HRTK"
+            ],
+            "registered": "Feb 8, 2026, 1:17:57 PM",
+            "role_id": 38174103118612579,
+            "server_region": "ws_asia_01"
+        },
         "38174103118612607": {
             "crew_id": 0,
             "crew_name": "",
@@ -83947,7 +83996,7 @@
             "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5248,
-    "last_updated": "Feb 8, 2026, 7:17:17 PM",
+    "accounts_total": 5251,
+    "last_updated": "Feb 8, 2026, 5:19:21 PM",
     "server_region": "ws_asia_01"
 }
