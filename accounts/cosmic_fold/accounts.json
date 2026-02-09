@@ -753,7 +753,7 @@
             "equipping_title": "2_2_0_44",
             "gender": 1,
             "hp": 1396507.0,
-            "last_seen": "2026年2月9日 下午8:40:03",
+            "last_seen": "2026年2月10日 上午1:07:55",
             "level": 82,
             "name": "爱丽丝·利德尔",
             "name_history": [
@@ -4642,13 +4642,16 @@
         },
         "63582695852159": {
             "crew_id": 146028902868,
-            "crew_name": "146028902868",
-            "equipping_title": "None",
+            "crew_name": "NOVA学院",
+            "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 632986.375,
-            "last_seen": 1761573298,
-            "level": 65,
+            "hp": 1547920.0,
+            "last_seen": "2026年2月10日 上午1:07:55",
+            "level": 82,
             "name": "昭昭如愿",
+            "name_history": [
+                "昭昭如愿"
+            ],
             "registered": "2025年9月25日 下午6:25:14",
             "role_id": 63582695852159,
             "server_region": "cosmic_fold"
@@ -7490,12 +7493,15 @@
         "63582695853871": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_2_0_19",
+            "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 724518.3125,
-            "last_seen": 1761552082,
-            "level": 65,
+            "hp": 1571101.375,
+            "last_seen": "2026年2月10日 上午1:07:55",
+            "level": 82,
             "name": "萌萌爱",
+            "name_history": [
+                "萌萌爱"
+            ],
             "registered": "2025年9月25日 下午6:50:35",
             "role_id": 63582695853871,
             "server_region": "cosmic_fold"
@@ -25197,10 +25203,10 @@
         "63582695869195": {
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_43",
             "gender": 1,
-            "hp": 1437344.25,
-            "last_seen": "2026年2月9日 下午8:40:03",
+            "hp": 1406503.75,
+            "last_seen": "2026年2月10日 上午1:07:55",
             "level": 82,
             "name": "风雨一人",
             "name_history": [
@@ -47227,6 +47233,22 @@
             "role_id": 63582695935626,
             "server_region": "cosmic_fold"
         },
+        "63582695935794": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "WorldBossDamage_2;boss_hum_045_world;8",
+            "gender": 1,
+            "hp": 1309161.75,
+            "last_seen": "2026年2月10日 上午1:07:55",
+            "level": 82,
+            "name": "鵼",
+            "name_history": [
+                "鵼"
+            ],
+            "registered": "2025年10月19日 下午5:06:43",
+            "role_id": 63582695935794,
+            "server_region": "cosmic_fold"
+        },
         "63582695936064": {
             "crew_id": 0,
             "crew_name": "",
@@ -48491,7 +48513,7 @@
             "equipping_title": "4_2025",
             "gender": 1,
             "hp": 717566.25,
-            "last_seen": "2026年2月9日 下午7:39:34",
+            "last_seen": "2026年2月10日 上午1:07:55",
             "level": 74,
             "name": "蓥",
             "name_history": [
@@ -62068,6 +62090,22 @@
             "role_id": 63582696005903,
             "server_region": "cosmic_fold"
         },
+        "63582696005977": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39065.0,
+            "last_seen": "2026年2月10日 上午1:07:55",
+            "level": 10,
+            "name": "开拓令使·阿哈",
+            "name_history": [
+                "开拓令使·阿哈"
+            ],
+            "registered": "2026年2月9日 下午2:02:36",
+            "role_id": 63582696005977,
+            "server_region": "cosmic_fold"
+        },
         "63582696006069": {
             "crew_id": 0,
             "crew_name": "",
@@ -62165,7 +62203,7 @@
             "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4719,
-    "last_updated": "2026年2月10日 上午1:02:54",
+    "accounts_total": 4721,
+    "last_updated": "2026年2月10日 上午1:07:55",
     "server_region": "cosmic_fold"
 }
