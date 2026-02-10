@@ -15204,9 +15204,9 @@
             "crew_name": "紫微星垣",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1361578.25,
-            "last_seen": 1769897673,
-            "level": 81,
+            "hp": 1442970.0,
+            "last_seen": "2026年2月10日 下午10:30:08",
+            "level": 82,
             "name": "画笔断墨",
             "name_history": [
                 "画笔断墨"
@@ -57061,6 +57061,22 @@
             "role_id": 63582695994528,
             "server_region": "cosmic_fold"
         },
+        "63582695994530": {
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 345408.0,
+            "last_seen": "2026年2月10日 下午10:30:08",
+            "level": 73,
+            "name": "一剑霜寒十四州",
+            "name_history": [
+                "一剑霜寒十四州"
+            ],
+            "registered": "2026年1月24日 上午6:52:52",
+            "role_id": 63582695994530,
+            "server_region": "cosmic_fold"
+        },
         "63582695994594": {
             "crew_id": 0,
             "crew_name": "",
@@ -60558,9 +60574,9 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 42300.0,
-            "last_seen": "2026年2月6日 下午11:56:39",
-            "level": 12,
+            "hp": 55007.0,
+            "last_seen": "2026年2月10日 下午10:30:08",
+            "level": 17,
             "name": "qween",
             "name_history": [
                 "qween"
@@ -62649,9 +62665,41 @@
             "registered": "2026年2月10日 下午6:42:37",
             "role_id": 63582696006952,
             "server_region": "cosmic_fold"
+        },
+        "63582696007080": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 45095.0,
+            "last_seen": "2026年2月10日 下午10:30:08",
+            "level": 12,
+            "name": "uh1",
+            "name_history": [
+                "uh1"
+            ],
+            "registered": "2026年2月10日 下午9:41:24",
+            "role_id": 63582696007080,
+            "server_region": "cosmic_fold"
+        },
+        "63582696007093": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_seen": "2026年2月10日 下午10:30:08",
+            "level": 2,
+            "name": "还发黄",
+            "name_history": [
+                "还发黄"
+            ],
+            "registered": "2026年2月10日 下午9:58:16",
+            "role_id": 63582696007093,
+            "server_region": "cosmic_fold"
         }
     },
-    "accounts_total": 4749,
-    "last_updated": "2026年2月10日 下午10:29:07",
+    "accounts_total": 4752,
+    "last_updated": "2026年2月10日 下午10:30:08",
     "server_region": "cosmic_fold"
 }
