@@ -1,101 +1,2381 @@
 {
-    "last_updated": "2026年2月13日 上午12:04:02",
+    "last_updated": "Feb 13, 2026, 3:36:23 AM",
     "regions": {
         "ark_calculus": {
             "display_name": "方舟演算",
             "last_updated": "2026年2月12日 下午6:08:28",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "123.57.0.0/16",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "123.57.217.236",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 470
         },
         "asia_pacific": {
             "display_name": "Asia Pacific",
             "last_updated": "Feb 11, 2026, 9:07:28 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "042",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.133.0.0/19",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "city_name": "Tokyo",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "JPN",
+                    "capital": "Tokyo",
+                    "currency": {
+                        "code": "JPY",
+                        "name": "Japanese Yen",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Japanese",
+                    "language": {
+                        "code": "JA",
+                        "name": "Japanese"
+                    },
+                    "name": "Japan",
+                    "numeric_code": 392,
+                    "population": 123719238,
+                    "tld": "jp",
+                    "total_area": 377915,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Japan"
+                    }
+                },
+                "country_code": "JP",
+                "country_name": "Japan",
+                "district": "Shinjuku City",
+                "domain": "tencent.com",
+                "elevation": 37,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "81",
+                "ip": "43.133.10.120",
+                "is_proxy": false,
+                "isp": "Tencent Cloud Computing (Beijing) Co. Ltd.",
+                "latitude": 35.6895,
+                "longitude": 139.69232,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "JP-13",
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "region_name": "Tokyo",
+                "time_zone": "+09:00",
+                "time_zone_info": {
+                    "abbreviation": "JST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 32400,
+                    "is_dst": false,
+                    "olson": "Asia/Tokyo",
+                    "sunrise": "06:19",
+                    "sunset": "16:33"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "JAXX0085",
+                "weather_station_name": "Tokyo",
+                "zip_code": "100-0000"
+            },
             "total_accounts": 2538
         },
         "cosmic_fold": {
             "display_name": "宇宙折跃",
             "last_updated": "2026年2月10日 下午11:05:14",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "182.92.128.0/18",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "182.92.135.226",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 4791
         },
         "europe": {
             "display_name": "Europe",
             "last_updated": "Feb 11, 2026, 7:58:28 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "069",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.131.32.0/19",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Frankfurt am Main",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Frankfurt am Main"
+                    }
+                },
+                "city_name": "Frankfurt am Main",
+                "continent": {
+                    "code": "EU",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Europe",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Europe"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "DEU",
+                    "capital": "Berlin",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro",
+                        "symbol": "€"
+                    },
+                    "demonym": "Germans",
+                    "language": {
+                        "code": "DE",
+                        "name": "German"
+                    },
+                    "name": "Germany",
+                    "numeric_code": 276,
+                    "population": 84220184,
+                    "tld": "de",
+                    "total_area": 357022,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Germany"
+                    }
+                },
+                "country_code": "DE",
+                "country_name": "Germany",
+                "district": "Regierungsbezirk Darmstadt",
+                "domain": "tencent.com",
+                "elevation": 97,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "49",
+                "ip": "43.131.36.29",
+                "is_proxy": false,
+                "isp": "Aceville Pte.Ltd.",
+                "latitude": 50.11088,
+                "longitude": 8.682,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "DE-HE",
+                    "name": "Hessen",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Hessen"
+                    }
+                },
+                "region_name": "Hessen",
+                "time_zone": "+01:00",
+                "time_zone_info": {
+                    "abbreviation": "CET",
+                    "dst_end_date": "2025-10-26",
+                    "dst_start_date": "2025-03-30",
+                    "gmt_offset": 3600,
+                    "is_dst": false,
+                    "olson": "Europe/Berlin",
+                    "sunrise": "07:43",
+                    "sunset": "16:37"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "GMXX0040",
+                "weather_station_name": "Frankfurt/Main",
+                "zip_code": "65931"
+            },
             "total_accounts": 1307
         },
         "future_humanity": {
             "display_name": "未来人类",
             "last_updated": "2026年2月6日 上午1:05:46",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "59.110.0.0/17",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "59.110.113.76",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 391
         },
         "korea": {
             "display_name": "Korea",
             "last_updated": "Feb 10, 2026, 10:46:03 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "02",
+                "as": "Alibaba (US) Technology Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "8.213.128.0/20",
+                    "as_domain": "alicloud.com",
+                    "as_name": "Alibaba (US) Technology Co. Ltd.",
+                    "as_number": "45102",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "45102",
+                "city": {
+                    "name": "Seoul",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Seoul"
+                    }
+                },
+                "city_name": "Seoul",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "KOR",
+                    "capital": "Seoul",
+                    "currency": {
+                        "code": "KRW",
+                        "name": "South-korean Won",
+                        "symbol": "₩"
+                    },
+                    "demonym": "Koreans",
+                    "language": {
+                        "code": "KO",
+                        "name": "Korean"
+                    },
+                    "name": "Korea (the Republic of)",
+                    "numeric_code": 410,
+                    "population": 51966948,
+                    "tld": "kr",
+                    "total_area": 99720,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Korea (the Republic of)"
+                    }
+                },
+                "country_code": "KR",
+                "country_name": "Korea (the Republic of)",
+                "district": "Jung-gu",
+                "domain": "alicloud.com",
+                "elevation": 28,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": "533"
+                },
+                "idd_code": "82",
+                "ip": "8.213.133.1",
+                "is_proxy": false,
+                "isp": "Alibaba Cloud (Singapore) Private Limited",
+                "latitude": 37.56631,
+                "longitude": 126.97721,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "KR-11",
+                    "name": "Seoul-teukbyeolsi",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Seoul-teukbyeolsi"
+                    }
+                },
+                "region_name": "Seoul-teukbyeolsi",
+                "time_zone": "+09:00",
+                "time_zone_info": {
+                    "abbreviation": "KST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 32400,
+                    "is_dst": false,
+                    "olson": "Asia/Seoul",
+                    "sunrise": "07:14",
+                    "sunset": "17:20"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "KSXX0037",
+                "weather_station_name": "Seoul",
+                "zip_code": "06030"
+            },
             "total_accounts": 174
         },
         "north_america": {
             "display_name": "North America",
             "last_updated": "Feb 3, 2026, 10:43:40 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "703",
+                "as": "Google LLC",
+                "as_info": {
+                    "as_cidr": "34.48.0.0/16",
+                    "as_domain": "google.com",
+                    "as_name": "Google LLC",
+                    "as_number": "396982",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "396982",
+                "city": {
+                    "name": "Ashburn",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Ashburn"
+                    }
+                },
+                "city_name": "Ashburn",
+                "continent": {
+                    "code": "NA",
+                    "hemisphere": [
+                        "north",
+                        "west"
+                    ],
+                    "name": "North America",
+                    "translation": {
+                        "lang": "en",
+                        "value": "North America"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "USA",
+                    "capital": "Washington, D.C.",
+                    "currency": {
+                        "code": "USD",
+                        "name": "United States Dollar",
+                        "symbol": "$"
+                    },
+                    "demonym": "Americans",
+                    "language": {
+                        "code": "EN",
+                        "name": "English"
+                    },
+                    "name": "United States of America",
+                    "numeric_code": 840,
+                    "population": 339665118,
+                    "tld": "us",
+                    "total_area": 9826675,
+                    "translation": {
+                        "lang": "en",
+                        "value": "United States of America"
+                    }
+                },
+                "country_code": "US",
+                "country_name": "United States of America",
+                "district": "Loudoun County",
+                "domain": "google.com",
+                "elevation": 83,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": "511"
+                },
+                "idd_code": "1",
+                "ip": "34.48.22.1",
+                "is_proxy": false,
+                "isp": "Google LLC",
+                "latitude": 39.03947,
+                "longitude": -77.49181,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "US-VA",
+                    "name": "Virginia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Virginia"
+                    }
+                },
+                "region_name": "Virginia",
+                "time_zone": "-05:00",
+                "time_zone_info": {
+                    "abbreviation": "EST",
+                    "dst_end_date": "2025-11-02",
+                    "dst_start_date": "2025-03-09",
+                    "gmt_offset": -18000,
+                    "is_dst": false,
+                    "olson": "America/New_York",
+                    "sunrise": "06:56",
+                    "sunset": "16:54"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "USVA0027",
+                "weather_station_name": "Ashburn",
+                "zip_code": "20147"
+            },
             "total_accounts": 815
         },
         "ps_america": {
             "display_name": "PS America",
             "last_updated": "Feb 5, 2026, 2:27:18 PM",
+            "server_information": {
+                "address_type": "Anycast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "816/913",
+                "as": "Google LLC",
+                "as_info": {
+                    "as_cidr": "34.95.64.0/18",
+                    "as_domain": "google.com",
+                    "as_name": "Google LLC",
+                    "as_number": "396982",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "396982",
+                "city": {
+                    "name": "Kansas City",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Kansas City"
+                    }
+                },
+                "city_name": "Kansas City",
+                "continent": {
+                    "code": "NA",
+                    "hemisphere": [
+                        "north",
+                        "west"
+                    ],
+                    "name": "North America",
+                    "translation": {
+                        "lang": "en",
+                        "value": "North America"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "USA",
+                    "capital": "Washington, D.C.",
+                    "currency": {
+                        "code": "USD",
+                        "name": "United States Dollar",
+                        "symbol": "$"
+                    },
+                    "demonym": "Americans",
+                    "language": {
+                        "code": "EN",
+                        "name": "English"
+                    },
+                    "name": "United States of America",
+                    "numeric_code": 840,
+                    "population": 339665118,
+                    "tld": "us",
+                    "total_area": 9826675,
+                    "translation": {
+                        "lang": "en",
+                        "value": "United States of America"
+                    }
+                },
+                "country_code": "US",
+                "country_name": "United States of America",
+                "district": "Jackson County",
+                "domain": "google.com",
+                "elevation": 274,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": "616"
+                },
+                "idd_code": "1",
+                "ip": "34.95.80.31",
+                "is_proxy": false,
+                "isp": "Google LLC",
+                "latitude": 39.09973,
+                "longitude": -94.57857,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "US-MO",
+                    "name": "Missouri",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Missouri"
+                    }
+                },
+                "region_name": "Missouri",
+                "time_zone": "-06:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": "2025-11-02",
+                    "dst_start_date": "2025-03-09",
+                    "gmt_offset": -21600,
+                    "is_dst": false,
+                    "olson": "America/Chicago",
+                    "sunrise": "07:04",
+                    "sunset": "17:02"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "USMO0460",
+                "weather_station_name": "Kansas City",
+                "zip_code": "64106"
+            },
             "total_accounts": 386
         },
         "ps_east_asia": {
             "display_name": "PS East Asia",
             "last_updated": "Feb 6, 2026, 5:52:02 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "042",
+                "as": "Alibaba (US) Technology Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "8.209.192.0/19",
+                    "as_domain": "alicloud.com",
+                    "as_name": "Alibaba (US) Technology Co. Ltd.",
+                    "as_number": "45102",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "45102",
+                "city": {
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "city_name": "Tokyo",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "JPN",
+                    "capital": "Tokyo",
+                    "currency": {
+                        "code": "JPY",
+                        "name": "Japanese Yen",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Japanese",
+                    "language": {
+                        "code": "JA",
+                        "name": "Japanese"
+                    },
+                    "name": "Japan",
+                    "numeric_code": 392,
+                    "population": 123719238,
+                    "tld": "jp",
+                    "total_area": 377915,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Japan"
+                    }
+                },
+                "country_code": "JP",
+                "country_name": "Japan",
+                "district": "Shinjuku City",
+                "domain": "alicloud.com",
+                "elevation": 37,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "81",
+                "ip": "8.209.205.12",
+                "is_proxy": false,
+                "isp": "Alibaba Cloud (Singapore) Private Limited",
+                "latitude": 35.6895,
+                "longitude": 139.69232,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "JP-13",
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "region_name": "Tokyo",
+                "time_zone": "+09:00",
+                "time_zone_info": {
+                    "abbreviation": "JST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 32400,
+                    "is_dst": false,
+                    "olson": "Asia/Tokyo",
+                    "sunrise": "06:19",
+                    "sunset": "16:33"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "JAXX0085",
+                "weather_station_name": "Tokyo",
+                "zip_code": "100-0000"
+            },
             "total_accounts": 131
         },
         "ps_europe": {
             "display_name": "PS Europe",
             "last_updated": "Feb 5, 2026, 8:36:19 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "069",
+                "as": "Alibaba (US) Technology Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "8.209.64.0/19",
+                    "as_domain": "alicloud.com",
+                    "as_name": "Alibaba (US) Technology Co. Ltd.",
+                    "as_number": "45102",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "45102",
+                "city": {
+                    "name": "Frankfurt am Main",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Frankfurt am Main"
+                    }
+                },
+                "city_name": "Frankfurt am Main",
+                "continent": {
+                    "code": "EU",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Europe",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Europe"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "DEU",
+                    "capital": "Berlin",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro",
+                        "symbol": "€"
+                    },
+                    "demonym": "Germans",
+                    "language": {
+                        "code": "DE",
+                        "name": "German"
+                    },
+                    "name": "Germany",
+                    "numeric_code": 276,
+                    "population": 84220184,
+                    "tld": "de",
+                    "total_area": 357022,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Germany"
+                    }
+                },
+                "country_code": "DE",
+                "country_name": "Germany",
+                "district": "Regierungsbezirk Darmstadt",
+                "domain": "alicloud.com",
+                "elevation": 97,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "49",
+                "ip": "8.209.91.37",
+                "is_proxy": false,
+                "isp": "Alibaba Cloud (Singapore) Private Limited",
+                "latitude": 50.11088,
+                "longitude": 8.682,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "DE-HE",
+                    "name": "Hessen",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Hessen"
+                    }
+                },
+                "region_name": "Hessen",
+                "time_zone": "+01:00",
+                "time_zone_info": {
+                    "abbreviation": "CET",
+                    "dst_end_date": "2025-10-26",
+                    "dst_start_date": "2025-03-30",
+                    "gmt_offset": 3600,
+                    "is_dst": false,
+                    "olson": "Europe/Berlin",
+                    "sunrise": "07:43",
+                    "sunset": "16:37"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "GMXX0040",
+                "weather_station_name": "Frankfurt/Main",
+                "zip_code": "65931"
+            },
             "total_accounts": 381
         },
         "ps_southeast_asia": {
             "display_name": "PS Southeast Asia",
             "last_updated": "Feb 6, 2026, 4:58:02 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "06",
+                "as": "Alibaba (US) Technology Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "8.222.192.0/18",
+                    "as_domain": "alicloud.com",
+                    "as_name": "Alibaba (US) Technology Co. Ltd.",
+                    "as_number": "45102",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "45102",
+                "city": {
+                    "name": "Singapore",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "city_name": "Singapore",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "SGP",
+                    "capital": "Singapore",
+                    "currency": {
+                        "code": "SGD",
+                        "name": "Singapore Dollar",
+                        "symbol": "$"
+                    },
+                    "demonym": "Singaporeans",
+                    "language": {
+                        "code": "EN",
+                        "name": "English"
+                    },
+                    "name": "Singapore",
+                    "numeric_code": 702,
+                    "population": 5975383,
+                    "tld": "sg",
+                    "total_area": 697,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "country_code": "SG",
+                "country_name": "Singapore",
+                "district": "Singapore",
+                "domain": "alicloud.com",
+                "elevation": 7,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "65",
+                "ip": "8.222.229.45",
+                "is_proxy": false,
+                "isp": "Alibaba Cloud (Singapore) Private Limited",
+                "latitude": 1.28999,
+                "longitude": 103.85028,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "-",
+                    "name": "Singapore",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "region_name": "Singapore",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "SGT",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Singapore",
+                    "sunrise": "06:47",
+                    "sunset": "18:52"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "SNXX0006",
+                "weather_station_name": "Singapore",
+                "zip_code": "178958"
+            },
             "total_accounts": 101
         },
         "reshaping_the_future": {
             "display_name": "重塑未来",
             "last_updated": "2026年2月12日 下午7:14:04",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "123.56.0.0/16",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "123.56.86.19",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 301
         },
         "south_america": {
             "display_name": "South America",
             "last_updated": "Feb 11, 2026, 3:18:00 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "011",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.157.160.0/20",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Sao Paulo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Sao Paulo"
+                    }
+                },
+                "city_name": "Sao Paulo",
+                "continent": {
+                    "code": "SA",
+                    "hemisphere": [
+                        "south",
+                        "west"
+                    ],
+                    "name": "South America",
+                    "translation": {
+                        "lang": "en",
+                        "value": "South America"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "BRA",
+                    "capital": "Brasilia",
+                    "currency": {
+                        "code": "BRL",
+                        "name": "Brazilian Real",
+                        "symbol": "R$"
+                    },
+                    "demonym": "Brazilians",
+                    "language": {
+                        "code": "PT",
+                        "name": "Portuguese"
+                    },
+                    "name": "Brazil",
+                    "numeric_code": 76,
+                    "population": 218689757,
+                    "tld": "br",
+                    "total_area": 8514877,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Brazil"
+                    }
+                },
+                "country_code": "BR",
+                "country_name": "Brazil",
+                "district": "Sao Paulo",
+                "domain": "tencent.com",
+                "elevation": 741,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "55",
+                "ip": "43.157.160.30",
+                "is_proxy": false,
+                "isp": "Aceville Pte.Ltd.",
+                "latitude": -23.54712,
+                "longitude": -46.63719,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "BR-SP",
+                    "name": "Sao Paulo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Sao Paulo"
+                    }
+                },
+                "region_name": "Sao Paulo",
+                "time_zone": "-03:00",
+                "time_zone_info": {
+                    "abbreviation": "BRT",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": -10800,
+                    "is_dst": false,
+                    "olson": "America/Sao_Paulo",
+                    "sunrise": "05:11",
+                    "sunset": "18:32"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "BRXX0232",
+                "weather_station_name": "Sao Paulo",
+                "zip_code": "01000-000"
+            },
             "total_accounts": 336
         },
         "southeast_asia": {
             "display_name": "Southeast Asia",
             "last_updated": "Feb 12, 2026, 9:58:19 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "06",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.156.64.0/18",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Singapore",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "city_name": "Singapore",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "SGP",
+                    "capital": "Singapore",
+                    "currency": {
+                        "code": "SGD",
+                        "name": "Singapore Dollar",
+                        "symbol": "$"
+                    },
+                    "demonym": "Singaporeans",
+                    "language": {
+                        "code": "EN",
+                        "name": "English"
+                    },
+                    "name": "Singapore",
+                    "numeric_code": 702,
+                    "population": 5975383,
+                    "tld": "sg",
+                    "total_area": 697,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "country_code": "SG",
+                "country_name": "Singapore",
+                "district": "Singapore",
+                "domain": "tencent.com",
+                "elevation": 7,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "65",
+                "ip": "43.156.79.146",
+                "is_proxy": false,
+                "isp": "Aceville Pte.Ltd.",
+                "latitude": 1.28999,
+                "longitude": 103.85028,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "-",
+                    "name": "Singapore",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Singapore"
+                    }
+                },
+                "region_name": "Singapore",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "SGT",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Singapore",
+                    "sunrise": "06:47",
+                    "sunset": "18:52"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "SNXX0006",
+                "weather_station_name": "Singapore",
+                "zip_code": "178958"
+            },
             "total_accounts": 2038
         },
         "time_travel": {
             "display_name": "时空回溯",
             "last_updated": "2026年2月6日 上午2:17:58",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "39.104.0.0/15",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "39.105.181.216",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 562
         },
         "visser_aida": {
             "display_name": "蔚色艾达",
             "last_updated": "2026年2月13日 上午12:04:02",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "010",
+                "as": "Hangzhou Alibaba Advertising Co. Ltd.",
+                "as_info": {
+                    "as_cidr": "39.96.0.0/16",
+                    "as_domain": "alibaba.com",
+                    "as_name": "Hangzhou Alibaba Advertising Co. Ltd.",
+                    "as_number": "37963",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "37963",
+                "city": {
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "city_name": "Beijing",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "CHN",
+                    "capital": "Beijing",
+                    "currency": {
+                        "code": "CNY",
+                        "name": "Chinese Yuan Renminbi",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Chinese",
+                    "language": {
+                        "code": "ZH",
+                        "name": "Chinese"
+                    },
+                    "name": "China",
+                    "numeric_code": 156,
+                    "population": 1413142846,
+                    "tld": "cn",
+                    "total_area": 9596961,
+                    "translation": {
+                        "lang": "en",
+                        "value": "China"
+                    }
+                },
+                "country_code": "CN",
+                "country_name": "China",
+                "district": "Beijing",
+                "domain": "aliyun.com",
+                "elevation": 46,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "86",
+                "ip": "39.96.163.203",
+                "is_proxy": false,
+                "isp": "Aliyun Computing Co. Ltd",
+                "latitude": 39.9075,
+                "longitude": 116.3971,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "CN-BJ",
+                    "name": "Beijing",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Beijing"
+                    }
+                },
+                "region_name": "Beijing",
+                "time_zone": "+08:00",
+                "time_zone_info": {
+                    "abbreviation": "CST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 28800,
+                    "is_dst": false,
+                    "olson": "Asia/Shanghai",
+                    "sunrise": "07:02",
+                    "sunset": "16:57"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "CHXX0008",
+                "weather_station_name": "Beijing",
+                "zip_code": "100006"
+            },
             "total_accounts": 1040
         },
         "ws_america_01": {
             "display_name": "WS America 01",
             "last_updated": "Feb 11, 2026, 2:18:28 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "703",
+                "as": "Google LLC",
+                "as_info": {
+                    "as_cidr": "35.199.16.0/20",
+                    "as_domain": "google.com",
+                    "as_name": "Google LLC",
+                    "as_number": "396982",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "396982",
+                "city": {
+                    "name": "Ashburn",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Ashburn"
+                    }
+                },
+                "city_name": "Ashburn",
+                "continent": {
+                    "code": "NA",
+                    "hemisphere": [
+                        "north",
+                        "west"
+                    ],
+                    "name": "North America",
+                    "translation": {
+                        "lang": "en",
+                        "value": "North America"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "USA",
+                    "capital": "Washington, D.C.",
+                    "currency": {
+                        "code": "USD",
+                        "name": "United States Dollar",
+                        "symbol": "$"
+                    },
+                    "demonym": "Americans",
+                    "language": {
+                        "code": "EN",
+                        "name": "English"
+                    },
+                    "name": "United States of America",
+                    "numeric_code": 840,
+                    "population": 339665118,
+                    "tld": "us",
+                    "total_area": 9826675,
+                    "translation": {
+                        "lang": "en",
+                        "value": "United States of America"
+                    }
+                },
+                "country_code": "US",
+                "country_name": "United States of America",
+                "district": "Loudoun County",
+                "domain": "google.com",
+                "elevation": 83,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": "511"
+                },
+                "idd_code": "1",
+                "ip": "35.199.24.133",
+                "is_proxy": false,
+                "isp": "Google LLC",
+                "latitude": 39.03947,
+                "longitude": -77.49181,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "US-VA",
+                    "name": "Virginia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Virginia"
+                    }
+                },
+                "region_name": "Virginia",
+                "time_zone": "-05:00",
+                "time_zone_info": {
+                    "abbreviation": "EST",
+                    "dst_end_date": "2025-11-02",
+                    "dst_start_date": "2025-03-09",
+                    "gmt_offset": -18000,
+                    "is_dst": false,
+                    "olson": "America/New_York",
+                    "sunrise": "07:02",
+                    "sunset": "16:51"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "USVA0027",
+                "weather_station_name": "Ashburn",
+                "zip_code": "20147"
+            },
             "total_accounts": 1407
         },
         "ws_asia_01": {
             "display_name": "WS Asia 01",
-            "last_updated": "Feb 12, 2026, 11:14:44 PM",
-            "total_accounts": 5306
+            "last_updated": "Feb 13, 2026, 3:36:23 AM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "042",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.167.192.0/18",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "city_name": "Tokyo",
+                "continent": {
+                    "code": "AS",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Asia",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Asia"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "JPN",
+                    "capital": "Tokyo",
+                    "currency": {
+                        "code": "JPY",
+                        "name": "Japanese Yen",
+                        "symbol": "¥"
+                    },
+                    "demonym": "Japanese",
+                    "language": {
+                        "code": "JA",
+                        "name": "Japanese"
+                    },
+                    "name": "Japan",
+                    "numeric_code": 392,
+                    "population": 123719238,
+                    "tld": "jp",
+                    "total_area": 377915,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Japan"
+                    }
+                },
+                "country_code": "JP",
+                "country_name": "Japan",
+                "district": "Shinjuku City",
+                "domain": "tencent.com",
+                "elevation": 37,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "81",
+                "ip": "43.167.195.220",
+                "is_proxy": false,
+                "isp": "Aceville Pte.Ltd.",
+                "latitude": 35.6895,
+                "longitude": 139.69232,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "JP-13",
+                    "name": "Tokyo",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Tokyo"
+                    }
+                },
+                "region_name": "Tokyo",
+                "time_zone": "+09:00",
+                "time_zone_info": {
+                    "abbreviation": "JST",
+                    "dst_end_date": null,
+                    "dst_start_date": null,
+                    "gmt_offset": 32400,
+                    "is_dst": false,
+                    "olson": "Asia/Tokyo",
+                    "sunrise": "06:25",
+                    "sunset": "16:30"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "JAXX0085",
+                "weather_station_name": "Tokyo",
+                "zip_code": "100-0000"
+            },
+            "total_accounts": 5308
         },
         "ws_europe_01": {
             "display_name": "WS Europe 01",
             "last_updated": "Feb 11, 2026, 7:26:38 PM",
+            "server_information": {
+                "address_type": "Unicast",
+                "ads_category": "IAB19-11",
+                "ads_category_name": "Data Centers",
+                "area_code": "069",
+                "as": "Tencent Building Kejizhongyi Avenue",
+                "as_info": {
+                    "as_cidr": "43.157.0.0/18",
+                    "as_domain": "tencent.com",
+                    "as_name": "Tencent Building Kejizhongyi Avenue",
+                    "as_number": "132203",
+                    "as_usage_type": "DCH"
+                },
+                "asn": "132203",
+                "city": {
+                    "name": "Frankfurt am Main",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Frankfurt am Main"
+                    }
+                },
+                "city_name": "Frankfurt am Main",
+                "continent": {
+                    "code": "EU",
+                    "hemisphere": [
+                        "north",
+                        "east"
+                    ],
+                    "name": "Europe",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Europe"
+                    }
+                },
+                "country": {
+                    "alpha3_code": "DEU",
+                    "capital": "Berlin",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euro",
+                        "symbol": "€"
+                    },
+                    "demonym": "Germans",
+                    "language": {
+                        "code": "DE",
+                        "name": "German"
+                    },
+                    "name": "Germany",
+                    "numeric_code": 276,
+                    "population": 84220184,
+                    "tld": "de",
+                    "total_area": 357022,
+                    "translation": {
+                        "lang": "en",
+                        "value": "Germany"
+                    }
+                },
+                "country_code": "DE",
+                "country_name": "Germany",
+                "district": "Regierungsbezirk Darmstadt",
+                "domain": "tencent.com",
+                "elevation": 97,
+                "fraud_score": 3,
+                "geotargeting": {
+                    "metro": null
+                },
+                "idd_code": "49",
+                "ip": "43.157.16.167",
+                "is_proxy": false,
+                "isp": "Aceville Pte.Ltd.",
+                "latitude": 50.11088,
+                "longitude": 8.682,
+                "mcc": "-",
+                "mnc": "-",
+                "mobile_brand": "-",
+                "net_speed": "T1",
+                "proxy": {
+                    "is_bogon": false,
+                    "is_botnet": false,
+                    "is_consumer_privacy_network": false,
+                    "is_data_center": true,
+                    "is_enterprise_private_network": false,
+                    "is_public_proxy": false,
+                    "is_residential_proxy": false,
+                    "is_scanner": false,
+                    "is_spammer": false,
+                    "is_tor": false,
+                    "is_vpn": false,
+                    "is_web_crawler": false,
+                    "is_web_proxy": false,
+                    "last_seen": 1,
+                    "provider": "-",
+                    "proxy_type": "DCH",
+                    "threat": "-"
+                },
+                "region": {
+                    "code": "DE-HE",
+                    "name": "Hessen",
+                    "translation": {
+                        "lang": "en",
+                        "value": "Hessen"
+                    }
+                },
+                "region_name": "Hessen",
+                "time_zone": "+01:00",
+                "time_zone_info": {
+                    "abbreviation": "CET",
+                    "dst_end_date": "2025-10-26",
+                    "dst_start_date": "2025-03-30",
+                    "gmt_offset": 3600,
+                    "is_dst": false,
+                    "olson": "Europe/Berlin",
+                    "sunrise": "07:52",
+                    "sunset": "16:32"
+                },
+                "usage_type": "DCH",
+                "weather_station_code": "GMXX0040",
+                "weather_station_name": "Frankfurt/Main",
+                "zip_code": "65931"
+            },
             "total_accounts": 1052
         }
     },
-    "total_accounts": 23527
+    "total_accounts": 23529
 }
