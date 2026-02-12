@@ -6506,7 +6506,7 @@
             "equipping_title": "1_1_4_1",
             "gender": 1,
             "hp": 363352.8125,
-            "last_seen": "Feb 12, 2026, 1:35:48 AM",
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
             "level": 72,
             "name": "Compo",
             "name_history": [
@@ -26396,11 +26396,11 @@
         "38174103118557400": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;52",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 466000.8125,
-            "last_seen": "Dec 23, 2025, 05:28:29 AM",
-            "level": 63,
+            "hp": 1011908.1875,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 75,
             "name": "แมวส้ม",
             "name_history": [
                 "แมวส้ม"
@@ -27132,11 +27132,11 @@
         "38174103118557596": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "2_2_0_63",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 989291.125,
-            "last_seen": "Feb 8, 2026, 7:14:15 PM",
-            "level": 74,
+            "hp": 1019319.0625,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 75,
             "name": "時羽",
             "name_history": [
                 "時羽"
@@ -29582,9 +29582,9 @@
             "crew_name": "宿屋享楽",
             "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 913816.5625,
-            "last_seen": "Feb 8, 2026, 7:14:15 PM",
-            "level": 74,
+            "hp": 939369.25,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 75,
             "name": "天猫",
             "name_history": [
                 "天猫"
@@ -75966,6 +75966,22 @@
             "role_id": 38174103118594240,
             "server_region": "ws_asia_01"
         },
+        "38174103118594245": {
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 821972.25,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 73,
+            "name": "かすてら",
+            "name_history": [
+                "かすてら"
+            ],
+            "registered": "Dec 7, 2025, 8:07:15 AM",
+            "role_id": 38174103118594245,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594255": {
             "crew_id": 30073659173,
             "crew_name": "ミスティルテイン",
@@ -76357,6 +76373,22 @@
             "role_id": 38174103118594878,
             "server_region": "ws_asia_01"
         },
+        "38174103118594881": {
+            "crew_id": 579829473061,
+            "crew_name": "女神の祝福・賊",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 434891.0,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 69,
+            "name": "海賊団員No.2",
+            "name_history": [
+                "海賊団員No.2"
+            ],
+            "registered": "Dec 7, 2025, 10:33:20 PM",
+            "role_id": 38174103118594881,
+            "server_region": "ws_asia_01"
+        },
         "38174103118594918": {
             "crew_id": 0,
             "crew_name": "",
@@ -76442,9 +76474,9 @@
             "crew_name": "Fantasia",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 912437.9375,
-            "last_seen": [],
-            "level": 74,
+            "hp": 946981.0625,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 75,
             "name": "Yukinoppo",
             "name_history": [
                 "Yukinoppo"
@@ -84805,9 +84837,25 @@
             "registered": "Feb 12, 2026, 1:45:00 AM",
             "role_id": 38174103118612900,
             "server_region": "ws_asia_01"
+        },
+        "38174103118612953": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 29804.0,
+            "last_seen": "Feb 12, 2026, 11:09:30 PM",
+            "level": 6,
+            "name": "Zoeevia",
+            "name_history": [
+                "Zoeevia"
+            ],
+            "registered": "Feb 12, 2026, 9:56:49 PM",
+            "role_id": 38174103118612953,
+            "server_region": "ws_asia_01"
         }
     },
-    "accounts_total": 5301,
-    "last_updated": "Feb 12, 2026, 11:08:31 PM",
+    "accounts_total": 5304,
+    "last_updated": "Feb 12, 2026, 11:09:30 PM",
     "server_region": "ws_asia_01"
 }
