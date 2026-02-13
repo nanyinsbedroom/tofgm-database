@@ -441,11 +441,17 @@
         "38174111708479600": {
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
-            "equipping_title": "None",
+            "equipping_title": "2_7_0_11",
             "gender": 0,
-            "hp": 1036962.125,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
-            "level": 74,
+            "hp": 1109396.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1676.0999755859375,
+                "y": -27243.5,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "Flux",
             "name_history": [
                 "Flux"
@@ -2154,9 +2160,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 1055769.875,
-            "last_seen": "Feb 7, 2026, 8:00:07 PM",
-            "level": 74,
+            "hp": 1079826.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -460.6300048828125,
+                "y": -28444.0703125,
+                "z": 96722.7890625
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "Malaky",
             "name_history": [
                 "Malaky"
@@ -3099,11 +3111,11 @@
             "hp": 1082754.5,
             "last_known_position": {
                 "map": "city",
-                "x": 477.0199890136719,
-                "y": -28113.33984375,
-                "z": 97924.1640625
+                "x": -274.54998779296875,
+                "y": -27617.099609375,
+                "z": 96719.9453125
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
             "level": 75,
             "name": "Xio",
             "name_history": [
@@ -3111,7 +3123,7 @@
             ],
             "registered": "Nov 25, 2025, 10:11:16 AM",
             "role_id": 38174111708481006,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708481009": {
             "crew_id": 25778691879,
@@ -5414,14 +5426,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 0,
-            "hp": 1026890.25,
+            "hp": 855486.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1472.1199951171875,
-                "y": -27319.490234375,
+                "x": -315.94000244140625,
+                "y": -28127.3203125,
                 "z": 97911.15625
             },
-            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
             "level": 75,
             "name": "Fedwells",
             "name_history": [
@@ -5429,7 +5441,7 @@
             ],
             "registered": "Nov 25, 2025, 12:52:18 PM",
             "role_id": 38174111708482650,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708482669": {
             "crew_id": 0,
@@ -6243,7 +6255,13 @@
             "equipping_title": "1_4_6_6",
             "gender": 0,
             "hp": 1005456.75,
-            "last_seen": "Feb 10, 2026, 6:30:45 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 2142.929931640625,
+                "y": -26663.708984375,
+                "z": 96737.375
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
             "level": 75,
             "name": "Gi",
             "name_history": [
@@ -6354,9 +6372,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "Ari_AnemoHeart's Mentor,0",
             "gender": 0,
-            "hp": 2704000.0,
-            "last_seen": "Feb 10, 2026, 7:26:45 PM",
-            "level": 74,
+            "hp": 992772.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": -227.25999450683594,
+                "y": -28015.80859375,
+                "z": 96726.9453125
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "Exter",
             "name_history": [
                 "Exter"
@@ -6392,9 +6416,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "Exter's Apprentice,0",
             "gender": 1,
-            "hp": 2709200.25,
-            "last_seen": "Feb 10, 2026, 7:24:46 PM",
-            "level": 74,
+            "hp": 981444.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -194.72000122070313,
+                "y": -28064.138671875,
+                "z": 96706.9453125
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "Ari_AnemoHeart",
             "name_history": [
                 "Ari_AnemoHeart"
@@ -8294,14 +8324,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1060205.5,
+            "hp": 776605.5,
             "last_known_position": {
                 "map": "city",
-                "x": -178.8000030517578,
-                "y": -28160.87890625,
-                "z": 97911.15625
+                "x": -49.25856018066406,
+                "y": -27689.62109375,
+                "z": 96706.9453125
             },
-            "last_seen": "Feb 13, 2026, 9:29:46 PM",
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
             "level": 75,
             "name": "Danieru",
             "name_history": [
@@ -8309,7 +8339,7 @@
             ],
             "registered": "Nov 25, 2025, 6:19:49 PM",
             "role_id": 38174111708485859,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708485875": {
             "crew_id": 4303855399,
@@ -8540,9 +8570,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_10_0_6",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:29:41 PM",
-            "level": 74,
+            "hp": 1027018.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -232.05999755859375,
+                "y": -25283.849609375,
+                "z": 96706.9453125
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "TinYin",
             "name_history": [
                 "TinYin"
@@ -14926,9 +14962,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 1002996.75,
-            "last_seen": "Feb 9, 2026, 8:02:09 PM",
-            "level": 74,
+            "hp": 1054519.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -652.8599853515625,
+                "y": -28591.759765625,
+                "z": 96737.375
+            },
+            "last_seen": "Feb 13, 2026, 10:35:33 PM",
+            "level": 75,
             "name": "Anishy",
             "name_history": [
                 "Anishy"
@@ -17129,6 +17171,6 @@
         }
     },
     "accounts_total": 1062,
-    "last_updated": "Feb 13, 2026, 10:34:28 PM",
+    "last_updated": "Feb 13, 2026, 10:35:33 PM",
     "server_region": "ws-europe-01"
 }
