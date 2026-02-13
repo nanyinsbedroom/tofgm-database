@@ -770,9 +770,15 @@
             "crew_name": "Arcana",
             "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 1089136.5,
-            "last_seen": "Feb 9, 2026, 8:01:15 PM",
-            "level": 74,
+            "hp": 1117216.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1730.969970703125,
+                "y": -27493.599609375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 75,
             "name": "Erwyn",
             "name_history": [
                 "Erwyn"
@@ -1832,8 +1838,14 @@
             "crew_name": "Arcana",
             "equipping_title": "Erwyn's Apprentice,0",
             "gender": 1,
-            "hp": 1110789.0,
-            "last_seen": "Feb 10, 2026, 7:20:51 PM",
+            "hp": 1114146.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -568.2099609375,
+                "y": -23428.509765625,
+                "z": 96712.1953125
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Kath",
             "name_history": [
@@ -1944,14 +1956,14 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_28",
             "gender": 0,
-            "hp": 799215.0,
+            "hp": 540252.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1011.5,
-                "y": -27840.8984375,
-                "z": 97895.4375
+                "x": 761.6300048828125,
+                "y": -27580.26953125,
+                "z": 96706.9609375
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Remmy",
             "name_history": [
@@ -1959,7 +1971,7 @@
             ],
             "registered": "Nov 25, 2025, 9:19:09 AM",
             "role_id": 38174111708480232,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708480233": {
             "crew_id": 25778691879,
@@ -2324,9 +2336,15 @@
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 964682.4375,
-            "last_seen": "Jan 30, 2026, 04:09:45 AM",
-            "level": 73,
+            "hp": 1061729.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1669.52001953125,
+                "y": -23638.5,
+                "z": 97135.296875
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 75,
             "name": "ImagO",
             "name_history": [
                 "ImagO"
@@ -2995,11 +3013,11 @@
             "hp": 970340.4375,
             "last_known_position": {
                 "map": "city",
-                "x": -5961.509765625,
-                "y": -30042.740234375,
-                "z": 96336.03125
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "NeyroX",
             "name_history": [
@@ -3007,7 +3025,7 @@
             ],
             "registered": "Nov 25, 2025, 10:07:51 AM",
             "role_id": 38174111708480956,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708480975": {
             "crew_id": 17188757287,
@@ -4648,9 +4666,15 @@
             "crew_name": "EuzeroFR",
             "equipping_title": "Clab's Mentor,0",
             "gender": 1,
-            "hp": 989320.5,
-            "last_seen": "Feb 7, 2026, 10:35:58 PM",
-            "level": 74,
+            "hp": 1007608.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1128.18994140625,
+                "y": -27052.5703125,
+                "z": 96720.4453125
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 75,
             "name": "Untteur_K",
             "name_history": [
                 "Untteur_K"
@@ -7945,11 +7969,11 @@
             "hp": 1050544.5,
             "last_known_position": {
                 "map": "city",
-                "x": -5288.81982421875,
-                "y": -29520.990234375,
-                "z": 97843.4765625
+                "x": -1362.510009765625,
+                "y": -27906.619140625,
+                "z": 96720.4453125
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Aralynn",
             "name_history": [
@@ -7957,7 +7981,7 @@
             ],
             "registered": "Nov 25, 2025, 5:32:16 PM",
             "role_id": 38174111708485344,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708485354": {
             "crew_id": 77318299431,
@@ -8092,9 +8116,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 9, 2026, 7:55:59 PM",
-            "level": 74,
+            "hp": 1031858.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1211.0399169921875,
+                "y": -28113.46875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 75,
             "name": "zKevinPlayz",
             "name_history": [
                 "zKevinPlayz"
@@ -8147,7 +8177,7 @@
                 "y": -28170.189453125,
                 "z": 97917.65625
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Iridaceae",
             "name_history": [
@@ -8155,7 +8185,7 @@
             ],
             "registered": "Nov 25, 2025, 6:00:20 PM",
             "role_id": 38174111708485619,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708485650": {
             "crew_id": 0,
@@ -8197,11 +8227,11 @@
             "hp": 1102385.25,
             "last_known_position": {
                 "map": "city",
-                "x": -5949.66650390625,
-                "y": -30072.234375,
-                "z": 96336.03125
+                "x": 206.51565551757813,
+                "y": -25573.318359375,
+                "z": 98224.4296875
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Xig",
             "name_history": [
@@ -8209,7 +8239,7 @@
             ],
             "registered": "Nov 25, 2025, 6:10:02 PM",
             "role_id": 38174111708485734,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708485786": {
             "crew_id": 210462285607,
@@ -8727,11 +8757,11 @@
             "hp": 1072249.125,
             "last_known_position": {
                 "map": "city",
-                "x": 318.69000244140625,
-                "y": -28142.228515625,
-                "z": 97930.15625
+                "x": 547.6300048828125,
+                "y": -28142.62890625,
+                "z": 97911.890625
             },
-            "last_seen": "Feb 13, 2026, 9:29:46 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "ColdPleb",
             "name_history": [
@@ -8739,7 +8769,7 @@
             ],
             "registered": "Nov 25, 2025, 7:12:44 PM",
             "role_id": 38174111708486399,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708486431": {
             "crew_id": 0,
@@ -9219,13 +9249,19 @@
             "server_region": "ws-europe-01"
         },
         "38174111708487148": {
-            "crew_id": 12893789991,
-            "crew_name": "Fantasy",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 504769.84375,
-            "last_seen": "Dec 23, 2025, 02:12:20 AM",
-            "level": 63,
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_10_1_9",
+            "gender": 0,
+            "hp": 843833.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1813.3699951171875,
+                "y": -24668.279296875,
+                "z": 97872.359375
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 75,
             "name": "Esty",
             "name_history": [
                 "Esty"
@@ -11262,6 +11298,28 @@
             "role_id": 38174111708494016,
             "server_region": "ws-europe-01"
         },
+        "38174111708494091": {
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "аvoid's Successor,1",
+            "gender": 1,
+            "hp": 826783.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1456.4000244140625,
+                "y": -26570.779296875,
+                "z": 96706.9609375
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 73,
+            "name": "lаbubu",
+            "name_history": [
+                "lаbubu"
+            ],
+            "registered": "Nov 27, 2025, 5:49:55 PM",
+            "role_id": 38174111708494091,
+            "server_region": "ws-europe-01"
+        },
         "38174111708494164": {
             "crew_id": 115973005095,
             "crew_name": "Arcana",
@@ -12396,11 +12454,11 @@
             "hp": 1069762.625,
             "last_known_position": {
                 "map": "city",
-                "x": 955.3499755859375,
-                "y": -27855.298828125,
-                "z": 97895.4453125
+                "x": 958.5099487304688,
+                "y": -27857.6796875,
+                "z": 97895.4296875
             },
-            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Zanta",
             "name_history": [
@@ -12408,7 +12466,7 @@
             ],
             "registered": "Dec 1, 2025, 4:53:12 AM",
             "role_id": 38174111708500989,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708501094": {
             "crew_id": 4303855399,
@@ -13380,7 +13438,13 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 775458.625,
-            "last_seen": "Feb 10, 2026, 7:22:47 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 1176.199951171875,
+                "y": -28390.119140625,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Adelthae",
             "name_history": [
@@ -14088,11 +14152,11 @@
             "hp": 1092230.625,
             "last_known_position": {
                 "map": "city",
-                "x": -5967.52001953125,
-                "y": -30054.849609375,
-                "z": 96349.53125
+                "x": -391.2599792480469,
+                "y": -25701.9296875,
+                "z": 96761.796875
             },
-            "last_seen": "Feb 13, 2026, 9:29:46 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "Xiang",
             "name_history": [
@@ -14100,7 +14164,7 @@
             ],
             "registered": "Dec 20, 2025, 3:34:43 PM",
             "role_id": 38174111708514014,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708514060": {
             "crew_id": 0,
@@ -15048,11 +15112,11 @@
             "hp": 988067.9375,
             "last_known_position": {
                 "map": "city",
-                "x": -2821.85888671875,
-                "y": -26989.39453125,
-                "z": 97512.875
+                "x": 1521.0899658203125,
+                "y": -27805.478515625,
+                "z": 97879.6171875
             },
-            "last_seen": "Feb 13, 2026, 9:29:46 PM",
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
             "level": 75,
             "name": "BiBi",
             "name_history": [
@@ -15060,7 +15124,7 @@
             ],
             "registered": "Jan 15, 2026, 9:02:20 PM",
             "role_id": 38174111708522209,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708522221": {
             "last_seen": [],
@@ -16736,13 +16800,19 @@
             "server_region": "ws-europe-01"
         },
         "38174111708524975": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 163217645351,
+            "crew_name": "Italia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 60843.0,
-            "last_seen": "Feb 8, 2026, 9:48:56 PM",
-            "level": 11,
+            "hp": 382902.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": 218.29998779296875,
+                "y": -21833.33984375,
+                "z": 96744.3515625
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 69,
             "name": "Serad",
             "name_history": [
                 "Serad"
@@ -16895,6 +16965,28 @@
             "role_id": 38174111708525003,
             "server_region": "ws-europe-01"
         },
+        "38174111708525011": {
+            "crew_id": 17188757287,
+            "crew_name": "Moonlight",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 157025.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1367.4000244140625,
+                "y": -28368.4296875,
+                "z": 97885.1171875
+            },
+            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "level": 49,
+            "name": "Kyrex",
+            "name_history": [
+                "Kyrex"
+            ],
+            "registered": "Feb 8, 2026, 10:49:12 PM",
+            "role_id": 38174111708525011,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525040": {
             "crew_id": 0,
             "crew_name": "",
@@ -17014,7 +17106,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1059,
-    "last_updated": "Feb 13, 2026, 9:33:52 PM",
+    "accounts_total": 1061,
+    "last_updated": "Feb 13, 2026, 10:33:34 PM",
     "server_region": "ws-europe-01"
 }
