@@ -5122,20 +5122,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413515209": {
-            "crew_id": 330721369894,
-            "crew_name": "Pepinos",
-            "equipping_title": "None",
+            "crew_id": 360786140966,
+            "crew_name": "Ravenous",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;72",
             "gender": 0,
-            "hp": 576055.0,
-            "last_seen": "Dec 26, 2025, 07:03:32 PM",
-            "level": 65,
+            "hp": 917616.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78581.3984375,
+                "y": 77263.3984375,
+                "z": -9821.439453125
+            },
+            "last_seen": "Feb 13, 2026, 6:17:33 PM",
+            "level": 75,
             "name": "Lord -Ash",
             "name_history": [
                 "Lord -Ash"
             ],
             "registered": "Nov 25, 2025, 5:48:30 AM",
             "role_id": 38174107413515209,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413515225": {
             "crew_id": 231937122086,
@@ -20922,6 +20928,28 @@
             "role_id": 38174107413579008,
             "server_region": "ws-america-01"
         },
+        "38174107413579030": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 30890.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84233.8046875,
+                "y": 72612.546875,
+                "z": -8507.0400390625
+            },
+            "last_seen": "Feb 13, 2026, 6:17:33 PM",
+            "level": 9,
+            "name": "Kirosaki oda",
+            "name_history": [
+                "Kirosaki oda"
+            ],
+            "registered": "Jan 22, 2026, 9:22:30 PM",
+            "role_id": 38174107413579030,
+            "server_region": "ws_america_01"
+        },
         "38174107413579082": {
             "crew_id": 0,
             "crew_name": "",
@@ -22936,7 +22964,7 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1432,
-    "last_updated": "Feb 13, 2026, 6:16:33 PM",
+    "accounts_total": 1433,
+    "last_updated": "Feb 13, 2026, 6:17:33 PM",
     "server_region": "ws-america-01"
 }
