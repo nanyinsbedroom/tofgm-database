@@ -19238,7 +19238,13 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 939050.75,
-            "last_seen": "Feb 12, 2026, 5:27:48 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 1341.4000244140625,
+                "y": -28250.0,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 13, 2026, 6:27:34 PM",
             "level": 75,
             "name": "PioPio",
             "name_history": [
@@ -19246,7 +19252,7 @@
             ],
             "registered": "Dec 17, 2025, 8:13:43 PM",
             "role_id": 38174107413566134,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413566268": {
             "crew_id": 0,
@@ -23500,6 +23506,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:25:34 PM",
+    "last_updated": "Feb 13, 2026, 6:27:34 PM",
     "server_region": "ws-america-01"
 }
