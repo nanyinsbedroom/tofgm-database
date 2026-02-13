@@ -22906,9 +22906,31 @@
             "registered": "Feb 13, 2026, 5:00:25 PM",
             "role_id": 38174107413582438,
             "server_region": "ws_america_01"
+        },
+        "38174107413582452": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 11938.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81976.1796875,
+                "y": 76166.390625,
+                "z": -9879.830078125
+            },
+            "last_seen": "Feb 13, 2026, 6:13:50 PM",
+            "level": 2,
+            "name": "valerya",
+            "name_history": [
+                "valerya"
+            ],
+            "registered": "Feb 13, 2026, 5:31:56 PM",
+            "role_id": 38174107413582452,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1431,
-    "last_updated": "Feb 13, 2026, 6:12:50 PM",
+    "accounts_total": 1432,
+    "last_updated": "Feb 13, 2026, 6:13:50 PM",
     "server_region": "ws-america-01"
 }
