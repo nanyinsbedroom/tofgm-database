@@ -102,7 +102,13 @@
             "equipping_title": "2_2_0_19",
             "gender": 0,
             "hp": 1131310.75,
-            "last_seen": "Feb 12, 2026, 5:23:37 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73314.078125,
+                "y": 49510.1875,
+                "z": -12322.9697265625
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
             "level": 75,
             "name": "Arta",
             "name_history": [
@@ -110,7 +116,7 @@
             ],
             "registered": "Nov 25, 2025, 3:01:39 AM",
             "role_id": 38174107413512211,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413512212": {
             "crew_id": 8598822694,
@@ -14860,8 +14866,14 @@
             "crew_name": "Solstice",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 999228.875,
-            "last_seen": "Feb 11, 2026, 2:12:30 PM",
+            "hp": 1002616.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -61330.45703125,
+                "y": 74228.5546875,
+                "z": -7848.3798828125
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
             "level": 75,
             "name": "Yaadire",
             "name_history": [
@@ -14869,7 +14881,7 @@
             ],
             "registered": "Nov 25, 2025, 9:35:29 PM",
             "role_id": 38174107413529964,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413530096": {
             "crew_id": 240527056678,
@@ -19881,6 +19893,28 @@
             "role_id": 38174107413570962,
             "server_region": "ws-america-01"
         },
+        "38174107413570970": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33686.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77410.6484375,
+                "y": 51625.95703125,
+                "z": -11551.830078125
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
+            "level": 9,
+            "name": "TwoTime",
+            "name_history": [
+                "TwoTime"
+            ],
+            "registered": "Dec 25, 2025, 8:55:07 PM",
+            "role_id": 38174107413570970,
+            "server_region": "ws_america_01"
+        },
         "38174107413571109": {
             "crew_id": 3053730635558,
             "crew_name": "Kotokunobito",
@@ -20288,6 +20322,28 @@
             "registered": "Dec 30, 2025, 1:21:33 PM",
             "role_id": 38174107413574011,
             "server_region": "ws-america-01"
+        },
+        "38174107413574036": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 339647.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59631.37890625,
+                "y": 59660.8984375,
+                "z": -10035.9697265625
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
+            "level": 73,
+            "name": "アールコート",
+            "name_history": [
+                "アールコート"
+            ],
+            "registered": "Dec 30, 2025, 1:56:34 PM",
+            "role_id": 38174107413574036,
+            "server_region": "ws_america_01"
         },
         "38174107413574142": {
             "crew_id": 0,
@@ -23673,9 +23729,53 @@
             "registered": "Feb 13, 2026, 6:16:30 PM",
             "role_id": 38174107413582455,
             "server_region": "ws_america_01"
+        },
+        "38174107413582462": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97469.0234375,
+                "y": 80685.5078125,
+                "z": -5272.39892578125
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
+            "level": 1,
+            "name": "EgotripperZ",
+            "name_history": [
+                "EgotripperZ"
+            ],
+            "registered": "Feb 13, 2026, 6:42:44 PM",
+            "role_id": 38174107413582462,
+            "server_region": "ws_america_01"
+        },
+        "38174107413582463": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 21646.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73556.0,
+                "y": 49056.0,
+                "z": -12303.279296875
+            },
+            "last_seen": "Feb 13, 2026, 6:50:35 PM",
+            "level": 10,
+            "name": "Alterior Motive",
+            "name_history": [
+                "Alterior Motive"
+            ],
+            "registered": "Feb 13, 2026, 6:47:00 PM",
+            "role_id": 38174107413582463,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1456,
-    "last_updated": "Feb 13, 2026, 6:42:35 PM",
+    "accounts_total": 1460,
+    "last_updated": "Feb 13, 2026, 6:50:35 PM",
     "server_region": "ws-america-01"
 }
