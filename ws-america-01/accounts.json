@@ -20991,19 +20991,25 @@
         },
         "38174107413578166": {
             "crew_id": 115973005094,
-            "crew_name": "Maid Café ",
+            "crew_name": "Kitten Café",
             "equipping_title": "2_10_1_9",
-            "gender": 1,
-            "hp": 906495.5625,
-            "last_seen": "Feb 7, 2026, 2:35:09 PM",
-            "level": 74,
+            "gender": 0,
+            "hp": 949861.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1877.8599853515625,
+                "y": -24759.798828125,
+                "z": 97873.984375
+            },
+            "last_seen": "Feb 13, 2026, 6:28:34 PM",
+            "level": 75,
             "name": "Hiimeduu",
             "name_history": [
                 "Hiimeduu"
             ],
             "registered": "Jan 17, 2026, 3:35:17 PM",
             "role_id": 38174107413578166,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413578227": {
             "crew_id": 0,
@@ -23506,6 +23512,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:27:34 PM",
+    "last_updated": "Feb 13, 2026, 6:28:34 PM",
     "server_region": "ws-america-01"
 }
