@@ -4402,8 +4402,8 @@
             "crew_name": "晓",
             "equipping_title": "2_12_1_1",
             "gender": 1,
-            "hp": 2104910.75,
-            "last_seen": "2025年11月25日 上午 5:31:00",
+            "hp": 3130565.25,
+            "last_seen": "2026年2月13日 下午11:58:37",
             "level": 100,
             "name": "小雷兽",
             "name_history": [
@@ -6547,9 +6547,15 @@
         "60632053339895": {
             "crew_id": 103079229226,
             "crew_name": "星陨阁",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "last_seen": "2025年09月22日 下午 3:34:57",
+            "hp": 3074781.75,
+            "last_seen": "2026年2月13日 下午11:58:37",
+            "level": 100,
             "name": "Erudite",
+            "name_history": [
+                "Erudite"
+            ],
             "registered": "2021年12月16日 下午3:50:18",
             "role_id": 60632053339895,
             "server_region": "visser_aida"
@@ -6636,6 +6642,22 @@
             ],
             "registered": "2021年12月19日 上午12:10:06",
             "role_id": 60632053364656,
+            "server_region": "visser_aida"
+        },
+        "60632053369256": {
+            "crew_id": 103079229226,
+            "crew_name": "星陨阁",
+            "equipping_title": "1_8_0_26",
+            "gender": 1,
+            "hp": 1197047.125,
+            "last_seen": "2026年2月13日 下午11:58:37",
+            "level": 100,
+            "name": "49317",
+            "name_history": [
+                "49317"
+            ],
+            "registered": "2021年12月20日 下午8:00:50",
+            "role_id": 60632053369256,
             "server_region": "visser_aida"
         },
         "60632053493689": {
@@ -6915,6 +6937,22 @@
             "name": "卡嘉丽的梦",
             "registered": "2021年12月18日 上午3:07:42",
             "role_id": 60644938261746,
+            "server_region": "visser_aida"
+        },
+        "60644938269339": {
+            "crew_id": 111669163820,
+            "crew_name": "猫与糖",
+            "equipping_title": "2_1_0_2",
+            "gender": 1,
+            "hp": 2446180.5,
+            "last_seen": "2026年2月13日 下午11:58:37",
+            "level": 100,
+            "name": "逝月",
+            "name_history": [
+                "逝月"
+            ],
+            "registered": "2021年12月19日 下午10:27:10",
+            "role_id": 60644938269339,
             "server_region": "visser_aida"
         },
         "60644938280405": {
@@ -7570,6 +7608,22 @@
             ],
             "registered": "2021年12月19日 下午8:07:25",
             "role_id": 60666413128367,
+            "server_region": "visser_aida"
+        },
+        "60666413129171": {
+            "crew_id": 390842038061,
+            "crew_name": "玄隳",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2496728.5,
+            "last_seen": "2026年2月13日 下午11:58:37",
+            "level": 100,
+            "name": "丷憨居居",
+            "name_history": [
+                "丷憨居居"
+            ],
+            "registered": "2021年12月19日 下午10:07:47",
+            "role_id": 60666413129171,
             "server_region": "visser_aida"
         },
         "60666413139383": {
@@ -14715,7 +14769,7 @@
             "server_region": "visser_aida"
         }
     },
-    "accounts_total": 1046,
-    "last_updated": "2026年2月13日 下午11:54:37",
+    "accounts_total": 1049,
+    "last_updated": "2026年2月13日 下午11:58:37",
     "server_region": "visser_aida"
 }
