@@ -18651,20 +18651,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413561334": {
-            "crew_id": 163217645350,
-            "crew_name": "Michi Pizzería",
-            "equipping_title": "HADES6的导师,0",
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 761834.25,
-            "last_seen": "Jan 23, 2026, 05:49:08 PM",
-            "level": 72,
+            "hp": 1010698.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -35.1168327331543,
+                "y": -23171.09375,
+                "z": 96692.3828125
+            },
+            "last_seen": "Feb 13, 2026, 6:29:34 PM",
+            "level": 75,
             "name": "carloss",
             "name_history": [
                 "carloss"
             ],
             "registered": "Dec 10, 2025, 2:10:35 PM",
             "role_id": 38174107413561334,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413561418": {
             "crew_id": 8598822694,
@@ -23512,6 +23518,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:28:34 PM",
+    "last_updated": "Feb 13, 2026, 6:29:34 PM",
     "server_region": "ws-america-01"
 }
