@@ -2163,20 +2163,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413513080": {
-            "crew_id": 2907701747494,
-            "crew_name": "Agartha",
-            "equipping_title": "Ars的学徒,0",
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 934527.6875,
-            "last_seen": "Jan 30, 2026, 03:17:46 PM",
-            "level": 73,
+            "hp": 1034641.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 885.47998046875,
+                "y": -28108.830078125,
+                "z": 97872.4453125
+            },
+            "last_seen": "Feb 13, 2026, 6:32:34 PM",
+            "level": 75,
             "name": "BillyBob",
             "name_history": [
                 "BillyBob"
             ],
             "registered": "Nov 25, 2025, 3:15:48 AM",
             "role_id": 38174107413513080,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413513096": {
             "crew_id": 0,
@@ -23524,6 +23530,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:31:34 PM",
+    "last_updated": "Feb 13, 2026, 6:32:34 PM",
     "server_region": "ws-america-01"
 }
