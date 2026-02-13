@@ -19716,8 +19716,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 1028033.75,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
+            "hp": 1049936.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1710.2899169921875,
+                "y": -27260.349609375,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 6:33:34 PM",
             "level": 75,
             "name": "navi♡",
             "name_history": [
@@ -19725,7 +19731,7 @@
             ],
             "registered": "Dec 22, 2025, 9:36:45 PM",
             "role_id": 38174107413569084,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413570083": {
             "crew_id": 360786140966,
@@ -23530,6 +23536,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:32:34 PM",
+    "last_updated": "Feb 13, 2026, 6:33:34 PM",
     "server_region": "ws-america-01"
 }
