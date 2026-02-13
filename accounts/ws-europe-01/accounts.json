@@ -2156,8 +2156,14 @@
             "crew_name": "Dynasty",
             "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;1",
             "gender": 1,
-            "hp": 2086252.75,
-            "last_seen": "Feb 10, 2026, 7:25:46 PM",
+            "hp": 1051202.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -5942.3798828125,
+                "y": -30036.0,
+                "z": 96336.03125
+            },
+            "last_seen": "Feb 13, 2026, 9:29:46 PM",
             "level": 75,
             "name": "Xestahy",
             "name_history": [
@@ -2165,7 +2171,7 @@
             ],
             "registered": "Nov 25, 2025, 9:24:59 AM",
             "role_id": 38174111708480333,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708480362": {
             "crew_id": 17188757287,
@@ -8156,8 +8162,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 985027.625,
-            "last_seen": "Feb 11, 2026, 7:25:36 PM",
+            "hp": 1060205.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -178.8000030517578,
+                "y": -28160.87890625,
+                "z": 97911.15625
+            },
+            "last_seen": "Feb 13, 2026, 9:29:46 PM",
             "level": 75,
             "name": "Danieru",
             "name_history": [
@@ -8165,7 +8177,7 @@
             ],
             "registered": "Nov 25, 2025, 6:19:49 PM",
             "role_id": 38174111708485859,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708485875": {
             "crew_id": 4303855399,
@@ -8605,7 +8617,13 @@
             "equipping_title": "Luna Terra's Mentor,0",
             "gender": 0,
             "hp": 1072249.125,
-            "last_seen": "Feb 10, 2026, 7:19:35 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 318.69000244140625,
+                "y": -28142.228515625,
+                "z": 97930.15625
+            },
+            "last_seen": "Feb 13, 2026, 9:29:46 PM",
             "level": 75,
             "name": "ColdPleb",
             "name_history": [
@@ -8613,7 +8631,7 @@
             ],
             "registered": "Nov 25, 2025, 7:12:44 PM",
             "role_id": 38174111708486399,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708486431": {
             "crew_id": 0,
@@ -13852,7 +13870,13 @@
             "equipping_title": "1_4_6_6",
             "gender": 0,
             "hp": 1092230.625,
-            "last_seen": "Feb 10, 2026, 7:39:49 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -5967.52001953125,
+                "y": -30054.849609375,
+                "z": 96349.53125
+            },
+            "last_seen": "Feb 13, 2026, 9:29:46 PM",
             "level": 75,
             "name": "Xiang",
             "name_history": [
@@ -13860,7 +13884,7 @@
             ],
             "registered": "Dec 20, 2025, 3:34:43 PM",
             "role_id": 38174111708514014,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708514060": {
             "crew_id": 0,
@@ -14793,8 +14817,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "Teskux's Apprentice,0",
             "gender": 0,
-            "hp": 985880.375,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
+            "hp": 988067.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": -2821.85888671875,
+                "y": -26989.39453125,
+                "z": 97512.875
+            },
+            "last_seen": "Feb 13, 2026, 9:29:46 PM",
             "level": 75,
             "name": "BiBi",
             "name_history": [
@@ -14802,7 +14832,7 @@
             ],
             "registered": "Jan 15, 2026, 9:02:20 PM",
             "role_id": 38174111708522209,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708522221": {
             "last_seen": [],
@@ -16648,6 +16678,6 @@
         }
     },
     "accounts_total": 1052,
-    "last_updated": "Feb 11, 2026, 7:26:38 PM",
+    "last_updated": "Feb 13, 2026, 9:29:46 PM",
     "server_region": "ws-europe-01"
 }
