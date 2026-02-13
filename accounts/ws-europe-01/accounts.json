@@ -8670,8 +8670,14 @@
             "crew_name": "Asylum",
             "equipping_title": "2_7_0_12",
             "gender": 1,
-            "hp": 1029965.75,
-            "last_seen": "Feb 10, 2026, 7:29:45 PM",
+            "hp": 1052047.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -2047.5198974609375,
+                "y": -26327.279296875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 13, 2026, 9:33:52 PM",
             "level": 75,
             "name": "Zionsfai",
             "name_history": [
@@ -8679,7 +8685,7 @@
             ],
             "registered": "Nov 25, 2025, 7:09:54 PM",
             "role_id": 38174111708486363,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708486365": {
             "crew_id": 0,
@@ -13757,8 +13763,14 @@
             "crew_name": "EuzeroFR",
             "equipping_title": "Canatek's Apprentice,0",
             "gender": 1,
-            "hp": 382364.90625,
-            "last_seen": "Feb 5, 2026, 8:06:13 PM",
+            "hp": 777909.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1072.2999267578125,
+                "y": -28343.798828125,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 13, 2026, 9:33:52 PM",
             "level": 71,
             "name": "canapi",
             "name_history": [
@@ -13766,7 +13778,7 @@
             ],
             "registered": "Dec 17, 2025, 5:38:24 PM",
             "role_id": 38174111708512665,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708512750": {
             "crew_id": 0,
@@ -17003,6 +17015,6 @@
         }
     },
     "accounts_total": 1059,
-    "last_updated": "Feb 13, 2026, 9:32:55 PM",
+    "last_updated": "Feb 13, 2026, 9:33:52 PM",
     "server_region": "ws-europe-01"
 }
