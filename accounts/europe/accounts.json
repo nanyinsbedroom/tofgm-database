@@ -14071,10 +14071,16 @@
         "55963424723223": {
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
-            "equipping_title": "3_2025",
+            "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 1247394.625,
-            "last_seen": "Nov 07, 2025, 01:33:52 AM",
+            "hp": 1273058.625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1889.989990234375,
+                "y": 44892.5703125,
+                "z": 5699.11962890625
+            },
+            "last_seen": "Feb 13, 2026, 8:56:59 PM",
             "level": 100,
             "name": "Myr",
             "name_history": [
@@ -16533,14 +16539,14 @@
             "crew_name": "",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1167767.5,
+            "hp": 1168967.5,
             "last_known_position": {
                 "map": "Vera_city",
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 2581.10986328125,
+                "y": 46050.23046875,
+                "z": 5705.61962890625
             },
-            "last_seen": "Feb 13, 2026, 8:56:20 PM",
+            "last_seen": "Feb 13, 2026, 8:56:59 PM",
             "level": 99,
             "name": "lolotte",
             "name_history": [
@@ -17050,11 +17056,11 @@
             "hp": 789222.6875,
             "last_known_position": {
                 "map": "Vera_city",
-                "x": 5190.42138671875,
-                "y": 39618.203125,
-                "z": 5702.09375
+                "x": 5352.18994140625,
+                "y": 39532.52734375,
+                "z": 5705.61962890625
             },
-            "last_seen": "Feb 13, 2026, 8:56:20 PM",
+            "last_seen": "Feb 13, 2026, 8:56:59 PM",
             "level": 77,
             "name": "Priiciia",
             "name_history": [
@@ -18619,6 +18625,6 @@
         }
     },
     "accounts_total": 1325,
-    "last_updated": "Feb 13, 2026, 8:56:20 PM",
+    "last_updated": "Feb 13, 2026, 8:56:59 PM",
     "server_region": "europe"
 }
