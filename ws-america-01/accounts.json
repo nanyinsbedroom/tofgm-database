@@ -6201,7 +6201,13 @@
             "equipping_title": "2_7_0_13",
             "gender": 0,
             "hp": 1089229.5,
-            "last_seen": "Feb 11, 2026, 2:12:30 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -2208.679931640625,
+                "y": -28718.048828125,
+                "z": 97876.515625
+            },
+            "last_seen": "Feb 13, 2026, 6:42:35 PM",
             "level": 75,
             "name": "Mimo",
             "name_history": [
@@ -6209,7 +6215,7 @@
             ],
             "registered": "Nov 25, 2025, 6:59:28 AM",
             "role_id": 38174107413516148,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413516149": {
             "crew_id": 0,
@@ -11884,6 +11890,28 @@
             "registered": "Nov 25, 2025, 12:08:58 PM",
             "role_id": 38174107413521339,
             "server_region": "ws-america-01"
+        },
+        "38174107413521375": {
+            "crew_id": 2224801947430,
+            "crew_name": "Galaxia",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 898872.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 7271.48974609375,
+                "y": -30990.080078125,
+                "z": 96349.53125
+            },
+            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "level": 74,
+            "name": "Nym",
+            "name_history": [
+                "Nym"
+            ],
+            "registered": "Nov 25, 2025, 12:11:29 PM",
+            "role_id": 38174107413521375,
+            "server_region": "ws_america_01"
         },
         "38174107413521413": {
             "crew_id": 622779146022,
@@ -19173,20 +19201,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413565635": {
-            "crew_id": 38663593766,
-            "crew_name": "ACxBoba",
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1028412.75,
-            "last_seen": "Feb 8, 2026, 4:00:15 PM",
-            "level": 74,
+            "hp": 1092617.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -27.709999084472656,
+                "y": -16630.580078125,
+                "z": 96362.03125
+            },
+            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "level": 75,
             "name": "Sini",
             "name_history": [
                 "Sini"
             ],
             "registered": "Dec 17, 2025, 12:16:29 AM",
             "role_id": 38174107413565635,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413565708": {
             "crew_id": 798872805158,
@@ -20604,20 +20638,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413576035": {
-            "crew_id": 2886226911014,
-            "crew_name": "SleepingTree",
+            "crew_id": 1610621624102,
+            "crew_name": "ANGEL HEART",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 502213.40625,
-            "last_seen": "Jan 25, 2026, 10:58:29 PM",
-            "level": 70,
+            "hp": 607242.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 985.6599731445313,
+                "y": -28102.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "level": 73,
             "name": "Midnight_Sky",
             "name_history": [
                 "Midnight_Sky"
             ],
             "registered": "Jan 6, 2026, 12:50:55 AM",
             "role_id": 38174107413576035,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413576089": {
             "crew_id": 0,
@@ -22952,6 +22992,28 @@
             "role_id": 38174107413581316,
             "server_region": "ws-america-01"
         },
+        "38174107413581329": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 22725.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2846.7265625,
+                "y": -28313.69140625,
+                "z": 98001.109375
+            },
+            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "level": 11,
+            "name": "JCmighty",
+            "name_history": [
+                "JCmighty"
+            ],
+            "registered": "Feb 5, 2026, 6:37:49 PM",
+            "role_id": 38174107413581329,
+            "server_region": "ws_america_01"
+        },
         "38174107413581404": {
             "crew_id": 0,
             "crew_name": "",
@@ -23613,7 +23675,7 @@
             "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1454,
-    "last_updated": "Feb 13, 2026, 6:41:35 PM",
+    "accounts_total": 1456,
+    "last_updated": "Feb 13, 2026, 6:42:35 PM",
     "server_region": "ws-america-01"
 }
