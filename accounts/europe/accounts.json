@@ -4752,10 +4752,16 @@
         "55877524525285": {
             "crew_id": 725849486034,
             "crew_name": "Harmony",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 2843270.0,
-            "last_seen": "Nov 22, 2025, 01:19:53 AM",
+            "hp": 6196594.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99669.1796875,
+                "y": -180639.390625,
+                "z": -7662.14208984375
+            },
+            "last_seen": "Feb 13, 2026, 9:25:42 PM",
             "level": 100,
             "name": "Sakazaky",
             "name_history": [
@@ -17194,11 +17200,11 @@
             "hp": 6332714.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 100961.140625,
-                "y": -185255.140625,
-                "z": -7630.33544921875
+                "x": 92374.078125,
+                "y": -187942.09375,
+                "z": -7241.9599609375
             },
-            "last_seen": "Feb 13, 2026, 9:01:20 PM",
+            "last_seen": "Feb 13, 2026, 9:25:42 PM",
             "level": 91,
             "name": "Mr. Aizen",
             "name_history": [
@@ -18877,6 +18883,6 @@
         }
     },
     "accounts_total": 1333,
-    "last_updated": "Feb 13, 2026, 9:23:42 PM",
+    "last_updated": "Feb 13, 2026, 9:25:42 PM",
     "server_region": "europe"
 }
