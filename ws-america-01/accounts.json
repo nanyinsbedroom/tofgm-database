@@ -13108,18 +13108,24 @@
         "38174107413524203": {
             "crew_id": 369376075558,
             "crew_name": "Minor Threat",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "Shizuku's Mentor,0",
             "gender": 0,
-            "hp": 559183.0,
-            "last_seen": "Dec 20, 2025, 08:29:11 PM",
-            "level": 62,
+            "hp": 1003083.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89270.921875,
+                "y": 59892.8203125,
+                "z": -4432.03857421875
+            },
+            "last_seen": "Feb 13, 2026, 6:16:33 PM",
+            "level": 75,
             "name": "OsoShiesty",
             "name_history": [
                 "OsoShiesty"
             ],
             "registered": "Nov 25, 2025, 3:49:04 PM",
             "role_id": 38174107413524203,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413524227": {
             "crew_id": 60138430246,
@@ -22931,6 +22937,6 @@
         }
     },
     "accounts_total": 1432,
-    "last_updated": "Feb 13, 2026, 6:13:50 PM",
+    "last_updated": "Feb 13, 2026, 6:16:33 PM",
     "server_region": "ws-america-01"
 }
