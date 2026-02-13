@@ -12406,11 +12406,17 @@
         "38174111708499467": {
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "1_6_4_40",
+            "equipping_title": "1_6_4_39",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:31:37 PM",
-            "level": 74,
+            "hp": 1008703.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 11:03:42 PM",
+            "level": 75,
             "name": "Ruri Hime",
             "name_history": [
                 "Runa",
@@ -17233,6 +17239,6 @@
         }
     },
     "accounts_total": 1064,
-    "last_updated": "Feb 13, 2026, 11:01:42 PM",
+    "last_updated": "Feb 13, 2026, 11:03:42 PM",
     "server_region": "ws-europe-01"
 }
