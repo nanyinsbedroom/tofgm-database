@@ -9076,8 +9076,14 @@
             "crew_name": "Solstice",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1004539.9375,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
+            "hp": 1010818.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1866.5999755859375,
+                "y": -24272.830078125,
+                "z": 97880.0859375
+            },
+            "last_seen": "Feb 13, 2026, 6:38:35 PM",
             "level": 75,
             "name": "Pandora",
             "name_history": [
@@ -9085,7 +9091,7 @@
             ],
             "registered": "Nov 25, 2025, 9:12:32 AM",
             "role_id": 38174107413518410,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413518416": {
             "crew_id": 0,
@@ -23558,6 +23564,6 @@
         }
     },
     "accounts_total": 1452,
-    "last_updated": "Feb 13, 2026, 6:34:34 PM",
+    "last_updated": "Feb 13, 2026, 6:38:35 PM",
     "server_region": "ws-america-01"
 }
