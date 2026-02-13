@@ -1616,6 +1616,28 @@
             "role_id": 38174107413512792,
             "server_region": "ws-america-01"
         },
+        "38174107413512793": {
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 792626.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.296875,
+                "y": 75609.7578125,
+                "z": -7035.24755859375
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 75,
+            "name": "Jazviel",
+            "name_history": [
+                "Jazviel"
+            ],
+            "registered": "Nov 25, 2025, 3:06:59 AM",
+            "role_id": 38174107413512793,
+            "server_region": "ws_america_01"
+        },
         "38174107413512806": {
             "crew_id": 0,
             "crew_name": "",
@@ -4652,16 +4674,22 @@
             "equipping_title": "2_10_1_11",
             "gender": 1,
             "hp": 1072130.25,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -1267.6300048828125,
+                "y": -23530.400390625,
+                "z": 96800.0703125
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
             "level": 75,
             "name": "Bootyy",
             "name_history": [
-                "BootyClapper",
-                "Bootyy"
+                "Bootyy",
+                "BootyClapper"
             ],
             "registered": "Nov 25, 2025, 5:12:07 AM",
             "role_id": 38174107413514744,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413514746": {
             "crew_id": 622779146022,
@@ -5400,8 +5428,14 @@
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1067419.125,
-            "last_seen": "Feb 11, 2026, 1:41:30 PM",
+            "hp": 1068695.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 42.90999984741211,
+                "y": -21647.080078125,
+                "z": 96749.9453125
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
             "level": 75,
             "name": "Caprichosita",
             "name_history": [
@@ -5409,7 +5443,7 @@
             ],
             "registered": "Nov 25, 2025, 6:06:39 AM",
             "role_id": 38174107413515437,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413515466": {
             "crew_id": 0,
@@ -8131,6 +8165,28 @@
             "role_id": 38174107413517817,
             "server_region": "ws-america-01"
         },
+        "38174107413517819": {
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 832176.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.203125,
+                "y": 75609.75,
+                "z": -7032.74755859375
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 74,
+            "name": "Anvell ",
+            "name_history": [
+                "Anvell "
+            ],
+            "registered": "Nov 25, 2025, 8:39:48 AM",
+            "role_id": 38174107413517819,
+            "server_region": "ws_america_01"
+        },
         "38174107413517820": {
             "crew_id": 352196206374,
             "crew_name": "Legion",
@@ -8930,6 +8986,28 @@
             "registered": "Nov 25, 2025, 9:09:04 AM",
             "role_id": 38174107413518351,
             "server_region": "ws-america-01"
+        },
+        "38174107413518369": {
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1001838.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.171875,
+                "y": 75609.78125,
+                "z": -7033.24755859375
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 75,
+            "name": "SERGII",
+            "name_history": [
+                "SERGII"
+            ],
+            "registered": "Nov 25, 2025, 9:10:12 AM",
+            "role_id": 38174107413518369,
+            "server_region": "ws_america_01"
         },
         "38174107413518379": {
             "crew_id": 0,
@@ -10426,20 +10504,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413519682": {
-            "crew_id": 2495384887078,
-            "crew_name": "Akatsuki",
-            "equipping_title": "None",
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 516662.0,
-            "last_seen": "Dec 23, 2025, 07:16:59 PM",
-            "level": 62,
+            "hp": 957315.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": 245.97000122070313,
+                "y": -22582.48046875,
+                "z": 96725.6953125
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 75,
             "name": "iki",
             "name_history": [
                 "iki"
             ],
             "registered": "Nov 25, 2025, 10:23:58 AM",
             "role_id": 38174107413519682,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413519710": {
             "crew_id": 0,
@@ -14248,18 +14332,24 @@
         "38174107413527326": {
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1021333.8125,
-            "last_seen": "Feb 8, 2026, 4:00:15 PM",
-            "level": 74,
+            "hp": 1076329.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -138.239990234375,
+                "y": -22840.599609375,
+                "z": 96712.1953125
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 75,
             "name": "Beans007",
             "name_history": [
                 "Beans007"
             ],
             "registered": "Nov 25, 2025, 6:38:09 PM",
             "role_id": 38174107413527326,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413527329": {
             "crew_id": 240527056678,
@@ -16542,18 +16632,24 @@
         "38174107413542827": {
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "1_6_2_1",
-            "gender": 1,
-            "hp": 346270.03125,
-            "last_seen": "Dec 19, 2025, 11:07:33 AM",
-            "level": 59,
+            "equipping_title": "2_7_0_13",
+            "gender": 0,
+            "hp": 1017919.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": 353.55999755859375,
+                "y": -22094.0703125,
+                "z": 96744.359375
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 75,
             "name": "Chitose",
             "name_history": [
                 "Chitose"
             ],
             "registered": "Nov 28, 2025, 3:31:08 PM",
             "role_id": 38174107413542827,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413542877": {
             "crew_id": 115973005094,
@@ -19914,16 +20010,22 @@
             "equipping_title": "1_7_1_1",
             "gender": 0,
             "hp": 837558.5625,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 1439.5299072265625,
+                "y": -23728.369140625,
+                "z": 96745.8359375
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
             "level": 75,
             "name": " Haru ",
             "name_history": [
-                "Sielniar",
-                " Haru "
+                " Haru ",
+                "Sielniar"
             ],
             "registered": "Dec 28, 2025, 10:19:24 PM",
             "role_id": 38174107413573079,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413573080": {
             "crew_id": 502520061734,
@@ -23272,9 +23374,31 @@
             "registered": "Feb 13, 2026, 5:31:56 PM",
             "role_id": 38174107413582452,
             "server_region": "ws_america_01"
+        },
+        "38174107413582455": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4997.77001953125
+            },
+            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "level": 1,
+            "name": "Lilithy",
+            "name_history": [
+                "Lilithy"
+            ],
+            "registered": "Feb 13, 2026, 6:16:30 PM",
+            "role_id": 38174107413582455,
+            "server_region": "ws_america_01"
         }
     },
-    "accounts_total": 1446,
-    "last_updated": "Feb 13, 2026, 6:22:34 PM",
+    "accounts_total": 1450,
+    "last_updated": "Feb 13, 2026, 6:23:34 PM",
     "server_region": "ws-america-01"
 }
