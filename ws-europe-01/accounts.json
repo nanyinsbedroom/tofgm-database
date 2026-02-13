@@ -13046,9 +13046,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "WorldBossDamage_1;boss_hum_055_World;1",
             "gender": 1,
-            "hp": 2003758.0,
-            "last_seen": "Feb 8, 2026, 7:28:36 PM",
-            "level": 74,
+            "hp": 1041328.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 356.8999938964844,
+                "y": -28454.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 11:00:42 PM",
+            "level": 75,
             "name": "Rosémi",
             "name_history": [
                 "Rosémi"
@@ -17221,6 +17227,6 @@
         }
     },
     "accounts_total": 1064,
-    "last_updated": "Feb 13, 2026, 10:59:42 PM",
+    "last_updated": "Feb 13, 2026, 11:00:42 PM",
     "server_region": "ws-europe-01"
 }
