@@ -7224,16 +7224,22 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 963376.375,
-            "last_seen": "Jan 30, 2026, 10:44:35 PM",
-            "level": 73,
+            "hp": 1060882.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -2330.780029296875,
+                "y": -25455.19921875,
+                "z": 98630.875
+            },
+            "last_seen": "Feb 13, 2026, 6:41:35 PM",
+            "level": 75,
             "name": "kRePiN",
             "name_history": [
                 "kRePiN"
             ],
             "registered": "Nov 25, 2025, 7:55:46 AM",
             "role_id": 38174107413517024,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413517026": {
             "crew_id": 163217645350,
@@ -23608,6 +23614,6 @@
         }
     },
     "accounts_total": 1454,
-    "last_updated": "Feb 13, 2026, 6:40:35 PM",
+    "last_updated": "Feb 13, 2026, 6:41:35 PM",
     "server_region": "ws-america-01"
 }
