@@ -6946,8 +6946,14 @@
             "crew_name": "Heavens Souls",
             "equipping_title": "1_6_0_1",
             "gender": 1,
-            "hp": 2261856.0,
-            "last_seen": "Nov 03, 2025, 03:02:47 AM",
+            "hp": 2932732.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7648.69970703125,
+                "y": 60363.0,
+                "z": 40598.96875
+            },
+            "last_seen": "Feb 13, 2026, 8:59:20 PM",
             "level": 100,
             "name": "Ryuoma",
             "name_history": [
@@ -7377,10 +7383,16 @@
         "55916179344562": {
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "Title_KoreaAnniversary23",
+            "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2409757.25,
-            "last_seen": "Nov 23, 2025, 03:05:37 AM",
+            "hp": 3217035.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7437.10693359375,
+                "y": 64024.7421875,
+                "z": 40851.859375
+            },
+            "last_seen": "Feb 13, 2026, 8:59:20 PM",
             "level": 100,
             "name": "ZeroX5",
             "name_history": [
@@ -18631,6 +18643,6 @@
         }
     },
     "accounts_total": 1325,
-    "last_updated": "Feb 13, 2026, 8:58:19 PM",
+    "last_updated": "Feb 13, 2026, 8:59:20 PM",
     "server_region": "europe"
 }
