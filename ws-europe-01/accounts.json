@@ -8662,9 +8662,15 @@
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 0,
-            "hp": 1014582.8125,
-            "last_seen": "Feb 7, 2026, 8:00:07 PM",
-            "level": 74,
+            "hp": 1058087.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -623.9199829101563,
+                "y": -22304.990234375,
+                "z": 96751.890625
+            },
+            "last_seen": "Feb 13, 2026, 11:01:42 PM",
+            "level": 75,
             "name": "Werseter",
             "name_history": [
                 "Werseter"
@@ -17227,6 +17233,6 @@
         }
     },
     "accounts_total": 1064,
-    "last_updated": "Feb 13, 2026, 11:00:42 PM",
+    "last_updated": "Feb 13, 2026, 11:01:42 PM",
     "server_region": "ws-europe-01"
 }
