@@ -2084,8 +2084,14 @@
             "crew_name": "New Era",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 0,
-            "hp": 2503343.5,
-            "last_seen": "Nov 02, 2025, 04:41:13 AM",
+            "hp": 2728157.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -75314.46875,
+                "y": 77039.3671875,
+                "z": -8842.1201171875
+            },
+            "last_seen": "Feb 13, 2026, 9:19:43 PM",
             "level": 100,
             "name": " Kaionary",
             "name_history": [
@@ -16770,6 +16776,28 @@
             "role_id": 55963424753110,
             "server_region": "europe"
         },
+        "55963424753205": {
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 354.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92407.234375,
+                "y": 74691.640625,
+                "z": -7059.509765625
+            },
+            "last_seen": "Feb 13, 2026, 9:19:43 PM",
+            "level": 1,
+            "name": " Petr",
+            "name_history": [
+                " Petr"
+            ],
+            "registered": "Jan 19, 2026, 8:51:56 PM",
+            "role_id": 55963424753205,
+            "server_region": "europe"
+        },
         "55963424753574": {
             "crew_id": 2465311240936,
             "crew_name": "Равенство",
@@ -16824,7 +16852,13 @@
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 584680.1875,
-            "last_seen": "Feb 13, 2026, 6:14:32 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80327.609375,
+                "y": 71747.0,
+                "z": -8589.1201171875
+            },
+            "last_seen": "Feb 13, 2026, 9:19:43 PM",
             "level": 67,
             "name": "Myst",
             "name_history": [
@@ -18726,7 +18760,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1327,
-    "last_updated": "Feb 13, 2026, 8:04:20 PM",
+    "accounts_total": 1328,
+    "last_updated": "Feb 13, 2026, 9:19:43 PM",
     "server_region": "europe"
 }
