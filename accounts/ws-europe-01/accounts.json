@@ -197,16 +197,22 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 2366430.0,
-            "last_seen": "Feb 9, 2026, 7:59:08 PM",
-            "level": 74,
+            "hp": 1072444.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2332.02001953125,
+                "y": -29201.87890625,
+                "z": 97891.1640625
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 75,
             "name": "Love",
             "name_history": [
                 "Love"
             ],
             "registered": "Nov 25, 2025, 9:01:48 AM",
             "role_id": 38174111708479531,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708479535": {
             "crew_id": 12893789991,
@@ -780,16 +786,22 @@
             "crew_name": "Wonderland",
             "equipping_title": "2_10_1_9",
             "gender": 0,
-            "hp": 1011176.6875,
-            "last_seen": "Feb 03, 2026, 10:38:57 PM",
-            "level": 74,
+            "hp": 1038032.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 980.8899536132813,
+                "y": -28155.740234375,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 75,
             "name": "Mystyk",
             "name_history": [
                 "Mystyk"
             ],
             "registered": "Nov 25, 2025, 9:04:00 AM",
             "role_id": 38174111708479763,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708479767": {
             "crew_id": 429505617703,
@@ -2424,16 +2436,22 @@
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1036019.1875,
-            "last_seen": "Feb 8, 2026, 7:59:34 PM",
-            "level": 74,
+            "hp": 1062583.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1092.0,
+                "y": -25622.298828125,
+                "z": 96706.9609375
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 75,
             "name": "fyfu",
             "name_history": [
                 "fyfu"
             ],
             "registered": "Nov 25, 2025, 9:36:29 AM",
             "role_id": 38174111708480529,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708480537": {
             "crew_id": 103088103207,
@@ -4332,20 +4350,26 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481856": {
-            "crew_id": 622779146023,
-            "crew_name": "النخبة",
-            "equipping_title": "1_3_2_1",
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "WorldBossDamage_1;boss_hum_044_world;1",
             "gender": 0,
-            "hp": 1039994.3125,
-            "last_seen": "Feb 7, 2026, 7:58:07 PM",
-            "level": 74,
+            "hp": 1075609.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 889.6699829101563,
+                "y": -28461.919921875,
+                "z": 97865.9375
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 75,
             "name": "كتكات",
             "name_history": [
                 "كتكات"
             ],
             "registered": "Nov 25, 2025, 11:29:13 AM",
             "role_id": 38174111708481856,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708481875": {
             "crew_id": 38663593767,
@@ -5366,8 +5390,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 0,
-            "hp": 511765.125,
-            "last_seen": "Feb 10, 2026, 7:20:51 PM",
+            "hp": 1026890.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1472.1199951171875,
+                "y": -27319.490234375,
+                "z": 97911.15625
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
             "level": 75,
             "name": "Fedwells",
             "name_history": [
@@ -5375,7 +5405,7 @@
             ],
             "registered": "Nov 25, 2025, 12:52:18 PM",
             "role_id": 38174111708482650,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708482669": {
             "crew_id": 0,
@@ -12353,12 +12383,18 @@
             "server_region": "ws-europe-01"
         },
         "38174111708500989": {
-            "crew_id": 25778691879,
-            "crew_name": "Asylum",
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
             "hp": 1069762.625,
-            "last_seen": "Feb 11, 2026, 7:20:33 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 955.3499755859375,
+                "y": -27855.298828125,
+                "z": 97895.4453125
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
             "level": 75,
             "name": "Zanta",
             "name_history": [
@@ -12366,7 +12402,7 @@
             ],
             "registered": "Dec 1, 2025, 4:53:12 AM",
             "role_id": 38174111708500989,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708501094": {
             "crew_id": 4303855399,
@@ -12565,16 +12601,22 @@
             "crew_name": "Rebirth",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 578034.8125,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
-            "level": 69,
+            "hp": 707626.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1136.0899658203125,
+                "y": -28359.888671875,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 70,
             "name": "Ducky_",
             "name_history": [
                 "Ducky_"
             ],
             "registered": "Dec 2, 2025, 5:42:22 PM",
             "role_id": 38174111708502652,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708502764": {
             "crew_id": 408030781223,
@@ -13861,20 +13903,26 @@
             "server_region": "ws-europe-01"
         },
         "38174111708513237": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_10_1_9",
             "gender": 1,
-            "hp": 81556.0,
-            "last_seen": "Dec 21, 2025, 01:26:08 AM",
-            "level": 43,
+            "hp": 900220.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 212.9499969482422,
+                "y": -22254.55859375,
+                "z": 96738.375
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 73,
             "name": "まり菜",
             "name_history": [
                 "まり菜"
             ],
             "registered": "Dec 18, 2025, 9:40:52 PM",
             "role_id": 38174111708513237,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708513559": {
             "crew_id": 0,
@@ -16856,16 +16904,22 @@
             "crew_name": "Dynasty",
             "equipping_title": "Xig's Apprentice,0",
             "gender": 0,
-            "hp": 188452.8125,
-            "last_seen": "Feb 10, 2026, 7:39:49 PM",
-            "level": 60,
+            "hp": 403198.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1532.8399658203125,
+                "y": -29243.458984375,
+                "z": 97245.3046875
+            },
+            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "level": 73,
             "name": "GNIAX",
             "name_history": [
                 "GNIAX"
             ],
             "registered": "Feb 9, 2026, 3:05:10 PM",
             "role_id": 38174111708525049,
-            "server_region": "ws-europe-01"
+            "server_region": "ws_europe_01"
         },
         "38174111708525145": {
             "crew_id": 0,
@@ -16949,6 +17003,6 @@
         }
     },
     "accounts_total": 1059,
-    "last_updated": "Feb 13, 2026, 9:31:01 PM",
+    "last_updated": "Feb 13, 2026, 9:32:55 PM",
     "server_region": "ws-europe-01"
 }
