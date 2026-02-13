@@ -1484,8 +1484,14 @@
             "crew_name": "Aurora",
             "equipping_title": "2_2_0_23",
             "gender": 0,
-            "hp": 2348659.5,
-            "last_seen": "Nov 07, 2025, 01:00:48 AM",
+            "hp": 6951230.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 9:01:20 PM",
             "level": 100,
             "name": "KasaneRandall91",
             "name_history": [
@@ -4158,10 +4164,16 @@
         "55868934655259": {
             "crew_id": 1438814057168,
             "crew_name": "LesExplorateurs",
-            "equipping_title": "KasaneRandall91的学徒,0",
+            "equipping_title": "KasaneRandall91's Apprentice,0",
             "gender": 1,
-            "hp": 1868711.375,
-            "last_seen": "Nov 22, 2025, 02:23:35 AM",
+            "hp": 6768069.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96140.4140625,
+                "y": -215322.53125,
+                "z": 1485.669921875
+            },
+            "last_seen": "Feb 13, 2026, 9:01:20 PM",
             "level": 100,
             "name": "PinkyPie",
             "name_history": [
@@ -16848,6 +16860,28 @@
             "role_id": 55963424757886,
             "server_region": "europe"
         },
+        "55963424757964": {
+            "crew_id": 18120467034854,
+            "crew_name": "Bananabread",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 5659332.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 9:01:20 PM",
+            "level": 48,
+            "name": "Terrormon",
+            "name_history": [
+                "Terrormon"
+            ],
+            "registered": "Jan 29, 2026, 4:30:25 PM",
+            "role_id": 55963424757964,
+            "server_region": "europe"
+        },
         "55963424757990": {
             "crew_id": 18120467034854,
             "crew_name": "Bananabread",
@@ -17013,9 +17047,15 @@
             "crew_name": "The_Void",
             "equipping_title": "HuntingRank_3;imitation_70;31",
             "gender": 1,
-            "hp": 932833.5625,
-            "last_seen": "Feb 10, 2026, 8:03:40 PM",
-            "level": 83,
+            "hp": 6332714.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100961.140625,
+                "y": -185255.140625,
+                "z": -7630.33544921875
+            },
+            "last_seen": "Feb 13, 2026, 9:01:20 PM",
+            "level": 91,
             "name": "Mr. Aizen",
             "name_history": [
                 "Mr. Aizen"
@@ -18664,7 +18704,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1326,
-    "last_updated": "Feb 13, 2026, 9:00:19 PM",
+    "accounts_total": 1327,
+    "last_updated": "Feb 13, 2026, 9:01:20 PM",
     "server_region": "europe"
 }
