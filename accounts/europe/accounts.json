@@ -700,6 +700,28 @@
             "role_id": 55843164814360,
             "server_region": "europe"
         },
+        "55843164815664": {
+            "crew_id": 5403068871375,
+            "crew_name": "Insomnia",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 1257517.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56442.01953125,
+                "y": 63988.4375,
+                "z": -3033.639892578125
+            },
+            "last_seen": "Feb 13, 2026, 9:22:42 PM",
+            "level": 100,
+            "name": "Saion#c",
+            "name_history": [
+                "Saion#c"
+            ],
+            "registered": "Aug 11, 2022, 11:46:24 AM",
+            "role_id": 55843164815664,
+            "server_region": "europe"
+        },
         "55843164817795": {
             "crew_id": 0,
             "crew_name": "",
@@ -14206,6 +14228,28 @@
             "role_id": 55963424723325,
             "server_region": "europe"
         },
+        "55963424723329": {
+            "crew_id": 18107582132966,
+            "crew_name": "Die Eumel Crew",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1783776.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 9:22:42 PM",
+            "level": 100,
+            "name": "MonoCrom",
+            "name_history": [
+                "MonoCrom"
+            ],
+            "registered": "Aug 27, 2025, 1:31:13 PM",
+            "role_id": 55963424723329,
+            "server_region": "europe"
+        },
         "55963424723369": {
             "crew_id": 0,
             "crew_name": "",
@@ -17282,7 +17326,13 @@
             "equipping_title": "None",
             "gender": 0,
             "hp": 2241.55322265625,
-            "last_seen": "Feb 13, 2026, 6:14:32 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56178.0703125,
+                "y": 63859.95703125,
+                "z": -3050.10986328125
+            },
+            "last_seen": "Feb 13, 2026, 9:22:42 PM",
             "level": 7,
             "name": "ReyRey",
             "name_history": [
@@ -17505,6 +17555,28 @@
             ],
             "registered": "Feb 6, 2026, 8:55:36 PM",
             "role_id": 55963424761779,
+            "server_region": "europe"
+        },
+        "55963424761821": {
+            "crew_id": 133143999181,
+            "crew_name": "New Era",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 578005.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 9:22:42 PM",
+            "level": 63,
+            "name": "sT1Ck",
+            "name_history": [
+                "sT1Ck"
+            ],
+            "registered": "Feb 6, 2026, 10:48:58 PM",
+            "role_id": 55963424761821,
             "server_region": "europe"
         },
         "55963424761908": {
@@ -18782,7 +18854,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1329,
-    "last_updated": "Feb 13, 2026, 9:21:42 PM",
+    "accounts_total": 1332,
+    "last_updated": "Feb 13, 2026, 9:22:42 PM",
     "server_region": "europe"
 }
