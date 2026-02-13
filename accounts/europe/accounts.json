@@ -9209,7 +9209,13 @@
             "equipping_title": "None",
             "gender": 1,
             "hp": 1789007.5,
-            "last_seen": "Feb 13, 2026, 8:42:18 PM",
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 13, 2026, 8:58:19 PM",
             "level": 100,
             "name": "CoolSam",
             "name_history": [
@@ -18625,6 +18631,6 @@
         }
     },
     "accounts_total": 1325,
-    "last_updated": "Feb 13, 2026, 8:56:59 PM",
+    "last_updated": "Feb 13, 2026, 8:58:19 PM",
     "server_region": "europe"
 }
