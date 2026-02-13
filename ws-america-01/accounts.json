@@ -17056,8 +17056,14 @@
             "crew_name": "Supernova",
             "equipping_title": "2_2_0_68",
             "gender": 0,
-            "hp": 1080045.375,
-            "last_seen": "Feb 11, 2026, 1:41:30 PM",
+            "hp": 1083616.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 148.52999877929688,
+                "y": -20945.0390625,
+                "z": 96744.359375
+            },
+            "last_seen": "Feb 13, 2026, 6:31:34 PM",
             "level": 75,
             "name": "jcbz",
             "name_history": [
@@ -17065,7 +17071,7 @@
             ],
             "registered": "Nov 29, 2025, 10:28:47 AM",
             "role_id": 38174107413545645,
-            "server_region": "ws-america-01"
+            "server_region": "ws_america_01"
         },
         "38174107413545692": {
             "crew_id": 0,
@@ -23518,6 +23524,6 @@
         }
     },
     "accounts_total": 1451,
-    "last_updated": "Feb 13, 2026, 6:29:34 PM",
+    "last_updated": "Feb 13, 2026, 6:31:34 PM",
     "server_region": "ws-america-01"
 }
