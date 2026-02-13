@@ -7666,9 +7666,15 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_40",
             "gender": 0,
-            "hp": 2331065.25,
-            "last_seen": "Feb 9, 2026, 7:52:56 PM",
-            "level": 74,
+            "hp": 1098938.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 215.0800018310547,
+                "y": -22822.900390625,
+                "z": 96726.6953125
+            },
+            "last_seen": "Feb 13, 2026, 11:04:27 PM",
+            "level": 75,
             "name": "Faris",
             "name_history": [
                 "Faris"
@@ -17239,6 +17245,6 @@
         }
     },
     "accounts_total": 1064,
-    "last_updated": "Feb 13, 2026, 11:03:42 PM",
+    "last_updated": "Feb 13, 2026, 11:04:27 PM",
     "server_region": "ws-europe-01"
 }
