@@ -4528,12 +4528,21 @@
             "server_region": "asia-pacific"
         },
         "47270410132624": {
+            "crew_history": [
+                "オグリキャップだよろしく頼む"
+            ],
             "crew_id": 957777718014,
             "crew_name": "オグリキャップだよろしく頼む",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2345350.25,
-            "last_seen": "Jan 27, 2026, 12:52:05 AM",
+            "hp": 2361082.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 76474.9765625,
+                "y": 236.15948486328125,
+                "z": 9543.865234375
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
             "level": 100,
             "name": "syusyu　",
             "name_history": [
@@ -10672,6 +10681,31 @@
             ],
             "registered": "Aug 11, 2022, 1:11:56 PM",
             "role_id": 47309064782118,
+            "server_region": "asia-pacific"
+        },
+        "47309064786532": {
+            "crew_history": [
+                "midnightsky"
+            ],
+            "crew_id": 8589945607,
+            "crew_name": "midnightsky",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2668855.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 75920.03125,
+                "y": -1334.3199462890625,
+                "z": 9791.5595703125
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
+            "level": 100,
+            "name": "河原",
+            "name_history": [
+                "河原"
+            ],
+            "registered": "Aug 11, 2022, 3:04:11 PM",
+            "role_id": 47309064786532,
             "server_region": "asia-pacific"
         },
         "47309064788763": {
@@ -16931,12 +16965,21 @@
             "server_region": "asia-pacific"
         },
         "47343427100997": {
+            "crew_history": [
+                "ORI"
+            ],
             "crew_id": 12305081314063,
             "crew_name": "ORI",
-            "equipping_title": "Reisen x的导师,0",
+            "equipping_title": "Reisen x's Mentor,0",
             "gender": 0,
-            "hp": 1570042.25,
-            "last_seen": "Jan 27, 2026, 01:15:22 AM",
+            "hp": 1530934.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 76557.6640625,
+                "y": 245.55914306640625,
+                "z": 9529.5458984375
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
             "level": 100,
             "name": "reisen Udongein",
             "name_history": [
@@ -28882,6 +28925,29 @@
             "role_id": 47343427980003,
             "server_region": "asia-pacific"
         },
+        "47343427980068": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 805311.3125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 9727.7998046875,
+                "y": 352.29998779296875,
+                "z": 12693.8798828125
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
+            "level": 72,
+            "name": "NiluEB",
+            "name_history": [
+                "NiluEB"
+            ],
+            "registered": "Jan 29, 2026, 1:39:42 AM",
+            "role_id": 47343427980068,
+            "server_region": "asia-pacific"
+        },
         "47343427980202": {
             "crew_id": 0,
             "crew_name": "",
@@ -29079,6 +29145,29 @@
             ],
             "registered": "Feb 11, 2026, 6:55:44 AM",
             "role_id": 47343427987003,
+            "server_region": "asia-pacific"
+        },
+        "47343427988379": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29646.3984375,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 10558.0390625,
+                "y": -5065.962890625,
+                "z": 8688.76953125
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
+            "level": 25,
+            "name": "ovilord",
+            "name_history": [
+                "ovilord"
+            ],
+            "registered": "Feb 14, 2026, 2:05:00 PM",
+            "role_id": 47343427988379,
             "server_region": "asia-pacific"
         },
         "47343427988419": {
@@ -29545,12 +29634,21 @@
             "server_region": "asia-pacific"
         },
         "47347720472051": {
+            "crew_history": [
+                "交錯せし青眼"
+            ],
             "crew_id": 5531917888271,
             "crew_name": "交錯せし青眼",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "2_2_0_74",
             "gender": 0,
-            "hp": 698014.3125,
-            "last_seen": "Nov 03, 2025, 07:28:03 PM",
+            "hp": 958176.125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 77016.28125,
+                "y": 569.6199951171875,
+                "z": 9791.6494140625
+            },
+            "last_seen": "Feb 14, 2026, 6:13:43 PM",
             "level": 100,
             "name": "Eila",
             "name_history": [
@@ -35220,7 +35318,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2544,
-    "last_updated": "Feb 14, 2026, 6:11:43 PM",
+    "accounts_total": 2547,
+    "last_updated": "Feb 14, 2026, 6:13:43 PM",
     "server_region": "asia-pacific"
 }
