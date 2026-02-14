@@ -4107,13 +4107,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514309": {
-            "crew_id": 240527056678,
-            "crew_name": "Supernova",
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 947664.625,
-            "last_seen": "Jan 30, 2026, 10:30:51 PM",
-            "level": 73,
+            "hp": 1030282.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 684.0,
+                "y": -28042.298828125,
+                "z": 97926.1796875
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "level": 75,
             "name": "Shizuka Kuze",
             "name_history": [
                 "Shizuka Kuze"
@@ -6202,6 +6211,9 @@
             "server_region": "ws-america-01"
         },
         "38174107413516148": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "2_7_0_13",
@@ -6209,11 +6221,11 @@
             "hp": 1089229.5,
             "last_known_position": {
                 "map": "city",
-                "x": -2208.679931640625,
-                "y": -28718.048828125,
-                "z": 97876.515625
+                "x": -2334.669921875,
+                "y": -28698.029296875,
+                "z": 97876.6953125
             },
-            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
             "level": 75,
             "name": "Mimo",
             "name_history": [
@@ -13103,6 +13115,31 @@
             "role_id": 38174107413523718,
             "server_region": "ws-america-01"
         },
+        "38174107413523720": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "Luncy's Apprentice,0",
+            "gender": 1,
+            "hp": 808663.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -591.8900146484375,
+                "y": -21663.5390625,
+                "z": 94737.9140625
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "level": 73,
+            "name": "linda susan",
+            "name_history": [
+                "linda susan"
+            ],
+            "registered": "Nov 25, 2025, 3:12:13 PM",
+            "role_id": 38174107413523720,
+            "server_region": "ws-america-01"
+        },
         "38174107413523747": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -15348,13 +15385,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413533005": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 871543.875,
-            "last_seen": "Jan 25, 2026, 11:23:21 PM",
-            "level": 72,
+            "hp": 1056369.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96382.0390625
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "level": 75,
             "name": "Vengeance",
             "name_history": [
                 "Vengeance"
@@ -16054,12 +16100,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413537174": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
-            "hp": 1082729.625,
-            "last_seen": "Feb 12, 2026, 5:26:49 PM",
+            "hp": 1086089.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1593.2099609375,
+                "y": -27591.66015625,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
             "level": 75,
             "name": "Crownie",
             "name_history": [
@@ -17631,18 +17686,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413549320": {
+            "crew_history": [
+                "Kawaii Kittens"
+            ],
             "crew_id": 21483724582,
             "crew_name": "Kawaii Kittens",
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 476947.21875,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -78729.6484375,
-                "y": 50967.5078125,
-                "z": -11270.9501953125
+                "map": "city",
+                "x": -1391.030029296875,
+                "y": -28307.119140625,
+                "z": 97879.0546875
             },
-            "last_seen": "Feb 13, 2026, 6:21:34 PM",
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
             "level": 74,
             "name": "Junisha",
             "name_history": [
@@ -19213,6 +19271,9 @@
             "server_region": "ws-america-01"
         },
         "38174107413565635": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "2_7_0_12",
@@ -19220,11 +19281,11 @@
             "hp": 1092617.5,
             "last_known_position": {
                 "map": "city",
-                "x": -27.709999084472656,
-                "y": -16630.580078125,
-                "z": 96362.03125
+                "x": -406.47998046875,
+                "y": -24808.330078125,
+                "z": 96706.9453125
             },
-            "last_seen": "Feb 13, 2026, 6:42:35 PM",
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
             "level": 75,
             "name": "Sini",
             "name_history": [
@@ -21375,6 +21436,31 @@
             "role_id": 38174107413578541,
             "server_region": "ws-america-01"
         },
+        "38174107413578581": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "2_10_1_12",
+            "gender": 0,
+            "hp": 694599.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "level": 72,
+            "name": "Krouser",
+            "name_history": [
+                "Krouser"
+            ],
+            "registered": "Jan 19, 2026, 5:04:57 PM",
+            "role_id": 38174107413578581,
+            "server_region": "ws-america-01"
+        },
         "38174107413578597": {
             "crew_id": 0,
             "crew_name": "",
@@ -21785,6 +21871,31 @@
             ],
             "registered": "Jan 23, 2026, 9:37:45 PM",
             "role_id": 38174107413579218,
+            "server_region": "ws-america-01"
+        },
+        "38174107413579229": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "2_8_0_7",
+            "gender": 0,
+            "hp": 598479.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1807.5,
+                "y": -24442.69921875,
+                "z": 97885.796875
+            },
+            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "level": 72,
+            "name": "0cel0t",
+            "name_history": [
+                "0cel0t"
+            ],
+            "registered": "Jan 23, 2026, 10:29:12 PM",
+            "role_id": 38174107413579229,
             "server_region": "ws-america-01"
         },
         "38174107413579262": {
@@ -23841,7 +23952,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1463,
-    "last_updated": "Feb 13, 2026, 6:51:35 PM",
+    "accounts_total": 1466,
+    "last_updated": "Feb 14, 2026, 5:05:29 AM",
     "server_region": "ws-america-01"
 }

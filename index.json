@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 14, 2026, 5:03:29 AM",
+    "last_updated": "Feb 14, 2026, 5:05:29 AM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -2022,7 +2022,11 @@
         },
         "ws-america-01": {
             "display_name": "WS America 01",
-            "last_updated": "Feb 13, 2026, 6:51:35 PM",
+            "gender": {
+                "female": 951,
+                "male": 515
+            },
+            "last_updated": "Feb 14, 2026, 5:05:29 AM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2143,7 +2147,8 @@
                 "weather_station_name": "Ashburn",
                 "zip_code": "20147"
             },
-            "total_accounts": 1463
+            "total_accounts": 1466,
+            "total_crews": 89
         },
         "ws-asia-01": {
             "display_name": "WS Asia 01",
@@ -2396,10 +2401,10 @@
             "total_accounts": 1064
         }
     },
-    "total_accounts": 23672,
-    "total_crews": 179,
+    "total_accounts": 23675,
+    "total_crews": 268,
     "total_genders": {
-        "female": 3514,
-        "male": 1636
+        "female": 4465,
+        "male": 2151
     }
 }
