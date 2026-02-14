@@ -1349,12 +1349,21 @@
             "server_region": "korea"
         },
         "42945816079439755": {
+            "crew_history": [
+                "쿵야"
+            ],
             "crew_id": 17189868286,
             "crew_name": "쿵야",
-            "equipping_title": "시엣트's Apprentice,0",
+            "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 2208359.25,
-            "last_seen": "Feb 10, 2026, 10:46:03 PM",
+            "hp": 2189087.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -92.1199951171875,
+                "y": -25216.478515625,
+                "z": 97325.546875
+            },
+            "last_seen": "Feb 14, 2026, 6:51:28 PM",
             "level": 100,
             "name": "HIELO​",
             "name_history": [
@@ -2583,6 +2592,6 @@
         }
     },
     "accounts_total": 175,
-    "last_updated": "Feb 14, 2026, 6:50:28 PM",
+    "last_updated": "Feb 14, 2026, 6:51:28 PM",
     "server_region": "korea"
 }
