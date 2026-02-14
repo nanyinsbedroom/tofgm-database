@@ -4012,14 +4012,26 @@
             "server_region": "asia-pacific"
         },
         "47266115125411": {
+            "crew_history": [
+                "MoonmaidenS"
+            ],
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_3_1_5",
             "gender": 1,
-            "hp": 2386938.25,
-            "last_seen": "Oct 29, 2025, 10:53:02 PM",
+            "hp": 2490185.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -278.3599853515625,
+                "y": -17018.888671875,
+                "z": 96351.78125
+            },
+            "last_seen": "Feb 14, 2026, 6:07:43 PM",
             "level": 100,
             "name": " kinchiki",
+            "name_history": [
+                " kinchiki"
+            ],
             "registered": "Aug 11, 2022, 8:17:58 PM",
             "role_id": 47266115125411,
             "server_region": "asia-pacific"
@@ -8335,14 +8347,26 @@
             "server_region": "asia-pacific"
         },
         "47291885825911": {
+            "crew_history": [
+                "Family"
+            ],
             "crew_id": 6347961674499,
             "crew_name": "Family",
             "equipping_title": "秋桜める♀'s Apprentice,0",
             "gender": 0,
-            "hp": 1584354.75,
-            "last_seen": "Oct 26, 2025, 07:52:07 PM",
+            "hp": 1456260.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -594.489990234375,
+                "y": -17921.33984375,
+                "z": 96365.265625
+            },
+            "last_seen": "Feb 14, 2026, 6:07:43 PM",
             "level": 100,
-            "name": "秋桜める　　　",
+            "name": "幻塔界隈のホルスタイン　",
+            "name_history": [
+                "幻塔界隈のホルスタイン　"
+            ],
             "registered": "Apr 15, 2023, 6:57:47 AM",
             "role_id": 47291885825911,
             "server_region": "asia-pacific"
@@ -11216,12 +11240,21 @@
             "server_region": "asia-pacific"
         },
         "47313359768095": {
+            "crew_history": [
+                "Eternal Sky"
+            ],
             "crew_id": 42949683980,
             "crew_name": "Eternal Sky",
             "equipping_title": "2_10_3_1",
             "gender": 1,
             "hp": 2834090.0,
-            "last_seen": "Feb 11, 2026, 8:48:26 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96360.03125
+            },
+            "last_seen": "Feb 14, 2026, 6:07:43 PM",
             "level": 100,
             "name": "Marlene",
             "name_history": [
@@ -17962,12 +17995,21 @@
             "server_region": "asia-pacific"
         },
         "47343427516795": {
+            "crew_history": [
+                "MoonmaidenS"
+            ],
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
-            "equipping_title": "2_2_0_81",
+            "equipping_title": "Devanamko's Apprentice,0",
             "gender": 1,
-            "hp": 2296382.25,
-            "last_seen": "Jan 20, 2026, 02:24:03 AM",
+            "hp": 2321700.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 6.799999713897705,
+                "y": -17319.298828125,
+                "z": 96357.296875
+            },
+            "last_seen": "Feb 14, 2026, 6:07:43 PM",
             "level": 100,
             "name": "Жозетта",
             "name_history": [
@@ -20502,7 +20544,7 @@
             "crew_name": "",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 914.7090454101562,
+            "hp": 914.7090454101563,
             "last_seen": "Nov 18, 2025, 07:55:07 PM",
             "level": 40,
             "name": "＊氷河＊",
@@ -25676,7 +25718,7 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 671.5596313476562,
+            "hp": 671.5596313476563,
             "last_seen": "Oct 29, 2025, 07:14:03 PM",
             "level": 2,
             "name": "rebirth.again",
@@ -35041,6 +35083,6 @@
         }
     },
     "accounts_total": 2538,
-    "last_updated": "Feb 11, 2026, 9:07:28 PM",
+    "last_updated": "Feb 14, 2026, 6:07:43 PM",
     "server_region": "asia-pacific"
 }

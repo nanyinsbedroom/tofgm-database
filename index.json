@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 14, 2026, 4:46:08 PM",
+    "last_updated": "Feb 14, 2026, 6:07:43 PM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -128,7 +128,11 @@
         },
         "asia-pacific": {
             "display_name": "Asia Pacific",
-            "last_updated": "Feb 11, 2026, 9:07:28 PM",
+            "gender": {
+                "female": 1827,
+                "male": 711
+            },
+            "last_updated": "Feb 14, 2026, 6:07:43 PM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2377,5 +2381,9 @@
             "total_accounts": 1064
         }
     },
-    "total_accounts": 23650
+    "total_accounts": 23650,
+    "total_genders": {
+        "female": 1827,
+        "male": 711
+    }
 }
