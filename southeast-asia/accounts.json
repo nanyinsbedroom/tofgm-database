@@ -1059,12 +1059,21 @@
             "server_region": "southeast-asia"
         },
         "68723771891517": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
-            "equipping_title": "None",
+            "equipping_title": "1_6_4_16",
             "gender": 1,
-            "hp": 2384678.5,
-            "last_seen": "Feb 03, 2026, 01:12:31 AM",
+            "hp": 2391748.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -26106.21875,
+                "y": 27175.259765625,
+                "z": -13725.439453125
+            },
+            "last_seen": "Feb 14, 2026, 4:42:08 PM",
             "level": 100,
             "name": "pmeimei",
             "name_history": [
@@ -27670,6 +27679,6 @@
         }
     },
     "accounts_total": 2042,
-    "last_updated": "Feb 14, 2026, 4:41:08 PM",
+    "last_updated": "Feb 14, 2026, 4:42:08 PM",
     "server_region": "southeast-asia"
 }
