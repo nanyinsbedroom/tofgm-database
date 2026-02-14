@@ -640,14 +640,26 @@
             "server_region": "reshaping-the-future"
         },
         "62715112513018": {
+            "crew_history": [
+                "心愿岛"
+            ],
             "crew_id": 10209137277194,
             "crew_name": "心愿岛",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 864717.75,
-            "last_seen": "2025年10月14日 下午 10:34:46",
+            "hp": 2607060.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325364.84375,
+                "y": 204627.390625,
+                "z": -28339.138671875
+            },
+            "last_seen": "2026年2月14日 下午8:10:06",
             "level": 100,
             "name": "我来看看",
+            "name_history": [
+                "我来看看"
+            ],
             "registered": "2022年4月26日 下午5:25:46",
             "role_id": 62715112513018,
             "server_region": "reshaping-the-future"
@@ -1833,6 +1845,31 @@
             "role_id": 62715114283358,
             "server_region": "reshaping-the-future"
         },
+        "62715114287861": {
+            "crew_history": [
+                "彩虹海"
+            ],
+            "crew_id": 1692217129227,
+            "crew_name": "彩虹海",
+            "equipping_title": "2_2_0_68",
+            "gender": 1,
+            "hp": 1107114.125,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325593.34375,
+                "y": 204904.09375,
+                "z": -28341.740234375
+            },
+            "last_seen": "2026年2月14日 下午8:10:06",
+            "level": 100,
+            "name": "糖霜西瓜皮",
+            "name_history": [
+                "糖霜西瓜皮"
+            ],
+            "registered": "2025年1月5日 下午11:30:42",
+            "role_id": 62715114287861,
+            "server_region": "reshaping-the-future"
+        },
         "62715114288643": {
             "crew_id": 0,
             "crew_name": "",
@@ -1947,6 +1984,31 @@
             "name": "姬氵氵",
             "registered": "2025年1月29日 下午10:32:16",
             "role_id": 62715114295979,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114341944": {
+            "crew_history": [
+                "爱你"
+            ],
+            "crew_id": 3100966402314,
+            "crew_name": "爱你",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 2552166.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325558.09375,
+                "y": 204114.796875,
+                "z": -28306.0390625
+            },
+            "last_seen": "2026年2月14日 下午8:10:06",
+            "level": 100,
+            "name": "梅影入梦",
+            "name_history": [
+                "梅影入梦"
+            ],
+            "registered": "2025年2月2日 上午11:10:16",
+            "role_id": 62715114341944,
             "server_region": "reshaping-the-future"
         },
         "62715114345854": {
@@ -4962,7 +5024,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 327,
-    "last_updated": "2026年2月14日 下午8:09:06",
+    "accounts_total": 329,
+    "last_updated": "2026年2月14日 下午8:10:06",
     "server_region": "reshaping-the-future"
 }
