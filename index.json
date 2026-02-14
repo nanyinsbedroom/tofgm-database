@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 14, 2026, 6:25:43 PM",
+    "last_updated": "Feb 14, 2026, 5:37:27 PM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1632,7 +1632,11 @@
         },
         "southeast-asia": {
             "display_name": "Southeast Asia",
-            "last_updated": "Feb 14, 2026, 4:46:08 PM",
+            "gender": {
+                "female": 1325,
+                "male": 705
+            },
+            "last_updated": "Feb 14, 2026, 5:37:27 PM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -1753,7 +1757,8 @@
                 "weather_station_name": "Singapore",
                 "zip_code": "178958"
             },
-            "total_accounts": 2043
+            "total_accounts": 2043,
+            "total_crews": 94
         },
         "time-travel": {
             "display_name": "时空回溯",
@@ -2382,8 +2387,9 @@
         }
     },
     "total_accounts": 23663,
+    "total_crews": 94,
     "total_genders": {
-        "female": 1836,
-        "male": 715
+        "female": 3161,
+        "male": 1420
     }
 }
