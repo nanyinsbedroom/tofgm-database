@@ -9507,14 +9507,26 @@
             "server_region": "asia-pacific"
         },
         "47300474910724": {
+            "crew_history": [
+                "アーサの南"
+            ],
             "crew_id": 12837657258767,
             "crew_name": "アーサの南",
             "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 1848096.25,
-            "last_seen": "Oct 24, 2025, 08:12:02 PM",
+            "hp": 2362222.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1717.89990234375,
+                "y": 45923.30078125,
+                "z": 5705.61962890625
+            },
+            "last_seen": "Feb 14, 2026, 6:14:43 PM",
             "level": 100,
             "name": "毬藻すずらん",
+            "name_history": [
+                "毬藻すずらん"
+            ],
             "registered": "Aug 14, 2022, 3:14:07 PM",
             "role_id": 47300474910724,
             "server_region": "asia-pacific"
@@ -19722,6 +19734,29 @@
             "role_id": 47343427882412,
             "server_region": "asia-pacific"
         },
+        "47343427882721": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 981656.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 660.219970703125,
+                "y": 42761.6484375,
+                "z": 5712.61962890625
+            },
+            "last_seen": "Feb 14, 2026, 6:14:43 PM",
+            "level": 98,
+            "name": "不知火",
+            "name_history": [
+                "不知火"
+            ],
+            "registered": "Mar 2, 2025, 4:10:54 PM",
+            "role_id": 47343427882721,
+            "server_region": "asia-pacific"
+        },
         "47343427882782": {
             "crew_id": 0,
             "crew_name": "",
@@ -28463,6 +28498,29 @@
             "role_id": 47343427973953,
             "server_region": "asia-pacific"
         },
+        "47343427974483": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 749372.1875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -1923.43994140625,
+                "y": 42410.98046875,
+                "z": 6541.669921875
+            },
+            "last_seen": "Feb 14, 2026, 6:14:43 PM",
+            "level": 83,
+            "name": "凛·",
+            "name_history": [
+                "凛·"
+            ],
+            "registered": "Jan 18, 2026, 5:11:50 PM",
+            "role_id": 47343427974483,
+            "server_region": "asia-pacific"
+        },
         "47343427974572": {
             "crew_id": 0,
             "crew_name": "",
@@ -35318,7 +35376,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2547,
-    "last_updated": "Feb 14, 2026, 6:13:43 PM",
+    "accounts_total": 2549,
+    "last_updated": "Feb 14, 2026, 6:14:43 PM",
     "server_region": "asia-pacific"
 }
