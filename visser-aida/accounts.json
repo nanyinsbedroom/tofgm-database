@@ -3448,12 +3448,21 @@
             "server_region": "visser-aida"
         },
         "60576218751502": {
+            "crew_history": [
+                "清璃一梦"
+            ],
             "crew_id": 481036351355,
             "crew_name": "清璃一梦",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 33668084.0,
-            "last_seen": "2025年12月25日 上午 3:13:31",
+            "hp": 2493123.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71768.875,
+                "y": -27117.05859375,
+                "z": 11424.2197265625
+            },
+            "last_seen": "2026年2月14日 下午8:29:56",
             "level": 100,
             "name": "红魔里の爆裂娘",
             "name_history": [
@@ -7006,6 +7015,31 @@
             ],
             "registered": "2021年12月16日 下午4:06:37",
             "role_id": 60640643278096,
+            "server_region": "visser-aida"
+        },
+        "60640643279042": {
+            "crew_history": [
+                "丨神芸学都丨"
+            ],
+            "crew_id": 12884916007,
+            "crew_name": "丨神芸学都丨",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2372117.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71518.96875,
+                "y": -26768.2109375,
+                "z": 11551.541015625
+            },
+            "last_seen": "2026年2月14日 下午8:29:56",
+            "level": 100,
+            "name": "花开百里守约",
+            "name_history": [
+                "花开百里守约"
+            ],
+            "registered": "2021年12月16日 下午5:30:31",
+            "role_id": 60640643279042,
             "server_region": "visser-aida"
         },
         "60640643286262": {
@@ -15099,7 +15133,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1063,
-    "last_updated": "2026年2月14日 下午8:28:56",
+    "accounts_total": 1064,
+    "last_updated": "2026年2月14日 下午8:29:56",
     "server_region": "visser-aida"
 }
