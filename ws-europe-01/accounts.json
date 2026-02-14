@@ -5892,12 +5892,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482925": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 0,
-            "hp": 1075450.5,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
+            "hp": 1086491.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1968.421630859375,
+                "y": -27409.953125,
+                "z": 97033.4609375
+            },
+            "last_seen": "Feb 14, 2026, 11:09:29 AM",
             "level": 75,
             "name": "LULVA",
             "name_history": [
@@ -7055,13 +7064,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483994": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 1004863.3125,
-            "last_seen": "Feb 7, 2026, 7:58:07 PM",
-            "level": 74,
+            "hp": 1062773.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 14, 2026, 11:09:29 AM",
+            "level": 75,
             "name": "Disciples",
             "name_history": [
                 "Disciples"
@@ -14287,18 +14305,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708514014": {
+            "crew_history": [
+                "Dynasty"
+            ],
             "crew_id": 120267972391,
             "crew_name": "Dynasty",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1092230.625,
+            "hp": 1050622.0,
             "last_known_position": {
                 "map": "city",
-                "x": -391.2599792480469,
-                "y": -25701.9296875,
-                "z": 96761.796875
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96382.03125
             },
-            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "last_seen": "Feb 14, 2026, 11:09:29 AM",
             "level": 75,
             "name": "Xiang",
             "name_history": [
@@ -15083,6 +15104,29 @@
             ],
             "registered": "Jan 5, 2026, 3:25:20 PM",
             "role_id": 38174111708520826,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708520921": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "كتكات's Apprentice,0",
+            "gender": 0,
+            "hp": 752370.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1218.5,
+                "y": -28483.19921875,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 14, 2026, 11:09:29 AM",
+            "level": 73,
+            "name": "Reeses",
+            "name_history": [
+                "Reeses"
+            ],
+            "registered": "Jan 5, 2026, 11:50:56 PM",
+            "role_id": 38174111708520921,
             "server_region": "ws-europe-01"
         },
         "38174111708521071": {
@@ -17329,7 +17373,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1065,
-    "last_updated": "Feb 14, 2026, 11:08:29 AM",
+    "accounts_total": 1066,
+    "last_updated": "Feb 14, 2026, 11:09:29 AM",
     "server_region": "ws-europe-01"
 }
