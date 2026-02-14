@@ -8246,12 +8246,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546357": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_7_0_11",
             "gender": 1,
             "hp": 1055675.5,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77532.6796875,
+                "y": 58939.2578125,
+                "z": -8200.1201171875
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
             "level": 75,
             "name": "Las",
             "name_history": [
@@ -32078,13 +32087,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118559200": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_6_4_36",
+            "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 1024772.6875,
-            "last_seen": "Feb 9, 2026, 12:10:49 AM",
-            "level": 74,
+            "hp": 1076423.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -48850.16796875,
+                "y": 87485.296875,
+                "z": -13464.0693359375
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
+            "level": 75,
             "name": "アイカ",
             "name_history": [
                 "アイカ"
@@ -37552,13 +37570,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118561411": {
+            "crew_history": [
+                "Library"
+            ],
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "Cofarms's Mentor,0",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 813272.5625,
-            "last_seen": "Feb 7, 2026, 6:50:35 PM",
-            "level": 71,
+            "hp": 841737.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78245.3984375,
+                "y": 52905.2890625,
+                "z": -9429.9501953125
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
+            "level": 72,
             "name": "Lancia Atone",
             "name_history": [
                 "Lancia Atone"
@@ -51006,13 +51033,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118569985": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
             "crew_id": 841822478117,
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 178697.40625,
-            "last_seen": "Feb 11, 2026, 9:39:42 PM",
-            "level": 63,
+            "hp": 199049.390625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72565.703125,
+                "y": 49396.9609375,
+                "z": -12325.1396484375
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
+            "level": 71,
             "name": "モルカ13",
             "name_history": [
                 "モルカ13"
@@ -85008,6 +85044,29 @@
             "role_id": 38174103118612400,
             "server_region": "ws-asia-01"
         },
+        "38174103118612418": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43578.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -47187.34765625,
+                "y": 79921.3046875,
+                "z": -12317.634765625
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
+            "level": 9,
+            "name": "Jinsih",
+            "name_history": [
+                "Jinsih"
+            ],
+            "registered": "Feb 6, 2026, 9:38:09 PM",
+            "role_id": 38174103118612418,
+            "server_region": "ws-asia-01"
+        },
         "38174103118612452": {
             "crew_id": 0,
             "crew_name": "",
@@ -85375,9 +85434,32 @@
             "registered": "Feb 12, 2026, 9:56:49 PM",
             "role_id": 38174103118612953,
             "server_region": "ws-asia-01"
+        },
+        "38174103118613100": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91442.640625,
+                "y": 86292.9375,
+                "z": -6668.0498046875
+            },
+            "last_seen": "Feb 14, 2026, 7:54:11 PM",
+            "level": 4,
+            "name": "อิยาห์",
+            "name_history": [
+                "อิยาห์"
+            ],
+            "registered": "Feb 14, 2026, 7:27:05 PM",
+            "role_id": 38174103118613100,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5311,
-    "last_updated": "Feb 14, 2026, 7:53:11 PM",
+    "accounts_total": 5313,
+    "last_updated": "Feb 14, 2026, 7:54:11 PM",
     "server_region": "ws-asia-01"
 }
