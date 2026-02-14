@@ -4977,14 +4977,26 @@
             "server_region": "time-travel"
         },
         "63578401740260": {
-            "crew_id": 304942692818,
-            "crew_name": "深月航迹",
-            "equipping_title": "1_9_0_3",
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 489244.75,
-            "last_seen": "2025年10月17日 下午 3:49:06",
-            "level": 60,
+            "hp": 1245682.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 808.0799560546875,
+                "y": -28710.638671875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月14日 下午8:35:56",
+            "level": 83,
             "name": "唯依",
+            "name_history": [
+                "唯依"
+            ],
             "registered": "2024年11月17日 下午2:10:40",
             "role_id": 63578401740260,
             "server_region": "time-travel"
@@ -8089,6 +8101,6 @@
         }
     },
     "accounts_total": 580,
-    "last_updated": "2026年2月14日 下午8:34:56",
+    "last_updated": "2026年2月14日 下午8:35:56",
     "server_region": "time-travel"
 }
