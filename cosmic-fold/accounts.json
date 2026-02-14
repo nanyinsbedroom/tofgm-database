@@ -8872,14 +8872,14 @@
             "crew_name": "幻塔",
             "equipping_title": "说话带喵的导师,0",
             "gender": 1,
-            "hp": 1529949.875,
+            "hp": 1508194.125,
             "last_known_position": {
                 "map": "city",
-                "x": -2163.43994140625,
-                "y": -25895.439453125,
+                "x": -1692.2999267578125,
+                "y": -27542.259765625,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月14日 下午8:39:56",
+            "last_seen": "2026年2月14日 下午9:48:56",
             "level": 83,
             "name": "异化猫猫",
             "name_history": [
@@ -13198,13 +13198,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695858196": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1289643.5,
-            "last_seen": "2026年2月7日 上午12:22:44",
-            "level": 82,
+            "hp": 1739377.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1005.1399536132813,
+                "y": -28560.30859375,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月14日 下午9:48:56",
+            "level": 83,
             "name": "ネコ",
             "name_history": [
                 "ネコ"
@@ -48666,13 +48675,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695940724": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "2_2_0_48",
+            "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 1133452.75,
-            "last_seen": "2025年12月31日 上午 7:10:55",
-            "level": 77,
+            "hp": 1412965.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1781.0999755859375,
+                "y": -27154.298828125,
+                "z": 96717.9609375
+            },
+            "last_seen": "2026年2月14日 下午9:48:56",
+            "level": 83,
             "name": "饮月·腾荒",
             "name_history": [
                 "饮月·腾荒"
@@ -53777,6 +53795,31 @@
             ],
             "registered": "2025年11月24日 下午12:09:46",
             "role_id": 63582695965720,
+            "server_region": "cosmic-fold"
+        },
+        "63582695965731": {
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "鸢·的学徒,0",
+            "gender": 1,
+            "hp": 451361.28125,
+            "last_known_position": {
+                "map": "city",
+                "x": -909.6499633789063,
+                "y": -26382.6796875,
+                "z": 96706.9453125
+            },
+            "last_seen": "2026年2月14日 下午9:48:56",
+            "level": 71,
+            "name": "鸢之花",
+            "name_history": [
+                "鸢之花"
+            ],
+            "registered": "2025年11月24日 下午12:34:15",
+            "role_id": 63582695965731,
             "server_region": "cosmic-fold"
         },
         "63582695965744": {
@@ -63472,7 +63515,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4808,
-    "last_updated": "2026年2月14日 下午9:47:56",
+    "accounts_total": 4809,
+    "last_updated": "2026年2月14日 下午9:48:56",
     "server_region": "cosmic-fold"
 }
