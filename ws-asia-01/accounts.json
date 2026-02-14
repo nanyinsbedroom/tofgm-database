@@ -23426,13 +23426,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118556238": {
+            "crew_history": [
+                "じゃぱたま"
+            ],
             "crew_id": 47253528357,
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 555496.25,
-            "last_seen": "Dec 23, 2025, 11:09:52 AM",
-            "level": 63,
+            "hp": 990132.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -46027.4296875,
+                "y": 96764.4375,
+                "z": -11134.580078125
+            },
+            "last_seen": "Feb 14, 2026, 7:55:11 PM",
+            "level": 75,
             "name": "Sorahane",
             "name_history": [
                 "Sorahane"
@@ -54829,13 +54838,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118574221": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 974483.375,
-            "last_seen": "Feb 02, 2026, 03:33:38 AM",
-            "level": 73,
+            "hp": 979748.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -76617.2265625,
+                "y": 87036.4296875,
+                "z": -5304.626953125
+            },
+            "last_seen": "Feb 14, 2026, 7:55:11 PM",
+            "level": 75,
             "name": "トリビー",
             "name_history": [
                 "トリビー"
@@ -70728,13 +70746,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118588255": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 428498.8125,
-            "last_seen": "Feb 03, 2026, 01:45:44 AM",
-            "level": 70,
+            "hp": 433730.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -47027.7890625,
+                "y": 100221.578125,
+                "z": -10752.1494140625
+            },
+            "last_seen": "Feb 14, 2026, 7:55:11 PM",
+            "level": 72,
             "name": "うぃるにごう",
             "name_history": [
                 "うぃるにごう"
@@ -85323,6 +85350,29 @@
             "role_id": 38174103118612838,
             "server_region": "ws-asia-01"
         },
+        "38174103118612841": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 20607.48046875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -51361.66015625,
+                "y": 106541.6640625,
+                "z": -11680.91015625
+            },
+            "last_seen": "Feb 14, 2026, 7:55:11 PM",
+            "level": 22,
+            "name": "Koneko56",
+            "name_history": [
+                "Koneko56"
+            ],
+            "registered": "Feb 11, 2026, 5:26:29 PM",
+            "role_id": 38174103118612841,
+            "server_region": "ws-asia-01"
+        },
         "38174103118612848": {
             "crew_id": 0,
             "crew_name": "",
@@ -85459,7 +85509,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5313,
-    "last_updated": "Feb 14, 2026, 7:54:11 PM",
+    "accounts_total": 5314,
+    "last_updated": "Feb 14, 2026, 7:55:11 PM",
     "server_region": "ws-asia-01"
 }
