@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 14, 2026, 11:17:31 AM",
+    "last_updated": "Feb 14, 2026, 11:20:33 AM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1152,7 +1152,11 @@
         },
         "ps-europe": {
             "display_name": "PS Europe",
-            "last_updated": "Feb 5, 2026, 8:36:19 PM",
+            "gender": {
+                "female": 238,
+                "male": 147
+            },
+            "last_updated": "Feb 14, 2026, 11:20:33 AM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -1273,7 +1277,8 @@
                 "weather_station_name": "Frankfurt/Main",
                 "zip_code": "65931"
             },
-            "total_accounts": 381
+            "total_accounts": 385,
+            "total_crews": 42
         },
         "ps-southeast-asia": {
             "display_name": "PS Southeast Asia",
@@ -2416,10 +2421,10 @@
             "total_crews": 69
         }
     },
-    "total_accounts": 23688,
-    "total_crews": 600,
+    "total_accounts": 23692,
+    "total_crews": 642,
     "total_genders": {
-        "female": 6433,
-        "male": 3365
+        "female": 6671,
+        "male": 3512
     }
 }
