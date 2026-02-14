@@ -251,12 +251,21 @@
             "server_region": "reshaping-the-future"
         },
         "60597694670006": {
+            "crew_history": [
+                "心愿岛"
+            ],
             "crew_id": 10209137277194,
             "crew_name": "心愿岛",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2346476.0,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 3346774.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1031.68994140625,
+                "y": -16314.349609375,
+                "z": 96350.28125
+            },
+            "last_seen": "2026年2月14日 下午8:13:06",
             "level": 100,
             "name": "风景37号",
             "name_history": [
@@ -341,12 +350,21 @@
             "server_region": "reshaping-the-future"
         },
         "61061550085337": {
+            "crew_history": [
+                "魔女茶会"
+            ],
             "crew_id": 6824703047946,
             "crew_name": "魔女茶会",
             "equipping_title": "弯弯月牙亮亮星的学徒,0",
             "gender": 1,
-            "hp": 2024918.5,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 2330817.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 983.1699829101563,
+                "y": -16619.94921875,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月14日 下午8:13:06",
             "level": 100,
             "name": "戀夢",
             "name_history": [
@@ -457,6 +475,31 @@
             ],
             "registered": "2021年12月16日 下午6:38:54",
             "role_id": 62281320787001,
+            "server_region": "reshaping-the-future"
+        },
+        "62298500629695": {
+            "crew_history": [
+                "微雨问海棠"
+            ],
+            "crew_id": 15865609206026,
+            "crew_name": "微雨问海棠",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2459766.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1186.0799560546875,
+                "y": -16920.37890625,
+                "z": 96315.90625
+            },
+            "last_seen": "2026年2月14日 下午8:13:06",
+            "level": 100,
+            "name": "繁星丶刹那",
+            "name_history": [
+                "繁星丶刹那"
+            ],
+            "registered": "2021年12月16日 上午8:01:34",
+            "role_id": 62298500629695,
             "server_region": "reshaping-the-future"
         },
         "62298500649224": {
@@ -4626,6 +4669,31 @@
             "role_id": 63148904328553,
             "server_region": "reshaping-the-future"
         },
+        "63148904354350": {
+            "crew_history": [
+                "——篁——"
+            ],
+            "crew_id": 19980187875594,
+            "crew_name": "——篁——",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1088476.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -390.34259033203125,
+                "y": -16802.6328125,
+                "z": 96375.0390625
+            },
+            "last_seen": "2026年2月14日 下午8:13:06",
+            "level": 100,
+            "name": "朝濯",
+            "name_history": [
+                "朝濯"
+            ],
+            "registered": "2023年10月15日 下午5:55:51",
+            "role_id": 63148904354350,
+            "server_region": "reshaping-the-future"
+        },
         "63148904362203": {
             "crew_id": 231928248687,
             "crew_name": "花间一壶酒",
@@ -5174,7 +5242,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 334,
-    "last_updated": "2026年2月14日 下午8:12:06",
+    "accounts_total": 336,
+    "last_updated": "2026年2月14日 下午8:13:06",
     "server_region": "reshaping-the-future"
 }
