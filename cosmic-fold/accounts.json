@@ -1511,13 +1511,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850575": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
-            "last_seen": "2026年2月9日 下午8:41:01",
-            "level": 1,
+            "hp": 1329057.75,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -5576.52978515625,
+                "y": 92319.6484375,
+                "z": 5768.06982421875
+            },
+            "last_seen": "2026年2月14日 下午8:54:52",
+            "level": 83,
             "name": "Sussy",
             "name_history": [
                 "Sussy"
@@ -20180,13 +20189,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695863167": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 1493710.875,
-            "last_seen": "2026年2月10日 下午10:03:01",
-            "level": 82,
+            "hp": 1365587.625,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -5994.25,
+                "y": 91809.078125,
+                "z": 5783.77978515625
+            },
+            "last_seen": "2026年2月14日 下午8:54:52",
+            "level": 83,
             "name": "Aizyra",
             "name_history": [
                 "Aizyra"
@@ -20212,13 +20230,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695863186": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
-            "last_seen": "2026年2月9日 下午8:41:01",
-            "level": 1,
+            "hp": 1394167.125,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -5651.1552734375,
+                "y": 91868.2421875,
+                "z": 5790.234375
+            },
+            "last_seen": "2026年2月14日 下午8:54:52",
+            "level": 83,
             "name": "gateoo",
             "name_history": [
                 "gateoo"
@@ -63160,6 +63187,6 @@
         }
     },
     "accounts_total": 4802,
-    "last_updated": "2026年2月14日 下午8:50:52",
+    "last_updated": "2026年2月14日 下午8:54:52",
     "server_region": "cosmic-fold"
 }
