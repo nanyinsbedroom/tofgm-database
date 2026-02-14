@@ -41680,12 +41680,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118563407": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "1_1_23_1",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 10, 2026, 8:36:37 PM",
+            "hp": 903210.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93327.9765625,
+                "y": 84127.5546875,
+                "z": -7046.61962890625
+            },
+            "last_seen": "Feb 14, 2026, 7:50:34 PM",
             "level": 75,
             "name": "BlueBeary",
             "name_history": [
@@ -83475,13 +83484,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118609205": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 122235.3984375,
-            "last_seen": "Feb 8, 2026, 7:14:15 PM",
-            "level": 45,
+            "hp": 125461.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98356.140625,
+                "y": 80628.4296875,
+                "z": -5259.02001953125
+            },
+            "last_seen": "Feb 14, 2026, 7:50:34 PM",
+            "level": 47,
             "name": "Lighting1",
             "name_history": [
                 "Lighting1"
@@ -85339,6 +85355,6 @@
         }
     },
     "accounts_total": 5310,
-    "last_updated": "Feb 14, 2026, 7:49:34 PM",
+    "last_updated": "Feb 14, 2026, 7:50:34 PM",
     "server_region": "ws-asia-01"
 }
