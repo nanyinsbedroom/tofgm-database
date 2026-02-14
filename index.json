@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026年2月14日 下午8:31:56",
+    "last_updated": "2026年2月14日 下午8:33:56",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1812,7 +1812,11 @@
         },
         "time-travel": {
             "display_name": "时空回溯",
-            "last_updated": "2026年2月6日 上午2:17:58",
+            "gender": {
+                "female": 466,
+                "male": 97
+            },
+            "last_updated": "2026年2月14日 下午8:33:56",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -1933,7 +1937,8 @@
                 "weather_station_name": "Beijing",
                 "zip_code": "100006"
             },
-            "total_accounts": 562
+            "total_accounts": 563,
+            "total_crews": 54
         },
         "visser-aida": {
             "display_name": "蔚色艾达",
@@ -2456,10 +2461,10 @@
             "total_crews": 69
         }
     },
-    "total_accounts": 23793,
-    "total_crews": 1399,
+    "total_accounts": 23794,
+    "total_crews": 1453,
     "total_genders": {
-        "female": 12619,
-        "male": 5411
+        "female": 13085,
+        "male": 5508
     }
 }
