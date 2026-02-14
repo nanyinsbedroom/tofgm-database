@@ -333,6 +333,31 @@
             "role_id": 42945811784473652,
             "server_region": "korea"
         },
+        "42945811784478296": {
+            "crew_history": [
+                "크라운산도"
+            ],
+            "crew_id": 17189868288,
+            "crew_name": "크라운산도",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 2076756.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -6201.8076171875,
+                "y": 61019.19140625,
+                "z": 41026.3203125
+            },
+            "last_seen": "Feb 14, 2026, 6:54:28 PM",
+            "level": 100,
+            "name": "  에클레시아  ",
+            "name_history": [
+                "  에클레시아  "
+            ],
+            "registered": "Aug 23, 2022, 12:31:34 AM",
+            "role_id": 42945811784478296,
+            "server_region": "korea"
+        },
         "42945811784483009": {
             "crew_id": 120269083391,
             "crew_name": "트리니티",
@@ -2153,12 +2178,21 @@
             "server_region": "korea"
         },
         "42945828964273710": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "2_2_0_37",
             "gender": 0,
             "hp": 3451116.25,
-            "last_seen": "Feb 10, 2026, 10:41:02 PM",
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -6507.3896484375,
+                "y": 61238.359375,
+                "z": 40993.5390625
+            },
+            "last_seen": "Feb 14, 2026, 6:54:28 PM",
             "level": 100,
             "name": " 레인하트 ",
             "name_history": [
@@ -2591,7 +2625,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 175,
-    "last_updated": "Feb 14, 2026, 6:51:28 PM",
+    "accounts_total": 176,
+    "last_updated": "Feb 14, 2026, 6:54:28 PM",
     "server_region": "korea"
 }
