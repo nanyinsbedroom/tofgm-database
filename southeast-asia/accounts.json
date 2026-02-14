@@ -3751,12 +3751,21 @@
             "server_region": "southeast-asia"
         },
         "68736656684586": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2690220.75,
-            "last_seen": "Nov 22, 2025, 12:33:08 PM",
+            "hp": 3378225.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -6464.169921875,
+                "y": 61999.26953125,
+                "z": 40899.4609375
+            },
+            "last_seen": "Feb 14, 2026, 4:45:08 PM",
             "level": 100,
             "name": "Leinachan",
             "name_history": [
@@ -6990,11 +6999,26 @@
             "server_region": "southeast-asia"
         },
         "68753836508046": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
+            "equipping_title": "2_2_0_26",
             "gender": 1,
-            "last_seen": "Jul 29, 2025, 08:19:08 PM",
+            "hp": 3199212.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -6700.169921875,
+                "y": 61530.96875,
+                "z": 40610.96875
+            },
+            "last_seen": "Feb 14, 2026, 4:45:08 PM",
+            "level": 100,
             "name": "Fredzzz#a",
+            "name_history": [
+                "Fredzzz#a"
+            ],
             "registered": "Aug 11, 2022, 11:46:10 PM",
             "role_id": 68753836508046,
             "server_region": "southeast-asia"
@@ -27704,6 +27728,6 @@
         }
     },
     "accounts_total": 2043,
-    "last_updated": "Feb 14, 2026, 3:44:08 PM",
+    "last_updated": "Feb 14, 2026, 4:45:08 PM",
     "server_region": "southeast-asia"
 }
