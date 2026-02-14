@@ -25833,12 +25833,21 @@
             "server_region": "southeast-asia"
         },
         "68796786271737": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
             "equipping_title": "pla ulti's Apprentice,0",
             "gender": 0,
-            "hp": 2786404.75,
-            "last_seen": "Feb 14, 2026, 1:06:04 AM",
+            "hp": 2812926.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 713.5899658203125,
+                "y": -24240.109375,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 14, 2026, 4:46:08 PM",
             "level": 100,
             "name": "Kizuna N",
             "name_history": [
@@ -27728,6 +27737,6 @@
         }
     },
     "accounts_total": 2043,
-    "last_updated": "Feb 14, 2026, 4:45:08 PM",
+    "last_updated": "Feb 14, 2026, 4:46:08 PM",
     "server_region": "southeast-asia"
 }
