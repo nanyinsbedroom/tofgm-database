@@ -1848,13 +1848,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850766": {
+            "crew_history": [
+                "月歌行"
+            ],
             "crew_id": 128849033684,
             "crew_name": "月歌行",
-            "equipping_title": "1_3_2_1",
+            "equipping_title": "1_9_0_3",
             "gender": 0,
-            "hp": 1408901.0,
-            "last_seen": "2026年2月10日 下午11:02:13",
-            "level": 82,
+            "hp": 1912676.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -320815.75,
+                "y": 196723.328125,
+                "z": -28892.7890625
+            },
+            "last_seen": "2026年2月14日 下午8:42:56",
+            "level": 83,
             "name": "迷迭香·艾琳",
             "name_history": [
                 "迷迭香·艾琳"
@@ -8459,6 +8468,31 @@
             ],
             "registered": "2025年9月25日 下午6:58:46",
             "role_id": 63582695854493,
+            "server_region": "cosmic-fold"
+        },
+        "63582695854559": {
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "2_8_0_9",
+            "gender": 1,
+            "hp": 1977761.625,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324582.53125,
+                "y": 199808.3125,
+                "z": -28280.099609375
+            },
+            "last_seen": "2026年2月14日 下午8:42:56",
+            "level": 82,
+            "name": "爱莉希雅。",
+            "name_history": [
+                "爱莉希雅。"
+            ],
+            "registered": "2025年9月25日 下午6:59:14",
+            "role_id": 63582695854559,
             "server_region": "cosmic-fold"
         },
         "63582695854603": {
@@ -54994,6 +55028,31 @@
             "role_id": 63582695980766,
             "server_region": "cosmic-fold"
         },
+        "63582695980831": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "2_10_1_11_1_1",
+            "gender": 1,
+            "hp": 1314739.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -288093.59375,
+                "y": 171800.03125,
+                "z": -31680.009765625
+            },
+            "last_seen": "2026年2月14日 下午8:42:56",
+            "level": 83,
+            "name": "腹肌摸摸啊？",
+            "name_history": [
+                "腹肌摸摸啊？"
+            ],
+            "registered": "2025年12月19日 下午7:50:51",
+            "role_id": 63582695980831,
+            "server_region": "cosmic-fold"
+        },
         "63582695980994": {
             "crew_id": 193273543124,
             "crew_name": "天使社",
@@ -62939,7 +62998,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4798,
-    "last_updated": "2026年2月14日 下午8:41:56",
+    "accounts_total": 4800,
+    "last_updated": "2026年2月14日 下午8:42:56",
     "server_region": "cosmic-fold"
 }
