@@ -8088,12 +8088,21 @@
             "server_region": "southeast-asia"
         },
         "68758131597250": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 43297.0,
-            "last_seen": [],
+            "hp": 42348.609375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1150.0999755859375,
+                "y": -23842.599609375,
+                "z": 97879.109375
+            },
+            "last_seen": "Feb 14, 2026, 2:19:32 PM",
             "level": 95,
             "name": "SabrinaCamilla$",
             "name_history": [
@@ -27565,6 +27574,6 @@
         }
     },
     "accounts_total": 2038,
-    "last_updated": "Feb 14, 2026, 1:06:04 AM",
+    "last_updated": "Feb 14, 2026, 2:19:32 PM",
     "server_region": "southeast-asia"
 }
