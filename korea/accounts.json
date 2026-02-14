@@ -508,6 +508,31 @@
             "role_id": 42945811784531961,
             "server_region": "korea"
         },
+        "42945811784536095": {
+            "crew_history": [
+                "간지"
+            ],
+            "crew_id": 5012236833533,
+            "crew_name": "간지",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 397493.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93795.875,
+                "y": 76412.3515625,
+                "z": -6911.2197265625
+            },
+            "last_seen": "Feb 14, 2026, 6:50:28 PM",
+            "level": 100,
+            "name": "운돌",
+            "name_history": [
+                "운돌"
+            ],
+            "registered": "Mar 18, 2024, 8:32:47 AM",
+            "role_id": 42945811784536095,
+            "server_region": "korea"
+        },
         "42945811784585960": {
             "crew_id": 747334308606,
             "crew_name": "환탑라이브",
@@ -2017,12 +2042,21 @@
             "server_region": "korea"
         },
         "42945824669327949": {
+            "crew_history": [
+                "자유길드"
+            ],
             "crew_id": 1099521626880,
             "crew_name": "자유길드",
             "equipping_title": "Overseas2_7",
             "gender": 0,
-            "hp": 3190697.0,
-            "last_seen": "Nov 11, 2025, 05:16:07 PM",
+            "hp": 2997851.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63220.328125,
+                "y": 105943.3671875,
+                "z": -12017.3701171875
+            },
+            "last_seen": "Feb 14, 2026, 6:50:28 PM",
             "level": 100,
             "name": "또하나",
             "name_history": [
@@ -2548,7 +2582,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 174,
-    "last_updated": "Feb 14, 2026, 6:48:28 PM",
+    "accounts_total": 175,
+    "last_updated": "Feb 14, 2026, 6:50:28 PM",
     "server_region": "korea"
 }
