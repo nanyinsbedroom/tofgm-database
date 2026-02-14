@@ -5388,13 +5388,22 @@
             "server_region": "visser-aida"
         },
         "60597694829415": {
+            "crew_history": [
+                "上证两万点"
+            ],
             "crew_id": 768799160189,
             "crew_name": "上证两万点",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 7178.7763671875,
-            "last_seen": "2025年12月22日 上午 5:43:41",
-            "level": 16,
+            "hp": 7431.2763671875,
+            "last_known_position": {
+                "map": "city",
+                "x": -19.649999618530273,
+                "y": -18630.990234375,
+                "z": 95951.7578125
+            },
+            "last_seen": "2026年2月14日 下午8:25:55",
+            "level": 18,
             "name": "火花塞加",
             "name_history": [
                 "火花塞加"
@@ -9289,6 +9298,31 @@
             "name": "hui5",
             "registered": "2021年12月16日 下午6:06:31",
             "role_id": 61022895366632,
+            "server_region": "visser-aida"
+        },
+        "61022895370113": {
+            "crew_history": [
+                "北极星"
+            ],
+            "crew_id": 158913804171,
+            "crew_name": "北极星",
+            "equipping_title": "1_5_1_1",
+            "gender": 1,
+            "hp": 115975.4921875,
+            "last_known_position": {
+                "map": "city",
+                "x": 635.7000122070313,
+                "y": -18377.19921875,
+                "z": 96377.3359375
+            },
+            "last_seen": "2026年2月14日 下午8:25:55",
+            "level": 37,
+            "name": "琪亚娜第一可爱",
+            "name_history": [
+                "琪亚娜第一可爱"
+            ],
+            "registered": "2021年12月16日 下午10:27:07",
+            "role_id": 61022895370113,
             "server_region": "visser-aida"
         },
         "61022895376768": {
@@ -14926,7 +14960,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1058,
-    "last_updated": "2026年2月14日 上午12:14:10",
+    "accounts_total": 1059,
+    "last_updated": "2026年2月14日 下午8:25:55",
     "server_region": "visser-aida"
 }
