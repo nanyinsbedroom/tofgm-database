@@ -113,11 +113,26 @@
             "server_region": "korea"
         },
         "42945811784434856": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "Oct 07, 2025, 02:53:37 PM",
+            "hp": 2217337.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90480.28125,
+                "y": 81764.1796875,
+                "z": -7078.6396484375
+            },
+            "last_seen": "Feb 14, 2026, 6:48:28 PM",
+            "level": 100,
             "name": "치비크롱",
+            "name_history": [
+                "치비크롱"
+            ],
             "registered": "Aug 11, 2022, 8:14:07 PM",
             "role_id": 42945811784434856,
             "server_region": "korea"
@@ -2534,6 +2549,6 @@
         }
     },
     "accounts_total": 174,
-    "last_updated": "Feb 10, 2026, 10:46:03 PM",
+    "last_updated": "Feb 14, 2026, 6:48:28 PM",
     "server_region": "korea"
 }
