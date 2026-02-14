@@ -1,5 +1,30 @@
 {
     "accounts": {
+        "103538776680511": {
+            "crew_history": [
+                "心愿岛"
+            ],
+            "crew_id": 10209137277194,
+            "crew_name": "心愿岛",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2688217.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324583.4375,
+                "y": 204528.03125,
+                "z": -28353.048828125
+            },
+            "last_seen": "2026年2月14日 下午8:11:06",
+            "level": 100,
+            "name": "26-",
+            "name_history": [
+                "26-"
+            ],
+            "registered": "2022年1月10日 下午3:41:54",
+            "role_id": 103538776680511,
+            "server_region": "reshaping-the-future"
+        },
         "103555956484768": {
             "crew_history": [
                 "旧巷的猫"
@@ -998,6 +1023,31 @@
             "role_id": 62715112914572,
             "server_region": "reshaping-the-future"
         },
+        "62715112943992": {
+            "crew_history": [
+                "冒险家协会"
+            ],
+            "crew_id": 240518183178,
+            "crew_name": "冒险家协会",
+            "equipping_title": "1_1_8_2",
+            "gender": 0,
+            "hp": 2518241.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324103.34375,
+                "y": 203989.21875,
+                "z": -28339.080078125
+            },
+            "last_seen": "2026年2月14日 下午8:11:06",
+            "level": 100,
+            "name": "缡冥",
+            "name_history": [
+                "缡冥"
+            ],
+            "registered": "2022年7月5日 下午3:31:36",
+            "role_id": 62715112943992,
+            "server_region": "reshaping-the-future"
+        },
         "62715112980686": {
             "crew_history": [
                 "彩虹海"
@@ -1843,6 +1893,31 @@
             "name": "大杂鱼鱼",
             "registered": "2024年12月29日 上午12:33:39",
             "role_id": 62715114283358,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114287586": {
+            "crew_history": [
+                "彩虹海"
+            ],
+            "crew_id": 1692217129227,
+            "crew_name": "彩虹海",
+            "equipping_title": "1_6_3_1",
+            "gender": 1,
+            "hp": 1109137.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324813.4375,
+                "y": 203508.828125,
+                "z": -28319.80859375
+            },
+            "last_seen": "2026年2月14日 下午8:11:06",
+            "level": 99,
+            "name": "仙女小落",
+            "name_history": [
+                "仙女小落"
+            ],
+            "registered": "2025年1月5日 下午8:45:36",
+            "role_id": 62715114287586,
             "server_region": "reshaping-the-future"
         },
         "62715114287861": {
@@ -5024,7 +5099,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 329,
-    "last_updated": "2026年2月14日 下午8:10:06",
+    "accounts_total": 332,
+    "last_updated": "2026年2月14日 下午8:11:06",
     "server_region": "reshaping-the-future"
 }
