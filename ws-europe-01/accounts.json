@@ -11537,13 +11537,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708494376": {
-            "crew_id": 266296860455,
-            "crew_name": "Star Guardians",
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 676549.25,
-            "last_seen": "Jan 20, 2026, 01:48:38 AM",
-            "level": 71,
+            "hp": 860295.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 2692.81005859375,
+                "y": -26992.228515625,
+                "z": 97876.7890625
+            },
+            "last_seen": "Feb 14, 2026, 11:10:07 AM",
+            "level": 75,
             "name": "Asta_Staria",
             "name_history": [
                 "Asta_Staria"
@@ -17374,6 +17383,6 @@
         }
     },
     "accounts_total": 1066,
-    "last_updated": "Feb 14, 2026, 11:09:29 AM",
+    "last_updated": "Feb 14, 2026, 11:10:07 AM",
     "server_region": "ws-europe-01"
 }
