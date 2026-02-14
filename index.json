@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 15, 2026, 12:25:38 AM",
+    "last_updated": "Feb 14, 2026, 10:37:39 AM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1563,7 +1563,11 @@
         },
         "south-america": {
             "display_name": "South America",
-            "last_updated": "Feb 11, 2026, 3:18:00 PM",
+            "gender": {
+                "female": 165,
+                "male": 170
+            },
+            "last_updated": "Feb 14, 2026, 10:37:39 AM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -1684,7 +1688,8 @@
                 "weather_station_name": "Sao Paulo",
                 "zip_code": "01000-000"
             },
-            "total_accounts": 336
+            "total_accounts": 337,
+            "total_crews": 51
         },
         "southeast-asia": {
             "display_name": "Southeast Asia",
@@ -2467,10 +2472,10 @@
             "total_crews": 69
         }
     },
-    "total_accounts": 23839,
-    "total_crews": 1940,
+    "total_accounts": 23840,
+    "total_crews": 1991,
     "total_genders": {
-        "female": 17243,
-        "male": 6185
+        "female": 17408,
+        "male": 6355
     }
 }
