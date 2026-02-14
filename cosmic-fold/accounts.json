@@ -2132,15 +2132,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695850894": {
-            "crew_id": 42949687764,
-            "crew_name": "群星",
-            "equipping_title": "1_3_2_1",
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 848273.8125,
-            "last_seen": "2025年11月18日 下午 11:35:42",
-            "level": 71,
-            "name": "鸢一小折纸",
+            "hp": 2332637.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326242.59375,
+                "y": 203243.390625,
+                "z": -28348.228515625
+            },
+            "last_seen": "2026年2月14日 下午8:50:52",
+            "level": 83,
+            "name": "SD丨止明诗",
             "name_history": [
+                "SD丨止明诗",
                 "鸢一小折纸"
             ],
             "registered": "2025年9月25日 下午6:10:46",
@@ -63150,6 +63160,6 @@
         }
     },
     "accounts_total": 4802,
-    "last_updated": "2026年2月14日 下午8:49:52",
+    "last_updated": "2026年2月14日 下午8:50:52",
     "server_region": "cosmic-fold"
 }
