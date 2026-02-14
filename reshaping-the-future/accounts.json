@@ -879,12 +879,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715112856283": {
+            "crew_history": [
+                "风花雪月楼"
+            ],
             "crew_id": 7348689058058,
             "crew_name": "风花雪月楼",
             "equipping_title": "2_2_0_75",
             "gender": 1,
             "hp": 2262046.75,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "last_known_position": {
+                "map": "city",
+                "x": 1012.0999755859375,
+                "y": -16446.599609375,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月14日 下午8:12:06",
             "level": 100,
             "name": "诗意灬茜羽",
             "name_history": [
@@ -908,12 +917,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715112856875": {
+            "crew_history": [
+                "世界BOSS"
+            ],
             "crew_id": 30064785674,
             "crew_name": "世界BOSS",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2148778.5,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 1857193.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1256.8399658203125,
+                "y": -15820.599609375,
+                "z": 96309.40625
+            },
+            "last_seen": "2026年2月14日 下午8:12:06",
             "level": 100,
             "name": "音荡黄油女主",
             "name_history": [
@@ -1792,12 +1810,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715114215978": {
+            "crew_history": [
+                "彩虹海"
+            ],
             "crew_id": 1692217129227,
             "crew_name": "彩虹海",
             "equipping_title": "水波玲奈的后继者,1",
             "gender": 1,
-            "hp": 1712738.75,
-            "last_seen": "2025年11月25日 上午 1:58:17",
+            "hp": 1860397.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 765.2999877929688,
+                "y": -16761.0,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月14日 下午8:12:06",
             "level": 100,
             "name": "秋野楓",
             "name_history": [
@@ -1943,6 +1970,31 @@
             ],
             "registered": "2025年1月5日 下午11:30:42",
             "role_id": 62715114287861,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114288332": {
+            "crew_history": [
+                "千镜"
+            ],
+            "crew_id": 4294981898,
+            "crew_name": "千镜",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 316012.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 235.0399932861328,
+                "y": -18647.529296875,
+                "z": 96339.53125
+            },
+            "last_seen": "2026年2月14日 下午8:12:06",
+            "level": 100,
+            "name": "全世界最可爱",
+            "name_history": [
+                "全世界最可爱"
+            ],
+            "registered": "2025年1月6日 上午1:50:13",
+            "role_id": 62715114288332,
             "server_region": "reshaping-the-future"
         },
         "62715114288643": {
@@ -3181,6 +3233,29 @@
             ],
             "registered": "2026年2月12日 下午6:28:22",
             "role_id": 62715114586970,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114587726": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 11294.068359375,
+            "last_known_position": {
+                "map": "city",
+                "x": -36.099998474121094,
+                "y": -19253.419921875,
+                "z": 96337.6953125
+            },
+            "last_seen": "2026年2月14日 下午8:12:06",
+            "level": 16,
+            "name": "天天有金条",
+            "name_history": [
+                "天天有金条"
+            ],
+            "registered": "2026年2月13日 下午7:24:09",
+            "role_id": 62715114587726,
             "server_region": "reshaping-the-future"
         },
         "62719407433226": {
@@ -5099,7 +5174,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 332,
-    "last_updated": "2026年2月14日 下午8:11:06",
+    "accounts_total": 334,
+    "last_updated": "2026年2月14日 下午8:12:06",
     "server_region": "reshaping-the-future"
 }
