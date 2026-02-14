@@ -1549,11 +1549,24 @@
             "server_region": "future-humanity"
         },
         "60563335368056": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "1_3_2_1",
             "gender": 0,
-            "last_seen": "2025年10月08日 上午 12:04:13",
+            "hp": 2563719.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324696.75,
+                "y": 204404.90625,
+                "z": -28325.455078125
+            },
+            "last_seen": "2026年2月14日 下午7:19:07",
+            "level": 100,
             "name": "亩产一亿八",
+            "name_history": [
+                "亩产一亿八"
+            ],
             "registered": "2024年7月3日 下午2:09:29",
             "role_id": 60563335368056,
             "server_region": "future-humanity"
@@ -5858,6 +5871,6 @@
         }
     },
     "accounts_total": 398,
-    "last_updated": "2026年2月14日 下午8:16:06",
+    "last_updated": "2026年2月14日 下午7:19:07",
     "server_region": "future-humanity"
 }
