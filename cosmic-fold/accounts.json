@@ -15854,15 +15854,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695859739": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1427206.125,
-            "last_seen": "2026年2月9日 下午7:36:29",
-            "level": 82,
-            "name": "终末蓝发少女",
+            "hp": 1478122.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1830.929931640625,
+                "y": -27386.01953125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月14日 下午8:46:56",
+            "level": 83,
+            "name": "祈雪璃舞",
             "name_history": [
+                "祈雪璃舞",
                 "梨花i",
                 "终末蓝发少女"
             ],
@@ -63210,6 +63220,6 @@
         }
     },
     "accounts_total": 4803,
-    "last_updated": "2026年2月14日 下午9:30:54",
+    "last_updated": "2026年2月14日 下午8:46:56",
     "server_region": "cosmic-fold"
 }
