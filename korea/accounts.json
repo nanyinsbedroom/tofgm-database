@@ -167,12 +167,21 @@
             "server_region": "korea"
         },
         "42945811784438956": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "Title_Korea34_os12",
             "gender": 0,
-            "hp": 2190380.5,
-            "last_seen": "Nov 24, 2025, 02:40:06 AM",
+            "hp": 2262337.25,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 80375.65625,
+                "y": 32343.490234375,
+                "z": 6924.14990234375
+            },
+            "last_seen": "Feb 14, 2026, 6:56:28 PM",
             "level": 100,
             "name": "반주희",
             "name_history": [
@@ -257,12 +266,21 @@
             "server_region": "korea"
         },
         "42945811784443577": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "Title_KoreaAnniversary22",
             "gender": 1,
-            "hp": 1327749.625,
-            "last_seen": "Nov 24, 2025, 02:39:06 AM",
+            "hp": 1387325.125,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 80556.03125,
+                "y": 32195.4765625,
+                "z": 6937.74951171875
+            },
+            "last_seen": "Feb 14, 2026, 6:56:28 PM",
             "level": 100,
             "name": "길드는 츄르",
             "name_history": [
@@ -1905,12 +1923,21 @@
             "server_region": "korea"
         },
         "42945820374359686": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
-            "equipping_title": "2_10_0_4",
+            "equipping_title": "2_2_0_38",
             "gender": 0,
-            "hp": 1945358.25,
-            "last_seen": "Nov 20, 2025, 05:36:50 PM",
+            "hp": 2026374.0,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 80355.3984375,
+                "y": 32665.19921875,
+                "z": 6937.64013671875
+            },
+            "last_seen": "Feb 14, 2026, 6:56:28 PM",
             "level": 100,
             "name": "sonicdark",
             "name_history": [
@@ -2651,6 +2678,6 @@
         }
     },
     "accounts_total": 177,
-    "last_updated": "Feb 14, 2026, 6:55:28 PM",
+    "last_updated": "Feb 14, 2026, 6:56:28 PM",
     "server_region": "korea"
 }
