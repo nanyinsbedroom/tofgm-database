@@ -3550,13 +3550,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545392": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "ホトリ's Apprentice,0",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 233458.0,
-            "last_seen": "Dec 22, 2025, 02:49:33 AM",
-            "level": 60,
+            "hp": 466672.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -52706.61328125,
+                "y": -58420.69140625,
+                "z": -13113.255859375
+            },
+            "last_seen": "Feb 15, 2026, 9:04:00 PM",
+            "level": 72,
             "name": "緑は嫁",
             "name_history": [
                 "緑は嫁"
@@ -86692,6 +86701,6 @@
         }
     },
     "accounts_total": 5332,
-    "last_updated": "Feb 15, 2026, 9:01:59 PM",
+    "last_updated": "Feb 15, 2026, 9:04:00 PM",
     "server_region": "ws-asia-01"
 }
