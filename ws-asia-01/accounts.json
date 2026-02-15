@@ -59004,13 +59004,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118577579": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1041860.3125,
-            "last_seen": "Feb 6, 2026, 6:39:57 PM",
-            "level": 74,
+            "hp": 1076530.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 2653.739990234375,
+                "y": -27398.330078125,
+                "z": 98605.875
+            },
+            "last_seen": "Feb 15, 2026, 8:51:59 PM",
+            "level": 75,
             "name": "ニセモノ",
             "name_history": [
                 "ニセモノ"
@@ -86604,6 +86613,6 @@
         }
     },
     "accounts_total": 5331,
-    "last_updated": "Feb 15, 2026, 8:49:59 PM",
+    "last_updated": "Feb 15, 2026, 8:51:59 PM",
     "server_region": "ws-asia-01"
 }
