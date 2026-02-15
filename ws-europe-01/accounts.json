@@ -16745,13 +16745,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708524130": {
+            "crew_history": [
+                "Arcana"
+            ],
             "crew_id": 115973005095,
             "crew_name": "Arcana",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 325209.0,
-            "last_seen": "Feb 10, 2026, 7:22:47 PM",
-            "level": 61,
+            "hp": 439315.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1072.0699462890625,
+                "y": -28259.9296875,
+                "z": 97874.1171875
+            },
+            "last_seen": "Feb 15, 2026, 9:43:15 PM",
+            "level": 68,
             "name": "bbcy",
             "name_history": [
                 "bbcy"
@@ -17811,6 +17820,6 @@
         }
     },
     "accounts_total": 1072,
-    "last_updated": "Feb 15, 2026, 9:42:15 PM",
+    "last_updated": "Feb 15, 2026, 9:43:15 PM",
     "server_region": "ws-europe-01"
 }
