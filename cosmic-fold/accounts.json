@@ -53648,12 +53648,21 @@
             "server_region": "cosmic-fold"
         },
         "63582695964127": {
+            "crew_history": [
+                "IG"
+            ],
             "crew_id": 3388729211348,
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 647525.5625,
-            "last_seen": "2026年2月9日 下午11:59:50",
+            "hp": 944818.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1422.9000244140625,
+                "y": -28370.80859375,
+                "z": 97871.1171875
+            },
+            "last_seen": "2026年2月16日 上午12:16:15",
             "level": 80,
             "name": "Rookie.",
             "name_history": [
@@ -64830,6 +64839,6 @@
         }
     },
     "accounts_total": 4845,
-    "last_updated": "2026年2月16日 上午12:15:15",
+    "last_updated": "2026年2月16日 上午12:16:15",
     "server_region": "cosmic-fold"
 }
