@@ -7584,9 +7584,27 @@
             "server_region": "southeast-asia"
         },
         "68758131466959": {
+            "crew_history": [
+                "Luminous"
+            ],
+            "crew_id": 1662152359567,
+            "crew_name": "Luminous",
+            "equipping_title": "1_6_1_5",
             "gender": 1,
-            "last_seen": "Feb 04, 2026, 04:37:33 AM",
+            "hp": 2445447.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 75674.6015625,
+                "y": 20048.07421875,
+                "z": 42266.05859375
+            },
+            "last_seen": "Feb 15, 2026, 8:28:03 PM",
+            "level": 100,
             "name": "Gaeuuun",
+            "name_history": [
+                "Gaeuuun"
+            ],
+            "registered": "Aug 11, 2022, 6:16:28 PM",
             "role_id": 68758131466959,
             "server_region": "southeast-asia"
         },
@@ -28032,6 +28050,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:25:03 PM",
+    "last_updated": "Feb 15, 2026, 8:28:03 PM",
     "server_region": "southeast-asia"
 }
