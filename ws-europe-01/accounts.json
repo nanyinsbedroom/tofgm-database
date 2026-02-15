@@ -865,6 +865,9 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479763": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "2_10_1_9",
@@ -872,11 +875,11 @@
             "hp": 1038032.625,
             "last_known_position": {
                 "map": "city",
-                "x": 980.8899536132813,
-                "y": -28155.740234375,
-                "z": 97866.1171875
+                "x": 36.16999816894531,
+                "y": -29398.138671875,
+                "z": 98605.65625
             },
-            "last_seen": "Feb 13, 2026, 9:32:55 PM",
+            "last_seen": "Feb 15, 2026, 9:11:14 PM",
             "level": 75,
             "name": "Mystyk",
             "name_history": [
@@ -884,7 +887,7 @@
             ],
             "registered": "Nov 25, 2025, 9:04:00 AM",
             "role_id": 38174111708479763,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708479767": {
             "crew_id": 429505617703,
@@ -1967,12 +1970,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480198": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "Tiba Septim's Mentor,0",
             "gender": 1,
-            "hp": 1010269.625,
-            "last_seen": "Feb 11, 2026, 7:24:34 PM",
+            "hp": 1013582.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 600.8299560546875,
+                "y": -28329.990234375,
+                "z": 96713.4453125
+            },
+            "last_seen": "Feb 15, 2026, 9:11:14 PM",
             "level": 75,
             "name": "cuteBoiButt",
             "name_history": [
@@ -17721,6 +17733,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 9:10:14 PM",
+    "last_updated": "Feb 15, 2026, 9:11:14 PM",
     "server_region": "ws-europe-01"
 }
