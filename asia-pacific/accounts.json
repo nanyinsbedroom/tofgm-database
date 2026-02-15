@@ -3032,12 +3032,21 @@
             "server_region": "asia-pacific"
         },
         "47261820136291": {
+            "crew_history": [
+                "STLUCE"
+            ],
             "crew_id": 30064782076,
             "crew_name": "STLUCE",
-            "equipping_title": "Tencent_Sever_4",
+            "equipping_title": "2_2_0_79",
             "gender": 0,
-            "hp": 2813881.75,
-            "last_seen": "Nov 03, 2025, 07:28:03 PM",
+            "hp": 2019772.125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 76126.140625,
+                "y": -202.33999633789063,
+                "z": 9812.2001953125
+            },
+            "last_seen": "Feb 15, 2026, 8:24:38 PM",
             "level": 100,
             "name": "てけっ！！！",
             "name_history": [
@@ -4596,11 +4605,11 @@
             "hp": 2361082.0,
             "last_known_position": {
                 "map": "Vera_city",
-                "x": 76474.9765625,
-                "y": 236.15948486328125,
-                "z": 9543.865234375
+                "x": 76454.890625,
+                "y": 150.12545776367188,
+                "z": 9519.396484375
             },
-            "last_seen": "Feb 14, 2026, 6:13:43 PM",
+            "last_seen": "Feb 15, 2026, 8:24:38 PM",
             "level": 100,
             "name": "syusyu　",
             "name_history": [
@@ -24430,12 +24439,21 @@
             "server_region": "asia-pacific"
         },
         "47343427943281": {
+            "crew_history": [
+                "アーサの南"
+            ],
             "crew_id": 12837657258767,
             "crew_name": "アーサの南",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 916595.5625,
-            "last_seen": "Feb 6, 2026, 3:30:30 AM",
+            "hp": 917795.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 75881.71875,
+                "y": -320.9700012207031,
+                "z": 9791.58984375
+            },
+            "last_seen": "Feb 15, 2026, 8:24:38 PM",
             "level": 100,
             "name": "日高かむい",
             "name_history": [
@@ -28624,6 +28642,31 @@
             ],
             "registered": "Nov 23, 2025, 2:18:02 AM",
             "role_id": 47343427954902,
+            "server_region": "asia-pacific"
+        },
+        "47343427955735": {
+            "crew_history": [
+                "アーサの南"
+            ],
+            "crew_id": 12837657258767,
+            "crew_name": "アーサの南",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 801303.5625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 75932.9375,
+                "y": -303.6099853515625,
+                "z": 9792.2001953125
+            },
+            "last_seen": "Feb 15, 2026, 8:24:38 PM",
+            "level": 86,
+            "name": "花咲かえで",
+            "name_history": [
+                "花咲かえで"
+            ],
+            "registered": "Nov 25, 2025, 12:56:22 AM",
+            "role_id": 47343427955735,
             "server_region": "asia-pacific"
         },
         "47343427960643": {
@@ -35979,7 +36022,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2569,
-    "last_updated": "Feb 15, 2026, 8:23:38 PM",
+    "accounts_total": 2570,
+    "last_updated": "Feb 15, 2026, 8:24:38 PM",
     "server_region": "asia-pacific"
 }
