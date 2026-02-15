@@ -5026,12 +5026,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545645": {
+            "crew_history": [
+                "女神の祝福・賊"
+            ],
             "crew_id": 579829473061,
             "crew_name": "女神の祝福・賊",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 7:37:36 PM",
+            "hp": 1066057.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -876.510009765625,
+                "y": -27906.87890625,
+                "z": 97917.6796875
+            },
+            "last_seen": "Feb 15, 2026, 8:52:59 PM",
             "level": 75,
             "name": "瞬火",
             "name_history": [
@@ -21963,12 +21972,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555688": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
             "crew_id": 841822478117,
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1054599.5,
-            "last_seen": "Feb 12, 2026, 11:11:49 PM",
+            "hp": 1056511.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1925.199951171875,
+                "y": -24362.099609375,
+                "z": 98644.765625
+            },
+            "last_seen": "Feb 15, 2026, 8:52:59 PM",
             "level": 75,
             "name": "ぁぃころ",
             "name_history": [
@@ -86613,6 +86631,6 @@
         }
     },
     "accounts_total": 5331,
-    "last_updated": "Feb 15, 2026, 8:51:59 PM",
+    "last_updated": "Feb 15, 2026, 8:52:59 PM",
     "server_region": "ws-asia-01"
 }
