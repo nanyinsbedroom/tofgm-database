@@ -8944,6 +8944,31 @@
             "role_id": 63582695854978,
             "server_region": "cosmic-fold"
         },
+        "63582695854998": {
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 1105629.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1828.3800048828125,
+                "y": -28493.44921875,
+                "z": 97878.0
+            },
+            "last_seen": "2026年2月15日 下午11:53:13",
+            "level": 81,
+            "name": "读孤",
+            "name_history": [
+                "读孤"
+            ],
+            "registered": "2025年9月25日 下午7:04:27",
+            "role_id": 63582695854998,
+            "server_region": "cosmic-fold"
+        },
         "63582695854999": {
             "crew_id": 77309426132,
             "crew_name": "晓",
@@ -21178,13 +21203,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695863769": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1409046.0,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 82,
+            "hp": 1442447.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2801.599853515625,
+                "y": -23382.5703125,
+                "z": 96751.890625
+            },
+            "last_seen": "2026年2月15日 下午11:53:13",
+            "level": 83,
             "name": "川沙妲己",
             "name_history": [
                 "川沙妲己"
@@ -51202,15 +51236,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695954450": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1159426.5,
-            "last_seen": "2026年01月29日 上午 1:28:40",
-            "level": 80,
-            "name": "雪杳",
+            "hp": 1298513.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 3645.159912109375,
+                "y": -24201.638671875,
+                "z": 96731.1015625
+            },
+            "last_seen": "2026年2月15日 下午11:53:13",
+            "level": 83,
+            "name": "无聊猫猫",
             "name_history": [
+                "无聊猫猫",
                 "雪杳"
             ],
             "registered": "2025年11月8日 上午2:59:04",
@@ -64317,7 +64361,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4828,
-    "last_updated": "2026年2月15日 下午11:52:13",
+    "accounts_total": 4829,
+    "last_updated": "2026年2月15日 下午11:53:13",
     "server_region": "cosmic-fold"
 }
