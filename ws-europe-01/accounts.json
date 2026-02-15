@@ -1580,13 +1580,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480068": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 795814.5,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
-            "level": 73,
+            "hp": 848157.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1912.919921875,
+                "y": -24307.05859375,
+                "z": 97865.578125
+            },
+            "last_seen": "Feb 15, 2026, 9:49:16 PM",
+            "level": 74,
             "name": "HikamiHime",
             "name_history": [
                 "HikamiHime"
@@ -10693,13 +10702,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708489562": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "2_8_0_8",
+            "equipping_title": "1_6_4_31",
             "gender": 1,
-            "hp": 2519411.0,
-            "last_seen": "Feb 9, 2026, 7:55:01 PM",
-            "level": 74,
+            "hp": 1044680.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1868.4715576171875,
+                "y": -24751.140625,
+                "z": 96921.34375
+            },
+            "last_seen": "Feb 15, 2026, 9:49:16 PM",
+            "level": 75,
             "name": "EVА",
             "name_history": [
                 "EVА"
@@ -17893,6 +17911,6 @@
         }
     },
     "accounts_total": 1075,
-    "last_updated": "Feb 15, 2026, 9:47:16 PM",
+    "last_updated": "Feb 15, 2026, 9:49:16 PM",
     "server_region": "ws-europe-01"
 }
