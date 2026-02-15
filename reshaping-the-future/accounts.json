@@ -1290,6 +1290,31 @@
             "role_id": 62715113243781,
             "server_region": "reshaping-the-future"
         },
+        "62715113270201": {
+            "crew_history": [
+                "骑士"
+            ],
+            "crew_id": 68719491339,
+            "crew_name": "骑士",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2307598.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323279.53125,
+                "y": 205309.5,
+                "z": -28254.509765625
+            },
+            "last_seen": "2026年2月15日 下午10:08:08",
+            "level": 100,
+            "name": "寒冥",
+            "name_history": [
+                "寒冥"
+            ],
+            "registered": "2022年10月24日 上午10:47:45",
+            "role_id": 62715113270201,
+            "server_region": "reshaping-the-future"
+        },
         "62715113296270": {
             "crew_id": 1425929156880,
             "crew_name": "眼里只有墨晶",
@@ -1454,12 +1479,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715113516239": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
             "crew_id": 236223215882,
             "crew_name": "喵雪冰城",
             "equipping_title": "HuntingRank_1;imitation_54;1",
             "gender": 1,
-            "hp": 2339303.0,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 3481759.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -322179.0,
+                "y": 197201.390625,
+                "z": -28797.859375
+            },
+            "last_seen": "2026年2月15日 下午10:08:08",
             "level": 100,
             "name": "波吕克斯",
             "name_history": [
@@ -5635,7 +5669,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 351,
-    "last_updated": "2026年2月15日 下午10:07:04",
+    "accounts_total": 352,
+    "last_updated": "2026年2月15日 下午10:08:08",
     "server_region": "reshaping-the-future"
 }
