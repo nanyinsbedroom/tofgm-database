@@ -8464,12 +8464,21 @@
             "server_region": "europe"
         },
         "55929064207815": {
+            "crew_history": [
+                "Heavens Souls"
+            ],
             "crew_id": 781684060899,
             "crew_name": "Heavens Souls",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 6057730.5,
-            "last_seen": "Feb 8, 2026, 7:44:19 PM",
+            "hp": 6023908.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 77907.0703125,
+                "y": -163642.6875,
+                "z": -3038.1298828125
+            },
+            "last_seen": "Feb 15, 2026, 8:33:12 PM",
             "level": 100,
             "name": "Otakublue8989",
             "name_history": [
@@ -19521,6 +19530,6 @@
         }
     },
     "accounts_total": 1356,
-    "last_updated": "Feb 15, 2026, 8:32:12 PM",
+    "last_updated": "Feb 15, 2026, 8:33:12 PM",
     "server_region": "europe"
 }
