@@ -17855,14 +17855,26 @@
             "server_region": "asia-pacific"
         },
         "47343427370615": {
-            "crew_id": 90194324217,
-            "crew_name": "Saints",
+            "crew_history": [
+                "心地よく秘密めいたところ"
+            ],
+            "crew_id": 18846316505871,
+            "crew_name": "心地よく秘密めいたところ",
             "equipping_title": "1_6_3_1",
             "gender": 1,
-            "hp": 2287229.5,
-            "last_seen": "Oct 29, 2025, 11:00:03 PM",
+            "hp": 2230243.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1592.0,
+                "y": 45021.0,
+                "z": 5694.11962890625
+            },
+            "last_seen": "Feb 15, 2026, 8:26:38 PM",
             "level": 100,
             "name": "桃薫",
+            "name_history": [
+                "桃薫"
+            ],
             "registered": "Apr 24, 2024, 6:38:07 AM",
             "role_id": 47343427370615,
             "server_region": "asia-pacific"
@@ -29547,6 +29559,29 @@
             "role_id": 47343427984154,
             "server_region": "asia-pacific"
         },
+        "47343427984433": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 852736.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 2600.89990234375,
+                "y": 46077.08984375,
+                "z": 5705.61962890625
+            },
+            "last_seen": "Feb 15, 2026, 8:26:38 PM",
+            "level": 74,
+            "name": "mono-chan",
+            "name_history": [
+                "mono-chan"
+            ],
+            "registered": "Feb 6, 2026, 12:52:09 PM",
+            "role_id": 47343427984433,
+            "server_region": "asia-pacific"
+        },
         "47343427986885": {
             "crew_history": [],
             "crew_id": 0,
@@ -36022,7 +36057,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2570,
-    "last_updated": "Feb 15, 2026, 8:24:38 PM",
+    "accounts_total": 2571,
+    "last_updated": "Feb 15, 2026, 8:26:38 PM",
     "server_region": "asia-pacific"
 }
