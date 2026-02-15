@@ -7986,13 +7986,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708485050": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_7_0_12",
             "gender": 1,
-            "hp": 1050089.25,
-            "last_seen": "Feb 9, 2026, 8:01:15 PM",
-            "level": 74,
+            "hp": 1090930.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1451.29052734375,
+                "y": -25374.439453125,
+                "z": 97870.4765625
+            },
+            "last_seen": "Feb 15, 2026, 9:00:14 PM",
+            "level": 75,
             "name": "MTaDirector",
             "name_history": [
                 "MTaDirector"
@@ -8782,13 +8791,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486235": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 966570.5,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
-            "level": 74,
+            "hp": 1083791.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -746.2899780273438,
+                "y": -22981.69921875,
+                "z": 96729.734375
+            },
+            "last_seen": "Feb 15, 2026, 9:00:14 PM",
+            "level": 75,
             "name": "Sonea",
             "name_history": [
                 "Sonea"
@@ -17673,6 +17691,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 8:59:14 PM",
+    "last_updated": "Feb 15, 2026, 9:00:14 PM",
     "server_region": "ws-europe-01"
 }
