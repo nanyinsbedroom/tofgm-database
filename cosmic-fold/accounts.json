@@ -2300,14 +2300,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1556602.25,
+            "hp": 1570042.25,
             "last_known_position": {
                 "map": "city",
-                "x": -1034.3599853515625,
-                "y": -28051.939453125,
-                "z": 97879.6171875
+                "x": -1124.5899658203125,
+                "y": -25432.55859375,
+                "z": 96720.4453125
             },
-            "last_seen": "2026年2月14日 下午9:47:56",
+            "last_seen": "2026年2月15日 下午11:52:13",
             "level": 83,
             "name": "小柯基",
             "name_history": [
@@ -5121,13 +5121,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695852371": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1454916.125,
-            "last_seen": "2026年2月10日 下午10:29:07",
-            "level": 82,
+            "hp": 1491254.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 474.2799987792969,
+                "y": -22491.5390625,
+                "z": 96716.234375
+            },
+            "last_seen": "2026年2月15日 下午11:52:13",
+            "level": 83,
             "name": "星星偶有怯场",
             "name_history": [
                 "星星偶有怯场"
@@ -25905,11 +25914,11 @@
             "hp": 1462276.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1757.219970703125,
-                "y": -25651.33984375,
-                "z": 97866.1171875
+                "x": 539.7699584960938,
+                "y": -24708.009765625,
+                "z": 96706.9453125
             },
-            "last_seen": "2026年2月14日 下午9:49:56",
+            "last_seen": "2026年2月15日 下午11:52:13",
             "level": 83,
             "name": "风雨一人",
             "name_history": [
@@ -34248,17 +34257,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695888655": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "1_9_0_4",
+            "equipping_title": "2_4_0_5",
             "gender": 0,
-            "hp": 1495576.125,
-            "last_seen": "2026年2月10日 下午10:00:01",
-            "level": 82,
+            "hp": 1546910.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1012.2999877929688,
+                "y": -21660.400390625,
+                "z": 97493.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:52:13",
+            "level": 83,
             "name": "转盘小丑北柠",
             "name_history": [
-                "北柠",
-                "转盘小丑北柠"
+                "转盘小丑北柠",
+                "北柠"
             ],
             "registered": "2025年9月29日 下午6:04:49",
             "role_id": 63582695888655,
@@ -47686,6 +47704,31 @@
             "role_id": 63582695931382,
             "server_region": "cosmic-fold"
         },
+        "63582695931448": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 859672.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97877.875
+            },
+            "last_seen": "2026年2月15日 下午11:52:13",
+            "level": 82,
+            "name": "左手",
+            "name_history": [
+                "左手"
+            ],
+            "registered": "2025年10月17日 下午12:26:44",
+            "role_id": 63582695931448,
+            "server_region": "cosmic-fold"
+        },
         "63582695931449": {
             "crew_history": [
                 "樱花庄"
@@ -50482,6 +50525,31 @@
             "role_id": 63582695946786,
             "server_region": "cosmic-fold"
         },
+        "63582695946855": {
+            "crew_history": [
+                "百合姬"
+            ],
+            "crew_id": 1099511642580,
+            "crew_name": "百合姬",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1018375.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": -2107.199951171875,
+                "y": -24409.0,
+                "z": 97865.5390625
+            },
+            "last_seen": "2026年2月15日 下午11:52:13",
+            "level": 80,
+            "name": "千羽心夏",
+            "name_history": [
+                "千羽心夏"
+            ],
+            "registered": "2025年10月29日 下午8:04:45",
+            "role_id": 63582695946855,
+            "server_region": "cosmic-fold"
+        },
         "63582695947241": {
             "crew_id": 0,
             "crew_name": "",
@@ -51608,11 +51676,11 @@
             "hp": 552037.6875,
             "last_known_position": {
                 "map": "city",
-                "x": -1719.72998046875,
-                "y": -25593.71875,
-                "z": 97876.1171875
+                "x": -1660.0,
+                "y": -28644.69921875,
+                "z": 97875.8203125
             },
-            "last_seen": "2026年2月14日 下午8:41:56",
+            "last_seen": "2026年2月15日 下午11:52:13",
             "level": 81,
             "name": "迦摩",
             "name_history": [
@@ -58378,6 +58446,29 @@
             "role_id": 63582695994436,
             "server_region": "cosmic-fold"
         },
+        "63582695994484": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 553041.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:52:13",
+            "level": 79,
+            "name": "赐炎之咎姬",
+            "name_history": [
+                "赐炎之咎姬"
+            ],
+            "registered": "2026年1月24日 上午2:03:38",
+            "role_id": 63582695994484,
+            "server_region": "cosmic-fold"
+        },
         "63582695994528": {
             "crew_id": 0,
             "crew_name": "",
@@ -64226,7 +64317,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4825,
-    "last_updated": "2026年2月15日 下午11:51:13",
+    "accounts_total": 4828,
+    "last_updated": "2026年2月15日 下午11:52:13",
     "server_region": "cosmic-fold"
 }
