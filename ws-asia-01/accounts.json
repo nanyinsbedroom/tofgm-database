@@ -1501,13 +1501,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545092": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "アークナイツエンドフィールド's Mentor,0",
+            "equipping_title": "アークナイツエンドフィールド's Enlightener,1",
             "gender": 1,
-            "hp": 1046624.875,
-            "last_seen": [],
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99972.390625,
+                "y": -174877.5625,
+                "z": -5046.99658203125
+            },
+            "last_seen": "Feb 15, 2026, 8:44:59 PM",
+            "level": 75,
             "name": "アズールプロミリア",
             "name_history": [
                 "アズールプロミリア"
@@ -21171,12 +21180,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555432": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1063467.125,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
+            "hp": 2862827.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 102521.6171875,
+                "y": -198085.8125,
+                "z": -4576.7099609375
+            },
+            "last_seen": "Feb 15, 2026, 8:44:59 PM",
             "level": 75,
             "name": "Zephyne",
             "name_history": [
@@ -24049,17 +24067,26 @@
             "server_region": "ws-asia-01"
         },
         "38174103118556370": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 929348.25,
-            "last_seen": "Feb 02, 2026, 04:08:09 AM",
-            "level": 73,
+            "hp": 2504438.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 111781.7890625,
+                "y": -185376.46875,
+                "z": -4949.82958984375
+            },
+            "last_seen": "Feb 15, 2026, 8:44:59 PM",
+            "level": 75,
             "name": "❀はる❀",
             "name_history": [
-                "はる",
-                "❀はる❀"
+                "❀はる❀",
+                "はる"
             ],
             "registered": "Nov 25, 2025, 7:14:58 PM",
             "role_id": 38174103118556370,
@@ -24738,14 +24765,14 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1169093.25,
+            "hp": 3536000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 491.7099914550781,
-                "y": -23119.109375,
-                "z": 98605.2265625
+                "map": "Kailo_P_003",
+                "x": 89623.9765625,
+                "y": -171042.375,
+                "z": -4299.5498046875
             },
-            "last_seen": "Feb 14, 2026, 7:48:34 PM",
+            "last_seen": "Feb 15, 2026, 8:44:59 PM",
             "level": 75,
             "name": "PVDF",
             "name_history": [
@@ -58796,12 +58823,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118577511": {
+            "crew_history": [
+                "女神の祝福・賊"
+            ],
             "crew_id": 579829473061,
             "crew_name": "女神の祝福・賊",
             "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 1057297.375,
-            "last_seen": "Feb 11, 2026, 9:40:42 PM",
+            "hp": 2606309.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 87020.4609375,
+                "y": -177099.671875,
+                "z": -4131.06005859375
+            },
+            "last_seen": "Feb 15, 2026, 8:44:59 PM",
             "level": 75,
             "name": "ちまき",
             "name_history": [
@@ -86443,6 +86479,6 @@
         }
     },
     "accounts_total": 5330,
-    "last_updated": "Feb 15, 2026, 8:41:59 PM",
+    "last_updated": "Feb 15, 2026, 8:44:59 PM",
     "server_region": "ws-asia-01"
 }
