@@ -14014,12 +14014,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118550750": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "りらっくす's Successor,1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 921418.4375,
-            "last_seen": "Feb 12, 2026, 11:11:49 PM",
+            "hp": 932403.6875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -51288.77734375,
+                "y": 490.6999816894531,
+                "z": -13816.580078125
+            },
+            "last_seen": "Feb 15, 2026, 9:01:59 PM",
             "level": 75,
             "name": "茜星",
             "name_history": [
@@ -86683,6 +86692,6 @@
         }
     },
     "accounts_total": 5332,
-    "last_updated": "Feb 15, 2026, 8:59:59 PM",
+    "last_updated": "Feb 15, 2026, 9:01:59 PM",
     "server_region": "ws-asia-01"
 }
