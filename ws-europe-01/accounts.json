@@ -3423,13 +3423,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481157": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 3120000.0,
-            "last_seen": "Feb 9, 2026, 7:50:58 PM",
-            "level": 74,
+            "hp": 1078834.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -2789.39990234375,
+                "y": -28054.44921875,
+                "z": 97778.75
+            },
+            "last_seen": "Feb 15, 2026, 9:51:16 PM",
+            "level": 75,
             "name": "Kurxoo",
             "name_history": [
                 "Kurxoo"
@@ -17911,6 +17920,6 @@
         }
     },
     "accounts_total": 1075,
-    "last_updated": "Feb 15, 2026, 9:49:16 PM",
+    "last_updated": "Feb 15, 2026, 9:51:16 PM",
     "server_region": "ws-europe-01"
 }
