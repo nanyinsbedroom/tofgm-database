@@ -10120,9 +10120,27 @@
             "server_region": "europe"
         },
         "55963424116662": {
-            "gender": 1,
-            "last_seen": "Feb 3, 2026, 7:42:32 PM",
+            "crew_history": [
+                "†Ryudara"
+            ],
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
+            "equipping_title": "1_12_0_1",
+            "gender": 0,
+            "hp": 5761148.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92123.75,
+                "y": -188463.984375,
+                "z": -7242.49951171875
+            },
+            "last_seen": "Feb 15, 2026, 8:31:12 PM",
+            "level": 100,
             "name": "kanta",
+            "name_history": [
+                "kanta"
+            ],
+            "registered": "Jul 28, 2023, 10:30:25 PM",
             "role_id": 55963424116662,
             "server_region": "europe"
         },
@@ -16808,13 +16826,22 @@
             "server_region": "europe"
         },
         "55963424743230": {
+            "crew_history": [
+                "†Ryudara"
+            ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
             "equipping_title": "1_3_1_5",
             "gender": 1,
-            "hp": 1219808.125,
-            "last_seen": "Feb 5, 2026, 7:58:33 PM",
-            "level": 98,
+            "hp": 5805908.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101622.75,
+                "y": -183771.375,
+                "z": -7818.37548828125
+            },
+            "last_seen": "Feb 15, 2026, 8:31:12 PM",
+            "level": 100,
             "name": "Ainsworth",
             "name_history": [
                 "Ainsworth"
@@ -19421,6 +19448,6 @@
         }
     },
     "accounts_total": 1355,
-    "last_updated": "Feb 15, 2026, 8:30:12 PM",
+    "last_updated": "Feb 15, 2026, 8:31:12 PM",
     "server_region": "europe"
 }
