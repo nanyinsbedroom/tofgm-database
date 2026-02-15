@@ -3839,12 +3839,21 @@
             "server_region": "southeast-asia"
         },
         "68736656685844": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 6274184.5,
-            "last_seen": "Feb 10, 2026, 7:54:34 PM",
+            "hp": 2874330.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 67619.2421875,
+                "y": 18519.75390625,
+                "z": 41982.51953125
+            },
+            "last_seen": "Feb 15, 2026, 8:25:03 PM",
             "level": 100,
             "name": "FlynSSR",
             "name_history": [
@@ -28023,6 +28032,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:23:03 PM",
+    "last_updated": "Feb 15, 2026, 8:25:03 PM",
     "server_region": "southeast-asia"
 }
