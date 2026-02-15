@@ -11963,12 +11963,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708494575": {
+            "crew_history": [
+                "Administrators "
+            ],
             "crew_id": 1782420315943,
             "crew_name": "Administrators ",
             "equipping_title": "None",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 9:55:58 PM",
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101228.8984375,
+                "y": -182431.890625,
+                "z": -7536.62841796875
+            },
+            "last_seen": "Feb 15, 2026, 9:56:16 PM",
             "level": 70,
             "name": "Nocturnia",
             "name_history": [
@@ -14679,6 +14688,31 @@
             "role_id": 38174111708513958,
             "server_region": "ws-europe-01"
         },
+        "38174111708513959": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
+            "crew_id": 188987449127,
+            "crew_name": "EuzeroFR",
+            "equipping_title": "Sarah_'s Mentor,0",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92303.4921875,
+                "y": -181559.734375,
+                "z": -7781.4072265625
+            },
+            "last_seen": "Feb 15, 2026, 9:56:16 PM",
+            "level": 73,
+            "name": "Yoshua",
+            "name_history": [
+                "Yoshua"
+            ],
+            "registered": "Dec 20, 2025, 1:58:09 PM",
+            "role_id": 38174111708513959,
+            "server_region": "ws-europe-01"
+        },
         "38174111708513985": {
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
@@ -14849,13 +14883,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708514234": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;73",
+            "equipping_title": "Sarah_'s Enlightener,1",
             "gender": 0,
-            "hp": 715980.3125,
-            "last_seen": "Jan 25, 2026, 04:07:25 AM",
-            "level": 72,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92375.953125,
+                "y": -187942.875,
+                "z": -7240.02734375
+            },
+            "last_seen": "Feb 15, 2026, 9:56:16 PM",
+            "level": 75,
             "name": "Le_magnifique2",
             "name_history": [
                 "Le_magnifique2"
@@ -17776,6 +17819,31 @@
             "role_id": 38174111708525049,
             "server_region": "ws-europe-01"
         },
+        "38174111708525092": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100118.75,
+                "y": -195338.171875,
+                "z": -4683.47900390625
+            },
+            "last_seen": "Feb 15, 2026, 9:56:16 PM",
+            "level": 49,
+            "name": "File",
+            "name_history": [
+                "File"
+            ],
+            "registered": "Feb 9, 2026, 9:46:58 PM",
+            "role_id": 38174111708525092,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525145": {
             "crew_id": 0,
             "crew_name": "",
@@ -17928,7 +17996,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1075,
-    "last_updated": "Feb 15, 2026, 9:54:16 PM",
+    "accounts_total": 1077,
+    "last_updated": "Feb 15, 2026, 9:56:16 PM",
     "server_region": "ws-europe-01"
 }
