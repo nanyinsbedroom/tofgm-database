@@ -15561,18 +15561,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708520826": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 577709.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1979.97998046875,
-                "y": -29064.37890625,
-                "z": 97879.9765625
+                "map": "Kailo_P_003",
+                "x": 100833.78125,
+                "y": -180185.640625,
+                "z": -7727.94384765625
             },
-            "last_seen": "Feb 13, 2026, 10:38:28 PM",
+            "last_seen": "Feb 15, 2026, 9:57:16 PM",
             "level": 71,
             "name": "Jaylene",
             "name_history": [
@@ -17997,6 +18000,6 @@
         }
     },
     "accounts_total": 1077,
-    "last_updated": "Feb 15, 2026, 9:56:16 PM",
+    "last_updated": "Feb 15, 2026, 9:57:16 PM",
     "server_region": "ws-europe-01"
 }
