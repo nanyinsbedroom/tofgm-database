@@ -12408,12 +12408,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118548609": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
             "equipping_title": "2_2_0_82",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 7:37:36 PM",
+            "hp": 1017676.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1168.8199462890625,
+                "y": -28255.80859375,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 15, 2026, 8:49:59 PM",
             "level": 75,
             "name": "Sugar Baby",
             "name_history": [
@@ -86595,6 +86604,6 @@
         }
     },
     "accounts_total": 5331,
-    "last_updated": "Feb 15, 2026, 8:48:59 PM",
+    "last_updated": "Feb 15, 2026, 8:49:59 PM",
     "server_region": "ws-asia-01"
 }
