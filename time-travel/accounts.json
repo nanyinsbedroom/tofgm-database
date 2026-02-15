@@ -1099,17 +1099,24 @@
             "server_region": "time-travel"
         },
         "63574105946243": {
-            "crew_id": 270582954450,
-            "crew_name": "绝幻",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_075_World;3",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_075_World;2",
             "gender": 1,
-            "hp": 1425883.375,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1501618.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1237.969970703125,
+                "y": -28406.669921875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:30:12",
+            "level": 83,
             "name": "黑利·佩茵特",
             "name_history": [
-                "长岛冰茶茶",
-                "黑利·佩茵特"
+                "黑利·佩茵特",
+                "长岛冰茶茶"
             ],
             "registered": "2023年12月14日 下午12:29:53",
             "role_id": 63574105946243,
@@ -8120,6 +8127,31 @@
             "role_id": 63578401984331,
             "server_region": "time-travel"
         },
+        "63578401984888": {
+            "crew_history": [
+                "绝幻"
+            ],
+            "crew_id": 270582954450,
+            "crew_name": "绝幻",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 1190841.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1022.3200073242188,
+                "y": -28251.638671875,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:30:12",
+            "level": 83,
+            "name": "天冠山诗帖",
+            "name_history": [
+                "天冠山诗帖"
+            ],
+            "registered": "2021年12月16日 上午8:08:42",
+            "role_id": 63578401984888,
+            "server_region": "time-travel"
+        },
         "63578401985398": {
             "crew_id": 502511188434,
             "crew_name": "挽梦挽星辰",
@@ -8976,7 +9008,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 606,
-    "last_updated": "2026年2月15日 下午11:29:12",
+    "accounts_total": 607,
+    "last_updated": "2026年2月15日 下午11:30:12",
     "server_region": "time-travel"
 }
