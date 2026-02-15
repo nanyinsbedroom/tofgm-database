@@ -31096,7 +31096,7 @@
                 "y": 76691.8515625,
                 "z": -7075.7099609375
             },
-            "last_seen": "2026年2月15日 下午11:45:13",
+            "last_seen": "2026年2月15日 下午11:48:13",
             "level": 83,
             "name": "夏洛特-奥琳",
             "name_history": [
@@ -36135,13 +36135,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695896428": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 1186649.75,
-            "last_seen": "2026年2月8日 下午10:14:00",
-            "level": 82,
+            "hp": 1482833.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79263.484375,
+                "y": 81477.4375,
+                "z": -9758.3564453125
+            },
+            "last_seen": "2026年2月15日 下午11:48:13",
+            "level": 83,
             "name": "章北海",
             "name_history": [
                 "章北海"
@@ -59581,14 +59590,14 @@
             "crew_name": "NOVA学院",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 389426.6875,
+            "hp": 459182.8125,
             "last_known_position": {
                 "map": "QRSL_P",
                 "x": -61263.59765625,
                 "y": 60179.7578125,
                 "z": -9808.5595703125
             },
-            "last_seen": "2026年2月15日 下午11:45:13",
+            "last_seen": "2026年2月15日 下午11:48:13",
             "level": 80,
             "name": "毛辣果",
             "name_history": [
@@ -63767,6 +63776,29 @@
             "role_id": 63582696007112,
             "server_region": "cosmic-fold"
         },
+        "63582696007194": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 101896.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54443.23046875,
+                "y": 66770.8984375,
+                "z": -4463.15966796875
+            },
+            "last_seen": "2026年2月15日 下午11:48:13",
+            "level": 40,
+            "name": "我是招财猫。",
+            "name_history": [
+                "我是招财猫。"
+            ],
+            "registered": "2026年2月11日 上午2:44:08",
+            "role_id": 63582696007194,
+            "server_region": "cosmic-fold"
+        },
         "63582696007475": {
             "crew_history": [],
             "crew_id": 0,
@@ -63837,7 +63869,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4816,
-    "last_updated": "2026年2月15日 下午11:47:13",
+    "accounts_total": 4817,
+    "last_updated": "2026年2月15日 下午11:48:13",
     "server_region": "cosmic-fold"
 }
