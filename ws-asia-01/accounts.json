@@ -18121,13 +18121,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118554350": {
+            "crew_history": [
+                "Fantasia"
+            ],
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 575587.625,
-            "last_seen": "Dec 29, 2025, 12:48:54 AM",
-            "level": 66,
+            "hp": 914313.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 494.78997802734375,
+                "y": -28085.26953125,
+                "z": 97921.1640625
+            },
+            "last_seen": "Feb 15, 2026, 9:05:00 PM",
+            "level": 73,
             "name": "Gin",
             "name_history": [
                 "Gin"
@@ -67448,12 +67457,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118584322": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "WorldBossDamage_1;boss_hum_059_world;1",
             "gender": 1,
-            "hp": 1014481.1875,
-            "last_seen": "Feb 12, 2026, 11:13:44 PM",
+            "hp": 1025882.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": 538.5999755859375,
+                "y": -24724.638671875,
+                "z": 96706.9453125
+            },
+            "last_seen": "Feb 15, 2026, 9:05:00 PM",
             "level": 75,
             "name": "SARANLAP",
             "name_history": [
@@ -67912,13 +67930,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118584801": {
-            "crew_id": 47253528357,
-            "crew_name": "じゃぱたま",
-            "equipping_title": "1_1_22_1",
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "七星R's Mentor,0",
             "gender": 1,
-            "hp": 406320.59375,
-            "last_seen": "Dec 12, 2025, 07:02:18 AM",
-            "level": 57,
+            "hp": 1101931.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 2368.89990234375,
+                "y": -26472.798828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 15, 2026, 9:05:00 PM",
+            "level": 75,
             "name": "RYNE-I",
             "name_history": [
                 "RYNE-I"
@@ -83142,15 +83169,15 @@
             "crew_name": "女神の祝福・賊",
             "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 777527.375,
+            "hp": 854141.125,
             "last_known_position": {
                 "map": "city",
-                "x": 547.5999755859375,
-                "y": -22163.5,
+                "x": -557.4400024414063,
+                "y": -21702.5703125,
                 "z": 96737.859375
             },
-            "last_seen": "Feb 14, 2026, 7:49:34 PM",
-            "level": 72,
+            "last_seen": "Feb 15, 2026, 9:05:00 PM",
+            "level": 73,
             "name": "あまの",
             "name_history": [
                 "あまの"
@@ -86701,6 +86728,6 @@
         }
     },
     "accounts_total": 5332,
-    "last_updated": "Feb 15, 2026, 9:04:00 PM",
+    "last_updated": "Feb 15, 2026, 9:05:00 PM",
     "server_region": "ws-asia-01"
 }
