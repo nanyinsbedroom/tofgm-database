@@ -11552,12 +11552,21 @@
             "server_region": "southeast-asia"
         },
         "68775311375456": {
+            "crew_history": [
+                "Infinite TH"
+            ],
             "crew_id": 124554067597,
             "crew_name": "Infinite TH",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 2294436.25,
-            "last_seen": "Feb 11, 2026, 3:10:49 AM",
+            "hp": 2295988.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -115.39999389648438,
+                "y": -17755.69921875,
+                "z": 96329.5390625
+            },
+            "last_seen": "Feb 15, 2026, 6:01:43 PM",
             "level": 100,
             "name": "นางเOกเOวี",
             "name_history": [
@@ -27810,6 +27819,6 @@
         }
     },
     "accounts_total": 2043,
-    "last_updated": "Feb 15, 2026, 6:00:43 PM",
+    "last_updated": "Feb 15, 2026, 6:01:43 PM",
     "server_region": "southeast-asia"
 }
