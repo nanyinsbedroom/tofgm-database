@@ -12493,6 +12493,31 @@
             "role_id": 38174111708496539,
             "server_region": "ws-europe-01"
         },
+        "38174111708496623": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
+            "crew_id": 188987449127,
+            "crew_name": "EuzeroFR",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;3",
+            "gender": 1,
+            "hp": 730359.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50726.80859375,
+                "y": 76557.578125,
+                "z": -10096.490234375
+            },
+            "last_seen": "Feb 15, 2026, 10:06:17 PM",
+            "level": 73,
+            "name": "Frigg81 fr",
+            "name_history": [
+                "Frigg81 fr"
+            ],
+            "registered": "Nov 28, 2025, 10:07:58 PM",
+            "role_id": 38174111708496623,
+            "server_region": "ws-europe-01"
+        },
         "38174111708496685": {
             "crew_id": 425210650407,
             "crew_name": "Villa Celestium",
@@ -15287,12 +15312,19 @@
             "server_region": "ws-europe-01"
         },
         "38174111708515798": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
             "hp": 402742.5,
-            "last_seen": "Feb 8, 2026, 8:15:54 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -69166.6796875,
+                "y": 50414.19921875,
+                "z": -12639.33984375
+            },
+            "last_seen": "Feb 15, 2026, 10:06:17 PM",
             "level": 70,
             "name": "Sona",
             "name_history": [
@@ -18370,6 +18402,29 @@
             "role_id": 38174111708525590,
             "server_region": "ws-europe-01"
         },
+        "38174111708525643": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 36907.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57915.05859375,
+                "y": 67126.03125,
+                "z": -9820.1298828125
+            },
+            "last_seen": "Feb 15, 2026, 10:06:17 PM",
+            "level": 8,
+            "name": "Kodaksaid",
+            "name_history": [
+                "Kodaksaid"
+            ],
+            "registered": "Feb 15, 2026, 6:21:44 PM",
+            "role_id": 38174111708525643,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525668": {
             "crew_history": [],
             "crew_id": 0,
@@ -18438,9 +18493,32 @@
             "registered": "Feb 15, 2026, 9:25:46 PM",
             "role_id": 38174111708525676,
             "server_region": "ws-europe-01"
+        },
+        "38174111708525678": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21201.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -75756.640625,
+                "y": 74108.9375,
+                "z": -9664.759765625
+            },
+            "last_seen": "Feb 15, 2026, 10:06:17 PM",
+            "level": 6,
+            "name": "ШМАРА",
+            "name_history": [
+                "ШМАРА"
+            ],
+            "registered": "Feb 15, 2026, 9:32:55 PM",
+            "role_id": 38174111708525678,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1091,
-    "last_updated": "Feb 15, 2026, 10:05:17 PM",
+    "accounts_total": 1094,
+    "last_updated": "Feb 15, 2026, 10:06:17 PM",
     "server_region": "ws-europe-01"
 }
