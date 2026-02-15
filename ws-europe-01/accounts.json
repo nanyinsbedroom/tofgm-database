@@ -65,12 +65,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479501": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "1_4_6_1",
+            "equipping_title": "None",
             "gender": 1,
             "hp": 1032970.5,
-            "last_seen": "Feb 11, 2026, 7:23:32 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 317.19549560546875,
+                "y": -22081.21875,
+                "z": 96996.9609375
+            },
+            "last_seen": "Feb 15, 2026, 9:05:14 PM",
             "level": 75,
             "name": "Lico",
             "name_history": [
@@ -17709,6 +17718,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 9:03:14 PM",
+    "last_updated": "Feb 15, 2026, 9:05:14 PM",
     "server_region": "ws-europe-01"
 }
