@@ -3149,6 +3149,31 @@
             "role_id": 38174111708480885,
             "server_region": "ws-europe-01"
         },
+        "38174111708480890": {
+            "crew_history": [
+                "Chaos"
+            ],
+            "crew_id": 511109996327,
+            "crew_name": "Chaos",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 650398.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -717.1499633789063,
+                "y": -28453.0703125,
+                "z": 97853.1171875
+            },
+            "last_seen": "Feb 15, 2026, 10:12:17 PM",
+            "level": 73,
+            "name": "MettyStyle",
+            "name_history": [
+                "MettyStyle"
+            ],
+            "registered": "Nov 25, 2025, 10:02:36 AM",
+            "role_id": 38174111708480890,
+            "server_region": "ws-europe-01"
+        },
         "38174111708480904": {
             "crew_history": [
                 "Asylum"
@@ -8844,13 +8869,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486101": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 140243.96875,
-            "last_seen": "Jan 30, 2026, 04:18:45 AM",
-            "level": 62,
+            "hp": 142327.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1078.010009765625,
+                "y": -27832.0,
+                "z": 96706.9609375
+            },
+            "last_seen": "Feb 15, 2026, 10:12:17 PM",
+            "level": 63,
             "name": "Lunia",
             "name_history": [
                 "Lunia"
@@ -13358,6 +13392,31 @@
             "role_id": 38174111708501945,
             "server_region": "ws-europe-01"
         },
+        "38174111708501957": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
+            "crew_id": 365081108263,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 826679.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1939.260009765625,
+                "y": -24315.9296875,
+                "z": 97872.328125
+            },
+            "last_seen": "Feb 15, 2026, 10:12:17 PM",
+            "level": 72,
+            "name": "Trotteline",
+            "name_history": [
+                "Trotteline"
+            ],
+            "registered": "Dec 1, 2025, 11:34:54 PM",
+            "role_id": 38174111708501957,
+            "server_region": "ws-europe-01"
+        },
         "38174111708502452": {
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
@@ -14468,15 +14527,25 @@
             "server_region": "ws-europe-01"
         },
         "38174111708511974": {
-            "crew_id": 25778691879,
-            "crew_name": "Asylum",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 863460.75,
-            "last_seen": "Jan 30, 2026, 04:09:45 AM",
-            "level": 72,
-            "name": "bailo",
+            "hp": 955460.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": 31.739999771118164,
+                "y": -23185.830078125,
+                "z": 96724.6953125
+            },
+            "last_seen": "Feb 15, 2026, 10:12:17 PM",
+            "level": 75,
+            "name": "dodo",
             "name_history": [
+                "dodo",
                 "bailo"
             ],
             "registered": "Dec 16, 2025, 7:12:59 AM",
@@ -16964,13 +17033,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708523718": {
+            "crew_history": [
+                "🅰🆄🆁🅾🆁🅰"
+            ],
             "crew_id": 429505617703,
             "crew_name": "🅰🆄🆁🅾🆁🅰",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 487770.0,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
-            "level": 73,
+            "hp": 489498.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 907.2999877929688,
+                "y": -28875.849609375,
+                "z": 97894.8984375
+            },
+            "last_seen": "Feb 15, 2026, 10:12:17 PM",
+            "level": 75,
             "name": "Petunia",
             "name_history": [
                 "Petunia"
@@ -18550,7 +18628,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1095,
-    "last_updated": "Feb 15, 2026, 10:08:17 PM",
+    "accounts_total": 1097,
+    "last_updated": "Feb 15, 2026, 10:12:17 PM",
     "server_region": "ws-europe-01"
 }
