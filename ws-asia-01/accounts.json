@@ -538,13 +538,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118544970": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "2_2_0_80",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:43:27 PM",
-            "level": 74,
+            "hp": 967862.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1942.409912109375,
+                "y": -26434.01953125,
+                "z": 97061.078125
+            },
+            "last_seen": "Feb 15, 2026, 8:36:58 PM",
+            "level": 75,
             "name": "Frost",
             "name_history": [
                 "Frost"
@@ -1205,13 +1214,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545059": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "RimRimNyan's Mentor,0",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 542378.9375,
-            "last_seen": "Dec 27, 2025, 10:49:48 AM",
-            "level": 65,
+            "hp": 1008871.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1585.77001953125,
+                "y": -28138.779296875,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 15, 2026, 8:36:58 PM",
+            "level": 75,
             "name": "Yuuko",
             "name_history": [
                 "Yuuko"
@@ -1319,13 +1337,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545070": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 1020574.6875,
-            "last_seen": "Feb 9, 2026, 12:08:57 AM",
-            "level": 74,
+            "hp": 1053483.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1603.679931640625,
+                "y": -24640.779296875,
+                "z": 97866.109375
+            },
+            "last_seen": "Feb 15, 2026, 8:36:58 PM",
+            "level": 75,
             "name": "ニシン",
             "name_history": [
                 "ニシン"
@@ -66274,13 +66301,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118583487": {
+            "crew_history": [
+                "LufusIntegra"
+            ],
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 655773.875,
-            "last_seen": "Jan 13, 2026, 02:37:25 AM",
-            "level": 70,
+            "hp": 946945.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1304.969970703125,
+                "y": -29414.099609375,
+                "z": 98612.1171875
+            },
+            "last_seen": "Feb 15, 2026, 8:36:58 PM",
+            "level": 75,
             "name": "Venai",
             "name_history": [
                 "Venai"
@@ -85820,13 +85856,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118612616": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 117501.0,
-            "last_seen": "Feb 11, 2026, 9:39:42 PM",
-            "level": 52,
+            "hp": 118365.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1200.260009765625,
+                "y": -28358.990234375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 15, 2026, 8:36:58 PM",
+            "level": 53,
             "name": "水5",
             "name_history": [
                 "水5"
@@ -86224,6 +86269,6 @@
         }
     },
     "accounts_total": 5328,
-    "last_updated": "Feb 15, 2026, 8:35:58 PM",
+    "last_updated": "Feb 15, 2026, 8:36:58 PM",
     "server_region": "ws-asia-01"
 }
