@@ -8011,12 +8011,21 @@
             "server_region": "southeast-asia"
         },
         "68758131547042": {
+            "crew_history": [
+                "REBIRTH"
+            ],
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
-            "equipping_title": "2_2_0_21",
+            "equipping_title": "Title_tencentshare_os_15",
             "gender": 1,
-            "hp": 3362965.25,
-            "last_seen": "Jan 03, 2026, 07:07:45 AM",
+            "hp": 2671662.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 77787.578125,
+                "y": 19089.57421875,
+                "z": 41961.05078125
+            },
+            "last_seen": "Feb 15, 2026, 8:47:04 PM",
             "level": 100,
             "name": "Luna_Stellaruna",
             "name_history": [
@@ -28077,6 +28086,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:45:04 PM",
+    "last_updated": "Feb 15, 2026, 8:47:04 PM",
     "server_region": "southeast-asia"
 }
