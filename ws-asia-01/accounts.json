@@ -23676,13 +23676,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118556188": {
+            "crew_history": [
+                "ミスティルテイン"
+            ],
             "crew_id": 30073659173,
             "crew_name": "ミスティルテイン",
-            "equipping_title": "WorldBossDamage_2;boss_hum_074_world;10",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 593544.3125,
-            "last_seen": "Dec 25, 2025, 06:07:31 AM",
-            "level": 64,
+            "hp": 569131.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73613.609375,
+                "y": 49379.4453125,
+                "z": -12312.5
+            },
+            "last_seen": "Feb 15, 2026, 10:18:53 PM",
+            "level": 75,
             "name": "ハマグリさん",
             "name_history": [
                 "ハマグリさん"
@@ -87047,6 +87056,6 @@
         }
     },
     "accounts_total": 5336,
-    "last_updated": "Feb 15, 2026, 10:16:53 PM",
+    "last_updated": "Feb 15, 2026, 10:18:53 PM",
     "server_region": "ws-asia-01"
 }
