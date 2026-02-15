@@ -14427,13 +14427,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708511641": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "excessive10的学徒,0",
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "excessive10's Apprentice,0",
             "gender": 1,
-            "hp": 383734.1875,
-            "last_seen": "Jan 25, 2026, 04:01:24 AM",
-            "level": 72,
+            "hp": 674482.3125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 77142.4375,
+                "y": -4562.77978515625,
+                "z": 9402.509765625
+            },
+            "last_seen": "Feb 15, 2026, 10:08:17 PM",
+            "level": 75,
             "name": "BannerCorgi",
             "name_history": [
                 "BannerCorgi"
@@ -18542,6 +18551,6 @@
         }
     },
     "accounts_total": 1095,
-    "last_updated": "Feb 15, 2026, 10:07:17 PM",
+    "last_updated": "Feb 15, 2026, 10:08:17 PM",
     "server_region": "ws-europe-01"
 }
