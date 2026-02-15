@@ -466,12 +466,21 @@
             "server_region": "reshaping-the-future"
         },
         "61439507180157": {
+            "crew_history": [
+                "银岸"
+            ],
             "crew_id": 4294981899,
             "crew_name": "银岸",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 2552885.5,
-            "last_seen": "2026年01月29日 上午 12:44:15",
+            "hp": 2604218.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -3.809999942779541,
+                "y": -17236.888671875,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月15日 下午10:30:09",
             "level": 100,
             "name": "一条凶修勾",
             "name_history": [
@@ -1853,12 +1862,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715113747207": {
+            "crew_history": [
+                "彩虹海"
+            ],
             "crew_id": 1692217129227,
             "crew_name": "彩虹海",
             "equipping_title": "2_10_0_1",
             "gender": 1,
-            "hp": 1768841.125,
-            "last_seen": "2026年01月29日 上午 12:44:15",
+            "hp": 1830667.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 962.22998046875,
+                "y": -16761.708984375,
+                "z": 96351.78125
+            },
+            "last_seen": "2026年2月15日 下午10:30:09",
             "level": 100,
             "name": "凌灬樱",
             "name_history": [
@@ -4522,6 +4540,31 @@
             "role_id": 62719408563003,
             "server_region": "reshaping-the-future"
         },
+        "62719408618485": {
+            "crew_history": [
+                "旧巷的猫"
+            ],
+            "crew_id": 18859201411338,
+            "crew_name": "旧巷的猫",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2127591.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 69.47000122070313,
+                "y": -16787.369140625,
+                "z": 96419.515625
+            },
+            "last_seen": "2026年2月15日 下午10:30:09",
+            "level": 100,
+            "name": "妖仙榕榕",
+            "name_history": [
+                "妖仙榕榕"
+            ],
+            "registered": "2023年4月10日 上午10:26:08",
+            "role_id": 62719408618485,
+            "server_region": "reshaping-the-future"
+        },
         "62719408620708": {
             "crew_id": 68719491439,
             "crew_name": "镜花堂",
@@ -6188,7 +6231,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 373,
-    "last_updated": "2026年2月15日 下午10:29:09",
+    "accounts_total": 374,
+    "last_updated": "2026年2月15日 下午10:30:09",
     "server_region": "reshaping-the-future"
 }
