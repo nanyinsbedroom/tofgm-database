@@ -510,14 +510,14 @@
             "crew_name": "微雨问海棠",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2459766.75,
+            "hp": 2459766.5,
             "last_known_position": {
                 "map": "city",
-                "x": -1186.0799560546875,
-                "y": -16920.37890625,
-                "z": 96315.90625
+                "x": -675.2000122070313,
+                "y": -16610.0703125,
+                "z": 96350.28125
             },
-            "last_seen": "2026年2月14日 下午8:13:06",
+            "last_seen": "2026年2月15日 下午10:06:08",
             "level": 100,
             "name": "繁星丶刹那",
             "name_history": [
@@ -1179,6 +1179,29 @@
             "name": "万涂思端",
             "registered": "2022年7月26日 下午1:48:05",
             "role_id": 62715113027801,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113080309": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 844612.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -181.6377716064453,
+                "y": -16659.5,
+                "z": 96377.0390625
+            },
+            "last_seen": "2026年2月15日 下午10:06:08",
+            "level": 82,
+            "name": "KR.小凡",
+            "name_history": [
+                "KR.小凡"
+            ],
+            "registered": "2022年8月12日 下午12:18:02",
+            "role_id": 62715113080309,
             "server_region": "reshaping-the-future"
         },
         "62715113097444": {
@@ -3447,6 +3470,29 @@
             "role_id": 62715114587726,
             "server_region": "reshaping-the-future"
         },
+        "62715114587769": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10268.2421875,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16483.626953125,
+                "z": 96368.5234375
+            },
+            "last_seen": "2026年2月15日 下午10:06:08",
+            "level": 14,
+            "name": "丢个小饭团",
+            "name_history": [
+                "丢个小饭团"
+            ],
+            "registered": "2026年2月13日 下午8:08:40",
+            "role_id": 62715114587769,
+            "server_region": "reshaping-the-future"
+        },
         "62715114588586": {
             "crew_history": [],
             "crew_id": 0,
@@ -3516,6 +3562,31 @@
             ],
             "registered": "2026年2月15日 下午7:58:38",
             "role_id": 62715114589031,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114589039": {
+            "crew_history": [
+                "世界B0SS"
+            ],
+            "crew_id": 3689376921866,
+            "crew_name": "世界B0SS",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13225.9326171875,
+            "last_known_position": {
+                "map": "city",
+                "x": 3048.659912109375,
+                "y": -28257.6796875,
+                "z": 97994.65625
+            },
+            "last_seen": "2026年2月15日 下午10:06:08",
+            "level": 16,
+            "name": "马桶上的论文",
+            "name_history": [
+                "马桶上的论文"
+            ],
+            "registered": "2026年2月15日 下午8:10:32",
+            "role_id": 62715114589039,
             "server_region": "reshaping-the-future"
         },
         "62719407433226": {
@@ -5493,7 +5564,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 345,
-    "last_updated": "2026年2月15日 下午10:05:08",
+    "accounts_total": 348,
+    "last_updated": "2026年2月15日 下午10:06:08",
     "server_region": "reshaping-the-future"
 }
