@@ -299,15 +299,25 @@
             "server_region": "time-travel"
         },
         "63574105916545": {
+            "crew_history": [
+                "小怪兽"
+            ],
             "crew_id": 824633735634,
             "crew_name": "小怪兽",
-            "equipping_title": "新鲜桃桃的导师,0",
+            "equipping_title": "这是最强桃桃酱的导师,0",
             "gender": 1,
-            "hp": 806522.9375,
-            "last_seen": "2026年02月01日 上午 12:54:33",
-            "level": 81,
-            "name": "P.『桃桃酱』N.",
+            "hp": 1492695.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1730.510009765625,
+                "y": -27053.939453125,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:33:12",
+            "level": 83,
+            "name": "桃桃酱.",
             "name_history": [
+                "桃桃酱.",
                 "桃桃酱_",
                 "P.『桃桃酱』N."
             ],
@@ -2321,6 +2331,31 @@
             "name": "不高兴唉",
             "registered": "2023年12月16日 下午6:38:02",
             "role_id": 63574105994624,
+            "server_region": "time-travel"
+        },
+        "63574105995694": {
+            "crew_history": [
+                "暖暖六课"
+            ],
+            "crew_id": 1473173797330,
+            "crew_name": "暖暖六课",
+            "equipping_title": "1_3_1_4",
+            "gender": 1,
+            "hp": 42624.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -362.2599792480469,
+                "y": -27997.240234375,
+                "z": 96713.4609375
+            },
+            "last_seen": "2026年2月15日 下午11:33:12",
+            "level": 41,
+            "name": "徐冬冬",
+            "name_history": [
+                "徐冬冬"
+            ],
+            "registered": "2023年12月16日 下午7:42:27",
+            "role_id": 63574105995694,
             "server_region": "time-travel"
         },
         "63574105995742": {
@@ -9033,7 +9068,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 608,
-    "last_updated": "2026年2月15日 下午11:32:12",
+    "accounts_total": 609,
+    "last_updated": "2026年2月15日 下午11:33:12",
     "server_region": "time-travel"
 }
