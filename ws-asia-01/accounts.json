@@ -4024,13 +4024,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545490": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 921984.0625,
-            "last_seen": [],
-            "level": 74,
+            "hp": 942006.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1268.47998046875,
+                "y": -28327.46875,
+                "z": 97879.1171875
+            },
+            "last_seen": "Feb 15, 2026, 8:38:58 PM",
+            "level": 75,
             "name": "Rinoa",
             "name_history": [
                 "Rinoa"
@@ -86104,6 +86113,29 @@
             "role_id": 38174103118612879,
             "server_region": "ws-asia-01"
         },
+        "38174103118612882": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 157779.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": 748.469970703125,
+                "y": -28455.2890625,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 15, 2026, 8:38:58 PM",
+            "level": 46,
+            "name": "キヌサヤ",
+            "name_history": [
+                "キヌサヤ"
+            ],
+            "registered": "Feb 11, 2026, 10:36:21 PM",
+            "role_id": 38174103118612882,
+            "server_region": "ws-asia-01"
+        },
         "38174103118612889": {
             "crew_id": 0,
             "crew_name": "",
@@ -86302,7 +86334,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5329,
-    "last_updated": "Feb 15, 2026, 8:37:58 PM",
+    "accounts_total": 5330,
+    "last_updated": "Feb 15, 2026, 8:38:58 PM",
     "server_region": "ws-asia-01"
 }
