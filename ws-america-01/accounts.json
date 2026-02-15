@@ -23333,13 +23333,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413580416": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
             "crew_id": 622779146022,
             "crew_name": "BR Battle Storm",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 161625.59375,
-            "last_seen": "Feb 5, 2026, 2:12:06 PM",
-            "level": 53,
+            "hp": 273584.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -582.489990234375,
+                "y": 46294.73046875,
+                "z": 4808.7900390625
+            },
+            "last_seen": "Feb 15, 2026, 4:25:18 PM",
+            "level": 67,
             "name": "Shenjy",
             "name_history": [
                 "Shenjy"
@@ -24547,6 +24556,31 @@
             "role_id": 38174107413582463,
             "server_region": "ws-america-01"
         },
+        "38174107413582585": {
+            "crew_history": [
+                "Dreamlight"
+            ],
+            "crew_id": 798872805158,
+            "crew_name": "Dreamlight",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 164681.796875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 12901.796875,
+                "y": -282.68310546875,
+                "z": 12134.5498046875
+            },
+            "last_seen": "Feb 15, 2026, 4:25:18 PM",
+            "level": 51,
+            "name": "Janco",
+            "name_history": [
+                "Janco"
+            ],
+            "registered": "Feb 14, 2026, 1:35:13 PM",
+            "role_id": 38174107413582585,
+            "server_region": "ws-america-01"
+        },
         "38174107413582598": {
             "crew_history": [],
             "crew_id": 0,
@@ -24617,7 +24651,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1483,
-    "last_updated": "Feb 15, 2026, 4:23:18 PM",
+    "accounts_total": 1484,
+    "last_updated": "Feb 15, 2026, 4:25:18 PM",
     "server_region": "ws-america-01"
 }
