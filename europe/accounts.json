@@ -6357,12 +6357,21 @@
             "server_region": "europe"
         },
         "55894704427730": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
             "crew_id": 897648177869,
             "crew_name": "Rus Brotherhood",
             "equipping_title": "1_5_1_1",
             "gender": 1,
-            "hp": 3159119.0,
-            "last_seen": "Feb 7, 2026, 9:25:37 PM",
+            "hp": 3167175.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100808.0,
+                "y": -181385.0,
+                "z": -7536.56982421875
+            },
+            "last_seen": "Feb 15, 2026, 8:43:13 PM",
             "level": 100,
             "name": "DEAD.STAR",
             "name_history": [
@@ -19640,6 +19649,6 @@
         }
     },
     "accounts_total": 1358,
-    "last_updated": "Feb 15, 2026, 8:41:13 PM",
+    "last_updated": "Feb 15, 2026, 8:43:13 PM",
     "server_region": "europe"
 }
