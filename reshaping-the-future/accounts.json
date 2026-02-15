@@ -608,14 +608,26 @@
             "server_region": "reshaping-the-future"
         },
         "62337155354036": {
+            "crew_history": [
+                "彩虹海"
+            ],
             "crew_id": 1692217129227,
             "crew_name": "彩虹海",
             "equipping_title": "花茉梨的启迪人,1",
             "gender": 1,
-            "hp": 2057572.875,
-            "last_seen": "2025年10月14日 下午 10:18:45",
+            "hp": 2158009.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1037.97998046875,
+                "y": -16945.19921875,
+                "z": 96343.734375
+            },
+            "last_seen": "2026年2月15日 下午10:01:07",
             "level": 100,
             "name": "梨香花",
+            "name_history": [
+                "梨香花"
+            ],
             "registered": "2021年12月16日 上午11:53:27",
             "role_id": 62337155354036,
             "server_region": "reshaping-the-future"
@@ -5434,6 +5446,6 @@
         }
     },
     "accounts_total": 343,
-    "last_updated": "2026年2月15日 下午10:00:07",
+    "last_updated": "2026年2月15日 下午10:01:07",
     "server_region": "reshaping-the-future"
 }
