@@ -4258,13 +4258,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481641": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2530612.5,
-            "last_seen": "Feb 8, 2026, 7:32:37 PM",
-            "level": 74,
+            "hp": 943919.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72810.1875,
+                "y": 48823.26171875,
+                "z": -12309.78125
+            },
+            "last_seen": "Feb 15, 2026, 10:02:16 PM",
+            "level": 75,
             "name": "Hn",
             "name_history": [
                 "Hn"
@@ -18059,6 +18068,29 @@
             "role_id": 38174111708525393,
             "server_region": "ws-europe-01"
         },
+        "38174111708525549": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63812.390625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -66692.109375,
+                "y": 78178.8203125,
+                "z": -9427.91015625
+            },
+            "last_seen": "Feb 15, 2026, 10:02:16 PM",
+            "level": 18,
+            "name": "BlackGoku97one",
+            "name_history": [
+                "BlackGoku97one"
+            ],
+            "registered": "Feb 14, 2026, 11:40:11 PM",
+            "role_id": 38174111708525549,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525554": {
             "crew_history": [],
             "crew_id": 0,
@@ -18104,9 +18136,32 @@
             "registered": "Feb 15, 2026, 10:31:59 AM",
             "role_id": 38174111708525588,
             "server_region": "ws-europe-01"
+        },
+        "38174111708525668": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 27253.63671875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79466.0,
+                "y": 66026.0,
+                "z": -7420.58984375
+            },
+            "last_seen": "Feb 15, 2026, 10:02:16 PM",
+            "level": 7,
+            "name": "Zhey",
+            "name_history": [
+                "Zhey"
+            ],
+            "registered": "Feb 15, 2026, 8:26:14 PM",
+            "role_id": 38174111708525668,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1079,
-    "last_updated": "Feb 15, 2026, 10:00:16 PM",
+    "accounts_total": 1081,
+    "last_updated": "Feb 15, 2026, 10:02:16 PM",
     "server_region": "ws-europe-01"
 }
