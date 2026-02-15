@@ -85,14 +85,14 @@
             "crew_name": "Solo Play PH",
             "equipping_title": "2_2_0_48",
             "gender": 1,
-            "hp": 1805505.75,
+            "hp": 1857205.75,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": 2766.47998046875,
-                "y": 46363.95703125,
-                "z": 5690.603515625
+                "map": "QRSL_P",
+                "x": 75709.71875,
+                "y": 19838.357421875,
+                "z": 41985.87109375
             },
-            "last_seen": "Feb 14, 2026, 3:44:08 PM",
+            "last_seen": "Feb 15, 2026, 8:45:04 PM",
             "level": 100,
             "name": "Jada",
             "name_history": [
@@ -23771,12 +23771,21 @@
             "server_region": "southeast-asia"
         },
         "68783901255657": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
-            "equipping_title": "2_2_0_2",
+            "equipping_title": "2_2_0_48",
             "gender": 0,
-            "hp": 2370268.25,
-            "last_seen": "Nov 08, 2025, 07:25:23 PM",
+            "hp": 2505925.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 74842.5390625,
+                "y": 19876.640625,
+                "z": 41996.25
+            },
+            "last_seen": "Feb 15, 2026, 8:45:04 PM",
             "level": 100,
             "name": "LDarkstar",
             "name_history": [
@@ -28068,6 +28077,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:44:04 PM",
+    "last_updated": "Feb 15, 2026, 8:45:04 PM",
     "server_region": "southeast-asia"
 }
