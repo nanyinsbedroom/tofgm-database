@@ -10791,12 +10791,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546976": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 9:15:46 PM",
+            "hp": 935751.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1442.199951171875,
+                "y": -27414.3984375,
+                "z": 97930.1015625
+            },
+            "last_seen": "Feb 15, 2026, 10:14:53 PM",
             "level": 74,
             "name": "エメット",
             "name_history": [
@@ -85349,6 +85358,31 @@
             "role_id": 38174103118610749,
             "server_region": "ws-asia-01"
         },
+        "38174103118610776": {
+            "crew_history": [
+                "BAD COMPANY"
+            ],
+            "crew_id": 2065888157477,
+            "crew_name": "BAD COMPANY",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 226363.65625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 11156.080078125,
+                "y": 551.9400024414063,
+                "z": 12700.8798828125
+            },
+            "last_seen": "Feb 15, 2026, 10:14:53 PM",
+            "level": 60,
+            "name": "Amitayus",
+            "name_history": [
+                "Amitayus"
+            ],
+            "registered": "Jan 20, 2026, 1:41:56 AM",
+            "role_id": 38174103118610776,
+            "server_region": "ws-asia-01"
+        },
         "38174103118610781": {
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
@@ -86901,7 +86935,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5333,
-    "last_updated": "Feb 15, 2026, 10:13:53 PM",
+    "accounts_total": 5334,
+    "last_updated": "Feb 15, 2026, 10:14:53 PM",
     "server_region": "ws-asia-01"
 }
