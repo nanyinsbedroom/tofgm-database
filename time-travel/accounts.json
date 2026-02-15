@@ -859,14 +859,26 @@
             "server_region": "time-travel"
         },
         "63574105942185": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
-            "equipping_title": "2_11_1_2",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 698802.875,
-            "last_seen": "2025年10月26日 下午 2:07:13",
-            "level": 65,
+            "hp": 1646758.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:34:12",
+            "level": 83,
             "name": "你超甜呀丶",
+            "name_history": [
+                "你超甜呀丶"
+            ],
             "registered": "2023年12月14日 上午11:05:21",
             "role_id": 63574105942185,
             "server_region": "time-travel"
@@ -3529,13 +3541,22 @@
             "server_region": "time-travel"
         },
         "63574106288853": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
             "equipping_title": "Guess9的后继者,1",
             "gender": 1,
-            "hp": 168190.140625,
-            "last_seen": "2026年01月26日 上午 4:47:53",
-            "level": 80,
+            "hp": 1525503.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1243.739990234375,
+                "y": -28394.888671875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:34:12",
+            "level": 83,
             "name": "大魔王梧桐",
             "name_history": [
                 "大魔王梧桐"
@@ -7662,6 +7683,31 @@
             "role_id": 63578401970493,
             "server_region": "time-travel"
         },
+        "63578401970936": {
+            "crew_history": [
+                "绝幻"
+            ],
+            "crew_id": 270582954450,
+            "crew_name": "绝幻",
+            "equipping_title": "2_10_1_12_1_1",
+            "gender": 1,
+            "hp": 1039190.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1158.5599365234375,
+                "y": -28358.548828125,
+                "z": 97876.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:34:12",
+            "level": 83,
+            "name": "父子与恶狗",
+            "name_history": [
+                "父子与恶狗"
+            ],
+            "registered": "2023年1月19日 上午3:47:47",
+            "role_id": 63578401970936,
+            "server_region": "time-travel"
+        },
         "63578401970942": {
             "crew_history": [
                 "星奈海"
@@ -9068,7 +9114,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 609,
-    "last_updated": "2026年2月15日 下午11:33:12",
+    "accounts_total": 610,
+    "last_updated": "2026年2月15日 下午11:34:12",
     "server_region": "time-travel"
 }
