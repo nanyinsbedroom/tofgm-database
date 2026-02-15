@@ -10820,13 +10820,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695856498": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1166613.5,
-            "last_seen": "2026年2月8日 下午10:17:02",
-            "level": 80,
+            "hp": 1199649.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1395.756103515625,
+                "y": -26413.96875,
+                "z": 95519.6953125
+            },
+            "last_seen": "2026年2月15日 下午11:51:13",
+            "level": 81,
             "name": "霙雫",
             "name_history": [
                 "霙雫"
@@ -40418,13 +40427,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695911884": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1423324.875,
-            "last_seen": "2026年2月9日 下午8:40:03",
-            "level": 82,
+            "hp": 1413803.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1697.25,
+                "y": -25663.349609375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:51:13",
+            "level": 83,
             "name": "果汁橙",
             "name_history": [
                 "果汁橙"
@@ -48237,6 +48255,56 @@
             "name": "Axizz",
             "registered": "2025年10月18日 下午9:35:35",
             "role_id": 63582695934257,
+            "server_region": "cosmic-fold"
+        },
+        "63582695934344": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 623913.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1674.0,
+                "y": -28736.298828125,
+                "z": 97878.71875
+            },
+            "last_seen": "2026年2月15日 下午11:51:13",
+            "level": 78,
+            "name": "搬砖",
+            "name_history": [
+                "搬砖"
+            ],
+            "registered": "2025年10月18日 下午10:19:29",
+            "role_id": 63582695934344,
+            "server_region": "cosmic-fold"
+        },
+        "63582695934345": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 632664.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1751.7999267578125,
+                "y": -28662.599609375,
+                "z": 97868.734375
+            },
+            "last_seen": "2026年2月15日 下午11:51:13",
+            "level": 78,
+            "name": "带我",
+            "name_history": [
+                "带我"
+            ],
+            "registered": "2025年10月18日 下午10:19:42",
+            "role_id": 63582695934345,
             "server_region": "cosmic-fold"
         },
         "63582695934483": {
@@ -64158,7 +64226,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4823,
-    "last_updated": "2026年2月15日 下午11:50:13",
+    "accounts_total": 4825,
+    "last_updated": "2026年2月15日 下午11:51:13",
     "server_region": "cosmic-fold"
 }
