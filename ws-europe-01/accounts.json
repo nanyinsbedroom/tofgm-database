@@ -4080,13 +4080,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481610": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "2_8_0_3",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 1007909.875,
-            "last_seen": "Feb 8, 2026, 8:02:32 PM",
-            "level": 74,
+            "hp": 1042911.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1258.97998046875,
+                "y": -27890.0703125,
+                "z": 97879.1171875
+            },
+            "last_seen": "Feb 15, 2026, 9:40:15 PM",
+            "level": 75,
             "name": "LIS",
             "name_history": [
                 "LIS"
@@ -8871,12 +8880,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486236": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1011793.8125,
-            "last_seen": "Feb 11, 2026, 7:25:36 PM",
+            "hp": 1015864.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -2762.552490234375,
+                "y": -27161.279296875,
+                "z": 97512.421875
+            },
+            "last_seen": "Feb 15, 2026, 9:40:15 PM",
             "level": 75,
             "name": "Tekisora",
             "name_history": [
@@ -15705,11 +15723,11 @@
             "hp": 988067.9375,
             "last_known_position": {
                 "map": "city",
-                "x": 1529.6199951171875,
-                "y": -27207.919921875,
-                "z": 97924.6640625
+                "x": 430.6999816894531,
+                "y": -28340.51953125,
+                "z": 97879.6171875
             },
-            "last_seen": "Feb 14, 2026, 11:08:29 AM",
+            "last_seen": "Feb 15, 2026, 9:40:15 PM",
             "level": 75,
             "name": "BiBi",
             "name_history": [
@@ -17742,6 +17760,29 @@
             "role_id": 38174111708525393,
             "server_region": "ws-europe-01"
         },
+        "38174111708525554": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 33482.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 33.71999740600586,
+                "y": -21913.01953125,
+                "z": 96748.875
+            },
+            "last_seen": "Feb 15, 2026, 9:40:15 PM",
+            "level": 12,
+            "name": "OPKO",
+            "name_history": [
+                "OPKO"
+            ],
+            "registered": "Feb 15, 2026, 12:17:11 AM",
+            "role_id": 38174111708525554,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525588": {
             "crew_history": [],
             "crew_id": 0,
@@ -17766,7 +17807,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1071,
-    "last_updated": "Feb 15, 2026, 9:13:14 PM",
+    "accounts_total": 1072,
+    "last_updated": "Feb 15, 2026, 9:40:15 PM",
     "server_region": "ws-europe-01"
 }
