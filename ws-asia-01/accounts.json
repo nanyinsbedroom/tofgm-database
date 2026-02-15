@@ -22378,13 +22378,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555838": {
+            "crew_history": [
+                "LufusIntegra"
+            ],
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
             "equipping_title": "2_10_0_5",
             "gender": 0,
-            "hp": 867423.1875,
-            "last_seen": "Feb 02, 2026, 04:12:10 AM",
-            "level": 73,
+            "hp": 931079.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1217.030029296875,
+                "y": -24996.240234375,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 15, 2026, 9:07:00 PM",
+            "level": 75,
             "name": "Reynould",
             "name_history": [
                 "Reynould"
@@ -40320,13 +40329,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118562558": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 963901.6875,
-            "last_seen": "Feb 02, 2026, 04:02:04 AM",
-            "level": 73,
+            "hp": 1054688.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 113.40999603271484,
+                "y": -28207.5703125,
+                "z": 97919.1875
+            },
+            "last_seen": "Feb 15, 2026, 9:07:00 PM",
+            "level": 75,
             "name": "Good Person",
             "name_history": [
                 "Good Person"
@@ -84060,12 +84078,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118608386": {
-            "crew_id": 399440846629,
-            "crew_name": "LufusIntegra",
+            "crew_history": [
+                "Fantasia"
+            ],
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
             "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 988158.9375,
-            "last_seen": "Feb 12, 2026, 11:13:44 PM",
+            "hp": 990472.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 590.8001098632813,
+                "y": -28113.5703125,
+                "z": 98400.53125
+            },
+            "last_seen": "Feb 15, 2026, 9:07:00 PM",
             "level": 75,
             "name": "Awumie",
             "name_history": [
@@ -86823,6 +86850,6 @@
         }
     },
     "accounts_total": 5333,
-    "last_updated": "Feb 15, 2026, 9:06:00 PM",
+    "last_updated": "Feb 15, 2026, 9:07:00 PM",
     "server_region": "ws-asia-01"
 }
