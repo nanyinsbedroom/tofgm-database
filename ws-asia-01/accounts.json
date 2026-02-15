@@ -5882,12 +5882,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545844": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 942474.1875,
-            "last_seen": "Feb 12, 2026, 11:11:49 PM",
+            "hp": 1000657.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 15, 2026, 8:37:58 PM",
             "level": 75,
             "name": "Ohagi man",
             "name_history": [
@@ -83788,6 +83797,31 @@
             "role_id": 38174103118608596,
             "server_region": "ws-asia-01"
         },
+        "38174103118608607": {
+            "crew_history": [
+                "Fantasia"
+            ],
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "A i k e e e's Apprentice,0",
+            "gender": 1,
+            "hp": 637183.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 497.6600036621094,
+                "y": -28099.708984375,
+                "z": 97914.046875
+            },
+            "last_seen": "Feb 15, 2026, 8:37:58 PM",
+            "level": 73,
+            "name": "ReeNa리나",
+            "name_history": [
+                "ReeNa리나"
+            ],
+            "registered": "Jan 3, 2026, 11:03:09 AM",
+            "role_id": 38174103118608607,
+            "server_region": "ws-asia-01"
+        },
         "38174103118608623": {
             "crew_id": 0,
             "crew_name": "",
@@ -86268,7 +86302,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5328,
-    "last_updated": "Feb 15, 2026, 8:36:58 PM",
+    "accounts_total": 5329,
+    "last_updated": "Feb 15, 2026, 8:37:58 PM",
     "server_region": "ws-asia-01"
 }
