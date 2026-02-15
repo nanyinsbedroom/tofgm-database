@@ -23828,14 +23828,26 @@
             "server_region": "asia-pacific"
         },
         "47343427940308": {
+            "crew_history": [
+                "もみじ組"
+            ],
             "crew_id": 47244651259,
             "crew_name": "もみじ組",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 705452.5625,
-            "last_seen": "Oct 29, 2025, 07:26:54 PM",
-            "level": 81,
+            "hp": 1530378.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77750.203125,
+                "y": -27202.900390625,
+                "z": 30078.09375
+            },
+            "last_seen": "Feb 15, 2026, 8:21:38 PM",
+            "level": 100,
             "name": "レイ・デュラリス",
+            "name_history": [
+                "レイ・デュラリス"
+            ],
             "registered": "Oct 8, 2025, 8:28:13 PM",
             "role_id": 47343427940308,
             "server_region": "asia-pacific"
@@ -35861,6 +35873,6 @@
         }
     },
     "accounts_total": 2565,
-    "last_updated": "Feb 15, 2026, 8:17:38 PM",
+    "last_updated": "Feb 15, 2026, 8:21:38 PM",
     "server_region": "asia-pacific"
 }
