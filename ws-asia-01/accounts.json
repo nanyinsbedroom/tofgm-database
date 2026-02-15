@@ -11905,13 +11905,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118548013": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 608090.1875,
-            "last_seen": "Dec 27, 2025, 03:57:46 AM",
-            "level": 65,
+            "hp": 929564.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -48181.2578125,
+                "y": -65084.1484375,
+                "z": -12730.849609375
+            },
+            "last_seen": "Feb 15, 2026, 8:59:59 PM",
+            "level": 75,
             "name": "Feyrouz",
             "name_history": [
                 "Feyrouz"
@@ -86674,6 +86683,6 @@
         }
     },
     "accounts_total": 5332,
-    "last_updated": "Feb 15, 2026, 8:55:59 PM",
+    "last_updated": "Feb 15, 2026, 8:59:59 PM",
     "server_region": "ws-asia-01"
 }
