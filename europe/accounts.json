@@ -2532,14 +2532,26 @@
             "server_region": "europe"
         },
         "55856049807679": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
             "crew_id": 897648177869,
             "crew_name": "Rus Brotherhood",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2466149.25,
-            "last_seen": "Oct 21, 2025, 12:53:38 AM",
+            "hp": 6151718.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100907.453125,
+                "y": -183807.84375,
+                "z": -7786.98779296875
+            },
+            "last_seen": "Feb 15, 2026, 8:39:12 PM",
             "level": 100,
             "name": "Izanami Shinji",
+            "name_history": [
+                "Izanami Shinji"
+            ],
             "registered": "Sep 5, 2022, 8:24:38 AM",
             "role_id": 55856049807679,
             "server_region": "europe"
@@ -19603,6 +19615,6 @@
         }
     },
     "accounts_total": 1357,
-    "last_updated": "Feb 15, 2026, 8:38:12 PM",
+    "last_updated": "Feb 15, 2026, 8:39:12 PM",
     "server_region": "europe"
 }
