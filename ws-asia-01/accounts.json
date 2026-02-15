@@ -4603,12 +4603,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545592": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "可燃ゴミくん's Mentor,0",
             "gender": 0,
             "hp": 1024178.875,
-            "last_seen": "Feb 10, 2026, 8:43:41 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72884.6953125,
+                "y": 49655.8984375,
+                "z": -12307.359375
+            },
+            "last_seen": "Feb 15, 2026, 8:30:58 PM",
             "level": 75,
             "name": "ミリラ  ナオ",
             "name_history": [
@@ -45495,12 +45504,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118565312": {
+            "crew_history": [
+                "Fantasia"
+            ],
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
             "hp": 545241.625,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72850.90625,
+                "y": 70650.25,
+                "z": -9537.40234375
+            },
+            "last_seen": "Feb 15, 2026, 8:30:58 PM",
             "level": 75,
             "name": "XiFays",
             "name_history": [
@@ -81274,12 +81292,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118602863": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1041031.0,
-            "last_seen": "Feb 11, 2026, 9:38:35 PM",
+            "hp": 1042405.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72919.0390625,
+                "y": 49709.5390625,
+                "z": -12328.109375
+            },
+            "last_seen": "Feb 15, 2026, 8:30:58 PM",
             "level": 75,
             "name": "ルナ　",
             "name_history": [
@@ -85591,9 +85618,32 @@
             "registered": "Feb 15, 2026, 8:26:43 PM",
             "role_id": 38174103118613206,
             "server_region": "ws-asia-01"
+        },
+        "38174103118613207": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.71875,
+                "y": 80532.53125,
+                "z": -4997.783203125
+            },
+            "last_seen": "Feb 15, 2026, 8:30:58 PM",
+            "level": 1,
+            "name": "seomugennn ",
+            "name_history": [
+                "seomugennn "
+            ],
+            "registered": "Feb 15, 2026, 8:28:58 PM",
+            "role_id": 38174103118613207,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5317,
-    "last_updated": "Feb 15, 2026, 8:29:58 PM",
+    "accounts_total": 5318,
+    "last_updated": "Feb 15, 2026, 8:30:58 PM",
     "server_region": "ws-asia-01"
 }
