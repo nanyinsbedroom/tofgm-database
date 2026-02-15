@@ -23451,14 +23451,14 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 990132.6875,
+            "hp": 991636.3125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -46027.4296875,
-                "y": 96764.4375,
-                "z": -11134.580078125
+                "x": -45973.44921875,
+                "y": 96752.296875,
+                "z": -11133.58984375
             },
-            "last_seen": "Feb 14, 2026, 7:55:11 PM",
+            "last_seen": "Feb 15, 2026, 8:31:58 PM",
             "level": 75,
             "name": "Sorahane",
             "name_history": [
@@ -59456,13 +59456,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118578409": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
             "crew_id": 841822478117,
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 383665.0,
-            "last_seen": "Jan 20, 2026, 03:57:00 AM",
-            "level": 70,
+            "hp": 791353.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56687.30859375,
+                "y": 64004.828125,
+                "z": -3053.72998046875
+            },
+            "last_seen": "Feb 15, 2026, 8:31:58 PM",
+            "level": 75,
             "name": "エッチな女子大生♡",
             "name_history": [
                 "エッチな女子大生♡"
@@ -79799,6 +79808,31 @@
             "role_id": 38174103118600557,
             "server_region": "ws-asia-01"
         },
+        "38174103118600559": {
+            "crew_history": [
+                "Alter"
+            ],
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 793119.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52848.3984375,
+                "y": 68278.6015625,
+                "z": -9848.689453125
+            },
+            "last_seen": "Feb 15, 2026, 8:31:58 PM",
+            "level": 75,
+            "name": "miri",
+            "name_history": [
+                "miri"
+            ],
+            "registered": "Dec 16, 2025, 1:20:51 PM",
+            "role_id": 38174103118600559,
+            "server_region": "ws-asia-01"
+        },
         "38174103118600571": {
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
@@ -84117,6 +84151,31 @@
             "role_id": 38174103118610536,
             "server_region": "ws-asia-01"
         },
+        "38174103118610553": {
+            "crew_history": [
+                "Flan"
+            ],
+            "crew_id": 2692953382693,
+            "crew_name": "Flan",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 267461.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73597.7890625,
+                "y": 48969.70703125,
+                "z": -12307.6396484375
+            },
+            "last_seen": "Feb 15, 2026, 8:31:58 PM",
+            "level": 65,
+            "name": "燃焼モジュール",
+            "name_history": [
+                "燃焼モジュール"
+            ],
+            "registered": "Jan 18, 2026, 1:33:18 AM",
+            "role_id": 38174103118610553,
+            "server_region": "ws-asia-01"
+        },
         "38174103118610572": {
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
@@ -84870,13 +84929,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118612122": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 232094.1875,
-            "last_seen": "Feb 8, 2026, 7:11:03 PM",
-            "level": 53,
+            "hp": 39799.3671875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58530.359375,
+                "y": 107686.6484375,
+                "z": -12920.921875
+            },
+            "last_seen": "Feb 15, 2026, 8:31:58 PM",
+            "level": 64,
             "name": "Ray C",
             "name_history": [
                 "Ray C"
@@ -85643,7 +85709,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5318,
-    "last_updated": "Feb 15, 2026, 8:30:58 PM",
+    "accounts_total": 5320,
+    "last_updated": "Feb 15, 2026, 8:31:58 PM",
     "server_region": "ws-asia-01"
 }
