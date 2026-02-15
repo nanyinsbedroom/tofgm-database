@@ -16460,12 +16460,21 @@
             "server_region": "southeast-asia"
         },
         "68775311744907": {
+            "crew_history": [
+                "Schwarz Studio"
+            ],
             "crew_id": 2516850851459,
             "crew_name": "Schwarz Studio",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 101296.6328125,
-            "last_seen": "Nov 21, 2025, 04:17:20 PM",
+            "hp": 102596.6328125,
+            "last_known_position": {
+                "map": "city",
+                "x": -34.31999969482422,
+                "y": -18667.849609375,
+                "z": 96316.53125
+            },
+            "last_seen": "Feb 15, 2026, 5:58:43 PM",
             "level": 100,
             "name": "Tree can talk",
             "name_history": [
@@ -27783,6 +27792,6 @@
         }
     },
     "accounts_total": 2043,
-    "last_updated": "Feb 15, 2026, 5:54:43 PM",
+    "last_updated": "Feb 15, 2026, 5:58:43 PM",
     "server_region": "southeast-asia"
 }
