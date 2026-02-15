@@ -57384,12 +57384,12 @@
             "gender": 1,
             "hp": 994887.9375,
             "last_known_position": {
-                "map": "city",
-                "x": 1313.3599853515625,
-                "y": -28077.6484375,
-                "z": 97879.1171875
+                "map": "Vera_city",
+                "x": 80371.15625,
+                "y": -1346.2899169921875,
+                "z": 6693.22607421875
             },
-            "last_seen": "Feb 15, 2026, 8:48:59 PM",
+            "last_seen": "Feb 15, 2026, 10:15:53 PM",
             "level": 75,
             "name": "新年快樂",
             "name_history": [
@@ -84082,13 +84082,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118608285": {
+            "crew_history": [
+                "StarDust Saints"
+            ],
             "crew_id": 68728364837,
             "crew_name": "StarDust Saints",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 350691.3125,
-            "last_seen": "Feb 9, 2026, 12:08:57 AM",
-            "level": 64,
+            "hp": 352134.625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 76735.2109375,
+                "y": 2673.31982421875,
+                "z": 9414.009765625
+            },
+            "last_seen": "Feb 15, 2026, 10:15:53 PM",
+            "level": 65,
             "name": "ShikiDurian",
             "name_history": [
                 "ShikiDurian"
@@ -86936,6 +86945,6 @@
         }
     },
     "accounts_total": 5334,
-    "last_updated": "Feb 15, 2026, 10:14:53 PM",
+    "last_updated": "Feb 15, 2026, 10:15:53 PM",
     "server_region": "ws-asia-01"
 }
