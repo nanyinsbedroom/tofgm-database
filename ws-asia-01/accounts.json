@@ -1200,12 +1200,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545056": {
+            "crew_history": [
+                "Alter"
+            ],
             "crew_id": 137447841573,
             "crew_name": "Alter",
             "equipping_title": "2_2_0_40",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 9:14:47 PM",
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101919.6171875,
+                "y": -183846.890625,
+                "z": -7883.02294921875
+            },
+            "last_seen": "Feb 15, 2026, 8:47:59 PM",
             "level": 75,
             "name": "Neko♡",
             "name_history": [
@@ -79816,13 +79825,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118599363": {
+            "crew_history": [
+                "LufusIntegra"
+            ],
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 2597239.75,
-            "last_seen": "Feb 8, 2026, 7:43:27 PM",
-            "level": 71,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 115607.4609375,
+                "y": -194748.515625,
+                "z": -3402.529296875
+            },
+            "last_seen": "Feb 15, 2026, 8:47:59 PM",
+            "level": 73,
             "name": "Kasumii..",
             "name_history": [
                 "Kasumii.."
@@ -86479,6 +86497,6 @@
         }
     },
     "accounts_total": 5330,
-    "last_updated": "Feb 15, 2026, 8:44:59 PM",
+    "last_updated": "Feb 15, 2026, 8:47:59 PM",
     "server_region": "ws-asia-01"
 }
