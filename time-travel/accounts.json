@@ -4591,11 +4591,26 @@
             "server_region": "time-travel"
         },
         "63578401620272": {
-            "crew_id": 798863931858,
-            "crew_name": "★千年魔法使",
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "2_2_0_11",
             "gender": 1,
-            "last_seen": "2025年09月24日 下午 11:10:29",
+            "hp": 1579856.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1821.16259765625,
+                "y": -26278.509765625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:21:11",
+            "level": 83,
             "name": "P.『がらす』N.",
+            "name_history": [
+                "P.『がらす』N."
+            ],
             "registered": "2024年7月26日 下午4:07:34",
             "role_id": 63578401620272,
             "server_region": "time-travel"
@@ -5179,13 +5194,22 @@
             "server_region": "time-travel"
         },
         "63578401746141": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 150323870162,
             "crew_name": "星奈海",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1372313.125,
-            "last_seen": "2026年01月29日 上午 1:06:39",
-            "level": 80,
+            "hp": 1540205.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 4858.8798828125,
+                "y": -25119.529296875,
+                "z": 97273.8984375
+            },
+            "last_seen": "2026年2月15日 下午11:21:11",
+            "level": 83,
             "name": "星落于野ゝ",
             "name_history": [
                 "星落于野ゝ"
@@ -8272,6 +8296,6 @@
         }
     },
     "accounts_total": 585,
-    "last_updated": "2026年2月14日 下午8:36:56",
+    "last_updated": "2026年2月15日 下午11:21:11",
     "server_region": "time-travel"
 }
