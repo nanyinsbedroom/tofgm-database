@@ -13081,13 +13081,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413523378": {
+            "crew_history": [
+                "Ravenous"
+            ],
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 930628.625,
-            "last_seen": "Feb 5, 2026, 2:13:06 PM",
-            "level": 74,
+            "hp": 989551.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.4375,
+                "y": 75609.8046875,
+                "z": -7040.23779296875
+            },
+            "last_seen": "Feb 15, 2026, 4:20:17 PM",
+            "level": 75,
             "name": "...",
             "name_history": [
                 "..."
@@ -18325,6 +18334,31 @@
             ],
             "registered": "Dec 2, 2025, 1:35:36 PM",
             "role_id": 38174107413553088,
+            "server_region": "ws-america-01"
+        },
+        "38174107413553313": {
+            "crew_history": [
+                "THE LORDS"
+            ],
+            "crew_id": 3156809850662,
+            "crew_name": "THE LORDS",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 93928.796875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98286.5546875,
+                "y": 80437.671875,
+                "z": -5257.35986328125
+            },
+            "last_seen": "Feb 15, 2026, 4:20:17 PM",
+            "level": 31,
+            "name": "L0renz0",
+            "name_history": [
+                "L0renz0"
+            ],
+            "registered": "Dec 2, 2025, 4:34:56 PM",
+            "role_id": 38174107413553313,
             "server_region": "ws-america-01"
         },
         "38174107413553666": {
@@ -24272,9 +24306,32 @@
             "registered": "Feb 13, 2026, 6:47:00 PM",
             "role_id": 38174107413582463,
             "server_region": "ws-america-01"
+        },
+        "38174107413582598": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38041.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97867.015625,
+                "y": 82172.5546875,
+                "z": -5342.43994140625
+            },
+            "last_seen": "Feb 15, 2026, 4:20:17 PM",
+            "level": 9,
+            "name": "BUBU.PANCAKE",
+            "name_history": [
+                "BUBU.PANCAKE"
+            ],
+            "registered": "Feb 14, 2026, 3:19:23 PM",
+            "role_id": 38174107413582598,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1472,
-    "last_updated": "Feb 15, 2026, 4:19:17 PM",
+    "accounts_total": 1474,
+    "last_updated": "Feb 15, 2026, 4:20:17 PM",
     "server_region": "ws-america-01"
 }
