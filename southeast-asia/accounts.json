@@ -13079,12 +13079,21 @@
             "server_region": "southeast-asia"
         },
         "68775311632614": {
+            "crew_history": [
+                "Aspen"
+            ],
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": "Feb 7, 2026, 6:50:32 PM",
+            "hp": 2197670.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 74455.546875,
+                "y": 16615.2265625,
+                "z": 40673.609375
+            },
+            "last_seen": "Feb 15, 2026, 8:30:03 PM",
             "level": 100,
             "name": "Nufsa",
             "name_history": [
@@ -28050,6 +28059,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:28:03 PM",
+    "last_updated": "Feb 15, 2026, 8:30:03 PM",
     "server_region": "southeast-asia"
 }
