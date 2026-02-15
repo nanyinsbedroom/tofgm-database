@@ -10230,17 +10230,26 @@
             "server_region": "southeast-asia"
         },
         "68766721409153": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "Exy.'s Enlightener,1",
             "gender": 1,
             "hp": 2979201.0,
-            "last_seen": "Feb 12, 2026, 9:55:19 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 78039.171875,
+                "y": 34653.5390625,
+                "z": 4621.75
+            },
+            "last_seen": "Feb 15, 2026, 8:15:02 PM",
             "level": 100,
             "name": "ChinoAemeath",
             "name_history": [
-                "Chino",
-                "ChinoAemeath"
+                "ChinoAemeath",
+                "Chino"
             ],
             "registered": "Aug 11, 2022, 8:29:59 PM",
             "role_id": 68766721409153,
@@ -27944,6 +27953,6 @@
         }
     },
     "accounts_total": 2045,
-    "last_updated": "Feb 15, 2026, 8:14:02 PM",
+    "last_updated": "Feb 15, 2026, 8:15:02 PM",
     "server_region": "southeast-asia"
 }
