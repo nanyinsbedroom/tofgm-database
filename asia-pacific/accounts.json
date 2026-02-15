@@ -1264,12 +1264,21 @@
             "server_region": "asia-pacific"
         },
         "47253230212141": {
+            "crew_history": [
+                "Fate™"
+            ],
             "crew_id": 519691053818,
             "crew_name": "Fate™",
-            "equipping_title": "2_2_0_30",
+            "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 2582316.25,
-            "last_seen": "Nov 05, 2025, 06:12:33 PM",
+            "hp": 6463439.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 94738.7578125,
+                "y": -173542.5,
+                "z": -4840.5283203125
+            },
+            "last_seen": "Feb 15, 2026, 8:12:38 PM",
             "level": 100,
             "name": "Devanamko",
             "name_history": [
@@ -18538,11 +18547,26 @@
             "server_region": "asia-pacific"
         },
         "47343427615779": {
+            "crew_history": [
+                "無言王国"
+            ],
             "crew_id": 365072231161,
             "crew_name": "無言王国",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "Sep 20, 2025, 08:58:55 PM",
+            "hp": 6237123.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92808.8125,
+                "y": -192395.859375,
+                "z": -5157.76806640625
+            },
+            "last_seen": "Feb 15, 2026, 8:12:38 PM",
+            "level": 100,
             "name": "cystatin",
+            "name_history": [
+                "cystatin"
+            ],
             "registered": "Aug 7, 2024, 4:03:55 PM",
             "role_id": 47343427615779,
             "server_region": "asia-pacific"
@@ -32559,12 +32583,21 @@
             "server_region": "asia-pacific"
         },
         "47382079319553": {
+            "crew_history": [
+                "月が綺麗ですね。"
+            ],
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
             "equipping_title": "2_2_0_57",
             "gender": 1,
-            "hp": 6974937.0,
-            "last_seen": "Feb 10, 2026, 10:20:50 PM",
+            "hp": 6279462.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 84211.9296875,
+                "y": -180132.953125,
+                "z": -3718.629150390625
+            },
+            "last_seen": "Feb 15, 2026, 8:12:38 PM",
             "level": 100,
             "name": "カース",
             "name_history": [
@@ -35641,6 +35674,6 @@
         }
     },
     "accounts_total": 2558,
-    "last_updated": "Feb 15, 2026, 8:11:38 PM",
+    "last_updated": "Feb 15, 2026, 8:12:38 PM",
     "server_region": "asia-pacific"
 }
