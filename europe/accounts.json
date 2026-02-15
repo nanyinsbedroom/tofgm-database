@@ -5722,12 +5722,21 @@
             "server_region": "europe"
         },
         "55886114490805": {
+            "crew_history": [
+                "†Ryudara"
+            ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "1_12_0_1",
+            "equipping_title": "Tiberius Sun's Mentor,0",
             "gender": 0,
-            "hp": 2791784.0,
-            "last_seen": "Feb 9, 2026, 7:41:52 PM",
+            "hp": 6288448.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106140.4375,
+                "y": -185329.1875,
+                "z": -5290.64599609375
+            },
+            "last_seen": "Feb 15, 2026, 8:51:13 PM",
             "level": 100,
             "name": "FrozenPig",
             "name_history": [
@@ -19658,6 +19667,6 @@
         }
     },
     "accounts_total": 1358,
-    "last_updated": "Feb 15, 2026, 8:46:13 PM",
+    "last_updated": "Feb 15, 2026, 8:51:13 PM",
     "server_region": "europe"
 }
