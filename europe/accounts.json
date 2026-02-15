@@ -1858,9 +1858,27 @@
             "server_region": "europe"
         },
         "55856049701429": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
+            "crew_id": 897648177869,
+            "crew_name": "Rus Brotherhood",
+            "equipping_title": "adi's Apprentice,0",
             "gender": 1,
-            "last_seen": "Feb 3, 2026, 7:16:32 PM",
+            "hp": 2932499.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99456.375,
+                "y": -189839.171875,
+                "z": -7922.27978515625
+            },
+            "last_seen": "Feb 15, 2026, 8:38:12 PM",
+            "level": 100,
             "name": "Phantom_PUF",
+            "name_history": [
+                "Phantom_PUF"
+            ],
+            "registered": "Aug 11, 2022, 6:29:46 AM",
             "role_id": 55856049701429,
             "server_region": "europe"
         },
@@ -2553,18 +2571,21 @@
             "server_region": "europe"
         },
         "55856049811113": {
+            "crew_history": [
+                "  "
+            ],
             "crew_id": 2538325684941,
             "crew_name": "  ",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6273019.0,
+            "hp": 6287151.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 102797.6953125,
-                "y": -185764.796875,
-                "z": -2676.349853515625
+                "x": 90505.0625,
+                "y": -183018.171875,
+                "z": -7774.00537109375
             },
-            "last_seen": "Feb 13, 2026, 9:02:20 PM",
+            "last_seen": "Feb 15, 2026, 8:38:12 PM",
             "level": 100,
             "name": "Korvint",
             "name_history": [
@@ -4419,12 +4440,21 @@
             "server_region": "europe"
         },
         "55873229557080": {
+            "crew_history": [
+                "  "
+            ],
             "crew_id": 2538325684941,
             "crew_name": "  ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 6710141.5,
-            "last_seen": "Feb 10, 2026, 7:48:48 PM",
+            "hp": 6189017.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100928.15625,
+                "y": -187562.78125,
+                "z": -7752.9599609375
+            },
+            "last_seen": "Feb 15, 2026, 8:38:12 PM",
             "level": 100,
             "name": "Neyara",
             "name_history": [
@@ -14689,6 +14719,31 @@
             "role_id": 55963424725070,
             "server_region": "europe"
         },
+        "55963424725238": {
+            "crew_history": [
+                "812Umbra"
+            ],
+            "crew_id": 18172006642406,
+            "crew_name": "812Umbra",
+            "equipping_title": "Incredible's Apprentice,0",
+            "gender": 0,
+            "hp": 5638710.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 88802.859375,
+                "y": -176942.703125,
+                "z": -3991.039794921875
+            },
+            "last_seen": "Feb 15, 2026, 8:38:12 PM",
+            "level": 99,
+            "name": "Jucielia",
+            "name_history": [
+                "Jucielia"
+            ],
+            "registered": "Sep 7, 2025, 11:31:59 AM",
+            "role_id": 55963424725238,
+            "server_region": "europe"
+        },
         "55963424725515": {
             "crew_id": 1030792164049,
             "crew_name": "Chorus Umbris",
@@ -19172,12 +19227,21 @@
             "server_region": "europe"
         },
         "55972013871952": {
+            "crew_history": [
+                "†Ryudara"
+            ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
             "equipping_title": "1_12_0_1",
             "gender": 0,
-            "hp": 2085665.75,
-            "last_seen": "Feb 13, 2026, 6:20:33 PM",
+            "hp": 5814278.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99483.484375,
+                "y": -190935.1875,
+                "z": -7906.83251953125
+            },
+            "last_seen": "Feb 15, 2026, 8:38:12 PM",
             "level": 100,
             "name": "Wolti9D",
             "name_history": [
@@ -19538,7 +19602,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1356,
-    "last_updated": "Feb 15, 2026, 8:35:12 PM",
+    "accounts_total": 1357,
+    "last_updated": "Feb 15, 2026, 8:38:12 PM",
     "server_region": "europe"
 }
