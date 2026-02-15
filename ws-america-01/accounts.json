@@ -7648,13 +7648,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413517249": {
-            "crew_id": 287771696934,
-            "crew_name": "Oreos Tengu",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 972544.0625,
-            "last_seen": "Jan 30, 2026, 10:37:30 PM",
-            "level": 73,
+            "hp": 1076400.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1602.010009765625,
+                "y": -24613.009765625,
+                "z": 97866.0859375
+            },
+            "last_seen": "Feb 15, 2026, 4:19:17 PM",
+            "level": 75,
             "name": "PandaAnimetion",
             "name_history": [
                 "PandaAnimetion"
@@ -11727,13 +11736,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413520903": {
-            "crew_id": 532584832806,
-            "crew_name": "Brasil",
-            "equipping_title": "Bellnell's Mentor,0",
-            "gender": 1,
-            "hp": 598780.6875,
-            "last_seen": "Dec 23, 2025, 07:17:59 PM",
-            "level": 63,
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "2_7_0_13",
+            "gender": 0,
+            "hp": 1064288.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 987.1799926757813,
+                "y": -28176.080078125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 15, 2026, 4:19:17 PM",
+            "level": 75,
             "name": "kaname",
             "name_history": [
                 "kaname"
@@ -17440,17 +17458,26 @@
             "server_region": "ws-america-01"
         },
         "38174107413545940": {
-            "crew_id": 240527056678,
-            "crew_name": "Supernova",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 787647.4375,
-            "last_seen": "Feb 7, 2026, 2:32:09 PM",
+            "hp": 814823.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2118.030029296875,
+                "y": -23426.580078125,
+                "z": 96750.8359375
+            },
+            "last_seen": "Feb 15, 2026, 4:19:17 PM",
             "level": 74,
             "name": "Josiani",
             "name_history": [
-                "zCopitoh",
-                "Josiani"
+                "Josiani",
+                "zCopitoh"
             ],
             "registered": "Nov 29, 2025, 12:18:04 PM",
             "role_id": 38174107413545940,
@@ -17941,13 +17968,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413549979": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1008498.875,
-            "last_seen": "Feb 8, 2026, 4:00:15 PM",
-            "level": 74,
+            "hp": 1021182.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 248.72999572753906,
+                "y": -21316.689453125,
+                "z": 96757.859375
+            },
+            "last_seen": "Feb 15, 2026, 4:19:17 PM",
+            "level": 75,
             "name": "Niklaus",
             "name_history": [
                 "Niklaus"
@@ -19178,18 +19214,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413563072": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
             "crew_id": 622779146022,
             "crew_name": "BR Battle Storm",
             "equipping_title": "1_10_0_5",
             "gender": 0,
-            "hp": 625388.75,
+            "hp": 627654.375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -91534.109375,
-                "y": 76124.3046875,
-                "z": -7087.69970703125
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96367.03125
             },
-            "last_seen": "Feb 13, 2026, 6:22:34 PM",
+            "last_seen": "Feb 15, 2026, 4:19:17 PM",
             "level": 75,
             "name": "YiippieKayYay",
             "name_history": [
@@ -24236,6 +24275,6 @@
         }
     },
     "accounts_total": 1472,
-    "last_updated": "Feb 15, 2026, 4:17:17 PM",
+    "last_updated": "Feb 15, 2026, 4:19:17 PM",
     "server_region": "ws-america-01"
 }
