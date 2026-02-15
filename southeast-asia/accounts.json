@@ -3880,12 +3880,21 @@
             "server_region": "southeast-asia"
         },
         "68736656694506": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_8_0_20",
             "gender": 0,
-            "hp": 6063245.0,
-            "last_seen": "Jan 03, 2026, 03:47:07 AM",
+            "hp": 6064445.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 103660.328125,
+                "y": -183144.578125,
+                "z": -7766.10986328125
+            },
+            "last_seen": "Feb 15, 2026, 8:52:03 PM",
             "level": 100,
             "name": "Fey Von Smeleep",
             "name_history": [
@@ -4189,12 +4198,21 @@
             "server_region": "southeast-asia"
         },
         "68736656762676": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 3368494.75,
-            "last_seen": [],
+            "hp": 6340851.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 86188.7421875,
+                "y": -190898.734375,
+                "z": -5361.173828125
+            },
+            "last_seen": "Feb 15, 2026, 8:52:03 PM",
             "level": 100,
             "name": "ชิเลน่า",
             "name_history": [
@@ -28086,6 +28104,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:47:04 PM",
+    "last_updated": "Feb 15, 2026, 8:52:03 PM",
     "server_region": "southeast-asia"
 }
