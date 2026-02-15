@@ -3970,12 +3970,21 @@
             "server_region": "southeast-asia"
         },
         "68736656718786": {
+            "crew_history": [
+                "Guardians"
+            ],
             "crew_id": 395137007241,
             "crew_name": "Guardians",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1679381.125,
-            "last_seen": "Nov 17, 2025, 05:31:33 PM",
+            "hp": 1858777.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 73269.375,
+                "y": 19722.84765625,
+                "z": 12790.6787109375
+            },
+            "last_seen": "Feb 15, 2026, 8:44:04 PM",
             "level": 100,
             "name": "Petani kecil",
             "name_history": [
@@ -28059,6 +28068,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:30:03 PM",
+    "last_updated": "Feb 15, 2026, 8:44:04 PM",
     "server_region": "southeast-asia"
 }
