@@ -6598,12 +6598,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545983": {
+            "crew_history": [
+                "EROGE"
+            ],
             "crew_id": 4303855397,
             "crew_name": "EROGE",
             "equipping_title": "2_2_0_44",
             "gender": 1,
             "hp": 1072347.375,
-            "last_seen": "Feb 13, 2026, 3:36:23 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": 627.6599731445313,
+                "y": -28054.859375,
+                "z": 97911.15625
+            },
+            "last_seen": "Feb 15, 2026, 8:53:59 PM",
             "level": 75,
             "name": "A i k e e e",
             "name_history": [
@@ -28397,12 +28406,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118557778": {
+            "crew_history": [
+                "INTROVERTS"
+            ],
             "crew_id": 506815029029,
             "crew_name": "INTROVERTS",
             "equipping_title": "2_7_0_12",
             "gender": 1,
-            "hp": 1028549.4375,
-            "last_seen": "Feb 10, 2026, 8:31:35 PM",
+            "hp": 1038450.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 660.739990234375,
+                "y": -23974.150390625,
+                "z": 96737.375
+            },
+            "last_seen": "Feb 15, 2026, 8:53:59 PM",
             "level": 75,
             "name": "Dee",
             "name_history": [
@@ -86631,6 +86649,6 @@
         }
     },
     "accounts_total": 5331,
-    "last_updated": "Feb 15, 2026, 8:52:59 PM",
+    "last_updated": "Feb 15, 2026, 8:53:59 PM",
     "server_region": "ws-asia-01"
 }
