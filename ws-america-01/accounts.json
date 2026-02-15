@@ -1380,13 +1380,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512658": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 960333.4375,
-            "last_seen": "Jan 30, 2026, 10:38:38 PM",
-            "level": 73,
+            "hp": 1033971.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52111.75,
+                "y": 88820.9453125,
+                "z": -12915.509765625
+            },
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 75,
             "name": "MoMo",
             "name_history": [
                 "MoMo"
@@ -4620,13 +4629,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514590": {
-            "crew_id": 360786140966,
-            "crew_name": "Ravenous",
-            "equipping_title": "2_8_0_7",
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;75",
             "gender": 1,
-            "hp": 900374.0625,
-            "last_seen": "Jan 25, 2026, 10:42:28 PM",
-            "level": 72,
+            "hp": 1054387.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -41074.75,
+                "y": 79434.3515625,
+                "z": -14191.6796875
+            },
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 75,
             "name": "Monnno",
             "name_history": [
                 "Monnno"
@@ -19117,6 +19135,29 @@
             "role_id": 38174107413560907,
             "server_region": "ws-america-01"
         },
+        "38174107413561126": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 60393.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50534.07421875,
+                "y": 87673.03125,
+                "z": -13059.904296875
+            },
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 20,
+            "name": "Akarisun",
+            "name_history": [
+                "Akarisun"
+            ],
+            "registered": "Dec 10, 2025, 7:11:31 AM",
+            "role_id": 38174107413561126,
+            "server_region": "ws-america-01"
+        },
         "38174107413561192": {
             "crew_id": 0,
             "crew_name": "",
@@ -20887,6 +20928,31 @@
             "role_id": 38174107413574846,
             "server_region": "ws-america-01"
         },
+        "38174107413574925": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
+            "equipping_title": "2_10_1_12",
+            "gender": 1,
+            "hp": 126407.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57520.859375,
+                "y": 101738.796875,
+                "z": -12919.279296875
+            },
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 47,
+            "name": "jinx26",
+            "name_history": [
+                "jinx26"
+            ],
+            "registered": "Jan 2, 2026, 7:23:26 AM",
+            "role_id": 38174107413574925,
+            "server_region": "ws-america-01"
+        },
         "38174107413574971": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -22050,19 +22116,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413579030": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Vanguard"
+            ],
+            "crew_id": 2714428219174,
+            "crew_name": "Vanguard",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 30890.0,
+            "hp": 33560.85546875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -84233.8046875,
-                "y": 72612.546875,
-                "z": -8507.0400390625
+                "x": -56465.88671875,
+                "y": 63978.75,
+                "z": -3034.856689453125
             },
-            "last_seen": "Feb 13, 2026, 6:17:33 PM",
-            "level": 9,
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 29,
             "name": "Kirosaki oda",
             "name_history": [
                 "Kirosaki oda"
@@ -24523,9 +24592,32 @@
             "registered": "Feb 14, 2026, 10:18:58 PM",
             "role_id": 38174107413582647,
             "server_region": "ws-america-01"
+        },
+        "38174107413582679": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 34969.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -48334.20703125,
+                "y": 80744.53125,
+                "z": -12756.6796875
+            },
+            "last_seen": "Feb 15, 2026, 4:23:18 PM",
+            "level": 7,
+            "name": "Elkisajp",
+            "name_history": [
+                "Elkisajp"
+            ],
+            "registered": "Feb 15, 2026, 4:10:24 AM",
+            "role_id": 38174107413582679,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1480,
-    "last_updated": "Feb 15, 2026, 4:22:17 PM",
+    "accounts_total": 1483,
+    "last_updated": "Feb 15, 2026, 4:23:18 PM",
     "server_region": "ws-america-01"
 }
