@@ -14562,12 +14562,21 @@
             "server_region": "visser-aida"
         },
         "62324270762095": {
+            "crew_history": [
+                "天空之城"
+            ],
             "crew_id": 833223669626,
             "crew_name": "天空之城",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 3251874.5,
-            "last_seen": "2026年2月12日 下午11:43:04",
+            "hp": 2168561.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -279.0400085449219,
+                "y": -16807.25,
+                "z": 96375.546875
+            },
+            "last_seen": "2026年2月15日 下午11:06:11",
             "level": 100,
             "name": "Nahano_z",
             "name_history": [
@@ -15373,6 +15382,6 @@
         }
     },
     "accounts_total": 1067,
-    "last_updated": "2026年2月15日 下午11:03:10",
+    "last_updated": "2026年2月15日 下午11:06:11",
     "server_region": "visser-aida"
 }
