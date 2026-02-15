@@ -614,14 +614,26 @@
             "server_region": "europe"
         },
         "55843164804355": {
+            "crew_history": [
+                "Moonlight"
+            ],
             "crew_id": 64424522451,
             "crew_name": "Moonlight",
             "equipping_title": "1_5_1_1",
             "gender": 0,
-            "hp": 1851228.5,
-            "last_seen": "Oct 26, 2025, 12:26:43 AM",
+            "hp": 1885329.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.65625,
+                "y": 75609.828125,
+                "z": -7047.7900390625
+            },
+            "last_seen": "Feb 15, 2026, 8:29:12 PM",
             "level": 100,
             "name": "Chaoscauser",
+            "name_history": [
+                "Chaoscauser"
+            ],
             "registered": "Aug 11, 2022, 8:00:27 AM",
             "role_id": 55843164804355,
             "server_region": "europe"
@@ -18516,6 +18528,52 @@
             "role_id": 55963424765583,
             "server_region": "europe"
         },
+        "55963424765743": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 6144.50341796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -57.369998931884766,
+                "y": -21635.83984375,
+                "z": 96751.359375
+            },
+            "last_seen": "Feb 15, 2026, 8:29:12 PM",
+            "level": 15,
+            "name": "Ms yamie",
+            "name_history": [
+                "Ms yamie"
+            ],
+            "registered": "Feb 15, 2026, 4:31:49 AM",
+            "role_id": 55963424765743,
+            "server_region": "europe"
+        },
+        "55963424765977": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8463.041015625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -88880.734375,
+                "y": 88324.1640625,
+                "z": -4266.31005859375
+            },
+            "last_seen": "Feb 15, 2026, 8:29:12 PM",
+            "level": 16,
+            "name": "Tohka88",
+            "name_history": [
+                "Tohka88"
+            ],
+            "registered": "Feb 15, 2026, 4:22:12 PM",
+            "role_id": 55963424765977,
+            "server_region": "europe"
+        },
         "55963424766022": {
             "crew_history": [],
             "crew_id": 0,
@@ -19339,7 +19397,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1352,
-    "last_updated": "Feb 15, 2026, 8:28:12 PM",
+    "accounts_total": 1354,
+    "last_updated": "Feb 15, 2026, 8:29:12 PM",
     "server_region": "europe"
 }
