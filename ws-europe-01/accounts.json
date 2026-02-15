@@ -2719,18 +2719,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480639": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 1013218.125,
+            "hp": 1044629.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1271.699951171875,
-                "y": -28265.599609375,
-                "z": 97869.1171875
+                "x": -102.3699951171875,
+                "y": -23666.689453125,
+                "z": 96708.6953125
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 15, 2026, 9:42:15 PM",
             "level": 75,
             "name": "Wing",
             "name_history": [
@@ -2738,7 +2741,7 @@
             ],
             "registered": "Nov 25, 2025, 9:43:21 AM",
             "role_id": 38174111708480639,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708480650": {
             "crew_id": 90203201319,
@@ -17808,6 +17811,6 @@
         }
     },
     "accounts_total": 1072,
-    "last_updated": "Feb 15, 2026, 9:40:15 PM",
+    "last_updated": "Feb 15, 2026, 9:42:15 PM",
     "server_region": "ws-europe-01"
 }
