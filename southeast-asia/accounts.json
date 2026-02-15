@@ -7749,12 +7749,21 @@
             "server_region": "southeast-asia"
         },
         "68758131500097": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2386550.25,
-            "last_seen": "Feb 10, 2026, 8:52:20 PM",
+            "hp": 2211302.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -528.8999633789063,
+                "y": -18616.080078125,
+                "z": 96329.53125
+            },
+            "last_seen": "Feb 15, 2026, 8:11:02 PM",
             "level": 100,
             "name": "ThunderNight",
             "name_history": [
@@ -26166,12 +26175,21 @@
             "server_region": "southeast-asia"
         },
         "68801081120417": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": 0,
             "hp": 1702262.625,
-            "last_seen": "Feb 14, 2026, 1:06:04 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": -325.1685791015625,
+                "y": -18839.708984375,
+                "z": 96323.625
+            },
+            "last_seen": "Feb 15, 2026, 8:11:02 PM",
             "level": 100,
             "name": "Terry​",
             "name_history": [
@@ -27023,14 +27041,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "〆 sαнαbαт•ρénα•'s Enlightener,1",
             "gender": 1,
-            "hp": 2722147.75,
+            "hp": 2643785.75,
             "last_known_position": {
                 "map": "city",
-                "x": -41.64999771118164,
-                "y": -20410.009765625,
-                "z": 97843.6015625
+                "x": -528.5499877929688,
+                "y": -18695.208984375,
+                "z": 96343.0390625
             },
-            "last_seen": "Feb 15, 2026, 6:07:44 PM",
+            "last_seen": "Feb 15, 2026, 8:11:02 PM",
             "level": 100,
             "name": "Loope",
             "name_history": [
@@ -27752,12 +27770,21 @@
             "server_region": "southeast-asia"
         },
         "68818260999105": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "‍❀的导师,0",
+            "equipping_title": "‍❀'s Mentor,0",
             "gender": 1,
-            "hp": 1118440.875,
-            "last_seen": "Jan 01, 2026, 07:55:50 AM",
+            "hp": 1163325.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -528.9500122070313,
+                "y": -18544.900390625,
+                "z": 96329.53125
+            },
+            "last_seen": "Feb 15, 2026, 8:11:02 PM",
             "level": 100,
             "name": "​ ​",
             "name_history": [
@@ -27908,6 +27935,6 @@
         }
     },
     "accounts_total": 2045,
-    "last_updated": "Feb 15, 2026, 6:29:45 PM",
+    "last_updated": "Feb 15, 2026, 8:11:02 PM",
     "server_region": "southeast-asia"
 }
