@@ -28828,13 +28828,22 @@
             "server_region": "asia-pacific"
         },
         "47343427976049": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "BingChilling"
+            ],
+            "crew_id": 236223212297,
+            "crew_name": "BingChilling",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 559995.8125,
-            "last_seen": "Jan 30, 2026, 02:08:25 AM",
-            "level": 59,
+            "hp": 1027000.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -83966.03125,
+                "y": -23284.34765625,
+                "z": -9943.0771484375
+            },
+            "last_seen": "Feb 15, 2026, 8:17:38 PM",
+            "level": 91,
             "name": "미쿠",
             "name_history": [
                 "미쿠"
@@ -35852,6 +35861,6 @@
         }
     },
     "accounts_total": 2565,
-    "last_updated": "Feb 15, 2026, 8:15:38 PM",
+    "last_updated": "Feb 15, 2026, 8:17:38 PM",
     "server_region": "asia-pacific"
 }
