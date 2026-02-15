@@ -17360,19 +17360,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708524975": {
+            "crew_history": [
+                "Italia"
+            ],
             "crew_id": 163217645351,
             "crew_name": "Italia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 382902.59375,
+            "hp": 398806.375,
             "last_known_position": {
                 "map": "city",
-                "x": 218.29998779296875,
-                "y": -21833.33984375,
-                "z": 96744.3515625
+                "x": 1440.437255859375,
+                "y": -26566.234375,
+                "z": 98092.484375
             },
-            "last_seen": "Feb 13, 2026, 10:33:34 PM",
-            "level": 69,
+            "last_seen": "Feb 15, 2026, 9:10:14 PM",
+            "level": 71,
             "name": "Serad",
             "name_history": [
                 "Serad"
@@ -17718,6 +17721,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 9:07:14 PM",
+    "last_updated": "Feb 15, 2026, 9:10:14 PM",
     "server_region": "ws-europe-01"
 }
