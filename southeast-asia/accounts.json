@@ -22373,9 +22373,26 @@
             "server_region": "southeast-asia"
         },
         "68775311760459": {
-            "gender": 1,
-            "last_seen": "Feb 4, 2026, 11:00:05 PM",
+            "crew_history": [
+                "Tea Party"
+            ],
+            "crew_id": 386547072645,
+            "crew_name": "Tea Party",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 1124277.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1034.929931640625,
+                "y": 43365.91796875,
+                "z": 5712.61962890625
+            },
+            "last_seen": "Feb 15, 2026, 6:12:44 PM",
+            "level": 91,
             "name": "Levri",
+            "name_history": [
+                "Levri"
+            ],
             "registered": "Jan 22, 2026, 12:13:49 AM",
             "role_id": 68775311760459,
             "server_region": "southeast-asia"
@@ -22481,6 +22498,31 @@
             "last_seen": "Feb 03, 2026, 04:27:43 AM",
             "name": "Aruderu",
             "role_id": 68775311760655,
+            "server_region": "southeast-asia"
+        },
+        "68775311760718": {
+            "crew_history": [
+                "Origin"
+            ],
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 788508.6875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1365.47998046875,
+                "y": 44562.48828125,
+                "z": 5699.11962890625
+            },
+            "last_seen": "Feb 15, 2026, 6:12:44 PM",
+            "level": 68,
+            "name": "Candledrop",
+            "name_history": [
+                "Candledrop"
+            ],
+            "registered": "Feb 3, 2026, 7:05:22 PM",
+            "role_id": 68775311760718,
             "server_region": "southeast-asia"
         },
         "68775311760782": {
@@ -27831,7 +27873,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2043,
-    "last_updated": "Feb 15, 2026, 6:09:44 PM",
+    "accounts_total": 2044,
+    "last_updated": "Feb 15, 2026, 6:12:44 PM",
     "server_region": "southeast-asia"
 }
