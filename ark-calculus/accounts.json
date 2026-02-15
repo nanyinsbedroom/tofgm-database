@@ -11,12 +11,21 @@
             "server_region": "ark-calculus"
         },
         "60563334100587": {
+            "crew_history": [
+                "记录の地平线"
+            ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "2_2_0_28",
             "gender": 1,
-            "hp": 2177394.0,
-            "last_seen": "2025年11月25日 上午 1:32:16",
+            "hp": 33764532.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101653.03125,
+                "y": -186546.671875,
+                "z": -7931.7314453125
+            },
+            "last_seen": "2026年2月15日 下午9:51:07",
             "level": 100,
             "name": "晚风予",
             "name_history": [
@@ -5303,6 +5312,31 @@
             "role_id": 62727998658483,
             "server_region": "ark-calculus"
         },
+        "62727998659363": {
+            "crew_history": [
+                "记录の地平线"
+            ],
+            "crew_id": 5312874559654,
+            "crew_name": "记录の地平线",
+            "equipping_title": "1_8_0_26",
+            "gender": 1,
+            "hp": 33789128.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96522.6796875,
+                "y": -196200.015625,
+                "z": -2910.052978515625
+            },
+            "last_seen": "2026年2月15日 下午9:51:07",
+            "level": 100,
+            "name": "皓月存影",
+            "name_history": [
+                "皓月存影"
+            ],
+            "registered": "2024年2月22日 下午8:20:39",
+            "role_id": 62727998659363,
+            "server_region": "ark-calculus"
+        },
         "62727998662315": {
             "crew_id": 4174708226317,
             "crew_name": "SVIP",
@@ -8037,6 +8071,31 @@
             "role_id": 63144609207953,
             "server_region": "ark-calculus"
         },
+        "63144609257543": {
+            "crew_history": [
+                "圣火喵喵教"
+            ],
+            "crew_id": 42949687662,
+            "crew_name": "圣火喵喵教",
+            "equipping_title": "2_1_0_2",
+            "gender": 1,
+            "hp": 33312338.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 97166.9140625,
+                "y": -189700.34375,
+                "z": -7875.1455078125
+            },
+            "last_seen": "2026年2月15日 下午9:51:07",
+            "level": 100,
+            "name": "纵火引擎",
+            "name_history": [
+                "纵火引擎"
+            ],
+            "registered": "2023年7月24日 下午4:19:28",
+            "role_id": 63144609257543,
+            "server_region": "ark-calculus"
+        },
         "63144609267526": {
             "crew_id": 983547525391,
             "crew_name": "晴天遇花海",
@@ -8344,7 +8403,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 519,
-    "last_updated": "2026年2月15日 下午9:50:07",
+    "accounts_total": 521,
+    "last_updated": "2026年2月15日 下午9:51:07",
     "server_region": "ark-calculus"
 }
