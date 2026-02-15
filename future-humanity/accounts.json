@@ -1320,12 +1320,21 @@
             "server_region": "future-humanity"
         },
         "60563335268827": {
+            "crew_history": [
+                "雾巷猫"
+            ],
             "crew_id": 7322919253781,
             "crew_name": "雾巷猫",
             "equipping_title": "2_2_0_79",
             "gender": 1,
-            "hp": 2007252.375,
-            "last_seen": "2026年02月01日 上午 12:26:26",
+            "hp": 2021923.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -23.601741790771484,
+                "y": -16544.646484375,
+                "z": 96376.03125
+            },
+            "last_seen": "2026年2月15日 下午10:36:09",
             "level": 100,
             "name": "S烧鸡喵",
             "name_history": [
@@ -6483,6 +6492,6 @@
         }
     },
     "accounts_total": 418,
-    "last_updated": "2026年2月15日 下午10:35:09",
+    "last_updated": "2026年2月15日 下午10:36:09",
     "server_region": "future-humanity"
 }
