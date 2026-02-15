@@ -22894,13 +22894,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413580103": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
             "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 519925.0,
-            "last_seen": "Feb 8, 2026, 4:07:12 PM",
-            "level": 71,
+            "hp": 656560.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -42645.0,
+                "y": 93853.0,
+                "z": -12177.0400390625
+            },
+            "last_seen": "Feb 15, 2026, 4:21:17 PM",
+            "level": 73,
             "name": "赫诺德最終頭目",
             "name_history": [
                 "赫诺德最終頭目"
@@ -24332,6 +24341,6 @@
         }
     },
     "accounts_total": 1474,
-    "last_updated": "Feb 15, 2026, 4:20:17 PM",
+    "last_updated": "Feb 15, 2026, 4:21:17 PM",
     "server_region": "ws-america-01"
 }
