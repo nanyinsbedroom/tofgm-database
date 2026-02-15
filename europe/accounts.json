@@ -751,12 +751,21 @@
             "server_region": "europe"
         },
         "55843164818727": {
+            "crew_history": [
+                "Whalesong"
+            ],
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
-            "equipping_title": "1_8_0_24",
+            "equipping_title": "2_12_1_1",
             "gender": 0,
-            "hp": 2945473.75,
-            "last_seen": "Feb 5, 2026, 7:50:31 PM",
+            "hp": 6340851.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 139041.296875,
+                "y": -176551.3125,
+                "z": 67.27999877929688
+            },
+            "last_seen": "Feb 15, 2026, 8:32:12 PM",
             "level": 100,
             "name": "Dragonzord",
             "name_history": [
@@ -1680,9 +1689,27 @@
             "server_region": "europe"
         },
         "55856049684965": {
+            "crew_history": [
+                "New Hope"
+            ],
+            "crew_id": 4814658351820,
+            "crew_name": "New Hope",
+            "equipping_title": "2_2_0_53",
             "gender": 0,
-            "last_seen": "Feb 3, 2026, 7:41:03 PM",
+            "hp": 4976745.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 131996.4375,
+                "y": -176645.25,
+                "z": -2701.87158203125
+            },
+            "last_seen": "Feb 15, 2026, 8:32:12 PM",
+            "level": 100,
             "name": "saiaku",
+            "name_history": [
+                "saiaku"
+            ],
+            "registered": "Aug 11, 2022, 1:33:16 AM",
             "role_id": 55856049684965,
             "server_region": "europe"
         },
@@ -2581,6 +2608,31 @@
             "name": "NEKONOPLYA",
             "registered": "Sep 26, 2022, 7:20:11 PM",
             "role_id": 55856049827483,
+            "server_region": "europe"
+        },
+        "55856049829418": {
+            "crew_history": [
+                "Elysian Realm"
+            ],
+            "crew_id": 1666447323853,
+            "crew_name": "Elysian Realm",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 6071576.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 143936.046875,
+                "y": -177317.890625,
+                "z": 67.8499984741211
+            },
+            "last_seen": "Feb 15, 2026, 8:32:12 PM",
+            "level": 100,
+            "name": "Owerpoint",
+            "name_history": [
+                "Owerpoint"
+            ],
+            "registered": "Oct 2, 2022, 11:31:41 PM",
+            "role_id": 55856049829418,
             "server_region": "europe"
         },
         "55856049830841": {
@@ -4216,18 +4268,21 @@
             "server_region": "europe"
         },
         "55868934655259": {
+            "crew_history": [
+                "LesExplorateurs"
+            ],
             "crew_id": 1438814057168,
             "crew_name": "LesExplorateurs",
             "equipping_title": "KasaneRandall91's Apprentice,0",
             "gender": 1,
-            "hp": 6768069.0,
+            "hp": 0.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96140.4140625,
-                "y": -215322.53125,
-                "z": 1485.669921875
+                "x": 138939.953125,
+                "y": -176468.53125,
+                "z": 39.37999725341797
             },
-            "last_seen": "Feb 13, 2026, 9:01:20 PM",
+            "last_seen": "Feb 15, 2026, 8:32:12 PM",
             "level": 100,
             "name": "PinkyPie",
             "name_history": [
@@ -5926,9 +5981,27 @@
             "server_region": "europe"
         },
         "55890409428306": {
-            "gender": 0,
-            "last_seen": "Feb 3, 2026, 7:14:30 PM",
+            "crew_history": [
+                "French Guild"
+            ],
+            "crew_id": 365072233182,
+            "crew_name": "French Guild",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 6250984.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 140259.34375,
+                "y": -178635.921875,
+                "z": 54.349998474121094
+            },
+            "last_seen": "Feb 15, 2026, 8:32:12 PM",
+            "level": 100,
             "name": "Matèlys",
+            "name_history": [
+                "Matèlys"
+            ],
+            "registered": "Aug 11, 2022, 2:12:55 AM",
             "role_id": 55890409428306,
             "server_region": "europe"
         },
@@ -19447,7 +19520,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1355,
-    "last_updated": "Feb 15, 2026, 8:31:12 PM",
+    "accounts_total": 1356,
+    "last_updated": "Feb 15, 2026, 8:32:12 PM",
     "server_region": "europe"
 }
