@@ -22430,15 +22430,25 @@
             "server_region": "southeast-asia"
         },
         "68775311760782": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "None",
+            "equipping_title": "Stefanie Anne's Apprentice,0",
             "gender": 1,
-            "hp": 505381.71875,
-            "last_seen": "Feb 10, 2026, 7:51:34 PM",
-            "level": 50,
-            "name": "Shiraori Inori",
+            "hp": 640377.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96368.53125
+            },
+            "last_seen": "Feb 15, 2026, 5:50:43 PM",
+            "level": 62,
+            "name": "Evanescia",
             "name_history": [
+                "Evanescia",
                 "Shiraori Inori"
             ],
             "registered": "Feb 8, 2026, 5:51:22 AM",
@@ -27764,6 +27774,6 @@
         }
     },
     "accounts_total": 2043,
-    "last_updated": "Feb 15, 2026, 5:47:43 PM",
+    "last_updated": "Feb 15, 2026, 5:50:43 PM",
     "server_region": "southeast-asia"
 }
