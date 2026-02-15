@@ -7885,12 +7885,21 @@
             "server_region": "southeast-asia"
         },
         "68758131535476": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "1_1_28_1",
             "gender": 0,
-            "hp": 6188851.5,
-            "last_seen": [],
+            "hp": 2824277.25,
+            "last_known_position": {
+                "map": "Vera_CityHotel",
+                "x": 7692.5224609375,
+                "y": -19294.77734375,
+                "z": -4031.2197265625
+            },
+            "last_seen": "Feb 15, 2026, 6:29:45 PM",
             "level": 100,
             "name": "Pua",
             "name_history": [
@@ -27899,6 +27908,6 @@
         }
     },
     "accounts_total": 2045,
-    "last_updated": "Feb 15, 2026, 6:27:45 PM",
+    "last_updated": "Feb 15, 2026, 6:29:45 PM",
     "server_region": "southeast-asia"
 }
