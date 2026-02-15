@@ -1129,17 +1129,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695850380": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 1523672.875,
-            "last_seen": "2026年2月10日 下午11:00:13",
-            "level": 82,
+            "hp": 1564880.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -551.2999877929688,
+                "y": -28238.099609375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:57:14",
+            "level": 83,
             "name": "阿导",
             "name_history": [
-                "帕鲁",
-                "阿导"
+                "阿导",
+                "帕鲁"
             ],
             "registered": "2025年9月25日 下午6:05:31",
             "role_id": 63582695850380,
@@ -64396,6 +64405,6 @@
         }
     },
     "accounts_total": 4830,
-    "last_updated": "2026年2月15日 下午11:56:13",
+    "last_updated": "2026年2月15日 下午11:57:14",
     "server_region": "cosmic-fold"
 }
