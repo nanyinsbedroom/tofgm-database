@@ -4985,12 +4985,21 @@
             "server_region": "europe"
         },
         "55877524530227": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 725849486034,
             "crew_name": "Harmony",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 6288540.5,
-            "last_seen": "Feb 10, 2026, 7:52:36 PM",
+            "hp": 6264374.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 131150.765625,
+                "y": -183481.25,
+                "z": -1001.1614990234375
+            },
+            "last_seen": "Feb 15, 2026, 8:46:13 PM",
             "level": 100,
             "name": "Dai Mashuhime",
             "name_history": [
@@ -19649,6 +19658,6 @@
         }
     },
     "accounts_total": 1358,
-    "last_updated": "Feb 15, 2026, 8:43:13 PM",
+    "last_updated": "Feb 15, 2026, 8:46:13 PM",
     "server_region": "europe"
 }
