@@ -1563,12 +1563,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545103": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 3016000.0,
-            "last_seen": "Feb 11, 2026, 9:16:44 PM",
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 116980.4375,
+                "y": -191486.21875,
+                "z": -3404.015625
+            },
+            "last_seen": "Feb 15, 2026, 8:39:58 PM",
             "level": 75,
             "name": "イリス",
             "name_history": [
@@ -2860,12 +2869,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545310": {
+            "crew_history": [
+                "女神の祝福・賊"
+            ],
             "crew_id": 579829473061,
             "crew_name": "女神の祝福・賊",
             "equipping_title": "2_10_1_10",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 9:14:47 PM",
+            "hp": 4084798.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 110950.4453125,
+                "y": -185552.0,
+                "z": -4990.14990234375
+            },
+            "last_seen": "Feb 15, 2026, 8:39:58 PM",
             "level": 75,
             "name": "AIRia_warp",
             "name_history": [
@@ -46528,13 +46546,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118565749": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 951003.25,
-            "last_seen": "Feb 03, 2026, 01:31:41 AM",
-            "level": 73,
+            "hp": 2628600.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 108361.8203125,
+                "y": -188852.4375,
+                "z": -5120.73974609375
+            },
+            "last_seen": "Feb 15, 2026, 8:39:58 PM",
+            "level": 75,
             "name": " のば ",
             "name_history": [
                 " のば "
@@ -73742,13 +73769,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118590808": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 784881.6875,
-            "last_seen": "Jan 13, 2026, 02:39:26 AM",
-            "level": 70,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 120276.046875,
+                "y": -187449.0,
+                "z": -3546.878173828125
+            },
+            "last_seen": "Feb 15, 2026, 8:39:58 PM",
+            "level": 75,
             "name": "Autumn Fall",
             "name_history": [
                 "Autumn Fall"
@@ -83574,13 +83610,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118608282": {
-            "crew_id": 51548495653,
-            "crew_name": "Hykros",
-            "equipping_title": "1_6_2_2",
+            "crew_history": [
+                "WeWillWin"
+            ],
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 644145.8125,
-            "last_seen": "Jan 25, 2026, 01:16:58 PM",
-            "level": 72,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 104553.203125,
+                "y": -177993.515625,
+                "z": -5376.47314453125
+            },
+            "last_seen": "Feb 15, 2026, 8:39:58 PM",
+            "level": 75,
             "name": "DAHMER 1",
             "name_history": [
                 "DAHMER 1"
@@ -86335,6 +86380,6 @@
         }
     },
     "accounts_total": 5330,
-    "last_updated": "Feb 15, 2026, 8:38:58 PM",
+    "last_updated": "Feb 15, 2026, 8:39:58 PM",
     "server_region": "ws-asia-01"
 }
