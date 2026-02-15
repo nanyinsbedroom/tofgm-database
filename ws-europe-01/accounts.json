@@ -10376,13 +10376,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708489073": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_44",
             "gender": 0,
-            "hp": 928784.75,
-            "last_seen": "Feb 7, 2026, 10:55:03 PM",
-            "level": 74,
+            "hp": 948701.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 2372.849853515625,
+                "y": -25591.08984375,
+                "z": 99654.265625
+            },
+            "last_seen": "Feb 15, 2026, 9:02:14 PM",
+            "level": 75,
             "name": "Yuppe",
             "name_history": [
                 "Yuppe"
@@ -17691,6 +17700,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 9:00:14 PM",
+    "last_updated": "Feb 15, 2026, 9:02:14 PM",
     "server_region": "ws-europe-01"
 }
