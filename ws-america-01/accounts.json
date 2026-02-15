@@ -320,12 +320,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413512273": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
             "hp": 731728.25,
-            "last_seen": "Feb 5, 2026, 2:19:14 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": 1697.75,
+                "y": -23882.728515625,
+                "z": 96732.8359375
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
             "level": 70,
             "name": "Water",
             "name_history": [
@@ -416,13 +425,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512288": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 959424.5,
-            "last_seen": "Jan 30, 2026, 03:17:46 PM",
-            "level": 73,
+            "hp": 1056948.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1907.919921875,
+                "y": -27145.798828125,
+                "z": 96725.015625
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 75,
             "name": "Milk",
             "name_history": [
                 "Milk"
@@ -4840,13 +4858,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514819": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
-            "equipping_title": "Zar's Apprentice,0",
+            "equipping_title": "ryeo's Successor,1",
             "gender": 1,
-            "hp": 617956.375,
-            "last_seen": "Dec 26, 2025, 07:05:32 PM",
-            "level": 65,
+            "hp": 1063510.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 987.1699829101563,
+                "y": -27836.83984375,
+                "z": 97901.9453125
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 75,
             "name": "Nіkkі",
             "name_history": [
                 "Nіkkі"
@@ -5508,18 +5535,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413515437": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1068695.25,
+            "hp": 575391.875,
             "last_known_position": {
                 "map": "city",
-                "x": 42.90999984741211,
-                "y": -21647.080078125,
-                "z": 96749.9453125
+                "x": -1234.8399658203125,
+                "y": -25135.330078125,
+                "z": 98000.765625
             },
-            "last_seen": "Feb 13, 2026, 6:23:34 PM",
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
             "level": 75,
             "name": "Caprichosita",
             "name_history": [
@@ -5543,6 +5573,31 @@
             ],
             "registered": "Nov 25, 2025, 6:09:22 AM",
             "role_id": 38174107413515466,
+            "server_region": "ws-america-01"
+        },
+        "38174107413515473": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;100",
+            "gender": 1,
+            "hp": 929613.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1427.699951171875,
+                "y": -24874.0,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 75,
+            "name": "kittenkitten",
+            "name_history": [
+                "kittenkitten"
+            ],
+            "registered": "Nov 25, 2025, 6:10:25 AM",
+            "role_id": 38174107413515473,
             "server_region": "ws-america-01"
         },
         "38174107413515491": {
@@ -9478,6 +9533,31 @@
             "role_id": 38174107413518618,
             "server_region": "ws-america-01"
         },
+        "38174107413518623": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_7_0_13",
+            "gender": 1,
+            "hp": 1056911.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1543.0,
+                "y": -25447.400390625,
+                "z": 96713.4453125
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 75,
+            "name": "-Rukia-",
+            "name_history": [
+                "-Rukia-"
+            ],
+            "registered": "Nov 25, 2025, 9:25:32 AM",
+            "role_id": 38174107413518623,
+            "server_region": "ws-america-01"
+        },
         "38174107413518631": {
             "crew_id": 0,
             "crew_name": "",
@@ -12270,13 +12350,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413521861": {
-            "crew_id": 287771696934,
-            "crew_name": "Oreos Tengu",
-            "equipping_title": "Zakku的学徒,0",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "Zakku's Apprentice,0",
             "gender": 1,
-            "hp": 950879.75,
-            "last_seen": "Jan 30, 2026, 10:38:38 PM",
-            "level": 73,
+            "hp": 1096641.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -936.75,
+                "y": -29230.41015625,
+                "z": 98608.65625
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 75,
             "name": "Makiatto",
             "name_history": [
                 "Makiatto"
@@ -19393,11 +19482,11 @@
             "hp": 1092617.5,
             "last_known_position": {
                 "map": "city",
-                "x": -406.47998046875,
-                "y": -24808.330078125,
-                "z": 96706.9453125
+                "x": 1559.22998046875,
+                "y": -28530.728515625,
+                "z": 98624.984375
             },
-            "last_seen": "Feb 14, 2026, 5:05:29 AM",
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
             "level": 75,
             "name": "Sini",
             "name_history": [
@@ -23786,6 +23875,29 @@
             "role_id": 38174107413581897,
             "server_region": "ws-america-01"
         },
+        "38174107413581970": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 131642.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1166.5399169921875,
+                "y": -27457.708984375,
+                "z": 96712.9453125
+            },
+            "last_seen": "Feb 15, 2026, 4:17:17 PM",
+            "level": 49,
+            "name": "Jackal049",
+            "name_history": [
+                "Jackal049"
+            ],
+            "registered": "Feb 9, 2026, 11:39:05 PM",
+            "role_id": 38174107413581970,
+            "server_region": "ws-america-01"
+        },
         "38174107413581971": {
             "crew_id": 0,
             "crew_name": "",
@@ -24123,7 +24235,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1469,
-    "last_updated": "Feb 15, 2026, 4:16:17 PM",
+    "accounts_total": 1472,
+    "last_updated": "Feb 15, 2026, 4:17:17 PM",
     "server_region": "ws-america-01"
 }
