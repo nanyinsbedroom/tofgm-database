@@ -2602,13 +2602,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480518": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 9, 2026, 7:59:08 PM",
-            "level": 74,
+            "hp": 1041323.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92263.96875,
+                "y": 75633.8359375,
+                "z": -7043.2998046875
+            },
+            "last_seen": "Feb 15, 2026, 10:05:17 PM",
+            "level": 75,
             "name": "Mustafa",
             "name_history": [
                 "Mustafa"
@@ -18432,6 +18441,6 @@
         }
     },
     "accounts_total": 1091,
-    "last_updated": "Feb 15, 2026, 10:04:17 PM",
+    "last_updated": "Feb 15, 2026, 10:05:17 PM",
     "server_region": "ws-europe-01"
 }
