@@ -2083,12 +2083,21 @@
             "server_region": "southeast-asia"
         },
         "68732361641447": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": "Feb 7, 2026, 6:47:32 PM",
+            "hp": 1271358.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 69820.3515625,
+                "y": 17855.609375,
+                "z": 41987.23828125
+            },
+            "last_seen": "Feb 15, 2026, 8:23:03 PM",
             "level": 100,
             "name": "Makiｲ",
             "name_history": [
@@ -28014,6 +28023,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:16:02 PM",
+    "last_updated": "Feb 15, 2026, 8:23:03 PM",
     "server_region": "southeast-asia"
 }
