@@ -1815,13 +1815,22 @@
             "server_region": "time-travel"
         },
         "63574105965674": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
             "crew_id": 416611842514,
             "crew_name": "雪绒白巧",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1297420.375,
-            "last_seen": "2026年02月01日 上午 12:53:41",
-            "level": 81,
+            "hp": 1435567.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月15日 下午11:35:12",
+            "level": 83,
             "name": "孤独De美食家",
             "name_history": [
                 "孤独De美食家"
@@ -5957,15 +5966,25 @@
             "server_region": "time-travel"
         },
         "63578401773438": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1316406.0,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 82,
-            "name": "慕I空",
+            "hp": 1097993.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1600.199951171875,
+                "y": -24822.298828125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:35:12",
+            "level": 83,
+            "name": "秒l妳媚",
             "name_history": [
+                "秒l妳媚",
                 "慕I空"
             ],
             "registered": "2024年12月28日 上午8:56:40",
@@ -9115,6 +9134,6 @@
         }
     },
     "accounts_total": 610,
-    "last_updated": "2026年2月15日 下午11:34:12",
+    "last_updated": "2026年2月15日 下午11:35:12",
     "server_region": "time-travel"
 }
