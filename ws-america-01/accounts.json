@@ -9590,12 +9590,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413518603": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1063548.875,
-            "last_seen": "Feb 12, 2026, 5:30:48 PM",
+            "hp": 1052748.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -292.66998291015625,
+                "y": -18051.009765625,
+                "z": 96343.0390625
+            },
+            "last_seen": "Feb 15, 2026, 4:34:18 PM",
             "level": 75,
             "name": "PG13",
             "name_history": [
@@ -11626,6 +11635,31 @@
             ],
             "registered": "Nov 25, 2025, 11:08:42 AM",
             "role_id": 38174107413520387,
+            "server_region": "ws-america-01"
+        },
+        "38174107413520436": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 942969.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1502.429931640625,
+                "y": -27916.458984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 15, 2026, 4:34:18 PM",
+            "level": 75,
+            "name": ".Silver",
+            "name_history": [
+                ".Silver"
+            ],
+            "registered": "Nov 25, 2025, 11:11:59 AM",
+            "role_id": 38174107413520436,
             "server_region": "ws-america-01"
         },
         "38174107413520469": {
@@ -24970,7 +25004,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1496,
-    "last_updated": "Feb 15, 2026, 4:32:18 PM",
+    "accounts_total": 1497,
+    "last_updated": "Feb 15, 2026, 4:34:18 PM",
     "server_region": "ws-america-01"
 }
