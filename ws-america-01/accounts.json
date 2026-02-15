@@ -19995,13 +19995,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413565933": {
-            "crew_id": 287771696934,
-            "crew_name": "Oreos Tengu",
-            "equipping_title": "PandaAnimetion的学徒,0",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "PandaAnimetion's Successor,1",
             "gender": 1,
-            "hp": 891023.4375,
-            "last_seen": "Jan 30, 2026, 10:38:38 PM",
-            "level": 73,
+            "hp": 1011977.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1610.4000244140625,
+                "y": -24495.099609375,
+                "z": 97865.9765625
+            },
+            "last_seen": "Feb 15, 2026, 4:36:18 PM",
+            "level": 75,
             "name": "XMichiX",
             "name_history": [
                 "XMichiX"
@@ -25002,9 +25011,32 @@
             "registered": "Feb 15, 2026, 4:10:24 AM",
             "role_id": 38174107413582679,
             "server_region": "ws-america-01"
+        },
+        "38174107413582708": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74846.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -94.95999908447266,
+                "y": -21842.87890625,
+                "z": 96744.359375
+            },
+            "last_seen": "Feb 15, 2026, 4:36:18 PM",
+            "level": 18,
+            "name": "Jennifer",
+            "name_history": [
+                "Jennifer"
+            ],
+            "registered": "Feb 15, 2026, 10:24:36 AM",
+            "role_id": 38174107413582708,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1497,
-    "last_updated": "Feb 15, 2026, 4:34:18 PM",
+    "accounts_total": 1498,
+    "last_updated": "Feb 15, 2026, 4:36:18 PM",
     "server_region": "ws-america-01"
 }
