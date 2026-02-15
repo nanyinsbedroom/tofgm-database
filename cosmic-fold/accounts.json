@@ -45081,14 +45081,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695926275": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 132630.40625,
-            "last_seen": "2025年10月14日 下午 8:36:08",
-            "level": 48,
+            "hp": 1405349.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54574.73828125,
+                "y": 108263.3671875,
+                "z": -10756.2197265625
+            },
+            "last_seen": "2026年2月16日 上午12:07:14",
+            "level": 83,
             "name": "〇〇一",
+            "name_history": [
+                "〇〇一"
+            ],
             "registered": "2025年10月13日 上午2:20:48",
             "role_id": 63582695926275,
             "server_region": "cosmic-fold"
@@ -64495,6 +64507,31 @@
             "role_id": 63582696007782,
             "server_region": "cosmic-fold"
         },
+        "63582696007856": {
+            "crew_history": [
+                "雷姆利亚"
+            ],
+            "crew_id": 3264175159764,
+            "crew_name": "雷姆利亚",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 109484.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63047.34765625,
+                "y": 86116.4921875,
+                "z": -11110.7744140625
+            },
+            "last_seen": "2026年2月16日 上午12:07:14",
+            "level": 36,
+            "name": "冷鸢ヽ",
+            "name_history": [
+                "冷鸢ヽ"
+            ],
+            "registered": "2026年2月15日 下午7:32:53",
+            "role_id": 63582696007856,
+            "server_region": "cosmic-fold"
+        },
         "63582696007888": {
             "crew_history": [],
             "crew_id": 0,
@@ -64542,7 +64579,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4836,
-    "last_updated": "2026年2月16日 上午12:06:14",
+    "accounts_total": 4837,
+    "last_updated": "2026年2月16日 上午12:07:14",
     "server_region": "cosmic-fold"
 }
