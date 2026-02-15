@@ -4485,12 +4485,21 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545565": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1156989.125,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 89927.484375,
+                "y": -170524.28125,
+                "z": -4328.60302734375
+            },
+            "last_seen": "Feb 15, 2026, 8:41:59 PM",
             "level": 75,
             "name": "ヤノンスキーⅡ",
             "name_history": [
@@ -86434,6 +86443,6 @@
         }
     },
     "accounts_total": 5330,
-    "last_updated": "Feb 15, 2026, 8:40:58 PM",
+    "last_updated": "Feb 15, 2026, 8:41:59 PM",
     "server_region": "ws-asia-01"
 }
