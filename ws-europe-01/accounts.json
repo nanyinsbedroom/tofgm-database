@@ -707,13 +707,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479699": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 704794.1875,
-            "last_seen": "Feb 7, 2026, 10:35:58 PM",
-            "level": 73,
+            "hp": 758515.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1155.3499755859375,
+                "y": -27974.8203125,
+                "z": 97871.1171875
+            },
+            "last_seen": "Feb 15, 2026, 9:03:14 PM",
+            "level": 75,
             "name": "ZenovA",
             "name_history": [
                 "ZenovA"
@@ -17700,6 +17709,6 @@
         }
     },
     "accounts_total": 1070,
-    "last_updated": "Feb 15, 2026, 9:02:14 PM",
+    "last_updated": "Feb 15, 2026, 9:03:14 PM",
     "server_region": "ws-europe-01"
 }
