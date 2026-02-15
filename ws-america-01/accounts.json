@@ -1526,13 +1526,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512712": {
-            "crew_id": 21483724582,
-            "crew_name": "Kawaii Kittens",
-            "equipping_title": "Miku Izayoi的导师,0",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 908785.0625,
-            "last_seen": "Jan 25, 2026, 11:22:21 PM",
-            "level": 72,
+            "hp": 1035220.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1196.1500244140625,
+                "y": -27792.330078125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 15, 2026, 4:40:18 PM",
+            "level": 75,
             "name": "Altani",
             "name_history": [
                 "Altani"
@@ -25037,6 +25046,6 @@
         }
     },
     "accounts_total": 1498,
-    "last_updated": "Feb 15, 2026, 4:38:18 PM",
+    "last_updated": "Feb 15, 2026, 4:40:18 PM",
     "server_region": "ws-america-01"
 }
