@@ -18041,14 +18041,14 @@
             "crew_name": "星辰",
             "equipping_title": "WorldBossDamage_2;boss_hum_082_world;5",
             "gender": 1,
-            "hp": 2112472.0,
+            "hp": 1371998.25,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325078.125,
-                "y": 204856.3125,
-                "z": -28333.228515625
+                "map": "QRSL_P",
+                "x": -41104.859375,
+                "y": 90763.6796875,
+                "z": -12649.1494140625
             },
-            "last_seen": "2026年2月14日 下午8:48:52",
+            "last_seen": "2026年2月15日 下午11:47:13",
             "level": 83,
             "name": "尼古§我嘞个豆",
             "name_history": [
@@ -44937,13 +44937,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695926721": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
-            "equipping_title": "4_2025",
+            "equipping_title": "2_8_0_10",
             "gender": 1,
-            "hp": 1029628.0625,
-            "last_seen": "2025年12月21日 上午 4:38:51",
-            "level": 76,
+            "hp": 1399128.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -48225.0,
+                "y": 92849.0,
+                "z": -12568.91015625
+            },
+            "last_seen": "2026年2月15日 下午11:47:13",
+            "level": 83,
             "name": "小雨溪",
             "name_history": [
                 "小雨溪"
@@ -63216,11 +63225,11 @@
             "hp": 220566.796875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -79783.5859375,
-                "y": 72158.75,
-                "z": -9516.2900390625
+                "x": -60932.98828125,
+                "y": 66944.71875,
+                "z": -9043.919921875
             },
-            "last_seen": "2026年2月15日 下午11:45:13",
+            "last_seen": "2026年2月15日 下午11:47:13",
             "level": 64,
             "name": "洞吆大王",
             "name_history": [
@@ -63803,9 +63812,32 @@
             "registered": "2026年2月13日 下午10:04:39",
             "role_id": 63582696007661,
             "server_region": "cosmic-fold"
+        },
+        "63582696007888": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29161.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11502.599609375
+            },
+            "last_seen": "2026年2月15日 下午11:47:13",
+            "level": 7,
+            "name": "段兵凯dHp",
+            "name_history": [
+                "段兵凯dHp"
+            ],
+            "registered": "2026年2月15日 下午11:14:03",
+            "role_id": 63582696007888,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4815,
-    "last_updated": "2026年2月15日 下午11:45:13",
+    "accounts_total": 4816,
+    "last_updated": "2026年2月15日 下午11:47:13",
     "server_region": "cosmic-fold"
 }
