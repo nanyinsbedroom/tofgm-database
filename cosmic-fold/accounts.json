@@ -27164,13 +27164,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695871164": {
+            "crew_history": [
+                "无上散人"
+            ],
             "crew_id": 167503739348,
             "crew_name": "无上散人",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1070175.125,
-            "last_seen": "2026年02月01日 上午 5:18:36",
-            "level": 79,
+            "hp": 1138905.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1127.219970703125,
+                "y": -28402.029296875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月15日 下午11:56:13",
+            "level": 81,
             "name": "芽亚",
             "name_history": [
                 "芽亚"
@@ -64387,6 +64396,6 @@
         }
     },
     "accounts_total": 4830,
-    "last_updated": "2026年2月15日 下午11:54:13",
+    "last_updated": "2026年2月15日 下午11:56:13",
     "server_region": "cosmic-fold"
 }
