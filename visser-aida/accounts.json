@@ -1519,12 +1519,21 @@
             "server_region": "visser-aida"
         },
         "60567630418647": {
+            "crew_history": [
+                "墨影千秋"
+            ],
             "crew_id": 438086678307,
             "crew_name": "墨影千秋",
             "equipping_title": "4_2024",
             "gender": 0,
-            "hp": 2791496.75,
-            "last_seen": "2026年2月13日 下午11:53:36",
+            "hp": 2555584.5,
+            "last_known_position": {
+                "map": "FB_Team09_D_Balance",
+                "x": -230.0,
+                "y": -1690.0001220703125,
+                "z": 95.27999877929688
+            },
+            "last_seen": "2026年2月17日 上午2:01:32",
             "level": 100,
             "name": "Aizyra",
             "name_history": [
@@ -10838,12 +10847,21 @@
             "server_region": "visser-aida"
         },
         "61074434972107": {
+            "crew_history": [
+                "天空之城"
+            ],
             "crew_id": 833223669626,
             "crew_name": "天空之城",
-            "equipping_title": "2_2_0_42",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 3586497.75,
-            "last_seen": "2026年2月14日 上午12:09:09",
+            "hp": 3154932.0,
+            "last_known_position": {
+                "map": "FB_Team09_D_Balance",
+                "x": 240.0,
+                "y": -1690.0,
+                "z": 95.27999877929688
+            },
+            "last_seen": "2026年2月17日 上午2:01:32",
             "level": 100,
             "name": "gateoo",
             "name_history": [
@@ -14829,14 +14847,14 @@
             "crew_name": "天空之城",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2168561.0,
+            "hp": 2771958.5,
             "last_known_position": {
-                "map": "city",
-                "x": -279.0400085449219,
-                "y": -16807.25,
-                "z": 96375.546875
+                "map": "FB_Team09_D_Balance",
+                "x": 90.0,
+                "y": -1690.0,
+                "z": 95.27999877929688
             },
-            "last_seen": "2026年2月15日 下午11:06:11",
+            "last_seen": "2026年2月17日 上午2:01:32",
             "level": 100,
             "name": "Nahano_z",
             "name_history": [
@@ -15642,6 +15660,6 @@
         }
     },
     "accounts_total": 1072,
-    "last_updated": "2026年2月17日 上午1:59:32",
+    "last_updated": "2026年2月17日 上午2:01:32",
     "server_region": "visser-aida"
 }
