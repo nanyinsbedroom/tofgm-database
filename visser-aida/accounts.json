@@ -8424,6 +8424,31 @@
             "role_id": 60992830619683,
             "server_region": "visser-aida"
         },
+        "60992830631409": {
+            "crew_history": [
+                "天空之城"
+            ],
+            "crew_id": 833223669626,
+            "crew_name": "天空之城",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 2001742.75,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 72814.9609375,
+                "y": 33509.77734375,
+                "z": 6580.36962890625
+            },
+            "last_seen": "2026年2月17日 上午1:59:32",
+            "level": 100,
+            "name": "静默风暴",
+            "name_history": [
+                "静默风暴"
+            ],
+            "registered": "2021年12月31日 上午2:22:34",
+            "role_id": 60992830631409,
+            "server_region": "visser-aida"
+        },
         "60992830783555": {
             "crew_id": 34359752575,
             "crew_name": "猫猫乐园",
@@ -8470,12 +8495,21 @@
             "server_region": "visser-aida"
         },
         "60992830789973": {
+            "crew_history": [
+                "异环"
+            ],
             "crew_id": 17179883385,
             "crew_name": "异环",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2207897.0,
-            "last_seen": "2026年2月9日 下午8:34:59",
+            "hp": 2221957.75,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 68263.78125,
+                "y": 32737.69921875,
+                "z": 6720.7197265625
+            },
+            "last_seen": "2026年2月17日 上午1:59:32",
             "level": 100,
             "name": "朝香果林",
             "name_history": [
@@ -15607,7 +15641,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1071,
-    "last_updated": "2026年2月17日 上午1:58:32",
+    "accounts_total": 1072,
+    "last_updated": "2026年2月17日 上午1:59:32",
     "server_region": "visser-aida"
 }
