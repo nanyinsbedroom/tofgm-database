@@ -24976,12 +24976,21 @@
             "server_region": "southeast-asia"
         },
         "68788196275360": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "3_2022",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2685375.0,
-            "last_seen": "Feb 03, 2026, 04:29:46 AM",
+            "hp": 2640774.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -8782.8251953125,
+                "y": 4445.05859375,
+                "z": 25628.810546875
+            },
+            "last_seen": "Feb 16, 2026, 8:08:20 PM",
             "level": 100,
             "name": "Feyrouz",
             "name_history": [
@@ -25980,12 +25989,21 @@
             "server_region": "southeast-asia"
         },
         "68796786186114": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "1_7_1_3",
             "gender": 0,
-            "hp": 2315830.0,
-            "last_seen": "Dec 08, 2025, 03:31:06 AM",
+            "hp": 2440657.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -10103.5458984375,
+                "y": 821.8984375,
+                "z": 25625.01953125
+            },
+            "last_seen": "Feb 16, 2026, 8:08:20 PM",
             "level": 100,
             "name": "Viddie A.",
             "name_history": [
@@ -28337,6 +28355,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:07:20 PM",
+    "last_updated": "Feb 16, 2026, 8:08:20 PM",
     "server_region": "southeast-asia"
 }
