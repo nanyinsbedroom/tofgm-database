@@ -794,12 +794,21 @@
             "server_region": "southeast-asia"
         },
         "68723771795449": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "1_4_3_26",
             "gender": 0,
-            "hp": 2690125.5,
-            "last_seen": "Feb 7, 2026, 8:38:19 PM",
+            "hp": 2599999.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7222.03564453125,
+                "y": 5170.068359375,
+                "z": 25612.640625
+            },
+            "last_seen": "Feb 16, 2026, 8:16:20 PM",
             "level": 100,
             "name": "Godblade Kyujin",
             "name_history": [
@@ -1402,12 +1411,21 @@
             "server_region": "southeast-asia"
         },
         "68728066683321": {
+            "crew_history": [
+                "ExilesMY"
+            ],
             "crew_id": 992137461379,
             "crew_name": "ExilesMY",
-            "equipping_title": "Title_tencentshare_os_17",
+            "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 1951206.5,
-            "last_seen": "Dec 21, 2025, 11:16:34 PM",
+            "hp": 1953846.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -9353.916015625,
+                "y": 7219.4482421875,
+                "z": 25617.109375
+            },
+            "last_seen": "Feb 16, 2026, 8:16:20 PM",
             "level": 100,
             "name": "TimeToMORBIN",
             "name_history": [
@@ -23507,12 +23525,21 @@
             "server_region": "southeast-asia"
         },
         "68779606339594": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "Tencent_Sever_124",
             "gender": 0,
-            "hp": 2536957.0,
-            "last_seen": "Nov 10, 2025, 06:34:21 PM",
+            "hp": 2737837.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -6694.70556640625,
+                "y": 4803.21826171875,
+                "z": 26430.84765625
+            },
+            "last_seen": "Feb 16, 2026, 8:16:20 PM",
             "level": 100,
             "name": "ピエロ王",
             "name_history": [
@@ -28427,6 +28454,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:15:20 PM",
+    "last_updated": "Feb 16, 2026, 8:16:20 PM",
     "server_region": "southeast-asia"
 }
