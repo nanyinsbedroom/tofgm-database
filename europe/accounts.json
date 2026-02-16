@@ -11380,14 +11380,26 @@
             "server_region": "europe"
         },
         "55963424479116": {
+            "crew_history": [
+                "Tower of Dance"
+            ],
             "crew_id": 5634997105357,
             "crew_name": "Tower of Dance",
             "equipping_title": "1_1_10_2",
             "gender": 0,
-            "hp": 2771889.75,
-            "last_seen": "Oct 28, 2025, 05:14:07 AM",
+            "hp": 6303249.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 140534.71875,
+                "y": -176410.53125,
+                "z": 60.849998474121094
+            },
+            "last_seen": "Feb 16, 2026, 9:36:16 PM",
             "level": 100,
-            "name": "Lisara WR",
+            "name": "White Rabbit",
+            "name_history": [
+                "White Rabbit"
+            ],
             "registered": "Mar 13, 2024, 3:03:22 AM",
             "role_id": 55963424479116,
             "server_region": "europe"
@@ -19735,6 +19747,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:35:16 PM",
+    "last_updated": "Feb 16, 2026, 9:36:16 PM",
     "server_region": "europe"
 }
