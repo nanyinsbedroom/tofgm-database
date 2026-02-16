@@ -7006,12 +7006,21 @@
             "server_region": "southeast-asia"
         },
         "68749541601069": {
+            "crew_history": [
+                "REBIRTH"
+            ],
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6047533.0,
-            "last_seen": "Feb 10, 2026, 8:02:34 PM",
+            "hp": 2668294.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -9342.8251953125,
+                "y": 6013.5986328125,
+                "z": 25609.41015625
+            },
+            "last_seen": "Feb 16, 2026, 8:26:21 PM",
             "level": 100,
             "name": "◥▶ _ ◀◤",
             "name_history": [
@@ -28508,6 +28517,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:25:21 PM",
+    "last_updated": "Feb 16, 2026, 8:26:21 PM",
     "server_region": "southeast-asia"
 }
