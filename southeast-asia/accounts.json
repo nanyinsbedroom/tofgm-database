@@ -24113,12 +24113,21 @@
             "server_region": "southeast-asia"
         },
         "68783901269511": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 2487605.75,
-            "last_seen": "Nov 07, 2025, 10:35:00 AM",
+            "hp": 0.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -12423.125,
+                "y": 3220.24853515625,
+                "z": 25652.990234375
+            },
+            "last_seen": "Feb 16, 2026, 8:06:20 PM",
             "level": 100,
             "name": "เซซบนม",
             "name_history": [
@@ -28328,6 +28337,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:05:20 PM",
+    "last_updated": "Feb 16, 2026, 8:06:20 PM",
     "server_region": "southeast-asia"
 }
