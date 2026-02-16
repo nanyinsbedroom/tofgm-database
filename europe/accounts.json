@@ -4847,20 +4847,22 @@
             "server_region": "europe"
         },
         "55873229737848": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Tal der Rose"
+            ],
+            "crew_id": 803158897365,
+            "crew_name": "Tal der Rose",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 734797.75,
+            "hp": 873632.875,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -65708.109375,
-                "y": 54757.296875,
-                "z": -9654.8798828125
+                "map": "JIUYU_P",
+                "x": -7158.4208984375,
+                "y": 60265.5859375,
+                "z": 40612.44921875
             },
-            "last_seen": "Feb 14, 2026, 11:16:32 AM",
-            "level": 93,
+            "last_seen": "Feb 16, 2026, 9:53:17 PM",
+            "level": 96,
             "name": "Mauxir",
             "name_history": [
                 "Mauxir"
@@ -13045,6 +13047,31 @@
             "role_id": 55963424687989,
             "server_region": "europe"
         },
+        "55963424688923": {
+            "crew_history": [
+                "Apocalypse "
+            ],
+            "crew_id": 322122560209,
+            "crew_name": "Apocalypse ",
+            "equipping_title": "Overseas2_7",
+            "gender": 1,
+            "hp": 1344213.625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1377.6300048828125,
+                "y": 44864.44921875,
+                "z": 5702.11962890625
+            },
+            "last_seen": "Feb 16, 2026, 9:53:17 PM",
+            "level": 100,
+            "name": "Boikevi4",
+            "name_history": [
+                "Boikevi4"
+            ],
+            "registered": "Apr 9, 2025, 5:29:10 PM",
+            "role_id": 55963424688923,
+            "server_region": "europe"
+        },
         "55963424691429": {
             "crew_id": 2723009278671,
             "crew_name": "Ɽ₳₲₦₳ⱤØ₭",
@@ -17466,13 +17493,22 @@
             "server_region": "europe"
         },
         "55963424757886": {
+            "crew_history": [
+                "Bananabread"
+            ],
             "crew_id": 18120467034854,
             "crew_name": "Bananabread",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 943734.625,
-            "last_seen": "Feb 10, 2026, 8:03:40 PM",
-            "level": 73,
+            "hp": 968748.6875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -876.9457397460938,
+                "y": 46630.7265625,
+                "z": 4816.77392578125
+            },
+            "last_seen": "Feb 16, 2026, 9:53:17 PM",
+            "level": 81,
             "name": "Asta_Tempest",
             "name_history": [
                 "Asta_Tempest"
@@ -19830,7 +19866,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:52:15 PM",
+    "accounts_total": 1361,
+    "last_updated": "Feb 16, 2026, 9:53:17 PM",
     "server_region": "europe"
 }
