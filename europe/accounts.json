@@ -1270,12 +1270,21 @@
             "server_region": "europe"
         },
         "55851754725560": {
+            "crew_history": [
+                "Heavens Souls"
+            ],
             "crew_id": 781684060899,
             "crew_name": "Heavens Souls",
             "equipping_title": "NicoNicoNii's Enlightener,1",
             "gender": 1,
-            "hp": 3748589.5,
-            "last_seen": "Feb 10, 2026, 8:04:40 PM",
+            "hp": 3251484.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 10122.169921875,
+                "y": -168.02999877929688,
+                "z": 12688.8798828125
+            },
+            "last_seen": "Feb 16, 2026, 9:54:17 PM",
             "level": 100,
             "name": "Angostura",
             "name_history": [
@@ -17352,6 +17361,29 @@
             "role_id": 55963424751874,
             "server_region": "europe"
         },
+        "55963424751956": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 378789.15625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 7246.0,
+                "y": -284.0,
+                "z": 12738.9892578125
+            },
+            "last_seen": "Feb 16, 2026, 9:54:17 PM",
+            "level": 51,
+            "name": "CuHchurIX ",
+            "name_history": [
+                "CuHchurIX "
+            ],
+            "registered": "Jan 17, 2026, 1:20:04 PM",
+            "role_id": 55963424751956,
+            "server_region": "europe"
+        },
         "55963424753110": {
             "crew_id": 0,
             "crew_name": "",
@@ -19866,7 +19898,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1361,
-    "last_updated": "Feb 16, 2026, 9:53:17 PM",
+    "accounts_total": 1362,
+    "last_updated": "Feb 16, 2026, 9:54:17 PM",
     "server_region": "europe"
 }
