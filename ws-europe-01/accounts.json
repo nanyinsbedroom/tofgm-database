@@ -2674,11 +2674,11 @@
             "hp": 1067286.75,
             "last_known_position": {
                 "map": "city",
-                "x": 286.2900085449219,
-                "y": -28712.728515625,
-                "z": 96730.875
+                "x": -117.27999877929688,
+                "y": -16561.009765625,
+                "z": 96362.0390625
             },
-            "last_seen": "Feb 15, 2026, 8:57:13 PM",
+            "last_seen": "Feb 16, 2026, 10:05:02 PM",
             "level": 75,
             "name": "fyfu",
             "name_history": [
@@ -5315,13 +5315,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482188": {
-            "crew_id": 249116991271,
-            "crew_name": "Tower of Tundra",
-            "equipping_title": "1_1_1_1",
+            "crew_history": [
+                "EuzeroFR"
+            ],
+            "crew_id": 188987449127,
+            "crew_name": "EuzeroFR",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;43",
             "gender": 0,
-            "hp": 115392.0,
-            "last_seen": "Nov 27, 2025, 03:17:30 AM",
-            "level": 29,
+            "hp": 837976.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1759.5299072265625,
+                "y": -25233.44921875,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 16, 2026, 10:05:02 PM",
+            "level": 75,
             "name": "Zainho",
             "name_history": [
                 "Zainho"
@@ -8284,12 +8293,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708485086": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "1_6_4_26",
+            "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 580737.875,
-            "last_seen": "Feb 10, 2026, 7:11:33 PM",
+            "hp": 1021825.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -90.62999725341797,
+                "y": -21026.869140625,
+                "z": 96743.046875
+            },
+            "last_seen": "Feb 16, 2026, 10:05:02 PM",
             "level": 75,
             "name": "M070K0",
             "name_history": [
@@ -19271,6 +19289,6 @@
         }
     },
     "accounts_total": 1118,
-    "last_updated": "Feb 16, 2026, 10:04:02 PM",
+    "last_updated": "Feb 16, 2026, 10:05:02 PM",
     "server_region": "ws-europe-01"
 }
