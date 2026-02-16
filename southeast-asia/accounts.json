@@ -5427,12 +5427,21 @@
             "server_region": "southeast-asia"
         },
         "68740951653226": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2591886.25,
-            "last_seen": "Jan 24, 2026, 02:18:22 AM",
+            "hp": 6214854.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 142733.5,
+                "y": -173395.78125,
+                "z": 74.3499984741211
+            },
+            "last_seen": "Feb 16, 2026, 7:31:13 PM",
             "level": 100,
             "name": "abFighter",
             "name_history": [
@@ -28131,6 +28140,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 16, 2026, 7:28:13 PM",
+    "last_updated": "Feb 16, 2026, 7:31:13 PM",
     "server_region": "southeast-asia"
 }
