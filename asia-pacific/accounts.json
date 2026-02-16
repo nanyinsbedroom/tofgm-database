@@ -9926,12 +9926,21 @@
             "server_region": "asia-pacific"
         },
         "47300474930827": {
+            "crew_history": [
+                "Archivist"
+            ],
             "crew_id": 3053721758464,
             "crew_name": "Archivist",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2489186.75,
-            "last_seen": "Nov 03, 2025, 07:38:04 PM",
+            "hp": 6954257.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 108900.015625,
+                "y": -185807.875,
+                "z": -5089.505859375
+            },
+            "last_seen": "Feb 16, 2026, 9:50:36 PM",
             "level": 100,
             "name": "エバサタン",
             "name_history": [
@@ -36387,6 +36396,6 @@
         }
     },
     "accounts_total": 2579,
-    "last_updated": "Feb 16, 2026, 9:48:36 PM",
+    "last_updated": "Feb 16, 2026, 9:50:36 PM",
     "server_region": "asia-pacific"
 }
