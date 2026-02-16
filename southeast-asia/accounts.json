@@ -2520,12 +2520,21 @@
             "server_region": "southeast-asia"
         },
         "68732361665092": {
+            "crew_history": [
+                "ExilesMY"
+            ],
             "crew_id": 992137461379,
             "crew_name": "ExilesMY",
             "equipping_title": "ChinoAemeath's Successor,1",
             "gender": 0,
-            "hp": 2539738.5,
-            "last_seen": "Feb 12, 2026, 9:55:19 PM",
+            "hp": 2373626.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1019.0099487304688,
+                "y": -16549.16015625,
+                "z": 96343.78125
+            },
+            "last_seen": "Feb 16, 2026, 7:27:13 PM",
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -8887,12 +8896,21 @@
             "server_region": "southeast-asia"
         },
         "68762426415954": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 3000887.0,
-            "last_seen": "Feb 14, 2026, 1:06:04 AM",
+            "hp": 3013270.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -46.12999725341797,
+                "y": -18777.19921875,
+                "z": 96336.03125
+            },
+            "last_seen": "Feb 16, 2026, 7:27:13 PM",
             "level": 100,
             "name": "AnemoneEldraine",
             "name_history": [
@@ -26345,11 +26363,11 @@
             "hp": 1702262.625,
             "last_known_position": {
                 "map": "city",
-                "x": -325.1685791015625,
-                "y": -18839.708984375,
-                "z": 96323.625
+                "x": 46.53199768066406,
+                "y": -18825.6015625,
+                "z": 96323.5234375
             },
-            "last_seen": "Feb 15, 2026, 8:11:02 PM",
+            "last_seen": "Feb 16, 2026, 7:27:13 PM",
             "level": 100,
             "name": "Terry​",
             "name_history": [
@@ -28104,6 +28122,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 15, 2026, 8:55:52 PM",
+    "last_updated": "Feb 16, 2026, 7:27:13 PM",
     "server_region": "southeast-asia"
 }
