@@ -5972,12 +5972,21 @@
             "server_region": "southeast-asia"
         },
         "68745246600922": {
+            "crew_history": [
+                "Soft Doll"
+            ],
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2838206.25,
-            "last_seen": "Feb 7, 2026, 8:05:15 PM",
+            "hp": 6258473.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100012.796875,
+                "y": -188834.9375,
+                "z": -7772.30419921875
+            },
+            "last_seen": "Feb 16, 2026, 7:51:52 PM",
             "level": 100,
             "name": "Kilabot F2P",
             "name_history": [
@@ -23537,12 +23546,21 @@
             "server_region": "southeast-asia"
         },
         "68779606389452": {
+            "crew_history": [
+                "鬼滅の刃"
+            ],
             "crew_id": 4131758554765,
             "crew_name": "鬼滅の刃",
             "equipping_title": "2_2_0_44",
             "gender": 0,
             "hp": 6195518.0,
-            "last_seen": "Feb 11, 2026, 7:09:23 PM",
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 103174.671875,
+                "y": -176614.625,
+                "z": -5339.37451171875
+            },
+            "last_seen": "Feb 16, 2026, 7:51:52 PM",
             "level": 100,
             "name": "Soonkueh",
             "name_history": [
@@ -28174,6 +28192,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 7:50:52 PM",
+    "last_updated": "Feb 16, 2026, 7:51:52 PM",
     "server_region": "southeast-asia"
 }
