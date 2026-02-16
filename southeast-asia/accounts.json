@@ -1576,12 +1576,21 @@
             "server_region": "southeast-asia"
         },
         "68728066698290": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "RuneStone's Enlightener,1",
             "gender": 1,
-            "hp": 2893667.75,
-            "last_seen": "Feb 14, 2026, 1:06:04 AM",
+            "hp": 2860374.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -524.97998046875,
+                "y": -17967.96875,
+                "z": 96336.03125
+            },
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "FriK√SweetEyes",
             "name_history": [
@@ -3008,14 +3017,14 @@
             "crew_name": "Schwarz Studio",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2623294.75,
+            "hp": 2642262.25,
             "last_known_position": {
                 "map": "city",
-                "x": 13.989999771118164,
-                "y": -18319.310546875,
-                "z": 96329.53125
+                "x": 389.6199951171875,
+                "y": -16520.609375,
+                "z": 96362.03125
             },
-            "last_seen": "Feb 15, 2026, 6:09:44 PM",
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "Inorinae",
             "name_history": [
@@ -8823,14 +8832,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2813644.5,
+            "hp": 2483691.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": 71980.921875,
-                "y": 20156.3203125,
-                "z": 42175.09765625
+                "map": "city",
+                "x": 387.1000061035156,
+                "y": -19464.7890625,
+                "z": 96349.53125
             },
-            "last_seen": "Feb 15, 2026, 8:16:02 PM",
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "GespenstMkI",
             "name_history": [
@@ -9110,14 +9119,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 1820916.375,
+            "hp": 3013270.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -13759.0693359375,
-                "y": 3532.639892578125,
-                "z": 25627.048828125
+                "map": "city",
+                "x": -13.969999313354492,
+                "y": -18406.189453125,
+                "z": 96336.03125
             },
-            "last_seen": "Feb 16, 2026, 8:04:20 PM",
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "AnemoneEldraine",
             "name_history": [
@@ -25697,12 +25706,21 @@
             "server_region": "southeast-asia"
         },
         "68792491223451": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2462347.25,
-            "last_seen": "Feb 9, 2026, 1:23:17 AM",
+            "hp": 2521815.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -459.0,
+                "y": -23620.19921875,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "Anelia",
             "name_history": [
@@ -25945,12 +25963,21 @@
             "server_region": "southeast-asia"
         },
         "68792491262871": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2892118.5,
-            "last_seen": "Feb 9, 2026, 1:21:18 AM",
+            "hp": 2753544.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -31.279998779296875,
+                "y": -23590.400390625,
+                "z": 98625.65625
+            },
+            "last_seen": "Feb 16, 2026, 11:58:41 PM",
             "level": 100,
             "name": "Truemorrow",
             "name_history": [
@@ -28554,6 +28581,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:38:21 PM",
+    "last_updated": "Feb 16, 2026, 11:58:41 PM",
     "server_region": "southeast-asia"
 }
