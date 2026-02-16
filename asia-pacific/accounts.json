@@ -4384,11 +4384,26 @@
             "server_region": "asia-pacific"
         },
         "47266115735019": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "COLORS"
+            ],
+            "crew_id": 3324304698115,
+            "crew_name": "COLORS",
+            "equipping_title": "1_3_1_2",
             "gender": 1,
-            "last_seen": "Sep 26, 2025, 07:28:32 PM",
+            "hp": 6163540.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 97752.6328125,
+                "y": -177173.828125,
+                "z": -7339.5625
+            },
+            "last_seen": "Feb 16, 2026, 9:55:36 PM",
+            "level": 100,
             "name": "カタリナ・リナ",
+            "name_history": [
+                "カタリナ・リナ"
+            ],
             "registered": "Mar 12, 2023, 12:51:07 AM",
             "role_id": 47266115735019,
             "server_region": "asia-pacific"
@@ -12100,6 +12115,31 @@
             "role_id": 47313359858269,
             "server_region": "asia-pacific"
         },
+        "47313359888005": {
+            "crew_history": [
+                "月が綺麗ですね。"
+            ],
+            "crew_id": 6176162982659,
+            "crew_name": "月が綺麗ですね。",
+            "equipping_title": "1_8_0_20",
+            "gender": 1,
+            "hp": 12372218.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96986.03125,
+                "y": -171663.0625,
+                "z": -4467.12060546875
+            },
+            "last_seen": "Feb 16, 2026, 9:55:36 PM",
+            "level": 100,
+            "name": "SOL★",
+            "name_history": [
+                "SOL★"
+            ],
+            "registered": "Feb 27, 2023, 5:17:09 AM",
+            "role_id": 47313359888005,
+            "server_region": "asia-pacific"
+        },
         "47313360172040": {
             "crew_id": 970662619904,
             "crew_name": "Nazarick",
@@ -14487,6 +14527,31 @@
             "name": "miozukka",
             "registered": "Aug 19, 2022, 10:13:47 AM",
             "role_id": 47334834660267,
+            "server_region": "asia-pacific"
+        },
+        "47334834665549": {
+            "crew_history": [
+                "แมวสยามสีส้ม"
+            ],
+            "crew_id": 2104533986052,
+            "crew_name": "แมวสยามสีส้ม",
+            "equipping_title": "1_6_3_1",
+            "gender": 0,
+            "hp": 6664264.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105492.0078125,
+                "y": -204023.953125,
+                "z": -574.4877319335938
+            },
+            "last_seen": "Feb 16, 2026, 9:55:36 PM",
+            "level": 100,
+            "name": "Dealer#a#a",
+            "name_history": [
+                "Dealer#a#a"
+            ],
+            "registered": "Aug 21, 2022, 3:07:47 PM",
+            "role_id": 47334834665549,
             "server_region": "asia-pacific"
         },
         "47334834669231": {
@@ -36502,7 +36567,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2581,
-    "last_updated": "Feb 16, 2026, 9:53:36 PM",
+    "accounts_total": 2583,
+    "last_updated": "Feb 16, 2026, 9:55:36 PM",
     "server_region": "asia-pacific"
 }
