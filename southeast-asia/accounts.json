@@ -24,14 +24,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 6109480.5,
+            "hp": 2518840.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 95377.6796875,
-                "y": -189101.28125,
-                "z": -7939.86865234375
+                "map": "QRSL_P",
+                "x": -13134.9052734375,
+                "y": 4166.28857421875,
+                "z": 25603.669921875
             },
-            "last_seen": "Feb 15, 2026, 8:14:02 PM",
+            "last_seen": "Feb 16, 2026, 8:33:21 PM",
             "level": 100,
             "name": "Αina",
             "name_history": [
@@ -13220,12 +13220,21 @@
             "server_region": "southeast-asia"
         },
         "68775311620774": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 5986407.5,
-            "last_seen": "Feb 8, 2026, 7:40:02 PM",
+            "hp": 3039948.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -13461.8251953125,
+                "y": 4969.6982421875,
+                "z": 25618.44921875
+            },
+            "last_seen": "Feb 16, 2026, 8:33:21 PM",
             "level": 100,
             "name": "景行",
             "name_history": [
@@ -28535,6 +28544,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:31:21 PM",
+    "last_updated": "Feb 16, 2026, 8:33:21 PM",
     "server_region": "southeast-asia"
 }
