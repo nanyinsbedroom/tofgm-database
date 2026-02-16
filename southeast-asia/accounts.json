@@ -12835,12 +12835,21 @@
             "server_region": "southeast-asia"
         },
         "68775311592170": {
-            "crew_id": 124554067597,
-            "crew_name": "Infinite TH",
+            "crew_history": [
+                "OnlyFนN"
+            ],
+            "crew_id": 519691058826,
+            "crew_name": "OnlyFนN",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 0,
-            "hp": 1874312.0,
-            "last_seen": "Nov 08, 2025, 07:25:23 PM",
+            "hp": 1952493.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7287.49560546875,
+                "y": 4626.79833984375,
+                "z": 25605.599609375
+            },
+            "last_seen": "Feb 16, 2026, 8:17:20 PM",
             "level": 100,
             "name": "Deรhi",
             "name_history": [
@@ -28454,6 +28463,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:16:20 PM",
+    "last_updated": "Feb 16, 2026, 8:17:20 PM",
     "server_region": "southeast-asia"
 }
