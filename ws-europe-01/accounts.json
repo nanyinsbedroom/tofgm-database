@@ -1516,14 +1516,14 @@
             "crew_name": "Asylum",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1004415.0,
+            "hp": 1007885.0,
             "last_known_position": {
                 "map": "city",
-                "x": -134.5399932861328,
-                "y": -20001.4296875,
-                "z": 96376.296875
+                "x": 158.02999877929688,
+                "y": -19993.548828125,
+                "z": 96372.5859375
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
             "level": 75,
             "name": "Haze",
             "name_history": [
@@ -6727,11 +6727,11 @@
             "hp": 1092944.5,
             "last_known_position": {
                 "map": "city",
-                "x": -939.3399658203125,
-                "y": -28611.8203125,
+                "x": 1759.3199462890625,
+                "y": -28089.8203125,
                 "z": 97877.1171875
             },
-            "last_seen": "Feb 15, 2026, 8:59:14 PM",
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
             "level": 75,
             "name": "PM For Heal",
             "name_history": [
@@ -8011,14 +8011,14 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_40",
             "gender": 0,
-            "hp": 1098938.0,
+            "hp": 1101146.25,
             "last_known_position": {
                 "map": "city",
-                "x": 644.8499755859375,
-                "y": -23766.638671875,
+                "x": -264.5099792480469,
+                "y": -23482.240234375,
                 "z": 96726.6953125
             },
-            "last_seen": "Feb 15, 2026, 8:57:13 PM",
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
             "level": 75,
             "name": "Faris",
             "name_history": [
@@ -8726,14 +8726,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1060205.5,
+            "hp": 1058623.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1207.1400146484375,
-                "y": -27716.7890625,
-                "z": 97909.2265625
+                "x": 8.34999942779541,
+                "y": -21402.8203125,
+                "z": 96737.8515625
             },
-            "last_seen": "Feb 15, 2026, 8:57:13 PM",
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
             "level": 75,
             "name": "Danieru",
             "name_history": [
@@ -11696,13 +11696,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708491968": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 840067.6875,
-            "last_seen": "Jan 20, 2026, 01:48:38 AM",
-            "level": 71,
+            "hp": 1052512.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 339.4599914550781,
+                "y": -27668.3984375,
+                "z": 96706.9453125
+            },
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
+            "level": 75,
             "name": "iM3aa4",
             "name_history": [
                 "iM3aa4"
@@ -16146,18 +16155,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708521973": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 842041.4375,
+            "hp": 863515.8125,
             "last_known_position": {
                 "map": "city",
-                "x": 6190.94970703125,
-                "y": -30173.66015625,
-                "z": 96340.6015625
+                "x": -437.29998779296875,
+                "y": -25999.69921875,
+                "z": 96767.65625
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
             "level": 75,
             "name": "K Dash",
             "name_history": [
@@ -16165,7 +16177,7 @@
             ],
             "registered": "Jan 13, 2026, 5:51:16 PM",
             "role_id": 38174111708521973,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708521995": {
             "crew_history": [],
@@ -16717,6 +16729,29 @@
             ],
             "registered": "Jan 24, 2026, 11:30:41 AM",
             "role_id": 38174111708523242,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708523260": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48923.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 794.260009765625,
+                "y": -28549.66015625,
+                "z": 97884.90625
+            },
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
+            "level": 20,
+            "name": "Kexysitten",
+            "name_history": [
+                "Kexysitten"
+            ],
+            "registered": "Jan 24, 2026, 2:48:41 PM",
+            "role_id": 38174111708523260,
             "server_region": "ws-europe-01"
         },
         "38174111708523276": {
@@ -17984,6 +18019,31 @@
             "role_id": 38174111708524951,
             "server_region": "ws-europe-01"
         },
+        "38174111708524954": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
+            "crew_id": 932016791335,
+            "crew_name": "Апертура Науки",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79421.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1279.199951171875,
+                "y": -28378.19921875,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
+            "level": 47,
+            "name": "Лисица",
+            "name_history": [
+                "Лисица"
+            ],
+            "registered": "Feb 8, 2026, 4:29:06 PM",
+            "role_id": 38174111708524954,
+            "server_region": "ws-europe-01"
+        },
         "38174111708524969": {
             "crew_id": 0,
             "crew_name": "",
@@ -18231,15 +18291,15 @@
             "crew_name": "Dynasty",
             "equipping_title": "Xig's Apprentice,0",
             "gender": 0,
-            "hp": 403198.59375,
+            "hp": 436211.59375,
             "last_known_position": {
                 "map": "city",
-                "x": 1321.0899658203125,
-                "y": -28423.419921875,
-                "z": 97877.1171875
+                "x": 300.1099853515625,
+                "y": -19825.83984375,
+                "z": 96340.5390625
             },
-            "last_seen": "Feb 14, 2026, 11:08:29 AM",
-            "level": 73,
+            "last_seen": "Feb 16, 2026, 9:25:15 PM",
+            "level": 74,
             "name": "GNIAX",
             "name_history": [
                 "GNIAX"
@@ -18682,7 +18742,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1099,
-    "last_updated": "Feb 16, 2026, 9:24:15 PM",
+    "accounts_total": 1101,
+    "last_updated": "Feb 16, 2026, 9:25:15 PM",
     "server_region": "ws-europe-01"
 }
