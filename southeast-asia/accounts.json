@@ -10379,14 +10379,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "Exy.'s Enlightener,1",
             "gender": 1,
-            "hp": 2987039.75,
+            "hp": 2990051.75,
             "last_known_position": {
                 "map": "city",
-                "x": -403.8699951171875,
-                "y": -15985.609375,
-                "z": 96343.78125
+                "x": 66.15999603271484,
+                "y": -16515.37890625,
+                "z": 96362.03125
             },
-            "last_seen": "Feb 15, 2026, 8:55:52 PM",
+            "last_seen": "Feb 16, 2026, 7:28:13 PM",
             "level": 100,
             "name": "ChinoAemeath",
             "name_history": [
@@ -25498,12 +25498,21 @@
             "server_region": "southeast-asia"
         },
         "68792491250000": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": " Han's Apprentice,0",
             "gender": 1,
-            "hp": 2662418.25,
-            "last_seen": [],
+            "hp": 2471252.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 2.7200000286102295,
+                "y": -18670.12890625,
+                "z": 96324.53125
+            },
+            "last_seen": "Feb 16, 2026, 7:28:13 PM",
             "level": 100,
             "name": "xrosa",
             "name_history": [
@@ -28122,6 +28131,6 @@
         }
     },
     "accounts_total": 2046,
-    "last_updated": "Feb 16, 2026, 7:27:13 PM",
+    "last_updated": "Feb 16, 2026, 7:28:13 PM",
     "server_region": "southeast-asia"
 }
