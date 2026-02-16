@@ -2198,18 +2198,21 @@
             "server_region": "europe"
         },
         "55856049732610": {
+            "crew_history": [
+                "New Era"
+            ],
             "crew_id": 133143999181,
             "crew_name": "New Era",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 0,
-            "hp": 2728157.5,
+            "hp": 2729375.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -75314.46875,
-                "y": 77039.3671875,
-                "z": -8842.1201171875
+                "map": "Kailo_P",
+                "x": -46094.84765625,
+                "y": 293596.3125,
+                "z": -9936.2099609375
             },
-            "last_seen": "Feb 13, 2026, 9:19:43 PM",
+            "last_seen": "Feb 16, 2026, 9:50:17 PM",
             "level": 100,
             "name": " Kaionary",
             "name_history": [
@@ -10137,12 +10140,21 @@
             "server_region": "europe"
         },
         "55963423940948": {
+            "crew_history": [
+                "Чёрная лагуна"
+            ],
             "crew_id": 1335734842086,
             "crew_name": "Чёрная лагуна",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 2042465.0,
-            "last_seen": "Nov 22, 2025, 02:02:34 AM",
+            "hp": 2084049.875,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -44119.578125,
+                "y": 283802.78125,
+                "z": -12547.4453125
+            },
+            "last_seen": "Feb 16, 2026, 9:50:17 PM",
             "level": 100,
             "name": "StedoKupa",
             "name_history": [
@@ -19795,6 +19807,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:49:17 PM",
+    "last_updated": "Feb 16, 2026, 9:50:17 PM",
     "server_region": "europe"
 }
