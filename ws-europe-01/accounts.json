@@ -18594,11 +18594,11 @@
             "hp": 174076.390625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -75130.359375,
-                "y": 51340.30859375,
-                "z": -11720.8798828125
+                "x": -72947.71875,
+                "y": 49320.5078125,
+                "z": -12307.830078125
             },
-            "last_seen": "Feb 16, 2026, 9:29:16 PM",
+            "last_seen": "Feb 16, 2026, 10:00:02 PM",
             "level": 61,
             "name": "Skeletron",
             "name_history": [
@@ -18631,6 +18631,31 @@
             ],
             "registered": "Feb 13, 2026, 3:50:03 PM",
             "role_id": 38174111708525419,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708525422": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
+            "crew_id": 932016791335,
+            "crew_name": "Апертура Науки",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105016.796875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -68950.71875,
+                "y": 60349.2890625,
+                "z": -5127.73974609375
+            },
+            "last_seen": "Feb 16, 2026, 10:00:02 PM",
+            "level": 37,
+            "name": "Пэйси",
+            "name_history": [
+                "Пэйси"
+            ],
+            "registered": "Feb 13, 2026, 4:04:32 PM",
+            "role_id": 38174111708525422,
             "server_region": "ws-europe-01"
         },
         "38174111708525446": {
@@ -18940,15 +18965,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 45755.0,
+            "hp": 52210.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -79403.1484375,
-                "y": 66042.7421875,
-                "z": -7421.48974609375
+                "x": -56220.23828125,
+                "y": 63972.48828125,
+                "z": -3048.079833984375
             },
-            "last_seen": "Feb 16, 2026, 9:29:16 PM",
-            "level": 16,
+            "last_seen": "Feb 16, 2026, 10:00:02 PM",
+            "level": 17,
             "name": "Zacatecas ",
             "name_history": [
                 "Zacatecas "
@@ -18986,15 +19011,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 26025.224609375,
+            "hp": 44008.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -77957.4375,
-                "y": 77248.859375,
-                "z": -9856.259765625
+                "x": -54200.70703125,
+                "y": 73902.171875,
+                "z": -10087.9794921875
             },
-            "last_seen": "Feb 16, 2026, 9:29:16 PM",
-            "level": 5,
+            "last_seen": "Feb 16, 2026, 10:00:02 PM",
+            "level": 9,
             "name": "FraN_Rind0",
             "name_history": [
                 "FraN_Rind0"
@@ -19073,7 +19098,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1112,
-    "last_updated": "Feb 16, 2026, 9:59:02 PM",
+    "accounts_total": 1113,
+    "last_updated": "Feb 16, 2026, 10:00:02 PM",
     "server_region": "ws-europe-01"
 }
