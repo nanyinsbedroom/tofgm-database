@@ -18347,13 +18347,22 @@
             "server_region": "europe"
         },
         "55963424763531": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Ethereal╏"
+            ],
+            "crew_id": 356482298582,
+            "crew_name": "Ethereal╏",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 33543.171875,
-            "last_seen": "Feb 10, 2026, 8:07:40 PM",
-            "level": 29,
+            "hp": 605807.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 156.5,
+                "y": -18310.490234375,
+                "z": 96336.0390625
+            },
+            "last_seen": "Feb 16, 2026, 9:33:16 PM",
+            "level": 67,
             "name": "БОТА",
             "name_history": [
                 "БОТА"
@@ -19692,6 +19701,6 @@
         }
     },
     "accounts_total": 1359,
-    "last_updated": "Feb 15, 2026, 8:54:13 PM",
+    "last_updated": "Feb 16, 2026, 9:33:16 PM",
     "server_region": "europe"
 }
