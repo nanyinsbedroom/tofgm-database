@@ -9786,6 +9786,29 @@
             "role_id": 38174111708486961,
             "server_region": "ws-europe-01"
         },
+        "38174111708486977": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_13_1",
+            "gender": 1,
+            "hp": 733248.5625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 11385.5693359375,
+                "y": 338.4599914550781,
+                "z": 12696.8798828125
+            },
+            "last_seen": "Feb 16, 2026, 10:02:02 PM",
+            "level": 75,
+            "name": "Lahara",
+            "name_history": [
+                "Lahara"
+            ],
+            "registered": "Nov 25, 2025, 8:18:48 PM",
+            "role_id": 38174111708486977,
+            "server_region": "ws-europe-01"
+        },
         "38174111708487006": {
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
@@ -19099,9 +19122,32 @@
             "registered": "Feb 16, 2026, 9:05:21 PM",
             "role_id": 38174111708525750,
             "server_region": "ws-europe-01"
+        },
+        "38174111708525757": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92206.3203125,
+                "y": 76562.7421875,
+                "z": -7074.509765625
+            },
+            "last_seen": "Feb 16, 2026, 10:02:02 PM",
+            "level": 4,
+            "name": "Louphiroth",
+            "name_history": [
+                "Louphiroth"
+            ],
+            "registered": "Feb 16, 2026, 9:36:23 PM",
+            "role_id": 38174111708525757,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1113,
-    "last_updated": "Feb 16, 2026, 10:01:02 PM",
+    "accounts_total": 1115,
+    "last_updated": "Feb 16, 2026, 10:02:02 PM",
     "server_region": "ws-europe-01"
 }
