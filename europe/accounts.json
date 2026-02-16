@@ -9479,12 +9479,21 @@
             "server_region": "europe"
         },
         "55950538972833": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 0,
-            "hp": 2546633.0,
-            "last_seen": "Feb 7, 2026, 9:38:30 PM",
+            "hp": 2656885.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 88337.09375,
+                "y": 639.791259765625,
+                "z": 9536.2998046875
+            },
+            "last_seen": "Feb 16, 2026, 9:55:17 PM",
             "level": 100,
             "name": "Lutrix",
             "name_history": [
@@ -9560,12 +9569,21 @@
             "server_region": "europe"
         },
         "55950538998176": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
             "equipping_title": "Tencent_Sever_85",
             "gender": 0,
             "hp": 2033512.875,
-            "last_seen": "Feb 7, 2026, 9:38:30 PM",
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 88972.3828125,
+                "y": 775.9129028320313,
+                "z": 9426.0
+            },
+            "last_seen": "Feb 16, 2026, 9:55:17 PM",
             "level": 100,
             "name": "Wouter",
             "name_history": [
@@ -9634,6 +9652,7 @@
             "server_region": "europe"
         },
         "55950539031567": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
@@ -9641,11 +9660,11 @@
             "hp": 1789007.5,
             "last_known_position": {
                 "map": "Vera_city",
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 88170.7578125,
+                "y": 1572.159912109375,
+                "z": 9420.75
             },
-            "last_seen": "Feb 13, 2026, 8:58:19 PM",
+            "last_seen": "Feb 16, 2026, 9:55:17 PM",
             "level": 100,
             "name": "CoolSam",
             "name_history": [
@@ -19899,6 +19918,6 @@
         }
     },
     "accounts_total": 1362,
-    "last_updated": "Feb 16, 2026, 9:54:17 PM",
+    "last_updated": "Feb 16, 2026, 9:55:17 PM",
     "server_region": "europe"
 }
