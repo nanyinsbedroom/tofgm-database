@@ -8243,12 +8243,21 @@
             "server_region": "asia-pacific"
         },
         "47291884930350": {
+            "crew_history": [
+                "ふぇありー"
+            ],
             "crew_id": 124554062588,
             "crew_name": "ふぇありー",
-            "equipping_title": "HuntingRank_1;imitation_35;3",
+            "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 6324051.5,
-            "last_seen": "Feb 11, 2026, 8:50:27 PM",
+            "hp": 6230995.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 110597.390625,
+                "y": -183866.953125,
+                "z": -5179.1298828125
+            },
+            "last_seen": "Feb 16, 2026, 9:57:36 PM",
             "level": 100,
             "name": "　咲綾",
             "name_history": [
@@ -30281,11 +30290,26 @@
             "server_region": "asia-pacific"
         },
         "47347719491237": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Neko ⅽCafe"
+            ],
+            "crew_id": 94489291516,
+            "crew_name": "Neko ⅽCafe",
+            "equipping_title": "1_1_29_1",
             "gender": 1,
-            "last_seen": "Sep 26, 2025, 07:15:30 PM",
+            "hp": 6104816.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101650.75,
+                "y": -181386.296875,
+                "z": -7762.123046875
+            },
+            "last_seen": "Feb 16, 2026, 9:57:36 PM",
+            "level": 100,
             "name": "Sara Valestien",
+            "name_history": [
+                "Sara Valestien"
+            ],
             "registered": "Aug 13, 2022, 7:15:56 AM",
             "role_id": 47347719491237,
             "server_region": "asia-pacific"
@@ -36587,6 +36611,6 @@
         }
     },
     "accounts_total": 2583,
-    "last_updated": "Feb 16, 2026, 9:56:36 PM",
+    "last_updated": "Feb 16, 2026, 9:57:36 PM",
     "server_region": "asia-pacific"
 }
