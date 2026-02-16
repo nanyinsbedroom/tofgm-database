@@ -13301,14 +13301,14 @@
             "crew_name": "Aspen",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 2197670.25,
+            "hp": 2220927.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": 74455.546875,
-                "y": 16615.2265625,
-                "z": 40673.609375
+                "x": -7481.29541015625,
+                "y": 4375.90869140625,
+                "z": 25615.720703125
             },
-            "last_seen": "Feb 15, 2026, 8:30:03 PM",
+            "last_seen": "Feb 16, 2026, 8:14:20 PM",
             "level": 100,
             "name": "Nufsa",
             "name_history": [
@@ -23391,12 +23391,21 @@
             "server_region": "southeast-asia"
         },
         "68779606308489": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "2_2_0_22",
             "gender": 1,
-            "hp": 5983466.5,
-            "last_seen": "Feb 9, 2026, 7:14:57 PM",
+            "hp": 2455393.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7472.56005859375,
+                "y": 5130.9599609375,
+                "z": 25609.21484375
+            },
+            "last_seen": "Feb 16, 2026, 8:14:20 PM",
             "level": 100,
             "name": "Aruf",
             "name_history": [
@@ -28373,6 +28382,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:13:20 PM",
+    "last_updated": "Feb 16, 2026, 8:14:20 PM",
     "server_region": "southeast-asia"
 }
