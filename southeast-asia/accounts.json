@@ -9612,12 +9612,21 @@
             "server_region": "southeast-asia"
         },
         "68762426461527": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "Overseas2_7",
             "gender": 1,
-            "hp": 2712952.75,
-            "last_seen": "Nov 08, 2025, 07:20:23 PM",
+            "hp": 3515687.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7654.58984375,
+                "y": 61421.0,
+                "z": 40605.4609375
+            },
+            "last_seen": "Feb 16, 2026, 8:19:20 PM",
             "level": 100,
             "name": "Usavichio",
             "name_history": [
@@ -28463,6 +28472,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:17:20 PM",
+    "last_updated": "Feb 16, 2026, 8:19:20 PM",
     "server_region": "southeast-asia"
 }
