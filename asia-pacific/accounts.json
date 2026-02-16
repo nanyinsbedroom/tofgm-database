@@ -2509,12 +2509,21 @@
             "server_region": "asia-pacific"
         },
         "47257526107764": {
+            "crew_history": [
+                "月が綺麗ですね。"
+            ],
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
-            "equipping_title": " 雪凪的学徒,0",
+            "equipping_title": " 雪凪's Apprentice,0",
             "gender": 1,
-            "hp": 2163831.25,
-            "last_seen": "Nov 03, 2025, 07:28:03 PM",
+            "hp": 6233551.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 132642.515625,
+                "y": -183657.1875,
+                "z": -1026.048095703125
+            },
+            "last_seen": "Feb 16, 2026, 9:59:36 PM",
             "level": 100,
             "name": "しのちゃん。",
             "name_history": [
@@ -36611,6 +36620,6 @@
         }
     },
     "accounts_total": 2583,
-    "last_updated": "Feb 16, 2026, 9:57:36 PM",
+    "last_updated": "Feb 16, 2026, 9:59:36 PM",
     "server_region": "asia-pacific"
 }
