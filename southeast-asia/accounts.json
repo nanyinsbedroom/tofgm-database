@@ -23852,12 +23852,21 @@
             "server_region": "southeast-asia"
         },
         "68779606446958": {
+            "crew_history": [
+                "Genesis"
+            ],
             "crew_id": 188978577038,
             "crew_name": "Genesis",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2360301.5,
-            "last_seen": "Nov 19, 2025, 10:44:25 PM",
+            "hp": 2353807.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -16008.4755859375,
+                "y": 6766.478515625,
+                "z": 25639.310546875
+            },
+            "last_seen": "Feb 16, 2026, 8:21:21 PM",
             "level": 100,
             "name": "Ene",
             "name_history": [
@@ -28472,6 +28481,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:19:20 PM",
+    "last_updated": "Feb 16, 2026, 8:21:21 PM",
     "server_region": "southeast-asia"
 }
