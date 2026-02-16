@@ -849,12 +849,21 @@
             "server_region": "southeast-asia"
         },
         "68723771808330": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 6068184.5,
-            "last_seen": "Feb 11, 2026, 7:36:25 PM",
+            "hp": 2627272.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7441.17578125,
+                "y": 5023.50830078125,
+                "z": 25622.66015625
+            },
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
             "level": 100,
             "name": "KalitoTamayuki",
             "name_history": [
@@ -6033,14 +6042,14 @@
             "crew_name": "Soft Doll",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 6258473.5,
+            "hp": 2542515.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 100012.796875,
-                "y": -188834.9375,
-                "z": -7772.30419921875
+                "map": "QRSL_P",
+                "x": -7453.25537109375,
+                "y": 3577.348388671875,
+                "z": 25624.560546875
             },
-            "last_seen": "Feb 16, 2026, 7:51:52 PM",
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
             "level": 100,
             "name": "Kilabot F2P",
             "name_history": [
@@ -12770,12 +12779,21 @@
             "server_region": "southeast-asia"
         },
         "68775311587279": {
+            "crew_history": [
+                "Moonheart"
+            ],
             "crew_id": 2555505557133,
             "crew_name": "Moonheart",
             "equipping_title": "2_10_1_2",
             "gender": 0,
-            "hp": 2670595.75,
-            "last_seen": "Nov 28, 2025, 03:07:39 AM",
+            "hp": 2220776.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7382.845703125,
+                "y": 4659.6982421875,
+                "z": 25607.140625
+            },
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
             "level": 100,
             "name": "SmolKalito",
             "name_history": [
@@ -19718,12 +19736,21 @@
             "server_region": "southeast-asia"
         },
         "68775311753715": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "あおい的学徒,0",
+            "equipping_title": "あおい's Apprentice,0",
             "gender": 0,
-            "hp": 54952.58984375,
-            "last_seen": "Jan 25, 2026, 02:09:31 AM",
+            "hp": 1517024.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7371.98583984375,
+                "y": 5453.41845703125,
+                "z": 25623.669921875
+            },
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
             "level": 100,
             "name": "ランガ",
             "name_history": [
@@ -22897,17 +22924,17 @@
             ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 788508.6875,
+            "hp": 855843.8125,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": 1365.47998046875,
-                "y": 44562.48828125,
-                "z": 5699.11962890625
+                "map": "QRSL_P",
+                "x": -9291.4853515625,
+                "y": 4149.32861328125,
+                "z": 25628.779296875
             },
-            "last_seen": "Feb 15, 2026, 6:12:44 PM",
-            "level": 68,
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
+            "level": 71,
             "name": "Candledrop",
             "name_history": [
                 "Candledrop"
@@ -25077,9 +25104,27 @@
             "server_region": "southeast-asia"
         },
         "68788196299332": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "last_seen": "Feb 04, 2026, 04:56:35 AM",
+            "hp": 2506470.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7527.07568359375,
+                "y": 4397.8486328125,
+                "z": 25615.720703125
+            },
+            "last_seen": "Feb 16, 2026, 8:15:20 PM",
+            "level": 100,
             "name": "Gabrielzzzz",
+            "name_history": [
+                "Gabrielzzzz"
+            ],
+            "registered": "Aug 20, 2022, 9:12:47 PM",
             "role_id": 68788196299332,
             "server_region": "southeast-asia"
         },
@@ -28382,6 +28427,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:14:20 PM",
+    "last_updated": "Feb 16, 2026, 8:15:20 PM",
     "server_region": "southeast-asia"
 }
