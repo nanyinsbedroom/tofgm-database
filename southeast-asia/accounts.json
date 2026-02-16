@@ -4214,14 +4214,14 @@
             "crew_name": "OnlyFนN",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 6340851.5,
+            "hp": 2770660.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 86188.7421875,
-                "y": -190898.734375,
-                "z": -5361.173828125
+                "map": "QRSL_P",
+                "x": -17333.427734375,
+                "y": 1846.67919921875,
+                "z": -6286.71923828125
             },
-            "last_seen": "Feb 15, 2026, 8:52:03 PM",
+            "last_seen": "Feb 16, 2026, 8:00:53 PM",
             "level": 100,
             "name": "ชิเลน่า",
             "name_history": [
@@ -7035,12 +7035,21 @@
             "server_region": "southeast-asia"
         },
         "68753836494267": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
             "equipping_title": "2_8_0_10",
             "gender": 1,
-            "hp": 3135204.25,
-            "last_seen": "Nov 07, 2025, 07:14:05 PM",
+            "hp": 2620550.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -17333.427734375,
+                "y": 1846.67919921875,
+                "z": -6293.21923828125
+            },
+            "last_seen": "Feb 16, 2026, 8:00:53 PM",
             "level": 100,
             "name": "Shigeki",
             "name_history": [
@@ -9009,12 +9018,21 @@
             "server_region": "southeast-asia"
         },
         "68762426422414": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 6334851.5,
-            "last_seen": "Feb 11, 2026, 7:38:25 PM",
+            "hp": 2855787.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -17155.029296875,
+                "y": 2462.869873046875,
+                "z": -6308.080078125
+            },
+            "last_seen": "Feb 16, 2026, 8:00:53 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -26117,12 +26135,21 @@
             "server_region": "southeast-asia"
         },
         "68796786238776": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "HuntingRank_1;imitation_71;1",
             "gender": 0,
-            "hp": 2812117.5,
-            "last_seen": "Jan 27, 2026, 06:33:55 AM",
+            "hp": 2743980.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -17495.75390625,
+                "y": 2392.1572265625,
+                "z": -6326.37548828125
+            },
+            "last_seen": "Feb 16, 2026, 8:00:53 PM",
             "level": 100,
             "name": "Omaewamou",
             "name_history": [
@@ -28192,6 +28219,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 7:55:52 PM",
+    "last_updated": "Feb 16, 2026, 8:00:53 PM",
     "server_region": "southeast-asia"
 }
