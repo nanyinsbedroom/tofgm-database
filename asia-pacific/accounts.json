@@ -31274,12 +31274,21 @@
             "server_region": "asia-pacific"
         },
         "47360604460482": {
+            "crew_history": [
+                "Alter"
+            ],
             "crew_id": 648540072703,
             "crew_name": "Alter",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2495576.5,
-            "last_seen": "Nov 19, 2025, 10:30:17 PM",
+            "hp": 6793379.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101467.5234375,
+                "y": -184051.046875,
+                "z": -7823.65625
+            },
+            "last_seen": "Feb 16, 2026, 9:45:35 PM",
             "level": 100,
             "name": "K a t s u y a",
             "name_history": [
@@ -31670,12 +31679,21 @@
             "server_region": "asia-pacific"
         },
         "47364899457242": {
+            "crew_history": [
+                "幻塔Memoria"
+            ],
             "crew_id": 2345052154644,
             "crew_name": "幻塔Memoria",
-            "equipping_title": "1_4_3_27",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2377169.25,
-            "last_seen": "Nov 18, 2025, 12:04:11 PM",
+            "hp": 6961093.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96428.640625,
+                "y": -197651.875,
+                "z": -2685.159912109375
+            },
+            "last_seen": "Feb 16, 2026, 9:45:35 PM",
             "level": 100,
             "name": "☆ねこぱんち☆",
             "name_history": [
@@ -31851,11 +31869,11 @@
             "hp": 6340851.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 74614.1796875,
-                "y": -164319.859375,
-                "z": -3050.85986328125
+                "x": 91883.1015625,
+                "y": -203373.4375,
+                "z": -3607.12939453125
             },
-            "last_seen": "Feb 15, 2026, 8:14:38 PM",
+            "last_seen": "Feb 16, 2026, 9:45:35 PM",
             "level": 100,
             "name": "♠SIRI♠",
             "name_history": [
@@ -36231,6 +36249,6 @@
         }
     },
     "accounts_total": 2576,
-    "last_updated": "Feb 16, 2026, 9:44:35 PM",
+    "last_updated": "Feb 16, 2026, 9:45:35 PM",
     "server_region": "asia-pacific"
 }
