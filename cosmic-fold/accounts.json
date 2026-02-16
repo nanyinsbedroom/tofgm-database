@@ -547,14 +547,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1514599.875,
+            "hp": 1379869.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1415.280029296875,
-                "y": -27753.9296875,
-                "z": 97866.1171875
+                "x": 997.22998046875,
+                "y": -27228.080078125,
+                "z": 96706.9453125
             },
-            "last_seen": "2026年2月14日 下午8:39:56",
+            "last_seen": "2026年2月17日 上午1:41:42",
             "level": 83,
             "name": "暖暖团",
             "name_history": [
@@ -3832,13 +3832,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851704": {
-            "crew_id": 133144000980,
-            "crew_name": "芬璃尔应援会",
-            "equipping_title": "1_9_0_2",
+            "crew_history": [
+                "紫微星垣"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_083_world;6",
             "gender": 1,
-            "hp": 937811.875,
-            "last_seen": "2025年11月25日 上午 7:45:55",
-            "level": 72,
+            "hp": 1337455.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 216.84999084472656,
+                "y": -23314.478515625,
+                "z": 96705.6953125
+            },
+            "last_seen": "2026年2月17日 上午1:41:42",
+            "level": 83,
             "name": "甜栗子",
             "name_history": [
                 "甜栗子"
@@ -4312,11 +4321,24 @@
             "server_region": "cosmic-fold"
         },
         "63582695851942": {
-            "crew_id": 219043346900,
-            "crew_name": "月辰",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_48",
             "gender": 1,
-            "last_seen": "2025年09月26日 下午 11:49:01",
+            "hp": 234674.21875,
+            "last_known_position": {
+                "map": "city",
+                "x": -535.8300170898438,
+                "y": -17031.01953125,
+                "z": 96356.78125
+            },
+            "last_seen": "2026年2月17日 上午1:41:42",
+            "level": 56,
             "name": "萌萌果冻丶",
+            "name_history": [
+                "萌萌果冻丶"
+            ],
             "registered": "2025年9月25日 下午6:22:33",
             "role_id": 63582695851942,
             "server_region": "cosmic-fold"
@@ -34855,13 +34877,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695890114": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "1_1_20_1",
             "gender": 1,
-            "hp": 1431588.125,
-            "last_seen": "2026年2月10日 下午10:26:02",
-            "level": 82,
+            "hp": 1450537.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 20.0,
+                "y": -19040.0,
+                "z": 96329.5390625
+            },
+            "last_seen": "2026年2月17日 上午1:41:42",
+            "level": 83,
             "name": "晴の夢",
             "name_history": [
                 "晴の夢"
@@ -47673,13 +47704,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695930961": {
+            "crew_history": [
+                "少女祈祷中"
+            ],
             "crew_id": 2856153266644,
             "crew_name": "少女祈祷中",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 995645.4375,
-            "last_seen": "2026年01月25日 上午 4:24:33",
-            "level": 78,
+            "hp": 1105233.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96349.0390625
+            },
+            "last_seen": "2026年2月17日 上午1:41:42",
+            "level": 83,
             "name": "魔法少女米箹",
             "name_history": [
                 "魔法少女米箹"
@@ -64970,6 +65010,6 @@
         }
     },
     "accounts_total": 4848,
-    "last_updated": "2026年2月17日 上午1:40:42",
+    "last_updated": "2026年2月17日 上午1:41:42",
     "server_region": "cosmic-fold"
 }
