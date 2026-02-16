@@ -41812,14 +41812,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_7_0_18",
             "gender": 1,
-            "hp": 1302646.125,
+            "hp": 1401013.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1643.7099609375,
-                "y": -23810.240234375,
-                "z": 97234.28125
+                "x": -120.5,
+                "y": -18535.69921875,
+                "z": 96329.5390625
             },
-            "last_seen": "2026年2月14日 下午8:39:56",
+            "last_seen": "2026年2月17日 上午2:33:17",
             "level": 83,
             "name": "桐谷遥",
             "name_history": [
@@ -65177,9 +65177,55 @@
             "registered": "2026年2月16日 上午12:00:38",
             "role_id": 63582696007895,
             "server_region": "cosmic-fold"
+        },
+        "63582696007901": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70269.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84712.265625,
+                "y": 72416.2109375,
+                "z": -8428.71875
+            },
+            "last_seen": "2026年2月17日 上午2:33:17",
+            "level": 16,
+            "name": "旋转小火锅",
+            "name_history": [
+                "旋转小火锅"
+            ],
+            "registered": "2026年2月16日 上午1:27:39",
+            "role_id": 63582696007901,
+            "server_region": "cosmic-fold"
+        },
+        "63582696008032": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.8359375,
+                "y": 80533.2265625,
+                "z": -4997.77001953125
+            },
+            "last_seen": "2026年2月17日 上午2:33:17",
+            "level": 1,
+            "name": "愿愁",
+            "name_history": [
+                "愿愁"
+            ],
+            "registered": "2026年2月17日 上午2:32:18",
+            "role_id": 63582696008032,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4849,
-    "last_updated": "2026年2月17日 上午2:32:17",
+    "accounts_total": 4851,
+    "last_updated": "2026年2月17日 上午2:33:17",
     "server_region": "cosmic-fold"
 }
