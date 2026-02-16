@@ -1325,12 +1325,21 @@
             "server_region": "europe"
         },
         "55851754731140": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 2697239474913,
             "crew_name": "Asylum",
             "equipping_title": "Overseas2_10",
             "gender": 1,
-            "hp": 2789680.0,
-            "last_seen": "Nov 03, 2025, 02:33:43 AM",
+            "hp": 2853694.75,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 81319.140625,
+                "y": -229939.53125,
+                "z": 1181.824951171875
+            },
+            "last_seen": "Feb 16, 2026, 9:49:17 PM",
             "level": 100,
             "name": "Naellia",
             "name_history": [
@@ -7069,11 +7078,26 @@
             "server_region": "europe"
         },
         "55903294378877": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "†Ryudara"
+            ],
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
+            "equipping_title": "Allynna's Apprentice,0",
             "gender": 1,
-            "last_seen": "Sep 24, 2025, 03:28:51 AM",
+            "hp": 2407939.0,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 82338.3515625,
+                "y": -229767.375,
+                "z": 5908.61962890625
+            },
+            "last_seen": "Feb 16, 2026, 9:49:17 PM",
+            "level": 100,
             "name": "Kanatsuki",
+            "name_history": [
+                "Kanatsuki"
+            ],
             "registered": "Aug 13, 2022, 8:21:51 PM",
             "role_id": 55903294378877,
             "server_region": "europe"
@@ -19771,6 +19795,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:41:16 PM",
+    "last_updated": "Feb 16, 2026, 9:49:17 PM",
     "server_region": "europe"
 }
