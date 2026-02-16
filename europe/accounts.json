@@ -3397,11 +3397,26 @@
             "server_region": "europe"
         },
         "55864639623220": {
+            "crew_history": [
+                "ColdHeart"
+            ],
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
+            "equipping_title": "1_8_0_4",
             "gender": 0,
-            "last_seen": "Sep 23, 2025, 03:02:08 AM",
+            "hp": 6892363.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96151.4765625,
+                "y": -197010.015625,
+                "z": -2722.27001953125
+            },
+            "last_seen": "Feb 16, 2026, 9:38:16 PM",
+            "level": 100,
             "name": "Nailia",
+            "name_history": [
+                "Nailia"
+            ],
             "registered": "Aug 11, 2022, 2:03:30 AM",
             "role_id": 55864639623220,
             "server_region": "europe"
@@ -19747,6 +19762,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:36:16 PM",
+    "last_updated": "Feb 16, 2026, 9:38:16 PM",
     "server_region": "europe"
 }
