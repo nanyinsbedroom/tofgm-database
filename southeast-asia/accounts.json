@@ -3927,14 +3927,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2874330.5,
+            "hp": 2889144.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": 67619.2421875,
-                "y": 18519.75390625,
-                "z": 41982.51953125
+                "x": -16398.509765625,
+                "y": 7533.857421875,
+                "z": 25602.59765625
             },
-            "last_seen": "Feb 15, 2026, 8:25:03 PM",
+            "last_seen": "Feb 16, 2026, 8:25:21 PM",
             "level": 100,
             "name": "FlynSSR",
             "name_history": [
@@ -4807,12 +4807,21 @@
             "server_region": "southeast-asia"
         },
         "68740951579719": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "1_4_3_26",
             "gender": 0,
-            "hp": 2980493.0,
-            "last_seen": "Nov 17, 2025, 05:58:34 PM",
+            "hp": 2576473.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7405.9658203125,
+                "y": 4497.99853515625,
+                "z": 25612.640625
+            },
+            "last_seen": "Feb 16, 2026, 8:25:21 PM",
             "level": 100,
             "name": "Regulus Scarlet",
             "name_history": [
@@ -28499,6 +28508,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:23:21 PM",
+    "last_updated": "Feb 16, 2026, 8:25:21 PM",
     "server_region": "southeast-asia"
 }
