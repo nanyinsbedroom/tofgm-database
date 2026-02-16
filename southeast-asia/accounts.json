@@ -9028,11 +9028,11 @@
             "hp": 2855787.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -17155.029296875,
-                "y": 2462.869873046875,
-                "z": -6308.080078125
+                "x": -16327.43359375,
+                "y": 2934.6142578125,
+                "z": 25623.814453125
             },
-            "last_seen": "Feb 16, 2026, 8:00:53 PM",
+            "last_seen": "Feb 16, 2026, 8:03:19 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -10440,14 +10440,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "Exy.'s Enlightener,1",
             "gender": 1,
-            "hp": 2990051.75,
+            "hp": 1.0,
             "last_known_position": {
-                "map": "city",
-                "x": 66.15999603271484,
-                "y": -16515.37890625,
-                "z": 96362.03125
+                "map": "QRSL_P",
+                "x": -14302.255859375,
+                "y": 4342.25830078125,
+                "z": 25621.109375
             },
-            "last_seen": "Feb 16, 2026, 7:28:13 PM",
+            "last_seen": "Feb 16, 2026, 8:03:19 PM",
             "level": 100,
             "name": "ChinoAemeath",
             "name_history": [
@@ -22902,12 +22902,21 @@
             "server_region": "southeast-asia"
         },
         "68779606280544": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "1_6_4_40",
+            "equipping_title": "2_2_0_65",
             "gender": 1,
-            "hp": 2701478.5,
-            "last_seen": "Dec 01, 2025, 03:39:04 AM",
+            "hp": 2644148.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -12876.7451171875,
+                "y": 3963.04833984375,
+                "z": 25635.0703125
+            },
+            "last_seen": "Feb 16, 2026, 8:03:19 PM",
             "level": 100,
             "name": "Pawis93",
             "name_history": [
@@ -28219,6 +28228,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:00:53 PM",
+    "last_updated": "Feb 16, 2026, 8:03:19 PM",
     "server_region": "southeast-asia"
 }
