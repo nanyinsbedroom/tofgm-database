@@ -1500,12 +1500,21 @@
             "server_region": "southeast-asia"
         },
         "68728066697477": {
+            "crew_history": [
+                "Rex Incognito"
+            ],
             "crew_id": 313532628610,
             "crew_name": "Rex Incognito",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 2121725.75,
-            "last_seen": "Nov 07, 2025, 10:33:00 AM",
+            "hp": 2264997.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -8971.9755859375,
+                "y": 5318.82861328125,
+                "z": 25638.48046875
+            },
+            "last_seen": "Feb 16, 2026, 8:22:21 PM",
             "level": 100,
             "name": "Aces#c",
             "name_history": [
@@ -28481,6 +28490,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:21:21 PM",
+    "last_updated": "Feb 16, 2026, 8:22:21 PM",
     "server_region": "southeast-asia"
 }
