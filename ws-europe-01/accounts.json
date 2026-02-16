@@ -9590,6 +9590,29 @@
             "role_id": 38174111708486666,
             "server_region": "ws-europe-01"
         },
+        "38174111708486681": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 574839.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60254.5390625,
+                "y": 106713.6171875,
+                "z": -12914.6494140625
+            },
+            "last_seen": "Feb 16, 2026, 9:30:16 PM",
+            "level": 73,
+            "name": "ZanKraken",
+            "name_history": [
+                "ZanKraken"
+            ],
+            "registered": "Nov 25, 2025, 7:45:32 PM",
+            "role_id": 38174111708486681,
+            "server_region": "ws-europe-01"
+        },
         "38174111708486751": {
             "crew_id": 38663593767,
             "crew_name": "Dystopia",
@@ -18624,6 +18647,29 @@
             "role_id": 38174111708525525,
             "server_region": "ws-europe-01"
         },
+        "38174111708525546": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 105954.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55997.546875,
+                "y": 95071.0390625,
+                "z": -12200.9892578125
+            },
+            "last_seen": "Feb 16, 2026, 9:30:16 PM",
+            "level": 39,
+            "name": "panayiotis",
+            "name_history": [
+                "panayiotis"
+            ],
+            "registered": "Feb 14, 2026, 11:32:37 PM",
+            "role_id": 38174111708525546,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525549": {
             "crew_history": [],
             "crew_id": 0,
@@ -18924,9 +18970,32 @@
             "registered": "Feb 16, 2026, 8:38:41 PM",
             "role_id": 38174111708525746,
             "server_region": "ws-europe-01"
+        },
+        "38174111708525750": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21201.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11500.599609375
+            },
+            "last_seen": "Feb 16, 2026, 9:30:16 PM",
+            "level": 6,
+            "name": "Cake",
+            "name_history": [
+                "Cake"
+            ],
+            "registered": "Feb 16, 2026, 9:05:21 PM",
+            "role_id": 38174111708525750,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1106,
-    "last_updated": "Feb 16, 2026, 9:29:16 PM",
+    "accounts_total": 1109,
+    "last_updated": "Feb 16, 2026, 9:30:16 PM",
     "server_region": "ws-europe-01"
 }
