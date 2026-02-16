@@ -25266,12 +25266,21 @@
             "server_region": "southeast-asia"
         },
         "68788196312179": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "RuneStone的学徒,0",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 6015028.5,
-            "last_seen": "Jan 03, 2026, 03:47:07 AM",
+            "hp": 2264002.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -10953.92578125,
+                "y": 5286.1982421875,
+                "z": 25651.48046875
+            },
+            "last_seen": "Feb 16, 2026, 8:23:21 PM",
             "level": 100,
             "name": "«Erza Titania»",
             "name_history": [
@@ -28490,6 +28499,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:22:21 PM",
+    "last_updated": "Feb 16, 2026, 8:23:21 PM",
     "server_region": "southeast-asia"
 }
