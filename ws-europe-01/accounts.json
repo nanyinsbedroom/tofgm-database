@@ -8592,18 +8592,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708485619": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 1034383.25,
+            "hp": 1036197.4375,
             "last_known_position": {
                 "map": "city",
-                "x": 242.1199951171875,
-                "y": -28149.76953125,
-                "z": 97917.65625
+                "x": -250.6899871826172,
+                "y": -27734.37890625,
+                "z": 96713.4453125
             },
-            "last_seen": "Feb 13, 2026, 10:57:52 PM",
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
             "level": 75,
             "name": "Iridaceae",
             "name_history": [
@@ -9226,11 +9229,11 @@
             "hp": 1048577.875,
             "last_known_position": {
                 "map": "city",
-                "x": -1608.4599609375,
-                "y": -28680.12890625,
-                "z": 97872.3203125
+                "x": 435.9499816894531,
+                "y": -28262.458984375,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
             "level": 75,
             "name": "Zionsfai",
             "name_history": [
@@ -9273,18 +9276,19 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486399": {
-            "crew_id": 115973005095,
-            "crew_name": "Arcana",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "Luna Terra's Mentor,0",
             "gender": 0,
             "hp": 1072249.125,
             "last_known_position": {
                 "map": "city",
-                "x": 541.8999633789063,
-                "y": -28114.05859375,
-                "z": 97929.9765625
+                "x": 965.1799926757813,
+                "y": -27875.58984375,
+                "z": 97914.4375
             },
-            "last_seen": "Feb 13, 2026, 10:57:52 PM",
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
             "level": 75,
             "name": "ColdPleb",
             "name_history": [
@@ -10640,14 +10644,14 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_44",
             "gender": 0,
-            "hp": 948701.875,
+            "hp": 961604.25,
             "last_known_position": {
                 "map": "city",
-                "x": 2372.849853515625,
-                "y": -25591.08984375,
-                "z": 99654.265625
+                "x": -126.69999694824219,
+                "y": -28193.109375,
+                "z": 97911.140625
             },
-            "last_seen": "Feb 15, 2026, 9:02:14 PM",
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
             "level": 75,
             "name": "Yuppe",
             "name_history": [
@@ -12373,14 +12377,14 @@
             "crew_name": "Arcana",
             "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 1070212.5,
+            "hp": 1054439.5,
             "last_known_position": {
                 "map": "city",
-                "x": -1374.909912109375,
-                "y": -23882.0,
+                "x": -596.22998046875,
+                "y": -23582.05859375,
                 "z": 98605.65625
             },
-            "last_seen": "Feb 15, 2026, 9:59:16 PM",
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
             "level": 75,
             "name": "Mushi",
             "name_history": [
@@ -17495,6 +17499,31 @@
             "role_id": 38174111708524527,
             "server_region": "ws-europe-01"
         },
+        "38174111708524574": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 624406.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1665.669921875,
+                "y": -26472.05859375,
+                "z": 97911.15625
+            },
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
+            "level": 75,
+            "name": "Flame Haze",
+            "name_history": [
+                "Flame Haze"
+            ],
+            "registered": "Feb 5, 2026, 5:46:44 AM",
+            "role_id": 38174111708524574,
+            "server_region": "ws-europe-01"
+        },
         "38174111708524581": {
             "crew_id": 0,
             "crew_name": "",
@@ -17930,6 +17959,31 @@
             "role_id": 38174111708524940,
             "server_region": "ws-europe-01"
         },
+        "38174111708524951": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
+            "crew_id": 932016791335,
+            "crew_name": "Апертура Науки",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 101514.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
+            "level": 47,
+            "name": "Будущее",
+            "name_history": [
+                "Будущее"
+            ],
+            "registered": "Feb 8, 2026, 4:26:36 PM",
+            "role_id": 38174111708524951,
+            "server_region": "ws-europe-01"
+        },
         "38174111708524969": {
             "crew_id": 0,
             "crew_name": "",
@@ -18355,15 +18409,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 63549.0,
+            "hp": 79216.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -53970.8203125,
-                "y": 91531.65625,
-                "z": -12670.099609375
+                "map": "city",
+                "x": -101.58999633789063,
+                "y": -25695.96875,
+                "z": 96759.90625
             },
-            "last_seen": "Feb 15, 2026, 10:07:17 PM",
-            "level": 16,
+            "last_seen": "Feb 16, 2026, 9:24:15 PM",
+            "level": 22,
             "name": "MysticWanderer",
             "name_history": [
                 "MysticWanderer"
@@ -18628,7 +18682,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1097,
-    "last_updated": "Feb 15, 2026, 10:12:17 PM",
+    "accounts_total": 1099,
+    "last_updated": "Feb 16, 2026, 9:24:15 PM",
     "server_region": "ws-europe-01"
 }
