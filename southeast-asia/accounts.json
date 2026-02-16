@@ -23840,12 +23840,21 @@
             "server_region": "southeast-asia"
         },
         "68779606394620": {
+            "crew_history": [
+                "Genesis"
+            ],
             "crew_id": 188978577038,
             "crew_name": "Genesis",
             "equipping_title": "Tencent_Sever_124",
             "gender": 1,
-            "hp": 2584488.25,
-            "last_seen": "Feb 7, 2026, 10:47:05 PM",
+            "hp": 2725242.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -6587.33544921875,
+                "y": 4793.3984375,
+                "z": 26424.119140625
+            },
+            "last_seen": "Feb 16, 2026, 8:31:21 PM",
             "level": 100,
             "name": "Rindō Kobayashi",
             "name_history": [
@@ -28526,6 +28535,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:28:21 PM",
+    "last_updated": "Feb 16, 2026, 8:31:21 PM",
     "server_region": "southeast-asia"
 }
