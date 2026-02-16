@@ -1826,11 +1826,11 @@
             "hp": 6851093.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 104859.28125,
-                "y": -194391.8125,
-                "z": -5063.85986328125
+                "x": 138893.359375,
+                "y": -176397.09375,
+                "z": 48.38999938964844
             },
-            "last_seen": "Feb 15, 2026, 8:41:13 PM",
+            "last_seen": "Feb 16, 2026, 9:35:16 PM",
             "level": 100,
             "name": "East13",
             "name_history": [
@@ -2615,14 +2615,14 @@
             "crew_name": "  ",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6287151.0,
+            "hp": 6915867.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 90505.0625,
-                "y": -183018.171875,
-                "z": -7774.00537109375
+                "x": 137957.515625,
+                "y": -177799.1875,
+                "z": -175.7183837890625
             },
-            "last_seen": "Feb 15, 2026, 8:38:12 PM",
+            "last_seen": "Feb 16, 2026, 9:35:16 PM",
             "level": 100,
             "name": "Korvint",
             "name_history": [
@@ -4358,14 +4358,14 @@
             "crew_name": "LesExplorateurs",
             "equipping_title": "KasaneRandall91's Apprentice,0",
             "gender": 1,
-            "hp": 0.0,
+            "hp": 5193548.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 138939.953125,
-                "y": -176468.53125,
-                "z": 39.37999725341797
+                "x": 139558.5,
+                "y": -178253.421875,
+                "z": 198.1490478515625
             },
-            "last_seen": "Feb 15, 2026, 8:32:12 PM",
+            "last_seen": "Feb 16, 2026, 9:35:16 PM",
             "level": 100,
             "name": "PinkyPie",
             "name_history": [
@@ -6142,12 +6142,21 @@
             "server_region": "europe"
         },
         "55890409457393": {
-            "crew_id": 2697239474913,
-            "crew_name": "Asylum",
+            "crew_history": [
+                "†Ryudara"
+            ],
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2305998.75,
-            "last_seen": "Nov 22, 2025, 02:02:34 AM",
+            "hp": 6063385.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98876.6328125,
+                "y": -189382.4375,
+                "z": -7888.10986328125
+            },
+            "last_seen": "Feb 16, 2026, 9:35:16 PM",
             "level": 100,
             "name": "LyssanaFR",
             "name_history": [
@@ -10326,16 +10335,16 @@
             ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "1_12_0_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 5761148.0,
+            "hp": 5944718.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 92123.75,
-                "y": -188463.984375,
-                "z": -7242.49951171875
+                "x": 102595.140625,
+                "y": -181959.0625,
+                "z": -7879.40478515625
             },
-            "last_seen": "Feb 15, 2026, 8:31:12 PM",
+            "last_seen": "Feb 16, 2026, 9:35:16 PM",
             "level": 100,
             "name": "kanta",
             "name_history": [
@@ -19726,6 +19735,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:34:16 PM",
+    "last_updated": "Feb 16, 2026, 9:35:16 PM",
     "server_region": "europe"
 }
