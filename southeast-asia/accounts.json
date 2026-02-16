@@ -701,12 +701,21 @@
             "server_region": "southeast-asia"
         },
         "68723771784005": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
             "equipping_title": "Overseas2_7",
             "gender": 1,
-            "hp": 1834759.625,
-            "last_seen": "Dec 05, 2025, 09:41:09 AM",
+            "hp": 1858606.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -7794.8056640625,
+                "y": 4467.98828125,
+                "z": 25615.720703125
+            },
+            "last_seen": "Feb 16, 2026, 8:28:21 PM",
             "level": 100,
             "name": "Lesso",
             "name_history": [
@@ -28517,6 +28526,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:27:21 PM",
+    "last_updated": "Feb 16, 2026, 8:28:21 PM",
     "server_region": "southeast-asia"
 }
