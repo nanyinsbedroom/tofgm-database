@@ -10293,12 +10293,21 @@
             "server_region": "europe"
         },
         "55963424060069": {
+            "crew_history": [
+                "Чистилище"
+            ],
             "crew_id": 73014457035,
             "crew_name": "Чистилище",
-            "equipping_title": "1_12_0_1",
+            "equipping_title": "1_8_0_38",
             "gender": 1,
-            "hp": 6063533.0,
-            "last_seen": "Feb 7, 2026, 9:28:39 PM",
+            "hp": 6065933.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105090.0546875,
+                "y": -192687.09375,
+                "z": -5747.9052734375
+            },
+            "last_seen": "Feb 16, 2026, 9:40:16 PM",
             "level": 100,
             "name": " Shi",
             "name_history": [
@@ -19762,6 +19771,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:39:16 PM",
+    "last_updated": "Feb 16, 2026, 9:40:16 PM",
     "server_region": "europe"
 }
