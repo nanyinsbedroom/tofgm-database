@@ -2298,12 +2298,21 @@
             "server_region": "southeast-asia"
         },
         "68732361644633": {
+            "crew_history": [
+                "Schwarz Studio"
+            ],
             "crew_id": 2516850851459,
             "crew_name": "Schwarz Studio",
-            "equipping_title": "slime-X's Apprentice,0",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1991482.75,
-            "last_seen": "Nov 30, 2025, 04:13:21 AM",
+            "hp": 2117356.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1385.159912109375,
+                "y": -16734.51953125,
+                "z": 96277.734375
+            },
+            "last_seen": "Feb 17, 2026, 12:03:41 AM",
             "level": 100,
             "name": "Biriiii",
             "name_history": [
@@ -28581,6 +28590,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 11:59:41 PM",
+    "last_updated": "Feb 17, 2026, 12:03:41 AM",
     "server_region": "southeast-asia"
 }
