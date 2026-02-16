@@ -354,12 +354,21 @@
             "server_region": "europe"
         },
         "55838870025499": {
+            "crew_history": [
+                "Banda"
+            ],
             "crew_id": 2031519544009,
             "crew_name": "Banda",
-            "equipping_title": "1_4_3_26",
+            "equipping_title": "1_8_0_34",
             "gender": 0,
-            "hp": 2751845.25,
-            "last_seen": "Nov 05, 2025, 12:46:03 AM",
+            "hp": 2854887.0,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -19172.490234375,
+                "y": 199822.71875,
+                "z": -16226.439453125
+            },
+            "last_seen": "Feb 16, 2026, 9:52:15 PM",
             "level": 100,
             "name": "Азайя",
             "name_history": [
@@ -9947,11 +9956,26 @@
             "server_region": "europe"
         },
         "55959128967408": {
+            "crew_history": [
+                "40°"
+            ],
             "crew_id": 5699421614797,
             "crew_name": "40°",
+            "equipping_title": "Harla_'s Mentor,0",
             "gender": 0,
-            "last_seen": "Sep 15, 2025, 08:37:11 PM",
+            "hp": 2216376.5,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -18267.8203125,
+                "y": 200050.234375,
+                "z": -18939.169921875
+            },
+            "last_seen": "Feb 16, 2026, 9:52:15 PM",
+            "level": 100,
             "name": "Белочка ♥®",
+            "name_history": [
+                "Белочка ♥®"
+            ],
             "registered": "Aug 16, 2022, 6:42:01 PM",
             "role_id": 55959128967408,
             "server_region": "europe"
@@ -19807,6 +19831,6 @@
         }
     },
     "accounts_total": 1360,
-    "last_updated": "Feb 16, 2026, 9:50:17 PM",
+    "last_updated": "Feb 16, 2026, 9:52:15 PM",
     "server_region": "europe"
 }
