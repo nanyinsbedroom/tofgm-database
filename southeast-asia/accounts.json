@@ -685,15 +685,25 @@
             "server_region": "southeast-asia"
         },
         "68723771782782": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "1_8_0_26",
             "gender": 1,
-            "hp": 2263175.25,
-            "last_seen": "Nov 13, 2025, 08:05:31 PM",
+            "hp": 2475604.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -6871.30859375,
+                "y": 4667.314453125,
+                "z": 26273.9140625
+            },
+            "last_seen": "Feb 16, 2026, 8:34:21 PM",
             "level": 100,
-            "name": "TiaraK",
+            "name": "Tiara_K.",
             "name_history": [
+                "Tiara_K.",
                 "TiaraK"
             ],
             "registered": "Aug 14, 2022, 7:52:42 PM",
@@ -28544,6 +28554,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:33:21 PM",
+    "last_updated": "Feb 16, 2026, 8:34:21 PM",
     "server_region": "southeast-asia"
 }
