@@ -3999,12 +3999,21 @@
             "server_region": "southeast-asia"
         },
         "68736656713915": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 0,
-            "hp": 2626016.0,
-            "last_seen": "Nov 12, 2025, 09:49:41 PM",
+            "hp": 2767460.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -13367.1650390625,
+                "y": 4627.92822265625,
+                "z": 25611.66015625
+            },
+            "last_seen": "Feb 16, 2026, 8:05:20 PM",
             "level": 100,
             "name": "enlesna",
             "name_history": [
@@ -4025,11 +4034,11 @@
             "hp": 1858777.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": 73269.375,
-                "y": 19722.84765625,
-                "z": 12790.6787109375
+                "x": -12632.859375,
+                "y": 2754.043212890625,
+                "z": 25845.388671875
             },
-            "last_seen": "Feb 15, 2026, 8:44:04 PM",
+            "last_seen": "Feb 16, 2026, 8:05:20 PM",
             "level": 100,
             "name": "Petani kecil",
             "name_history": [
@@ -7716,14 +7725,14 @@
             "crew_name": "Luminous",
             "equipping_title": "1_6_1_5",
             "gender": 1,
-            "hp": 2445447.75,
+            "hp": 2437111.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": 75674.6015625,
-                "y": 20048.07421875,
-                "z": 42266.05859375
+                "x": -4434.0498046875,
+                "y": 5622.15673828125,
+                "z": 26687.75390625
             },
-            "last_seen": "Feb 15, 2026, 8:28:03 PM",
+            "last_seen": "Feb 16, 2026, 8:05:20 PM",
             "level": 100,
             "name": "Gaeuuun",
             "name_history": [
@@ -28319,6 +28328,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:04:20 PM",
+    "last_updated": "Feb 16, 2026, 8:05:20 PM",
     "server_region": "southeast-asia"
 }
