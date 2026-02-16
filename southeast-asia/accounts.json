@@ -303,12 +303,21 @@
             "server_region": "southeast-asia"
         },
         "68723771723108": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 2855866.5,
-            "last_seen": "Feb 02, 2026, 04:04:12 AM",
+            "hp": 2868210.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -8287.7158203125,
+                "y": 5268.62841796875,
+                "z": 25623.720703125
+            },
+            "last_seen": "Feb 16, 2026, 8:13:20 PM",
             "level": 100,
             "name": "ProximusRei",
             "name_history": [
@@ -28364,6 +28373,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:10:20 PM",
+    "last_updated": "Feb 16, 2026, 8:13:20 PM",
     "server_region": "southeast-asia"
 }
