@@ -278,12 +278,21 @@
             "server_region": "southeast-asia"
         },
         "68723771721270": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
-            "equipping_title": "xrosa的导师,0",
+            "equipping_title": "xrosa's Mentor,0",
             "gender": 1,
-            "hp": 2610981.75,
-            "last_seen": "Feb 03, 2026, 04:43:03 AM",
+            "hp": 2477058.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -13330.765625,
+                "y": 2292.868408203125,
+                "z": 25651.48046875
+            },
+            "last_seen": "Feb 16, 2026, 8:10:20 PM",
             "level": 100,
             "name": " Han",
             "name_history": [
@@ -28355,6 +28364,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 16, 2026, 8:08:20 PM",
+    "last_updated": "Feb 16, 2026, 8:10:20 PM",
     "server_region": "southeast-asia"
 }
