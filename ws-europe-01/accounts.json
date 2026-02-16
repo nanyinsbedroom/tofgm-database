@@ -7562,26 +7562,29 @@
             "server_region": "ws-europe-01"
         },
         "38174111708484174": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "ColdMike's Mentor,0",
             "gender": 0,
-            "hp": 930353.75,
+            "hp": 879967.4375,
             "last_known_position": {
-                "map": "city",
-                "x": 1307.5999755859375,
-                "y": -28373.359375,
-                "z": 97866.1171875
+                "map": "QRSL_P",
+                "x": -38817.9140625,
+                "y": 76084.390625,
+                "z": -14558.7646484375
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
-            "level": 74,
+            "last_seen": "Feb 16, 2026, 10:01:02 PM",
+            "level": 75,
             "name": "British_chainik",
             "name_history": [
                 "British_chainik"
             ],
             "registered": "Nov 25, 2025, 3:32:53 PM",
             "role_id": 38174111708484174,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708484176": {
             "crew_id": 0,
@@ -18687,15 +18690,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 56015.0,
+            "hp": 78226.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -64638.859375,
-                "y": 85748.546875,
-                "z": -9073.3095703125
+                "x": -58351.52734375,
+                "y": 102032.0859375,
+                "z": -12990.0
             },
-            "last_seen": "Feb 15, 2026, 10:03:17 PM",
-            "level": 14,
+            "last_seen": "Feb 16, 2026, 10:01:02 PM",
+            "level": 30,
             "name": "Dovahkiin",
             "name_history": [
                 "Dovahkiin"
@@ -19099,6 +19102,6 @@
         }
     },
     "accounts_total": 1113,
-    "last_updated": "Feb 16, 2026, 10:00:02 PM",
+    "last_updated": "Feb 16, 2026, 10:01:02 PM",
     "server_region": "ws-europe-01"
 }
