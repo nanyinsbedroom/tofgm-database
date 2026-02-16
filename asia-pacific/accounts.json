@@ -1037,12 +1037,21 @@
             "server_region": "asia-pacific"
         },
         "47248936340543": {
+            "crew_history": [
+                "Bonsai"
+            ],
             "crew_id": 171798702865,
             "crew_name": "Bonsai",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2434526.0,
-            "last_seen": "Nov 01, 2025, 08:00:00 PM",
+            "hp": 6905031.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93760.6171875,
+                "y": -175490.625,
+                "z": -5806.26708984375
+            },
+            "last_seen": "Feb 16, 2026, 9:56:36 PM",
             "level": 100,
             "name": "PhiềnToái",
             "name_history": [
@@ -17437,15 +17446,25 @@
             "server_region": "asia-pacific"
         },
         "47343427012067": {
-            "crew_id": 1859720850197,
-            "crew_name": "Various Colors葬",
-            "equipping_title": "2_2_0_25",
+            "crew_history": [
+                "ねむり森の亭"
+            ],
+            "crew_id": 18945100753679,
+            "crew_name": "ねむり森の亭",
+            "equipping_title": "2_2_0_46",
             "gender": 1,
-            "hp": 2413563.0,
-            "last_seen": "Nov 07, 2025, 07:48:09 PM",
+            "hp": 6305866.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 107777.9765625,
+                "y": -183199.640625,
+                "z": -4637.1796875
+            },
+            "last_seen": "Feb 16, 2026, 9:56:36 PM",
             "level": 100,
-            "name": "SuperAB",
+            "name": "風追いのヘルガ",
             "name_history": [
+                "風追いのヘルガ",
                 "SuperAB"
             ],
             "registered": "Feb 4, 2024, 7:48:30 PM",
@@ -36568,6 +36587,6 @@
         }
     },
     "accounts_total": 2583,
-    "last_updated": "Feb 16, 2026, 9:55:36 PM",
+    "last_updated": "Feb 16, 2026, 9:56:36 PM",
     "server_region": "asia-pacific"
 }
