@@ -58480,13 +58480,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118576803": {
+            "crew_history": [
+                "Library"
+            ],
             "crew_id": 1198304763685,
             "crew_name": "Library",
             "equipping_title": " Rikoris's Mentor,0",
             "gender": 1,
-            "hp": 998938.5,
-            "last_seen": "Feb 8, 2026, 7:45:39 PM",
-            "level": 74,
+            "hp": 1110142.25,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 80800.1015625,
+                "y": -220376.0,
+                "z": 2692.02001953125
+            },
+            "last_seen": "Feb 18, 2026, 1:54:27 AM",
+            "level": 76,
             "name": "KuroyukihimeSOA",
             "name_history": [
                 "KuroyukihimeSOA"
@@ -84864,6 +84873,31 @@
             "role_id": 38174103118608899,
             "server_region": "ws-asia-01"
         },
+        "38174103118608912": {
+            "crew_history": [
+                "Library"
+            ],
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "Rikoris's Apprentice,0",
+            "gender": 1,
+            "hp": 1002913.375,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 82280.296875,
+                "y": -234479.1875,
+                "z": 5252.2900390625
+            },
+            "last_seen": "Feb 18, 2026, 1:54:27 AM",
+            "level": 76,
+            "name": "Kukiko",
+            "name_history": [
+                "Kukiko"
+            ],
+            "registered": "Jan 5, 2026, 4:36:46 AM",
+            "role_id": 38174103118608912,
+            "server_region": "ws-asia-01"
+        },
         "38174103118608956": {
             "crew_id": 68728364837,
             "crew_name": "StarDust Saints",
@@ -85489,13 +85523,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118610446": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "IPhanik的学徒,0",
+            "crew_history": [
+                "Library"
+            ],
+            "crew_id": 1198304763685,
+            "crew_name": "Library",
+            "equipping_title": "IPhanik's Apprentice,0",
             "gender": 1,
-            "hp": 294917.625,
-            "last_seen": "Jan 25, 2026, 01:15:58 PM",
-            "level": 55,
+            "hp": 973451.3125,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 79050.1015625,
+                "y": -209662.796875,
+                "z": 6511.01318359375
+            },
+            "last_seen": "Feb 18, 2026, 1:54:27 AM",
+            "level": 76,
             "name": "Cognitio",
             "name_history": [
                 "Cognitio"
@@ -87399,7 +87442,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5342,
-    "last_updated": "Feb 18, 2026, 1:51:27 AM",
+    "accounts_total": 5343,
+    "last_updated": "Feb 18, 2026, 1:54:27 AM",
     "server_region": "ws-asia-01"
 }
