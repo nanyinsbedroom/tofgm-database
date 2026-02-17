@@ -4276,14 +4276,14 @@
             "crew_name": "Michi Pizzería",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 565576.0625,
+            "hp": 521262.03125,
             "last_known_position": {
                 "map": "QRSL_P",
                 "x": -80773.0,
                 "y": 80392.0,
                 "z": -9753.6201171875
             },
-            "last_seen": "Feb 15, 2026, 4:22:17 PM",
+            "last_seen": "Feb 17, 2026, 3:39:16 AM",
             "level": 73,
             "name": "Gangane",
             "name_history": [
@@ -17205,6 +17205,31 @@
             "role_id": 38174107413541957,
             "server_region": "ws-america-01"
         },
+        "38174107413542038": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74974.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91608.109375,
+                "y": 75862.8828125,
+                "z": -7080.025390625
+            },
+            "last_seen": "Feb 17, 2026, 3:39:16 AM",
+            "level": 23,
+            "name": "Dark_Angel",
+            "name_history": [
+                "Dark_Angel"
+            ],
+            "registered": "Nov 28, 2025, 10:16:54 AM",
+            "role_id": 38174107413542038,
+            "server_region": "ws-america-01"
+        },
         "38174107413542078": {
             "crew_id": 184692481830,
             "crew_name": "Stray",
@@ -24998,6 +25023,29 @@
             "role_id": 38174107413582463,
             "server_region": "ws-america-01"
         },
+        "38174107413582537": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 61899.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90161.65625,
+                "y": 80791.453125,
+                "z": -7009.62548828125
+            },
+            "last_seen": "Feb 17, 2026, 3:39:16 AM",
+            "level": 20,
+            "name": "Wrkxz",
+            "name_history": [
+                "Wrkxz"
+            ],
+            "registered": "Feb 14, 2026, 3:37:30 AM",
+            "role_id": 38174107413582537,
+            "server_region": "ws-america-01"
+        },
         "38174107413582585": {
             "crew_history": [
                 "Dreamlight"
@@ -25044,6 +25092,29 @@
             ],
             "registered": "Feb 14, 2026, 3:19:23 PM",
             "role_id": 38174107413582598,
+            "server_region": "ws-america-01"
+        },
+        "38174107413582608": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 48335.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90760.1796875,
+                "y": 82259.890625,
+                "z": -7065.06982421875
+            },
+            "last_seen": "Feb 17, 2026, 3:39:16 AM",
+            "level": 16,
+            "name": "babyvera",
+            "name_history": [
+                "babyvera"
+            ],
+            "registered": "Feb 14, 2026, 4:35:12 PM",
+            "role_id": 38174107413582608,
             "server_region": "ws-america-01"
         },
         "38174107413582614": {
@@ -25162,7 +25233,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1501,
-    "last_updated": "Feb 17, 2026, 3:37:16 AM",
+    "accounts_total": 1504,
+    "last_updated": "Feb 17, 2026, 3:39:16 AM",
     "server_region": "ws-america-01"
 }
