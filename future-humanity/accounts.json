@@ -2260,6 +2260,31 @@
             "role_id": 60563335359674,
             "server_region": "future-humanity"
         },
+        "60563335361702": {
+            "crew_history": [
+                "暮夜寻月茶会"
+            ],
+            "crew_id": 11407433152277,
+            "crew_name": "暮夜寻月茶会",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 626798.875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1434.9000244140625,
+                "y": 44692.8984375,
+                "z": 5712.11962890625
+            },
+            "last_seen": "2026年2月17日 下午8:38:26",
+            "level": 60,
+            "name": "琅琊令",
+            "name_history": [
+                "琅琊令"
+            ],
+            "registered": "2024年6月28日 上午10:52:36",
+            "role_id": 60563335361702,
+            "server_region": "future-humanity"
+        },
         "60563335364250": {
             "crew_id": 13490492290837,
             "crew_name": "NPC",
@@ -7807,12 +7832,12 @@
             "gender": 1,
             "hp": 1205200.125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -56363.66796875,
-                "y": -82709.6484375,
-                "z": 22322.189453125
+                "map": "Vera_city",
+                "x": 2544.395751953125,
+                "y": 49790.6015625,
+                "z": 5724.9599609375
             },
-            "last_seen": "2026年2月17日 下午8:22:24",
+            "last_seen": "2026年2月17日 下午8:38:26",
             "level": 100,
             "name": "Arg【O】t_",
             "name_history": [
@@ -8144,7 +8169,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 484,
-    "last_updated": "2026年2月17日 下午8:37:26",
+    "accounts_total": 485,
+    "last_updated": "2026年2月17日 下午8:38:26",
     "server_region": "future-humanity"
 }
