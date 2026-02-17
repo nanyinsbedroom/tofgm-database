@@ -59186,13 +59186,20 @@
             "server_region": "cosmic-fold"
         },
         "63582695992354": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 23794.0,
-            "last_seen": "2026年02月01日 上午 7:11:35",
-            "level": 9,
+            "hp": 21874.802734375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55279.26953125,
+                "y": -87070.078125,
+                "z": 21725.548828125
+            },
+            "last_seen": "2026年2月17日 下午10:05:36",
+            "level": 15,
             "name": "有李说不清",
             "name_history": [
                 "有李说不清"
@@ -66506,6 +66513,6 @@
         }
     },
     "accounts_total": 4891,
-    "last_updated": "2026年2月17日 下午10:04:35",
+    "last_updated": "2026年2月17日 下午10:05:36",
     "server_region": "cosmic-fold"
 }
