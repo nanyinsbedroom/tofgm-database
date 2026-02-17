@@ -5629,13 +5629,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695852546": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1202312.75,
-            "last_seen": "2026年2月9日 下午7:56:13",
-            "level": 81,
+            "hp": 1237373.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1240.0499267578125,
+                "y": -28278.228515625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月18日 上午12:36:23",
+            "level": 82,
             "name": "洛斯琳",
             "name_history": [
                 "洛斯琳"
@@ -12048,11 +12057,11 @@
             "hp": 1497564.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1048.9599609375,
-                "y": -28204.259765625,
+                "x": 1228.8299560546875,
+                "y": -28349.298828125,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月17日 上午1:44:42",
+            "last_seen": "2026年2月18日 上午12:36:23",
             "level": 83,
             "name": "离火喵",
             "name_history": [
@@ -13463,13 +13472,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695858101": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1377280.375,
-            "last_seen": "2026年02月04日 上午 6:04:01",
-            "level": 81,
+            "hp": 1488500.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -6693.58984375,
+                "y": -29940.8984375,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月18日 上午12:36:23",
+            "level": 83,
             "name": "布隆",
             "name_history": [
                 "布隆"
@@ -29013,13 +29031,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695872661": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "1_9_0_3",
+            "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1429904.0,
-            "last_seen": "2026年2月7日 下午4:48:37",
-            "level": 82,
+            "hp": 1444475.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 131.0,
+                "y": -22066.298828125,
+                "z": 96737.859375
+            },
+            "last_seen": "2026年2月18日 上午12:36:23",
+            "level": 83,
             "name": "洛月儿",
             "name_history": [
                 "洛月儿"
@@ -33059,6 +33086,31 @@
             ],
             "registered": "2025年9月28日 上午1:05:22",
             "role_id": 63582695882095,
+            "server_region": "cosmic-fold"
+        },
+        "63582695882197": {
+            "crew_history": [
+                "耳狸窝"
+            ],
+            "crew_id": 137438968276,
+            "crew_name": "耳狸窝",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 793215.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1064.919921875,
+                "y": -28354.689453125,
+                "z": 97881.1171875
+            },
+            "last_seen": "2026年2月18日 上午12:36:23",
+            "level": 73,
+            "name": "代赭石重逆凉",
+            "name_history": [
+                "代赭石重逆凉"
+            ],
+            "registered": "2025年9月28日 上午1:37:51",
+            "role_id": 63582695882197,
             "server_region": "cosmic-fold"
         },
         "63582695882207": {
@@ -49711,13 +49763,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695936698": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "2_8_0_7",
             "gender": 1,
-            "hp": 743027.75,
-            "last_seen": "2025年12月29日 上午 6:43:21",
-            "level": 75,
+            "hp": 948898.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1405.489990234375,
+                "y": -28327.71875,
+                "z": 97872.1171875
+            },
+            "last_seen": "2026年2月18日 上午12:36:23",
+            "level": 81,
             "name": "玉兰兰",
             "name_history": [
                 "玉兰兰"
@@ -67027,7 +67088,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4907,
-    "last_updated": "2026年2月18日 上午12:30:22",
+    "accounts_total": 4908,
+    "last_updated": "2026年2月18日 上午12:36:23",
     "server_region": "cosmic-fold"
 }
