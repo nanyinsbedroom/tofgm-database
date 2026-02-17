@@ -27748,13 +27748,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695871375": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "依旧爱你。的导师,0",
             "gender": 1,
-            "hp": 1248865.5,
-            "last_seen": "2026年2月10日 下午10:32:10",
-            "level": 82,
+            "hp": 1293661.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -510.8499755859375,
+                "y": -28172.048828125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:52:35",
+            "level": 83,
             "name": "真得控制你",
             "name_history": [
                 "真得控制你"
@@ -33481,6 +33490,31 @@
             "name": "雨落无痕",
             "registered": "2025年9月28日 下午3:13:21",
             "role_id": 63582695884140,
+            "server_region": "cosmic-fold"
+        },
+        "63582695884178": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1230089.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2286.907958984375,
+                "y": -27036.310546875,
+                "z": 97872.609375
+            },
+            "last_seen": "2026年2月17日 下午9:52:35",
+            "level": 82,
+            "name": "脉冲领域",
+            "name_history": [
+                "脉冲领域"
+            ],
+            "registered": "2025年9月28日 下午3:23:58",
+            "role_id": 63582695884178,
             "server_region": "cosmic-fold"
         },
         "63582695884207": {
@@ -52900,13 +52934,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695958509": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "巧君的学徒,0",
             "gender": 1,
-            "hp": 748749.1875,
-            "last_seen": "2025年12月29日 上午 6:43:21",
-            "level": 74,
+            "hp": 943821.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1534.7999267578125,
+                "y": -29503.3984375,
+                "z": 97943.4140625
+            },
+            "last_seen": "2026年2月17日 下午9:52:35",
+            "level": 77,
             "name": "爱意留给风铃",
             "name_history": [
                 "爱意留给风铃"
@@ -53319,13 +53362,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695960565": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 745588.8125,
-            "last_seen": "2026年2月9日 上午1:56:01",
-            "level": 77,
+            "hp": 761257.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1801.5999755859375,
+                "y": -28688.19921875,
+                "z": 97868.6796875
+            },
+            "last_seen": "2026年2月17日 下午9:52:35",
+            "level": 80,
             "name": "高利代",
             "name_history": [
                 "高利代"
@@ -65367,13 +65419,20 @@
             "server_region": "cosmic-fold"
         },
         "63582696007092": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8928.0,
-            "last_seen": "2026年2月10日 下午10:37:09",
-            "level": 2,
+            "hp": 42948.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2724.699951171875,
+                "y": -28157.0,
+                "z": 97981.1953125
+            },
+            "last_seen": "2026年2月17日 下午9:52:35",
+            "level": 13,
             "name": "月河",
             "name_history": [
                 "月河"
@@ -65982,7 +66041,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4873,
-    "last_updated": "2026年2月17日 下午9:51:35",
+    "accounts_total": 4874,
+    "last_updated": "2026年2月17日 下午9:52:35",
     "server_region": "cosmic-fold"
 }
