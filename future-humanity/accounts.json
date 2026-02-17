@@ -2183,14 +2183,14 @@
             "crew_name": "",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 2563719.75,
+            "hp": 1682739.25,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324696.75,
-                "y": 204404.90625,
-                "z": -28325.455078125
+                "map": "QRSL_P",
+                "x": -19350.458984375,
+                "y": 4556.5,
+                "z": 26983.779296875
             },
-            "last_seen": "2026年2月14日 下午7:19:07",
+            "last_seen": "2026年2月17日 下午8:26:24",
             "level": 100,
             "name": "亩产一亿八",
             "name_history": [
@@ -2983,6 +2983,31 @@
             "role_id": 60563335588459,
             "server_region": "future-humanity"
         },
+        "60563335591642": {
+            "crew_history": [
+                "北极熊基地"
+            ],
+            "crew_id": 8783208134421,
+            "crew_name": "北极熊基地",
+            "equipping_title": "2_10_1_5",
+            "gender": 1,
+            "hp": 1744647.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -10155.685546875,
+                "y": -1960.69140625,
+                "z": 26012.279296875
+            },
+            "last_seen": "2026年2月17日 下午8:26:24",
+            "level": 100,
+            "name": "远田音",
+            "name_history": [
+                "远田音"
+            ],
+            "registered": "2024年11月2日 下午12:26:29",
+            "role_id": 60563335591642,
+            "server_region": "future-humanity"
+        },
         "60563335592193": {
             "crew_id": 137438967573,
             "crew_name": "魅魔",
@@ -3516,6 +3541,31 @@
             "name": "古莉今",
             "registered": "2025年1月2日 下午1:33:25",
             "role_id": 60563335692655,
+            "server_region": "future-humanity"
+        },
+        "60563335701910": {
+            "crew_history": [
+                "没有茶的茶会"
+            ],
+            "crew_id": 9929964402453,
+            "crew_name": "没有茶的茶会",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 923536.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.203125,
+                "y": 75610.015625,
+                "z": -8616.4091796875
+            },
+            "last_seen": "2026年2月17日 下午8:26:24",
+            "level": 100,
+            "name": "繁荣让781去",
+            "name_history": [
+                "繁荣让781去"
+            ],
+            "registered": "2025年1月7日 上午10:55:37",
+            "role_id": 60563335701910,
             "server_region": "future-humanity"
         },
         "60563335702045": {
@@ -7812,7 +7862,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 471,
-    "last_updated": "2026年2月17日 下午8:25:24",
+    "accounts_total": 473,
+    "last_updated": "2026年2月17日 下午8:26:24",
     "server_region": "future-humanity"
 }
