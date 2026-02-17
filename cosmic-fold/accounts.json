@@ -763,13 +763,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850230": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1506216.5,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 82,
+            "hp": 1542566.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1982.714111328125,
+                "y": -22073.654296875,
+                "z": 96981.4921875
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 83,
             "name": "再也不跃了",
             "name_history": [
                 "再也不跃了"
@@ -4689,16 +4698,16 @@
             ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 1497727.5,
+            "hp": 1500773.375,
             "last_known_position": {
                 "map": "city",
-                "x": 867.1300048828125,
-                "y": -23030.439453125,
-                "z": 96709.40625
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月14日 下午9:52:56",
+            "last_seen": "2026年2月17日 下午9:32:34",
             "level": 83,
             "name": "霧雨萌音",
             "name_history": [
@@ -8573,13 +8582,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695854397": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_29",
             "gender": 1,
-            "hp": 1449229.125,
-            "last_seen": "2026年2月8日 下午10:12:03",
-            "level": 82,
+            "hp": 1516447.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1529.8299560546875,
+                "y": -27845.689453125,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 83,
             "name": "偶阵雨",
             "name_history": [
                 "偶阵雨"
@@ -27452,13 +27470,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695871280": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_7_0_17",
             "gender": 1,
-            "hp": 1463351.75,
-            "last_seen": "2026年2月8日 下午8:25:28",
-            "level": 82,
+            "hp": 1523798.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1698.1199951171875,
+                "y": -28211.099609375,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 83,
             "name": "小鲨鱼",
             "name_history": [
                 "小鲨鱼"
@@ -45483,6 +45510,31 @@
             "role_id": 63582695926419,
             "server_region": "cosmic-fold"
         },
+        "63582695926445": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "2_10_1_12_1_1",
+            "gender": 1,
+            "hp": 869166.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97868.875
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 83,
+            "name": "康神开播了",
+            "name_history": [
+                "康神开播了"
+            ],
+            "registered": "2025年10月13日 上午10:24:45",
+            "role_id": 63582695926445,
+            "server_region": "cosmic-fold"
+        },
         "63582695926520": {
             "crew_id": 562640730580,
             "crew_name": "莫塔里",
@@ -55470,13 +55522,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695968719": {
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
-            "equipping_title": "4_2025",
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_10_1_9_1_1",
             "gender": 1,
-            "hp": 944585.125,
-            "last_seen": "2026年02月01日 上午 6:42:57",
-            "level": 80,
+            "hp": 1063852.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 82,
             "name": "叫我帅哥就好了",
             "name_history": [
                 "叫我帅哥就好了"
@@ -65441,9 +65502,32 @@
             "registered": "2026年2月17日 上午2:32:18",
             "role_id": 63582696008032,
             "server_region": "cosmic-fold"
+        },
+        "63582696008077": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42733.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2193.949951171875,
+                "y": -28106.51953125,
+                "z": 97959.78125
+            },
+            "last_seen": "2026年2月17日 下午9:32:34",
+            "level": 13,
+            "name": "墨白宁",
+            "name_history": [
+                "墨白宁"
+            ],
+            "registered": "2026年2月17日 下午2:03:13",
+            "role_id": 63582696008077,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4859,
-    "last_updated": "2026年2月17日 下午9:30:34",
+    "accounts_total": 4861,
+    "last_updated": "2026年2月17日 下午9:32:34",
     "server_region": "cosmic-fold"
 }
