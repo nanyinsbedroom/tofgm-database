@@ -14774,15 +14774,15 @@
             "crew_name": "魔女之旅",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1178968.75,
+            "hp": 1185522.375,
             "last_known_position": {
                 "map": "city",
-                "x": -1999.0399169921875,
-                "y": -24541.3203125,
-                "z": 97868.7265625
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97869.1171875
             },
-            "last_seen": "2026年2月14日 下午9:47:56",
-            "level": 80,
+            "last_seen": "2026年2月17日 下午9:39:34",
+            "level": 81,
             "name": "哈哈你爹来咯",
             "name_history": [
                 "哈哈你爹来咯"
@@ -23016,14 +23016,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 1511671.125,
+            "hp": 1528336.5,
             "last_known_position": {
                 "map": "city",
-                "x": 2577.9599609375,
-                "y": -25736.859375,
-                "z": 98621.5703125
+                "x": 1439.5799560546875,
+                "y": -27601.33984375,
+                "z": 97879.1171875
             },
-            "last_seen": "2026年2月14日 下午8:39:56",
+            "last_seen": "2026年2月17日 下午9:39:34",
             "level": 83,
             "name": "月惜之殇",
             "name_history": [
@@ -48901,6 +48901,31 @@
             "role_id": 63582695934257,
             "server_region": "cosmic-fold"
         },
+        "63582695934343": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 640507.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97875.875
+            },
+            "last_seen": "2026年2月17日 下午9:39:34",
+            "level": 82,
+            "name": "嘿嘿铃",
+            "name_history": [
+                "嘿嘿铃"
+            ],
+            "registered": "2025年10月18日 下午10:19:28",
+            "role_id": 63582695934343,
+            "server_region": "cosmic-fold"
+        },
         "63582695934344": {
             "crew_history": [
                 "樱花庄"
@@ -65689,7 +65714,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4865,
-    "last_updated": "2026年2月17日 下午9:33:34",
+    "accounts_total": 4866,
+    "last_updated": "2026年2月17日 下午9:39:34",
     "server_region": "cosmic-fold"
 }
