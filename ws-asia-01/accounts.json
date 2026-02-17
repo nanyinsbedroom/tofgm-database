@@ -4916,13 +4916,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545627": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
             "crew_id": 841822478117,
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 2566127.0,
-            "last_seen": "Feb 8, 2026, 7:22:24 PM",
-            "level": 74,
+            "hp": 482305.78125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73372.609375,
+                "y": 49016.98046875,
+                "z": -12308.7900390625
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 76,
             "name": "えみゅwp",
             "name_history": [
                 "えみゅwp"
@@ -12247,13 +12256,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118548386": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 513067.875,
-            "last_seen": "Dec 22, 2025, 12:38:35 AM",
-            "level": 62,
+            "hp": 620264.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73405.6484375,
+                "y": 48942.7578125,
+                "z": -12300.1201171875
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 76,
             "name": "Gunnhildr",
             "name_history": [
                 "Gunnhildr"
@@ -30223,13 +30241,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118558297": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "None",
+            "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 177517.59375,
-            "last_seen": "Dec 01, 2025, 03:39:10 AM",
-            "level": 44,
+            "hp": 453670.53125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73361.9296875,
+                "y": 49009.390625,
+                "z": -12303.3193359375
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 76,
             "name": "achen",
             "name_history": [
                 "achen"
@@ -75484,13 +75511,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118591990": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 921391.4375,
-            "last_seen": "Feb 13, 2026, 3:36:23 AM",
-            "level": 75,
+            "hp": 1005154.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74097.21875,
+                "y": 52765.296875,
+                "z": -11292.599609375
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 76,
             "name": "bahora",
             "name_history": [
                 "bahora"
@@ -83847,13 +83883,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118606290": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 544244.125,
-            "last_seen": "Feb 6, 2026, 6:28:57 PM",
-            "level": 71,
+            "hp": 322841.21875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73369.9921875,
+                "y": 48930.55078125,
+                "z": -12299.3095703125
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 75,
             "name": "CHlSA",
             "name_history": [
                 "CHlSA"
@@ -85211,6 +85254,31 @@
             ],
             "registered": "Jan 15, 2026, 2:29:28 PM",
             "role_id": 38174103118610287,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118610310": {
+            "crew_history": [
+                "こなもん"
+            ],
+            "crew_id": 270591827749,
+            "crew_name": "こなもん",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 326720.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80258.96875,
+                "y": 45718.48828125,
+                "z": -12200.609375
+            },
+            "last_seen": "Feb 18, 2026, 1:44:26 AM",
+            "level": 73,
+            "name": "いるにゃん",
+            "name_history": [
+                "いるにゃん"
+            ],
+            "registered": "Jan 15, 2026, 7:29:56 PM",
+            "role_id": 38174103118610310,
             "server_region": "ws-asia-01"
         },
         "38174103118610348": {
@@ -87094,7 +87162,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5337,
-    "last_updated": "Feb 18, 2026, 1:43:26 AM",
+    "accounts_total": 5338,
+    "last_updated": "Feb 18, 2026, 1:44:26 AM",
     "server_region": "ws-asia-01"
 }
