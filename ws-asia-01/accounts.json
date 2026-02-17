@@ -21180,13 +21180,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555357": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_1_3_1",
             "gender": 0,
-            "hp": 576494.375,
-            "last_seen": "Jan 20, 2026, 08:33:26 AM",
-            "level": 70,
+            "hp": 630888.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -65035.0,
+                "y": 105554.1953125,
+                "z": -7193.08984375
+            },
+            "last_seen": "Feb 18, 2026, 1:43:26 AM",
+            "level": 73,
             "name": "おむっちょ",
             "name_history": [
                 "おむっちょ"
@@ -23893,15 +23900,15 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 991636.3125,
+            "hp": 516719.40625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -45973.44921875,
-                "y": 96752.296875,
-                "z": -11133.58984375
+                "x": -55113.6875,
+                "y": 98902.4765625,
+                "z": -12516.01953125
             },
-            "last_seen": "Feb 15, 2026, 8:31:58 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 1:43:26 AM",
+            "level": 76,
             "name": "Sorahane",
             "name_history": [
                 "Sorahane"
@@ -65260,17 +65267,26 @@
             "server_region": "ws-asia-01"
         },
         "38174103118582228": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 514763.375,
-            "last_seen": "Feb 11, 2026, 9:42:43 PM",
-            "level": 72,
+            "hp": 515627.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55362.09765625,
+                "y": 86084.1015625,
+                "z": -10841.75
+            },
+            "last_seen": "Feb 18, 2026, 1:43:26 AM",
+            "level": 73,
             "name": "高嶺朱里",
             "name_history": [
-                "Z131",
-                "高嶺朱里"
+                "高嶺朱里",
+                "Z131"
             ],
             "registered": "Nov 29, 2025, 2:54:54 AM",
             "role_id": 38174103118582228,
@@ -87079,6 +87095,6 @@
         }
     },
     "accounts_total": 5337,
-    "last_updated": "Feb 15, 2026, 10:20:53 PM",
+    "last_updated": "Feb 18, 2026, 1:43:26 AM",
     "server_region": "ws-asia-01"
 }
