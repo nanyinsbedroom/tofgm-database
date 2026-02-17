@@ -432,17 +432,26 @@
             "server_region": "time-travel"
         },
         "63574105917394": {
+            "crew_history": [
+                "EVA"
+            ],
             "crew_id": 55834589650,
             "crew_name": "EVA",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "别回眸的导师,0",
             "gender": 1,
-            "hp": 1524738.5,
-            "last_seen": "2026年2月6日 上午2:17:58",
-            "level": 82,
+            "hp": 1611744.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 987.1699829101563,
+                "y": -27926.798828125,
+                "z": 97882.6953125
+            },
+            "last_seen": "2026年2月17日 下午9:00:32",
+            "level": 83,
             "name": ".山城恋.",
             "name_history": [
-                "丨出云天花丨",
-                ".山城恋."
+                ".山城恋.",
+                "丨出云天花丨"
             ],
             "registered": "2023年12月14日 上午10:01:33",
             "role_id": 63574105917394,
@@ -9633,6 +9642,6 @@
         }
     },
     "accounts_total": 626,
-    "last_updated": "2026年2月17日 下午8:59:32",
+    "last_updated": "2026年2月17日 下午9:00:32",
     "server_region": "time-travel"
 }
