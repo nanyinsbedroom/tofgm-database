@@ -15777,13 +15777,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695859362": {
+            "crew_history": [
+                "紫微星垣"
+            ],
             "crew_id": 4294982100,
             "crew_name": "紫微星垣",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1442970.0,
-            "last_seen": "2026年2月10日 下午10:30:08",
-            "level": 82,
+            "hp": 1319609.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月17日 下午9:49:35",
+            "level": 83,
             "name": "画笔断墨",
             "name_history": [
                 "画笔断墨"
@@ -35385,13 +35394,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695890380": {
+            "crew_history": [
+                "白月破晓"
+            ],
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 649401.1875,
-            "last_seen": "2026年01月20日 下午 11:47:47",
-            "level": 78,
+            "hp": 742448.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1689.699951171875,
+                "y": -28777.69921875,
+                "z": 97872.1796875
+            },
+            "last_seen": "2026年2月17日 下午9:49:35",
+            "level": 80,
             "name": "我来掌勺",
             "name_history": [
                 "我来掌勺"
@@ -50868,13 +50886,20 @@
             "server_region": "cosmic-fold"
         },
         "63582695944552": {
-            "crew_id": 64424524244,
-            "crew_name": "烧鸡",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 209406.203125,
-            "last_seen": "2025年12月21日 上午 4:34:51",
-            "level": 72,
+            "hp": 263350.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1806.5399169921875,
+                "y": -24488.900390625,
+                "z": 97872.328125
+            },
+            "last_seen": "2026年2月17日 下午9:49:35",
+            "level": 78,
             "name": "dddaaasd",
             "name_history": [
                 "dddaaasd"
@@ -51010,6 +51035,31 @@
             ],
             "registered": "2025年10月27日 下午7:03:30",
             "role_id": 63582695944841,
+            "server_region": "cosmic-fold"
+        },
+        "63582695945203": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 746737.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1754.5,
+                "y": -28703.798828125,
+                "z": 97875.6953125
+            },
+            "last_seen": "2026年2月17日 下午9:49:35",
+            "level": 78,
+            "name": "红米k90",
+            "name_history": [
+                "红米k90"
+            ],
+            "registered": "2025年10月28日 上午1:09:41",
+            "role_id": 63582695945203,
             "server_region": "cosmic-fold"
         },
         "63582695945206": {
@@ -56792,6 +56842,31 @@
             ],
             "registered": "2025年12月14日 下午1:44:39",
             "role_id": 63582695978655,
+            "server_region": "cosmic-fold"
+        },
+        "63582695979039": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 362962.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1112.6400146484375,
+                "y": -28451.759765625,
+                "z": 97881.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:49:35",
+            "level": 75,
+            "name": "夢ノ桜",
+            "name_history": [
+                "夢ノ桜"
+            ],
+            "registered": "2025年12月14日 下午7:39:31",
+            "role_id": 63582695979039,
             "server_region": "cosmic-fold"
         },
         "63582695979043": {
@@ -65898,7 +65973,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4871,
-    "last_updated": "2026年2月17日 下午9:47:35",
+    "accounts_total": 4873,
+    "last_updated": "2026年2月17日 下午9:49:35",
     "server_region": "cosmic-fold"
 }
