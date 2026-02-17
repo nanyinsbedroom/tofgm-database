@@ -6037,6 +6037,31 @@
             "role_id": 60563335989787,
             "server_region": "future-humanity"
         },
+        "60563335990001": {
+            "crew_history": [
+                "无聊小屋"
+            ],
+            "crew_id": 4909147633429,
+            "crew_name": "无聊小屋",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 994256.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -2376.68994140625,
+                "y": -26217.6484375,
+                "z": 96740.875
+            },
+            "last_seen": "2026年2月17日 下午8:56:32",
+            "level": 81,
+            "name": "难吃的茶",
+            "name_history": [
+                "难吃的茶"
+            ],
+            "registered": "2026年1月18日 下午3:53:19",
+            "role_id": 60563335990001,
+            "server_region": "future-humanity"
+        },
         "60563335993142": {
             "crew_id": 0,
             "crew_name": "",
@@ -7049,12 +7074,21 @@
             "server_region": "future-humanity"
         },
         "60606283596941": {
+            "crew_history": [
+                "妖精仓库"
+            ],
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 1933983.875,
-            "last_seen": "2026年01月29日 上午 12:57:30",
+            "hp": 1878482.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 152.80999755859375,
+                "y": -18192.708984375,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月17日 下午8:56:32",
             "level": 100,
             "name": "鱼椒没有盐",
             "name_history": [
@@ -8698,7 +8732,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 503,
-    "last_updated": "2026年2月17日 下午8:55:32",
+    "accounts_total": 504,
+    "last_updated": "2026年2月17日 下午8:56:32",
     "server_region": "future-humanity"
 }
