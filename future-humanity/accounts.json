@@ -702,12 +702,21 @@
             "server_region": "future-humanity"
         },
         "60563334224244": {
+            "crew_history": [
+                "可爱"
+            ],
             "crew_id": 300647724821,
             "crew_name": "可爱",
             "equipping_title": "2_2_0_79",
             "gender": 1,
-            "hp": 2038034.625,
-            "last_seen": "2026年02月01日 上午 12:26:26",
+            "hp": 2044785.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 420.97998046875,
+                "y": -18166.9296875,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月17日 下午8:41:26",
             "level": 100,
             "name": "绵菓子",
             "name_history": [
@@ -834,14 +843,14 @@
             "crew_name": "梦之彼岸",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2286895.25,
+            "hp": 2288774.0,
             "last_known_position": {
                 "map": "city",
-                "x": 24.0,
-                "y": -18192.0,
+                "x": -3.359999895095825,
+                "y": -18095.400390625,
                 "z": 96329.53125
             },
-            "last_seen": "2026年2月15日 下午10:35:09",
+            "last_seen": "2026年2月17日 下午8:41:26",
             "level": 100,
             "name": "梓℡",
             "name_history": [
@@ -1226,6 +1235,31 @@
             ],
             "registered": "2024年2月10日 上午2:30:28",
             "role_id": 60563335141806,
+            "server_region": "future-humanity"
+        },
+        "60563335151261": {
+            "crew_history": [
+                "梦幻"
+            ],
+            "crew_id": 9401683425045,
+            "crew_name": "梦幻",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2453105.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -2.200000047683716,
+                "y": -18902.099609375,
+                "z": 96337.5390625
+            },
+            "last_seen": "2026年2月17日 下午8:41:26",
+            "level": 100,
+            "name": "烧烧烧",
+            "name_history": [
+                "烧烧烧"
+            ],
+            "registered": "2024年2月22日 下午8:34:34",
+            "role_id": 60563335151261,
             "server_region": "future-humanity"
         },
         "60563335169274": {
@@ -7704,11 +7738,26 @@
             "server_region": "future-humanity"
         },
         "62285617043156": {
+            "crew_history": [
+                "可爱"
+            ],
             "crew_id": 300647724821,
             "crew_name": "可爱",
+            "equipping_title": "七拳开海希希儿的学徒,0",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 11:20:11",
+            "hp": 1550368.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 353.8800048828125,
+                "y": -18161.46875,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月17日 下午8:41:26",
+            "level": 100,
             "name": "夜刀神天灾",
+            "name_history": [
+                "夜刀神天灾"
+            ],
             "registered": "2024年4月22日 下午3:37:03",
             "role_id": 62285617043156,
             "server_region": "future-humanity"
@@ -7727,6 +7776,31 @@
             ],
             "registered": "2021年12月16日 下午10:58:15",
             "role_id": 62289910725186,
+            "server_region": "future-humanity"
+        },
+        "62302795608609": {
+            "crew_history": [
+                "迈得快"
+            ],
+            "crew_id": 18670222849813,
+            "crew_name": "迈得快",
+            "equipping_title": "四月一曰莉莉丝的学徒,0",
+            "gender": 1,
+            "hp": 1514299.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 77.80999755859375,
+                "y": -18086.830078125,
+                "z": 96329.5390625
+            },
+            "last_seen": "2026年2月17日 下午8:41:26",
+            "level": 100,
+            "name": "暮紫木梓",
+            "name_history": [
+                "暮紫木梓"
+            ],
+            "registered": "2021年12月16日 上午9:42:47",
+            "role_id": 62302795608609,
             "server_region": "future-humanity"
         },
         "62307090564375": {
@@ -8217,7 +8291,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 487,
-    "last_updated": "2026年2月17日 下午8:40:26",
+    "accounts_total": 489,
+    "last_updated": "2026年2月17日 下午8:41:26",
     "server_region": "future-humanity"
 }
