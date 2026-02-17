@@ -4017,13 +4017,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851751": {
-            "crew_id": 25769818580,
-            "crew_name": "暖暖会",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1279292.625,
-            "last_seen": "2026年01月26日 上午 4:00:52",
-            "level": 80,
+            "hp": 1445203.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 20.059999465942383,
+                "y": -16835.8203125,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年2月17日 下午10:09:36",
+            "level": 83,
             "name": "珂朵莉GO",
             "name_history": [
                 "珂朵莉GO"
@@ -10916,13 +10925,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695856412": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "2_10_0_4",
             "gender": 1,
-            "hp": 1237390.625,
-            "last_seen": "2026年01月28日 上午 5:39:24",
-            "level": 80,
+            "hp": 1445859.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1900.1400146484375,
+                "y": -24282.26953125,
+                "z": 97872.1015625
+            },
+            "last_seen": "2026年2月17日 下午10:09:36",
+            "level": 83,
             "name": "抹茶酥",
             "name_history": [
                 "抹茶酥"
@@ -60025,6 +60043,29 @@
             "role_id": 63582695994663,
             "server_region": "cosmic-fold"
         },
+        "63582695994733": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 122523.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74841.2578125,
+                "y": 83760.3515625,
+                "z": -10516.259765625
+            },
+            "last_seen": "2026年2月17日 下午10:09:36",
+            "level": 52,
+            "name": "列艾斯",
+            "name_history": [
+                "列艾斯"
+            ],
+            "registered": "2026年1月24日 下午12:40:14",
+            "role_id": 63582695994733,
+            "server_region": "cosmic-fold"
+        },
         "63582695994774": {
             "crew_id": 0,
             "crew_name": "",
@@ -66568,7 +66609,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4893,
-    "last_updated": "2026年2月17日 下午10:08:36",
+    "accounts_total": 4894,
+    "last_updated": "2026年2月17日 下午10:09:36",
     "server_region": "cosmic-fold"
 }
