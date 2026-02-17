@@ -18671,13 +18671,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695861487": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1159634.0,
-            "last_seen": "2026年2月10日 下午10:35:11",
-            "level": 82,
+            "hp": 1433370.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97880.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:41:34",
+            "level": 83,
             "name": "Cossette",
             "name_history": [
                 "Cossette"
@@ -48810,13 +48819,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695933875": {
+            "crew_history": [
+                "抵达深空"
+            ],
             "crew_id": 820338768340,
             "crew_name": "抵达深空",
             "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 1383417.0,
-            "last_seen": "2026年2月9日 下午7:38:27",
-            "level": 82,
+            "hp": 1436341.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97861.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:41:34",
+            "level": 83,
             "name": "钰袖",
             "name_history": [
                 "钰袖"
@@ -64794,6 +64812,31 @@
             "role_id": 63582696006231,
             "server_region": "cosmic-fold"
         },
+        "63582696006263": {
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 120605.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -126.62999725341797,
+                "y": -24611.619140625,
+                "z": 96720.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:41:34",
+            "level": 70,
+            "name": "snowing",
+            "name_history": [
+                "snowing"
+            ],
+            "registered": "2026年2月9日 下午7:55:01",
+            "role_id": 63582696006263,
+            "server_region": "cosmic-fold"
+        },
         "63582696006325": {
             "crew_id": 0,
             "crew_name": "",
@@ -65714,7 +65757,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4866,
-    "last_updated": "2026年2月17日 下午9:39:34",
+    "accounts_total": 4867,
+    "last_updated": "2026年2月17日 下午9:41:34",
     "server_region": "cosmic-fold"
 }
