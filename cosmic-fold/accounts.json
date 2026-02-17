@@ -45684,13 +45684,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695926036": {
-            "crew_id": 433791711700,
-            "crew_name": "白月破晓",
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
             "equipping_title": "这货不是瑾小落的学徒,0",
             "gender": 1,
-            "hp": 1126241.125,
-            "last_seen": "2026年01月28日 上午 6:13:21",
-            "level": 78,
+            "hp": 1269912.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34205.69921875,
+                "y": 7944.599609375,
+                "z": -13795.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:28:22",
+            "level": 82,
             "name": "这货才是瑾小落",
             "name_history": [
                 "这货才是瑾小落"
@@ -66935,6 +66944,6 @@
         }
     },
     "accounts_total": 4904,
-    "last_updated": "2026年2月18日 上午12:20:22",
+    "last_updated": "2026年2月18日 上午12:28:22",
     "server_region": "cosmic-fold"
 }
