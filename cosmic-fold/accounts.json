@@ -5912,14 +5912,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "策划老冯暗杀者的导师,0",
             "gender": 0,
-            "hp": 1489150.0,
+            "hp": 1517412.375,
             "last_known_position": {
                 "map": "city",
-                "x": -1797.179931640625,
-                "y": -28838.01953125,
-                "z": 99482.78125
+                "x": 1125.179931640625,
+                "y": -27898.208984375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月14日 下午9:51:56",
+            "last_seen": "2026年2月17日 下午10:10:10",
             "level": 83,
             "name": "王熙傲",
             "name_history": [
@@ -17105,14 +17105,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1141078.0,
+            "hp": 1518645.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1405.9688720703125,
-                "y": -27911.45703125,
-                "z": 97878.609375
+                "x": 1558.5899658203125,
+                "y": -28068.009765625,
+                "z": 97874.1171875
             },
-            "last_seen": "2026年2月17日 上午1:48:32",
+            "last_seen": "2026年2月17日 下午10:10:10",
             "level": 83,
             "name": "曼波小公主吖",
             "name_history": [
@@ -18686,14 +18686,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1514297.625,
+            "hp": 1514796.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1430.8399658203125,
-                "y": -27957.51953125,
-                "z": 96730.875
+                "x": 2051.909912109375,
+                "y": -27214.8203125,
+                "z": 97984.4765625
             },
-            "last_seen": "2026年2月17日 上午1:43:42",
+            "last_seen": "2026年2月17日 下午10:10:10",
             "level": 83,
             "name": "珂赛特",
             "name_history": [
@@ -44321,6 +44321,31 @@
             "role_id": 63582695922389,
             "server_region": "cosmic-fold"
         },
+        "63582695922394": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "1_9_0_2",
+            "gender": 1,
+            "hp": 746075.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1739.8199462890625,
+                "y": -28698.6484375,
+                "z": 97872.1953125
+            },
+            "last_seen": "2026年2月17日 下午10:10:10",
+            "level": 80,
+            "name": "真的无雨了",
+            "name_history": [
+                "真的无雨了"
+            ],
+            "registered": "2025年10月10日 下午6:25:41",
+            "role_id": 63582695922394,
+            "server_region": "cosmic-fold"
+        },
         "63582695922406": {
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
@@ -51592,15 +51617,15 @@
             "crew_name": "百合姬",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1018375.0625,
+            "hp": 996274.9375,
             "last_known_position": {
                 "map": "city",
-                "x": -2107.199951171875,
-                "y": -24409.0,
-                "z": 97865.5390625
+                "x": -1372.199951171875,
+                "y": -28642.009765625,
+                "z": 97866.0
             },
-            "last_seen": "2026年2月15日 下午11:52:13",
-            "level": 80,
+            "last_seen": "2026年2月17日 下午10:10:10",
+            "level": 81,
             "name": "千羽心夏",
             "name_history": [
                 "千羽心夏"
@@ -55356,6 +55381,29 @@
             "role_id": 63582695965402,
             "server_region": "cosmic-fold"
         },
+        "63582695965456": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 120999.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2893.309814453125,
+                "y": -28309.3203125,
+                "z": 98001.140625
+            },
+            "last_seen": "2026年2月17日 下午10:10:10",
+            "level": 53,
+            "name": "骛·幻",
+            "name_history": [
+                "骛·幻"
+            ],
+            "registered": "2025年11月23日 下午8:41:09",
+            "role_id": 63582695965456,
+            "server_region": "cosmic-fold"
+        },
         "63582695965460": {
             "crew_id": 0,
             "crew_name": "",
@@ -57636,13 +57684,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695982095": {
-            "crew_id": 820338768340,
-            "crew_name": "抵达深空",
-            "equipping_title": "曼波的学徒,0",
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "曼波小公主吖的学徒,0",
             "gender": 0,
-            "hp": 76320.0,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 80,
+            "hp": 756331.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97874.1171875
+            },
+            "last_seen": "2026年2月17日 下午10:10:10",
+            "level": 83,
             "name": "开导",
             "name_history": [
                 "开导"
@@ -66609,7 +66666,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4894,
-    "last_updated": "2026年2月17日 下午10:09:36",
+    "accounts_total": 4896,
+    "last_updated": "2026年2月17日 下午10:10:10",
     "server_region": "cosmic-fold"
 }
