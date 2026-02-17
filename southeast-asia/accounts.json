@@ -7910,14 +7910,14 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2766313.0,
+            "hp": 2896878.5,
             "last_known_position": {
                 "map": "city",
-                "x": 542.5599975585938,
-                "y": -17882.5390625,
-                "z": 96336.03125
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96368.53125
             },
-            "last_seen": "Feb 17, 2026, 11:24:18 PM",
+            "last_seen": "Feb 17, 2026, 11:45:04 PM",
             "level": 100,
             "name": "EinAvellino",
             "name_history": [
@@ -10418,14 +10418,26 @@
             "server_region": "southeast-asia"
         },
         "68766721385166": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 1671798.875,
-            "last_seen": "Oct 25, 2025, 08:48:12 PM",
+            "hp": 1671905.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -657.0,
+                "y": -23513.798828125,
+                "z": 98619.15625
+            },
+            "last_seen": "Feb 17, 2026, 11:45:04 PM",
             "level": 100,
             "name": "Edinburg$",
+            "name_history": [
+                "Edinburg$"
+            ],
             "registered": "Aug 11, 2022, 9:48:00 AM",
             "role_id": 68766721385166,
             "server_region": "southeast-asia"
@@ -28906,6 +28918,6 @@
         }
     },
     "accounts_total": 2051,
-    "last_updated": "Feb 17, 2026, 11:44:04 PM",
+    "last_updated": "Feb 17, 2026, 11:45:04 PM",
     "server_region": "southeast-asia"
 }
