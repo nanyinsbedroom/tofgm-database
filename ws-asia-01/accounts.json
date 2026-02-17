@@ -7045,13 +7045,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546053": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 578447.0,
-            "last_seen": "Dec 24, 2025, 12:20:45 AM",
-            "level": 63,
+            "hp": 1368372.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -37389.69921875,
+                "y": 9644.240234375,
+                "z": -14027.5400390625
+            },
+            "last_seen": "Feb 18, 2026, 2:02:27 AM",
+            "level": 76,
             "name": "Garnet",
             "name_history": [
                 "Garnet"
@@ -22889,13 +22898,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555950": {
-            "crew_id": 1284204109605,
-            "crew_name": "りんゆかチャンネル",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;57",
+            "crew_history": [
+                "ミスティルテイン"
+            ],
+            "crew_id": 30073659173,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 359602.53125,
-            "last_seen": "Dec 18, 2025, 06:02:36 AM",
-            "level": 60,
+            "hp": 940893.5625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34565.21875,
+                "y": 10024.8701171875,
+                "z": -13793.279296875
+            },
+            "last_seen": "Feb 18, 2026, 2:02:27 AM",
+            "level": 75,
             "name": "drinco",
             "name_history": [
                 "drinco"
@@ -45039,13 +45057,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118564701": {
+            "crew_history": [
+                "甘味処「るみぱる」"
+            ],
             "crew_id": 279181762341,
-            "crew_name": "甘味処パルフェ",
-            "equipping_title": "None",
+            "crew_name": "甘味処「るみぱる」",
+            "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 822780.8125,
-            "last_seen": "Jan 20, 2026, 08:34:26 AM",
-            "level": 71,
+            "hp": 1000840.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36682.76953125,
+                "y": 9839.419921875,
+                "z": -14000.4599609375
+            },
+            "last_seen": "Feb 18, 2026, 2:02:27 AM",
+            "level": 75,
             "name": "Keizer",
             "name_history": [
                 "Keizer"
@@ -58148,13 +58175,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118576367": {
+            "crew_history": [
+                "La Vie en Rose"
+            ],
             "crew_id": 1322858815269,
             "crew_name": "La Vie en Rose",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "雪色みゆ's Apprentice,0",
             "gender": 0,
-            "hp": 486533.1875,
-            "last_seen": "Dec 18, 2025, 06:23:10 AM",
-            "level": 60,
+            "hp": 762907.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42236.5,
+                "y": 1967.2999267578125,
+                "z": -13482.029296875
+            },
+            "last_seen": "Feb 18, 2026, 2:02:27 AM",
+            "level": 73,
             "name": "noshi",
             "name_history": [
                 "noshi"
@@ -64640,6 +64676,31 @@
             ],
             "registered": "Nov 29, 2025, 12:06:12 AM",
             "role_id": 38174103118581791,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118581799": {
+            "crew_history": [
+                "La Vie en Rose"
+            ],
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "2_10_1_12",
+            "gender": 1,
+            "hp": 1150757.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35535.85546875,
+                "y": 1268.529296875,
+                "z": -13805.849609375
+            },
+            "last_seen": "Feb 18, 2026, 2:02:27 AM",
+            "level": 74,
+            "name": "FLFBS",
+            "name_history": [
+                "FLFBS"
+            ],
+            "registered": "Nov 29, 2025, 12:09:10 AM",
+            "role_id": 38174103118581799,
             "server_region": "ws-asia-01"
         },
         "38174103118581830": {
@@ -87539,7 +87600,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5344,
-    "last_updated": "Feb 18, 2026, 2:00:27 AM",
+    "accounts_total": 5345,
+    "last_updated": "Feb 18, 2026, 2:02:27 AM",
     "server_region": "ws-asia-01"
 }
