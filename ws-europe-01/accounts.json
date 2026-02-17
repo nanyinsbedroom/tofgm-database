@@ -19059,6 +19059,29 @@
             "role_id": 38174111708525590,
             "server_region": "ws-europe-01"
         },
+        "38174111708525602": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 57270.828125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -44987.4609375,
+                "y": 96146.6953125,
+                "z": -12232.58984375
+            },
+            "last_seen": "Feb 17, 2026, 8:31:49 AM",
+            "level": 17,
+            "name": "kreta",
+            "name_history": [
+                "kreta"
+            ],
+            "registered": "Feb 15, 2026, 1:16:04 PM",
+            "role_id": 38174111708525602,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525643": {
             "crew_history": [],
             "crew_id": 0,
@@ -19080,6 +19103,29 @@
             ],
             "registered": "Feb 15, 2026, 6:21:44 PM",
             "role_id": 38174111708525643,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708525646": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 14112.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -61191.671875,
+                "y": 66855.5703125,
+                "z": -9722.787109375
+            },
+            "last_seen": "Feb 17, 2026, 8:31:49 AM",
+            "level": 8,
+            "name": "Owl Wayne",
+            "name_history": [
+                "Owl Wayne"
+            ],
+            "registered": "Feb 15, 2026, 6:37:29 PM",
+            "role_id": 38174111708525646,
             "server_region": "ws-europe-01"
         },
         "38174111708525668": {
@@ -19361,7 +19407,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1119,
-    "last_updated": "Feb 17, 2026, 8:30:49 AM",
+    "accounts_total": 1121,
+    "last_updated": "Feb 17, 2026, 8:31:49 AM",
     "server_region": "ws-europe-01"
 }
