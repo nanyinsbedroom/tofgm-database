@@ -26272,12 +26272,21 @@
             "server_region": "southeast-asia"
         },
         "68792491263371": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
             "hp": 710692.9375,
-            "last_seen": [],
+            "last_known_position": {
+                "map": "city",
+                "x": -730.7999877929688,
+                "y": -23639.69921875,
+                "z": 98623.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:31:19 PM",
             "level": 100,
             "name": "Kwang007",
             "name_history": [
@@ -28865,6 +28874,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 11:30:19 PM",
+    "last_updated": "Feb 17, 2026, 11:31:19 PM",
     "server_region": "southeast-asia"
 }
