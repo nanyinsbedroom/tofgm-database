@@ -10651,14 +10651,26 @@
             "server_region": "southeast-asia"
         },
         "68766721408569": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "Overseas2_10",
             "gender": 1,
-            "hp": 764295.0,
-            "last_seen": "Oct 26, 2025, 09:23:02 PM",
+            "hp": 764397.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 271.1000061035156,
+                "y": -23670.298828125,
+                "z": 98616.65625
+            },
+            "last_seen": "Feb 17, 2026, 10:24:51 PM",
             "level": 100,
             "name": "SEROS#c",
+            "name_history": [
+                "SEROS#c"
+            ],
             "registered": "Aug 11, 2022, 8:01:09 PM",
             "role_id": 68766721408569,
             "server_region": "southeast-asia"
@@ -25214,12 +25226,21 @@
             "server_region": "southeast-asia"
         },
         "68788196248396": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_8_0_35",
             "gender": 1,
-            "hp": 2280989.75,
-            "last_seen": "Feb 12, 2026, 9:55:19 PM",
+            "hp": 2286287.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -607.0799560546875,
+                "y": -16499.259765625,
+                "z": 96343.78125
+            },
+            "last_seen": "Feb 17, 2026, 10:24:51 PM",
             "level": 100,
             "name": "DuckStone",
             "name_history": [
@@ -28755,6 +28776,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 10:22:51 PM",
+    "last_updated": "Feb 17, 2026, 10:24:51 PM",
     "server_region": "southeast-asia"
 }
