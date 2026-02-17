@@ -10819,12 +10819,21 @@
             "server_region": "southeast-asia"
         },
         "68766721463514": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "1_3_2_1",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2281226.25,
-            "last_seen": "Jan 03, 2026, 07:25:46 AM",
+            "hp": 2995750.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7915.83984375,
+                "y": 53647.046875,
+                "z": 42029.4296875
+            },
+            "last_seen": "Feb 17, 2026, 5:45:42 PM",
             "level": 100,
             "name": "BadLucky#d",
             "name_history": [
@@ -28590,6 +28599,6 @@
         }
     },
     "accounts_total": 2047,
-    "last_updated": "Feb 17, 2026, 5:40:27 PM",
+    "last_updated": "Feb 17, 2026, 5:45:42 PM",
     "server_region": "southeast-asia"
 }
