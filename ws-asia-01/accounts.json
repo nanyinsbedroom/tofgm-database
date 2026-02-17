@@ -38453,13 +38453,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118561537": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "WorldBossDamage_4;boss_hum_067_World;37",
+            "equipping_title": "1_1_18_1",
             "gender": 0,
-            "hp": 546518.5,
-            "last_seen": "Dec 28, 2025, 12:47:27 PM",
-            "level": 66,
+            "hp": 1008127.3125,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -25819.69921875,
+                "y": 175795.09375,
+                "z": -12924.8896484375
+            },
+            "last_seen": "Feb 18, 2026, 2:00:27 AM",
+            "level": 75,
             "name": "黒澤遥人",
             "name_history": [
                 "黒澤遥人"
@@ -44493,13 +44502,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118564422": {
+            "crew_history": [
+                "Eternal Sky"
+            ],
             "crew_id": 283476729637,
             "crew_name": "Eternal Sky",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 612501.5,
-            "last_seen": "Jan 30, 2026, 01:42:36 AM",
-            "level": 73,
+            "hp": 900744.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73356.0390625,
+                "y": 49436.0703125,
+                "z": -12321.3701171875
+            },
+            "last_seen": "Feb 18, 2026, 2:00:27 AM",
+            "level": 76,
             "name": "冬猫",
             "name_history": [
                 "冬猫"
@@ -87522,6 +87540,6 @@
         }
     },
     "accounts_total": 5344,
-    "last_updated": "Feb 18, 2026, 1:58:27 AM",
+    "last_updated": "Feb 18, 2026, 2:00:27 AM",
     "server_region": "ws-asia-01"
 }
