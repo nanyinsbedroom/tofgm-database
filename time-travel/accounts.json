@@ -2509,6 +2509,29 @@
             "role_id": 63574105995742,
             "server_region": "time-travel"
         },
+        "63574105997604": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 532059.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96374.03125
+            },
+            "last_seen": "2026年2月17日 下午9:03:32",
+            "level": 59,
+            "name": "东云梦芽",
+            "name_history": [
+                "东云梦芽"
+            ],
+            "registered": "2023年12月16日 下午9:53:01",
+            "role_id": 63574105997604,
+            "server_region": "time-travel"
+        },
         "63574105997762": {
             "crew_id": 150323870162,
             "crew_name": "星奈海",
@@ -4709,13 +4732,22 @@
             "server_region": "time-travel"
         },
         "63578401457959": {
+            "crew_history": [
+                "挽梦挽星辰"
+            ],
             "crew_id": 502511188434,
             "crew_name": "挽梦挽星辰",
             "equipping_title": "星辰璀璨如梦的后继者,1",
             "gender": 1,
-            "hp": 1034267.875,
-            "last_seen": "2026年2月5日 下午11:53:56",
-            "level": 81,
+            "hp": 59199.14453125,
+            "last_known_position": {
+                "map": "city",
+                "x": -927.7999877929688,
+                "y": -16422.548828125,
+                "z": 96350.28125
+            },
+            "last_seen": "2026年2月17日 下午9:03:32",
+            "level": 83,
             "name": "箐玥",
             "name_history": [
                 "箐玥"
@@ -9716,7 +9748,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 629,
-    "last_updated": "2026年2月17日 下午9:02:32",
+    "accounts_total": 630,
+    "last_updated": "2026年2月17日 下午9:03:32",
     "server_region": "time-travel"
 }
