@@ -3986,11 +3986,11 @@
             "hp": 855441.5625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91154.3984375,
-                "y": 76171.7109375,
-                "z": -7087.19970703125
+                "x": -91886.15625,
+                "y": 76310.3984375,
+                "z": -7069.7099609375
             },
-            "last_seen": "2026年2月17日 下午8:25:24",
+            "last_seen": "2026年2月17日 下午8:50:27",
             "level": 100,
             "name": "不喝绿茶",
             "name_history": [
@@ -6387,6 +6387,29 @@
             "role_id": 60563336002469,
             "server_region": "future-humanity"
         },
+        "60563336002572": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 948.1553344726563,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90720.9375,
+                "y": 83624.109375,
+                "z": -6874.388671875
+            },
+            "last_seen": "2026年2月17日 下午8:50:27",
+            "level": 3,
+            "name": "朽愛",
+            "name_history": [
+                "朽愛"
+            ],
+            "registered": "2026年2月17日 下午8:35:42",
+            "role_id": 60563336002572,
+            "server_region": "future-humanity"
+        },
         "60567628821868": {
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
@@ -8564,7 +8587,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 498,
-    "last_updated": "2026年2月17日 下午8:49:27",
+    "accounts_total": 499,
+    "last_updated": "2026年2月17日 下午8:50:27",
     "server_region": "future-humanity"
 }
