@@ -44206,12 +44206,21 @@
             "server_region": "cosmic-fold"
         },
         "63582695922587": {
-            "crew_id": 339302431188,
-            "crew_name": "幻神",
+            "crew_history": [
+                "棋士"
+            ],
+            "crew_id": 3006477122004,
+            "crew_name": "棋士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 548791.75,
-            "last_seen": "2025年12月29日 上午 6:24:20",
+            "hp": 568115.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1736.5999755859375,
+                "y": -28694.3984375,
+                "z": 97865.71875
+            },
+            "last_seen": "2026年2月17日 下午9:51:35",
             "level": 75,
             "name": "0-01",
             "name_history": [
@@ -65974,6 +65983,6 @@
         }
     },
     "accounts_total": 4873,
-    "last_updated": "2026年2月17日 下午9:49:35",
+    "last_updated": "2026年2月17日 下午9:51:35",
     "server_region": "cosmic-fold"
 }
