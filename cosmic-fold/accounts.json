@@ -5424,14 +5424,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695852434": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 392523.1875,
-            "last_seen": "2025年10月17日 下午 5:19:31",
-            "level": 59,
+            "hp": 1274521.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53851.359375,
+                "y": -87983.9765625,
+                "z": 21717.388671875
+            },
+            "last_seen": "2026年2月17日 下午10:00:35",
+            "level": 83,
             "name": "维尔莉雅",
+            "name_history": [
+                "维尔莉雅"
+            ],
             "registered": "2025年9月25日 下午6:28:48",
             "role_id": 63582695852434,
             "server_region": "cosmic-fold"
@@ -60545,6 +60557,31 @@
             "role_id": 63582695996299,
             "server_region": "cosmic-fold"
         },
+        "63582695996315": {
+            "crew_history": [
+                "十月天宫"
+            ],
+            "crew_id": 154618837460,
+            "crew_name": "十月天宫",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 509025.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53767.296875,
+                "y": -86019.6953125,
+                "z": 21725.98046875
+            },
+            "last_seen": "2026年2月17日 下午10:00:35",
+            "level": 72,
+            "name": "奥黛蕾赫",
+            "name_history": [
+                "奥黛蕾赫"
+            ],
+            "registered": "2026年1月26日 上午12:45:41",
+            "role_id": 63582695996315,
+            "server_region": "cosmic-fold"
+        },
         "63582695996406": {
             "crew_id": 128849033684,
             "crew_name": "月歌行",
@@ -66345,7 +66382,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4886,
-    "last_updated": "2026年2月17日 下午9:59:35",
+    "accounts_total": 4887,
+    "last_updated": "2026年2月17日 下午10:00:35",
     "server_region": "cosmic-fold"
 }
