@@ -394,13 +394,22 @@
             "server_region": "time-travel"
         },
         "63574105917331": {
+            "crew_history": [
+                "心焰"
+            ],
             "crew_id": 4552665348563,
             "crew_name": "心焰",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1478663.125,
-            "last_seen": "2026年01月27日 上午 9:50:28",
-            "level": 80,
+            "hp": 1690330.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 550.5399780273438,
+                "y": -28248.05859375,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "Willorn",
             "name_history": [
                 "Willorn"
@@ -1145,14 +1154,26 @@
             "server_region": "time-travel"
         },
         "63574105946284": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "2_11_1_2",
-            "gender": 0,
-            "hp": 661636.9375,
-            "last_seen": "2025年10月26日 下午 2:14:14",
-            "level": 64,
+            "gender": 1,
+            "hp": 1471087.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1704.0699462890625,
+                "y": -24528.26953125,
+                "z": 98638.265625
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "土煲孑",
+            "name_history": [
+                "土煲孑"
+            ],
             "registered": "2023年12月14日 下午12:30:54",
             "role_id": 63574105946284,
             "server_region": "time-travel"
@@ -1753,6 +1774,31 @@
             "role_id": 63574105963292,
             "server_region": "time-travel"
         },
+        "63574105963498": {
+            "crew_history": [
+                "镜花月影"
+            ],
+            "crew_id": 8589949394,
+            "crew_name": "镜花月影",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1485532.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1155.669921875,
+                "y": -28356.708984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
+            "name": "weixiaom",
+            "name_history": [
+                "weixiaom"
+            ],
+            "registered": "2023年12月14日 下午9:22:07",
+            "role_id": 63574105963498,
+            "server_region": "time-travel"
+        },
         "63574105963993": {
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
@@ -2238,6 +2284,31 @@
             "name": "BILI天纵狂才",
             "registered": "2023年12月15日 下午11:58:12",
             "role_id": 63574105983384,
+            "server_region": "time-travel"
+        },
+        "63574105985315": {
+            "crew_history": [
+                "镜花月影"
+            ],
+            "crew_id": 8589949394,
+            "crew_name": "镜花月影",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1565294.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1658.2799072265625,
+                "y": -24755.0703125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
+            "name": "安珂",
+            "name_history": [
+                "安珂"
+            ],
+            "registered": "2023年12月16日 上午4:28:42",
+            "role_id": 63574105985315,
             "server_region": "time-travel"
         },
         "63574105986045": {
@@ -2878,14 +2949,14 @@
             "crew_name": "异世相遇",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1571034.5,
+            "hp": 1577888.875,
             "last_known_position": {
                 "map": "city",
-                "x": -23.40999984741211,
-                "y": -22766.62890625,
-                "z": 96711.6953125
+                "x": -1862.419921875,
+                "y": -27952.529296875,
+                "z": 96736.875
             },
-            "last_seen": "2026年2月14日 下午8:34:56",
+            "last_seen": "2026年2月17日 下午8:58:32",
             "level": 83,
             "name": "·鸭梨·",
             "name_history": [
@@ -3218,6 +3289,31 @@
             "role_id": 63574106133305,
             "server_region": "time-travel"
         },
+        "63574106136472": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1427456.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 709.7999877929688,
+                "y": -24835.798828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
+            "name": "大王万万岁",
+            "name_history": [
+                "大王万万岁"
+            ],
+            "registered": "2024年1月9日 上午12:17:47",
+            "role_id": 63574106136472,
+            "server_region": "time-travel"
+        },
         "63574106139508": {
             "crew_id": 17179883986,
             "crew_name": "莉可丽丝",
@@ -3261,13 +3357,22 @@
             "server_region": "time-travel"
         },
         "63574106167089": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 150323870162,
             "crew_name": "星奈海",
             "equipping_title": "2_2_0_55",
             "gender": 1,
-            "hp": 1412830.75,
-            "last_seen": "2026年02月01日 上午 12:53:40",
-            "level": 81,
+            "hp": 1545152.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1.149999976158142,
+                "y": -21656.1796875,
+                "z": 96744.3515625
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "Guess9",
             "name_history": [
                 "Guess9"
@@ -3597,6 +3702,31 @@
             "role_id": 63574106306075,
             "server_region": "time-travel"
         },
+        "63574106306467": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "WorldBossDamage_2;boss_hum_044_world;7",
+            "gender": 1,
+            "hp": 870884.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2900.619873046875,
+                "y": -19704.919921875,
+                "z": 96170.359375
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
+            "name": "安陌陵",
+            "name_history": [
+                "安陌陵"
+            ],
+            "registered": "2024年2月6日 下午5:09:15",
+            "role_id": 63574106306467,
+            "server_region": "time-travel"
+        },
         "63574106353615": {
             "crew_id": 3543348034003,
             "crew_name": "停尸间",
@@ -3793,14 +3923,26 @@
             "server_region": "time-travel"
         },
         "63574106432896": {
+            "crew_history": [
+                "异世相遇"
+            ],
             "crew_id": 283467856338,
             "crew_name": "异世相遇",
-            "equipping_title": "3_2024",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 709952.625,
-            "last_seen": "2025年10月26日 下午 2:32:16",
-            "level": 65,
+            "hp": 1524600.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -4004.039794921875,
+                "y": -26871.138671875,
+                "z": 96737.8359375
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "青苹之末",
+            "name_history": [
+                "青苹之末"
+            ],
             "registered": "2024年4月25日 上午8:20:13",
             "role_id": 63574106432896,
             "server_region": "time-travel"
@@ -3822,14 +3964,26 @@
             "server_region": "time-travel"
         },
         "63574106434498": {
-            "crew_id": 1357209680338,
-            "crew_name": "博丽神社",
-            "equipping_title": "2_10_1_4",
+            "crew_history": [
+                "心焰"
+            ],
+            "crew_id": 4552665348563,
+            "crew_name": "心焰",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 597282.375,
-            "last_seen": "2025年10月17日 下午 1:53:55",
-            "level": 60,
+            "hp": 1506531.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1675.0399169921875,
+                "y": -27741.849609375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "菲弥琳丝·春花",
+            "name_history": [
+                "菲弥琳丝·春花"
+            ],
             "registered": "2024年4月26日 上午12:10:37",
             "role_id": 63574106434498,
             "server_region": "time-travel"
@@ -4051,6 +4205,31 @@
             "name": "クラウド·ストライフ",
             "registered": "2024年2月11日 下午9:20:16",
             "role_id": 63578400928897,
+            "server_region": "time-travel"
+        },
+        "63578400941428": {
+            "crew_history": [
+                "暖暖六课"
+            ],
+            "crew_id": 1473173797330,
+            "crew_name": "暖暖六课",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 528259.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1492.9599609375,
+                "y": -24595.548828125,
+                "z": 97882.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 79,
+            "name": "喋喋不休",
+            "name_history": [
+                "喋喋不休"
+            ],
+            "registered": "2024年2月13日 下午2:51:54",
+            "role_id": 63578400941428,
             "server_region": "time-travel"
         },
         "63578400947176": {
@@ -4610,13 +4789,22 @@
             "server_region": "time-travel"
         },
         "63578401481205": {
+            "crew_history": [
+                "樱花荘"
+            ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
             "equipping_title": "WorldBossDamage_1;Boss_hum_064_world;2",
             "gender": 1,
-            "hp": 1348818.0,
-            "last_seen": "2026年01月27日 上午 9:51:28",
-            "level": 80,
+            "hp": 1576275.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1920.679931640625,
+                "y": -27295.3984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "兄弟变女便宜我",
             "name_history": [
                 "兄弟变女便宜我"
@@ -4871,11 +5059,26 @@
             "server_region": "time-travel"
         },
         "63578401541541": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
+            "equipping_title": "3_2024",
             "gender": 0,
-            "last_seen": "2025年09月19日 下午 3:04:04",
+            "hp": 1385996.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1192.5499267578125,
+                "y": -27975.849609375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "轻井泽惠ya",
+            "name_history": [
+                "轻井泽惠ya"
+            ],
             "registered": "2024年6月19日 下午10:22:38",
             "role_id": 63578401541541,
             "server_region": "time-travel"
@@ -5202,13 +5405,22 @@
             "server_region": "time-travel"
         },
         "63578401630321": {
+            "crew_history": [
+                "异世相遇"
+            ],
             "crew_id": 283467856338,
             "crew_name": "异世相遇",
             "equipping_title": "1_9_0_5",
             "gender": 1,
-            "hp": 1537954.375,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 82,
+            "hp": 1577328.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 729.8499755859375,
+                "y": -27595.259765625,
+                "z": 96719.9453125
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "岚岚喵喵",
             "name_history": [
                 "岚岚喵喵"
@@ -6165,6 +6377,31 @@
             "role_id": 63578401792525,
             "server_region": "time-travel"
         },
+        "63578401794942": {
+            "crew_history": [
+                "曙光"
+            ],
+            "crew_id": 6322191874515,
+            "crew_name": "曙光",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 62753.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -9.889999389648438,
+                "y": -21790.98046875,
+                "z": 96750.859375
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 18,
+            "name": "荒古茗",
+            "name_history": [
+                "荒古茗"
+            ],
+            "registered": "2025年1月24日 下午2:21:04",
+            "role_id": 63578401794942,
+            "server_region": "time-travel"
+        },
         "63578401809304": {
             "crew_id": 798863931858,
             "crew_name": "★千年魔法使",
@@ -6428,6 +6665,31 @@
             "role_id": 63578401890069,
             "server_region": "time-travel"
         },
+        "63578401893437": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "逆天30G的后继者,1",
+            "gender": 1,
+            "hp": 1288483.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -612.0399780273438,
+                "y": -28173.46875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 81,
+            "name": "5时9",
+            "name_history": [
+                "5时9"
+            ],
+            "registered": "2025年6月10日 上午9:58:31",
+            "role_id": 63578401893437,
+            "server_region": "time-travel"
+        },
         "63578401903634": {
             "crew_id": 73014458834,
             "crew_name": "爱意",
@@ -6436,6 +6698,29 @@
             "name": "太多了A",
             "registered": "2025年6月27日 上午5:58:50",
             "role_id": 63578401903634,
+            "server_region": "time-travel"
+        },
+        "63578401907094": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 136843.40625,
+            "last_known_position": {
+                "map": "city",
+                "x": -4485.89990234375,
+                "y": -28590.599609375,
+                "z": 96750.859375
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 65,
+            "name": "初夏青栀无言",
+            "name_history": [
+                "初夏青栀无言"
+            ],
+            "registered": "2025年7月1日 下午12:44:16",
+            "role_id": 63578401907094,
             "server_region": "time-travel"
         },
         "63578401912148": {
@@ -7031,13 +7316,22 @@
             "server_region": "time-travel"
         },
         "63578401958835": {
+            "crew_history": [
+                "暖暖六课"
+            ],
             "crew_id": 1473173797330,
             "crew_name": "暖暖六课",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1167065.125,
-            "last_seen": "2026年01月28日 上午 6:59:02",
-            "level": 79,
+            "hp": 1338985.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "天左左",
             "name_history": [
                 "天左左"
@@ -8456,13 +8750,22 @@
             "server_region": "time-travel"
         },
         "63578401992354": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 60129556946,
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 811054.5,
-            "last_seen": "2026年01月28日 上午 7:00:02",
-            "level": 80,
+            "hp": 1193042.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1977.3299560546875,
+                "y": -28687.21875,
+                "z": 97886.5390625
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 83,
             "name": "时回溯",
             "name_history": [
                 "时回溯"
@@ -9136,6 +9439,29 @@
             "role_id": 63578402000070,
             "server_region": "time-travel"
         },
+        "63578402000589": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 265223.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -709.3399658203125,
+                "y": -29446.6796875,
+                "z": 97880.6953125
+            },
+            "last_seen": "2026年2月17日 下午8:58:32",
+            "level": 70,
+            "name": "高峰都蒂法",
+            "name_history": [
+                "高峰都蒂法"
+            ],
+            "registered": "2026年2月6日 下午7:06:22",
+            "role_id": 63578402000589,
+            "server_region": "time-travel"
+        },
         "63578402001483": {
             "crew_history": [],
             "crew_id": 0,
@@ -9206,7 +9532,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 613,
-    "last_updated": "2026年2月15日 下午11:40:12",
+    "accounts_total": 622,
+    "last_updated": "2026年2月17日 下午8:58:32",
     "server_region": "time-travel"
 }
