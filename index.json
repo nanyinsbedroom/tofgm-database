@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 17, 2026, 8:32:49 AM",
+    "last_updated": "Feb 17, 2026, 3:28:15 AM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -899,7 +899,7 @@
                     "dst_start_date": "2025-03-09",
                     "gmt_offset": -18000,
                     "is_dst": false,
-                    "olson": "America/New_York",
+                    "olson": "America/New York",
                     "sunrise": "06:56",
                     "sunset": "16:54"
                 },
@@ -915,9 +915,9 @@
             "display_name": "PS America",
             "gender": {
                 "female": 231,
-                "male": 161
+                "male": 162
             },
-            "last_updated": "Feb 14, 2026, 5:03:29 AM",
+            "last_updated": "Feb 17, 2026, 3:28:15 AM",
             "server_information": {
                 "address_type": "Anycast",
                 "ads_category": "IAB19-11",
@@ -1038,7 +1038,7 @@
                 "weather_station_name": "Kansas City",
                 "zip_code": "64106"
             },
-            "total_accounts": 392,
+            "total_accounts": 393,
             "total_crews": 51
         },
         "ps-east-asia": {
@@ -1679,7 +1679,7 @@
                     "dst_start_date": null,
                     "gmt_offset": -10800,
                     "is_dst": false,
-                    "olson": "America/Sao_Paulo",
+                    "olson": "America/Sao Paulo",
                     "sunrise": "05:11",
                     "sunset": "18:32"
                 },
@@ -2199,7 +2199,7 @@
                     "dst_start_date": "2025-03-09",
                     "gmt_offset": -18000,
                     "is_dst": false,
-                    "olson": "America/New_York",
+                    "olson": "America/New York",
                     "sunrise": "07:02",
                     "sunset": "16:51"
                 },
@@ -2472,10 +2472,10 @@
             "total_crews": 69
         }
     },
-    "total_accounts": 24200,
+    "total_accounts": 24201,
     "total_crews": 2011,
     "total_genders": {
         "female": 17718,
-        "male": 6477
+        "male": 6478
     }
 }
