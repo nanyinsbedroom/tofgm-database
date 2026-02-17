@@ -6558,15 +6558,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695853291": {
-            "crew_id": 137438968276,
-            "crew_name": "耳狸窝",
-            "equipping_title": "WorldBossDamage_2;boss_hum_052_world;5",
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 956751.0625,
-            "last_seen": "2025年11月24日 上午 6:01:12",
-            "level": 72,
-            "name": "第六夜",
+            "hp": 1530398.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1116.3299560546875,
+                "y": -28371.779296875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:43:34",
+            "level": 83,
+            "name": "青舟",
             "name_history": [
+                "青舟",
                 "第六夜"
             ],
             "registered": "2025年9月25日 下午6:41:41",
@@ -49886,14 +49896,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 1412965.625,
+            "hp": 1456937.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1781.0999755859375,
-                "y": -27154.298828125,
-                "z": 96717.9609375
+                "x": 692.0,
+                "y": -28227.91015625,
+                "z": 97877.1171875
             },
-            "last_seen": "2026年2月14日 下午9:48:56",
+            "last_seen": "2026年2月17日 下午9:43:34",
             "level": 83,
             "name": "饮月·腾荒",
             "name_history": [
@@ -65733,6 +65743,29 @@
             "role_id": 63582696008077,
             "server_region": "cosmic-fold"
         },
+        "63582696008102": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 54129.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3048.659912109375,
+                "y": -28257.6796875,
+                "z": 98000.6328125
+            },
+            "last_seen": "2026年2月17日 下午9:43:34",
+            "level": 13,
+            "name": "怜悯0114",
+            "name_history": [
+                "怜悯0114"
+            ],
+            "registered": "2026年2月17日 下午5:54:13",
+            "role_id": 63582696008102,
+            "server_region": "cosmic-fold"
+        },
         "63582696008121": {
             "crew_history": [],
             "crew_id": 0,
@@ -65757,7 +65790,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4867,
-    "last_updated": "2026年2月17日 下午9:41:34",
+    "accounts_total": 4868,
+    "last_updated": "2026年2月17日 下午9:43:34",
     "server_region": "cosmic-fold"
 }
