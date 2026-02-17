@@ -10799,12 +10799,21 @@
             "server_region": "southeast-asia"
         },
         "68766721423099": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_8_0_4",
             "gender": 1,
             "hp": 1827141.75,
-            "last_seen": "Jan 22, 2026, 08:24:39 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": -697.8999633789063,
+                "y": -23685.599609375,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:42:04 PM",
             "level": 100,
             "name": "L U N 0 V A N",
             "name_history": [
@@ -28897,6 +28906,6 @@
         }
     },
     "accounts_total": 2051,
-    "last_updated": "Feb 17, 2026, 11:41:04 PM",
+    "last_updated": "Feb 17, 2026, 11:42:04 PM",
     "server_region": "southeast-asia"
 }
