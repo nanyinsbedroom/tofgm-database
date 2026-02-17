@@ -20647,6 +20647,31 @@
             "role_id": 63582695863085,
             "server_region": "cosmic-fold"
         },
+        "63582695863094": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "1_1_20_1",
+            "gender": 1,
+            "hp": 1400032.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1189.1600341796875,
+                "y": -28264.26953125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:47:35",
+            "level": 82,
+            "name": "胡萝卜甜菜汤",
+            "name_history": [
+                "胡萝卜甜菜汤"
+            ],
+            "registered": "2025年9月25日 下午10:42:04",
+            "role_id": 63582695863094,
+            "server_region": "cosmic-fold"
+        },
         "63582695863105": {
             "crew_id": 0,
             "crew_name": "",
@@ -49771,13 +49796,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695939775": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 477914.0625,
-            "last_seen": "2025年12月29日 上午 6:24:20",
-            "level": 75,
+            "hp": 732170.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1678.39990234375,
+                "y": -28767.099609375,
+                "z": 97868.6953125
+            },
+            "last_seen": "2026年2月17日 下午9:47:35",
+            "level": 81,
             "name": "跳",
             "name_history": [
                 "跳"
@@ -50055,6 +50089,29 @@
             ],
             "registered": "2025年10月24日 下午3:29:47",
             "role_id": 63582695940913,
+            "server_region": "cosmic-fold"
+        },
+        "63582695941088": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 722801.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": 2193.199951171875,
+                "y": -27102.798828125,
+                "z": 97869.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:47:35",
+            "level": 80,
+            "name": "唱",
+            "name_history": [
+                "唱"
+            ],
+            "registered": "2025年10月24日 下午7:01:23",
+            "role_id": 63582695941088,
             "server_region": "cosmic-fold"
         },
         "63582695941139": {
@@ -54319,14 +54376,14 @@
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 935878.3125,
+            "hp": 935878.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1707.199951171875,
-                "y": -29587.5390625,
-                "z": 97900.2578125
+                "x": 2452.35986328125,
+                "y": -29625.169921875,
+                "z": 96759.15625
             },
-            "last_seen": "2026年2月17日 上午1:49:32",
+            "last_seen": "2026年2月17日 下午9:47:35",
             "level": 82,
             "name": "Meiko",
             "name_history": [
@@ -65841,7 +65898,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4869,
-    "last_updated": "2026年2月17日 下午9:45:35",
+    "accounts_total": 4871,
+    "last_updated": "2026年2月17日 下午9:47:35",
     "server_region": "cosmic-fold"
 }
