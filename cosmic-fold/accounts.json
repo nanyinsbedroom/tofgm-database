@@ -23895,15 +23895,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695865942": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "1_9_0_2",
+            "equipping_title": "2_10_1_9_1_1",
             "gender": 1,
-            "hp": 880719.5,
-            "last_seen": "2025年11月23日 上午 12:21:09",
-            "level": 72,
-            "name": "泡菜肉丝炒粉条",
+            "hp": 1336303.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1157.5499267578125,
+                "y": -28375.69921875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月17日 下午9:45:35",
+            "level": 83,
+            "name": "西安帅哥",
             "name_history": [
+                "西安帅哥",
                 "泡菜肉丝炒粉条"
             ],
             "registered": "2025年9月26日 上午1:35:14",
@@ -65832,6 +65842,6 @@
         }
     },
     "accounts_total": 4869,
-    "last_updated": "2026年2月17日 下午9:44:35",
+    "last_updated": "2026年2月17日 下午9:45:35",
     "server_region": "cosmic-fold"
 }
