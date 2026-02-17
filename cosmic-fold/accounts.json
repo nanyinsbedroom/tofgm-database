@@ -671,6 +671,31 @@
             "role_id": 63582695850197,
             "server_region": "cosmic-fold"
         },
+        "63582695850199": {
+            "crew_history": [
+                "紫微星垣"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "紫微星垣",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1315775.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -75145.9921875,
+                "y": 51851.37890625,
+                "z": -11507.1396484375
+            },
+            "last_seen": "2026年2月17日 下午9:56:35",
+            "level": 82,
+            "name": "乌米",
+            "name_history": [
+                "乌米"
+            ],
+            "registered": "2025年9月25日 下午6:03:39",
+            "role_id": 63582695850199,
+            "server_region": "cosmic-fold"
+        },
         "63582695850201": {
             "crew_id": 0,
             "crew_name": "",
@@ -48629,20 +48654,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695931799": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "十月天宫"
+            ],
+            "crew_id": 154618837460,
+            "crew_name": "十月天宫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 104400.59375,
+            "hp": 128588.6015625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -67109.671875,
-                "y": 64640.59765625,
-                "z": -9766.9697265625
+                "x": -41011.91796875,
+                "y": 78374.328125,
+                "z": -14176.3994140625
             },
-            "last_seen": "2026年2月15日 下午11:45:13",
-            "level": 42,
+            "last_seen": "2026年2月17日 下午9:56:35",
+            "level": 51,
             "name": "荒蛮",
             "name_history": [
                 "荒蛮"
@@ -65809,15 +65836,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 75326.0,
+            "hp": 120208.6015625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -95093.953125,
-                "y": 69350.8203125,
-                "z": -4228.1953125
+                "x": -61078.96875,
+                "y": 95270.5546875,
+                "z": -9832.7294921875
             },
-            "last_seen": "2026年2月16日 上午12:06:14",
-            "level": 31,
+            "last_seen": "2026年2月17日 下午9:56:35",
+            "level": 49,
             "name": "萌新小白ι",
             "name_history": [
                 "萌新小白ι"
@@ -66199,7 +66226,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4880,
-    "last_updated": "2026年2月17日 下午9:55:35",
+    "accounts_total": 4881,
+    "last_updated": "2026年2月17日 下午9:56:35",
     "server_region": "cosmic-fold"
 }
