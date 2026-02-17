@@ -83680,6 +83680,31 @@
             "role_id": 38174103118604781,
             "server_region": "ws-asia-01"
         },
+        "38174103118604943": {
+            "crew_history": [
+                "女神の祝福・賊"
+            ],
+            "crew_id": 579829473061,
+            "crew_name": "女神の祝福・賊",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 138259.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1878.2999267578125,
+                "y": -24302.798828125,
+                "z": 97878.6171875
+            },
+            "last_seen": "Feb 18, 2026, 1:51:27 AM",
+            "level": 72,
+            "name": "雑用係",
+            "name_history": [
+                "雑用係"
+            ],
+            "registered": "Dec 25, 2025, 1:18:48 AM",
+            "role_id": 38174103118604943,
+            "server_region": "ws-asia-01"
+        },
         "38174103118605055": {
             "crew_id": 0,
             "crew_name": "",
@@ -86248,15 +86273,15 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 609568.875,
+            "hp": 630048.875,
             "last_known_position": {
                 "map": "city",
-                "x": 2419.800048828125,
-                "y": -26509.0,
+                "x": 2372.389892578125,
+                "y": -26440.91015625,
                 "z": 97866.1171875
             },
-            "last_seen": "Feb 15, 2026, 9:06:00 PM",
-            "level": 71,
+            "last_seen": "Feb 18, 2026, 1:51:27 AM",
+            "level": 72,
             "name": "リュねたま",
             "name_history": [
                 "リュねたま"
@@ -87374,7 +87399,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5341,
-    "last_updated": "Feb 18, 2026, 1:50:27 AM",
+    "accounts_total": 5342,
+    "last_updated": "Feb 18, 2026, 1:51:27 AM",
     "server_region": "ws-asia-01"
 }
