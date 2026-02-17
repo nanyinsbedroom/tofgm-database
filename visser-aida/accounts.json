@@ -5127,6 +5127,31 @@
             "role_id": 60593398643189,
             "server_region": "visser-aida"
         },
+        "60593398652915": {
+            "crew_history": [
+                "星海旅人"
+            ],
+            "crew_id": 1958505101084,
+            "crew_name": "星海旅人",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 33701036.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100586.0703125,
+                "y": -181027.546875,
+                "z": -7544.77001953125
+            },
+            "last_seen": "2026年2月17日 下午9:26:34",
+            "level": 100,
+            "name": "鱼丸丸",
+            "name_history": [
+                "鱼丸丸"
+            ],
+            "registered": "2021年12月17日 下午7:55:50",
+            "role_id": 60593398652915,
+            "server_region": "visser-aida"
+        },
         "60593398676579": {
             "crew_id": 21474850588,
             "crew_name": "椿夏",
@@ -6528,12 +6553,21 @@
             "server_region": "visser-aida"
         },
         "60614873486218": {
+            "crew_history": [
+                "九域"
+            ],
             "crew_id": 150323869473,
             "crew_name": "九域",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1.0,
-            "last_seen": "2026年2月9日 下午8:29:55",
+            "hp": 33701464.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95119.625,
+                "y": -179928.484375,
+                "z": -7825.7119140625
+            },
+            "last_seen": "2026年2月17日 下午9:26:34",
             "level": 100,
             "name": "卡斯蒂",
             "name_history": [
@@ -15830,7 +15864,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1077,
-    "last_updated": "2026年2月17日 下午9:25:34",
+    "accounts_total": 1078,
+    "last_updated": "2026年2月17日 下午9:26:34",
     "server_region": "visser-aida"
 }
