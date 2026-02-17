@@ -10467,12 +10467,21 @@
             "server_region": "southeast-asia"
         },
         "68766721387349": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2307872.25,
-            "last_seen": "Nov 08, 2025, 08:11:26 PM",
+            "hp": 2307974.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -392.0099792480469,
+                "y": -23610.80859375,
+                "z": 98610.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:07:17 PM",
             "level": 100,
             "name": "LIFETIME_",
             "name_history": [
@@ -28829,6 +28838,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 11:03:17 PM",
+    "last_updated": "Feb 17, 2026, 11:07:17 PM",
     "server_region": "southeast-asia"
 }
