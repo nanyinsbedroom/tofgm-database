@@ -1,5 +1,5 @@
 {
-    "last_updated": "Feb 17, 2026, 5:38:42 PM",
+    "last_updated": "Feb 17, 2026, 5:40:27 PM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1024,14 +1024,14 @@
                 "region_name": "Missouri",
                 "time_zone": "-05:00",
                 "time_zone_info": {
-                    "abbreviation": "CST",
+                    "abbreviation": "EST",
                     "dst_end_date": "2025-11-02",
                     "dst_start_date": "2025-03-09",
-                    "gmt_offset": -21600,
+                    "gmt_offset": -18000,
                     "is_dst": false,
-                    "olson": "America/Chicago",
-                    "sunrise": "07:04",
-                    "sunset": "17:02"
+                    "olson": "America/New_York",
+                    "sunrise": "06:56",
+                    "sunset": "16:54"
                 },
                 "usage_type": "DCH",
                 "weather_station_code": "USMO0460",
@@ -1674,14 +1674,14 @@
                 "region_name": "Sao Paulo",
                 "time_zone": "-05:00",
                 "time_zone_info": {
-                    "abbreviation": "BRT",
-                    "dst_end_date": null,
-                    "dst_start_date": null,
-                    "gmt_offset": -10800,
+                    "abbreviation": "EST",
+                    "dst_end_date": "2025-11-02",
+                    "dst_start_date": "2025-03-09",
+                    "gmt_offset": -18000,
                     "is_dst": false,
-                    "olson": "America/Sao Paulo",
-                    "sunrise": "05:11",
-                    "sunset": "18:32"
+                    "olson": "America/New_York",
+                    "sunrise": "06:56",
+                    "sunset": "16:54"
                 },
                 "usage_type": "DCH",
                 "weather_station_code": "BRXX0232",
@@ -1697,7 +1697,7 @@
                 "female": 1341,
                 "male": 706
             },
-            "last_updated": "Feb 17, 2026, 5:38:42 PM",
+            "last_updated": "Feb 17, 2026, 5:40:27 PM",
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
