@@ -681,12 +681,12 @@
             "gender": 1,
             "hp": 1315775.625,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -75145.9921875,
-                "y": 51851.37890625,
-                "z": -11507.1396484375
+                "map": "norn_city",
+                "x": -36113.87890625,
+                "y": 2768.800048828125,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年2月17日 下午9:56:35",
+            "last_seen": "2026年2月18日 上午12:30:22",
             "level": 82,
             "name": "乌米",
             "name_history": [
@@ -2252,14 +2252,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 2332637.25,
+            "hp": 1545256.625,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -326242.59375,
-                "y": 203243.390625,
-                "z": -28348.228515625
+                "map": "norn_city",
+                "x": -35880.7578125,
+                "y": 1585.0899658203125,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年2月14日 下午8:50:52",
+            "last_seen": "2026年2月18日 上午12:30:22",
             "level": 83,
             "name": "SD丨止明诗",
             "name_history": [
@@ -24057,12 +24057,12 @@
             "gender": 1,
             "hp": 1336303.625,
             "last_known_position": {
-                "map": "city",
-                "x": 1157.5499267578125,
-                "y": -28375.69921875,
-                "z": 97866.1171875
+                "map": "norn_city",
+                "x": -35997.05859375,
+                "y": 2697.349853515625,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年2月17日 下午9:45:35",
+            "last_seen": "2026年2月18日 上午12:30:22",
             "level": 83,
             "name": "西安帅哥",
             "name_history": [
@@ -56133,6 +56133,31 @@
             "role_id": 63582695967456,
             "server_region": "cosmic-fold"
         },
+        "63582695967639": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 360590.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36361.73046875,
+                "y": 2714.010009765625,
+                "z": -13786.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:30:22",
+            "level": 81,
+            "name": "HansSama",
+            "name_history": [
+                "HansSama"
+            ],
+            "registered": "2025年11月28日 上午3:25:15",
+            "role_id": 63582695967639,
+            "server_region": "cosmic-fold"
+        },
         "63582695967742": {
             "crew_history": [
                 "魔女之旅"
@@ -56156,6 +56181,56 @@
             ],
             "registered": "2025年11月28日 上午11:23:45",
             "role_id": 63582695967742,
+            "server_region": "cosmic-fold"
+        },
+        "63582695967773": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 396298.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36365.08984375,
+                "y": 2706.829833984375,
+                "z": -13786.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:30:22",
+            "level": 80,
+            "name": "Caps",
+            "name_history": [
+                "Caps"
+            ],
+            "registered": "2025年11月28日 下午12:58:21",
+            "role_id": 63582695967773,
+            "server_region": "cosmic-fold"
+        },
+        "63582695967778": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 463617.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36115.48046875,
+                "y": 2735.139892578125,
+                "z": -13784.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:30:22",
+            "level": 79,
+            "name": "BrokenBlade",
+            "name_history": [
+                "BrokenBlade"
+            ],
+            "registered": "2025年11月28日 下午1:00:29",
+            "role_id": 63582695967778,
             "server_region": "cosmic-fold"
         },
         "63582695967784": {
@@ -60135,13 +60210,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695994342": {
+            "crew_history": [
+                "NOVA学院"
+            ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 560019.125,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 77,
+            "hp": 807484.3125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36099.7109375,
+                "y": 2740.510009765625,
+                "z": -13800.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:30:22",
+            "level": 82,
             "name": "yokio",
             "name_history": [
                 "yokio"
@@ -66943,7 +67027,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4904,
-    "last_updated": "2026年2月18日 上午12:28:22",
+    "accounts_total": 4907,
+    "last_updated": "2026年2月18日 上午12:30:22",
     "server_region": "cosmic-fold"
 }
