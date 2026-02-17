@@ -24830,12 +24830,21 @@
             "server_region": "southeast-asia"
         },
         "68783901324975": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 3049307.0,
-            "last_seen": [],
+            "hp": 3069015.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -2796.300048828125,
+                "y": -24235.0,
+                "z": 96705.6953125
+            },
+            "last_seen": "Feb 17, 2026, 11:30:19 PM",
             "level": 100,
             "name": "Lilycoris",
             "name_history": [
@@ -28856,6 +28865,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 11:27:18 PM",
+    "last_updated": "Feb 17, 2026, 11:30:19 PM",
     "server_region": "southeast-asia"
 }
