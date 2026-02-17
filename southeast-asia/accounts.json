@@ -11059,12 +11059,21 @@
             "server_region": "southeast-asia"
         },
         "68766721551114": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "1_8_1_1",
             "gender": 1,
             "hp": 537498.9375,
-            "last_seen": "Feb 04, 2026, 04:52:35 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": -536.7000122070313,
+                "y": -23545.400390625,
+                "z": 98611.65625
+            },
+            "last_seen": "Feb 17, 2026, 10:25:32 PM",
             "level": 100,
             "name": "NGC6302",
             "name_history": [
@@ -28776,6 +28785,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 10:24:51 PM",
+    "last_updated": "Feb 17, 2026, 10:25:32 PM",
     "server_region": "southeast-asia"
 }
