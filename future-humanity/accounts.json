@@ -875,12 +875,21 @@
             "server_region": "future-humanity"
         },
         "60563334906072": {
+            "crew_history": [
+                "从零开始"
+            ],
             "crew_id": 416611841813,
             "crew_name": "从零开始",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 2097016.25,
-            "last_seen": "2025年11月25日 上午 3:17:14",
+            "hp": 3181995.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325358.15625,
+                "y": 205073.640625,
+                "z": -28348.240234375
+            },
+            "last_seen": "2026年2月17日 下午8:33:26",
             "level": 100,
             "name": "至臻咸鱼",
             "name_history": [
@@ -1924,6 +1933,31 @@
             "role_id": 60563335300911,
             "server_region": "future-humanity"
         },
+        "60563335311394": {
+            "crew_history": [
+                "風紀委員会"
+            ],
+            "crew_id": 14023068235541,
+            "crew_name": "風紀委員会",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 624128.3125,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -327372.0,
+                "y": 203452.734375,
+                "z": -28328.8203125
+            },
+            "last_seen": "2026年2月17日 下午8:33:26",
+            "level": 92,
+            "name": "枫林耀",
+            "name_history": [
+                "枫林耀"
+            ],
+            "registered": "2024年6月8日 上午4:56:58",
+            "role_id": 60563335311394,
+            "server_region": "future-humanity"
+        },
         "60563335321548": {
             "crew_id": 15277198685973,
             "crew_name": "小奈碎碎念",
@@ -2272,6 +2306,29 @@
             ],
             "registered": "2024年7月18日 上午12:14:14",
             "role_id": 60563335397749,
+            "server_region": "future-humanity"
+        },
+        "60563335403605": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 542233.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326283.65625,
+                "y": 204490.09375,
+                "z": -28335.240234375
+            },
+            "last_seen": "2026年2月17日 下午8:33:26",
+            "level": 100,
+            "name": "oOvOc",
+            "name_history": [
+                "oOvOc"
+            ],
+            "registered": "2024年7月19日 下午3:46:20",
+            "role_id": 60563335403605,
             "server_region": "future-humanity"
         },
         "60563335407234": {
@@ -5484,6 +5541,31 @@
             "role_id": 60563335988658,
             "server_region": "future-humanity"
         },
+        "60563335989643": {
+            "crew_history": [
+                "闲人"
+            ],
+            "crew_id": 14074607843093,
+            "crew_name": "闲人",
+            "equipping_title": "小细菌的学徒,0",
+            "gender": 1,
+            "hp": 1820298.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -285546.5625,
+                "y": 168444.53125,
+                "z": -31592.03515625
+            },
+            "last_seen": "2026年2月17日 下午8:33:26",
+            "level": 99,
+            "name": "听你说话",
+            "name_history": [
+                "听你说话"
+            ],
+            "registered": "2026年1月17日 下午11:22:04",
+            "role_id": 60563335989643,
+            "server_region": "future-humanity"
+        },
         "60563335989787": {
             "crew_history": [
                 "极昼"
@@ -7912,7 +7994,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 475,
-    "last_updated": "2026年2月17日 下午8:31:26",
+    "accounts_total": 478,
+    "last_updated": "2026年2月17日 下午8:33:26",
     "server_region": "future-humanity"
 }
