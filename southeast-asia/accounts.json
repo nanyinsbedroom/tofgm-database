@@ -6175,12 +6175,21 @@
             "server_region": "southeast-asia"
         },
         "68745246612917": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2062794.5,
-            "last_seen": "Jan 29, 2026, 10:16:12 AM",
+            "hp": 2064278.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -354.79998779296875,
+                "y": -23591.099609375,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:17:18 PM",
             "level": 100,
             "name": "Wang Jarim",
             "name_history": [
@@ -9656,11 +9665,11 @@
             "hp": 2339673.25,
             "last_known_position": {
                 "map": "city",
-                "x": -534.47998046875,
-                "y": -17994.779296875,
-                "z": 96343.0390625
+                "x": -373.8699951171875,
+                "y": -17574.98046875,
+                "z": 96355.546875
             },
-            "last_seen": "Feb 17, 2026, 10:14:51 PM",
+            "last_seen": "Feb 17, 2026, 11:17:18 PM",
             "level": 100,
             "name": "eScaρe",
             "name_history": [
@@ -28838,6 +28847,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 11:14:18 PM",
+    "last_updated": "Feb 17, 2026, 11:17:18 PM",
     "server_region": "southeast-asia"
 }
