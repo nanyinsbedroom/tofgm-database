@@ -9249,14 +9249,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2581096.75,
+            "hp": 2867181.25,
             "last_known_position": {
                 "map": "city",
                 "x": 2.4600000381469727,
                 "y": -16880.44921875,
-                "z": 96668.4296875
+                "z": 96355.28125
             },
-            "last_seen": "Feb 17, 2026, 10:14:51 PM",
+            "last_seen": "Feb 17, 2026, 11:01:17 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -10236,16 +10236,24 @@
             "role_id": 68762426601590
         },
         "68762426601832": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "None",
             "gender": 0,
             "hp": 833292.75,
-            "last_seen": "Feb 4, 2026, 11:05:05 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -563.5999755859375,
+                "y": -23566.69921875,
+                "z": 98625.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:01:17 PM",
             "level": 100,
             "name": "OmletteRice$",
             "name_history": [
-                "OmletteRice$",
                 "OmletteRice$"
             ],
             "registered": "Jul 10, 2023, 11:44:52 PM",
@@ -25133,9 +25141,27 @@
             "server_region": "southeast-asia"
         },
         "68788196231468": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "FriK√SweetEyes's Apprentice,0",
             "gender": 1,
-            "last_seen": "Feb 7, 2026, 8:38:19 PM",
+            "hp": 2857380.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -601.6099853515625,
+                "y": -16513.869140625,
+                "z": 96343.78125
+            },
+            "last_seen": "Feb 17, 2026, 11:01:17 PM",
+            "level": 100,
             "name": "RuneStone",
+            "name_history": [
+                "RuneStone"
+            ],
+            "registered": "Aug 11, 2022, 12:55:50 PM",
             "role_id": 68788196231468,
             "server_region": "southeast-asia"
         },
@@ -25245,11 +25271,11 @@
             "hp": 2286287.75,
             "last_known_position": {
                 "map": "city",
-                "x": -607.0799560546875,
-                "y": -16499.259765625,
+                "x": -601.6099853515625,
+                "y": -16513.869140625,
                 "z": 96343.78125
             },
-            "last_seen": "Feb 17, 2026, 10:24:51 PM",
+            "last_seen": "Feb 17, 2026, 11:01:17 PM",
             "level": 100,
             "name": "DuckStone",
             "name_history": [
@@ -25839,12 +25865,21 @@
             "server_region": "southeast-asia"
         },
         "68792491218962": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2236212.25,
-            "last_seen": "Feb 9, 2026, 1:21:18 AM",
+            "hp": 2126936.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -53.099998474121094,
+                "y": -23429.69921875,
+                "z": 98625.6171875
+            },
+            "last_seen": "Feb 17, 2026, 11:01:17 PM",
             "level": 100,
             "name": "ชื่อม่อนคับอ้วน",
             "name_history": [
@@ -28794,6 +28829,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 10:59:17 PM",
+    "last_updated": "Feb 17, 2026, 11:01:17 PM",
     "server_region": "southeast-asia"
 }
