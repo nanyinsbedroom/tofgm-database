@@ -3411,12 +3411,21 @@
             "server_region": "visser-aida"
         },
         "60571923827907": {
+            "crew_history": [
+                "星语星愿"
+            ],
             "crew_id": 481036351254,
             "crew_name": "星语星愿",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 1948945.75,
-            "last_seen": "2026年2月9日 下午8:12:36",
+            "hp": 2059803.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 477.0999755859375,
+                "y": -17061.69921875,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月17日 下午9:20:33",
             "level": 100,
             "name": "螃蟹一只爪就七",
             "name_history": [
@@ -6039,6 +6048,31 @@
             "role_id": 60606283520416,
             "server_region": "visser-aida"
         },
+        "60606283520957": {
+            "crew_history": [
+                "御剑阁"
+            ],
+            "crew_id": 511101122333,
+            "crew_name": "御剑阁",
+            "equipping_title": "1_3_1_6",
+            "gender": 1,
+            "hp": 570754.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 51.5,
+                "y": -19040.400390625,
+                "z": 96339.5390625
+            },
+            "last_seen": "2026年2月17日 下午9:20:33",
+            "level": 96,
+            "name": "小龙儿",
+            "name_history": [
+                "小龙儿"
+            ],
+            "registered": "2021年12月16日 上午8:21:01",
+            "role_id": 60606283520957,
+            "server_region": "visser-aida"
+        },
         "60606283524117": {
             "crew_id": 17179883385,
             "crew_name": "异环",
@@ -8324,12 +8358,21 @@
             "server_region": "visser-aida"
         },
         "60992830581019": {
+            "crew_history": [
+                "幻月之境"
+            ],
             "crew_id": 154618836860,
             "crew_name": "幻月之境",
             "equipping_title": "2_2_0_77",
             "gender": 1,
-            "hp": 2416166.0,
-            "last_seen": "2026年2月9日 下午8:12:36",
+            "hp": 2238703.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -217.0699920654297,
+                "y": -16503.419921875,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年2月17日 下午9:20:33",
             "level": 100,
             "name": "万晴",
             "name_history": [
@@ -15407,15 +15450,25 @@
             "server_region": "visser-aida"
         },
         "62727997532459": {
+            "crew_history": [
+                "恶魔城"
+            ],
             "crew_id": 6927782262550,
             "crew_name": "恶魔城",
-            "equipping_title": "2_2_0_92",
+            "equipping_title": "咪喵喵的启迪人,1",
             "gender": 1,
-            "hp": 2146136.5,
-            "last_seen": "2025年12月22日 上午 4:47:06",
+            "hp": 2114168.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -28.03999900817871,
+                "y": -20543.900390625,
+                "z": 97790.2890625
+            },
+            "last_seen": "2026年2月17日 下午9:20:33",
             "level": 100,
-            "name": "夜莉·德拉库尔",
+            "name": "破碎的星琪",
             "name_history": [
+                "破碎的星琪",
                 "夜莉·德拉库尔"
             ],
             "registered": "2022年9月29日 上午12:02:55",
@@ -15752,7 +15805,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1075,
-    "last_updated": "2026年2月17日 下午9:19:33",
+    "accounts_total": 1076,
+    "last_updated": "2026年2月17日 下午9:20:33",
     "server_region": "visser-aida"
 }
