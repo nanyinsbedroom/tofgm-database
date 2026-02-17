@@ -10318,12 +10318,21 @@
             "server_region": "southeast-asia"
         },
         "68766721378406": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "1_8_1_1",
             "gender": 1,
             "hp": 1258020.5,
-            "last_seen": "Jan 29, 2026, 06:41:35 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": 138.89999389648438,
+                "y": -23485.19921875,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 17, 2026, 10:22:51 PM",
             "level": 100,
             "name": "小春Kornnitz—BB",
             "name_history": [
@@ -28746,6 +28755,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 10:21:51 PM",
+    "last_updated": "Feb 17, 2026, 10:22:51 PM",
     "server_region": "southeast-asia"
 }
