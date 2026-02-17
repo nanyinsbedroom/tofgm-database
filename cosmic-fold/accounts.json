@@ -59209,15 +59209,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695992405": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "天羽泞的学徒,0",
             "gender": 0,
-            "hp": 667957.5,
-            "last_seen": "2026年2月10日 上午1:21:47",
-            "level": 80,
-            "name": "躲厕所斗蛆",
+            "hp": 971135.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91390.859375,
+                "y": 78075.8515625,
+                "z": -7032.1396484375
+            },
+            "last_seen": "2026年2月17日 下午10:08:36",
+            "level": 82,
+            "name": "〈皮皮虾〉",
             "name_history": [
+                "〈皮皮虾〉",
                 "躲厕所斗蛆"
             ],
             "registered": "2026年1月20日 上午9:30:23",
@@ -66396,6 +66406,29 @@
             "role_id": 63582696008032,
             "server_region": "cosmic-fold"
         },
+        "63582696008052": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93767.078125,
+                "y": 76214.53125,
+                "z": -6911.2197265625
+            },
+            "last_seen": "2026年2月17日 下午10:08:36",
+            "level": 4,
+            "name": "陌陌无声",
+            "name_history": [
+                "陌陌无声"
+            ],
+            "registered": "2026年2月17日 上午9:20:24",
+            "role_id": 63582696008052,
+            "server_region": "cosmic-fold"
+        },
         "63582696008077": {
             "crew_history": [],
             "crew_id": 0,
@@ -66510,9 +66543,32 @@
             "registered": "2026年2月17日 下午9:48:34",
             "role_id": 63582696008133,
             "server_region": "cosmic-fold"
+        },
+        "63582696008135": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92630.9609375,
+                "y": 85847.109375,
+                "z": -6975.45849609375
+            },
+            "last_seen": "2026年2月17日 下午10:08:36",
+            "level": 3,
+            "name": "夕阳的刻痕ql",
+            "name_history": [
+                "夕阳的刻痕ql"
+            ],
+            "registered": "2026年2月17日 下午9:55:02",
+            "role_id": 63582696008135,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4891,
-    "last_updated": "2026年2月17日 下午10:05:36",
+    "accounts_total": 4893,
+    "last_updated": "2026年2月17日 下午10:08:36",
     "server_region": "cosmic-fold"
 }
