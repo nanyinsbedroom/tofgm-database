@@ -26275,12 +26275,21 @@
             "server_region": "southeast-asia"
         },
         "68792491262869": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "2_1_0_2",
             "gender": 1,
-            "hp": 2543328.5,
-            "last_seen": "Feb 9, 2026, 12:16:47 AM",
+            "hp": 2640950.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -238.9099884033203,
+                "y": -23533.150390625,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:47:04 PM",
             "level": 100,
             "name": "Hanayome",
             "name_history": [
@@ -28918,6 +28927,6 @@
         }
     },
     "accounts_total": 2051,
-    "last_updated": "Feb 17, 2026, 11:45:04 PM",
+    "last_updated": "Feb 17, 2026, 11:47:04 PM",
     "server_region": "southeast-asia"
 }
