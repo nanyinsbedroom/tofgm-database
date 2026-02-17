@@ -25079,12 +25079,21 @@
             "server_region": "southeast-asia"
         },
         "68788196224460": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "1_2022",
             "gender": 1,
             "hp": 748840.1875,
-            "last_seen": "Jan 29, 2026, 06:53:27 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": -773.0999755859375,
+                "y": -23668.400390625,
+                "z": 98605.65625
+            },
+            "last_seen": "Feb 17, 2026, 11:27:18 PM",
             "level": 100,
             "name": "Jeeja",
             "name_history": [
@@ -28847,6 +28856,6 @@
         }
     },
     "accounts_total": 2050,
-    "last_updated": "Feb 17, 2026, 11:24:18 PM",
+    "last_updated": "Feb 17, 2026, 11:27:18 PM",
     "server_region": "southeast-asia"
 }
