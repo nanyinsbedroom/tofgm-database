@@ -11064,12 +11064,21 @@
             "server_region": "southeast-asia"
         },
         "68766721495225": {
+            "crew_history": [
+                "★FluffyCat★"
+            ],
             "crew_id": 571230666379,
             "crew_name": "★FluffyCat★",
             "equipping_title": "None",
             "gender": 1,
             "hp": 259049.4375,
-            "last_seen": [],
+            "last_known_position": {
+                "map": "city",
+                "x": -581.3699951171875,
+                "y": -23475.009765625,
+                "z": 98612.15625
+            },
+            "last_seen": "Feb 17, 2026, 11:51:04 PM",
             "level": 98,
             "name": "atk01",
             "name_history": [
@@ -28927,6 +28936,6 @@
         }
     },
     "accounts_total": 2051,
-    "last_updated": "Feb 17, 2026, 11:47:04 PM",
+    "last_updated": "Feb 17, 2026, 11:51:04 PM",
     "server_region": "southeast-asia"
 }
