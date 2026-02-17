@@ -1182,13 +1182,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479858": {
-            "crew_id": 17188757287,
-            "crew_name": "Moonlight",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 0.0,
-            "last_seen": "Nov 26, 2025, 01:10:15 AM",
-            "level": 22,
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "Murka❀РimрShino's Enlightener,1",
+            "gender": 0,
+            "hp": 1020963.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1257.3299560546875,
+                "y": -28334.44921875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
+            "level": 75,
             "name": "Shino Asada",
             "name_history": [
                 "Shino Asada"
@@ -6655,14 +6664,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1007664.875,
+            "hp": 1005950.4375,
             "last_known_position": {
                 "map": "city",
-                "x": -345.16998291015625,
-                "y": -28127.240234375,
-                "z": 97917.6640625
+                "x": -772.75,
+                "y": -27965.548828125,
+                "z": 97917.5078125
             },
-            "last_seen": "Feb 16, 2026, 10:06:33 PM",
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
             "level": 75,
             "name": "Gi",
             "name_history": [
@@ -9036,15 +9045,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 1040057.5,
+            "hp": 1089239.375,
             "last_known_position": {
                 "map": "city",
-                "x": -667.7999877929688,
-                "y": -23991.16015625,
-                "z": 97993.2265625
+                "x": 1936.0233154296875,
+                "y": -27497.42578125,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 75,
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
+            "level": 76,
             "name": "Broly",
             "name_history": [
                 "Broly"
@@ -12632,15 +12641,15 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 1069385.0,
+            "hp": 1076254.875,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -64518.796875,
-                "y": 101487.296875,
-                "z": -4988.6396484375
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 15, 2026, 10:03:17 PM",
-            "level": 75,
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
+            "level": 76,
             "name": "invite",
             "name_history": [
                 "invite"
@@ -13408,7 +13417,7 @@
                 "y": -27856.798828125,
                 "z": 97895.4453125
             },
-            "last_seen": "Feb 16, 2026, 10:06:02 PM",
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
             "level": 75,
             "name": "Zanta",
             "name_history": [
@@ -15762,16 +15771,16 @@
             ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "1_10_0_5",
             "gender": 0,
-            "hp": 1015596.75,
+            "hp": 1025662.0625,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -59063.9375,
-                "y": 105182.8046875,
-                "z": -12890.41015625
+                "map": "city",
+                "x": 3242.0,
+                "y": -28521.298828125,
+                "z": 97994.65625
             },
-            "last_seen": "Feb 15, 2026, 10:03:17 PM",
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
             "level": 75,
             "name": "Deathshot",
             "name_history": [
@@ -16309,14 +16318,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 936034.75,
+            "hp": 918774.9375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -58985.8671875,
-                "y": 105123.078125,
-                "z": -12886.25
+                "map": "city",
+                "x": 3255.800048828125,
+                "y": -28504.298828125,
+                "z": 97994.65625
             },
-            "last_seen": "Feb 15, 2026, 10:03:17 PM",
+            "last_seen": "Feb 17, 2026, 8:28:49 AM",
             "level": 75,
             "name": "Void Dragon",
             "name_history": [
@@ -19314,6 +19323,6 @@
         }
     },
     "accounts_total": 1119,
-    "last_updated": "Feb 16, 2026, 10:06:33 PM",
+    "last_updated": "Feb 17, 2026, 8:28:49 AM",
     "server_region": "ws-europe-01"
 }
