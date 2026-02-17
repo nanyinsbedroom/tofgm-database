@@ -10953,12 +10953,12 @@
             "gender": 1,
             "hp": 1445859.75,
             "last_known_position": {
-                "map": "city",
-                "x": -1900.1400146484375,
-                "y": -24282.26953125,
-                "z": 97872.1015625
+                "map": "norn_city",
+                "x": -36727.0234375,
+                "y": 3182.869384765625,
+                "z": -13803.7900390625
             },
-            "last_seen": "2026年2月17日 下午10:09:36",
+            "last_seen": "2026年2月18日 上午12:19:22",
             "level": 83,
             "name": "抹茶酥",
             "name_history": [
@@ -56567,20 +56567,79 @@
             "role_id": 63582695970097,
             "server_region": "cosmic-fold"
         },
-        "63582695970108": {
+        "63582695970107": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
             "crew_id": 3079491566036,
             "crew_name": "王婆婆小屋",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 424116.5625,
-            "last_seen": "2026年01月26日 上午 4:37:52",
-            "level": 79,
+            "hp": 538181.375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42522.078125,
+                "y": 4069.139892578125,
+                "z": -13789.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:19:22",
+            "level": 81,
+            "name": "墨晶176号",
+            "name_history": [
+                "墨晶176号"
+            ],
+            "registered": "2025年11月30日 下午10:40:45",
+            "role_id": 63582695970107,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970108": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 566509.125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42687.94921875,
+                "y": 4324.89990234375,
+                "z": -13783.849609375
+            },
+            "last_seen": "2026年2月18日 上午12:19:22",
+            "level": 81,
             "name": "墨晶458号",
             "name_history": [
                 "墨晶458号"
             ],
             "registered": "2025年11月30日 下午10:42:09",
             "role_id": 63582695970108,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970109": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 543748.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42661.87890625,
+                "y": 4375.0,
+                "z": -13783.349609375
+            },
+            "last_seen": "2026年2月18日 上午12:19:22",
+            "level": 81,
+            "name": "兔3",
+            "name_history": [
+                "兔3"
+            ],
+            "registered": "2025年11月30日 下午10:43:43",
+            "role_id": 63582695970109,
             "server_region": "cosmic-fold"
         },
         "63582695970111": {
@@ -56597,6 +56656,31 @@
             ],
             "registered": "2025年11月30日 下午10:44:44",
             "role_id": 63582695970111,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970112": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 567487.125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -43269.09765625,
+                "y": 4693.9599609375,
+                "z": -13486.0498046875
+            },
+            "last_seen": "2026年2月18日 上午12:19:22",
+            "level": 81,
+            "name": "兔4",
+            "name_history": [
+                "兔4"
+            ],
+            "registered": "2025年11月30日 下午10:45:10",
+            "role_id": 63582695970112,
             "server_region": "cosmic-fold"
         },
         "63582695970801": {
@@ -66232,6 +66316,31 @@
             "role_id": 63582696007662,
             "server_region": "cosmic-fold"
         },
+        "63582696007715": {
+            "crew_history": [
+                "快乐老家"
+            ],
+            "crew_id": 304942692820,
+            "crew_name": "快乐老家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 324336.03125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -32591.6640625,
+                "y": 8537.453125,
+                "z": -13786.359375
+            },
+            "last_seen": "2026年2月18日 上午12:19:22",
+            "level": 77,
+            "name": "chmsl1",
+            "name_history": [
+                "chmsl1"
+            ],
+            "registered": "2026年2月14日 下午2:39:12",
+            "role_id": 63582696007715,
+            "server_region": "cosmic-fold"
+        },
         "63582696007735": {
             "crew_history": [],
             "crew_id": 0,
@@ -66766,7 +66875,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4898,
-    "last_updated": "2026年2月18日 上午12:17:22",
+    "accounts_total": 4902,
+    "last_updated": "2026年2月18日 上午12:19:22",
     "server_region": "cosmic-fold"
 }
