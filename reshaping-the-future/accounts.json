@@ -327,14 +327,14 @@
             "crew_name": "地狱",
             "equipping_title": "2_2_0_29",
             "gender": 1,
-            "hp": 2009788.5,
+            "hp": 2127760.0,
             "last_known_position": {
                 "map": "city",
-                "x": 181.8000030517578,
-                "y": -16732.599609375,
-                "z": 96362.0390625
+                "x": -1641.02001953125,
+                "y": -19381.8203125,
+                "z": 95996.796875
             },
-            "last_seen": "2026年2月15日 下午9:59:07",
+            "last_seen": "2026年2月18日 下午10:59:36",
             "level": 100,
             "name": "黯困星",
             "name_history": [
@@ -455,6 +455,31 @@
             ],
             "registered": "2021年12月19日 下午10:00:01",
             "role_id": 60580513753829,
+            "server_region": "reshaping-the-future"
+        },
+        "60584808691148": {
+            "crew_history": [
+                "地狱"
+            ],
+            "crew_id": 21474851082,
+            "crew_name": "地狱",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2491947.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 6476.15966796875,
+                "y": -30215.51953125,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月18日 下午10:59:36",
+            "level": 100,
+            "name": "浮华·挽霜",
+            "name_history": [
+                "浮华·挽霜"
+            ],
+            "registered": "2021年12月16日 上午10:06:51",
+            "role_id": 60584808691148,
             "server_region": "reshaping-the-future"
         },
         "60597693634990": {
@@ -2731,6 +2756,29 @@
             ],
             "registered": "2024年4月21日 下午10:02:46",
             "role_id": 62715113805083,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113824929": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 420574.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2010.699951171875,
+                "y": -26129.66015625,
+                "z": 97874.1171875
+            },
+            "last_seen": "2026年2月18日 下午10:59:36",
+            "level": 68,
+            "name": "MX29",
+            "name_history": [
+                "MX29"
+            ],
+            "registered": "2024年5月4日 下午11:17:23",
+            "role_id": 62715113824929,
             "server_region": "reshaping-the-future"
         },
         "62715113828403": {
@@ -9683,7 +9731,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 509,
-    "last_updated": "2026年2月18日 下午10:58:36",
+    "accounts_total": 511,
+    "last_updated": "2026年2月18日 下午10:59:36",
     "server_region": "reshaping-the-future"
 }
