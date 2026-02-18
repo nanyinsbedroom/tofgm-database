@@ -3102,13 +3102,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545322": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 548370.75,
-            "last_seen": "Dec 22, 2025, 12:20:34 AM",
-            "level": 62,
+            "hp": 1106761.75,
+            "last_known_position": {
+                "map": "yaxiahuisu_D",
+                "x": -5108.19970703125,
+                "y": 10231.6396484375,
+                "z": -133.22999572753906
+            },
+            "last_seen": "Feb 18, 2026, 7:30:50 PM",
+            "level": 76,
             "name": "名無しくんさん",
             "name_history": [
                 "名無しくんさん"
@@ -87709,6 +87718,6 @@
         }
     },
     "accounts_total": 5349,
-    "last_updated": "Feb 18, 2026, 7:29:50 PM",
+    "last_updated": "Feb 18, 2026, 7:30:50 PM",
     "server_region": "ws-asia-01"
 }
