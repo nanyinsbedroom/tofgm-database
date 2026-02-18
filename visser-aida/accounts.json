@@ -1551,14 +1551,14 @@
             "crew_name": "墨影千秋",
             "equipping_title": "4_2024",
             "gender": 0,
-            "hp": 1955453.375,
+            "hp": 1745716.125,
             "last_known_position": {
-                "map": "Team8P_16_D_II",
-                "x": 81289.5,
-                "y": 70501.5,
-                "z": 87808.484375
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
             },
-            "last_seen": "2026年2月17日 上午2:11:10",
+            "last_seen": "2026年2月19日 上午12:07:36",
             "level": 100,
             "name": "Aizyra",
             "name_history": [
@@ -10701,6 +10701,31 @@
             "role_id": 61052960117744,
             "server_region": "visser-aida"
         },
+        "61052960118163": {
+            "crew_history": [
+                "猫猫乐园"
+            ],
+            "crew_id": 34359752575,
+            "crew_name": "猫猫乐园",
+            "equipping_title": "1_9_0_4",
+            "gender": 1,
+            "hp": 1720518.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -320.5199890136719,
+                "y": -16777.330078125,
+                "z": 96368.53125
+            },
+            "last_seen": "2026年2月19日 上午12:07:36",
+            "level": 100,
+            "name": "星瑶iL",
+            "name_history": [
+                "星瑶iL"
+            ],
+            "registered": "2021年12月16日 上午8:09:24",
+            "role_id": 61052960118163,
+            "server_region": "visser-aida"
+        },
         "61052960130946": {
             "crew_id": 4294981499,
             "crew_name": "莉可丽丝",
@@ -12243,12 +12268,21 @@
             "server_region": "visser-aida"
         },
         "61430917241891": {
+            "crew_history": [
+                "幻月之境"
+            ],
             "crew_id": 154618836860,
             "crew_name": "幻月之境",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2493328.75,
-            "last_seen": "2026年2月12日 下午11:57:02",
+            "hp": 2394791.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -2.990000009536743,
+                "y": -16789.8203125,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年2月19日 上午12:07:36",
             "level": 100,
             "name": "魔法少女Eula",
             "name_history": [
@@ -12866,11 +12900,11 @@
             "hp": 2083160.125,
             "last_known_position": {
                 "map": "city",
-                "x": -25.760000228881836,
-                "y": -16755.310546875,
+                "x": -45.7599983215332,
+                "y": -16791.888671875,
                 "z": 96362.03125
             },
-            "last_seen": "2026年2月15日 下午11:03:10",
+            "last_seen": "2026年2月19日 上午12:07:36",
             "level": 100,
             "name": "岚岚岚岚岚岚宝",
             "name_history": [
@@ -15702,11 +15736,26 @@
             "server_region": "visser-aida"
         },
         "62736587522714": {
+            "crew_history": [
+                "莉可丽丝"
+            ],
             "crew_id": 4294981499,
             "crew_name": "莉可丽丝",
+            "equipping_title": "4_2023",
             "gender": 1,
-            "last_seen": "2025年09月17日 下午 10:08:34",
+            "hp": 2084550.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 67.36000061035156,
+                "y": -16728.48046875,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年2月19日 上午12:07:36",
+            "level": 100,
             "name": "清瑕",
+            "name_history": [
+                "清瑕"
+            ],
             "registered": "2023年1月12日 下午5:23:29",
             "role_id": 62736587522714,
             "server_region": "visser-aida"
@@ -15932,6 +15981,6 @@
         }
     },
     "accounts_total": 1080,
-    "last_updated": "2026年2月17日 下午9:28:34",
+    "last_updated": "2026年2月19日 上午12:07:36",
     "server_region": "visser-aida"
 }
