@@ -7209,13 +7209,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695853539": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_74",
             "gender": 1,
-            "hp": 1290066.25,
-            "last_seen": "2026年01月26日 上午 4:04:52",
-            "level": 80,
+            "hp": 1411096.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1206.3199462890625,
+                "y": -28376.05859375,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月19日 上午12:38:38",
+            "level": 83,
             "name": "香奈美",
             "name_history": [
                 "香奈美"
@@ -17046,15 +17055,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695860190": {
-            "crew_id": 38654720468,
-            "crew_name": "少女终末旅行",
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1435148.875,
-            "last_seen": "2026年2月8日 下午9:54:41",
-            "level": 82,
-            "name": "雪璃",
+            "hp": 1484343.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1323.699951171875,
+                "y": -28199.978515625,
+                "z": 97881.140625
+            },
+            "last_seen": "2026年2月19日 上午12:38:38",
+            "level": 83,
+            "name": "千千結",
             "name_history": [
+                "千千結",
                 "云曦雪",
                 "雪璃"
             ],
@@ -17918,16 +17937,16 @@
             ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;96",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;46",
             "gender": 1,
-            "hp": 1441084.125,
+            "hp": 1443080.875,
             "last_known_position": {
-                "map": "city",
-                "x": 417.54998779296875,
-                "y": -28323.08984375,
-                "z": 97874.1171875
+                "map": "norn_city",
+                "x": -34605.390625,
+                "y": 6879.11962890625,
+                "z": -13797.849609375
             },
-            "last_seen": "2026年2月14日 下午9:53:56",
+            "last_seen": "2026年2月19日 上午12:38:38",
             "level": 83,
             "name": "想念",
             "name_history": [
@@ -25022,13 +25041,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695866965": {
-            "crew_id": 17179883988,
-            "crew_name": "月影",
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 645696.125,
-            "last_seen": "2025年11月22日 下午 8:49:03",
-            "level": 71,
+            "hp": 1187842.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34650.08984375,
+                "y": 6777.44970703125,
+                "z": -13792.849609375
+            },
+            "last_seen": "2026年2月19日 上午12:38:38",
+            "level": 82,
             "name": "洛淋",
             "name_history": [
                 "洛淋"
@@ -32148,13 +32176,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695879205": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_2_0_68",
+            "equipping_title": "2_2_0_81",
             "gender": 1,
-            "hp": 1319252.0,
-            "last_seen": "2026年02月04日 上午 6:03:03",
-            "level": 81,
+            "hp": 1260747.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34595.73046875,
+                "y": 6939.6796875,
+                "z": -13805.849609375
+            },
+            "last_seen": "2026年2月19日 上午12:38:38",
+            "level": 83,
             "name": "西行寺喵喵子",
             "name_history": [
                 "西行寺喵喵子"
@@ -67177,6 +67214,6 @@
         }
     },
     "accounts_total": 4908,
-    "last_updated": "2026年2月19日 上午12:37:38",
+    "last_updated": "2026年2月19日 上午12:38:38",
     "server_region": "cosmic-fold"
 }
