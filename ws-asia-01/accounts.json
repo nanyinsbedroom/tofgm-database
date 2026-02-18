@@ -37875,13 +37875,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118561212": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 1036515.375,
-            "last_seen": "Feb 11, 2026, 9:13:45 PM",
-            "level": 75,
+            "hp": 1073427.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72870.3125,
+                "y": 48929.49609375,
+                "z": -12311.0595703125
+            },
+            "last_seen": "Feb 18, 2026, 7:39:51 PM",
+            "level": 76,
             "name": "Rondine",
             "name_history": [
                 "Rondine"
@@ -88057,9 +88066,55 @@
             "registered": "Feb 17, 2026, 11:00:58 PM",
             "role_id": 38174103118613407,
             "server_region": "ws-asia-01"
+        },
+        "38174103118613410": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 12973.6435546875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72813.078125,
+                "y": 48271.9375,
+                "z": -12273.7001953125
+            },
+            "last_seen": "Feb 18, 2026, 7:39:51 PM",
+            "level": 58,
+            "name": "RonRonRon",
+            "name_history": [
+                "RonRonRon"
+            ],
+            "registered": "Feb 17, 2026, 11:38:25 PM",
+            "role_id": 38174103118613410,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118613419": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63384.22265625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72481.6484375,
+                "y": 49093.7265625,
+                "z": -12314.7861328125
+            },
+            "last_seen": "Feb 18, 2026, 7:39:51 PM",
+            "level": 57,
+            "name": "  RonRonRonRon",
+            "name_history": [
+                "  RonRonRonRon"
+            ],
+            "registered": "Feb 18, 2026, 1:02:08 AM",
+            "role_id": 38174103118613419,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5358,
-    "last_updated": "Feb 18, 2026, 7:38:50 PM",
+    "accounts_total": 5360,
+    "last_updated": "Feb 18, 2026, 7:39:51 PM",
     "server_region": "ws-asia-01"
 }
