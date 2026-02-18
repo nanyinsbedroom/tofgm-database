@@ -97,13 +97,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118544917": {
+            "crew_history": [
+                "Fantasia"
+            ],
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "1_9_0_3",
             "gender": 1,
-            "hp": 805861.0625,
-            "last_seen": "Jan 11, 2026, 12:58:03 AM",
-            "level": 70,
+            "hp": 3405662.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 108455.078125,
+                "y": -191743.015625,
+                "z": -4805.17236328125
+            },
+            "last_seen": "Feb 18, 2026, 7:47:51 PM",
+            "level": 76,
             "name": "Suihyuni",
             "name_history": [
                 "Suihyuni"
@@ -1810,14 +1819,14 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1146014.25,
+            "hp": 1779297.625,
             "last_known_position": {
-                "map": "city",
-                "x": -1555.0799560546875,
-                "y": -28467.859375,
-                "z": 97879.5
+                "map": "Kailo_P_003",
+                "x": 109966.0546875,
+                "y": -195552.0625,
+                "z": -4099.44970703125
             },
-            "last_seen": "Feb 18, 2026, 1:49:27 AM",
+            "last_seen": "Feb 18, 2026, 7:47:51 PM",
             "level": 76,
             "name": "Alice",
             "name_history": [
@@ -47285,15 +47294,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118565762": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 587427.125,
-            "last_seen": "Dec 24, 2025, 12:43:46 AM",
-            "level": 63,
-            "name": "ホトリ",
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 116399.1640625,
+                "y": -182354.546875,
+                "z": -4097.9013671875
+            },
+            "last_seen": "Feb 18, 2026, 7:47:51 PM",
+            "level": 76,
+            "name": "ほとり",
             "name_history": [
+                "ほとり",
                 "ホトリ"
             ],
             "registered": "Nov 26, 2025, 6:40:55 AM",
@@ -88185,6 +88204,6 @@
         }
     },
     "accounts_total": 5361,
-    "last_updated": "Feb 18, 2026, 7:45:51 PM",
+    "last_updated": "Feb 18, 2026, 7:47:51 PM",
     "server_region": "ws-asia-01"
 }
