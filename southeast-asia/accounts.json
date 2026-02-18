@@ -15990,16 +15990,24 @@
             "server_region": "southeast-asia"
         },
         "68775311735261": {
-            "Name": "Arlde",
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
-            "equipping_title": "2_2_0_92",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2232007.0,
-            "last_seen": "Jan 31, 2026, 04:04:42 AM",
+            "hp": 6306898.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98350.734375,
+                "y": -189631.296875,
+                "z": -7900.94775390625
+            },
+            "last_seen": "Feb 18, 2026, 7:09:44 PM",
             "level": 100,
+            "name": "Arlde",
             "name_history": [
-                "Arlde",
                 "Arlde"
             ],
             "registered": "May 10, 2025, 12:15:12 AM",
@@ -29004,6 +29012,6 @@
         }
     },
     "accounts_total": 2052,
-    "last_updated": "Feb 18, 2026, 7:08:44 PM",
+    "last_updated": "Feb 18, 2026, 7:09:44 PM",
     "server_region": "southeast-asia"
 }
