@@ -56553,13 +56553,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118574650": {
-            "crew_id": 51548495653,
-            "crew_name": "Hykros",
-            "equipping_title": "None",
+            "crew_history": [
+                "WeWillWin"
+            ],
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "skener 3's Mentor,0",
             "gender": 1,
-            "hp": 542821.75,
-            "last_seen": "Dec 27, 2025, 05:02:57 AM",
-            "level": 64,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 94547.9453125,
+                "y": -189313.59375,
+                "z": -7876.98974609375
+            },
+            "last_seen": "Feb 18, 2026, 7:45:51 PM",
+            "level": 75,
             "name": "chimerax",
             "name_history": [
                 "chimerax"
@@ -88176,6 +88185,6 @@
         }
     },
     "accounts_total": 5361,
-    "last_updated": "Feb 18, 2026, 7:44:51 PM",
+    "last_updated": "Feb 18, 2026, 7:45:51 PM",
     "server_region": "ws-asia-01"
 }
