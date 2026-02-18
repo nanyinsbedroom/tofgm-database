@@ -1229,14 +1229,26 @@
             "server_region": "reshaping-the-future"
         },
         "62715112875221": {
+            "crew_history": [
+                "无念"
+            ],
             "crew_id": 8061653629194,
             "crew_name": "无念",
-            "equipping_title": "3_2022",
+            "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1722714.875,
-            "last_seen": "2025年10月14日 下午 10:05:44",
+            "hp": 1651697.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55207.95703125,
+                "y": -86858.3515625,
+                "z": 21723.958984375
+            },
+            "last_seen": "2026年2月18日 下午10:03:33",
             "level": 100,
             "name": "长的还行",
+            "name_history": [
+                "长的还行"
+            ],
             "registered": "2022年6月23日 上午2:33:57",
             "role_id": 62715112875221,
             "server_region": "reshaping-the-future"
@@ -2351,15 +2363,25 @@
             "server_region": "reshaping-the-future"
         },
         "62715113973562": {
+            "crew_history": [
+                "月落花奚"
+            ],
             "crew_id": 21303037802762,
             "crew_name": "月落花奚",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "2_2_0_70",
             "gender": 0,
-            "hp": 1752155.0,
-            "last_seen": "2025年11月25日 上午 1:52:17",
+            "hp": 1711561.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54134.19921875,
+                "y": -87676.078125,
+                "z": 21747.048828125
+            },
+            "last_seen": "2026年2月18日 下午10:03:33",
             "level": 100,
-            "name": "古月　方源",
+            "name": "　绫地宁宁",
             "name_history": [
+                "　绫地宁宁",
                 "古月　方源"
             ],
             "registered": "2024年7月17日 下午10:03:13",
@@ -2829,6 +2851,31 @@
             "role_id": 62715114235489,
             "server_region": "reshaping-the-future"
         },
+        "62715114236037": {
+            "crew_history": [
+                "桃花岛"
+            ],
+            "crew_id": 120259098896,
+            "crew_name": "桃花岛",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1155025.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55346.8984375,
+                "y": -88472.3984375,
+                "z": 21716.859375
+            },
+            "last_seen": "2026年2月18日 下午10:03:33",
+            "level": 100,
+            "name": "若非梦",
+            "name_history": [
+                "若非梦"
+            ],
+            "registered": "2024年12月11日 上午10:42:56",
+            "role_id": 62715114236037,
+            "server_region": "reshaping-the-future"
+        },
         "62715114236337": {
             "crew_id": 3204045617519,
             "crew_name": "心境",
@@ -2860,6 +2907,31 @@
             "name": "大杂鱼鱼",
             "registered": "2024年12月29日 上午12:33:39",
             "role_id": 62715114283358,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114286195": {
+            "crew_history": [
+                "花园乐土"
+            ],
+            "crew_id": 1705102031215,
+            "crew_name": "花园乐土",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1060476.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54202.2890625,
+                "y": -87849.71875,
+                "z": 21721.83984375
+            },
+            "last_seen": "2026年2月18日 下午10:03:33",
+            "level": 100,
+            "name": "水灵灵白灵儿",
+            "name_history": [
+                "水灵灵白灵儿"
+            ],
+            "registered": "2025年1月1日 下午5:48:39",
+            "role_id": 62715114286195,
             "server_region": "reshaping-the-future"
         },
         "62715114287586": {
@@ -7602,6 +7674,31 @@
             "role_id": 63148904706752,
             "server_region": "reshaping-the-future"
         },
+        "63148904708503": {
+            "crew_history": [
+                "花间一壶酒"
+            ],
+            "crew_id": 231928248687,
+            "crew_name": "花间一壶酒",
+            "equipping_title": "2_2_0_39",
+            "gender": 0,
+            "hp": 2021785.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55402.76953125,
+                "y": -86979.6171875,
+                "z": 21730.98046875
+            },
+            "last_seen": "2026年2月18日 下午10:03:33",
+            "level": 100,
+            "name": "破烂世界",
+            "name_history": [
+                "破烂世界"
+            ],
+            "registered": "2024年5月12日 上午11:49:49",
+            "role_id": 63148904708503,
+            "server_region": "reshaping-the-future"
+        },
         "63148904723782": {
             "crew_history": [
                 "银月"
@@ -7838,7 +7935,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 438,
-    "last_updated": "2026年2月18日 下午10:02:33",
+    "accounts_total": 441,
+    "last_updated": "2026年2月18日 下午10:03:33",
     "server_region": "reshaping-the-future"
 }
