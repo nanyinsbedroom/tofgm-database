@@ -3044,13 +3044,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851270": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1456688.75,
-            "last_seen": "2026年2月10日 下午10:59:14",
-            "level": 82,
+            "hp": 1526593.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -3587.119873046875,
+                "y": -18846.810546875,
+                "z": 96888.140625
+            },
+            "last_seen": "2026年2月19日 上午12:37:38",
+            "level": 83,
             "name": "千咲サ",
             "name_history": [
                 "千咲サ"
@@ -4112,13 +4121,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851785": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_9_0_3",
             "gender": 1,
-            "hp": 1475951.75,
-            "last_seen": "2026年2月8日 下午8:25:28",
-            "level": 82,
+            "hp": 1528886.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 3349.2998046875,
+                "y": -27042.298828125,
+                "z": 97865.4765625
+            },
+            "last_seen": "2026年2月19日 上午12:37:38",
+            "level": 83,
             "name": "konakona",
             "name_history": [
                 "konakona"
@@ -29074,14 +29092,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1444475.0,
+            "hp": 1553132.875,
             "last_known_position": {
                 "map": "city",
-                "x": 131.0,
-                "y": -22066.298828125,
-                "z": 96737.859375
+                "x": 2265.0,
+                "y": -27111.0,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月18日 上午12:36:23",
+            "last_seen": "2026年2月19日 上午12:37:38",
             "level": 83,
             "name": "洛月儿",
             "name_history": [
@@ -37566,14 +37584,14 @@
             "crew_name": "月歌行",
             "equipping_title": "浅箱的后继者,1",
             "gender": 1,
-            "hp": 1416409.0,
+            "hp": 1397165.875,
             "last_known_position": {
                 "map": "city",
-                "x": 750.5,
-                "y": -28099.8984375,
+                "x": 1689.909912109375,
+                "y": -27322.888671875,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月14日 下午9:53:56",
+            "last_seen": "2026年2月19日 上午12:37:38",
             "level": 83,
             "name": "猫箱",
             "name_history": [
@@ -40676,14 +40694,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1528508.75,
+            "hp": 1513279.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1504.3199462890625,
-                "y": -23092.400390625,
-                "z": 96737.8359375
+                "x": 754.3399658203125,
+                "y": -24282.208984375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月15日 下午11:49:13",
+            "last_seen": "2026年2月19日 上午12:37:38",
             "level": 83,
             "name": "Toveovo",
             "name_history": [
@@ -67159,6 +67177,6 @@
         }
     },
     "accounts_total": 4908,
-    "last_updated": "2026年2月19日 上午12:36:38",
+    "last_updated": "2026年2月19日 上午12:37:38",
     "server_region": "cosmic-fold"
 }
