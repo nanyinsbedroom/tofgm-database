@@ -806,12 +806,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715112458083": {
+            "crew_history": [
+                "地狱"
+            ],
             "crew_id": 21474851082,
             "crew_name": "地狱",
-            "equipping_title": "2_10_1_5",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 2010870.625,
-            "last_seen": "2025年11月25日 上午 1:58:17",
+            "hp": 2129002.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54268.78125,
+                "y": -88184.3203125,
+                "z": 21711.005859375
+            },
+            "last_seen": "2026年2月18日 下午10:06:34",
             "level": 100,
             "name": "胡萝卜好吃",
             "name_history": [
@@ -2527,6 +2536,31 @@
             "role_id": 62715114112687,
             "server_region": "reshaping-the-future"
         },
+        "62715114139007": {
+            "crew_history": [
+                "兑州十大奇观"
+            ],
+            "crew_id": 20486994016522,
+            "crew_name": "兑州十大奇观",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55649.71875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55309.0,
+                "y": -88488.9296875,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月18日 下午10:06:34",
+            "level": 100,
+            "name": "nglu61",
+            "name_history": [
+                "nglu61"
+            ],
+            "registered": "2024年10月5日 下午5:41:47",
+            "role_id": 62715114139007,
+            "server_region": "reshaping-the-future"
+        },
         "62715114140532": {
             "crew_id": 519691057418,
             "crew_name": "挽梦挽星辰",
@@ -2897,6 +2931,31 @@
             "name": "星敏二号",
             "registered": "2024年12月24日 上午3:19:47",
             "role_id": 62715114281164,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114282793": {
+            "crew_history": [
+                "摆烂玩家"
+            ],
+            "crew_id": 1597727848815,
+            "crew_name": "摆烂玩家",
+            "equipping_title": "2_2_0_39",
+            "gender": 1,
+            "hp": 1341505.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21724.048828125
+            },
+            "last_seen": "2026年2月18日 下午10:06:34",
+            "level": 100,
+            "name": "一未来",
+            "name_history": [
+                "一未来"
+            ],
+            "registered": "2024年12月27日 下午4:57:41",
+            "role_id": 62715114282793,
             "server_region": "reshaping-the-future"
         },
         "62715114283358": {
@@ -4381,6 +4440,31 @@
             ],
             "registered": "2026年1月31日 下午3:36:03",
             "role_id": 62715114584817,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114584825": {
+            "crew_history": [
+                "五个魂儿呀"
+            ],
+            "crew_id": 9186935060746,
+            "crew_name": "五个魂儿呀",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 910779.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54163.6875,
+                "y": -88115.6484375,
+                "z": 21724.900390625
+            },
+            "last_seen": "2026年2月18日 下午10:06:34",
+            "level": 86,
+            "name": "天真以为的楽",
+            "name_history": [
+                "天真以为的楽"
+            ],
+            "registered": "2026年1月31日 下午5:15:47",
+            "role_id": 62715114584825,
             "server_region": "reshaping-the-future"
         },
         "62715114585254": {
@@ -8044,7 +8128,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 445,
-    "last_updated": "2026年2月18日 下午10:05:34",
+    "accounts_total": 448,
+    "last_updated": "2026年2月18日 下午10:06:34",
     "server_region": "reshaping-the-future"
 }
