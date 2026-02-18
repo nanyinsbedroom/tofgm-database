@@ -21399,13 +21399,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555409": {
+            "crew_history": [
+                "宿屋享楽"
+            ],
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "1_6_4_9",
+            "equipping_title": "2_2_0_68",
             "gender": 1,
-            "hp": 952091.8125,
-            "last_seen": "Feb 6, 2026, 6:15:57 PM",
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 145900.71875,
+                "y": -175579.9375,
+                "z": 54.349998474121094
+            },
+            "last_seen": "Feb 18, 2026, 7:41:51 PM",
+            "level": 76,
             "name": "沙耶",
             "name_history": [
                 "沙耶"
@@ -88115,6 +88124,6 @@
         }
     },
     "accounts_total": 5360,
-    "last_updated": "Feb 18, 2026, 7:39:51 PM",
+    "last_updated": "Feb 18, 2026, 7:41:51 PM",
     "server_region": "ws-asia-01"
 }
