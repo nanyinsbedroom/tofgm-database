@@ -6112,12 +6112,21 @@
             "server_region": "visser-aida"
         },
         "60606283516167": {
+            "crew_history": [
+                "提瓦特甜点"
+            ],
             "crew_id": 2405181700066,
             "crew_name": "提瓦特甜点",
-            "equipping_title": "1_2021",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1132774.25,
-            "last_seen": "2026年01月25日 上午 5:20:14",
+            "hp": 1152589.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 98.5999984741211,
+                "y": -19767.900390625,
+                "z": 96340.5390625
+            },
+            "last_seen": "2026年2月19日 上午12:22:37",
             "level": 100,
             "name": "丹姆",
             "name_history": [
@@ -16081,6 +16090,6 @@
         }
     },
     "accounts_total": 1083,
-    "last_updated": "2026年2月19日 上午12:21:36",
+    "last_updated": "2026年2月19日 上午12:22:37",
     "server_region": "visser-aida"
 }
