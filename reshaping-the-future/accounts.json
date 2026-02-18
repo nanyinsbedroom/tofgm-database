@@ -1781,13 +1781,22 @@
             "server_region": "reshaping-the-future"
         },
         "62715113365008": {
+            "crew_history": [
+                "镜花堂"
+            ],
             "crew_id": 68719491439,
             "crew_name": "镜花堂",
             "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1410238.5,
-            "last_seen": "2026年02月01日 上午 12:02:55",
-            "level": 91,
+            "hp": 1461686.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53838.4140625,
+                "y": -87733.203125,
+                "z": 21724.869140625
+            },
+            "last_seen": "2026年2月18日 下午10:08:34",
+            "level": 94,
             "name": "忒多了公平！",
             "name_history": [
                 "忒多了公平！"
@@ -2240,15 +2249,50 @@
             "role_id": 62715113690408,
             "server_region": "reshaping-the-future"
         },
+        "62715113697970": {
+            "crew_history": [
+                "萌新"
+            ],
+            "crew_id": 94489295215,
+            "crew_name": "萌新",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1127358.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月18日 下午10:08:34",
+            "level": 100,
+            "name": "零零Qiu-4号",
+            "name_history": [
+                "零零Qiu-4号"
+            ],
+            "registered": "2023年8月16日 下午8:16:13",
+            "role_id": 62715113697970,
+            "server_region": "reshaping-the-future"
+        },
         "62715113706205": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1393787.25,
-            "last_seen": "2025年10月26日 下午 3:27:59",
+            "hp": 1430060.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54449.078125,
+                "y": -87911.5390625,
+                "z": 21860.5390625
+            },
+            "last_seen": "2026年2月18日 下午10:08:34",
             "level": 100,
             "name": "岁朝",
+            "name_history": [
+                "岁朝"
+            ],
             "registered": "2023年9月13日 上午12:33:44",
             "role_id": 62715113706205,
             "server_region": "reshaping-the-future"
@@ -3344,6 +3388,31 @@
             "name": "㐅叶脉青梅茶㐅",
             "registered": "2025年3月24日 下午3:14:44",
             "role_id": 62715114357749,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114401867": {
+            "crew_history": [
+                "迟遇"
+            ],
+            "crew_id": 227633281290,
+            "crew_name": "迟遇",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 392165.46875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年2月18日 下午10:08:34",
+            "level": 100,
+            "name": "刀我别用绘梨衣",
+            "name_history": [
+                "刀我别用绘梨衣"
+            ],
+            "registered": "2025年4月9日 下午11:55:50",
+            "role_id": 62715114401867,
             "server_region": "reshaping-the-future"
         },
         "62715114403104": {
@@ -8226,7 +8295,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 452,
-    "last_updated": "2026年2月18日 下午10:07:34",
+    "accounts_total": 454,
+    "last_updated": "2026年2月18日 下午10:08:34",
     "server_region": "reshaping-the-future"
 }
