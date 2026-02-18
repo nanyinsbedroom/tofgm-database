@@ -821,18 +821,26 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545009": {
+            "crew_history": [
+                "女神の祝福・賊"
+            ],
             "crew_id": 579829473061,
             "crew_name": "女神の祝福・賊",
             "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 1106799.625,
-            "last_seen": "Feb 12, 2026, 2:37:58 AM",
-            "level": 75,
+            "hp": 1115246.5,
+            "last_known_position": {
+                "map": "yaxiahuisu_D",
+                "x": -2061.070068359375,
+                "y": 5467.35009765625,
+                "z": 442.75
+            },
+            "last_seen": "Feb 18, 2026, 7:29:50 PM",
+            "level": 76,
             "name": "Suica",
             "name_history": [
                 "Suica",
-                "すいか",
-                "Suica"
+                "すいか"
             ],
             "registered": "Nov 25, 2025, 5:01:48 PM",
             "role_id": 38174103118545009,
@@ -8496,15 +8504,15 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 1083388.625,
+            "hp": 1138615.0,
             "last_known_position": {
-                "map": "city",
-                "x": 492.42999267578125,
-                "y": -22426.189453125,
-                "z": 96744.375
+                "map": "yaxiahuisu_D",
+                "x": -6010.94970703125,
+                "y": 6562.2099609375,
+                "z": 513.1799926757813
             },
-            "last_seen": "Feb 15, 2026, 8:32:58 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 7:29:50 PM",
+            "level": 76,
             "name": "Las",
             "name_history": [
                 "Las"
@@ -87701,6 +87709,6 @@
         }
     },
     "accounts_total": 5349,
-    "last_updated": "Feb 18, 2026, 7:28:50 PM",
+    "last_updated": "Feb 18, 2026, 7:29:50 PM",
     "server_region": "ws-asia-01"
 }
