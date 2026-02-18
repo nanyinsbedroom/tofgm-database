@@ -3939,12 +3939,21 @@
             "server_region": "ark-calculus"
         },
         "62341450316836": {
+            "crew_history": [
+                "盛世流光"
+            ],
             "crew_id": 55834589453,
             "crew_name": "盛世流光",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1426803.625,
-            "last_seen": "2026年2月12日 下午6:06:30",
+            "hp": 1447072.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -219.84999084472656,
+                "y": -18608.609375,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月18日 下午6:57:33",
             "level": 100,
             "name": "孑遗千星",
             "name_history": [
@@ -9829,6 +9838,6 @@
         }
     },
     "accounts_total": 575,
-    "last_updated": "2026年2月18日 下午6:56:33",
+    "last_updated": "2026年2月18日 下午6:57:33",
     "server_region": "ark-calculus"
 }
