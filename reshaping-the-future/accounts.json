@@ -615,12 +615,21 @@
             "server_region": "reshaping-the-future"
         },
         "60997125538842": {
+            "crew_history": [
+                "世界BOSS"
+            ],
             "crew_id": 30064785674,
             "crew_name": "世界BOSS",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "高性能nano的启迪人,1",
             "gender": 0,
-            "hp": 2367376.0,
-            "last_seen": "2025年11月25日 上午 2:08:18",
+            "hp": 2417868.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 85797.15625,
+                "y": -563.6199951171875,
+                "z": 9431.9794921875
+            },
+            "last_seen": "2026年2月18日 下午11:02:36",
             "level": 100,
             "name": "·M",
             "name_history": [
@@ -8980,14 +8989,14 @@
             "crew_name": "花园乐土",
             "equipping_title": "1_6_4_12",
             "gender": 1,
-            "hp": 2848830.75,
+            "hp": 2011609.0,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325807.5,
-                "y": 203405.453125,
-                "z": -28348.228515625
+                "map": "Vera_city",
+                "x": 10976.8994140625,
+                "y": -390.1999816894531,
+                "z": 12666.123046875
             },
-            "last_seen": "2026年2月18日 下午9:37:21",
+            "last_seen": "2026年2月18日 下午11:02:36",
             "level": 100,
             "name": "包想荧",
             "name_history": [
@@ -9830,6 +9839,6 @@
         }
     },
     "accounts_total": 515,
-    "last_updated": "2026年2月18日 下午11:01:36",
+    "last_updated": "2026年2月18日 下午11:02:36",
     "server_region": "reshaping-the-future"
 }
