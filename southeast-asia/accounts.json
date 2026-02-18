@@ -24499,12 +24499,21 @@
             "server_region": "southeast-asia"
         },
         "68783901252259": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 5679555.5,
-            "last_seen": "Feb 9, 2026, 7:24:58 PM",
+            "hp": 6078451.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98657.421875,
+                "y": -200897.6875,
+                "z": -4017.41748046875
+            },
+            "last_seen": "Feb 18, 2026, 8:00:33 PM",
             "level": 100,
             "name": "Oyit",
             "name_history": [
@@ -29112,6 +29121,6 @@
         }
     },
     "accounts_total": 2054,
-    "last_updated": "Feb 18, 2026, 7:57:33 PM",
+    "last_updated": "Feb 18, 2026, 8:00:33 PM",
     "server_region": "southeast-asia"
 }
