@@ -11617,12 +11617,21 @@
             "server_region": "southeast-asia"
         },
         "68771016424229": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
             "hp": 6321651.5,
-            "last_seen": "Feb 10, 2026, 8:27:17 PM",
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95847.1875,
+                "y": -196877.8125,
+                "z": -2784.4599609375
+            },
+            "last_seen": "Feb 18, 2026, 8:24:53 PM",
             "level": 100,
             "name": "DeeMo Piggy",
             "name_history": [
@@ -29130,6 +29139,6 @@
         }
     },
     "accounts_total": 2054,
-    "last_updated": "Feb 18, 2026, 8:23:53 PM",
+    "last_updated": "Feb 18, 2026, 8:24:53 PM",
     "server_region": "southeast-asia"
 }
