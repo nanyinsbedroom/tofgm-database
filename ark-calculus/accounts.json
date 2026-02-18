@@ -9805,12 +9805,21 @@
             "server_region": "ark-calculus"
         },
         "63574106314317": {
+            "crew_history": [
+                "蓝桉与槐"
+            ],
             "crew_id": 2186138368265,
             "crew_name": "蓝桉与槐",
             "equipping_title": "漫星沉霭的学徒,0",
             "gender": 1,
             "hp": 1311395.875,
-            "last_seen": "2026年2月12日 下午6:06:30",
+            "last_known_position": {
+                "map": "city",
+                "x": 503.3699951171875,
+                "y": -18008.1796875,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月18日 下午6:59:33",
             "level": 100,
             "name": "o_oWhat",
             "name_history": [
@@ -9838,6 +9847,6 @@
         }
     },
     "accounts_total": 575,
-    "last_updated": "2026年2月18日 下午6:57:33",
+    "last_updated": "2026年2月18日 下午6:59:33",
     "server_region": "ark-calculus"
 }
