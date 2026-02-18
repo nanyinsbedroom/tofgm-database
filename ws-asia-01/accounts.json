@@ -53867,13 +53867,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118571399": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
             "crew_id": 841822478117,
-            "crew_name": "居酒屋『桜花ギャオゴリ』",
-            "equipping_title": "WorldBossDamage_4;boss_hum_074_world;74",
+            "crew_name": "居酒屋『低スペック桜花めいと』",
+            "equipping_title": "WorldBossDamage_3;boss_hum_052_world;22",
             "gender": 0,
-            "hp": 505827.625,
-            "last_seen": "Dec 27, 2025, 03:12:36 AM",
-            "level": 65,
+            "hp": 938640.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73130.859375,
+                "y": 46415.62890625,
+                "z": -12150.2099609375
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 75,
             "name": "ばしみけ.Wp",
             "name_history": [
                 "ばしみけ.Wp"
@@ -79290,15 +79299,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118597056": {
-            "crew_id": 1189714829093,
-            "crew_name": "ムーンライトスピード",
+            "crew_history": [
+                "宿屋享楽"
+            ],
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 206985.8125,
-            "last_seen": "Jan 30, 2026, 01:37:36 AM",
-            "level": 72,
-            "name": "ミリラ",
+            "hp": 214512.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74293.0,
+                "y": 49865.0,
+                "z": -12315.3994140625
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 76,
+            "name": "Mirira",
             "name_history": [
+                "Mirira",
                 "ミリラ"
             ],
             "registered": "Dec 10, 2025, 9:57:29 PM",
@@ -86498,6 +86517,31 @@
             "role_id": 38174103118611602,
             "server_region": "ws-asia-01"
         },
+        "38174103118611620": {
+            "crew_history": [
+                "宿屋享楽"
+            ],
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 555795.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72980.578125,
+                "y": 49518.109375,
+                "z": -12325.439453125
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 72,
+            "name": "鈴壱",
+            "name_history": [
+                "鈴壱"
+            ],
+            "registered": "Jan 28, 2026, 3:51:22 PM",
+            "role_id": 38174103118611620,
+            "server_region": "ws-asia-01"
+        },
         "38174103118611634": {
             "crew_id": 0,
             "crew_name": "",
@@ -87282,6 +87326,31 @@
             "role_id": 38174103118612452,
             "server_region": "ws-asia-01"
         },
+        "38174103118612458": {
+            "crew_history": [
+                "Alter"
+            ],
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 183163.640625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80445.0,
+                "y": 80857.0,
+                "z": -9750.26953125
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 61,
+            "name": "Helia",
+            "name_history": [
+                "Helia"
+            ],
+            "registered": "Feb 7, 2026, 6:42:43 AM",
+            "role_id": 38174103118612458,
+            "server_region": "ws-asia-01"
+        },
         "38174103118612471": {
             "crew_id": 0,
             "crew_name": "",
@@ -87296,6 +87365,31 @@
             ],
             "registered": "Feb 7, 2026, 10:32:52 AM",
             "role_id": 38174103118612471,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118612478": {
+            "crew_history": [
+                "宿屋享楽"
+            ],
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 260051.21875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72983.8046875,
+                "y": 48537.3671875,
+                "z": -12304.3798828125
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 72,
+            "name": "とんとろ",
+            "name_history": [
+                "とんとろ"
+            ],
+            "registered": "Feb 7, 2026, 1:26:47 PM",
+            "role_id": 38174103118612478,
             "server_region": "ws-asia-01"
         },
         "38174103118612491": {
@@ -87328,6 +87422,31 @@
             ],
             "registered": "Feb 7, 2026, 5:15:52 PM",
             "role_id": 38174103118612495,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118612552": {
+            "crew_history": [
+                "Alter"
+            ],
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 173301.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80794.0,
+                "y": 79886.0,
+                "z": -9782.0
+            },
+            "last_seen": "Feb 18, 2026, 7:35:50 PM",
+            "level": 62,
+            "name": "Soraya",
+            "name_history": [
+                "Soraya"
+            ],
+            "registered": "Feb 8, 2026, 6:24:16 AM",
+            "role_id": 38174103118612552,
             "server_region": "ws-asia-01"
         },
         "38174103118612562": {
@@ -87899,7 +88018,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5353,
-    "last_updated": "Feb 18, 2026, 7:34:50 PM",
+    "accounts_total": 5357,
+    "last_updated": "Feb 18, 2026, 7:35:50 PM",
     "server_region": "ws-asia-01"
 }
