@@ -1418,12 +1418,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715112721347": {
+            "crew_history": [
+                "微雨问海棠"
+            ],
             "crew_id": 15865609206026,
             "crew_name": "微雨问海棠",
-            "equipping_title": "2_11_1_1",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 2142691.5,
-            "last_seen": "2025年11月25日 上午 1:46:17",
+            "hp": 2181572.5,
+            "last_known_position": {
+                "map": "Kailo_Noah_P",
+                "x": -107820.9609375,
+                "y": 80587.28125,
+                "z": -2515.699951171875
+            },
+            "last_seen": "2026年2月18日 下午11:08:36",
             "level": 100,
             "name": "生命的备份",
             "name_history": [
@@ -9889,6 +9898,6 @@
         }
     },
     "accounts_total": 517,
-    "last_updated": "2026年2月18日 下午11:05:36",
+    "last_updated": "2026年2月18日 下午11:08:36",
     "server_region": "reshaping-the-future"
 }
