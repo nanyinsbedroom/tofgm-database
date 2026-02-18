@@ -26427,12 +26427,21 @@
             "server_region": "southeast-asia"
         },
         "68796786168579": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 6133016.0,
-            "last_seen": "Feb 9, 2026, 7:22:57 PM",
+            "hp": 1922624.625,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -16667.0,
+                "y": 189891.0,
+                "z": -17751.7890625
+            },
+            "last_seen": "Feb 18, 2026, 4:31:34 PM",
             "level": 100,
             "name": "Yar ven",
             "name_history": [
@@ -27724,6 +27733,29 @@
             "role_id": 68801081192669,
             "server_region": "southeast-asia"
         },
+        "68801081196826": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_5_1_1",
+            "gender": 0,
+            "hp": 1278231.75,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -17461.69921875,
+                "y": 199590.203125,
+                "z": -18931.169921875
+            },
+            "last_seen": "Feb 18, 2026, 4:31:34 PM",
+            "level": 100,
+            "name": "R3G1nl3Iv",
+            "name_history": [
+                "R3G1nl3Iv"
+            ],
+            "registered": "Nov 12, 2022, 7:26:36 PM",
+            "role_id": 68801081196826,
+            "server_region": "southeast-asia"
+        },
         "68801081286939": {
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
@@ -28953,7 +28985,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2051,
-    "last_updated": "Feb 18, 2026, 4:20:33 PM",
+    "accounts_total": 2052,
+    "last_updated": "Feb 18, 2026, 4:31:34 PM",
     "server_region": "southeast-asia"
 }
