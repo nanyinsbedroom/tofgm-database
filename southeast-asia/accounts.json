@@ -2475,12 +2475,21 @@
             "server_region": "southeast-asia"
         },
         "68732361653387": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_5_1_1",
+            "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2684756.75,
-            "last_seen": "Jan 30, 2026, 05:24:08 AM",
+            "hp": 2736993.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -389.8999938964844,
+                "y": -20975.69921875,
+                "z": 96748.875
+            },
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "Lavetta",
             "name_history": [
@@ -7940,11 +7949,11 @@
             "hp": 2896878.5,
             "last_known_position": {
                 "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
-                "z": 96368.53125
+                "x": -513.5899658203125,
+                "y": -18653.798828125,
+                "z": 96336.03125
             },
-            "last_seen": "Feb 17, 2026, 11:45:04 PM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "EinAvellino",
             "name_history": [
@@ -8151,12 +8160,12 @@
             "gender": 1,
             "hp": 2391336.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -14711.78515625,
-                "y": 4137.728515625,
-                "z": 25628.548828125
+                "map": "city",
+                "x": -521.5399780273438,
+                "y": -18609.859375,
+                "z": 96329.53125
             },
-            "last_seen": "Feb 16, 2026, 8:04:20 PM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "ThunderNight",
             "name_history": [
@@ -9701,11 +9710,11 @@
             "hp": 2339673.25,
             "last_known_position": {
                 "map": "city",
-                "x": -373.8699951171875,
-                "y": -17574.98046875,
-                "z": 96355.546875
+                "x": -208.61000061035156,
+                "y": -17821.119140625,
+                "z": 96343.0390625
             },
-            "last_seen": "Feb 17, 2026, 11:17:18 PM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "eScaρe",
             "name_history": [
@@ -26455,11 +26464,11 @@
             "hp": 2490737.5,
             "last_known_position": {
                 "map": "city",
-                "x": 396.3899841308594,
-                "y": -16581.869140625,
-                "z": 96362.03125
+                "x": -257.47998046875,
+                "y": -18875.548828125,
+                "z": 96329.53125
             },
-            "last_seen": "Feb 18, 2026, 12:06:05 AM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "xrosa",
             "name_history": [
@@ -26515,11 +26524,11 @@
             "hp": 2850606.75,
             "last_known_position": {
                 "map": "city",
-                "x": 234.22000122070313,
-                "y": -23581.728515625,
+                "x": 216.80999755859375,
+                "y": -23558.119140625,
                 "z": 98625.65625
             },
-            "last_seen": "Feb 17, 2026, 11:41:04 PM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "Truemorrow",
             "name_history": [
@@ -27382,11 +27391,11 @@
             "hp": 1702262.625,
             "last_known_position": {
                 "map": "city",
-                "x": 611.515869140625,
-                "y": -17719.0703125,
-                "z": 96321.2890625
+                "x": -538.6568603515625,
+                "y": -18897.375,
+                "z": 96319.8359375
             },
-            "last_seen": "Feb 17, 2026, 11:41:04 PM",
+            "last_seen": "Feb 18, 2026, 9:17:56 PM",
             "level": 100,
             "name": "Terry​",
             "name_history": [
@@ -29173,6 +29182,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 18, 2026, 9:13:56 PM",
+    "last_updated": "Feb 18, 2026, 9:17:56 PM",
     "server_region": "southeast-asia"
 }
