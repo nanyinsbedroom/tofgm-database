@@ -23957,12 +23957,21 @@
             "server_region": "southeast-asia"
         },
         "68779606319382": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "Miyako_的启迪人,1",
+            "equipping_title": "HuntingRank_1;imitation_65;3",
             "gender": 1,
             "hp": 6106007.0,
-            "last_seen": "Feb 01, 2026, 02:10:15 AM",
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96419.015625,
+                "y": -196495.03125,
+                "z": -2859.83984375
+            },
+            "last_seen": "Feb 18, 2026, 7:40:32 PM",
             "level": 100,
             "name": "Artemis Crowe",
             "name_history": [
@@ -29103,6 +29112,6 @@
         }
     },
     "accounts_total": 2054,
-    "last_updated": "Feb 18, 2026, 7:38:32 PM",
+    "last_updated": "Feb 18, 2026, 7:40:32 PM",
     "server_region": "southeast-asia"
 }
