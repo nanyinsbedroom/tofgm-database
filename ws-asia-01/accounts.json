@@ -23255,13 +23255,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118556018": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 616064.5,
-            "last_seen": "Dec 27, 2025, 12:41:57 PM",
-            "level": 65,
+            "hp": 1018570.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72363.2890625,
+                "y": 49575.69921875,
+                "z": -12327.669921875
+            },
+            "last_seen": "Feb 18, 2026, 7:38:50 PM",
+            "level": 75,
             "name": "ねこにゃ〜",
             "name_history": [
                 "ねこにゃ〜"
@@ -44493,13 +44502,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118564389": {
-            "crew_id": 2323586195237,
-            "crew_name": "KEBABS",
-            "equipping_title": "Mikisun's Apprentice,0",
+            "crew_history": [
+                "OTTOMANs HAREM"
+            ],
+            "crew_id": 2632823840549,
+            "crew_name": "OTTOMANs HAREM",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 190186.3125,
-            "last_seen": "Dec 28, 2025, 09:22:11 AM",
-            "level": 64,
+            "hp": 304584.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -75002.6171875,
+                "y": 58173.44140625,
+                "z": -10092.8798828125
+            },
+            "last_seen": "Feb 18, 2026, 7:38:50 PM",
+            "level": 76,
             "name": "MEKO",
             "name_history": [
                 "MEKO"
@@ -88042,6 +88060,6 @@
         }
     },
     "accounts_total": 5358,
-    "last_updated": "Feb 18, 2026, 7:37:50 PM",
+    "last_updated": "Feb 18, 2026, 7:38:50 PM",
     "server_region": "ws-asia-01"
 }
