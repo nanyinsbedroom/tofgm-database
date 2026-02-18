@@ -33446,13 +33446,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118559439": {
-            "crew_id": 227642154789,
-            "crew_name": "くまたん！",
-            "equipping_title": "None",
+            "crew_history": [
+                "ムーンライトスピード"
+            ],
+            "crew_id": 1189714829093,
+            "crew_name": "ムーンライトスピード",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 234375.0,
-            "last_seen": "Dec 11, 2025, 03:09:40 AM",
-            "level": 56,
+            "hp": 585639.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91846.296875,
+                "y": 76570.5,
+                "z": -7084.0
+            },
+            "last_seen": "Feb 18, 2026, 7:34:50 PM",
+            "level": 73,
             "name": "らねこ",
             "name_history": [
                 "らねこ"
@@ -60083,6 +60092,31 @@
             "role_id": 38174103118578113,
             "server_region": "ws-asia-01"
         },
+        "38174103118578131": {
+            "crew_history": [
+                "宿屋享楽"
+            ],
+            "crew_id": 592714374949,
+            "crew_name": "宿屋享楽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 225754.953125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91695.8203125,
+                "y": 75901.5625,
+                "z": -7047.267578125
+            },
+            "last_seen": "Feb 18, 2026, 7:34:50 PM",
+            "level": 64,
+            "name": "ボコ",
+            "name_history": [
+                "ボコ"
+            ],
+            "registered": "Nov 27, 2025, 9:11:31 PM",
+            "role_id": 38174103118578131,
+            "server_region": "ws-asia-01"
+        },
         "38174103118578133": {
             "crew_id": 17188757285,
             "crew_name": "OdysseyID",
@@ -84789,15 +84823,15 @@
             "crew_name": "りんごあめ",
             "equipping_title": "まほろば's Apprentice,0",
             "gender": 1,
-            "hp": 739334.875,
+            "hp": 740416.375,
             "last_known_position": {
-                "map": "city",
-                "x": -3254.39990234375,
-                "y": -22730.599609375,
-                "z": 94737.9140625
+                "map": "QRSL_P",
+                "x": -97367.3984375,
+                "y": 84786.1015625,
+                "z": -4607.419921875
             },
-            "last_seen": "Feb 15, 2026, 10:13:53 PM",
-            "level": 73,
+            "last_seen": "Feb 18, 2026, 7:34:50 PM",
+            "level": 74,
             "name": "ことのは",
             "name_history": [
                 "ことのは"
@@ -87865,7 +87899,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5352,
-    "last_updated": "Feb 18, 2026, 7:33:50 PM",
+    "accounts_total": 5353,
+    "last_updated": "Feb 18, 2026, 7:34:50 PM",
     "server_region": "ws-asia-01"
 }
