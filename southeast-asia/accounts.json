@@ -553,12 +553,21 @@
             "server_region": "southeast-asia"
         },
         "68723771756638": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2719808.5,
-            "last_seen": "Feb 11, 2026, 7:03:23 PM",
+            "hp": 2660846.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1.2699999809265137,
+                "y": -18852.0,
+                "z": 96329.5390625
+            },
+            "last_seen": "Feb 18, 2026, 4:20:33 PM",
             "level": 100,
             "name": "PaRaNo¡D",
             "name_history": [
@@ -26997,11 +27006,11 @@
             "hp": 2804719.75,
             "last_known_position": {
                 "map": "city",
-                "x": -486.1099853515625,
-                "y": -23302.91015625,
-                "z": 97876.5078125
+                "x": -74.08000183105469,
+                "y": -18856.349609375,
+                "z": 96340.5390625
             },
-            "last_seen": "Feb 17, 2026, 11:14:18 PM",
+            "last_seen": "Feb 18, 2026, 4:20:33 PM",
             "level": 100,
             "name": "Kizuna N",
             "name_history": [
@@ -28033,14 +28042,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "〆 sαнαbαт•ρénα•'s Enlightener,1",
             "gender": 1,
-            "hp": 2727362.0,
+            "hp": 2581860.25,
             "last_known_position": {
                 "map": "city",
-                "x": 11.199999809265137,
-                "y": -15714.2998046875,
-                "z": 97155.296875
+                "x": 8.289999961853027,
+                "y": -15719.529296875,
+                "z": 97161.296875
             },
-            "last_seen": "Feb 18, 2026, 12:02:05 AM",
+            "last_seen": "Feb 18, 2026, 4:20:33 PM",
             "level": 100,
             "name": "Loope",
             "name_history": [
@@ -28945,6 +28954,6 @@
         }
     },
     "accounts_total": 2051,
-    "last_updated": "Feb 18, 2026, 12:06:05 AM",
+    "last_updated": "Feb 18, 2026, 4:20:33 PM",
     "server_region": "southeast-asia"
 }
