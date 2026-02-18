@@ -838,14 +838,14 @@
             "crew_name": "爱你",
             "equipping_title": "2_10_3_1",
             "gender": 0,
-            "hp": 2030508.625,
+            "hp": 2815236.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55780.19921875,
-                "y": -88557.8046875,
-                "z": 21710.87890625
+                "x": -53983.859375,
+                "y": -88229.046875,
+                "z": 21717.099609375
             },
-            "last_seen": "2026年2月17日 下午8:15:09",
+            "last_seen": "2026年2月18日 下午10:27:35",
             "level": 100,
             "name": "嫦羲",
             "name_history": [
@@ -3107,6 +3107,29 @@
             "name": "很好吃的肉",
             "registered": "2024年12月3日 下午12:08:27",
             "role_id": 62715114232986,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114234587": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_30_1",
+            "gender": 1,
+            "hp": 1119220.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53654.2890625,
+                "y": -87973.234375,
+                "z": 21718.939453125
+            },
+            "last_seen": "2026年2月18日 下午10:27:35",
+            "level": 100,
+            "name": "电子物",
+            "name_history": [
+                "电子物"
+            ],
+            "registered": "2024年12月7日 下午12:04:30",
+            "role_id": 62715114234587,
             "server_region": "reshaping-the-future"
         },
         "62715114235489": {
@@ -8901,7 +8924,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 479,
-    "last_updated": "2026年2月18日 下午10:26:35",
+    "accounts_total": 480,
+    "last_updated": "2026年2月18日 下午10:27:35",
     "server_region": "reshaping-the-future"
 }
