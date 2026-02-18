@@ -5262,12 +5262,21 @@
             "server_region": "southeast-asia"
         },
         "68740951601768": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
-            "equipping_title": "1_6_4_34",
+            "equipping_title": "1_6_4_28",
             "gender": 1,
-            "hp": 6265649.0,
-            "last_seen": "Feb 11, 2026, 7:09:23 PM",
+            "hp": 6210649.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101183.234375,
+                "y": -183747.78125,
+                "z": -7603.6396484375
+            },
+            "last_seen": "Feb 18, 2026, 7:08:44 PM",
             "level": 100,
             "name": "Mio Tchzyuki",
             "name_history": [
@@ -24111,11 +24120,11 @@
             "hp": 6195518.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 103174.671875,
-                "y": -176614.625,
-                "z": -5339.37451171875
+                "x": 106826.453125,
+                "y": -188340.625,
+                "z": -5497.3984375
             },
-            "last_seen": "Feb 16, 2026, 7:51:52 PM",
+            "last_seen": "Feb 18, 2026, 7:08:44 PM",
             "level": 100,
             "name": "Soonkueh",
             "name_history": [
@@ -25805,12 +25814,21 @@
             "server_region": "southeast-asia"
         },
         "68792491185902": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
-            "equipping_title": "1_8_2_1",
+            "equipping_title": "1_6_4_6",
             "gender": 0,
-            "hp": 6210018.0,
-            "last_seen": "Feb 11, 2026, 7:11:23 PM",
+            "hp": 6280851.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 104534.796875,
+                "y": -177912.671875,
+                "z": -5118.39501953125
+            },
+            "last_seen": "Feb 18, 2026, 7:08:44 PM",
             "level": 100,
             "name": "Elite14",
             "name_history": [
@@ -28986,6 +29004,6 @@
         }
     },
     "accounts_total": 2052,
-    "last_updated": "Feb 18, 2026, 7:05:44 PM",
+    "last_updated": "Feb 18, 2026, 7:08:44 PM",
     "server_region": "southeast-asia"
 }
