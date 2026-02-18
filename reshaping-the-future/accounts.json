@@ -270,12 +270,21 @@
             "server_region": "reshaping-the-future"
         },
         "60563335272485": {
+            "crew_history": [
+                "银月"
+            ],
             "crew_id": 42949687563,
             "crew_name": "银月",
-            "equipping_title": "2_10_1_5",
+            "equipping_title": "高性能nano的导师,0",
             "gender": 1,
-            "hp": 2182057.0,
-            "last_seen": "2026年01月29日 上午 12:44:15",
+            "hp": 2294475.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 265.989990234375,
+                "y": -22335.939453125,
+                "z": 96738.328125
+            },
+            "last_seen": "2026年2月18日 下午10:34:35",
             "level": 100,
             "name": "華宫凪沙",
             "name_history": [
@@ -562,7 +571,7 @@
                 "y": -16633.359375,
                 "z": 96343.78125
             },
-            "last_seen": "2026年2月18日 下午9:23:21",
+            "last_seen": "2026年2月18日 下午10:34:35",
             "level": 100,
             "name": "戀夢",
             "name_history": [
@@ -717,6 +726,31 @@
             "name": "淵棩裫蜵",
             "registered": "2021年12月16日 下午1:36:01",
             "role_id": 62298500649224,
+            "server_region": "reshaping-the-future"
+        },
+        "62298500667132": {
+            "crew_history": [
+                "五个魂儿呀"
+            ],
+            "crew_id": 9186935060746,
+            "crew_name": "五个魂儿呀",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2171397.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 135.25999450683594,
+                "y": -15751.9091796875,
+                "z": 97078.1640625
+            },
+            "last_seen": "2026年2月18日 下午10:34:35",
+            "level": 100,
+            "name": "柚恩",
+            "name_history": [
+                "柚恩"
+            ],
+            "registered": "2021年12月21日 下午8:19:22",
+            "role_id": 62298500667132,
             "server_region": "reshaping-the-future"
         },
         "62307090572109": {
@@ -1350,7 +1384,7 @@
                 "y": -18075.48046875,
                 "z": 96329.53125
             },
-            "last_seen": "2026年2月18日 下午9:22:21",
+            "last_seen": "2026年2月18日 下午10:34:35",
             "level": 100,
             "name": "音荡黄油女主",
             "name_history": [
@@ -2310,11 +2344,11 @@
             "hp": 2084676.375,
             "last_known_position": {
                 "map": "city",
-                "x": -1223.419921875,
-                "y": -16413.060546875,
-                "z": 96322.40625
+                "x": 146.87998962402344,
+                "y": -15723.94921875,
+                "z": 97075.53125
             },
-            "last_seen": "2026年2月18日 下午9:23:21",
+            "last_seen": "2026年2月18日 下午10:34:35",
             "level": 100,
             "name": "惟吾德馨",
             "name_history": [
@@ -3517,6 +3551,31 @@
             "name": "幕兮拂晓",
             "registered": "2025年2月12日 下午9:20:36",
             "role_id": 62715114345854,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114349539": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
+            "crew_id": 236223215882,
+            "crew_name": "喵雪冰城",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 1969444.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1041.22998046875,
+                "y": -16276.6298828125,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月18日 下午10:34:35",
+            "level": 100,
+            "name": "嘤嘤作态小女子",
+            "name_history": [
+                "嘤嘤作态小女子"
+            ],
+            "registered": "2023年7月31日 下午1:38:38",
+            "role_id": 62715114349539,
             "server_region": "reshaping-the-future"
         },
         "62715114351978": {
@@ -9043,7 +9102,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 485,
-    "last_updated": "2026年2月18日 下午10:33:35",
+    "accounts_total": 487,
+    "last_updated": "2026年2月18日 下午10:34:35",
     "server_region": "reshaping-the-future"
 }
