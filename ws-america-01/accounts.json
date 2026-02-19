@@ -8684,6 +8684,31 @@
             "role_id": 38174107413517792,
             "server_region": "ws-america-01"
         },
+        "38174107413517799": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 84582.15625,
+                "y": -188062.703125,
+                "z": -4279.31005859375
+            },
+            "last_seen": "Feb 18, 2026, 10:01:26 PM",
+            "level": 75,
+            "name": "Tuba739",
+            "name_history": [
+                "Tuba739"
+            ],
+            "registered": "Nov 25, 2025, 8:38:41 AM",
+            "role_id": 38174107413517799,
+            "server_region": "ws-america-01"
+        },
         "38174107413517800": {
             "crew_id": 0,
             "crew_name": "",
@@ -17212,14 +17237,14 @@
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1098714.875,
+            "hp": 2467281.75,
             "last_known_position": {
-                "map": "city",
-                "x": -135.13999938964844,
-                "y": -21020.859375,
-                "z": 96751.3671875
+                "map": "Kailo_P_003",
+                "x": 91140.6640625,
+                "y": -193296.515625,
+                "z": -4212.89599609375
             },
-            "last_seen": "Feb 18, 2026, 8:23:36 PM",
+            "last_seen": "Feb 18, 2026, 10:01:26 PM",
             "level": 76,
             "name": "Fabelmon",
             "name_history": [
@@ -18758,17 +18783,17 @@
             ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
-            "equipping_title": "24guty's Enlightener,1",
+            "equipping_title": "1_9_0_3",
             "gender": 0,
-            "hp": 1061038.375,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1673.5999755859375,
-                "y": -25938.0,
-                "z": 97866.1171875
+                "map": "Kailo_P_003",
+                "x": 94536.140625,
+                "y": -189163.84375,
+                "z": -7875.890625
             },
-            "last_seen": "Feb 15, 2026, 4:16:17 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 10:01:26 PM",
+            "level": 76,
             "name": "guty",
             "name_history": [
                 "guty"
@@ -26933,7 +26958,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1560,
-    "last_updated": "Feb 18, 2026, 9:59:26 PM",
+    "accounts_total": 1561,
+    "last_updated": "Feb 18, 2026, 10:01:26 PM",
     "server_region": "ws-america-01"
 }
