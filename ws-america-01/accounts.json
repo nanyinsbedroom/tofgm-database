@@ -19853,13 +19853,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413563166": {
-            "crew_id": 322131435302,
-            "crew_name": "⁣亗𓆩「Mirage」𓆪亗",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [
+                "Haneul"
+            ],
+            "crew_id": 206167318310,
+            "crew_name": "Haneul",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;99",
             "gender": 0,
-            "hp": 385302.8125,
-            "last_seen": "Jan 25, 2026, 11:13:20 PM",
-            "level": 70,
+            "hp": 402663.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73208.2578125,
+                "y": 70601.921875,
+                "z": -9551.990234375
+            },
+            "last_seen": "Feb 18, 2026, 8:21:36 PM",
+            "level": 73,
             "name": "Thranduil",
             "name_history": [
                 "Thranduil"
@@ -25403,6 +25412,29 @@
             "role_id": 38174107413582709,
             "server_region": "ws-america-01"
         },
+        "38174107413582841": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29384.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81361.9375,
+                "y": 67764.3515625,
+                "z": -8340.349609375
+            },
+            "last_seen": "Feb 18, 2026, 8:21:36 PM",
+            "level": 9,
+            "name": "Shouso",
+            "name_history": [
+                "Shouso"
+            ],
+            "registered": "Feb 16, 2026, 11:27:13 AM",
+            "role_id": 38174107413582841,
+            "server_region": "ws-america-01"
+        },
         "38174107413582928": {
             "crew_history": [],
             "crew_id": 0,
@@ -25425,9 +25457,32 @@
             "registered": "Feb 16, 2026, 11:36:56 PM",
             "role_id": 38174107413582928,
             "server_region": "ws-america-01"
+        },
+        "38174107413583152": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97903.6953125,
+                "y": 80400.234375,
+                "z": -5274.759765625
+            },
+            "last_seen": "Feb 18, 2026, 8:21:36 PM",
+            "level": 2,
+            "name": "Octavia Wounkru",
+            "name_history": [
+                "Octavia Wounkru"
+            ],
+            "registered": "Feb 18, 2026, 7:58:23 PM",
+            "role_id": 38174107413583152,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1512,
-    "last_updated": "Feb 17, 2026, 3:40:16 AM",
+    "accounts_total": 1514,
+    "last_updated": "Feb 18, 2026, 8:21:36 PM",
     "server_region": "ws-america-01"
 }
