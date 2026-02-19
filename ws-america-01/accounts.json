@@ -19868,6 +19868,31 @@
             "role_id": 38174107413554858,
             "server_region": "ws-america-01"
         },
+        "38174107413554913": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "2_10_1_11",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 97214.953125,
+                "y": -204486.09375,
+                "z": -2957.878662109375
+            },
+            "last_seen": "Feb 18, 2026, 10:10:27 PM",
+            "level": 76,
+            "name": "Forsaken",
+            "name_history": [
+                "Forsaken"
+            ],
+            "registered": "Dec 3, 2025, 11:05:53 PM",
+            "role_id": 38174107413554913,
+            "server_region": "ws-america-01"
+        },
         "38174107413555027": {
             "crew_id": 674318753574,
             "crew_name": "Maid Café",
@@ -20513,14 +20538,14 @@
             "crew_name": "Solstice",
             "equipping_title": "WorldBossDamage_1;boss_hum_057_world;2",
             "gender": 1,
-            "hp": 1107497.625,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "Norn_P",
-                "x": -24021.0703125,
-                "y": 174365.109375,
-                "z": -12927.8896484375
+                "map": "Kailo_P_003",
+                "x": 106561.4453125,
+                "y": -201541.03125,
+                "z": -591.0199584960938
             },
-            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "last_seen": "Feb 18, 2026, 10:10:27 PM",
             "level": 76,
             "name": "Navias",
             "name_history": [
@@ -22687,6 +22712,31 @@
             ],
             "registered": "Jan 5, 2026, 10:42:10 PM",
             "role_id": 38174107413576012,
+            "server_region": "ws-america-01"
+        },
+        "38174107413576014": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "2_8_0_3",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 84736.4765625,
+                "y": -183517.671875,
+                "z": -3208.079833984375
+            },
+            "last_seen": "Feb 18, 2026, 10:10:27 PM",
+            "level": 76,
+            "name": "Larry★",
+            "name_history": [
+                "Larry★"
+            ],
+            "registered": "Jan 5, 2026, 10:43:55 PM",
+            "role_id": 38174107413576014,
             "server_region": "ws-america-01"
         },
         "38174107413576035": {
@@ -26992,7 +27042,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1562,
-    "last_updated": "Feb 18, 2026, 10:07:27 PM",
+    "accounts_total": 1564,
+    "last_updated": "Feb 18, 2026, 10:10:27 PM",
     "server_region": "ws-america-01"
 }
