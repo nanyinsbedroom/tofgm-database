@@ -14162,6 +14162,31 @@
             "role_id": 38174107413524203,
             "server_region": "ws-america-01"
         },
+        "38174107413524210": {
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "1_1_27_1",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 91558.265625,
+                "y": -183813.796875,
+                "z": -7766.4599609375
+            },
+            "last_seen": "Feb 18, 2026, 9:58:26 PM",
+            "level": 76,
+            "name": "Nael",
+            "name_history": [
+                "Nael"
+            ],
+            "registered": "Nov 25, 2025, 3:49:23 PM",
+            "role_id": 38174107413524210,
+            "server_region": "ws-america-01"
+        },
         "38174107413524227": {
             "crew_id": 60138430246,
             "crew_name": "Redux",
@@ -15597,6 +15622,31 @@
             ],
             "registered": "Nov 25, 2025, 7:27:54 PM",
             "role_id": 38174107413528126,
+            "server_region": "ws-america-01"
+        },
+        "38174107413528166": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92464.9609375,
+                "y": -181000.171875,
+                "z": -7696.60986328125
+            },
+            "last_seen": "Feb 18, 2026, 9:58:26 PM",
+            "level": 75,
+            "name": "Ery",
+            "name_history": [
+                "Ery"
+            ],
+            "registered": "Nov 25, 2025, 7:30:20 PM",
+            "role_id": 38174107413528166,
             "server_region": "ws-america-01"
         },
         "38174107413528223": {
@@ -23743,15 +23793,15 @@
             "crew_name": "Mishi-Raymi",
             "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 899324.1875,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 447.5,
-                "y": -28644.599609375,
-                "z": 97886.1171875
+                "map": "Kailo_P_003",
+                "x": 88561.359375,
+                "y": -175157.53125,
+                "z": -3843.33984375
             },
-            "last_seen": "Feb 15, 2026, 4:26:18 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 9:58:26 PM",
+            "level": 76,
             "name": " Chulangel",
             "name_history": [
                 " Chulangel"
@@ -26873,7 +26923,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1558,
-    "last_updated": "Feb 18, 2026, 9:57:26 PM",
+    "accounts_total": 1560,
+    "last_updated": "Feb 18, 2026, 9:58:26 PM",
     "server_region": "ws-america-01"
 }
