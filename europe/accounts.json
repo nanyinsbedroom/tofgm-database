@@ -10771,12 +10771,21 @@
             "server_region": "europe"
         },
         "55963424250882": {
+            "crew_history": [
+                "New Hope"
+            ],
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2611438.0,
-            "last_seen": "Feb 9, 2026, 7:31:50 PM",
+            "hp": 3071597.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -9593.4501953125,
+                "y": 52199.66796875,
+                "z": 41299.41796875
+            },
+            "last_seen": "Feb 19, 2026, 10:01:34 PM",
             "level": 100,
             "name": "Co Bao",
             "name_history": [
@@ -20131,6 +20140,6 @@
         }
     },
     "accounts_total": 1368,
-    "last_updated": "Feb 19, 2026, 10:00:34 PM",
+    "last_updated": "Feb 19, 2026, 10:01:34 PM",
     "server_region": "europe"
 }
