@@ -8664,6 +8664,31 @@
             "role_id": 38174111708485401,
             "server_region": "ws-europe-01"
         },
+        "38174111708485412": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100378.7109375,
+                "y": -188336.375,
+                "z": -7853.63037109375
+            },
+            "last_seen": "Feb 19, 2026, 9:39:33 PM",
+            "level": 76,
+            "name": "Surfer",
+            "name_history": [
+                "Surfer"
+            ],
+            "registered": "Nov 25, 2025, 5:39:07 PM",
+            "role_id": 38174111708485412,
+            "server_region": "ws-europe-01"
+        },
         "38174111708485425": {
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
@@ -12394,13 +12419,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708494164": {
-            "crew_id": 115973005095,
-            "crew_name": "Arcana",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;98",
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 364624.0,
-            "last_seen": "Dec 23, 2025, 05:04:02 AM",
-            "level": 61,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 111180.1875,
+                "y": -185334.765625,
+                "z": -5002.72802734375
+            },
+            "last_seen": "Feb 19, 2026, 9:39:33 PM",
+            "level": 75,
             "name": "Quolkeh",
             "name_history": [
                 "Quolkeh"
@@ -20217,7 +20251,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1149,
-    "last_updated": "Feb 19, 2026, 9:38:32 PM",
+    "accounts_total": 1150,
+    "last_updated": "Feb 19, 2026, 9:39:33 PM",
     "server_region": "ws-europe-01"
 }
