@@ -16496,13 +16496,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413535501": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 1015536.75,
-            "last_seen": "Feb 12, 2026, 5:26:49 PM",
-            "level": 75,
+            "hp": 1114631.0,
+            "last_known_position": {
+                "map": "yaxiahuisu_D",
+                "x": -5952.77001953125,
+                "y": 6379.5498046875,
+                "z": 492.17999267578125
+            },
+            "last_seen": "Feb 18, 2026, 8:30:37 PM",
+            "level": 76,
             "name": "IceSkin",
             "name_history": [
                 "IceSkin"
@@ -22451,17 +22460,17 @@
             ],
             "crew_id": 502520061734,
             "crew_name": "Mishi-Raymi",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;41",
             "gender": 0,
-            "hp": 669211.9375,
+            "hp": 737031.75,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -71706.8984375,
-                "y": 49816.328125,
-                "z": -12316.7392578125
+                "map": "yaxiahuisu_D",
+                "x": -2429.0,
+                "y": 5538.0,
+                "z": -146.8699951171875
             },
-            "last_seen": "Feb 15, 2026, 4:22:17 PM",
-            "level": 73,
+            "last_seen": "Feb 18, 2026, 8:30:37 PM",
+            "level": 76,
             "name": "Kitsoka Ofc",
             "name_history": [
                 "Kitsoka Ofc"
@@ -26293,6 +26302,6 @@
         }
     },
     "accounts_total": 1542,
-    "last_updated": "Feb 18, 2026, 8:28:37 PM",
+    "last_updated": "Feb 18, 2026, 8:30:37 PM",
     "server_region": "ws-america-01"
 }
