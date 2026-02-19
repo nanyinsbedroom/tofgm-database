@@ -52629,13 +52629,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695952476": {
-            "crew_id": 137438968276,
-            "crew_name": "耳狸窝",
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
             "equipping_title": "2_2_0_74",
             "gender": 1,
-            "hp": 1040251.125,
-            "last_seen": "2026年2月10日 上午12:56:51",
-            "level": 80,
+            "hp": 1061932.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1613.1500244140625,
+                "y": -28218.8984375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年2月20日 上午2:24:28",
+            "level": 81,
             "name": "细雨婉轻裳",
             "name_history": [
                 "细雨婉轻裳"
@@ -57829,13 +57838,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695976848": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 232455.796875,
-            "last_seen": "2026年02月05日 上午 8:01:27",
-            "level": 71,
+            "hp": 272470.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 689.4099731445313,
+                "y": -29002.01953125,
+                "z": 97908.234375
+            },
+            "last_seen": "2026年2月20日 上午2:24:28",
+            "level": 75,
             "name": "有楠",
             "name_history": [
                 "有楠"
@@ -68107,6 +68125,6 @@
         }
     },
     "accounts_total": 4933,
-    "last_updated": "2026年2月20日 上午2:19:28",
+    "last_updated": "2026年2月20日 上午2:24:28",
     "server_region": "cosmic-fold"
 }
