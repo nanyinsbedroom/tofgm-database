@@ -6414,15 +6414,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413515904": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "2_8_0_10",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 890382.0625,
-            "last_seen": "Jan 26, 2026, 07:28:37 PM",
-            "level": 72,
-            "name": "Gemini",
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105275.0,
+                "y": -183522.109375,
+                "z": -5422.330078125
+            },
+            "last_seen": "Feb 18, 2026, 9:59:26 PM",
+            "level": 76,
+            "name": "Neaʀ",
             "name_history": [
+                "Neaʀ",
                 "Gemini"
             ],
             "registered": "Nov 25, 2025, 6:44:02 AM",
@@ -26924,6 +26934,6 @@
         }
     },
     "accounts_total": 1560,
-    "last_updated": "Feb 18, 2026, 9:58:26 PM",
+    "last_updated": "Feb 18, 2026, 9:59:26 PM",
     "server_region": "ws-america-01"
 }
