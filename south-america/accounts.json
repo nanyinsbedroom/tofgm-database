@@ -1689,12 +1689,21 @@
             "server_region": "south-america"
         },
         "64463164175392": {
+            "crew_history": [
+                "Mirage"
+            ],
             "crew_id": 339302431393,
             "crew_name": "Mirage",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "2_2_0_45",
             "gender": 1,
-            "hp": 1821147.125,
-            "last_seen": "Nov 15, 2025, 11:33:39 PM",
+            "hp": 2518964.5,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 81219.0,
+                "y": -229557.0,
+                "z": 5936.7099609375
+            },
+            "last_seen": "Feb 18, 2026, 8:43:37 PM",
             "level": 100,
             "name": "Tanya Von Deg.",
             "name_history": [
@@ -4944,6 +4953,6 @@
         }
     },
     "accounts_total": 340,
-    "last_updated": "Feb 15, 2026, 8:32:06 AM",
+    "last_updated": "Feb 18, 2026, 8:43:37 PM",
     "server_region": "south-america"
 }
