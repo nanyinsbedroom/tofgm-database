@@ -2181,13 +2181,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850875": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_28",
             "gender": 1,
-            "hp": 1064601.625,
-            "last_seen": "2025年12月11日 上午 9:21:19",
-            "level": 74,
+            "hp": 1280698.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 2410.4599609375,
+                "y": -22548.548828125,
+                "z": 96846.640625
+            },
+            "last_seen": "2026年2月20日 上午2:19:28",
+            "level": 80,
             "name": "梦花",
             "name_history": [
                 "梦花"
@@ -45200,13 +45209,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695923655": {
-            "crew_id": 433791711700,
-            "crew_name": "白月破晓",
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
             "equipping_title": "2_7_0_18",
             "gender": 1,
-            "hp": 1367012.75,
-            "last_seen": "2026年02月04日 上午 6:17:04",
-            "level": 81,
+            "hp": 1547503.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1938.0198974609375,
+                "y": -24364.419921875,
+                "z": 97868.828125
+            },
+            "last_seen": "2026年2月20日 上午2:19:28",
+            "level": 84,
             "name": "Ryougi",
             "name_history": [
                 "Ryougi"
@@ -68089,6 +68107,6 @@
         }
     },
     "accounts_total": 4933,
-    "last_updated": "2026年2月20日 上午2:18:28",
+    "last_updated": "2026年2月20日 上午2:19:28",
     "server_region": "cosmic-fold"
 }
