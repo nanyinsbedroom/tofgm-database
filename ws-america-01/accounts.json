@@ -2378,14 +2378,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2740558.0,
+            "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 85888.1796875,
-                "y": -189098.34375,
-                "z": -5423.08154296875
+                "x": 102405.3203125,
+                "y": -186036.078125,
+                "z": -7900.02001953125
             },
-            "last_seen": "Feb 18, 2026, 8:32:37 PM",
+            "last_seen": "Feb 18, 2026, 10:03:26 PM",
             "level": 76,
             "name": "BillyBob",
             "name_history": [
@@ -18140,6 +18140,31 @@
             "role_id": 38174107413543486,
             "server_region": "ws-america-01"
         },
+        "38174107413543531": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "2_10_1_8",
+            "gender": 1,
+            "hp": 3120000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 112157.765625,
+                "y": -179788.625,
+                "z": -1643.22998046875
+            },
+            "last_seen": "Feb 18, 2026, 10:03:26 PM",
+            "level": 76,
+            "name": "Mihwa",
+            "name_history": [
+                "Mihwa"
+            ],
+            "registered": "Nov 28, 2025, 7:16:07 PM",
+            "role_id": 38174107413543531,
+            "server_region": "ws-america-01"
+        },
         "38174107413543532": {
             "crew_id": 38663593766,
             "crew_name": "ACxE",
@@ -26958,7 +26983,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1561,
-    "last_updated": "Feb 18, 2026, 10:01:26 PM",
+    "accounts_total": 1562,
+    "last_updated": "Feb 18, 2026, 10:03:26 PM",
     "server_region": "ws-america-01"
 }
