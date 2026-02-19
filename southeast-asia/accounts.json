@@ -25768,12 +25768,21 @@
             "server_region": "southeast-asia"
         },
         "68788196259912": {
+            "crew_history": [
+                "SOVEREIGN"
+            ],
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
             "equipping_title": "Title_tencentshare_os_17",
             "gender": 1,
-            "hp": 5885808.0,
-            "last_seen": "Jan 02, 2026, 05:45:29 AM",
+            "hp": 6205451.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93927.25,
+                "y": -188699.515625,
+                "z": -7544.90966796875
+            },
+            "last_seen": "Feb 19, 2026, 8:38:13 PM",
             "level": 100,
             "name": "achanetof",
             "name_history": [
@@ -29342,6 +29351,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 19, 2026, 8:36:13 PM",
+    "last_updated": "Feb 19, 2026, 8:38:13 PM",
     "server_region": "southeast-asia"
 }
