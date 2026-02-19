@@ -5528,19 +5528,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413515209": {
-            "crew_id": 360786140966,
-            "crew_name": "Ravenous",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;72",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;59",
             "gender": 0,
-            "hp": 917616.875,
+            "hp": 945519.8125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -78581.3984375,
-                "y": 77263.3984375,
-                "z": -9821.439453125
+                "x": -73176.6484375,
+                "y": 47566.66796875,
+                "z": -12235.08984375
             },
-            "last_seen": "Feb 13, 2026, 6:17:33 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 9:54:26 PM",
+            "level": 76,
             "name": "Lord -Ash",
             "name_history": [
                 "Lord -Ash"
@@ -12664,11 +12667,11 @@
             "hp": 358809.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72324.1015625,
-                "y": 49233.41015625,
-                "z": -12323.580078125
+                "x": -72587.46875,
+                "y": 49304.08203125,
+                "z": -12323.849609375
             },
-            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "last_seen": "Feb 18, 2026, 9:54:26 PM",
             "level": 74,
             "name": "Foxglove",
             "name_history": [
@@ -18797,11 +18800,11 @@
             "hp": 1018667.3125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72358.71875,
-                "y": 49226.70703125,
-                "z": -12313.5
+                "x": -72849.78125,
+                "y": 49339.55859375,
+                "z": -12313.419921875
             },
-            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "last_seen": "Feb 18, 2026, 9:54:26 PM",
             "level": 76,
             "name": "Rinorah",
             "name_history": [
@@ -25099,14 +25102,14 @@
             "crew_name": "",
             "equipping_title": "WorldBossDamage_4;Boss_hum_065_world;70",
             "gender": 1,
-            "hp": 481421.03125,
+            "hp": 481421.0,
             "last_known_position": {
-                "map": "Norn_P",
-                "x": -25640.490234375,
-                "y": 178202.0,
-                "z": -14761.8994140625
+                "map": "QRSL_P",
+                "x": -72829.2421875,
+                "y": 49304.20703125,
+                "z": -12309.9892578125
             },
-            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "last_seen": "Feb 18, 2026, 9:54:26 PM",
             "level": 75,
             "name": "MMONARCAA ",
             "name_history": [
@@ -26488,15 +26491,15 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 71683.0,
+            "hp": 81187.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72224.078125,
-                "y": 48857.5390625,
-                "z": -10390.0703125
+                "x": -73186.0390625,
+                "y": 49173.77734375,
+                "z": -11757.099609375
             },
-            "last_seen": "Feb 18, 2026, 8:26:37 PM",
-            "level": 48,
+            "last_seen": "Feb 18, 2026, 9:54:26 PM",
+            "level": 59,
             "name": "BitsyLady",
             "name_history": [
                 "BitsyLady"
@@ -26626,6 +26629,6 @@
         }
     },
     "accounts_total": 1550,
-    "last_updated": "Feb 18, 2026, 9:53:26 PM",
+    "last_updated": "Feb 18, 2026, 9:54:26 PM",
     "server_region": "ws-america-01"
 }
