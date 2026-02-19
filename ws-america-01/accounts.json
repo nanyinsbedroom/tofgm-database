@@ -21573,19 +21573,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413573079": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
             "crew_name": "Nyne Lives",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 837558.5625,
+            "hp": 1300000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1439.5299072265625,
-                "y": -23728.369140625,
-                "z": 96745.8359375
+                "map": "Kailo_P_003",
+                "x": 145125.0,
+                "y": -177288.0,
+                "z": 62.349998474121094
             },
-            "last_seen": "Feb 13, 2026, 6:23:34 PM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 8:31:37 PM",
+            "level": 76,
             "name": " Haru ",
             "name_history": [
                 " Haru ",
@@ -26302,6 +26305,6 @@
         }
     },
     "accounts_total": 1542,
-    "last_updated": "Feb 18, 2026, 8:30:37 PM",
+    "last_updated": "Feb 18, 2026, 8:31:37 PM",
     "server_region": "ws-america-01"
 }
