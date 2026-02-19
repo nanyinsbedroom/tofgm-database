@@ -638,13 +638,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479644": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 9, 2026, 7:52:56 PM",
-            "level": 74,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98235.0078125,
+                "y": -197857.3125,
+                "z": -4765.076171875
+            },
+            "last_seen": "Feb 19, 2026, 9:38:32 PM",
+            "level": 76,
             "name": "Koritora",
             "name_history": [
                 "Koritora"
@@ -14213,19 +14222,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708505189": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "WorldBossDamage_1;boss_hum_055_World;1",
             "gender": 1,
-            "hp": 1041328.625,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 356.8999938964844,
-                "y": -28454.0,
-                "z": 97866.1171875
+                "map": "Kailo_P_003",
+                "x": 99079.921875,
+                "y": -188618.5625,
+                "z": -7743.03466796875
             },
-            "last_seen": "Feb 13, 2026, 11:00:42 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:38:32 PM",
+            "level": 76,
             "name": "Rosémi",
             "name_history": [
                 "Rosémi"
@@ -20206,6 +20218,6 @@
         }
     },
     "accounts_total": 1149,
-    "last_updated": "Feb 19, 2026, 9:37:32 PM",
+    "last_updated": "Feb 19, 2026, 9:38:32 PM",
     "server_region": "ws-europe-01"
 }
