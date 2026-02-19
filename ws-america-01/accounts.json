@@ -9567,13 +9567,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413518252": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 765616.5,
-            "last_seen": "Jan 19, 2026, 08:08:26 PM",
-            "level": 71,
+            "hp": 957401.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1261.949951171875,
+                "y": -28208.298828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 18, 2026, 11:22:53 PM",
+            "level": 76,
             "name": "Zara",
             "name_history": [
                 "Zara"
@@ -28145,6 +28154,6 @@
         }
     },
     "accounts_total": 1602,
-    "last_updated": "Feb 18, 2026, 11:21:53 PM",
+    "last_updated": "Feb 18, 2026, 11:22:53 PM",
     "server_region": "ws-america-01"
 }
