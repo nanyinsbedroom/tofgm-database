@@ -9950,12 +9950,21 @@
             "server_region": "southeast-asia"
         },
         "68762426475528": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 1996585.5,
-            "last_seen": "Feb 02, 2026, 04:06:09 AM",
+            "hp": 2057474.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -409.5999755859375,
+                "y": -17598.798828125,
+                "z": 96343.0390625
+            },
+            "last_seen": "Feb 19, 2026, 7:40:24 PM",
             "level": 100,
             "name": "☆ﾟNámҺωαη☆ﾟ",
             "name_history": [
@@ -12985,12 +12994,21 @@
             "server_region": "southeast-asia"
         },
         "68775311561400": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "2_10_1_6",
             "gender": 1,
             "hp": 2298570.5,
-            "last_seen": "Feb 10, 2026, 8:52:20 PM",
+            "last_known_position": {
+                "map": "city",
+                "x": -507.5,
+                "y": -18553.099609375,
+                "z": 96329.5390625
+            },
+            "last_seen": "Feb 19, 2026, 7:40:24 PM",
             "level": 100,
             "name": "Amimima",
             "name_history": [
@@ -27271,14 +27289,14 @@
             "crew_name": "Lunar Exclaire",
             "equipping_title": "RammusSaidOK's Successor,1",
             "gender": 0,
-            "hp": 2804719.75,
+            "hp": 2848401.5,
             "last_known_position": {
                 "map": "city",
-                "x": 374.7130432128906,
-                "y": -18473.041015625,
-                "z": 96333.8359375
+                "x": -105.52745056152344,
+                "y": -18167.009765625,
+                "z": 96329.6875
             },
-            "last_seen": "Feb 19, 2026, 5:34:00 PM",
+            "last_seen": "Feb 19, 2026, 7:40:24 PM",
             "level": 100,
             "name": "Kizuna N",
             "name_history": [
@@ -27454,11 +27472,11 @@
             "hp": 1702262.625,
             "last_known_position": {
                 "map": "city",
-                "x": 373.5199890136719,
-                "y": -18642.71875,
-                "z": 96342.53125
+                "x": 116.27703857421875,
+                "y": -18171.1015625,
+                "z": 96322.265625
             },
-            "last_seen": "Feb 19, 2026, 5:34:00 PM",
+            "last_seen": "Feb 19, 2026, 7:40:24 PM",
             "level": 100,
             "name": "Terry​",
             "name_history": [
@@ -29245,6 +29263,6 @@
         }
     },
     "accounts_total": 2056,
-    "last_updated": "Feb 19, 2026, 5:34:00 PM",
+    "last_updated": "Feb 19, 2026, 7:40:24 PM",
     "server_region": "southeast-asia"
 }
