@@ -1537,14 +1537,26 @@
             "server_region": "europe"
         },
         "55851754765390": {
+            "crew_history": [
+                "New Hope"
+            ],
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
-            "equipping_title": "Tencent_Sever_62",
+            "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2120222.0,
-            "last_seen": "Oct 28, 2025, 04:20:44 AM",
+            "hp": 6140995.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101223.609375,
+                "y": -188582.390625,
+                "z": -7815.341796875
+            },
+            "last_seen": "Feb 19, 2026, 10:05:34 PM",
             "level": 100,
             "name": "Corticarte",
+            "name_history": [
+                "Corticarte"
+            ],
             "registered": "Aug 12, 2022, 10:08:55 AM",
             "role_id": 55851754765390,
             "server_region": "europe"
@@ -2429,9 +2441,27 @@
             "server_region": "europe"
         },
         "55856049770402": {
+            "crew_history": [
+                "  "
+            ],
+            "crew_id": 2538325684941,
+            "crew_name": "  ",
+            "equipping_title": "Neyara's Enlightener,1",
             "gender": 0,
-            "last_seen": [],
+            "hp": 6285003.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96070.859375,
+                "y": -189148.03125,
+                "z": -7947.4599609375
+            },
+            "last_seen": "Feb 19, 2026, 10:05:34 PM",
+            "level": 100,
             "name": "Anarchy7",
+            "name_history": [
+                "Anarchy7"
+            ],
+            "registered": "Aug 20, 2022, 7:44:33 PM",
             "role_id": 55856049770402,
             "server_region": "europe"
         },
@@ -10574,19 +10604,20 @@
             ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "None",
+            "equipping_title": "1_3_1_2",
             "gender": 0,
-            "hp": 5944718.0,
+            "hp": 6129686.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 102595.140625,
-                "y": -181959.0625,
-                "z": -7879.40478515625
+                "x": 91872.6953125,
+                "y": -183428.09375,
+                "z": -7622.65966796875
             },
-            "last_seen": "Feb 16, 2026, 9:35:16 PM",
+            "last_seen": "Feb 19, 2026, 10:05:34 PM",
             "level": 100,
-            "name": "kanta",
+            "name": "kanta ♥ ♥ ♥",
             "name_history": [
+                "kanta ♥ ♥ ♥",
                 "kanta"
             ],
             "registered": "Jul 28, 2023, 10:30:25 PM",
@@ -11074,14 +11105,26 @@
             "server_region": "europe"
         },
         "55963424321551": {
+            "crew_history": [
+                "  "
+            ],
             "crew_id": 2538325684941,
             "crew_name": "  ",
-            "equipping_title": "Anarchy7的启迪人,1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1923786.125,
-            "last_seen": "Oct 29, 2025, 01:13:28 AM",
+            "hp": 5990126.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101532.5625,
+                "y": -183431.71875,
+                "z": -7809.74560546875
+            },
+            "last_seen": "Feb 19, 2026, 10:05:34 PM",
             "level": 100,
             "name": "雪片",
+            "name_history": [
+                "雪片"
+            ],
             "registered": "Nov 18, 2023, 6:44:46 PM",
             "role_id": 55963424321551,
             "server_region": "europe"
@@ -19890,16 +19933,16 @@
             ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "None",
+            "equipping_title": "1_5_1_1",
             "gender": 0,
-            "hp": 5947877.5,
+            "hp": 5865693.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 95804.4140625,
-                "y": -173744.59375,
-                "z": -4668.48095703125
+                "x": 93390.59375,
+                "y": -182210.21875,
+                "z": -7575.47998046875
             },
-            "last_seen": "Feb 16, 2026, 9:39:16 PM",
+            "last_seen": "Feb 19, 2026, 10:05:34 PM",
             "level": 100,
             "name": "Wolti9D",
             "name_history": [
@@ -20261,6 +20304,6 @@
         }
     },
     "accounts_total": 1373,
-    "last_updated": "Feb 19, 2026, 10:04:34 PM",
+    "last_updated": "Feb 19, 2026, 10:05:34 PM",
     "server_region": "europe"
 }
