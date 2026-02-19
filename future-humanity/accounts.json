@@ -3496,12 +3496,21 @@
             "server_region": "future-humanity"
         },
         "60563335586427": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 14164802156309,
             "crew_name": "天使社",
-            "equipping_title": "魔法少女友奈酱的学徒,0",
+            "equipping_title": "瑞凤的导师,0",
             "gender": 1,
-            "hp": 1254795.0,
-            "last_seen": "2026年01月29日 上午 1:00:30",
+            "hp": 1580480.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 34.59000015258789,
+                "y": -15129.189453125,
+                "z": 96309.4140625
+            },
+            "last_seen": "2026年2月19日 下午8:54:43",
             "level": 100,
             "name": "猫冬茉语",
             "name_history": [
@@ -6333,6 +6342,31 @@
             "role_id": 60563335993585,
             "server_region": "future-humanity"
         },
+        "60563335993671": {
+            "crew_history": [
+                "神待少女"
+            ],
+            "crew_id": 14263586404117,
+            "crew_name": "神待少女",
+            "equipping_title": "猫冬茉语的学徒,0",
+            "gender": 1,
+            "hp": 993722.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 97.56999969482422,
+                "y": -18983.779296875,
+                "z": 96336.0390625
+            },
+            "last_seen": "2026年2月19日 下午8:54:43",
+            "level": 95,
+            "name": "瑞凤",
+            "name_history": [
+                "瑞凤"
+            ],
+            "registered": "2026年1月27日 上午8:57:16",
+            "role_id": 60563335993671,
+            "server_region": "future-humanity"
+        },
         "60563335993678": {
             "crew_id": 1627792619285,
             "crew_name": "星之海",
@@ -9027,7 +9061,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 515,
-    "last_updated": "2026年2月19日 下午8:53:43",
+    "accounts_total": 516,
+    "last_updated": "2026年2月19日 下午8:54:43",
     "server_region": "future-humanity"
 }
