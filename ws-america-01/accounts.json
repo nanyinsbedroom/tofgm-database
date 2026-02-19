@@ -12593,12 +12593,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413521682": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "None",
             "gender": 1,
             "hp": 358809.0,
-            "last_seen": "Feb 12, 2026, 5:24:37 PM",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72324.1015625,
+                "y": 49233.41015625,
+                "z": -12323.580078125
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
             "level": 74,
             "name": "Foxglove",
             "name_history": [
@@ -18608,6 +18617,31 @@
             "role_id": 38174107413548873,
             "server_region": "ws-america-01"
         },
+        "38174107413548933": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1018667.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72358.71875,
+                "y": 49226.70703125,
+                "z": -12313.5
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "level": 76,
+            "name": "Rinorah",
+            "name_history": [
+                "Rinorah"
+            ],
+            "registered": "Nov 30, 2025, 12:48:54 PM",
+            "role_id": 38174107413548933,
+            "server_region": "ws-america-01"
+        },
         "38174107413549320": {
             "crew_history": [
                 "Kawaii Kittens"
@@ -24457,6 +24491,31 @@
             "role_id": 38174107413580752,
             "server_region": "ws-america-01"
         },
+        "38174107413580754": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "ItsyLady's Apprentice,0",
+            "gender": 1,
+            "hp": 464119.03125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72349.859375,
+                "y": 49299.48046875,
+                "z": -12324.3193359375
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "level": 76,
+            "name": "LadyDimitrescu",
+            "name_history": [
+                "LadyDimitrescu"
+            ],
+            "registered": "Feb 1, 2026, 8:34:22 PM",
+            "role_id": 38174107413580754,
+            "server_region": "ws-america-01"
+        },
         "38174107413580778": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -25468,6 +25527,31 @@
             "role_id": 38174107413582355,
             "server_region": "ws-america-01"
         },
+        "38174107413582402": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
+            "crew_id": 622779146022,
+            "crew_name": "BR Battle Storm",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;73",
+            "gender": 1,
+            "hp": 281628.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72331.625,
+                "y": 49231.58984375,
+                "z": -12309.859375
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "level": 70,
+            "name": "Monica Bellucci",
+            "name_history": [
+                "Monica Bellucci"
+            ],
+            "registered": "Feb 13, 2026, 8:59:38 AM",
+            "role_id": 38174107413582402,
+            "server_region": "ws-america-01"
+        },
         "38174107413582409": {
             "crew_id": 0,
             "crew_name": "",
@@ -25946,6 +26030,31 @@
             "role_id": 38174107413582963,
             "server_region": "ws-america-01"
         },
+        "38174107413583040": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 71683.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72224.078125,
+                "y": 48857.5390625,
+                "z": -10390.0703125
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "level": 48,
+            "name": "BitsyLady",
+            "name_history": [
+                "BitsyLady"
+            ],
+            "registered": "Feb 17, 2026, 8:06:12 PM",
+            "role_id": 38174107413583040,
+            "server_region": "ws-america-01"
+        },
         "38174107413583052": {
             "crew_history": [
                 "Dreamlight"
@@ -25996,6 +26105,29 @@
             "role_id": 38174107413583100,
             "server_region": "ws-america-01"
         },
+        "38174107413583147": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 33464.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11489.599609375
+            },
+            "last_seen": "Feb 18, 2026, 8:26:37 PM",
+            "level": 7,
+            "name": "Azmodeus",
+            "name_history": [
+                "Azmodeus"
+            ],
+            "registered": "Feb 18, 2026, 7:13:19 PM",
+            "role_id": 38174107413583147,
+            "server_region": "ws-america-01"
+        },
         "38174107413583152": {
             "crew_history": [],
             "crew_id": 0,
@@ -26020,7 +26152,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1532,
-    "last_updated": "Feb 18, 2026, 8:25:36 PM",
+    "accounts_total": 1537,
+    "last_updated": "Feb 18, 2026, 8:26:37 PM",
     "server_region": "ws-america-01"
 }
