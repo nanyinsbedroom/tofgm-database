@@ -17947,19 +17947,22 @@
             "server_region": "europe"
         },
         "55963424759596": {
+            "crew_history": [
+                "The_Void"
+            ],
             "crew_id": 38654718669,
             "crew_name": "The_Void",
-            "equipping_title": "HuntingRank_3;imitation_70;31",
+            "equipping_title": "HuntingRank_3;imitation_70;26",
             "gender": 1,
-            "hp": 6332714.5,
+            "hp": 1096578.125,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 92374.078125,
-                "y": -187942.09375,
-                "z": -7241.9599609375
+                "map": "QRSL_P",
+                "x": -59025.46875,
+                "y": 57919.109375,
+                "z": -10006.8994140625
             },
-            "last_seen": "Feb 13, 2026, 9:25:42 PM",
-            "level": 91,
+            "last_seen": "Feb 19, 2026, 10:03:34 PM",
+            "level": 96,
             "name": "Mr. Aizen",
             "name_history": [
                 "Mr. Aizen"
@@ -18447,6 +18450,29 @@
             ],
             "registered": "Feb 7, 2026, 7:48:10 PM",
             "role_id": 55963424762284,
+            "server_region": "europe"
+        },
+        "55963424762382": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 137237.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90699.6015625,
+                "y": 84006.9375,
+                "z": -6888.259765625
+            },
+            "last_seen": "Feb 19, 2026, 10:03:34 PM",
+            "level": 39,
+            "name": "Thorne",
+            "name_history": [
+                "Thorne"
+            ],
+            "registered": "Feb 7, 2026, 11:51:23 PM",
+            "role_id": 55963424762382,
             "server_region": "europe"
         },
         "55963424762502": {
@@ -19169,6 +19195,29 @@
             "role_id": 55963424765347,
             "server_region": "europe"
         },
+        "55963424765479": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 87836.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82563.8046875,
+                "y": 89802.7578125,
+                "z": -3739.2998046875
+            },
+            "last_seen": "Feb 19, 2026, 10:03:34 PM",
+            "level": 49,
+            "name": "Haruma Miura",
+            "name_history": [
+                "Haruma Miura"
+            ],
+            "registered": "Feb 14, 2026, 4:25:55 PM",
+            "role_id": 55963424765479,
+            "server_region": "europe"
+        },
         "55963424765538": {
             "crew_history": [],
             "crew_id": 0,
@@ -19213,6 +19262,31 @@
             ],
             "registered": "Feb 14, 2026, 8:54:34 PM",
             "role_id": 55963424765583,
+            "server_region": "europe"
+        },
+        "55963424765627": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 34359751382,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 645360.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62047.94921875,
+                "y": 69392.421875,
+                "z": -6426.35986328125
+            },
+            "last_seen": "Feb 19, 2026, 10:03:34 PM",
+            "level": 55,
+            "name": "LuCiFeRuL",
+            "name_history": [
+                "LuCiFeRuL"
+            ],
+            "registered": "Feb 14, 2026, 10:52:01 PM",
+            "role_id": 55963424765627,
             "server_region": "europe"
         },
         "55963424765743": {
@@ -20185,7 +20259,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1370,
-    "last_updated": "Feb 19, 2026, 10:02:34 PM",
+    "accounts_total": 1373,
+    "last_updated": "Feb 19, 2026, 10:03:34 PM",
     "server_region": "europe"
 }
