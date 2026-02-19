@@ -1414,13 +1414,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512635": {
-            "crew_id": 249116991270,
-            "crew_name": "Satoras Fallen",
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 828614.8125,
-            "last_seen": "Jan 26, 2026, 10:21:36 AM",
-            "level": 72,
+            "hp": 1013171.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1198.010009765625,
+                "y": -28210.96875,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 18, 2026, 11:14:53 PM",
+            "level": 76,
             "name": "Bertina",
             "name_history": [
                 "Bertina"
@@ -28059,6 +28068,6 @@
         }
     },
     "accounts_total": 1600,
-    "last_updated": "Feb 18, 2026, 11:12:53 PM",
+    "last_updated": "Feb 18, 2026, 11:14:53 PM",
     "server_region": "ws-america-01"
 }
