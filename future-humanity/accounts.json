@@ -5630,12 +5630,21 @@
             "server_region": "future-humanity"
         },
         "60563335952077": {
+            "crew_history": [
+                "魅魔"
+            ],
             "crew_id": 15079630190357,
             "crew_name": "魅魔",
             "equipping_title": "普瑞赛斯的学徒,0",
             "gender": 0,
-            "hp": 1313441.75,
-            "last_seen": "2025年11月25日 上午 3:28:15",
+            "hp": 2664228.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325748.0,
+                "y": 205057.8125,
+                "z": -28340.4296875
+            },
+            "last_seen": "2026年2月19日 下午9:13:44",
             "level": 100,
             "name": "珞珈樱花",
             "name_history": [
@@ -5966,6 +5975,31 @@
             ],
             "registered": "2025年11月5日 下午9:56:45",
             "role_id": 60563335959257,
+            "server_region": "future-humanity"
+        },
+        "60563335959904": {
+            "crew_history": [
+                "小奈碎碎念"
+            ],
+            "crew_id": 15277198685973,
+            "crew_name": "小奈碎碎念",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 2266342.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -321247.3125,
+                "y": 198968.09375,
+                "z": -28691.9296875
+            },
+            "last_seen": "2026年2月19日 下午9:13:44",
+            "level": 100,
+            "name": "20YOU1",
+            "name_history": [
+                "20YOU1"
+            ],
+            "registered": "2025年11月8日 上午12:04:04",
+            "role_id": 60563335959904,
             "server_region": "future-humanity"
         },
         "60563335960231": {
@@ -8396,6 +8430,31 @@
             "role_id": 61018600422114,
             "server_region": "future-humanity"
         },
+        "61027190322160": {
+            "crew_history": [
+                "妖精仓库"
+            ],
+            "crew_id": 17231408805653,
+            "crew_name": "妖精仓库",
+            "equipping_title": "1_2021",
+            "gender": 1,
+            "hp": 2477186.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325315.0625,
+                "y": 204550.453125,
+                "z": -28325.048828125
+            },
+            "last_seen": "2026年2月19日 下午9:13:44",
+            "level": 100,
+            "name": "仙女格格巫",
+            "name_history": [
+                "仙女格格巫"
+            ],
+            "registered": "2021年12月16日 上午10:00:10",
+            "role_id": 61027190322160,
+            "server_region": "future-humanity"
+        },
         "61031485310568": {
             "crew_id": 47244654357,
             "crew_name": "周末少女旅行",
@@ -9827,7 +9886,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 544,
-    "last_updated": "2026年2月19日 下午8:12:46",
+    "accounts_total": 546,
+    "last_updated": "2026年2月19日 下午9:13:44",
     "server_region": "future-humanity"
 }
