@@ -10473,6 +10473,31 @@
             "role_id": 38174111708487708,
             "server_region": "ws-europe-01"
         },
+        "38174111708487838": {
+            "crew_history": [
+                "Arcana"
+            ],
+            "crew_id": 115973005095,
+            "crew_name": "Arcana",
+            "equipping_title": "Shananet's Mentor,0",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96364.765625,
+                "y": -196023.359375,
+                "z": -2910.079833984375
+            },
+            "last_seen": "Feb 19, 2026, 9:24:32 PM",
+            "level": 76,
+            "name": "Vel",
+            "name_history": [
+                "Vel"
+            ],
+            "registered": "Nov 25, 2025, 10:04:36 PM",
+            "role_id": 38174111708487838,
+            "server_region": "ws-europe-01"
+        },
         "38174111708487887": {
             "crew_id": 0,
             "crew_name": "",
@@ -20015,7 +20040,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1144,
-    "last_updated": "Feb 19, 2026, 9:23:32 PM",
+    "accounts_total": 1145,
+    "last_updated": "Feb 19, 2026, 9:24:32 PM",
     "server_region": "ws-europe-01"
 }
