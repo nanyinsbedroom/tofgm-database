@@ -5674,11 +5674,11 @@
             "hp": 1016653.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1710.3599853515625,
-                "y": -28741.8203125,
-                "z": 98661.4609375
+                "x": 1908.3299560546875,
+                "y": -28973.330078125,
+                "z": 98663.8359375
             },
-            "last_seen": "Feb 18, 2026, 8:24:36 PM",
+            "last_seen": "Feb 18, 2026, 11:20:53 PM",
             "level": 76,
             "name": "ElPrincipito",
             "name_history": [
@@ -9516,6 +9516,31 @@
             "role_id": 38174107413518242,
             "server_region": "ws-america-01"
         },
+        "38174107413518250": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 929990.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1173.7899169921875,
+                "y": -25135.228515625,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 18, 2026, 11:20:53 PM",
+            "level": 76,
+            "name": "Reo098",
+            "name_history": [
+                "Reo098"
+            ],
+            "registered": "Nov 25, 2025, 9:03:16 AM",
+            "role_id": 38174107413518250,
+            "server_region": "ws-america-01"
+        },
         "38174107413518252": {
             "crew_id": 240527056678,
             "crew_name": "Supernova",
@@ -9565,13 +9590,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413518290": {
-            "crew_id": 287771696934,
-            "crew_name": "Oreos Tengu",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "2_2_0_50",
             "gender": 1,
-            "hp": 1012071.75,
-            "last_seen": "Feb 5, 2026, 2:17:19 PM",
-            "level": 74,
+            "hp": 1102905.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1902.659912109375,
+                "y": -29045.9296875,
+                "z": 97872.0
+            },
+            "last_seen": "Feb 18, 2026, 11:20:53 PM",
+            "level": 76,
             "name": "♥SerasVictoria♥",
             "name_history": [
                 "♥SerasVictoria♥"
@@ -23590,14 +23624,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 910985.25,
+            "hp": 911489.5,
             "last_known_position": {
                 "map": "city",
-                "x": 14.069999694824219,
-                "y": -16721.859375,
-                "z": 96368.53125
+                "x": 567.4099731445313,
+                "y": -28336.80859375,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 18, 2026, 8:23:36 PM",
+            "last_seen": "Feb 18, 2026, 11:20:53 PM",
             "level": 76,
             "name": "Tinuviel",
             "name_history": [
@@ -28085,7 +28119,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1600,
-    "last_updated": "Feb 18, 2026, 11:15:53 PM",
+    "accounts_total": 1601,
+    "last_updated": "Feb 18, 2026, 11:20:53 PM",
     "server_region": "ws-america-01"
 }
