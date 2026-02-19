@@ -23499,20 +23499,22 @@
             "server_region": "southeast-asia"
         },
         "68775311761575": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Oncilla"
+            ],
+            "crew_id": 468151451274,
+            "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 211398.5625,
+            "hp": 212409.5625,
             "last_known_position": {
                 "map": "city",
-                "x": -17.959999084472656,
-                "y": -18327.76953125,
-                "z": 95946.4375
+                "x": 103.91362762451172,
+                "y": -23135.357421875,
+                "z": 96705.6953125
             },
-            "last_seen": "Feb 18, 2026, 8:09:52 PM",
-            "level": 34,
+            "last_seen": "Feb 19, 2026, 4:42:42 PM",
+            "level": 38,
             "name": "Ai Astin",
             "name_history": [
                 "Ai Astin"
@@ -29200,6 +29202,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 19, 2026, 4:36:42 PM",
+    "last_updated": "Feb 19, 2026, 4:42:42 PM",
     "server_region": "southeast-asia"
 }
