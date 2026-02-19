@@ -523,15 +523,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_7_0_11",
             "gender": 0,
-            "hp": 1073447.625,
+            "hp": 1131694.0,
             "last_known_position": {
                 "map": "city",
-                "x": -333.0099792480469,
-                "y": -28250.669921875,
+                "x": 1357.0,
+                "y": -28250.0,
                 "z": 97866.1171875
             },
-            "last_seen": "Feb 15, 2026, 9:07:14 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:36:32 PM",
+            "level": 76,
             "name": "Flux",
             "name_history": [
                 "Flux"
@@ -6904,15 +6904,15 @@
             "crew_name": "Asylum",
             "equipping_title": "1_4_6_4",
             "gender": 0,
-            "hp": 1092944.5,
+            "hp": 1144259.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1759.3199462890625,
-                "y": -28089.8203125,
-                "z": 97877.1171875
+                "x": 153.47999572753906,
+                "y": -23207.05859375,
+                "z": 96716.6953125
             },
-            "last_seen": "Feb 16, 2026, 9:25:15 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:36:32 PM",
+            "level": 76,
             "name": "PM For Heal",
             "name_history": [
                 "PM For Heal"
@@ -7657,13 +7657,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708484124": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 9:54:58 PM",
-            "level": 74,
+            "hp": 931113.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1599.1400146484375,
+                "y": -28461.509765625,
+                "z": 97866.0
+            },
+            "last_seen": "Feb 19, 2026, 9:36:32 PM",
+            "level": 75,
             "name": "          .",
             "name_history": [
                 "          ."
@@ -9240,15 +9249,15 @@
             "crew_name": "Asylum",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 1064748.375,
+            "hp": 1117170.25,
             "last_known_position": {
                 "map": "city",
-                "x": -2054.300048828125,
-                "y": -26467.71875,
-                "z": 97879.6171875
+                "x": 2013.5599365234375,
+                "y": -27172.490234375,
+                "z": 96744.375
             },
-            "last_seen": "Feb 16, 2026, 10:06:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:36:32 PM",
+            "level": 76,
             "name": "Sonea",
             "name_history": [
                 "Sonea"
@@ -20197,6 +20206,6 @@
         }
     },
     "accounts_total": 1149,
-    "last_updated": "Feb 19, 2026, 9:35:32 PM",
+    "last_updated": "Feb 19, 2026, 9:36:32 PM",
     "server_region": "ws-europe-01"
 }
