@@ -9675,13 +9675,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486568": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1009959.9375,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
-            "level": 75,
+            "hp": 1051050.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 19, 2026, 9:35:32 PM",
+            "level": 76,
             "name": "RoamingGiant",
             "name_history": [
                 "RoamingGiant"
@@ -18645,6 +18654,29 @@
             "role_id": 38174111708524896,
             "server_region": "ws-europe-01"
         },
+        "38174111708524919": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 142995.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2004.199951171875,
+                "y": -28176.12890625,
+                "z": 97954.8046875
+            },
+            "last_seen": "Feb 19, 2026, 9:35:32 PM",
+            "level": 47,
+            "name": "Kageru",
+            "name_history": [
+                "Kageru"
+            ],
+            "registered": "Feb 8, 2026, 10:50:49 AM",
+            "role_id": 38174111708524919,
+            "server_region": "ws-europe-01"
+        },
         "38174111708524940": {
             "crew_id": 0,
             "crew_name": "",
@@ -19977,6 +20009,31 @@
             "role_id": 38174111708525980,
             "server_region": "ws-europe-01"
         },
+        "38174111708526006": {
+            "crew_history": [
+                "UTOPIA.UnioN"
+            ],
+            "crew_id": 1846844825383,
+            "crew_name": "UTOPIA.UnioN",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 77934.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2193.239990234375,
+                "y": -27102.830078125,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 19, 2026, 9:35:32 PM",
+            "level": 24,
+            "name": "Glacy",
+            "name_history": [
+                "Glacy"
+            ],
+            "registered": "Feb 19, 2026, 6:10:48 PM",
+            "role_id": 38174111708526006,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526008": {
             "crew_history": [],
             "crew_id": 0,
@@ -20139,7 +20196,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1147,
-    "last_updated": "Feb 19, 2026, 9:34:32 PM",
+    "accounts_total": 1149,
+    "last_updated": "Feb 19, 2026, 9:35:32 PM",
     "server_region": "ws-europe-01"
 }
