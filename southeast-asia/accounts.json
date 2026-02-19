@@ -8712,12 +8712,21 @@
             "server_region": "southeast-asia"
         },
         "68758131604134": {
-            "crew_id": 1421634190994,
-            "crew_name": "Lunar Exclaire",
+            "crew_history": [
+                "Origin"
+            ],
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
             "equipping_title": "Tencent_Sever_119",
             "gender": 1,
-            "hp": 2217341.25,
-            "last_seen": "Jan 24, 2026, 04:08:35 AM",
+            "hp": 2225621.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 448.03997802734375,
+                "y": -16501.6796875,
+                "z": 96375.03125
+            },
+            "last_seen": "Feb 19, 2026, 4:36:42 PM",
             "level": 100,
             "name": "Stefanie Anne",
             "name_history": [
@@ -29191,6 +29200,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 19, 2026, 4:35:42 PM",
+    "last_updated": "Feb 19, 2026, 4:36:42 PM",
     "server_region": "southeast-asia"
 }
