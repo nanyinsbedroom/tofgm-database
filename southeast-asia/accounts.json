@@ -6456,12 +6456,21 @@
             "server_region": "southeast-asia"
         },
         "68749541512527": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
             "equipping_title": "Title_HalfAnniversary_os_1",
             "gender": 0,
-            "hp": 1876711.875,
-            "last_seen": "Dec 01, 2025, 05:53:59 AM",
+            "hp": 1876711.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -659.8900146484375,
+                "y": -16564.419921875,
+                "z": 96357.2890625
+            },
+            "last_seen": "Feb 19, 2026, 12:25:54 PM",
             "level": 100,
             "name": "ChocoPotato",
             "name_history": [
@@ -9294,14 +9303,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 6334851.5,
+            "hp": 2869543.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 94305.0,
-                "y": -222092.0,
-                "z": 1035.1099853515625
+                "map": "city",
+                "x": -460.3699951171875,
+                "y": -18522.19921875,
+                "z": 96322.78125
             },
-            "last_seen": "Feb 18, 2026, 8:54:55 PM",
+            "last_seen": "Feb 19, 2026, 12:25:54 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -27206,16 +27215,16 @@
             ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
-            "equipping_title": "pla ulti's Apprentice,0",
+            "equipping_title": "RammusSaidOK's Successor,1",
             "gender": 0,
-            "hp": 6282729.0,
+            "hp": 2804720.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 107484.0,
-                "y": -185112.890625,
-                "z": -5275.42333984375
+                "map": "city",
+                "x": -428.80999755859375,
+                "y": -23338.189453125,
+                "z": 97876.5078125
             },
-            "last_seen": "Feb 18, 2026, 8:15:52 PM",
+            "last_seen": "Feb 19, 2026, 12:25:54 PM",
             "level": 100,
             "name": "Kizuna N",
             "name_history": [
@@ -29182,6 +29191,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 18, 2026, 9:17:56 PM",
+    "last_updated": "Feb 19, 2026, 12:25:54 PM",
     "server_region": "southeast-asia"
 }
