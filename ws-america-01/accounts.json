@@ -4242,14 +4242,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_7_0_11",
             "gender": 0,
-            "hp": 1104357.0,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 130.0800018310547,
-                "y": -23136.728515625,
-                "z": 96712.1953125
+                "map": "Kailo_P_003",
+                "x": 116076.4765625,
+                "y": -181799.171875,
+                "z": -4229.94970703125
             },
-            "last_seen": "Feb 18, 2026, 8:23:36 PM",
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
             "level": 76,
             "name": "Sylvian",
             "name_history": [
@@ -7497,13 +7497,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413516862": {
-            "crew_id": 240527056678,
-            "crew_name": "Supernova",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
             "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 1006702.3125,
-            "last_seen": "Feb 12, 2026, 5:24:37 PM",
-            "level": 75,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100505.9453125,
+                "y": -181555.03125,
+                "z": -7478.1611328125
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
             "name": "火 RosieL ツ",
             "name_history": [
                 "火 RosieL ツ"
@@ -9777,6 +9786,31 @@
             "role_id": 38174107413518534,
             "server_region": "ws-america-01"
         },
+        "38174107413518549": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_10_1_11",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 110038.5625,
+                "y": -174787.25,
+                "z": -4933.36181640625
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
+            "name": "clarkken",
+            "name_history": [
+                "clarkken"
+            ],
+            "registered": "Nov 25, 2025, 9:21:04 AM",
+            "role_id": 38174107413518549,
+            "server_region": "ws-america-01"
+        },
         "38174107413518554": {
             "crew_id": 0,
             "crew_name": "",
@@ -11201,6 +11235,31 @@
             "role_id": 38174107413519757,
             "server_region": "ws-america-01"
         },
+        "38174107413519769": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100793.9453125,
+                "y": -182580.21875,
+                "z": -7451.919921875
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
+            "name": "MomoChan",
+            "name_history": [
+                "MomoChan"
+            ],
+            "registered": "Nov 25, 2025, 10:30:06 AM",
+            "role_id": 38174107413519769,
+            "server_region": "ws-america-01"
+        },
         "38174107413519775": {
             "crew_id": 382260977446,
             "crew_name": "MerylSupremacy",
@@ -12592,6 +12651,31 @@
             "role_id": 38174107413521488,
             "server_region": "ws-america-01"
         },
+        "38174107413521521": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "Rhea ripley's Mentor,0",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93221.71875,
+                "y": -188721.703125,
+                "z": -7376.21728515625
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
+            "name": "Xscorpion24",
+            "name_history": [
+                "Xscorpion24"
+            ],
+            "registered": "Nov 25, 2025, 12:23:14 PM",
+            "role_id": 38174107413521521,
+            "server_region": "ws-america-01"
+        },
         "38174107413521572": {
             "crew_id": 0,
             "crew_name": "",
@@ -12730,13 +12814,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413521787": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 32840.0,
-            "last_seen": "Nov 25, 2025, 09:11:51 PM",
-            "level": 13,
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105645.9296875,
+                "y": -187431.96875,
+                "z": -5231.8173828125
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
             "name": "Hedness",
             "name_history": [
                 "Hedness"
@@ -14205,14 +14298,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "1_6_4_17",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 2176351.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 104391.71875,
-                "y": -196915.890625,
-                "z": -4640.94482421875
+                "x": 115726.34375,
+                "y": -181677.140625,
+                "z": -4308.580078125
             },
-            "last_seen": "Feb 18, 2026, 8:32:37 PM",
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
             "level": 76,
             "name": "kokomi",
             "name_history": [
@@ -16497,6 +16590,31 @@
             "role_id": 38174107413534316,
             "server_region": "ws-america-01"
         },
+        "38174107413534636": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_7_0_13",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 102107.1484375,
+                "y": -183101.03125,
+                "z": -7878.4052734375
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
+            "name": "Delyon",
+            "name_history": [
+                "Delyon"
+            ],
+            "registered": "Nov 26, 2025, 2:15:25 PM",
+            "role_id": 38174107413534636,
+            "server_region": "ws-america-01"
+        },
         "38174107413534686": {
             "crew_id": 167512612646,
             "crew_name": "Gato",
@@ -16667,13 +16785,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413535591": {
-            "crew_id": 919131889446,
-            "crew_name": "STARSEEDS",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 973455.75,
-            "last_seen": "Jan 30, 2026, 10:38:38 PM",
-            "level": 73,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93231.3984375,
+                "y": -194065.171875,
+                "z": -4314.02001953125
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
             "name": "Himitsu",
             "name_history": [
                 "Himitsu"
@@ -17053,11 +17180,11 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 91265.71875,
-                "y": -187888.609375,
-                "z": -7647.06640625
+                "x": 105652.875,
+                "y": -183863.1875,
+                "z": -5633.8740234375
             },
-            "last_seen": "Feb 18, 2026, 8:34:37 PM",
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
             "level": 76,
             "name": "Crownie",
             "name_history": [
@@ -17196,13 +17323,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413538156": {
+            "crew_history": [
+                "Minor Threat"
+            ],
             "crew_id": 369376075558,
             "crew_name": "Minor Threat",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 127736.796875,
-            "last_seen": "Nov 30, 2025, 01:50:50 PM",
-            "level": 42,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93330.015625,
+                "y": -181708.0,
+                "z": -7704.7568359375
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
             "name": "Mystocan",
             "name_history": [
                 "Mystocan"
@@ -17879,13 +18015,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413543472": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
             "equipping_title": "Chitose's Mentor,0",
             "gender": 0,
-            "hp": 1026872.5,
-            "last_seen": "Feb 12, 2026, 5:26:49 PM",
-            "level": 75,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93395.1328125,
+                "y": -175617.984375,
+                "z": -5973.00146484375
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
             "name": "Laffey-Chan",
             "name_history": [
                 "Laffey-Chan"
@@ -18909,6 +19054,31 @@
             ],
             "registered": "Nov 30, 2025, 6:20:11 PM",
             "role_id": 38174107413549700,
+            "server_region": "ws-america-01"
+        },
+        "38174107413549945": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;81",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92009.3671875,
+                "y": -187996.890625,
+                "z": -7382.9169921875
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 74,
+            "name": "Crystal Migurd",
+            "name_history": [
+                "Crystal Migurd"
+            ],
+            "registered": "Nov 30, 2025, 7:47:25 PM",
+            "role_id": 38174107413549945,
             "server_region": "ws-america-01"
         },
         "38174107413549968": {
@@ -22055,6 +22225,31 @@
             ],
             "registered": "Jan 1, 2026, 4:35:53 PM",
             "role_id": 38174107413574762,
+            "server_region": "ws-america-01"
+        },
+        "38174107413574831": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "2_10_1_8",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100421.609375,
+                "y": -187974.640625,
+                "z": -7886.2138671875
+            },
+            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "level": 76,
+            "name": "Marlle",
+            "name_history": [
+                "Marlle"
+            ],
+            "registered": "Jan 1, 2026, 9:24:38 PM",
+            "role_id": 38174107413574831,
             "server_region": "ws-america-01"
         },
         "38174107413574846": {
@@ -26678,7 +26873,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1552,
-    "last_updated": "Feb 18, 2026, 9:55:26 PM",
+    "accounts_total": 1558,
+    "last_updated": "Feb 18, 2026, 9:57:26 PM",
     "server_region": "ws-america-01"
 }
