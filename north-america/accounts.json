@@ -1976,12 +1976,21 @@
             "server_region": "north-america"
         },
         "51561082529343": {
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
             "crew_id": 2637109931749,
             "crew_name": "♥︎ Coalition ♡",
-            "equipping_title": "2_2_0_21",
+            "equipping_title": "1_6_4_34",
             "gender": 1,
-            "hp": 2723938.0,
-            "last_seen": "Nov 01, 2025, 07:26:56 PM",
+            "hp": 6176962.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99883.5546875,
+                "y": -180877.890625,
+                "z": -7545.7802734375
+            },
+            "last_seen": "Feb 18, 2026, 9:31:16 PM",
             "level": 100,
             "name": "Sasha",
             "name_history": [
@@ -3695,11 +3704,26 @@
             "server_region": "north-america"
         },
         "51591147162136": {
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
             "crew_id": 2637109931749,
-            "crew_name": "Coalition XII",
+            "crew_name": "♥︎ Coalition ♡",
+            "equipping_title": "1_4_6_6",
             "gender": 0,
-            "last_seen": "Sep 22, 2025, 11:52:59 AM",
+            "hp": 6084596.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106518.40625,
+                "y": -183978.28125,
+                "z": -5432.759765625
+            },
+            "last_seen": "Feb 18, 2026, 9:31:16 PM",
+            "level": 100,
             "name": "BTacticsTV",
+            "name_history": [
+                "BTacticsTV"
+            ],
             "registered": "Aug 10, 2022, 7:42:23 PM",
             "role_id": 51591147162136,
             "server_region": "north-america"
@@ -11404,6 +11428,6 @@
         }
     },
     "accounts_total": 827,
-    "last_updated": "Feb 18, 2026, 9:29:16 PM",
+    "last_updated": "Feb 18, 2026, 9:31:16 PM",
     "server_region": "north-america"
 }
