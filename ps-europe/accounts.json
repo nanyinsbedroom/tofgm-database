@@ -5584,12 +5584,21 @@
             "server_region": "ps-europe"
         },
         "8598537411509779": {
+            "crew_history": [
+                "Sanctuary"
+            ],
             "crew_id": 4296969300,
             "crew_name": "Sanctuary",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2234471.0,
-            "last_seen": "Nov 23, 2025, 04:45:23 AM",
+            "hp": 2483108.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1639.6300048828125,
+                "y": -26297.91015625,
+                "z": 95423.1171875
+            },
+            "last_seen": "Feb 19, 2026, 10:46:59 PM",
             "level": 100,
             "name": "Munin#a",
             "name_history": [
@@ -6458,6 +6467,6 @@
         }
     },
     "accounts_total": 398,
-    "last_updated": "Feb 19, 2026, 10:39:24 PM",
+    "last_updated": "Feb 19, 2026, 10:46:59 PM",
     "server_region": "ps-europe"
 }
