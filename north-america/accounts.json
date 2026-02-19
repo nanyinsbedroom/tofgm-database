@@ -3151,6 +3151,29 @@
             "role_id": 51578262360772,
             "server_region": "north-america"
         },
+        "51578262363734": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 1810112.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58500.41796875,
+                "y": 104323.7421875,
+                "z": -12952.5400390625
+            },
+            "last_seen": "Feb 18, 2026, 9:45:17 PM",
+            "level": 100,
+            "name": "Nina of The Sol",
+            "name_history": [
+                "Nina of The Sol"
+            ],
+            "registered": "Sep 8, 2022, 11:50:21 PM",
+            "role_id": 51578262363734,
+            "server_region": "north-america"
+        },
         "51578262367941": {
             "crew_id": 1056561966818,
             "crew_name": "Grand Order",
@@ -7321,12 +7344,21 @@
             "server_region": "north-america"
         },
         "51629802304030": {
+            "crew_history": [
+                "Echo Vision"
+            ],
             "crew_id": 4294979317,
             "crew_name": "Echo Vision",
-            "equipping_title": "Ronono的学徒,0",
+            "equipping_title": "Temperal's Mentor,0",
             "gender": 1,
-            "hp": 1396052.25,
-            "last_seen": "Nov 07, 2025, 11:02:02 AM",
+            "hp": 1506566.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55345.76953125,
+                "y": 86100.515625,
+                "z": -10842.5400390625
+            },
+            "last_seen": "Feb 18, 2026, 9:45:17 PM",
             "level": 100,
             "name": "Faecat",
             "name_history": [
@@ -10639,6 +10671,29 @@
             "role_id": 51629802378564,
             "server_region": "north-america"
         },
+        "51629802378760": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 4384.146484375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 18, 2026, 9:45:17 PM",
+            "level": 17,
+            "name": "Licia",
+            "name_history": [
+                "Licia"
+            ],
+            "registered": "Feb 18, 2026, 6:38:02 PM",
+            "role_id": 51629802378760,
+            "server_region": "north-america"
+        },
         "51629802378775": {
             "crew_history": [],
             "crew_id": 0,
@@ -11527,7 +11582,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 830,
-    "last_updated": "Feb 18, 2026, 9:43:17 PM",
+    "accounts_total": 832,
+    "last_updated": "Feb 18, 2026, 9:45:17 PM",
     "server_region": "north-america"
 }
