@@ -3649,19 +3649,21 @@
             "server_region": "ws-america-01"
         },
         "38174107413513889": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
             "equipping_title": "Jerod's Apprentice,0",
             "gender": 0,
-            "hp": 931466.625,
+            "hp": 3120000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -28.85999870300293,
-                "y": -16853.400390625,
-                "z": 96373.0390625
+                "map": "Kailo_P_003",
+                "x": 98917.4375,
+                "y": -172498.796875,
+                "z": -4656.39501953125
             },
-            "last_seen": "Feb 18, 2026, 8:25:36 PM",
+            "last_seen": "Feb 18, 2026, 10:11:27 PM",
             "level": 73,
             "name": "Malanthros",
             "name_history": [
@@ -19241,6 +19243,31 @@
             "role_id": 38174107413549979,
             "server_region": "ws-america-01"
         },
+        "38174107413550049": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;68",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92757.4765625,
+                "y": -177078.453125,
+                "z": -6741.71240234375
+            },
+            "last_seen": "Feb 18, 2026, 10:11:27 PM",
+            "level": 71,
+            "name": "6nerox",
+            "name_history": [
+                "6nerox"
+            ],
+            "registered": "Nov 30, 2025, 8:33:59 PM",
+            "role_id": 38174107413550049,
+            "server_region": "ws-america-01"
+        },
         "38174107413550130": {
             "crew_id": 184692481830,
             "crew_name": "Stray",
@@ -27042,7 +27069,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1564,
-    "last_updated": "Feb 18, 2026, 10:10:27 PM",
+    "accounts_total": 1565,
+    "last_updated": "Feb 18, 2026, 10:11:27 PM",
     "server_region": "ws-america-01"
 }
