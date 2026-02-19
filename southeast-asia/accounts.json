@@ -1610,14 +1610,26 @@
             "server_region": "southeast-asia"
         },
         "68728066699313": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "Overseas2_7",
             "gender": 1,
-            "hp": 2256370.75,
-            "last_seen": "Nov 01, 2025, 03:21:32 PM",
+            "hp": 2137622.25,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 2806.639892578125,
+                "y": -193.4499969482422,
+                "z": 980.5899658203125
+            },
+            "last_seen": "Feb 19, 2026, 8:14:11 PM",
             "level": 100,
             "name": "Eunie#i",
+            "name_history": [
+                "Eunie#i"
+            ],
             "registered": "Aug 11, 2022, 8:28:56 PM",
             "role_id": 68728066699313,
             "server_region": "southeast-asia"
@@ -9388,12 +9400,21 @@
             "server_region": "southeast-asia"
         },
         "68762426423706": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2244987.75,
-            "last_seen": "Dec 28, 2025, 11:13:10 PM",
+            "hp": 2344551.0,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 663.43212890625,
+                "y": 421.42242431640625,
+                "z": 951.2803955078125
+            },
+            "last_seen": "Feb 19, 2026, 8:14:11 PM",
             "level": 100,
             "name": "Alya forever",
             "name_history": [
@@ -29321,6 +29342,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 19, 2026, 8:13:11 PM",
+    "last_updated": "Feb 19, 2026, 8:14:11 PM",
     "server_region": "southeast-asia"
 }
