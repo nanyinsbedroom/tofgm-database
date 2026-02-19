@@ -961,12 +961,21 @@
             "server_region": "north-america"
         },
         "51552492509358": {
+            "crew_history": [
+                "SH✪✪OOTING ST☆R"
+            ],
             "crew_id": 7524782714613,
             "crew_name": "SH✪✪OOTING ST☆R",
-            "equipping_title": "Oguri Cap的导师,0",
+            "equipping_title": "1_1_21_1",
             "gender": 0,
-            "hp": 1960186.25,
-            "last_seen": "Nov 24, 2025, 07:07:07 PM",
+            "hp": 6148329.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 90762.265625,
+                "y": -185950.234375,
+                "z": -7849.23046875
+            },
+            "last_seen": "Feb 18, 2026, 8:39:37 PM",
             "level": 100,
             "name": "《Reaper》",
             "name_history": [
@@ -1130,6 +1139,31 @@
             "name": "chakaxzz",
             "registered": "Aug 10, 2022, 9:16:06 PM",
             "role_id": 51556787433166,
+            "server_region": "north-america"
+        },
+        "51556787447148": {
+            "crew_history": [
+                "Harmony"
+            ],
+            "crew_id": 631360204520,
+            "crew_name": "Harmony",
+            "equipping_title": "1_4_4_1",
+            "gender": 1,
+            "hp": 6173474.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98817.921875,
+                "y": -189645.3125,
+                "z": -7914.7099609375
+            },
+            "last_seen": "Feb 18, 2026, 8:39:37 PM",
+            "level": 100,
+            "name": "Elowen",
+            "name_history": [
+                "Elowen"
+            ],
+            "registered": "Aug 11, 2022, 10:16:12 AM",
+            "role_id": 51556787447148,
             "server_region": "north-america"
         },
         "51556787454090": {
@@ -11257,7 +11291,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 822,
-    "last_updated": "Feb 18, 2026, 8:38:37 PM",
+    "accounts_total": 823,
+    "last_updated": "Feb 18, 2026, 8:39:37 PM",
     "server_region": "north-america"
 }
