@@ -7065,12 +7065,21 @@
             "server_region": "north-america"
         },
         "51629802292093": {
-            "crew_id": 700079681261,
-            "crew_name": "Maid Cafe",
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 803158896357,
+            "crew_name": "Solstice",
             "equipping_title": "1_3_1_5",
             "gender": 0,
-            "hp": 989065.6875,
-            "last_seen": "Nov 22, 2025, 02:34:36 AM",
+            "hp": 5702183.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 103360.484375,
+                "y": -193351.734375,
+                "z": -5420.24658203125
+            },
+            "last_seen": "Feb 18, 2026, 8:40:37 PM",
             "level": 100,
             "name": "Myu",
             "name_history": [
@@ -9678,6 +9687,31 @@
             "role_id": 51629802360478,
             "server_region": "north-america"
         },
+        "51629802360482": {
+            "crew_history": [
+                "ŠŤ∆Ř×Ł̇Ï6HŤ"
+            ],
+            "crew_id": 14319420976885,
+            "crew_name": "ŠŤ∆Ř×Ł̇Ï6HŤ",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 5591881.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92135.171875,
+                "y": -186234.984375,
+                "z": -7596.58154296875
+            },
+            "last_seen": "Feb 18, 2026, 8:40:37 PM",
+            "level": 98,
+            "name": "死神-鬼火",
+            "name_history": [
+                "死神-鬼火"
+            ],
+            "registered": "Jan 12, 2026, 2:00:09 AM",
+            "role_id": 51629802360482,
+            "server_region": "north-america"
+        },
         "51629802360496": {
             "crew_id": 14319420976885,
             "crew_name": "ŠŤ∆Ř×Ł̇Ï6HŤ",
@@ -11291,7 +11325,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 823,
-    "last_updated": "Feb 18, 2026, 8:39:37 PM",
+    "accounts_total": 824,
+    "last_updated": "Feb 18, 2026, 8:40:37 PM",
     "server_region": "north-america"
 }
