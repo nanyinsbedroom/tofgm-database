@@ -29199,15 +29199,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1553132.875,
+            "hp": 1532888.25,
             "last_known_position": {
                 "map": "city",
-                "x": 2265.0,
-                "y": -27111.0,
-                "z": 97866.1171875
+                "x": -1630.9000244140625,
+                "y": -26485.5,
+                "z": 95410.1640625
             },
-            "last_seen": "2026年2月19日 上午12:37:38",
-            "level": 83,
+            "last_seen": "2026年2月20日 上午2:05:27",
+            "level": 84,
             "name": "洛月儿",
             "name_history": [
                 "洛月儿"
@@ -36977,13 +36977,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695895087": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;94",
+            "equipping_title": "2_2_0_88",
             "gender": 0,
-            "hp": 18243.958984375,
-            "last_seen": "2026年2月7日 下午4:48:37",
-            "level": 82,
+            "hp": 1501531.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 873.699951171875,
+                "y": -27818.5,
+                "z": 96703.9609375
+            },
+            "last_seen": "2026年2月20日 上午2:05:27",
+            "level": 84,
             "name": "33078",
             "name_history": [
                 "33078"
@@ -68044,6 +68053,6 @@
         }
     },
     "accounts_total": 4932,
-    "last_updated": "2026年2月20日 上午2:04:27",
+    "last_updated": "2026年2月20日 上午2:05:27",
     "server_region": "cosmic-fold"
 }
