@@ -15452,12 +15452,12 @@
             "gender": 0,
             "hp": 1123279.0,
             "last_known_position": {
-                "map": "city",
-                "x": -2954.248291015625,
-                "y": -24667.14453125,
-                "z": 98989.90625
+                "map": "QRSL_P",
+                "x": -89613.2734375,
+                "y": 74506.421875,
+                "z": -7372.3896484375
             },
-            "last_seen": "Feb 18, 2026, 10:22:27 PM",
+            "last_seen": "Feb 18, 2026, 10:30:06 PM",
             "level": 76,
             "name": "Abeca",
             "name_history": [
@@ -27156,6 +27156,29 @@
             "role_id": 38174107413582895,
             "server_region": "ws-america-01"
         },
+        "38174107413582896": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 35832.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50077.69140625,
+                "y": 86046.78125,
+                "z": -13148.828125
+            },
+            "last_seen": "Feb 18, 2026, 10:30:06 PM",
+            "level": 8,
+            "name": "Z-Hunter",
+            "name_history": [
+                "Z-Hunter"
+            ],
+            "registered": "Feb 16, 2026, 7:06:27 PM",
+            "role_id": 38174107413582896,
+            "server_region": "ws-america-01"
+        },
         "38174107413582927": {
             "crew_history": [
                 "Ruby Vanguards"
@@ -27418,7 +27441,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1575,
-    "last_updated": "Feb 18, 2026, 10:28:06 PM",
+    "accounts_total": 1576,
+    "last_updated": "Feb 18, 2026, 10:30:06 PM",
     "server_region": "ws-america-01"
 }
