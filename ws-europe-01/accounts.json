@@ -2138,13 +2138,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480231": {
-            "crew_id": 120267972391,
-            "crew_name": "Dynasty",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 1004330.0,
-            "last_seen": "Feb 9, 2026, 7:46:55 PM",
-            "level": 74,
+            "hp": 1110859.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1654.239990234375,
+                "y": -26443.759765625,
+                "z": 97924.1171875
+            },
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Zaraki75",
             "name_history": [
                 "Zaraki75"
@@ -3382,19 +3391,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481006": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "WorldBossDamage_1;Boss_hum_036_world;1",
             "gender": 0,
-            "hp": 1082754.5,
+            "hp": 1137280.375,
             "last_known_position": {
                 "map": "city",
-                "x": 200.72000122070313,
-                "y": -27773.87890625,
-                "z": 97270.0078125
+                "x": 601.5599975585938,
+                "y": -28042.69921875,
+                "z": 97924.15625
             },
-            "last_seen": "Feb 13, 2026, 10:57:52 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Xio",
             "name_history": [
                 "Xio"
@@ -5824,15 +5836,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 0,
-            "hp": 1077048.25,
+            "hp": 1076114.0,
             "last_known_position": {
                 "map": "city",
-                "x": -527.3200073242188,
-                "y": -23937.888671875,
-                "z": 97993.2265625
+                "x": 610.969970703125,
+                "y": -29427.048828125,
+                "z": 98605.65625
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Fedwells",
             "name_history": [
                 "Fedwells"
@@ -8664,15 +8676,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_7_0_11",
             "gender": 1,
-            "hp": 1048611.5,
+            "hp": 1081133.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1667.3699951171875,
-                "y": -27589.009765625,
-                "z": 97872.6171875
+                "x": 332.1499938964844,
+                "y": -28140.8203125,
+                "z": 97917.65625
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "zKevinPlayz",
             "name_history": [
                 "zKevinPlayz"
@@ -8721,15 +8733,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 1036197.4375,
+            "hp": 1085334.5,
             "last_known_position": {
                 "map": "city",
-                "x": -250.6899871826172,
-                "y": -27734.37890625,
-                "z": 96713.4453125
+                "x": 278.2799987792969,
+                "y": -28424.76953125,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Iridaceae",
             "name_history": [
                 "Iridaceae"
@@ -8876,15 +8888,15 @@
             "crew_name": "Wonderland",
             "equipping_title": "BiBi's Mentor,0",
             "gender": 0,
-            "hp": 1046261.125,
+            "hp": 1096584.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1622.5599365234375,
-                "y": -26892.05859375,
-                "z": 97911.1640625
+                "x": 2692.0400390625,
+                "y": -22110.44921875,
+                "z": 97273.8984375
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Teskux",
             "name_history": [
                 "Teskux"
@@ -9419,20 +9431,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486399": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
             "equipping_title": "Luna Terra's Mentor,0",
             "gender": 0,
-            "hp": 1072249.125,
+            "hp": 1125226.0,
             "last_known_position": {
                 "map": "city",
-                "x": 34.29999923706055,
-                "y": -27437.490234375,
-                "z": 96908.734375
+                "x": 852.146240234375,
+                "y": -27842.80859375,
+                "z": 96720.4453125
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "ColdPleb",
             "name_history": [
                 "ColdPleb"
@@ -9900,6 +9914,29 @@
             ],
             "registered": "Nov 25, 2025, 8:18:48 PM",
             "role_id": 38174111708486977,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708487005": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 712762.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1711.1300048828125,
+                "y": -28686.859375,
+                "z": 97885.8671875
+            },
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 74,
+            "name": "Xalberim",
+            "name_history": [
+                "Xalberim"
+            ],
+            "registered": "Nov 25, 2025, 8:22:21 PM",
+            "role_id": 38174111708487005,
             "server_region": "ws-europe-01"
         },
         "38174111708487006": {
@@ -16350,15 +16387,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 918774.9375,
+            "hp": 960527.25,
             "last_known_position": {
                 "map": "city",
-                "x": 3255.800048828125,
-                "y": -28504.298828125,
-                "z": 97994.65625
+                "x": 891.8999633789063,
+                "y": -28012.099609375,
+                "z": 97879.6171875
             },
-            "last_seen": "Feb 17, 2026, 8:28:49 AM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 76,
             "name": "Void Dragon",
             "name_history": [
                 "Void Dragon"
@@ -18942,6 +18979,31 @@
             "role_id": 38174111708525446,
             "server_region": "ws-europe-01"
         },
+        "38174111708525491": {
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 348042.96875,
+            "last_known_position": {
+                "map": "city",
+                "x": -121.79999542236328,
+                "y": -18670.69921875,
+                "z": 96336.0390625
+            },
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 62,
+            "name": "Kiki ¬‿¬",
+            "name_history": [
+                "Kiki ¬‿¬"
+            ],
+            "registered": "Feb 14, 2026, 2:24:33 PM",
+            "role_id": 38174111708525491,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525525": {
             "crew_history": [],
             "crew_id": 0,
@@ -19451,9 +19513,32 @@
             "registered": "Feb 16, 2026, 9:36:23 PM",
             "role_id": 38174111708525757,
             "server_region": "ws-europe-01"
+        },
+        "38174111708525955": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54183.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -99.56999969482422,
+                "y": -22866.5703125,
+                "z": 96716.6953125
+            },
+            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "level": 13,
+            "name": "unfyz",
+            "name_history": [
+                "unfyz"
+            ],
+            "registered": "Feb 19, 2026, 1:50:29 AM",
+            "role_id": 38174111708525955,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1123,
-    "last_updated": "Feb 19, 2026, 9:11:31 PM",
+    "accounts_total": 1126,
+    "last_updated": "Feb 19, 2026, 9:12:31 PM",
     "server_region": "ws-europe-01"
 }
