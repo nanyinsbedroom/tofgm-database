@@ -5580,11 +5580,11 @@
             "hp": 6073596.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 106188.40625,
-                "y": -184124.015625,
-                "z": -5544.06005859375
+                "x": 99969.640625,
+                "y": -188705.375,
+                "z": -7767.83935546875
             },
-            "last_seen": "Feb 18, 2026, 8:41:37 PM",
+            "last_seen": "Feb 18, 2026, 9:34:16 PM",
             "level": 100,
             "name": "DrazuEmpire",
             "name_history": [
@@ -5896,12 +5896,21 @@
             "server_region": "north-america"
         },
         "51625506984314": {
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
             "crew_id": 2637109931749,
             "crew_name": "♥︎ Coalition ♡",
-            "equipping_title": "2_10_0_5",
+            "equipping_title": "2_2_0_63",
             "gender": 0,
-            "hp": 2383593.0,
-            "last_seen": "Nov 22, 2025, 02:31:36 AM",
+            "hp": 6295200.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101268.53125,
+                "y": -186347.21875,
+                "z": -7849.8896484375
+            },
+            "last_seen": "Feb 18, 2026, 9:34:16 PM",
             "level": 100,
             "name": "Nitefox",
             "name_history": [
@@ -11478,6 +11487,6 @@
         }
     },
     "accounts_total": 829,
-    "last_updated": "Feb 18, 2026, 9:33:16 PM",
+    "last_updated": "Feb 18, 2026, 9:34:16 PM",
     "server_region": "north-america"
 }
