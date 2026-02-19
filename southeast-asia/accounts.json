@@ -7238,12 +7238,21 @@
             "server_region": "southeast-asia"
         },
         "68753836486568": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
-            "equipping_title": "2_2_0_84",
+            "equipping_title": "1_8_0_37",
             "gender": 1,
-            "hp": 2199616.0,
-            "last_seen": "Jan 24, 2026, 02:18:22 AM",
+            "hp": 2265647.5,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -46664.69921875,
+                "y": 272053.09375,
+                "z": -12583.7998046875
+            },
+            "last_seen": "Feb 19, 2026, 5:18:59 PM",
             "level": 100,
             "name": "CHlSA",
             "name_history": [
@@ -29202,6 +29211,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 19, 2026, 4:42:42 PM",
+    "last_updated": "Feb 19, 2026, 5:18:59 PM",
     "server_region": "southeast-asia"
 }
