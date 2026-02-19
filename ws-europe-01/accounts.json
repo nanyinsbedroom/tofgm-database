@@ -15901,13 +15901,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708514623": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
             "crew_id": 365081108263,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 999888.375,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
-            "level": 75,
+            "hp": 1032657.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1318.6300048828125,
+                "y": -28281.16015625,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 19, 2026, 9:48:33 PM",
+            "level": 76,
             "name": "Hibana",
             "name_history": [
                 "Hibana"
@@ -20327,6 +20336,6 @@
         }
     },
     "accounts_total": 1153,
-    "last_updated": "Feb 19, 2026, 9:45:33 PM",
+    "last_updated": "Feb 19, 2026, 9:48:33 PM",
     "server_region": "ws-europe-01"
 }
