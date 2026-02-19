@@ -4215,12 +4215,21 @@
             "server_region": "southeast-asia"
         },
         "68736656720429": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2529360.75,
-            "last_seen": "Nov 13, 2025, 08:34:36 PM",
+            "hp": 2858533.0,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 657.8299560546875,
+                "y": 299.5199890136719,
+                "z": 950.199951171875
+            },
+            "last_seen": "Feb 19, 2026, 8:13:11 PM",
             "level": 100,
             "name": "ReonaAya",
             "name_history": [
@@ -8336,14 +8345,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "1_1_28_1",
             "gender": 0,
-            "hp": 6253684.5,
+            "hp": 2826208.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 106556.9453125,
-                "y": -183706.609375,
-                "z": -5243.35009765625
+                "map": "FinalTest_D",
+                "x": 715.8017578125,
+                "y": 2350.788330078125,
+                "z": 973.3499755859375
             },
-            "last_seen": "Feb 18, 2026, 9:09:56 PM",
+            "last_seen": "Feb 19, 2026, 8:13:11 PM",
             "level": 100,
             "name": "Pua",
             "name_history": [
@@ -24630,12 +24639,21 @@
             "server_region": "southeast-asia"
         },
         "68783901251617": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 1,
-            "hp": 2446876.5,
-            "last_seen": "Jan 23, 2026, 03:12:38 AM",
+            "hp": 2526409.0,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 541.8399658203125,
+                "y": 2591.889892578125,
+                "z": 973.3599853515625
+            },
+            "last_seen": "Feb 19, 2026, 8:13:11 PM",
             "level": 100,
             "name": "2E",
             "name_history": [
@@ -29303,6 +29321,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 19, 2026, 8:12:11 PM",
+    "last_updated": "Feb 19, 2026, 8:13:11 PM",
     "server_region": "southeast-asia"
 }
