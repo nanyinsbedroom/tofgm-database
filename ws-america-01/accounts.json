@@ -1373,13 +1373,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512626": {
-            "crew_id": 21483724582,
-            "crew_name": "Kawaii Kittens",
-            "equipping_title": "WorldBossDamage_3;boss_hum_061_World;16",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 828848.0,
-            "last_seen": "Jan 30, 2026, 10:42:35 PM",
-            "level": 73,
+            "hp": 1006764.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1998.8172607421875,
+                "y": -27329.78515625,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 18, 2026, 11:15:53 PM",
+            "level": 76,
             "name": "Guinevere",
             "name_history": [
                 "Guinevere"
@@ -4903,13 +4912,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514571": {
+            "crew_history": [
+                "Kitten Café"
+            ],
             "crew_id": 115973005094,
-            "crew_name": "Maid Café ",
+            "crew_name": "Kitten Café",
             "equipping_title": "2_7_0_12",
             "gender": 1,
-            "hp": 987045.875,
-            "last_seen": "Jan 30, 2026, 03:17:46 PM",
-            "level": 73,
+            "hp": 1157676.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 220.239990234375,
+                "y": -22588.71875,
+                "z": 96705.6953125
+            },
+            "last_seen": "Feb 18, 2026, 11:15:53 PM",
+            "level": 76,
             "name": "LuneVespera",
             "name_history": [
                 "LuneVespera"
@@ -28068,6 +28086,6 @@
         }
     },
     "accounts_total": 1600,
-    "last_updated": "Feb 18, 2026, 11:14:53 PM",
+    "last_updated": "Feb 18, 2026, 11:15:53 PM",
     "server_region": "ws-america-01"
 }
