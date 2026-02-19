@@ -1096,13 +1096,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479815": {
+            "crew_history": [
+                "Architects"
+            ],
             "crew_id": 146037776167,
             "crew_name": "Architects",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 81207.0,
-            "last_seen": "Nov 26, 2025, 01:09:15 AM",
-            "level": 22,
+            "hp": 545283.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1806.5399169921875,
+                "y": -24488.900390625,
+                "z": 97872.328125
+            },
+            "last_seen": "Feb 19, 2026, 9:32:32 PM",
+            "level": 74,
             "name": "Trixiefix",
             "name_history": [
                 "Trixiefix"
@@ -20108,6 +20117,6 @@
         }
     },
     "accounts_total": 1146,
-    "last_updated": "Feb 19, 2026, 9:30:32 PM",
+    "last_updated": "Feb 19, 2026, 9:32:32 PM",
     "server_region": "ws-europe-01"
 }
