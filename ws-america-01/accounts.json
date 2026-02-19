@@ -1263,13 +1263,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512600": {
-            "crew_id": 115973005094,
-            "crew_name": "DreamFall",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "2_2_0_31",
             "gender": 0,
-            "hp": 685225.25,
-            "last_seen": "Dec 23, 2025, 07:18:59 PM",
-            "level": 63,
+            "hp": 1198653.0,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -26166.119140625,
+                "y": 178391.796875,
+                "z": -14760.3994140625
+            },
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 76,
             "name": "Sable",
             "name_history": [
                 "Sable"
@@ -6981,13 +6990,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413516494": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
             "crew_id": 897657052966,
             "crew_name": "SHOOTING ST☆R",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_075_World;9",
-            "gender": 1,
-            "hp": 573971.125,
-            "last_seen": "Dec 26, 2025, 07:30:53 PM",
-            "level": 65,
+            "equipping_title": "2_10_1_12",
+            "gender": 0,
+            "hp": 1067783.75,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -23380.978515625,
+                "y": 178553.4375,
+                "z": -14777.2392578125
+            },
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 76,
             "name": "Thorn",
             "name_history": [
                 "Thorn"
@@ -20001,6 +20019,31 @@
             "role_id": 38174107413562046,
             "server_region": "ws-america-01"
         },
+        "38174107413562085": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "WorldBossDamage_1;boss_hum_057_world;2",
+            "gender": 1,
+            "hp": 1107497.625,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -24021.0703125,
+                "y": 174365.109375,
+                "z": -12927.8896484375
+            },
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 76,
+            "name": "Navias",
+            "name_history": [
+                "Navias"
+            ],
+            "registered": "Dec 11, 2025, 5:03:47 PM",
+            "role_id": 38174107413562085,
+            "server_region": "ws-america-01"
+        },
         "38174107413562256": {
             "crew_id": 0,
             "crew_name": "",
@@ -24219,6 +24262,31 @@
             "role_id": 38174107413580201,
             "server_region": "ws-america-01"
         },
+        "38174107413580238": {
+            "crew_history": [
+                "YoRHa"
+            ],
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 413198.5625,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -21248.44921875,
+                "y": 183007.390625,
+                "z": -14773.5400390625
+            },
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 71,
+            "name": "xy",
+            "name_history": [
+                "xy"
+            ],
+            "registered": "Jan 29, 2026, 3:09:18 PM",
+            "role_id": 38174107413580238,
+            "server_region": "ws-america-01"
+        },
         "38174107413580295": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -24693,19 +24761,20 @@
             "server_region": "ws-america-01"
         },
         "38174107413581176": {
-            "crew_id": 798872805158,
-            "crew_name": "Dreamlight",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_025_world;71",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_065_world;70",
             "gender": 1,
-            "hp": 334114.0,
+            "hp": 481421.03125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -80510.828125,
-                "y": 80995.21875,
-                "z": -9756.009765625
+                "map": "Norn_P",
+                "x": -25640.490234375,
+                "y": 178202.0,
+                "z": -14761.8994140625
             },
-            "last_seen": "Feb 13, 2026, 6:22:34 PM",
-            "level": 72,
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 75,
             "name": "MMONARCAA ",
             "name_history": [
                 "MMONARCAA "
@@ -26007,6 +26076,31 @@
             "role_id": 38174107413582895,
             "server_region": "ws-america-01"
         },
+        "38174107413582927": {
+            "crew_history": [
+                "Ruby Vanguards"
+            ],
+            "crew_id": 3169694752550,
+            "crew_name": "Ruby Vanguards",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 218414.609375,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -26804.169921875,
+                "y": 179202.234375,
+                "z": -14762.8994140625
+            },
+            "last_seen": "Feb 18, 2026, 8:28:37 PM",
+            "level": 60,
+            "name": "《KS》CRIS",
+            "name_history": [
+                "《KS》CRIS"
+            ],
+            "registered": "Feb 16, 2026, 11:35:40 PM",
+            "role_id": 38174107413582927,
+            "server_region": "ws-america-01"
+        },
         "38174107413582928": {
             "crew_history": [],
             "crew_id": 0,
@@ -26198,7 +26292,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1539,
-    "last_updated": "Feb 18, 2026, 8:27:37 PM",
+    "accounts_total": 1542,
+    "last_updated": "Feb 18, 2026, 8:28:37 PM",
     "server_region": "ws-america-01"
 }
