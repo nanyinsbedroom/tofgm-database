@@ -4916,12 +4916,21 @@
             "server_region": "north-america"
         },
         "51608327127918": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
             "crew_id": 6158983114473,
             "crew_name": "Michi Pizzería",
-            "equipping_title": "Akashid的导师,0",
+            "equipping_title": "1_1_25_1",
             "gender": 1,
-            "hp": 2452365.75,
-            "last_seen": "Nov 22, 2025, 02:33:36 AM",
+            "hp": 6137928.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 107899.453125,
+                "y": -180204.671875,
+                "z": -5174.1328125
+            },
+            "last_seen": "Feb 18, 2026, 9:35:16 PM",
             "level": 100,
             "name": "Soylentcookie",
             "name_history": [
@@ -11487,6 +11496,6 @@
         }
     },
     "accounts_total": 829,
-    "last_updated": "Feb 18, 2026, 9:34:16 PM",
+    "last_updated": "Feb 18, 2026, 9:35:16 PM",
     "server_region": "north-america"
 }
