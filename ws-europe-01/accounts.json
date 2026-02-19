@@ -10891,6 +10891,31 @@
             "role_id": 38174111708488828,
             "server_region": "ws-europe-01"
         },
+        "38174111708488990": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "2_10_1_11",
+            "gender": 0,
+            "hp": 834661.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52356.0,
+                "y": 88728.0,
+                "z": -12816.0
+            },
+            "last_seen": "Feb 19, 2026, 9:21:32 PM",
+            "level": 73,
+            "name": "katars",
+            "name_history": [
+                "katars"
+            ],
+            "registered": "Nov 26, 2025, 1:57:20 AM",
+            "role_id": 38174111708488990,
+            "server_region": "ws-europe-01"
+        },
         "38174111708489004": {
             "crew_id": 481045225255,
             "crew_name": "Elysium",
@@ -14335,6 +14360,31 @@
             ],
             "registered": "Dec 7, 2025, 5:37:11 AM",
             "role_id": 38174111708506476,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708506903": {
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 748271.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72230.5390625,
+                "y": 49191.66796875,
+                "z": -12310.1796875
+            },
+            "last_seen": "Feb 19, 2026, 9:21:32 PM",
+            "level": 74,
+            "name": "OrigamiTobiichi",
+            "name_history": [
+                "OrigamiTobiichi"
+            ],
+            "registered": "Dec 7, 2025, 4:10:26 PM",
+            "role_id": 38174111708506903,
             "server_region": "ws-europe-01"
         },
         "38174111708507056": {
@@ -19857,6 +19907,29 @@
             "role_id": 38174111708526021,
             "server_region": "ws-europe-01"
         },
+        "38174111708526022": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39492.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52413.80078125,
+                "y": 72017.140625,
+                "z": -8004.2197265625
+            },
+            "last_seen": "Feb 19, 2026, 9:21:32 PM",
+            "level": 9,
+            "name": "Aviana",
+            "name_history": [
+                "Aviana"
+            ],
+            "registered": "Feb 19, 2026, 8:31:50 PM",
+            "role_id": 38174111708526022,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526024": {
             "crew_history": [],
             "crew_id": 0,
@@ -19879,9 +19952,32 @@
             "registered": "Feb 19, 2026, 9:02:28 PM",
             "role_id": 38174111708526024,
             "server_region": "ws-europe-01"
+        },
+        "38174111708526026": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97903.6953125,
+                "y": 80400.234375,
+                "z": -5274.759765625
+            },
+            "last_seen": "Feb 19, 2026, 9:21:32 PM",
+            "level": 2,
+            "name": "sam20",
+            "name_history": [
+                "sam20"
+            ],
+            "registered": "Feb 19, 2026, 9:16:41 PM",
+            "role_id": 38174111708526026,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1139,
-    "last_updated": "Feb 19, 2026, 9:19:32 PM",
+    "accounts_total": 1143,
+    "last_updated": "Feb 19, 2026, 9:21:32 PM",
     "server_region": "ws-europe-01"
 }
