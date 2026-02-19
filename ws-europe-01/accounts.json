@@ -6325,15 +6325,15 @@
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_8",
             "gender": 0,
-            "hp": 1086491.5,
+            "hp": 1125867.75,
             "last_known_position": {
                 "map": "city",
-                "x": -92.82999420166016,
-                "y": -19522.119140625,
-                "z": 96349.5390625
+                "x": -1159.699951171875,
+                "y": -23282.0,
+                "z": 96739.1953125
             },
-            "last_seen": "Feb 16, 2026, 10:06:02 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:29:32 PM",
+            "level": 76,
             "name": "LULVA",
             "name_history": [
                 "LULVA"
@@ -14497,13 +14497,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708507198": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 911994.125,
-            "last_seen": "Feb 9, 2026, 7:46:55 PM",
-            "level": 74,
+            "hp": 1021077.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1294.6099853515625,
+                "y": -28628.978515625,
+                "z": 97879.4453125
+            },
+            "last_seen": "Feb 19, 2026, 9:29:32 PM",
+            "level": 76,
             "name": "Mere",
             "name_history": [
                 "Mere"
@@ -20090,6 +20099,6 @@
         }
     },
     "accounts_total": 1146,
-    "last_updated": "Feb 19, 2026, 9:26:32 PM",
+    "last_updated": "Feb 19, 2026, 9:29:32 PM",
     "server_region": "ws-europe-01"
 }
