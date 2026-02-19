@@ -572,15 +572,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1514599.875,
+            "hp": 1579573.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1606.8299560546875,
-                "y": -27562.740234375,
+                "x": 1662.5399169921875,
+                "y": -27532.208984375,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月19日 上午12:36:38",
-            "level": 83,
+            "last_seen": "2026年2月20日 上午2:04:27",
+            "level": 84,
             "name": "暖暖团",
             "name_history": [
                 "暖暖团"
@@ -53613,13 +53613,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695958514": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "2_10_1_8_1_1",
             "gender": 1,
-            "hp": 1462065.75,
-            "last_seen": "2026年2月10日 上午1:21:47",
-            "level": 82,
+            "hp": 1572842.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -894.699951171875,
+                "y": -26576.5,
+                "z": 96747.359375
+            },
+            "last_seen": "2026年2月20日 上午2:04:27",
+            "level": 84,
             "name": "重拾旧梦",
             "name_history": [
                 "重拾旧梦"
@@ -67331,6 +67340,31 @@
             "role_id": 63582696007816,
             "server_region": "cosmic-fold"
         },
+        "63582696007847": {
+            "crew_history": [
+                "快乐老家"
+            ],
+            "crew_id": 304942692820,
+            "crew_name": "快乐老家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 210839.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1299.77001953125,
+                "y": -28202.599609375,
+                "z": 97877.1171875
+            },
+            "last_seen": "2026年2月20日 上午2:04:27",
+            "level": 82,
+            "name": "香辣大盘鸡",
+            "name_history": [
+                "香辣大盘鸡"
+            ],
+            "registered": "2026年2月15日 下午5:03:20",
+            "role_id": 63582696007847,
+            "server_region": "cosmic-fold"
+        },
         "63582696007856": {
             "crew_history": [
                 "雷姆利亚"
@@ -68009,7 +68043,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4931,
-    "last_updated": "2026年2月20日 上午2:03:27",
+    "accounts_total": 4932,
+    "last_updated": "2026年2月20日 上午2:04:27",
     "server_region": "cosmic-fold"
 }
