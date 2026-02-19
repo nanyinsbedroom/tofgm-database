@@ -8474,11 +8474,26 @@
             "server_region": "future-humanity"
         },
         "62285615766801": {
+            "crew_history": [
+                "雾巷猫"
+            ],
             "crew_id": 7322919253781,
             "crew_name": "雾巷猫",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 11:19:11",
+            "hp": 2490039.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96368.53125
+            },
+            "last_seen": "2026年2月19日 下午8:56:43",
+            "level": 100,
             "name": "莱可西丝的36D",
+            "name_history": [
+                "莱可西丝的36D"
+            ],
             "registered": "2021年12月17日 下午9:27:28",
             "role_id": 62285615766801,
             "server_region": "future-humanity"
@@ -8637,6 +8652,31 @@
             ],
             "registered": "2021年12月16日 上午8:52:11",
             "role_id": 62332860377366,
+            "server_region": "future-humanity"
+        },
+        "62332860383567": {
+            "crew_history": [
+                "绘梨猫"
+            ],
+            "crew_id": 8349416437525,
+            "crew_name": "绘梨猫",
+            "equipping_title": "2_2_0_21",
+            "gender": 1,
+            "hp": 2216970.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 87.38999938964844,
+                "y": -20835.458984375,
+                "z": 96737.859375
+            },
+            "last_seen": "2026年2月19日 下午8:56:43",
+            "level": 100,
+            "name": "梨花玉玉",
+            "name_history": [
+                "梨花玉玉"
+            ],
+            "registered": "2021年12月16日 上午11:21:59",
+            "role_id": 62332860383567,
             "server_region": "future-humanity"
         },
         "62710817873067": {
@@ -9086,7 +9126,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 517,
-    "last_updated": "2026年2月19日 下午8:55:43",
+    "accounts_total": 518,
+    "last_updated": "2026年2月19日 下午8:56:43",
     "server_region": "future-humanity"
 }
