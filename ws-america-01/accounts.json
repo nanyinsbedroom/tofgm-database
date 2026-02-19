@@ -727,15 +727,15 @@
             "crew_name": "Solstice",
             "equipping_title": "Nіkkі's Enlightener,1",
             "gender": 1,
-            "hp": 1056065.125,
+            "hp": 2599262.75,
             "last_known_position": {
-                "map": "city",
-                "x": 2597.139892578125,
-                "y": -26936.978515625,
-                "z": 98643.078125
+                "map": "Kailo_P_003",
+                "x": 96486.734375,
+                "y": -179007.28125,
+                "z": -7743.67578125
             },
-            "last_seen": "Feb 17, 2026, 3:37:16 AM",
-            "level": 75,
+            "last_seen": "Feb 18, 2026, 10:07:27 PM",
+            "level": 76,
             "name": "ryeo",
             "name_history": [
                 "ryeo"
@@ -11472,13 +11472,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413519947": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 38759.24609375,
-            "last_seen": "Nov 25, 2025, 09:11:51 PM",
-            "level": 22,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99496.15625,
+                "y": -188272.6875,
+                "z": -7645.302734375
+            },
+            "last_seen": "Feb 18, 2026, 10:07:27 PM",
+            "level": 76,
             "name": "Exceed",
             "name_history": [
                 "Exceed"
@@ -26984,6 +26993,6 @@
         }
     },
     "accounts_total": 1562,
-    "last_updated": "Feb 18, 2026, 10:06:27 PM",
+    "last_updated": "Feb 18, 2026, 10:07:27 PM",
     "server_region": "ws-america-01"
 }
