@@ -554,11 +554,11 @@
             "hp": 972454.5625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72880.0078125,
-                "y": 49809.78515625,
-                "z": -12315.91015625
+                "x": -73044.5703125,
+                "y": 49144.7578125,
+                "z": -12306.169921875
             },
-            "last_seen": "Feb 18, 2026, 11:02:02 PM",
+            "last_seen": "Feb 18, 2026, 11:08:53 PM",
             "level": 75,
             "name": "saltgittarius",
             "name_history": [
@@ -26658,14 +26658,14 @@
             "crew_name": "Dreamlight",
             "equipping_title": "DaiiDreamm's Mentor,0",
             "gender": 0,
-            "hp": 225092.015625,
+            "hp": 231773.609375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72906.8671875,
-                "y": 49660.48046875,
-                "z": -12307.390625
+                "x": -73121.2578125,
+                "y": 49119.23828125,
+                "z": -12298.859375
             },
-            "last_seen": "Feb 18, 2026, 11:02:02 PM",
+            "last_seen": "Feb 18, 2026, 11:08:53 PM",
             "level": 75,
             "name": "KWiLLLLTTV",
             "name_history": [
@@ -27089,6 +27089,29 @@
             ],
             "registered": "Feb 13, 2026, 5:00:25 PM",
             "role_id": 38174107413582438,
+            "server_region": "ws-america-01"
+        },
+        "38174107413582449": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70514.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73182.078125,
+                "y": 49081.609375,
+                "z": -12311.1396484375
+            },
+            "last_seen": "Feb 18, 2026, 11:08:53 PM",
+            "level": 52,
+            "name": "Lcuy_Godobye",
+            "name_history": [
+                "Lcuy_Godobye"
+            ],
+            "registered": "Feb 13, 2026, 5:26:02 PM",
+            "role_id": 38174107413582449,
             "server_region": "ws-america-01"
         },
         "38174107413582452": {
@@ -27838,16 +27861,16 @@
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 8928.0,
+            "gender": 0,
+            "hp": 28298.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -93023.15625,
-                "y": 82981.0,
-                "z": -7043.08984375
+                "x": -57086.1796875,
+                "y": 83094.6015625,
+                "z": -11491.4599609375
             },
-            "last_seen": "Feb 18, 2026, 10:37:01 PM",
-            "level": 2,
+            "last_seen": "Feb 18, 2026, 11:08:53 PM",
+            "level": 6,
             "name": "ValkyrieOmega",
             "name_history": [
                 "ValkyrieOmega"
@@ -27862,15 +27885,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
+            "hp": 12384.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -99621.796875,
-                "y": 80533.2109375,
-                "z": -4997.77001953125
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11487.099609375
             },
-            "last_seen": "Feb 18, 2026, 10:35:01 PM",
-            "level": 1,
+            "last_seen": "Feb 18, 2026, 11:08:53 PM",
+            "level": 6,
             "name": "speedexe",
             "name_history": [
                 "speedexe"
@@ -27949,7 +27972,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1597,
-    "last_updated": "Feb 18, 2026, 11:07:53 PM",
+    "accounts_total": 1598,
+    "last_updated": "Feb 18, 2026, 11:08:53 PM",
     "server_region": "ws-america-01"
 }
