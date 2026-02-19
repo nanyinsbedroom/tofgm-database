@@ -13670,13 +13670,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413523237": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
             "crew_id": 622779146022,
             "crew_name": "BR Battle Storm",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 796841.75,
-            "last_seen": "Jan 25, 2026, 11:11:20 PM",
-            "level": 71,
+            "hp": 740387.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1742.429931640625,
+                "y": -26676.279296875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 18, 2026, 11:12:53 PM",
+            "level": 74,
             "name": "Slime KasIana",
             "name_history": [
                 "Slime KasIana"
@@ -16921,13 +16930,20 @@
             "server_region": "ws-america-01"
         },
         "38174107413534316": {
-            "crew_id": 1434527964966,
-            "crew_name": "Nighthawks",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_10_1_12",
             "gender": 0,
-            "hp": 249662.0,
-            "last_seen": "Jan 30, 2026, 10:37:30 PM",
-            "level": 67,
+            "hp": 394395.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -2123.099853515625,
+                "y": -25797.5,
+                "z": 96741.875
+            },
+            "last_seen": "Feb 18, 2026, 11:12:53 PM",
+            "level": 70,
             "name": "obsidian ",
             "name_history": [
                 "obsidian "
@@ -28043,6 +28059,6 @@
         }
     },
     "accounts_total": 1600,
-    "last_updated": "Feb 18, 2026, 11:11:53 PM",
+    "last_updated": "Feb 18, 2026, 11:12:53 PM",
     "server_region": "ws-america-01"
 }
