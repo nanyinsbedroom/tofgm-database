@@ -20056,6 +20056,29 @@
             "role_id": 38174111708525836,
             "server_region": "ws-europe-01"
         },
+        "38174111708525840": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 116695.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -95675.4609375,
+                "y": 81753.46875,
+                "z": -7623.48974609375
+            },
+            "last_seen": "Feb 19, 2026, 9:54:33 PM",
+            "level": 38,
+            "name": "Sephina",
+            "name_history": [
+                "Sephina"
+            ],
+            "registered": "Feb 17, 2026, 7:59:47 PM",
+            "role_id": 38174111708525840,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525935": {
             "crew_history": [],
             "crew_id": 0,
@@ -20102,6 +20125,29 @@
             "role_id": 38174111708525937,
             "server_region": "ws-europe-01"
         },
+        "38174111708525940": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 56770.85546875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -83221.0234375,
+                "y": 72756.9609375,
+                "z": -8669.1279296875
+            },
+            "last_seen": "Feb 19, 2026, 9:54:33 PM",
+            "level": 20,
+            "name": "Zokoh",
+            "name_history": [
+                "Zokoh"
+            ],
+            "registered": "Feb 18, 2026, 11:26:35 PM",
+            "role_id": 38174111708525940,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525955": {
             "crew_history": [],
             "crew_id": 0,
@@ -20123,6 +20169,31 @@
             ],
             "registered": "Feb 19, 2026, 1:50:29 AM",
             "role_id": 38174111708525955,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708525960": {
+            "crew_history": [
+                "UTOPIA.UnioN"
+            ],
+            "crew_id": 1846844825383,
+            "crew_name": "UTOPIA.UnioN",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 62336.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -85765.8203125,
+                "y": 73473.2109375,
+                "z": -8229.5498046875
+            },
+            "last_seen": "Feb 19, 2026, 9:54:33 PM",
+            "level": 22,
+            "name": "Eduardo22",
+            "name_history": [
+                "Eduardo22"
+            ],
+            "registered": "Feb 19, 2026, 2:55:09 AM",
+            "role_id": 38174111708525960,
             "server_region": "ws-europe-01"
         },
         "38174111708525980": {
@@ -20335,7 +20406,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1153,
-    "last_updated": "Feb 19, 2026, 9:48:33 PM",
+    "accounts_total": 1156,
+    "last_updated": "Feb 19, 2026, 9:54:33 PM",
     "server_region": "ws-europe-01"
 }
