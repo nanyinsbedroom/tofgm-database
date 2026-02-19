@@ -10634,15 +10634,15 @@
             "crew_name": "Dynasty",
             "equipping_title": "2_8_0_2",
             "gender": 0,
-            "hp": 1010853.75,
+            "hp": 1059598.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1113.5399169921875,
-                "y": -28311.240234375,
-                "z": 97886.1171875
+                "map": "QRSL_P",
+                "x": -40804.921875,
+                "y": 90780.6484375,
+                "z": -12600.21484375
             },
-            "last_seen": "Feb 16, 2026, 9:27:16 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:19:32 PM",
+            "level": 76,
             "name": "Makintorch",
             "name_history": [
                 "Makintorch"
@@ -16222,13 +16222,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708520268": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_025_world;24",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 930101.5,
-            "last_seen": "Feb 5, 2026, 8:07:11 PM",
-            "level": 74,
+            "hp": 1063563.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -42856.87890625,
+                "y": 89235.078125,
+                "z": -13879.9931640625
+            },
+            "last_seen": "Feb 19, 2026, 9:19:32 PM",
+            "level": 76,
             "name": "Imsa",
             "name_history": [
                 "Imsa"
@@ -19873,6 +19882,6 @@
         }
     },
     "accounts_total": 1139,
-    "last_updated": "Feb 19, 2026, 9:18:32 PM",
+    "last_updated": "Feb 19, 2026, 9:19:32 PM",
     "server_region": "ws-europe-01"
 }
