@@ -3959,13 +3959,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481364": {
+            "crew_history": [
+                "Arcana"
+            ],
             "crew_id": 115973005095,
             "crew_name": "Arcana",
             "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 2600000.0,
-            "last_seen": "Feb 10, 2026, 7:25:46 PM",
-            "level": 75,
+            "hp": 886772.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -2339.639892578125,
+                "y": -24975.939453125,
+                "z": 97843.4765625
+            },
+            "last_seen": "Feb 19, 2026, 9:30:32 PM",
+            "level": 76,
             "name": "Shananet",
             "name_history": [
                 "Shananet"
@@ -20099,6 +20108,6 @@
         }
     },
     "accounts_total": 1146,
-    "last_updated": "Feb 19, 2026, 9:29:32 PM",
+    "last_updated": "Feb 19, 2026, 9:30:32 PM",
     "server_region": "ws-europe-01"
 }
