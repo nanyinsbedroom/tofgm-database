@@ -8451,12 +8451,21 @@
             "server_region": "southeast-asia"
         },
         "68758131559673": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 2312065.25,
-            "last_seen": "Feb 02, 2026, 01:30:20 AM",
+            "hp": 2322874.5,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": -39373.0,
+                "y": 262424.0,
+                "z": -9500.0
+            },
+            "last_seen": "Feb 19, 2026, 5:26:59 PM",
             "level": 100,
             "name": "soevielofficial",
             "name_history": [
@@ -29211,6 +29220,6 @@
         }
     },
     "accounts_total": 2055,
-    "last_updated": "Feb 19, 2026, 5:18:59 PM",
+    "last_updated": "Feb 19, 2026, 5:26:59 PM",
     "server_region": "southeast-asia"
 }
