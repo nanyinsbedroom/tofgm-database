@@ -4768,17 +4768,17 @@
             ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "WorldBossDamage_1;boss_hum_044_world;1",
+            "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 1075609.0,
+            "hp": 1129260.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1239.2999267578125,
-                "y": -28249.69921875,
+                "x": 958.699951171875,
+                "y": -28267.19921875,
                 "z": 97866.1171875
             },
-            "last_seen": "Feb 14, 2026, 11:08:29 AM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:14:31 PM",
+            "level": 76,
             "name": "كتكات",
             "name_history": [
                 "كتكات"
@@ -19596,6 +19596,29 @@
             "role_id": 38174111708525757,
             "server_region": "ws-europe-01"
         },
+        "38174111708525935": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 55628.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89064.640625,
+                "y": 85154.4765625,
+                "z": -6909.39990234375
+            },
+            "last_seen": "Feb 19, 2026, 9:14:31 PM",
+            "level": 11,
+            "name": "Expectro",
+            "name_history": [
+                "Expectro"
+            ],
+            "registered": "Feb 18, 2026, 10:03:22 PM",
+            "role_id": 38174111708525935,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525955": {
             "crew_history": [],
             "crew_id": 0,
@@ -19618,9 +19641,32 @@
             "registered": "Feb 19, 2026, 1:50:29 AM",
             "role_id": 38174111708525955,
             "server_region": "ws-europe-01"
+        },
+        "38174111708526008": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 9792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91384.359375,
+                "y": 86409.765625,
+                "z": -6648.0498046875
+            },
+            "last_seen": "Feb 19, 2026, 9:14:31 PM",
+            "level": 3,
+            "name": "Yukyo",
+            "name_history": [
+                "Yukyo"
+            ],
+            "registered": "Feb 19, 2026, 6:24:55 PM",
+            "role_id": 38174111708526008,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1129,
-    "last_updated": "Feb 19, 2026, 9:13:31 PM",
+    "accounts_total": 1131,
+    "last_updated": "Feb 19, 2026, 9:14:31 PM",
     "server_region": "ws-europe-01"
 }
