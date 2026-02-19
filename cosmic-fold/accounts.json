@@ -31600,15 +31600,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1136421.5,
+            "hp": 1202349.625,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -37182.55078125,
-                "y": 9623.580078125,
-                "z": -14011.76953125
+                "map": "city",
+                "x": 2363.800048828125,
+                "y": -26728.298828125,
+                "z": 97881.140625
             },
-            "last_seen": "2026年2月19日 上午12:44:39",
-            "level": 81,
+            "last_seen": "2026年2月20日 上午2:18:28",
+            "level": 83,
             "name": "妹妹",
             "name_history": [
                 "妹妹"
@@ -65055,6 +65055,31 @@
             "role_id": 63582696002873,
             "server_region": "cosmic-fold"
         },
+        "63582696002890": {
+            "crew_history": [
+                "塔塔"
+            ],
+            "crew_id": 3350074505684,
+            "crew_name": "塔塔",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 158069.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月20日 上午2:18:28",
+            "level": 63,
+            "name": "塔宝",
+            "name_history": [
+                "塔宝"
+            ],
+            "registered": "2026年2月5日 上午12:04:06",
+            "role_id": 63582696002890,
+            "server_region": "cosmic-fold"
+        },
         "63582696002909": {
             "crew_id": 0,
             "crew_name": "",
@@ -68063,7 +68088,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4932,
-    "last_updated": "2026年2月20日 上午2:13:28",
+    "accounts_total": 4933,
+    "last_updated": "2026年2月20日 上午2:18:28",
     "server_region": "cosmic-fold"
 }
