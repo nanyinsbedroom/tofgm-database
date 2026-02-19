@@ -19705,15 +19705,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 52210.0,
+            "hp": 10320.9912109375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -56220.23828125,
-                "y": 63972.48828125,
-                "z": -3048.079833984375
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96373.0390625
             },
-            "last_seen": "Feb 16, 2026, 10:00:02 PM",
-            "level": 17,
+            "last_seen": "Feb 19, 2026, 9:34:32 PM",
+            "level": 35,
             "name": "Zacatecas ",
             "name_history": [
                 "Zacatecas "
@@ -19906,6 +19906,29 @@
             ],
             "registered": "Feb 18, 2026, 10:03:22 PM",
             "role_id": 38174111708525935,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708525937": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Crown's Apprentice,0",
+            "gender": 1,
+            "hp": 122520.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1923.449951171875,
+                "y": -24301.978515625,
+                "z": 97865.6015625
+            },
+            "last_seen": "Feb 19, 2026, 9:34:32 PM",
+            "level": 41,
+            "name": "Katzu",
+            "name_history": [
+                "Katzu"
+            ],
+            "registered": "Feb 18, 2026, 10:11:58 PM",
+            "role_id": 38174111708525937,
             "server_region": "ws-europe-01"
         },
         "38174111708525955": {
@@ -20116,7 +20139,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1146,
-    "last_updated": "Feb 19, 2026, 9:32:32 PM",
+    "accounts_total": 1147,
+    "last_updated": "Feb 19, 2026, 9:34:32 PM",
     "server_region": "ws-europe-01"
 }
