@@ -4578,13 +4578,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481747": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
             "crew_id": 365081108263,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 963229.0,
-            "last_seen": "Feb 7, 2026, 8:19:03 PM",
-            "level": 74,
+            "hp": 1045606.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64222.25,
+                "y": 106126.25,
+                "z": -7201.5498046875
+            },
+            "last_seen": "Feb 19, 2026, 9:17:32 PM",
+            "level": 76,
             "name": "Crown",
             "name_history": [
                 "Crown"
@@ -9374,15 +9383,15 @@
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 354931.8125,
+            "hp": 356602.21875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -63901.69921875,
-                "y": 107157.3203125,
-                "z": -11704.7900390625
+                "x": -55062.69921875,
+                "y": 105019.6171875,
+                "z": -11833.0400390625
             },
-            "last_seen": "Feb 15, 2026, 10:03:17 PM",
-            "level": 73,
+            "last_seen": "Feb 19, 2026, 9:17:32 PM",
+            "level": 74,
             "name": "Shandril",
             "name_history": [
                 "Shandril"
@@ -16690,13 +16699,20 @@
             "server_region": "ws-europe-01"
         },
         "38174111708522268": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 422383.40625,
-            "last_seen": "Feb 10, 2026, 7:06:24 PM",
-            "level": 71,
+            "hp": 573699.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57845.140625,
+                "y": 100603.0546875,
+                "z": -10885.3798828125
+            },
+            "last_seen": "Feb 19, 2026, 9:17:32 PM",
+            "level": 72,
             "name": "Yunora",
             "name_history": [
                 "Yunora"
@@ -19832,6 +19848,6 @@
         }
     },
     "accounts_total": 1138,
-    "last_updated": "Feb 19, 2026, 9:16:31 PM",
+    "last_updated": "Feb 19, 2026, 9:17:32 PM",
     "server_region": "ws-europe-01"
 }
