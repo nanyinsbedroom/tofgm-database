@@ -3079,12 +3079,12 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96905.4609375,
-                "y": -209479.34375,
-                "z": 311.32342529296875
+                "x": 111683.4453125,
+                "y": -185521.0,
+                "z": -4941.12255859375
             },
-            "last_seen": "Feb 16, 2026, 9:26:15 PM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:40:33 PM",
+            "level": 76,
             "name": "Bronya",
             "name_history": [
                 "Bronya"
@@ -10835,6 +10835,31 @@
             "role_id": 38174111708488378,
             "server_region": "ws-europe-01"
         },
+        "38174111708488388": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 3048631.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 115913.75,
+                "y": -173506.328125,
+                "z": -5228.533203125
+            },
+            "last_seen": "Feb 19, 2026, 9:40:33 PM",
+            "level": 73,
+            "name": "king.",
+            "name_history": [
+                "king."
+            ],
+            "registered": "Nov 25, 2025, 11:31:39 PM",
+            "role_id": 38174111708488388,
+            "server_region": "ws-europe-01"
+        },
         "38174111708488431": {
             "crew_id": 231937122087,
             "crew_name": "Night Raid",
@@ -16637,15 +16662,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 1054519.125,
+            "hp": 2349786.0,
             "last_known_position": {
-                "map": "city",
-                "x": -464.2699890136719,
-                "y": -28117.01953125,
-                "z": 97917.65625
+                "map": "Kailo_P_003",
+                "x": 94151.0390625,
+                "y": -170608.890625,
+                "z": -4396.580078125
             },
-            "last_seen": "Feb 17, 2026, 8:29:49 AM",
-            "level": 75,
+            "last_seen": "Feb 19, 2026, 9:40:33 PM",
+            "level": 76,
             "name": "Anishy",
             "name_history": [
                 "Anishy"
@@ -20251,7 +20276,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1150,
-    "last_updated": "Feb 19, 2026, 9:39:33 PM",
+    "accounts_total": 1151,
+    "last_updated": "Feb 19, 2026, 9:40:33 PM",
     "server_region": "ws-europe-01"
 }
