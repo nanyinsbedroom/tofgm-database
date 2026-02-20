@@ -58116,13 +58116,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695966017": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_075_World;6",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 527155.375,
-            "last_seen": "2025年12月11日 上午 9:21:19",
-            "level": 71,
+            "hp": 1349300.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.6500244140625,
+                "y": -28671.19921875,
+                "z": 97872.3671875
+            },
+            "last_seen": "2026年2月21日 上午2:24:21",
+            "level": 84,
             "name": "词归",
             "name_history": [
                 "词归"
@@ -71031,6 +71040,6 @@
         }
     },
     "accounts_total": 5025,
-    "last_updated": "2026年2月21日 上午2:23:21",
+    "last_updated": "2026年2月21日 上午2:24:21",
     "server_region": "cosmic-fold"
 }
