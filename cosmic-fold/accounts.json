@@ -26833,11 +26833,11 @@
             "hp": 1547194.25,
             "last_known_position": {
                 "map": "city",
-                "x": 230.85333251953125,
-                "y": -24274.71875,
-                "z": 96749.3359375
+                "x": -270.0299987792969,
+                "y": -27210.169921875,
+                "z": 96753.1015625
             },
-            "last_seen": "2026年2月20日 上午2:07:27",
+            "last_seen": "2026年2月21日 上午12:01:14",
             "level": 84,
             "name": "风雨一人",
             "name_history": [
@@ -55394,19 +55394,53 @@
             "server_region": "cosmic-fold"
         },
         "63582695962769": {
-            "crew_id": 3148211042772,
-            "crew_name": "可爱",
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 92141.0,
-            "last_seen": "2026年01月21日 上午 7:30:05",
-            "level": 70,
+            "hp": 794361.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97885.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:01:14",
+            "level": 77,
             "name": "Ruler.",
             "name_history": [
                 "Ruler."
             ],
             "registered": "2025年11月20日 上午5:15:27",
             "role_id": 63582695962769,
+            "server_region": "cosmic-fold"
+        },
+        "63582695962776": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 733994.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97887.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:01:14",
+            "level": 77,
+            "name": "Tarzan",
+            "name_history": [
+                "Tarzan"
+            ],
+            "registered": "2025年11月20日 上午8:01:48",
+            "role_id": 63582695962776,
             "server_region": "cosmic-fold"
         },
         "63582695962878": {
@@ -69231,6 +69265,29 @@
             "role_id": 63582696008317,
             "server_region": "cosmic-fold"
         },
+        "63582696008332": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39499.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -150.8300018310547,
+                "y": -22338.41015625,
+                "z": 96748.375
+            },
+            "last_seen": "2026年2月21日 上午12:01:14",
+            "level": 11,
+            "name": "美人老婆",
+            "name_history": [
+                "美人老婆"
+            ],
+            "registered": "2026年2月19日 下午3:13:51",
+            "role_id": 63582696008332,
+            "server_region": "cosmic-fold"
+        },
         "63582696008354": {
             "crew_history": [],
             "crew_id": 0,
@@ -69441,7 +69498,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4973,
-    "last_updated": "2026年2月21日 上午12:00:14",
+    "accounts_total": 4975,
+    "last_updated": "2026年2月21日 上午12:01:14",
     "server_region": "cosmic-fold"
 }
