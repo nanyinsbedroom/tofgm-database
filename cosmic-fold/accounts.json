@@ -12869,13 +12869,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695857503": {
+            "crew_history": [
+                "星辰"
+            ],
             "crew_id": 8589949396,
             "crew_name": "星辰",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1278992.75,
-            "last_seen": "2026年01月26日 上午 4:37:52",
-            "level": 80,
+            "hp": 1465385.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36021.390625,
+                "y": 1877.1400146484375,
+                "z": -13799.0400390625
+            },
+            "last_seen": "2026年2月20日 下午11:32:12",
+            "level": 83,
             "name": "『韩跑跑』",
             "name_history": [
                 "『韩跑跑』"
@@ -68677,6 +68686,6 @@
         }
     },
     "accounts_total": 4949,
-    "last_updated": "2026年2月20日 下午11:29:12",
+    "last_updated": "2026年2月20日 下午11:32:12",
     "server_region": "cosmic-fold"
 }
