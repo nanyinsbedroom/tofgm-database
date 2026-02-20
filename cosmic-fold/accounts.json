@@ -19219,13 +19219,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695861545": {
+            "crew_history": [
+                "梦想夏乡"
+            ],
             "crew_id": 614180338132,
             "crew_name": "梦想夏乡",
-            "equipping_title": "2_8_0_2",
+            "equipping_title": "1_1_27_1",
             "gender": 1,
-            "hp": 654305.125,
-            "last_seen": "2026年2月10日 上午2:15:53",
-            "level": 78,
+            "hp": 657726.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月21日 上午12:20:15",
+            "level": 79,
             "name": "云深不知处",
             "name_history": [
                 "云深不知处"
@@ -24697,6 +24706,29 @@
             "name": "睦头人",
             "registered": "2025年9月26日 上午2:15:01",
             "role_id": 63582695866195,
+            "server_region": "cosmic-fold"
+        },
+        "63582695866210": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42726.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -485.47998046875,
+                "y": -23280.599609375,
+                "z": 96716.6953125
+            },
+            "last_seen": "2026年2月21日 上午12:20:15",
+            "level": 11,
+            "name": "超级大大怪",
+            "name_history": [
+                "超级大大怪"
+            ],
+            "registered": "2025年9月26日 上午2:18:34",
+            "role_id": 63582695866210,
             "server_region": "cosmic-fold"
         },
         "63582695866230": {
@@ -69667,7 +69699,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4980,
-    "last_updated": "2026年2月21日 上午12:19:15",
+    "accounts_total": 4981,
+    "last_updated": "2026年2月21日 上午12:20:15",
     "server_region": "cosmic-fold"
 }
