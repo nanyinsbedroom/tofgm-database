@@ -8119,13 +8119,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708484422": {
+            "crew_history": [
+                "Moonshine"
+            ],
             "crew_id": 1370103455527,
             "crew_name": "Moonshine",
             "equipping_title": "None",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:30:37 PM",
-            "level": 73,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106410.59375,
+                "y": -201294.375,
+                "z": -591.1799926757813
+            },
+            "last_seen": "Feb 20, 2026, 9:26:49 PM",
+            "level": 74,
             "name": "Tilea",
             "name_history": [
                 "Tilea"
@@ -20870,6 +20879,6 @@
         }
     },
     "accounts_total": 1173,
-    "last_updated": "Feb 20, 2026, 9:25:49 PM",
+    "last_updated": "Feb 20, 2026, 9:26:49 PM",
     "server_region": "ws-europe-01"
 }
