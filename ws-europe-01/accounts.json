@@ -12336,6 +12336,31 @@
             "role_id": 38174111708492304,
             "server_region": "ws-europe-01"
         },
+        "38174111708492464": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
+            "crew_id": 188987449127,
+            "crew_name": "EuzeroFR",
+            "equipping_title": "FishingSlave's Mentor,0",
+            "gender": 0,
+            "hp": 1007570.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1216.5799560546875,
+                "y": -23699.048828125,
+                "z": 98625.65625
+            },
+            "last_seen": "Feb 20, 2026, 9:20:49 PM",
+            "level": 76,
+            "name": "Peouin",
+            "name_history": [
+                "Peouin"
+            ],
+            "registered": "Nov 26, 2025, 11:20:44 PM",
+            "role_id": 38174111708492464,
+            "server_region": "ws-europe-01"
+        },
         "38174111708492497": {
             "crew_id": 0,
             "crew_name": "",
@@ -14271,13 +14296,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708503514": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 1063721.375,
-            "last_seen": "Feb 10, 2026, 7:20:51 PM",
-            "level": 75,
+            "hp": 1114941.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1274.780029296875,
+                "y": -27937.6484375,
+                "z": 97861.1171875
+            },
+            "last_seen": "Feb 20, 2026, 9:20:49 PM",
+            "level": 76,
             "name": "Lyra_x3",
             "name_history": [
                 "Lyra_x3"
@@ -15307,15 +15341,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 38011.0,
+            "hp": 110700.0,
             "last_known_position": {
                 "map": "city",
-                "x": -50.439998626708984,
-                "y": -21254.26953125,
-                "z": 96750.859375
+                "x": -10.34000015258789,
+                "y": -17217.419921875,
+                "z": 96356.78125
             },
-            "last_seen": "Feb 19, 2026, 9:13:31 PM",
-            "level": 30,
+            "last_seen": "Feb 20, 2026, 9:20:49 PM",
+            "level": 43,
             "name": "Zetox",
             "name_history": [
                 "Zetox"
@@ -20792,7 +20826,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1171,
-    "last_updated": "Feb 20, 2026, 9:19:49 PM",
+    "accounts_total": 1172,
+    "last_updated": "Feb 20, 2026, 9:20:49 PM",
     "server_region": "ws-europe-01"
 }
