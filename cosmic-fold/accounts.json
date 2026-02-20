@@ -50850,13 +50850,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695936307": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 124597.3984375,
-            "last_seen": "2026年02月04日 上午 6:19:09",
-            "level": 72,
+            "hp": 241164.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97878.875
+            },
+            "last_seen": "2026年2月21日 上午2:15:20",
+            "level": 82,
             "name": "安卓幻塔",
             "name_history": [
                 "安卓幻塔"
@@ -50866,13 +50875,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695936308": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 119434.3984375,
-            "last_seen": "2026年02月04日 上午 6:19:09",
-            "level": 72,
+            "hp": 187349.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97880.875
+            },
+            "last_seen": "2026年2月21日 上午2:15:20",
+            "level": 82,
             "name": "导管",
             "name_history": [
                 "导管"
@@ -50882,13 +50900,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695936313": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 113088.3984375,
-            "last_seen": "2026年02月04日 上午 6:19:09",
-            "level": 71,
+            "hp": 191113.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97878.875
+            },
+            "last_seen": "2026年2月21日 上午2:15:20",
+            "level": 82,
             "name": "俺の功夫よ",
             "name_history": [
                 "俺の功夫よ"
@@ -56611,6 +56638,31 @@
             ],
             "registered": "2025年11月22日 上午11:47:21",
             "role_id": 63582695963983,
+            "server_region": "cosmic-fold"
+        },
+        "63582695963990": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 254909.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": -838.1845703125,
+                "y": -20456.76953125,
+                "z": 96163.7421875
+            },
+            "last_seen": "2026年2月21日 上午2:15:20",
+            "level": 70,
+            "name": "盐酒生",
+            "name_history": [
+                "盐酒生"
+            ],
+            "registered": "2025年11月22日 上午11:50:38",
+            "role_id": 63582695963990,
             "server_region": "cosmic-fold"
         },
         "63582695964000": {
@@ -70835,7 +70887,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5019,
-    "last_updated": "2026年2月21日 上午2:13:20",
+    "accounts_total": 5020,
+    "last_updated": "2026年2月21日 上午2:15:20",
     "server_region": "cosmic-fold"
 }
