@@ -51700,20 +51700,79 @@
             "role_id": 63582695940018,
             "server_region": "cosmic-fold"
         },
-        "63582695940271": {
+        "63582695940270": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 773441.1875,
-            "last_seen": "2026年2月6日 下午11:46:46",
-            "level": 78,
+            "hp": 782175.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97873.875
+            },
+            "last_seen": "2026年2月21日 上午2:18:21",
+            "level": 82,
+            "name": "官人吃",
+            "name_history": [
+                "官人吃"
+            ],
+            "registered": "2025年10月23日 下午9:01:26",
+            "role_id": 63582695940270,
+            "server_region": "cosmic-fold"
+        },
+        "63582695940271": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 793187.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97868.875
+            },
+            "last_seen": "2026年2月21日 上午2:18:21",
+            "level": 82,
             "name": "达瓦里希",
             "name_history": [
                 "达瓦里希"
             ],
             "registered": "2025年10月23日 下午9:01:52",
             "role_id": 63582695940271,
+            "server_region": "cosmic-fold"
+        },
+        "63582695940280": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 811579.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97880.875
+            },
+            "last_seen": "2026年2月21日 上午2:18:21",
+            "level": 82,
+            "name": "表锅我粗来了喔",
+            "name_history": [
+                "表锅我粗来了喔"
+            ],
+            "registered": "2025年10月23日 下午9:06:13",
+            "role_id": 63582695940280,
             "server_region": "cosmic-fold"
         },
         "63582695940359": {
@@ -70962,7 +71021,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5023,
-    "last_updated": "2026年2月21日 上午2:16:20",
+    "accounts_total": 5025,
+    "last_updated": "2026年2月21日 上午2:18:21",
     "server_region": "cosmic-fold"
 }
