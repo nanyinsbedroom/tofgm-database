@@ -10563,11 +10563,26 @@
             "server_region": "europe"
         },
         "55963424075203": {
+            "crew_history": [
+                "Elysium"
+            ],
             "crew_id": 3401614111442,
             "crew_name": "Elysium",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": "Oct 05, 2025, 03:14:15 AM",
+            "hp": 1008463.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 32609.74609375,
+                "y": 97278.0703125,
+                "z": -15231.3515625
+            },
+            "last_seen": "Feb 20, 2026, 9:40:50 PM",
+            "level": 100,
             "name": "LittleSouls JR",
+            "name_history": [
+                "LittleSouls JR"
+            ],
             "registered": "Jun 11, 2023, 11:12:09 PM",
             "role_id": 55963424075203,
             "server_region": "europe"
@@ -11328,14 +11343,26 @@
             "server_region": "europe"
         },
         "55963424395634": {
+            "crew_history": [
+                "Sleepless Roses"
+            ],
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1661596.0,
-            "last_seen": "Oct 28, 2025, 11:43:17 PM",
+            "hp": 1721110.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -39732.0078125,
+                "y": 81930.53125,
+                "z": -14825.609375
+            },
+            "last_seen": "Feb 20, 2026, 9:40:50 PM",
             "level": 100,
-            "name": "Aurora Masamune",
+            "name": "Aurora Aurasumi",
+            "name_history": [
+                "Aurora Aurasumi"
+            ],
             "registered": "Jan 10, 2024, 6:14:50 PM",
             "role_id": 55963424395634,
             "server_region": "europe"
@@ -17404,6 +17431,31 @@
             "role_id": 55963424737245,
             "server_region": "europe"
         },
+        "55963424739909": {
+            "crew_history": [
+                "Whalesong"
+            ],
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "2_2_0_82",
+            "gender": 1,
+            "hp": 1247563.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60175.6796875,
+                "y": 106773.859375,
+                "z": -12901.6494140625
+            },
+            "last_seen": "Feb 20, 2026, 9:40:50 PM",
+            "level": 96,
+            "name": "Αzαιεα",
+            "name_history": [
+                "Αzαιεα"
+            ],
+            "registered": "Dec 10, 2025, 4:13:05 PM",
+            "role_id": 55963424739909,
+            "server_region": "europe"
+        },
         "55963424740374": {
             "crew_id": 0,
             "crew_name": "",
@@ -19271,6 +19323,31 @@
             "role_id": 55963424765479,
             "server_region": "europe"
         },
+        "55963424765492": {
+            "crew_history": [
+                "Harmony"
+            ],
+            "crew_id": 725849486034,
+            "crew_name": "Harmony",
+            "equipping_title": "--Oshino--'s Apprentice,0",
+            "gender": 1,
+            "hp": 150721.03125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60457.6875,
+                "y": 106576.46875,
+                "z": -12908.2197265625
+            },
+            "last_seen": "Feb 20, 2026, 9:40:50 PM",
+            "level": 28,
+            "name": "SH0GGOTH_HPL",
+            "name_history": [
+                "SH0GGOTH_HPL"
+            ],
+            "registered": "Feb 14, 2026, 4:55:53 PM",
+            "role_id": 55963424765492,
+            "server_region": "europe"
+        },
         "55963424765538": {
             "crew_history": [],
             "crew_id": 0,
@@ -20358,7 +20435,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1375,
-    "last_updated": "Feb 20, 2026, 9:39:50 PM",
+    "accounts_total": 1377,
+    "last_updated": "Feb 20, 2026, 9:40:50 PM",
     "server_region": "europe"
 }
