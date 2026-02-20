@@ -8884,6 +8884,31 @@
             "role_id": 62736587562423,
             "server_region": "ark-calculus"
         },
+        "62736587571094": {
+            "crew_history": [
+                "六芒星理事会"
+            ],
+            "crew_id": 146028902766,
+            "crew_name": "六芒星理事会",
+            "equipping_title": "3_2023",
+            "gender": 0,
+            "hp": 3142881.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -321518.6875,
+                "y": 196160.078125,
+                "z": -28947.126953125
+            },
+            "last_seen": "2026年2月20日 下午8:57:53",
+            "level": 100,
+            "name": "伊莎贝娅",
+            "name_history": [
+                "伊莎贝娅"
+            ],
+            "registered": "2023年1月29日 下午8:55:41",
+            "role_id": 62736587571094,
+            "server_region": "ark-calculus"
+        },
         "62736587592540": {
             "crew_id": 55834589549,
             "crew_name": "乌托邦",
@@ -10434,12 +10459,21 @@
             "server_region": "ark-calculus"
         },
         "63140314450955": {
+            "crew_history": [
+                "SOS团"
+            ],
             "crew_id": 270582954149,
             "crew_name": "SOS团",
-            "equipping_title": "2_11_1_2",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 2194951.25,
-            "last_seen": "2025年11月25日 上午 1:35:16",
+            "hp": 3024684.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326048.8125,
+                "y": 201092.03125,
+                "z": -28345.9140625
+            },
+            "last_seen": "2026年2月20日 下午8:57:53",
             "level": 100,
             "name": "霁°",
             "name_history": [
@@ -11663,7 +11697,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 645,
-    "last_updated": "2026年2月20日 下午8:53:53",
+    "accounts_total": 646,
+    "last_updated": "2026年2月20日 下午8:57:53",
     "server_region": "ark-calculus"
 }
