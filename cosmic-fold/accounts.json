@@ -39714,17 +39714,17 @@
             ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "Toveovo的学徒,0",
+            "equipping_title": "Toveovo的后继者,1",
             "gender": 1,
-            "hp": 1541873.875,
+            "hp": 1562575.5,
             "last_known_position": {
-                "map": "city",
-                "x": 672.4599609375,
-                "y": -24475.87890625,
-                "z": 97866.1171875
+                "map": "QRSL_P",
+                "x": -72876.765625,
+                "y": 49565.71875,
+                "z": -12660.2158203125
             },
-            "last_seen": "2026年2月19日 上午12:48:39",
-            "level": 83,
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 84,
             "name": "天才少女奈绪",
             "name_history": [
                 "天才少女奈绪"
@@ -61606,13 +61606,20 @@
             "server_region": "cosmic-fold"
         },
         "63582695995842": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 23793.0,
-            "last_seen": "2026年02月01日 上午 5:35:44",
-            "level": 9,
+            "hp": 135511.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -68116.609375,
+                "y": 50229.41796875,
+                "z": -12638.599609375
+            },
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 52,
             "name": "完美青年",
             "name_history": [
                 "完美青年"
@@ -66304,6 +66311,31 @@
             "role_id": 63582696004616,
             "server_region": "cosmic-fold"
         },
+        "63582696004781": {
+            "crew_history": [
+                "傲世九天"
+            ],
+            "crew_id": 3277060061652,
+            "crew_name": "傲世九天",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 142145.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57589.21484375,
+                "y": 104382.828125,
+                "z": -12940.5400390625
+            },
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 52,
+            "name": "柠檬茶好喝椰",
+            "name_history": [
+                "柠檬茶好喝椰"
+            ],
+            "registered": "2026年2月7日 下午8:19:38",
+            "role_id": 63582696004781,
+            "server_region": "cosmic-fold"
+        },
         "63582696004811": {
             "crew_id": 0,
             "crew_name": "",
@@ -67408,6 +67440,31 @@
             "role_id": 63582696007715,
             "server_region": "cosmic-fold"
         },
+        "63582696007729": {
+            "crew_history": [
+                "幻影"
+            ],
+            "crew_id": 3375844309460,
+            "crew_name": "幻影",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 56971.3046875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55953.3984375,
+                "y": 64285.5,
+                "z": -3067.199951171875
+            },
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 34,
+            "name": "水云天河",
+            "name_history": [
+                "水云天河"
+            ],
+            "registered": "2026年2月14日 下午4:11:45",
+            "role_id": 63582696007729,
+            "server_region": "cosmic-fold"
+        },
         "63582696007735": {
             "crew_history": [],
             "crew_id": 0,
@@ -68227,6 +68284,29 @@
             "role_id": 63582696008488,
             "server_region": "cosmic-fold"
         },
+        "63582696008490": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21202.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56345.76953125,
+                "y": 63747.95703125,
+                "z": -3046.739990234375
+            },
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 6,
+            "name": "牛肉在逃康师傅",
+            "name_history": [
+                "牛肉在逃康师傅"
+            ],
+            "registered": "2026年2月20日 下午10:31:29",
+            "role_id": 63582696008490,
+            "server_region": "cosmic-fold"
+        },
         "63582696008493": {
             "crew_history": [],
             "crew_id": 0,
@@ -68248,6 +68328,29 @@
             ],
             "registered": "2026年2月20日 下午10:54:23",
             "role_id": 63582696008493,
+            "server_region": "cosmic-fold"
+        },
+        "63582696008495": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25502.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11494.099609375
+            },
+            "last_seen": "2026年2月20日 下午11:21:12",
+            "level": 6,
+            "name": "幸运老爹",
+            "name_history": [
+                "幸运老爹"
+            ],
+            "registered": "2026年2月20日 下午11:00:38",
+            "role_id": 63582696008495,
             "server_region": "cosmic-fold"
         },
         "63582696008499": {
@@ -68274,7 +68377,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4939,
-    "last_updated": "2026年2月20日 下午11:20:12",
+    "accounts_total": 4943,
+    "last_updated": "2026年2月20日 下午11:21:12",
     "server_region": "cosmic-fold"
 }
