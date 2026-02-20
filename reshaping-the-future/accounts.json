@@ -10478,14 +10478,26 @@
             "server_region": "reshaping-the-future"
         },
         "63148904414687": {
+            "crew_history": [
+                "落雨"
+            ],
             "crew_id": 910533081455,
             "crew_name": "落雨",
             "equipping_title": "1_1_20_1",
             "gender": 0,
-            "hp": 2027692.0,
-            "last_seen": "2025年10月26日 下午 3:36:35",
+            "hp": 3236147.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325837.5,
+                "y": 205093.59375,
+                "z": -28322.779296875
+            },
+            "last_seen": "2026年2月20日 下午10:45:10",
             "level": 100,
             "name": "禾雨",
+            "name_history": [
+                "禾雨"
+            ],
             "registered": "2023年10月31日 上午11:18:53",
             "role_id": 63148904414687,
             "server_region": "reshaping-the-future"
@@ -11684,6 +11696,6 @@
         }
     },
     "accounts_total": 588,
-    "last_updated": "2026年2月20日 下午10:42:10",
+    "last_updated": "2026年2月20日 下午10:45:10",
     "server_region": "reshaping-the-future"
 }
