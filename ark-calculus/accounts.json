@@ -3351,12 +3351,21 @@
             "server_region": "ark-calculus"
         },
         "62298500630596": {
+            "crew_history": [
+                "月汐阁"
+            ],
             "crew_id": 60129556646,
             "crew_name": "月汐阁",
             "equipping_title": "库洛里德的后继者,1",
             "gender": 1,
-            "hp": 2575236.5,
-            "last_seen": "2025年11月25日 上午 1:10:55",
+            "hp": 3164825.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -13523.19921875,
+                "y": 51664.0390625,
+                "z": 41517.91796875
+            },
+            "last_seen": "2026年2月20日 下午7:52:40",
             "level": 100,
             "name": "木之本櫻",
             "name_history": [
@@ -10024,6 +10033,6 @@
         }
     },
     "accounts_total": 581,
-    "last_updated": "2026年2月20日 下午7:51:40",
+    "last_updated": "2026年2月20日 下午7:52:40",
     "server_region": "ark-calculus"
 }
