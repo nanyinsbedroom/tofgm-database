@@ -55124,17 +55124,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695961937": {
+            "crew_history": [
+                "0.7"
+            ],
             "crew_id": 3302829865428,
             "crew_name": "0.7",
             "equipping_title": "1_7_1_1",
             "gender": 1,
             "hp": 854135.25,
-            "last_seen": "2026年2月10日 下午11:00:13",
+            "last_known_position": {
+                "map": "city",
+                "x": 1116.9599609375,
+                "y": -28300.529296875,
+                "z": 97876.1171875
+            },
+            "last_seen": "2026年2月21日 上午1:05:17",
             "level": 76,
             "name": "索伦森",
             "name_history": [
-                "沧海月明珠有泪",
-                "索伦森"
+                "索伦森",
+                "沧海月明珠有泪"
             ],
             "registered": "2025年11月18日 下午1:00:22",
             "role_id": 63582695961937,
@@ -69871,6 +69880,29 @@
             "role_id": 63582696008397,
             "server_region": "cosmic-fold"
         },
+        "63582696008434": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 59529.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1330.1300048828125,
+                "y": -28251.8984375,
+                "z": 97878.1171875
+            },
+            "last_seen": "2026年2月21日 上午1:05:17",
+            "level": 19,
+            "name": "雾雨飞飞",
+            "name_history": [
+                "雾雨飞飞"
+            ],
+            "registered": "2026年2月20日 下午12:53:41",
+            "role_id": 63582696008434,
+            "server_region": "cosmic-fold"
+        },
         "63582696008469": {
             "crew_history": [
                 "十二楼"
@@ -70035,7 +70067,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4992,
-    "last_updated": "2026年2月21日 上午1:04:17",
+    "accounts_total": 4993,
+    "last_updated": "2026年2月21日 上午1:05:17",
     "server_region": "cosmic-fold"
 }
