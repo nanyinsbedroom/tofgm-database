@@ -12216,12 +12216,21 @@
             "server_region": "europe"
         },
         "55963424587862": {
+            "crew_history": [
+                "Ukraine"
+            ],
             "crew_id": 760209224397,
             "crew_name": "Ukraine",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2369841.25,
-            "last_seen": "Nov 20, 2025, 10:01:14 PM",
+            "hp": 6257000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 111416.9921875,
+                "y": -178527.46875,
+                "z": -5187.51220703125
+            },
+            "last_seen": "Feb 20, 2026, 9:46:59 PM",
             "level": 100,
             "name": "Kippo",
             "name_history": [
@@ -12412,12 +12421,21 @@
             "server_region": "europe"
         },
         "55963424610927": {
+            "crew_history": [
+                "Ukraine"
+            ],
             "crew_id": 760209224397,
             "crew_name": "Ukraine",
             "equipping_title": "2_8_0_6",
             "gender": 1,
-            "hp": 2312946.5,
-            "last_seen": "Nov 20, 2025, 09:38:13 PM",
+            "hp": 6254693.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 110324.0546875,
+                "y": -178017.28125,
+                "z": -5189.205078125
+            },
+            "last_seen": "Feb 20, 2026, 9:46:59 PM",
             "level": 100,
             "name": "Oranta",
             "name_history": [
@@ -20437,6 +20455,6 @@
         }
     },
     "accounts_total": 1377,
-    "last_updated": "Feb 20, 2026, 9:45:59 PM",
+    "last_updated": "Feb 20, 2026, 9:46:59 PM",
     "server_region": "europe"
 }
