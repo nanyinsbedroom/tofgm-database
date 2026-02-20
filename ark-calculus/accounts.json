@@ -1325,14 +1325,14 @@
             "crew_name": "记录の地平线",
             "equipping_title": "2_2_0_10",
             "gender": 0,
-            "hp": 2357400.5,
+            "hp": 33701812.0,
             "last_known_position": {
-                "map": "city",
-                "x": 7.559999942779541,
-                "y": -19193.138671875,
-                "z": 96334.6953125
+                "map": "Kailo_P_003",
+                "x": 96088.53125,
+                "y": -191734.578125,
+                "z": -7797.2587890625
             },
-            "last_seen": "2026年2月17日 下午7:57:08",
+            "last_seen": "2026年2月20日 下午7:54:40",
             "level": 100,
             "name": "恩赐猫猫",
             "name_history": [
@@ -5449,14 +5449,14 @@
             "crew_name": "魔女茶话会",
             "equipping_title": "琉璃猫猫澄的学徒,0",
             "gender": 1,
-            "hp": 2074197.625,
+            "hp": 33687952.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1336.02001953125,
-                "y": -17164.560546875,
-                "z": 96309.3359375
+                "map": "Kailo_P_003",
+                "x": 101767.203125,
+                "y": -176674.046875,
+                "z": -4605.06005859375
             },
-            "last_seen": "2026年2月18日 下午6:56:33",
+            "last_seen": "2026年2月20日 下午7:54:40",
             "level": 100,
             "name": "安凌",
             "name_history": [
@@ -7713,6 +7713,31 @@
             ],
             "registered": "2023年5月18日 下午6:20:13",
             "role_id": 62736587605117,
+            "server_region": "ark-calculus"
+        },
+        "62736587605936": {
+            "crew_history": [
+                "魔女茶话会"
+            ],
+            "crew_id": 296352758025,
+            "crew_name": "魔女茶话会",
+            "equipping_title": "1_6_3_1",
+            "gender": 0,
+            "hp": 33611904.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101788.234375,
+                "y": -182412.171875,
+                "z": -7823.06396484375
+            },
+            "last_seen": "2026年2月20日 下午7:54:40",
+            "level": 100,
+            "name": "在天河",
+            "name_history": [
+                "在天河"
+            ],
+            "registered": "2023年6月11日 下午9:45:20",
+            "role_id": 62736587605936,
             "server_region": "ark-calculus"
         },
         "62745177227310": {
@@ -10082,7 +10107,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 583,
-    "last_updated": "2026年2月20日 下午7:53:40",
+    "accounts_total": 584,
+    "last_updated": "2026年2月20日 下午7:54:40",
     "server_region": "ark-calculus"
 }
