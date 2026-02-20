@@ -2604,18 +2604,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480483": {
+            "crew_history": [
+                "EuzeroFR"
+            ],
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1061729.125,
+            "hp": 1062734.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1669.52001953125,
-                "y": -23638.5,
-                "z": 97135.296875
+                "x": -317.2799987792969,
+                "y": -23188.650390625,
+                "z": 96712.1953125
             },
-            "last_seen": "Feb 13, 2026, 10:33:34 PM",
+            "last_seen": "Feb 20, 2026, 9:19:49 PM",
             "level": 75,
             "name": "ImagO",
             "name_history": [
@@ -5940,14 +5943,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 0,
-            "hp": 1076114.0,
+            "hp": 202765.078125,
             "last_known_position": {
                 "map": "city",
-                "x": 610.969970703125,
-                "y": -29427.048828125,
-                "z": 98605.65625
+                "x": -235.11000061035156,
+                "y": -28151.009765625,
+                "z": 97911.15625
             },
-            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "last_seen": "Feb 20, 2026, 9:19:49 PM",
             "level": 76,
             "name": "Fedwells",
             "name_history": [
@@ -12566,15 +12569,15 @@
             "crew_name": "Arcana",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1024883.9375,
+            "hp": 1056839.25,
             "last_known_position": {
                 "map": "city",
-                "x": 354.5299987792969,
-                "y": -24371.91015625,
-                "z": 96733.875
+                "x": 2077.329833984375,
+                "y": -27111.62890625,
+                "z": 97869.1171875
             },
-            "last_seen": "Feb 15, 2026, 10:00:16 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:19:49 PM",
+            "level": 76,
             "name": "Regina Flopange",
             "name_history": [
                 "Regina Flopange"
@@ -16094,14 +16097,14 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 1032657.75,
+            "hp": 1044174.4375,
             "last_known_position": {
                 "map": "city",
-                "x": 1318.6300048828125,
-                "y": -28281.16015625,
-                "z": 97879.6171875
+                "x": 1749.1099853515625,
+                "y": -27966.44921875,
+                "z": 97879.6796875
             },
-            "last_seen": "Feb 19, 2026, 9:48:33 PM",
+            "last_seen": "Feb 20, 2026, 9:19:49 PM",
             "level": 76,
             "name": "Hibana",
             "name_history": [
@@ -20790,6 +20793,6 @@
         }
     },
     "accounts_total": 1171,
-    "last_updated": "Feb 20, 2026, 9:18:49 PM",
+    "last_updated": "Feb 20, 2026, 9:19:49 PM",
     "server_region": "ws-europe-01"
 }
