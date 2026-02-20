@@ -45638,14 +45638,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1534038.375,
+            "hp": 1534537.5,
             "last_known_position": {
                 "map": "city",
-                "x": -1593.5999755859375,
-                "y": -29192.19921875,
-                "z": 97865.5
+                "x": 1674.2999267578125,
+                "y": -22130.71875,
+                "z": 96870.640625
             },
-            "last_seen": "2026年2月20日 上午2:06:27",
+            "last_seen": "2026年2月21日 上午12:53:17",
             "level": 84,
             "name": "墨尛",
             "name_history": [
@@ -69792,6 +69792,29 @@
             "role_id": 63582696008469,
             "server_region": "cosmic-fold"
         },
+        "63582696008479": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 36703.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 90.19999694824219,
+                "y": -23779.8203125,
+                "z": 96727.234375
+            },
+            "last_seen": "2026年2月21日 上午12:53:17",
+            "level": 11,
+            "name": "林稚恋",
+            "name_history": [
+                "林稚恋"
+            ],
+            "registered": "2026年2月20日 下午8:37:04",
+            "role_id": 63582696008479,
+            "server_region": "cosmic-fold"
+        },
         "63582696008488": {
             "crew_history": [],
             "crew_id": 0,
@@ -69908,7 +69931,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4988,
-    "last_updated": "2026年2月21日 上午12:50:17",
+    "accounts_total": 4989,
+    "last_updated": "2026年2月21日 上午12:53:17",
     "server_region": "cosmic-fold"
 }
