@@ -51016,13 +51016,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695940392": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
             "equipping_title": "小雨酱的后继者,1",
             "gender": 1,
-            "hp": 1089003.75,
-            "last_seen": "2026年2月10日 上午12:56:51",
-            "level": 81,
+            "hp": 1096458.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.2064208984375,
+                "y": -27977.76171875,
+                "z": 97866.109375
+            },
+            "last_seen": "2026年2月21日 上午12:37:16",
+            "level": 82,
             "name": "梦梦酱",
             "name_history": [
                 "梦梦酱"
@@ -69653,6 +69662,31 @@
             "role_id": 63582696008397,
             "server_region": "cosmic-fold"
         },
+        "63582696008469": {
+            "crew_history": [
+                "十二楼"
+            ],
+            "crew_id": 3418793982420,
+            "crew_name": "十二楼",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 64198.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -897.1280517578125,
+                "y": -25869.25390625,
+                "z": 96717.9453125
+            },
+            "last_seen": "2026年2月21日 上午12:37:16",
+            "level": 17,
+            "name": "小饼干ol",
+            "name_history": [
+                "小饼干ol"
+            ],
+            "registered": "2026年2月20日 下午7:40:17",
+            "role_id": 63582696008469,
+            "server_region": "cosmic-fold"
+        },
         "63582696008488": {
             "crew_history": [],
             "crew_id": 0,
@@ -69769,7 +69803,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4983,
-    "last_updated": "2026年2月21日 上午12:34:16",
+    "accounts_total": 4984,
+    "last_updated": "2026年2月21日 上午12:37:16",
     "server_region": "cosmic-fold"
 }
