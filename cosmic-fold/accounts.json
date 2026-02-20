@@ -47439,15 +47439,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695927651": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 162324.90625,
-            "last_seen": "2026年2月10日 下午11:04:15",
-            "level": 77,
-            "name": "雾隐青锋",
+            "hp": 240424.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1709.7999267578125,
+                "y": -28695.69921875,
+                "z": 97868.734375
+            },
+            "last_seen": "2026年2月21日 上午2:10:20",
+            "level": 82,
+            "name": "双层吉士堡",
             "name_history": [
+                "双层吉士堡",
                 "雾隐青锋"
             ],
             "registered": "2025年10月14日 上午10:51:12",
@@ -47455,19 +47465,54 @@
             "server_region": "cosmic-fold"
         },
         "63582695927652": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 162617.75,
-            "last_seen": "2026年2月10日 下午11:04:15",
-            "level": 77,
-            "name": "量子可乐罐",
+            "hp": 192161.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1716.2999267578125,
+                "y": -28749.19921875,
+                "z": 97878.6796875
+            },
+            "last_seen": "2026年2月21日 上午2:10:20",
+            "level": 82,
+            "name": "家人们谁懂啊",
             "name_history": [
+                "家人们谁懂啊",
                 "量子可乐罐"
             ],
             "registered": "2025年10月14日 上午10:51:19",
             "role_id": 63582695927652,
+            "server_region": "cosmic-fold"
+        },
+        "63582695927653": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 221998.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1710.5999755859375,
+                "y": -28756.099609375,
+                "z": 97878.6796875
+            },
+            "last_seen": "2026年2月21日 上午2:10:20",
+            "level": 82,
+            "name": "没能成为人",
+            "name_history": [
+                "没能成为人"
+            ],
+            "registered": "2025年10月14日 上午10:51:33",
+            "role_id": 63582695927653,
             "server_region": "cosmic-fold"
         },
         "63582695927657": {
@@ -70688,7 +70733,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5015,
-    "last_updated": "2026年2月21日 上午2:09:20",
+    "accounts_total": 5016,
+    "last_updated": "2026年2月21日 上午2:10:20",
     "server_region": "cosmic-fold"
 }
