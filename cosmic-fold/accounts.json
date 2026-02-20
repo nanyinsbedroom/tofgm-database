@@ -55257,12 +55257,21 @@
             "server_region": "cosmic-fold"
         },
         "63582695962433": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
             "hp": 752787.375,
-            "last_seen": "2026年2月9日 下午7:51:31",
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97885.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:04:14",
             "level": 77,
             "name": "Gumayusi.",
             "name_history": [
@@ -55441,6 +55450,31 @@
             ],
             "registered": "2025年11月20日 上午8:01:48",
             "role_id": 63582695962776,
+            "server_region": "cosmic-fold"
+        },
+        "63582695962778": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 780501.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97870.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:04:14",
+            "level": 77,
+            "name": "Peanut.",
+            "name_history": [
+                "Peanut."
+            ],
+            "registered": "2025年11月20日 上午8:03:21",
+            "role_id": 63582695962778,
             "server_region": "cosmic-fold"
         },
         "63582695962878": {
@@ -69517,7 +69551,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4975,
-    "last_updated": "2026年2月21日 上午12:03:14",
+    "accounts_total": 4976,
+    "last_updated": "2026年2月21日 上午12:04:14",
     "server_region": "cosmic-fold"
 }
