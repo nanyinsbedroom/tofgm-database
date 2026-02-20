@@ -53222,13 +53222,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695945208": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 120304.6015625,
-            "last_seen": "2026年01月28日 上午 5:41:24",
-            "level": 70,
+            "hp": 376667.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -3307.39990234375,
+                "y": -29953.099609375,
+                "z": 96965.1953125
+            },
+            "last_seen": "2026年2月21日 上午2:23:21",
+            "level": 79,
             "name": "咪哈友",
             "name_history": [
                 "咪哈友"
@@ -71022,6 +71031,6 @@
         }
     },
     "accounts_total": 5025,
-    "last_updated": "2026年2月21日 上午2:22:21",
+    "last_updated": "2026年2月21日 上午2:23:21",
     "server_region": "cosmic-fold"
 }
