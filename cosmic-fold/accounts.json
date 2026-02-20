@@ -54152,13 +54152,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695953336": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 197688.203125,
-            "last_seen": "2026年01月28日 上午 5:43:24",
-            "level": 71,
+            "hp": 317845.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.6517333984375,
+                "y": -28671.201171875,
+                "z": 97878.8671875
+            },
+            "last_seen": "2026年2月21日 上午2:25:21",
+            "level": 79,
             "name": "死了",
             "name_history": [
                 "死了"
@@ -54168,13 +54177,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695953340": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 195429.203125,
-            "last_seen": "2026年01月28日 上午 5:43:24",
-            "level": 71,
+            "hp": 315125.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.6590576171875,
+                "y": -28671.212890625,
+                "z": 97873.8671875
+            },
+            "last_seen": "2026年2月21日 上午2:25:21",
+            "level": 79,
             "name": "cookie",
             "name_history": [
                 "cookie"
@@ -54184,13 +54202,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695953342": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 192795.203125,
-            "last_seen": "2026年01月28日 上午 5:43:24",
-            "level": 71,
+            "hp": 312952.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1547.66796875,
+                "y": -28671.228515625,
+                "z": 97868.8671875
+            },
+            "last_seen": "2026年2月21日 上午2:25:21",
+            "level": 79,
             "name": "二重螺旋高手",
             "name_history": [
                 "二重螺旋高手"
@@ -71040,6 +71067,6 @@
         }
     },
     "accounts_total": 5025,
-    "last_updated": "2026年2月21日 上午2:24:21",
+    "last_updated": "2026年2月21日 上午2:25:21",
     "server_region": "cosmic-fold"
 }
