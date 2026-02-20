@@ -26109,13 +26109,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695868243": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
             "crew_id": 3079491566036,
             "crew_name": "王婆婆小屋",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1383901.625,
-            "last_seen": "2026年2月8日 下午10:13:00",
-            "level": 82,
+            "hp": 1484138.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 3506.659912109375,
+                "y": -28897.33984375,
+                "z": 96746.375
+            },
+            "last_seen": "2026年2月21日 上午12:06:14",
+            "level": 84,
             "name": "幻塔什么时候思",
             "name_history": [
                 "幻塔什么时候思"
@@ -68038,6 +68047,29 @@
             "role_id": 63582696006609,
             "server_region": "cosmic-fold"
         },
+        "63582696006768": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 76846.8515625,
+            "last_known_position": {
+                "map": "city",
+                "x": 848.3662109375,
+                "y": -22960.62109375,
+                "z": 96733.890625
+            },
+            "last_seen": "2026年2月21日 上午12:06:14",
+            "level": 49,
+            "name": "MnTS",
+            "name_history": [
+                "MnTS"
+            ],
+            "registered": "2026年2月10日 下午2:42:26",
+            "role_id": 63582696006768,
+            "server_region": "cosmic-fold"
+        },
         "63582696006817": {
             "crew_id": 0,
             "crew_name": "",
@@ -69551,7 +69583,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4976,
-    "last_updated": "2026年2月21日 上午12:05:14",
+    "accounts_total": 4977,
+    "last_updated": "2026年2月21日 上午12:06:14",
     "server_region": "cosmic-fold"
 }
