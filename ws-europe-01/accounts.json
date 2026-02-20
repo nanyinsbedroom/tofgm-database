@@ -2269,13 +2269,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480250": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 980027.75,
-            "last_seen": "Feb 7, 2026, 8:00:07 PM",
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99514.625,
+                "y": -204795.203125,
+                "z": -995.7978515625
+            },
+            "last_seen": "Feb 20, 2026, 9:25:49 PM",
+            "level": 76,
             "name": "Кириеха",
             "name_history": [
                 "Кириеха"
@@ -11739,15 +11748,15 @@
             "crew_name": "Asylum",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 892483.125,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -92187.90625,
-                "y": 76414.390625,
-                "z": -7060.06005859375
+                "map": "Kailo_P_003",
+                "x": 92385.9140625,
+                "y": -188213.171875,
+                "z": -7159.98974609375
             },
-            "last_seen": "Feb 16, 2026, 9:59:02 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:25:49 PM",
+            "level": 76,
             "name": "kirito03",
             "name_history": [
                 "kirito03"
@@ -20861,6 +20870,6 @@
         }
     },
     "accounts_total": 1173,
-    "last_updated": "Feb 20, 2026, 9:23:49 PM",
+    "last_updated": "Feb 20, 2026, 9:25:49 PM",
     "server_region": "ws-europe-01"
 }
