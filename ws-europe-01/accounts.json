@@ -427,13 +427,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479582": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
             "crew_id": 201872351015,
             "crew_name": "Rus Brotherhood",
             "equipping_title": "None",
             "gender": 1,
             "hp": 2704000.0,
-            "last_seen": "Feb 7, 2026, 10:47:58 PM",
-            "level": 74,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 99339.296875,
+                "y": -188751.796875,
+                "z": -7763.5185546875
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Izanami",
             "name_history": [
                 "Izanami"
@@ -1655,13 +1664,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480044": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
             "crew_id": 201872351015,
             "crew_name": "Rus Brotherhood",
             "equipping_title": "Izanami's Apprentice,0",
             "gender": 1,
             "hp": 2704000.0,
-            "last_seen": "Feb 7, 2026, 8:16:03 PM",
-            "level": 74,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100857.875,
+                "y": -183244.25,
+                "z": -7718.97998046875
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 75,
             "name": "Phantom",
             "name_history": [
                 "Phantom"
@@ -4046,14 +4064,14 @@
             "crew_name": "Arcana",
             "equipping_title": "2_10_0_6",
             "gender": 1,
-            "hp": 886772.1875,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -2339.639892578125,
-                "y": -24975.939453125,
-                "z": 97843.4765625
+                "map": "Kailo_P_003",
+                "x": 93257.96875,
+                "y": -187113.53125,
+                "z": -7576.37548828125
             },
-            "last_seen": "Feb 19, 2026, 9:30:32 PM",
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
             "level": 76,
             "name": "Shananet",
             "name_history": [
@@ -6983,19 +7001,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483472": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "Ari_AnemoHeart's Mentor,0",
             "gender": 0,
-            "hp": 992772.9375,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -227.25999450683594,
-                "y": -28015.80859375,
-                "z": 96726.9453125
+                "map": "Kailo_P_003",
+                "x": 105549.375,
+                "y": -190089.84375,
+                "z": -5629.96240234375
             },
-            "last_seen": "Feb 13, 2026, 10:35:33 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Exter",
             "name_history": [
                 "Exter"
@@ -7030,19 +7051,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483527": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "Exter's Apprentice,0",
             "gender": 1,
-            "hp": 981444.1875,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -194.72000122070313,
-                "y": -28064.138671875,
-                "z": 96706.9453125
+                "map": "Kailo_P_003",
+                "x": 88338.0390625,
+                "y": -185313.828125,
+                "z": -7210.7900390625
             },
-            "last_seen": "Feb 13, 2026, 10:35:33 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Ari_AnemoHeart",
             "name_history": [
                 "Ari_AnemoHeart"
@@ -7113,6 +7137,31 @@
             ],
             "registered": "Nov 25, 2025, 2:26:20 PM",
             "role_id": 38174111708483581,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708483591": {
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95455.21875,
+                "y": -189627.875,
+                "z": -7928.86962890625
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
+            "name": "Maram",
+            "name_history": [
+                "Maram"
+            ],
+            "registered": "Nov 25, 2025, 2:27:53 PM",
+            "role_id": 38174111708483591,
             "server_region": "ws-europe-01"
         },
         "38174111708483611": {
@@ -7589,13 +7638,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483973": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "2_10_1_9",
             "gender": 0,
-            "hp": 1019055.5,
-            "last_seen": "Feb 9, 2026, 8:01:15 PM",
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 109620.46875,
+                "y": -186800.78125,
+                "z": -4949.662109375
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "w3lc0m3t0h3ll",
             "name_history": [
                 "w3lc0m3t0h3ll"
@@ -8515,6 +8573,31 @@
             "role_id": 38174111708484965,
             "server_region": "ws-europe-01"
         },
+        "38174111708485021": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
+            "crew_id": 365081108263,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "1_9_0_2",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98191.34375,
+                "y": -180127.734375,
+                "z": -7893.28759765625
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
+            "name": "Tamira",
+            "name_history": [
+                "Tamira"
+            ],
+            "registered": "Nov 25, 2025, 5:00:36 PM",
+            "role_id": 38174111708485021,
+            "server_region": "ws-europe-01"
+        },
         "38174111708485050": {
             "crew_history": [
                 "Asylum"
@@ -8653,14 +8736,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "Trixiemixie's Mentor,0",
             "gender": 1,
-            "hp": 1064593.0,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -796.3399658203125,
-                "y": -28192.869140625,
-                "z": 97872.6171875
+                "map": "Kailo_P_003",
+                "x": 95403.9765625,
+                "y": -173916.890625,
+                "z": -4870.0498046875
             },
-            "last_seen": "Feb 19, 2026, 9:13:31 PM",
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
             "level": 76,
             "name": "Chi-Xiao",
             "name_history": [
@@ -13842,23 +13925,26 @@
             "server_region": "ws-europe-01"
         },
         "38174111708499467": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "1_6_4_39",
+            "equipping_title": "1_6_4_35",
             "gender": 1,
-            "hp": 1008703.0625,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "map": "Kailo_P_003",
+                "x": 84918.9453125,
+                "y": -188084.109375,
+                "z": -4307.107421875
             },
-            "last_seen": "Feb 13, 2026, 11:03:42 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Ruri Hime",
             "name_history": [
-                "Runa",
-                "Ruri Hime"
+                "Ruri Hime",
+                "Runa"
             ],
             "registered": "Nov 30, 2025, 10:54:15 AM",
             "role_id": 38174111708499467,
@@ -14727,13 +14813,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708505472": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
             "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 1030162.8125,
-            "last_seen": "Feb 11, 2026, 7:19:46 PM",
-            "level": 75,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 87138.8984375,
+                "y": -183433.734375,
+                "z": -3928.58544921875
+            },
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": " Фанат",
             "name_history": [
                 " Фанат"
@@ -14822,15 +14917,15 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 907208.625,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1361.530029296875,
-                "y": -27917.478515625,
-                "z": 97872.6171875
+                "map": "Kailo_P_003",
+                "x": 100587.6796875,
+                "y": -181356.953125,
+                "z": -7497.4697265625
             },
-            "last_seen": "Feb 16, 2026, 9:27:16 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Rayaka",
             "name_history": [
                 "Rayaka"
@@ -15704,15 +15799,15 @@
             "crew_name": "Dynasty",
             "equipping_title": "2_8_0_9",
             "gender": 0,
-            "hp": 920513.6875,
+            "hp": 2626000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1004.5,
-                "y": -21666.01953125,
-                "z": 97492.6171875
+                "map": "Kailo_P_003",
+                "x": 91941.078125,
+                "y": -182479.296875,
+                "z": -7263.43994140625
             },
-            "last_seen": "Feb 16, 2026, 9:27:16 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "level": 76,
             "name": "Prince Shadow",
             "name_history": [
                 "Prince Shadow"
@@ -20912,7 +21007,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1174,
-    "last_updated": "Feb 20, 2026, 9:30:49 PM",
+    "accounts_total": 1176,
+    "last_updated": "Feb 20, 2026, 9:31:49 PM",
     "server_region": "ws-europe-01"
 }
