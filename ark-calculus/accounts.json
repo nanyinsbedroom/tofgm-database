@@ -948,14 +948,14 @@
             "crew_name": "猫咖",
             "equipping_title": "烧鸡大魔王的导师,0",
             "gender": 1,
-            "hp": 2232916.75,
+            "hp": 1834146.75,
             "last_known_position": {
-                "map": "city",
-                "x": 19.770000457763672,
-                "y": -18288.458984375,
-                "z": 96336.03125
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月17日 下午7:58:08",
+            "last_seen": "2026年2月20日 下午8:05:41",
             "level": 100,
             "name": "笨蛋大王喵",
             "name_history": [
@@ -3360,6 +3360,31 @@
             ],
             "registered": "2026年2月17日 下午6:31:22",
             "role_id": 62285617841702,
+            "server_region": "ark-calculus"
+        },
+        "62285617841719": {
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 8589949193,
+            "crew_name": "白月破晓",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 343938.90625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月20日 下午8:05:41",
+            "level": 40,
+            "name": "Phrolova",
+            "name_history": [
+                "Phrolova"
+            ],
+            "registered": "2026年2月18日 上午12:01:29",
+            "role_id": 62285617841719,
             "server_region": "ark-calculus"
         },
         "62289910696349": {
@@ -9752,6 +9777,31 @@
             "role_id": 63140314586288,
             "server_region": "ark-calculus"
         },
+        "63140314587392": {
+            "crew_history": [
+                "SOS团"
+            ],
+            "crew_id": 270582954149,
+            "crew_name": "SOS团",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 2040353.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55726.546875,
+                "y": -88543.2265625,
+                "z": 21710.888671875
+            },
+            "last_seen": "2026年2月20日 下午8:05:41",
+            "level": 100,
+            "name": "你们不要再打了",
+            "name_history": [
+                "你们不要再打了"
+            ],
+            "registered": "2023年8月3日 上午5:06:46",
+            "role_id": 63140314587392,
+            "server_region": "ark-calculus"
+        },
         "63140314590206": {
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
@@ -10531,7 +10581,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 600,
-    "last_updated": "2026年2月20日 下午8:04:41",
+    "accounts_total": 602,
+    "last_updated": "2026年2月20日 下午8:05:41",
     "server_region": "ark-calculus"
 }
