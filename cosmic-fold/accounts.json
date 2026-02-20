@@ -4497,14 +4497,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1264966.625,
+            "hp": 1125171.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1276.93994140625,
-                "y": -28449.05859375,
-                "z": 97865.875
+                "x": 2300.849853515625,
+                "y": -27012.708984375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月18日 上午12:17:22",
+            "last_seen": "2026年2月20日 下午11:55:14",
             "level": 82,
             "name": "小伶伶",
             "name_history": [
@@ -24519,11 +24519,11 @@
             "hp": 1567066.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1893.5899658203125,
-                "y": -26668.8203125,
+                "x": 1369.949951171875,
+                "y": -28279.798828125,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月20日 上午2:07:27",
+            "last_seen": "2026年2月20日 下午11:55:14",
             "level": 84,
             "name": "唐喵",
             "name_history": [
@@ -68228,6 +68228,29 @@
             "role_id": 63582696007194,
             "server_region": "cosmic-fold"
         },
+        "63582696007334": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 35636.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -2383.68994140625,
+                "y": -23599.859375,
+                "z": 96738.15625
+            },
+            "last_seen": "2026年2月20日 下午11:55:14",
+            "level": 13,
+            "name": "一号马格南",
+            "name_history": [
+                "一号马格南"
+            ],
+            "registered": "2026年2月11日 下午4:50:09",
+            "role_id": 63582696007334,
+            "server_region": "cosmic-fold"
+        },
         "63582696007475": {
             "crew_history": [],
             "crew_id": 0,
@@ -69409,7 +69432,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4972,
-    "last_updated": "2026年2月20日 下午11:54:13",
+    "accounts_total": 4973,
+    "last_updated": "2026年2月20日 下午11:55:14",
     "server_region": "cosmic-fold"
 }
