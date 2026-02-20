@@ -38659,15 +38659,15 @@
             "crew_name": "幻塔",
             "equipping_title": "窝囊的导师,0",
             "gender": 1,
-            "hp": 1545637.75,
+            "hp": 1562542.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1166.239990234375,
-                "y": -27880.6796875,
+                "x": 1357.0,
+                "y": -28250.0,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月17日 上午1:48:32",
-            "level": 83,
+            "last_seen": "2026年2月20日 下午11:44:13",
+            "level": 84,
             "name": "梅恋恋",
             "name_history": [
                 "梅恋恋"
@@ -57567,6 +57567,31 @@
             "role_id": 63582695970047,
             "server_region": "cosmic-fold"
         },
+        "63582695970071": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 83379.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1681.89990234375,
+                "y": -28740.8984375,
+                "z": 97885.21875
+            },
+            "last_seen": "2026年2月20日 下午11:44:13",
+            "level": 62,
+            "name": "西瓜1",
+            "name_history": [
+                "西瓜1"
+            ],
+            "registered": "2025年11月30日 下午10:12:53",
+            "role_id": 63582695970071,
+            "server_region": "cosmic-fold"
+        },
         "63582695970073": {
             "crew_history": [
                 "王婆婆小屋"
@@ -57575,21 +57600,46 @@
             "crew_name": "王婆婆小屋",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 79027.796875,
+            "hp": 79891.796875,
             "last_known_position": {
                 "map": "city",
-                "x": -1714.699951171875,
-                "y": -28749.69921875,
-                "z": 97884.6796875
+                "x": -1675.699951171875,
+                "y": -28736.0,
+                "z": 97884.71875
             },
-            "last_seen": "2026年2月14日 下午8:41:56",
-            "level": 61,
+            "last_seen": "2026年2月20日 下午11:44:13",
+            "level": 62,
             "name": "西瓜2",
             "name_history": [
                 "西瓜2"
             ],
             "registered": "2025年11月30日 下午10:14:46",
             "role_id": 63582695970073,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970079": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 84191.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1719.5,
+                "y": -28744.19921875,
+                "z": 97878.6796875
+            },
+            "last_seen": "2026年2月20日 下午11:44:13",
+            "level": 62,
+            "name": "西瓜3",
+            "name_history": [
+                "西瓜3"
+            ],
+            "registered": "2025年11月30日 下午10:16:27",
+            "role_id": 63582695970079,
             "server_region": "cosmic-fold"
         },
         "63582695970082": {
@@ -57600,15 +57650,15 @@
             "crew_name": "王婆婆小屋",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 80532.796875,
+            "hp": 81396.796875,
             "last_known_position": {
                 "map": "city",
-                "x": -1729.199951171875,
-                "y": -28722.3984375,
-                "z": 97868.6953125
+                "x": -1671.39990234375,
+                "y": -28734.5,
+                "z": 97868.734375
             },
-            "last_seen": "2026年2月14日 下午8:39:56",
-            "level": 61,
+            "last_seen": "2026年2月20日 下午11:44:13",
+            "level": 62,
             "name": "西瓜4",
             "name_history": [
                 "西瓜4"
@@ -68904,7 +68954,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4955,
-    "last_updated": "2026年2月20日 下午11:43:13",
+    "accounts_total": 4957,
+    "last_updated": "2026年2月20日 下午11:44:13",
     "server_region": "cosmic-fold"
 }
