@@ -24707,13 +24707,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695866244": {
+            "crew_history": [
+                "NOVA学院"
+            ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
             "equipping_title": "NOVA·哈基鲤的学徒,0",
             "gender": 1,
-            "hp": 776630.3125,
-            "last_seen": "",
-            "level": 80,
+            "hp": 1413941.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:54:13",
+            "level": 83,
             "name": "藏伈",
             "name_history": [
                 "藏伈"
@@ -53144,6 +53153,31 @@
             "role_id": 63582695953342,
             "server_region": "cosmic-fold"
         },
+        "63582695953795": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 784560.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97887.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:54:13",
+            "level": 79,
+            "name": "Zeus.",
+            "name_history": [
+                "Zeus."
+            ],
+            "registered": "2025年11月7日 上午2:09:15",
+            "role_id": 63582695953795,
+            "server_region": "cosmic-fold"
+        },
         "63582695954450": {
             "crew_history": [
                 "命运石之门"
@@ -69375,7 +69409,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4971,
-    "last_updated": "2026年2月20日 下午11:53:13",
+    "accounts_total": 4972,
+    "last_updated": "2026年2月20日 下午11:54:13",
     "server_region": "cosmic-fold"
 }
