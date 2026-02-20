@@ -5118,18 +5118,21 @@
             "server_region": "europe"
         },
         "55877524525285": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 725849486034,
             "crew_name": "Harmony",
             "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 6196594.0,
+            "hp": 6214385.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 99669.1796875,
-                "y": -180639.390625,
-                "z": -7662.14208984375
+                "x": 50965.21875,
+                "y": -211354.453125,
+                "z": 6331.43994140625
             },
-            "last_seen": "Feb 13, 2026, 9:25:42 PM",
+            "last_seen": "Feb 20, 2026, 9:52:59 PM",
             "level": 100,
             "name": "Sakazaky",
             "name_history": [
@@ -18690,6 +18693,31 @@
             "role_id": 55963424762502,
             "server_region": "europe"
         },
+        "55963424762746": {
+            "crew_history": [
+                "Chaos"
+            ],
+            "crew_id": 2714419344089,
+            "crew_name": "Chaos",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 5512592.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 77278.3046875,
+                "y": -165080.5625,
+                "z": -3043.6298828125
+            },
+            "last_seen": "Feb 20, 2026, 9:52:59 PM",
+            "level": 17,
+            "name": "Yoel",
+            "name_history": [
+                "Yoel"
+            ],
+            "registered": "Feb 8, 2026, 4:02:30 PM",
+            "role_id": 55963424762746,
+            "server_region": "europe"
+        },
         "55963424762753": {
             "crew_id": 0,
             "crew_name": "",
@@ -20529,7 +20557,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1380,
-    "last_updated": "Feb 20, 2026, 9:51:59 PM",
+    "accounts_total": 1381,
+    "last_updated": "Feb 20, 2026, 9:52:59 PM",
     "server_region": "europe"
 }
