@@ -6255,26 +6255,29 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482790": {
+            "crew_history": [
+                "Dynasty"
+            ],
             "crew_id": 120267972391,
             "crew_name": "Dynasty",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1070015.875,
+            "hp": 1121072.875,
             "last_known_position": {
                 "map": "city",
-                "x": -6068.61962890625,
-                "y": -30191.240234375,
-                "z": 96336.03125
+                "x": 2025.179931640625,
+                "y": -27718.359375,
+                "z": 96737.375
             },
-            "last_seen": "Feb 13, 2026, 9:31:01 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:35:50 PM",
+            "level": 76,
             "name": "Lilyana027",
             "name_history": [
                 "Lilyana027"
             ],
             "registered": "Nov 25, 2025, 1:07:34 PM",
             "role_id": 38174111708482790,
-            "server_region": "ws_europe_01"
+            "server_region": "ws-europe-01"
         },
         "38174111708482795": {
             "crew_id": 1370103455527,
@@ -16150,17 +16153,17 @@
             ],
             "crew_id": 120267972391,
             "crew_name": "Dynasty",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "Xig's Successor,1",
             "gender": 0,
-            "hp": 1050622.0,
+            "hp": 1144948.75,
             "last_known_position": {
                 "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
-                "z": 96382.03125
+                "x": 1997.2999267578125,
+                "y": -27812.1796875,
+                "z": 96750.875
             },
-            "last_seen": "Feb 14, 2026, 11:09:29 AM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:35:50 PM",
+            "level": 76,
             "name": "Xiang",
             "name_history": [
                 "Xiang"
@@ -21067,6 +21070,6 @@
         }
     },
     "accounts_total": 1178,
-    "last_updated": "Feb 20, 2026, 9:34:50 PM",
+    "last_updated": "Feb 20, 2026, 9:35:50 PM",
     "server_region": "ws-europe-01"
 }
