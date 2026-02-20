@@ -8887,13 +8887,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695854493": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
             "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1430286.625,
-            "last_seen": "2026年2月10日 上午1:22:47",
-            "level": 82,
+            "hp": 1482932.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:53:13",
+            "level": 84,
             "name": "小雨酱",
             "name_history": [
                 "小雨酱"
@@ -45668,15 +45677,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695923938": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1164001.25,
-            "last_seen": "2026年01月28日 上午 5:49:24",
-            "level": 78,
-            "name": "细雨纷飞五月天",
+            "hp": 1177388.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1738.8699951171875,
+                "y": -27040.259765625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:53:13",
+            "level": 83,
+            "name": "芳草天",
             "name_history": [
+                "芳草天",
                 "细雨纷飞五月天"
             ],
             "registered": "2025年10月11日 下午8:42:38",
@@ -55177,14 +55196,14 @@
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 958906.75,
+            "hp": 726444.5625,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -44405.09765625,
-                "y": 86696.8984375,
-                "z": -13540.8369140625
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97870.1171875
             },
-            "last_seen": "2026年2月19日 上午12:51:39",
+            "last_seen": "2026年2月20日 下午11:53:13",
             "level": 79,
             "name": "Kerla",
             "name_history": [
@@ -69357,6 +69376,6 @@
         }
     },
     "accounts_total": 4971,
-    "last_updated": "2026年2月20日 下午11:52:13",
+    "last_updated": "2026年2月20日 下午11:53:13",
     "server_region": "cosmic-fold"
 }
