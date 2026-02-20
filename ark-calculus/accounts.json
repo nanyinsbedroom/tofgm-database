@@ -1032,12 +1032,21 @@
             "server_region": "ark-calculus"
         },
         "61864708954140": {
+            "crew_history": [
+                "归墟"
+            ],
             "crew_id": 184683608132,
             "crew_name": "归墟",
             "equipping_title": "2_2_0_73",
             "gender": 1,
-            "hp": 2766650.25,
-            "last_seen": "2026年2月12日 下午5:40:24",
+            "hp": 3809142.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325556.4375,
+                "y": 204946.46875,
+                "z": -27631.388671875
+            },
+            "last_seen": "2026年2月20日 下午8:48:52",
             "level": 100,
             "name": "神族牧师薇莉丝",
             "name_history": [
@@ -1399,6 +1408,31 @@
             ],
             "registered": "2021年12月16日 上午10:50:50",
             "role_id": 62281320776731,
+            "server_region": "ark-calculus"
+        },
+        "62281320784772": {
+            "crew_history": [
+                "域垣魔宗"
+            ],
+            "crew_id": 115964131693,
+            "crew_name": "域垣魔宗",
+            "equipping_title": "3_2021",
+            "gender": 1,
+            "hp": 2562690.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326745.21875,
+                "y": 204069.140625,
+                "z": -28328.8203125
+            },
+            "last_seen": "2026年2月20日 下午8:48:52",
+            "level": 100,
+            "name": "炽焰、火月",
+            "name_history": [
+                "炽焰、火月"
+            ],
+            "registered": "2021年12月16日 下午5:00:40",
+            "role_id": 62281320784772,
             "server_region": "ark-calculus"
         },
         "62281320790878": {
@@ -10808,14 +10842,14 @@
             "crew_name": "SOS团",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2040353.25,
+            "hp": 3061589.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55726.546875,
-                "y": -88543.2265625,
-                "z": 21710.888671875
+                "map": "JIUYU_P",
+                "x": -325098.15625,
+                "y": 204441.234375,
+                "z": -28326.44921875
             },
-            "last_seen": "2026年2月20日 下午8:05:41",
+            "last_seen": "2026年2月20日 下午8:48:52",
             "level": 100,
             "name": "你们不要再打了",
             "name_history": [
@@ -11629,7 +11663,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 644,
-    "last_updated": "2026年2月20日 下午8:47:52",
+    "accounts_total": 645,
+    "last_updated": "2026年2月20日 下午8:48:52",
     "server_region": "ark-calculus"
 }
