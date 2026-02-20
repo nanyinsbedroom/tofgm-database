@@ -14668,13 +14668,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695858685": {
+            "crew_history": [
+                "梦想夏乡"
+            ],
             "crew_id": 614180338132,
             "crew_name": "梦想夏乡",
-            "equipping_title": "None",
+            "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 605840.375,
-            "last_seen": "2025年11月24日 上午 7:29:30",
-            "level": 72,
+            "hp": 882622.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月20日 下午11:46:13",
+            "level": 81,
             "name": "海嘉德高级特工",
             "name_history": [
                 "海嘉德高级特工"
@@ -57676,6 +57685,106 @@
             "role_id": 63582695970082,
             "server_region": "cosmic-fold"
         },
+        "63582695970083": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78317.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1713.0999755859375,
+                "y": -28751.599609375,
+                "z": 97884.6796875
+            },
+            "last_seen": "2026年2月20日 下午11:46:13",
+            "level": 62,
+            "name": "西瓜5",
+            "name_history": [
+                "西瓜5"
+            ],
+            "registered": "2025年11月30日 下午10:19:43",
+            "role_id": 63582695970083,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970086": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78317.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1719.2999267578125,
+                "y": -28744.3984375,
+                "z": 97883.6796875
+            },
+            "last_seen": "2026年2月20日 下午11:46:13",
+            "level": 62,
+            "name": "西瓜6",
+            "name_history": [
+                "西瓜6"
+            ],
+            "registered": "2025年11月30日 下午10:21:59",
+            "role_id": 63582695970086,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970088": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78317.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1719.0999755859375,
+                "y": -28744.599609375,
+                "z": 97886.6953125
+            },
+            "last_seen": "2026年2月20日 下午11:46:13",
+            "level": 62,
+            "name": "西瓜7",
+            "name_history": [
+                "西瓜7"
+            ],
+            "registered": "2025年11月30日 下午10:23:44",
+            "role_id": 63582695970088,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970091": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78317.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1720.5,
+                "y": -28740.8984375,
+                "z": 97878.6796875
+            },
+            "last_seen": "2026年2月20日 下午11:46:13",
+            "level": 62,
+            "name": "西瓜8",
+            "name_history": [
+                "西瓜8"
+            ],
+            "registered": "2025年11月30日 下午10:25:38",
+            "role_id": 63582695970091,
+            "server_region": "cosmic-fold"
+        },
         "63582695970096": {
             "crew_id": 3006477122004,
             "crew_name": "棋士",
@@ -58188,14 +58297,14 @@
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 811394.875,
+            "hp": 777617.0625,
             "last_known_position": {
                 "map": "city",
                 "x": 1357.0,
                 "y": -28250.0,
                 "z": 97877.1171875
             },
-            "last_seen": "2026年2月19日 上午12:35:38",
+            "last_seen": "2026年2月20日 下午11:46:13",
             "level": 82,
             "name": "Faker.",
             "name_history": [
@@ -69011,7 +69120,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4959,
-    "last_updated": "2026年2月20日 下午11:45:13",
+    "accounts_total": 4963,
+    "last_updated": "2026年2月20日 下午11:46:13",
     "server_region": "cosmic-fold"
 }
