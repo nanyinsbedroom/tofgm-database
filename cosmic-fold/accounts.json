@@ -15836,13 +15836,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695859239": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "2_10_1_11",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1312538.375,
-            "last_seen": "2026年2月8日 下午10:12:03",
-            "level": 81,
+            "hp": 1320537.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1194.5999755859375,
+                "y": -28382.19921875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:45:13",
+            "level": 82,
             "name": "Xa小初vier",
             "name_history": [
                 "Xa小初vier"
@@ -24029,15 +24038,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1369879.625,
+            "hp": 1571678.0,
             "last_known_position": {
                 "map": "city",
-                "x": 364.1000061035156,
-                "y": -22388.048828125,
-                "z": 96753.375
+                "x": -1062.9000244140625,
+                "y": -26065.298828125,
+                "z": 96721.9609375
             },
-            "last_seen": "2026年2月19日 上午12:35:38",
-            "level": 83,
+            "last_seen": "2026年2月20日 下午11:45:13",
+            "level": 84,
             "name": "沉淀猫猫.Max",
             "name_history": [
                 "沉淀猫猫.Max",
@@ -37955,14 +37964,14 @@
             "crew_name": "月歌行",
             "equipping_title": "浅箱的后继者,1",
             "gender": 1,
-            "hp": 1285870.375,
+            "hp": 1397165.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1446.7099609375,
-                "y": -28195.009765625,
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月20日 上午2:03:27",
+            "last_seen": "2026年2月20日 下午11:45:13",
             "level": 83,
             "name": "猫箱",
             "name_history": [
@@ -63341,6 +63350,29 @@
             "role_id": 63582695999227,
             "server_region": "cosmic-fold"
         },
+        "63582695999236": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39930.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -101.41999816894531,
+                "y": -21980.3203125,
+                "z": 96756.859375
+            },
+            "last_seen": "2026年2月20日 下午11:45:13",
+            "level": 11,
+            "name": "曾照彩云归",
+            "name_history": [
+                "曾照彩云归"
+            ],
+            "registered": "2026年1月31日 上午1:11:22",
+            "role_id": 63582695999236,
+            "server_region": "cosmic-fold"
+        },
         "63582695999265": {
             "crew_id": 0,
             "crew_name": "",
@@ -68347,6 +68379,31 @@
             "role_id": 63582696007977,
             "server_region": "cosmic-fold"
         },
+        "63582696008015": {
+            "crew_history": [
+                "幻影"
+            ],
+            "crew_id": 3375844309460,
+            "crew_name": "幻影",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110822.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1206.43994140625,
+                "y": -28335.228515625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:45:13",
+            "level": 49,
+            "name": "阿滋猫の格格巫",
+            "name_history": [
+                "阿滋猫の格格巫"
+            ],
+            "registered": "2026年2月16日 下午11:12:31",
+            "role_id": 63582696008015,
+            "server_region": "cosmic-fold"
+        },
         "63582696008028": {
             "crew_history": [],
             "crew_id": 0,
@@ -68954,7 +69011,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4957,
-    "last_updated": "2026年2月20日 下午11:44:13",
+    "accounts_total": 4959,
+    "last_updated": "2026年2月20日 下午11:45:13",
     "server_region": "cosmic-fold"
 }
