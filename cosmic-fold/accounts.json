@@ -42774,13 +42774,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695915481": {
+            "crew_history": [
+                "月歌行"
+            ],
             "crew_id": 128849033684,
             "crew_name": "月歌行",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 1107614.25,
-            "last_seen": "2026年01月21日 上午 6:59:03",
-            "level": 79,
+            "hp": 1175672.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1788.7999267578125,
+                "y": -28693.798828125,
+                "z": 97873.6796875
+            },
+            "last_seen": "2026年2月21日 上午1:41:19",
+            "level": 83,
             "name": "歌住樱子",
             "name_history": [
                 "歌住樱子"
@@ -70144,6 +70153,6 @@
         }
     },
     "accounts_total": 4995,
-    "last_updated": "2026年2月21日 上午1:39:19",
+    "last_updated": "2026年2月21日 上午1:41:19",
     "server_region": "cosmic-fold"
 }
