@@ -1921,14 +1921,14 @@
             "crew_name": "  ",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 6851093.5,
+            "hp": 6232057.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 138893.359375,
-                "y": -176397.09375,
-                "z": 48.38999938964844
+                "x": 87356.515625,
+                "y": -192721.203125,
+                "z": -4857.59765625
             },
-            "last_seen": "Feb 16, 2026, 9:35:16 PM",
+            "last_seen": "Feb 20, 2026, 9:51:59 PM",
             "level": 100,
             "name": "East13",
             "name_history": [
@@ -4624,6 +4624,31 @@
             "name": "Be7zE",
             "registered": "Aug 11, 2022, 1:34:38 AM",
             "role_id": 55873229554550,
+            "server_region": "europe"
+        },
+        "55873229554820": {
+            "crew_history": [
+                "Celestial"
+            ],
+            "crew_id": 34359751375,
+            "crew_name": "Celestial",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 6633991.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95776.2578125,
+                "y": -173869.203125,
+                "z": -4878.39990234375
+            },
+            "last_seen": "Feb 20, 2026, 9:51:59 PM",
+            "level": 100,
+            "name": "Mikoto#p$",
+            "name_history": [
+                "Mikoto#p$"
+            ],
+            "registered": "Aug 11, 2022, 1:35:13 AM",
+            "role_id": 55873229554820,
             "server_region": "europe"
         },
         "55873229555299": {
@@ -12717,14 +12742,14 @@
             "crew_name": "The_Void",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6151069.0,
+            "hp": 6717043.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 145345.0,
-                "y": -175441.0,
-                "z": 67.8499984741211
+                "x": 69936.265625,
+                "y": -203356.265625,
+                "z": -2915.35302734375
             },
-            "last_seen": "Feb 19, 2026, 10:06:34 PM",
+            "last_seen": "Feb 20, 2026, 9:51:59 PM",
             "level": 100,
             "name": "D25T",
             "name_history": [
@@ -20504,7 +20529,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1379,
-    "last_updated": "Feb 20, 2026, 9:50:59 PM",
+    "accounts_total": 1380,
+    "last_updated": "Feb 20, 2026, 9:51:59 PM",
     "server_region": "europe"
 }
