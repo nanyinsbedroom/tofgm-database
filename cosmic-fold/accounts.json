@@ -35814,15 +35814,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695889714": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1327969.0,
-            "last_seen": "2026年01月27日 上午 7:49:22",
-            "level": 80,
-            "name": "幻塔药丸",
+            "hp": 1397086.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1653.89990234375,
+                "y": -27944.798828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月21日 上午1:34:19",
+            "level": 82,
+            "name": "祝你冬天暖暖",
             "name_history": [
+                "祝你冬天暖暖",
                 "幻塔药丸"
             ],
             "registered": "2025年9月29日 下午10:34:02",
@@ -70125,6 +70135,6 @@
         }
     },
     "accounts_total": 4995,
-    "last_updated": "2026年2月21日 上午1:28:18",
+    "last_updated": "2026年2月21日 上午1:34:19",
     "server_region": "cosmic-fold"
 }
