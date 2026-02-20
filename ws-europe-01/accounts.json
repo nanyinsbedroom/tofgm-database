@@ -3162,6 +3162,31 @@
             "role_id": 38174111708480826,
             "server_region": "ws-europe-01"
         },
+        "38174111708480828": {
+            "crew_history": [
+                "Rus Brotherhood"
+            ],
+            "crew_id": 201872351015,
+            "crew_name": "Rus Brotherhood",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2704000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98923.765625,
+                "y": -188591.109375,
+                "z": -7736.57958984375
+            },
+            "last_seen": "Feb 20, 2026, 9:30:49 PM",
+            "level": 43,
+            "name": "Zero001",
+            "name_history": [
+                "Zero001"
+            ],
+            "registered": "Nov 25, 2025, 9:58:18 AM",
+            "role_id": 38174111708480828,
+            "server_region": "ws-europe-01"
+        },
         "38174111708480835": {
             "crew_id": 0,
             "crew_name": "",
@@ -9636,13 +9661,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708486368": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "2_10_0_4",
             "gender": 0,
-            "hp": 950602.25,
-            "last_seen": "Feb 9, 2026, 7:59:08 PM",
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100598.8828125,
+                "y": -189761.4375,
+                "z": -7829.701171875
+            },
+            "last_seen": "Feb 20, 2026, 9:30:49 PM",
+            "level": 76,
             "name": "Desperto",
             "name_history": [
                 "Desperto"
@@ -20878,7 +20912,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1173,
-    "last_updated": "Feb 20, 2026, 9:27:49 PM",
+    "accounts_total": 1174,
+    "last_updated": "Feb 20, 2026, 9:30:49 PM",
     "server_region": "ws-europe-01"
 }
