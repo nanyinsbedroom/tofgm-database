@@ -2029,12 +2029,21 @@
             "server_region": "ark-calculus"
         },
         "62285617250360": {
+            "crew_history": [
+                "花海幼儿园"
+            ],
             "crew_id": 485331318964,
             "crew_name": "花海幼儿园",
             "equipping_title": "1_1_28_1",
             "gender": 1,
-            "hp": 1329124.25,
-            "last_seen": "2025年11月25日 上午 1:01:26",
+            "hp": 2257881.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325870.09375,
+                "y": 203038.53125,
+                "z": -28328.728515625
+            },
+            "last_seen": "2026年2月20日 下午8:59:53",
             "level": 100,
             "name": "少女好饭量",
             "name_history": [
@@ -2714,6 +2723,31 @@
             ],
             "registered": "2025年5月20日 下午4:57:17",
             "role_id": 62285617695950,
+            "server_region": "ark-calculus"
+        },
+        "62285617697434": {
+            "crew_history": [
+                "蓝桉与槐"
+            ],
+            "crew_id": 2186138368265,
+            "crew_name": "蓝桉与槐",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2387713.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323735.28125,
+                "y": 203645.890625,
+                "z": -28362.3203125
+            },
+            "last_seen": "2026年2月20日 下午8:59:53",
+            "level": 100,
+            "name": "中控闪击牢三",
+            "name_history": [
+                "中控闪击牢三"
+            ],
+            "registered": "2025年6月3日 下午8:13:53",
+            "role_id": 62285617697434,
             "server_region": "ark-calculus"
         },
         "62285617715589": {
@@ -10310,14 +10344,14 @@
             "crew_name": "有点想吃西瓜",
             "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 2245753.5,
+            "hp": 2205582.25,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325141.6875,
-                "y": 204272.109375,
+                "x": -325261.375,
+                "y": 204276.8125,
                 "z": -28327.30859375
             },
-            "last_seen": "2026年2月20日 下午8:41:42",
+            "last_seen": "2026年2月20日 下午8:59:53",
             "level": 100,
             "name": "灵若歆",
             "name_history": [
@@ -11747,7 +11781,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 648,
-    "last_updated": "2026年2月20日 下午8:58:53",
+    "accounts_total": 649,
+    "last_updated": "2026年2月20日 下午8:59:53",
     "server_region": "ark-calculus"
 }
