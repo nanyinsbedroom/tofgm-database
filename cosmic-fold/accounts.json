@@ -56278,13 +56278,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695965273": {
-            "crew_id": 3148211042772,
-            "crew_name": "可爱",
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 505961.1875,
-            "last_seen": "2026年01月27日 上午 7:51:22",
-            "level": 77,
+            "hp": 888603.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97877.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 79,
             "name": "Baolan",
             "name_history": [
                 "Baolan"
@@ -57899,6 +57908,106 @@
             ],
             "registered": "2025年11月30日 下午10:32:33",
             "role_id": 63582695970098,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970099": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78240.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1758.3099365234375,
+                "y": -28657.919921875,
+                "z": 97884.734375
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 62,
+            "name": "西瓜十三",
+            "name_history": [
+                "西瓜十三"
+            ],
+            "registered": "2025年11月30日 下午10:34:26",
+            "role_id": 63582695970099,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970102": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78240.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1804.5999755859375,
+                "y": -28649.69921875,
+                "z": 97877.6953125
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 62,
+            "name": "西瓜14",
+            "name_history": [
+                "西瓜14"
+            ],
+            "registered": "2025年11月30日 下午10:36:05",
+            "role_id": 63582695970102,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970104": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79745.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1750.199951171875,
+                "y": -28659.599609375,
+                "z": 97878.734375
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 62,
+            "name": "西瓜15",
+            "name_history": [
+                "西瓜15"
+            ],
+            "registered": "2025年11月30日 下午10:37:35",
+            "role_id": 63582695970104,
+            "server_region": "cosmic-fold"
+        },
+        "63582695970106": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 78240.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1718.0999755859375,
+                "y": -28741.3984375,
+                "z": 97884.6796875
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 62,
+            "name": "西瓜16",
+            "name_history": [
+                "西瓜16"
+            ],
+            "registered": "2025年11月30日 下午10:38:55",
+            "role_id": 63582695970106,
             "server_region": "cosmic-fold"
         },
         "63582695970107": {
@@ -66753,13 +66862,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696004249": {
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 184178.0,
-            "last_seen": "2026年2月8日 下午9:52:44",
-            "level": 63,
+            "hp": 256777.40625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97878.1171875
+            },
+            "last_seen": "2026年2月20日 下午11:50:13",
+            "level": 77,
             "name": "休塔尔克",
             "name_history": [
                 "休塔尔克"
@@ -69238,7 +69356,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4967,
-    "last_updated": "2026年2月20日 下午11:49:13",
+    "accounts_total": 4971,
+    "last_updated": "2026年2月20日 下午11:50:13",
     "server_region": "cosmic-fold"
 }
