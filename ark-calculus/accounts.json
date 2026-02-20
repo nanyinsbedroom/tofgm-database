@@ -62,12 +62,21 @@
             "server_region": "ark-calculus"
         },
         "60563335187470": {
+            "crew_history": [
+                "九天谕"
+            ],
             "crew_id": 60129556749,
             "crew_name": "九天谕",
             "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 1284585.625,
-            "last_seen": "2026年2月12日 下午6:06:30",
+            "hp": 1309596.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 352.3800048828125,
+                "y": -29223.16015625,
+                "z": 97888.3984375
+            },
+            "last_seen": "2026年2月20日 下午9:33:55",
             "level": 100,
             "name": "漫星沉霭",
             "name_history": [
@@ -12346,6 +12355,6 @@
         }
     },
     "accounts_total": 669,
-    "last_updated": "2026年2月20日 下午9:26:54",
+    "last_updated": "2026年2月20日 下午9:33:55",
     "server_region": "ark-calculus"
 }
