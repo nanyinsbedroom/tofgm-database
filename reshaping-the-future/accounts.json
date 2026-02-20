@@ -590,14 +590,14 @@
             "crew_name": "心愿岛",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 3346774.0,
+            "hp": 2248344.75,
             "last_known_position": {
-                "map": "city",
-                "x": 1031.68994140625,
-                "y": -16314.349609375,
-                "z": 96350.28125
+                "map": "QRSL_P",
+                "x": -55158.19921875,
+                "y": -87044.0390625,
+                "z": 21717.48046875
             },
-            "last_seen": "2026年2月14日 下午8:13:06",
+            "last_seen": "2026年2月20日 下午10:14:08",
             "level": 100,
             "name": "风景37号",
             "name_history": [
@@ -1014,6 +1014,31 @@
             "name": "功名#a",
             "registered": "2021年12月16日 上午8:30:42",
             "role_id": 62324270441099,
+            "server_region": "reshaping-the-future"
+        },
+        "62328565440878": {
+            "crew_history": [
+                "旧巷的猫"
+            ],
+            "crew_id": 18859201411338,
+            "crew_name": "旧巷的猫",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2343131.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55266.98046875,
+                "y": -87113.6171875,
+                "z": 21725.96875
+            },
+            "last_seen": "2026年2月20日 下午10:14:08",
+            "level": 100,
+            "name": "光淺",
+            "name_history": [
+                "光淺"
+            ],
+            "registered": "2021年12月20日 下午7:57:22",
+            "role_id": 62328565440878,
             "server_region": "reshaping-the-future"
         },
         "62337155342402": {
@@ -6053,6 +6078,31 @@
             "role_id": 62715114587769,
             "server_region": "reshaping-the-future"
         },
+        "62715114588079": {
+            "crew_history": [
+                "微光"
+            ],
+            "crew_id": 944892819823,
+            "crew_name": "微光",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 854422.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54558.72265625,
+                "y": -86062.8046875,
+                "z": 22226.837890625
+            },
+            "last_seen": "2026年2月20日 下午10:14:08",
+            "level": 70,
+            "name": "260214",
+            "name_history": [
+                "260214"
+            ],
+            "registered": "2026年2月14日 上午11:07:50",
+            "role_id": 62715114588079,
+            "server_region": "reshaping-the-future"
+        },
         "62715114588586": {
             "crew_history": [],
             "crew_id": 0,
@@ -10747,7 +10797,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 551,
-    "last_updated": "2026年2月20日 下午10:13:08",
+    "accounts_total": 553,
+    "last_updated": "2026年2月20日 下午10:14:08",
     "server_region": "reshaping-the-future"
 }
