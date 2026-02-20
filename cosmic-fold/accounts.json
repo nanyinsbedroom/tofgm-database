@@ -68331,20 +68331,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696006459": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "休闲"
+            ],
+            "crew_id": 3384434244052,
+            "crew_name": "休闲",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 97798.5234375,
+            "hp": 300456.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -91711.0546875,
-                "y": 76445.140625,
-                "z": -7075.1298828125
+                "map": "city",
+                "x": 9287.810546875,
+                "y": -31548.158203125,
+                "z": 100227.3046875
             },
-            "last_seen": "2026年2月16日 上午12:11:14",
-            "level": 50,
+            "last_seen": "2026年2月21日 上午1:27:18",
+            "level": 67,
             "name": "奥利给线特",
             "name_history": [
                 "奥利给线特"
@@ -70100,6 +70102,6 @@
         }
     },
     "accounts_total": 4994,
-    "last_updated": "2026年2月21日 上午1:25:18",
+    "last_updated": "2026年2月21日 上午1:27:18",
     "server_region": "cosmic-fold"
 }
