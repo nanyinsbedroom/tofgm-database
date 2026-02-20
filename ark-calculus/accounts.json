@@ -9317,12 +9317,21 @@
             "server_region": "ark-calculus"
         },
         "62736587420525": {
+            "crew_history": [
+                "东方幻想乡"
+            ],
             "crew_id": 128849033487,
             "crew_name": "东方幻想乡",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_51",
             "gender": 0,
-            "hp": 1761791.25,
-            "last_seen": "2025年11月23日 下午 11:46:47",
+            "hp": 2822200.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325592.625,
+                "y": 205119.53125,
+                "z": -28335.859375
+            },
+            "last_seen": "2026年2月20日 下午9:48:55",
             "level": 100,
             "name": "小微笑",
             "name_history": [
@@ -9613,6 +9622,31 @@
             "name": "玲玲荧",
             "registered": "2023年1月12日 上午9:45:51",
             "role_id": 62736587521112,
+            "server_region": "ark-calculus"
+        },
+        "62736587522587": {
+            "crew_history": [
+                "合欢宗"
+            ],
+            "crew_id": 4294981902,
+            "crew_name": "合欢宗",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 2375330.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -321724.0625,
+                "y": 197099.15625,
+                "z": -28868.458984375
+            },
+            "last_seen": "2026年2月20日 下午9:48:55",
+            "level": 100,
+            "name": "SecretArms",
+            "name_history": [
+                "SecretArms"
+            ],
+            "registered": "2023年1月12日 下午4:52:57",
+            "role_id": 62736587522587,
             "server_region": "ark-calculus"
         },
         "62736587527868": {
@@ -9949,6 +9983,31 @@
             ],
             "registered": "2023年2月13日 上午12:22:09",
             "role_id": 62745177265256,
+            "server_region": "ark-calculus"
+        },
+        "62745177270750": {
+            "crew_history": [
+                "凉舍"
+            ],
+            "crew_id": 12884916494,
+            "crew_name": "凉舍",
+            "equipping_title": "1_1_27_1",
+            "gender": 1,
+            "hp": 2893536.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325205.21875,
+                "y": 203995.59375,
+                "z": -28322.80859375
+            },
+            "last_seen": "2026年2月20日 下午9:48:55",
+            "level": 100,
+            "name": "yzls",
+            "name_history": [
+                "yzls"
+            ],
+            "registered": "2023年2月13日 下午9:29:57",
+            "role_id": 62745177270750,
             "server_region": "ark-calculus"
         },
         "62745177271201": {
@@ -12788,7 +12847,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 686,
-    "last_updated": "2026年2月20日 下午9:47:55",
+    "accounts_total": 688,
+    "last_updated": "2026年2月20日 下午9:48:55",
     "server_region": "ark-calculus"
 }
