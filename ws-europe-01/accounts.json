@@ -4840,14 +4840,14 @@
             "crew_name": "Asylum",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 1129260.0,
+            "hp": 2510048.0,
             "last_known_position": {
-                "map": "city",
-                "x": 958.699951171875,
-                "y": -28267.19921875,
-                "z": 97866.1171875
+                "map": "Kailo_P_003",
+                "x": 85542.3984375,
+                "y": -190048.390625,
+                "z": -5338.4404296875
             },
-            "last_seen": "Feb 19, 2026, 9:14:31 PM",
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
             "level": 76,
             "name": "كتكات",
             "name_history": [
@@ -6144,15 +6144,15 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_8_0_7",
             "gender": 0,
-            "hp": 1061362.125,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1661.239990234375,
-                "y": -24962.76953125,
-                "z": 97872.6171875
+                "map": "Kailo_P_003",
+                "x": 94895.28125,
+                "y": -188572.40625,
+                "z": -8084.8701171875
             },
-            "last_seen": "Feb 14, 2026, 11:08:29 AM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "DэDэ",
             "name_history": [
                 "DэDэ"
@@ -9398,15 +9398,15 @@
             "crew_name": "Bad Company",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1015864.25,
+            "hp": 2465473.5,
             "last_known_position": {
-                "map": "city",
-                "x": -2762.552490234375,
-                "y": -27161.279296875,
-                "z": 97512.421875
+                "map": "Kailo_P_003",
+                "x": 87987.421875,
+                "y": -169412.859375,
+                "z": -3799.76220703125
             },
-            "last_seen": "Feb 15, 2026, 9:40:15 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "Tekisora",
             "name_history": [
                 "Tekisora"
@@ -9493,15 +9493,15 @@
             "crew_name": "Bad Company",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 961296.1875,
+            "hp": 2233455.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1584.1199951171875,
-                "y": -28010.259765625,
-                "z": 97866.1171875
+                "map": "Kailo_P_003",
+                "x": 89992.1953125,
+                "y": -169333.90625,
+                "z": -4244.6875
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "_haru",
             "name_history": [
                 "_haru"
@@ -12028,6 +12028,31 @@
             "role_id": 38174111708491575,
             "server_region": "ws-europe-01"
         },
+        "38174111708491586": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "NewRow",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96689.5859375,
+                "y": -174665.3125,
+                "z": -4778.294921875
+            },
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
+            "name": "gothrussia",
+            "name_history": [
+                "gothrussia"
+            ],
+            "registered": "Nov 26, 2025, 7:14:40 PM",
+            "role_id": 38174111708491586,
+            "server_region": "ws-europe-01"
+        },
         "38174111708491592": {
             "crew_history": [
                 "Bad Company"
@@ -12036,15 +12061,15 @@
             "crew_name": "Bad Company",
             "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 1024927.375,
+            "hp": 3120000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 2150.08984375,
-                "y": -28193.6796875,
-                "z": 97952.875
+                "map": "Kailo_P_003",
+                "x": 87919.109375,
+                "y": -169632.109375,
+                "z": -3808.056640625
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "Nauru",
             "name_history": [
                 "Nauru"
@@ -12572,11 +12597,11 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 111180.1875,
-                "y": -185334.765625,
-                "z": -5002.72802734375
+                "x": 91640.1796875,
+                "y": -193044.46875,
+                "z": -4845.544921875
             },
-            "last_seen": "Feb 19, 2026, 9:39:33 PM",
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
             "level": 75,
             "name": "Quolkeh",
             "name_history": [
@@ -12732,17 +12757,17 @@
             ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "None",
+            "equipping_title": "Reeses's Mentor,0",
             "gender": 0,
-            "hp": 1070832.75,
+            "hp": 3232289.25,
             "last_known_position": {
-                "map": "city",
-                "x": 77.8499984741211,
-                "y": -22139.458984375,
-                "z": 96757.8515625
+                "map": "Kailo_P_003",
+                "x": 91790.0703125,
+                "y": -192922.03125,
+                "z": -4874.43505859375
             },
-            "last_seen": "Feb 15, 2026, 8:57:13 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "SPARK1",
             "name_history": [
                 "SPARK1"
@@ -13636,13 +13661,22 @@
             "server_region": "ws_europe_01"
         },
         "38174111708498506": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "2_8_0_3",
+            "equipping_title": "2_10_1_9",
             "gender": 1,
-            "hp": 923488.9375,
-            "last_seen": "Feb 8, 2026, 7:24:40 PM",
-            "level": 74,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106603.2265625,
+                "y": -184823.125,
+                "z": -5386.10009765625
+            },
+            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "level": 76,
             "name": "toni324",
             "name_history": [
                 "toni324"
@@ -20826,7 +20860,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1172,
-    "last_updated": "Feb 20, 2026, 9:22:49 PM",
+    "accounts_total": 1173,
+    "last_updated": "Feb 20, 2026, 9:23:49 PM",
     "server_region": "ws-europe-01"
 }
