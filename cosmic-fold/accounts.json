@@ -42934,13 +42934,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695915946": {
-            "crew_id": 2478196144596,
-            "crew_name": "星月茶会",
-            "equipping_title": "None",
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 85899360724,
+            "crew_name": "樱花庄",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 176843.0,
-            "last_seen": "2026年01月28日 上午 5:57:20",
-            "level": 78,
+            "hp": 978883.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1710.7999267578125,
+                "y": -28754.0,
+                "z": 97879.6796875
+            },
+            "last_seen": "2026年2月21日 上午2:07:20",
+            "level": 81,
             "name": "无限大高手",
             "name_history": [
                 "无限大高手"
@@ -70637,6 +70646,6 @@
         }
     },
     "accounts_total": 5014,
-    "last_updated": "2026年2月21日 上午2:04:20",
+    "last_updated": "2026年2月21日 上午2:07:20",
     "server_region": "cosmic-fold"
 }
