@@ -61483,20 +61483,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695992473": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
             "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;37",
             "gender": 1,
-            "hp": 790786.25,
+            "hp": 838421.625,
             "last_known_position": {
                 "map": "city",
-                "x": -1790.7899169921875,
-                "y": -28693.0,
-                "z": 97865.6640625
+                "x": -1768.409912109375,
+                "y": -28696.80859375,
+                "z": 97865.546875
             },
-            "last_seen": "2026年2月18日 上午12:17:22",
-            "level": 83,
+            "last_seen": "2026年2月21日 上午12:25:15",
+            "level": 84,
             "name": "演绎乄孓涩",
             "name_history": [
                 "演绎乄孓涩"
@@ -68479,6 +68481,31 @@
             "role_id": 63582696007334,
             "server_region": "cosmic-fold"
         },
+        "63582696007375": {
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 91486.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2374.739990234375,
+                "y": -27006.62890625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:25:15",
+            "level": 67,
+            "name": "月有盈缺",
+            "name_history": [
+                "月有盈缺"
+            ],
+            "registered": "2026年2月11日 下午10:09:52",
+            "role_id": 63582696007375,
+            "server_region": "cosmic-fold"
+        },
         "63582696007475": {
             "crew_history": [],
             "crew_id": 0,
@@ -68753,11 +68780,11 @@
             "hp": 210839.59375,
             "last_known_position": {
                 "map": "city",
-                "x": 1299.77001953125,
-                "y": -28202.599609375,
+                "x": 2287.199951171875,
+                "y": -27155.0,
                 "z": 97877.1171875
             },
-            "last_seen": "2026年2月20日 上午2:04:27",
+            "last_seen": "2026年2月21日 上午12:25:15",
             "level": 82,
             "name": "香辣大盘鸡",
             "name_history": [
@@ -69708,7 +69735,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4981,
-    "last_updated": "2026年2月21日 上午12:24:15",
+    "accounts_total": 4982,
+    "last_updated": "2026年2月21日 上午12:25:15",
     "server_region": "cosmic-fold"
 }
