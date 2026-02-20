@@ -55341,13 +55341,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695962436": {
-            "crew_id": 3148211042772,
-            "crew_name": "可爱",
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 737619.5,
-            "last_seen": "2026年01月25日 上午 4:43:30",
-            "level": 77,
+            "hp": 743861.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1412.5999755859375,
+                "y": -28222.298828125,
+                "z": 97885.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:09:14",
+            "level": 78,
             "name": "Doran",
             "name_history": [
                 "Doran"
@@ -55379,6 +55388,31 @@
             ],
             "registered": "2025年11月19日 下午3:31:54",
             "role_id": 63582695962438,
+            "server_region": "cosmic-fold"
+        },
+        "63582695962440": {
+            "crew_history": [
+                "IG"
+            ],
+            "crew_id": 3388729211348,
+            "crew_name": "IG",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 793504.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1374.2999267578125,
+                "y": -28240.0,
+                "z": 97885.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:09:14",
+            "level": 79,
+            "name": "Oner",
+            "name_history": [
+                "Oner"
+            ],
+            "registered": "2025年11月19日 下午3:34:42",
+            "role_id": 63582695962440,
             "server_region": "cosmic-fold"
         },
         "63582695962449": {
@@ -69608,7 +69642,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4978,
-    "last_updated": "2026年2月21日 上午12:08:14",
+    "accounts_total": 4979,
+    "last_updated": "2026年2月21日 上午12:09:14",
     "server_region": "cosmic-fold"
 }
