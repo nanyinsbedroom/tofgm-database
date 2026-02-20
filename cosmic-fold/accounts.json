@@ -10679,14 +10679,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695856014": {
-            "crew_id": 30064785876,
-            "crew_name": "魔女之旅",
-            "equipping_title": "None",
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "梦之灵慕楠君的导师,0",
             "gender": 1,
-            "hp": 495778.40625,
-            "last_seen": "2025年10月18日 下午 3:25:38",
-            "level": 61,
+            "hp": 1253954.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:54:17",
+            "level": 84,
             "name": "Delong",
+            "name_history": [
+                "Delong"
+            ],
             "registered": "2025年9月25日 下午7:20:39",
             "role_id": 63582695856014,
             "server_region": "cosmic-fold"
@@ -69932,6 +69944,6 @@
         }
     },
     "accounts_total": 4989,
-    "last_updated": "2026年2月21日 上午12:53:17",
+    "last_updated": "2026年2月21日 上午12:54:17",
     "server_region": "cosmic-fold"
 }
