@@ -3635,13 +3635,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851567": {
+            "crew_history": [
+                "NOVA学院"
+            ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 1088753.75,
-            "last_seen": "2026年01月25日 上午 3:34:30",
-            "level": 79,
+            "hp": 1250661.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 590.1699829101563,
+                "y": -28171.5390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:24:15",
+            "level": 83,
             "name": "Violet",
             "name_history": [
                 "Violet"
@@ -31839,11 +31848,11 @@
             "hp": 1202349.625,
             "last_known_position": {
                 "map": "city",
-                "x": 2363.800048828125,
-                "y": -26728.298828125,
+                "x": 1357.0,
+                "y": -28250.0,
                 "z": 97881.140625
             },
-            "last_seen": "2026年2月20日 上午2:18:28",
+            "last_seen": "2026年2月21日 上午12:24:15",
             "level": 83,
             "name": "妹妹",
             "name_history": [
@@ -69700,6 +69709,6 @@
         }
     },
     "accounts_total": 4981,
-    "last_updated": "2026年2月21日 上午12:21:15",
+    "last_updated": "2026年2月21日 上午12:24:15",
     "server_region": "cosmic-fold"
 }
