@@ -54945,13 +54945,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695958116": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 331748.0625,
-            "last_seen": "2026年2月9日 上午1:56:01",
-            "level": 75,
+            "hp": 338818.46875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1760.6031494140625,
+                "y": -28698.802734375,
+                "z": 97873.6796875
+            },
+            "last_seen": "2026年2月21日 上午2:28:21",
+            "level": 80,
             "name": "円批",
             "name_history": [
                 "円批"
@@ -55610,13 +55619,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695960567": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 349597.1875,
-            "last_seen": "2026年2月9日 上午1:56:01",
-            "level": 75,
+            "hp": 357846.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1793.5,
+                "y": -28658.69921875,
+                "z": 97876.6953125
+            },
+            "last_seen": "2026年2月21日 上午2:28:21",
+            "level": 80,
             "name": "原神nb",
             "name_history": [
                 "原神nb"
@@ -55626,13 +55644,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695960569": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 85899360724,
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 382194.9375,
-            "last_seen": "2026年2月9日 上午1:56:01",
-            "level": 75,
+            "hp": 392015.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1769.302978515625,
+                "y": -28668.703125,
+                "z": 97878.7109375
+            },
+            "last_seen": "2026年2月21日 上午2:28:21",
+            "level": 80,
             "name": "糯米鸡",
             "name_history": [
                 "糯米鸡"
@@ -71067,6 +71094,6 @@
         }
     },
     "accounts_total": 5025,
-    "last_updated": "2026年2月21日 上午2:25:21",
+    "last_updated": "2026年2月21日 上午2:28:21",
     "server_region": "cosmic-fold"
 }
