@@ -45545,14 +45545,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_7_0_18",
             "gender": 1,
-            "hp": 1547503.125,
+            "hp": 1548042.0,
             "last_known_position": {
                 "map": "city",
-                "x": -1938.0198974609375,
-                "y": -24364.419921875,
-                "z": 97868.828125
+                "x": 606.1099853515625,
+                "y": -22406.400390625,
+                "z": 96741.375
             },
-            "last_seen": "2026年2月20日 上午2:19:28",
+            "last_seen": "2026年2月21日 上午12:03:14",
             "level": 84,
             "name": "Ryougi",
             "name_history": [
@@ -58970,13 +58970,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695979618": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1206485.5,
-            "last_seen": "2026年2月9日 下午8:02:30",
-            "level": 82,
+            "hp": 1336470.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 606.1099853515625,
+                "y": -22406.400390625,
+                "z": 96744.875
+            },
+            "last_seen": "2026年2月21日 上午12:03:14",
+            "level": 84,
             "name": "老子也是限量版",
             "name_history": [
                 "老子也是限量版"
@@ -69509,6 +69518,6 @@
         }
     },
     "accounts_total": 4975,
-    "last_updated": "2026年2月21日 上午12:02:14",
+    "last_updated": "2026年2月21日 上午12:03:14",
     "server_region": "cosmic-fold"
 }
