@@ -2058,13 +2058,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850818": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1381975.75,
-            "last_seen": "2026年02月01日 上午 6:35:56",
-            "level": 81,
+            "hp": 1468826.25,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36346.98828125,
+                "y": 1673.159912109375,
+                "z": -13805.66015625
+            },
+            "last_seen": "2026年2月20日 下午11:27:12",
+            "level": 83,
             "name": "瓶盖",
             "name_history": [
                 "瓶盖"
@@ -4520,6 +4529,31 @@
             "name": "云羽洛丶",
             "registered": "2025年9月25日 下午6:22:52",
             "role_id": 63582695851962,
+            "server_region": "cosmic-fold"
+        },
+        "63582695851963": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 179432.609375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36399.390625,
+                "y": 1634.919921875,
+                "z": -13802.849609375
+            },
+            "last_seen": "2026年2月20日 下午11:27:12",
+            "level": 70,
+            "name": "妥协的妻子",
+            "name_history": [
+                "妥协的妻子"
+            ],
+            "registered": "2025年9月25日 下午6:22:52",
+            "role_id": 63582695851963,
             "server_region": "cosmic-fold"
         },
         "63582695851964": {
@@ -39563,14 +39597,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695905296": {
-            "crew_id": 403726940628,
-            "crew_name": "可爱",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 426930.1875,
-            "last_seen": "2025年10月18日 下午 2:36:35",
-            "level": 59,
-            "name": "新手梨花",
+            "hp": 1410612.25,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36399.2578125,
+                "y": 1700.7099609375,
+                "z": -13792.69921875
+            },
+            "last_seen": "2026年2月20日 下午11:27:12",
+            "level": 82,
+            "name": "魅惑小恶魔",
+            "name_history": [
+                "魅惑小恶魔"
+            ],
             "registered": "2025年10月4日 上午9:29:15",
             "role_id": 63582695905296,
             "server_region": "cosmic-fold"
@@ -54333,6 +54379,31 @@
             "role_id": 63582695960660,
             "server_region": "cosmic-fold"
         },
+        "63582695960891": {
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 947922.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35813.12890625,
+                "y": 9557.1396484375,
+                "z": -14014.9697265625
+            },
+            "last_seen": "2026年2月20日 下午11:27:12",
+            "level": 82,
+            "name": "烤鱼",
+            "name_history": [
+                "烤鱼"
+            ],
+            "registered": "2025年11月16日 下午4:05:20",
+            "role_id": 63582695960891,
+            "server_region": "cosmic-fold"
+        },
         "63582695960966": {
             "crew_id": 188978575828,
             "crew_name": "星痕共鸣",
@@ -66498,19 +66569,19 @@
             "crew_history": [
                 "天使社"
             ],
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "卟卟的学徒,0",
             "gender": 1,
-            "hp": 255603.59375,
+            "hp": 339776.375,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -33728.890625,
-                "y": 7382.40966796875,
-                "z": -13163.8701171875
+                "x": -34837.9375,
+                "y": 3443.260009765625,
+                "z": -13160.6796875
             },
-            "last_seen": "2026年2月19日 上午12:39:39",
-            "level": 61,
+            "last_seen": "2026年2月20日 下午11:27:12",
+            "level": 73,
             "name": "broken",
             "name_history": [
                 "broken"
@@ -68503,7 +68574,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 4944,
-    "last_updated": "2026年2月20日 下午3:25:14",
+    "accounts_total": 4946,
+    "last_updated": "2026年2月20日 下午11:27:12",
     "server_region": "cosmic-fold"
 }
