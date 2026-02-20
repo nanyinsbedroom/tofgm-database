@@ -20788,13 +20788,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695862823": {
+            "crew_history": [
+                "NOVA学院"
+            ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1460807.125,
-            "last_seen": "2026年2月10日 上午12:56:51",
-            "level": 82,
+            "hp": 1503603.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月21日 上午12:33:16",
+            "level": 84,
             "name": "九条命",
             "name_history": [
                 "九条命"
@@ -69736,6 +69745,6 @@
         }
     },
     "accounts_total": 4982,
-    "last_updated": "2026年2月21日 上午12:30:16",
+    "last_updated": "2026年2月21日 上午12:33:16",
     "server_region": "cosmic-fold"
 }
