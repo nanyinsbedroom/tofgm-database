@@ -3077,11 +3077,11 @@
             "hp": 6133062.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 102136.8359375,
-                "y": -188282.171875,
-                "z": -7701.06005859375
+                "x": 100382.359375,
+                "y": -181224.578125,
+                "z": -7470.005859375
             },
-            "last_seen": "Feb 21, 2026, 7:38:48 PM",
+            "last_seen": "Feb 21, 2026, 10:42:00 PM",
             "level": 100,
             "name": "Inorinae",
             "name_history": [
@@ -10933,12 +10933,21 @@
             "server_region": "southeast-asia"
         },
         "68766721415755": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
             "equipping_title": "2_2_0_79",
             "gender": 1,
-            "hp": 2500447.75,
-            "last_seen": "Jan 02, 2026, 07:19:50 AM",
+            "hp": 6310051.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 110507.953125,
+                "y": -178230.53125,
+                "z": -5203.85986328125
+            },
+            "last_seen": "Feb 21, 2026, 10:42:00 PM",
             "level": 100,
             "name": "Jazzberry",
             "name_history": [
@@ -29379,6 +29388,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 21, 2026, 10:41:00 PM",
+    "last_updated": "Feb 21, 2026, 10:42:00 PM",
     "server_region": "southeast-asia"
 }
