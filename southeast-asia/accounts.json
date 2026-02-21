@@ -17819,12 +17819,21 @@
             "server_region": "southeast-asia"
         },
         "68775311746707": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
             "equipping_title": "Exy.'s Apprentice,0",
             "gender": 1,
-            "hp": 987504.8125,
-            "last_seen": [],
+            "hp": 989036.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 505.0799865722656,
+                "y": -17418.650390625,
+                "z": 96343.78125
+            },
+            "last_seen": "Feb 21, 2026, 7:46:48 PM",
             "level": 100,
             "name": "notxrosa",
             "name_history": [
@@ -29360,6 +29369,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 21, 2026, 7:45:48 PM",
+    "last_updated": "Feb 21, 2026, 7:46:48 PM",
     "server_region": "southeast-asia"
 }
