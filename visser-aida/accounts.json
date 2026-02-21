@@ -7869,12 +7869,21 @@
             "server_region": "visser-aida"
         },
         "60649233252831": {
-            "crew_id": 25769817880,
-            "crew_name": "白晝梦",
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 266287986476,
+            "crew_name": "星奈海",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1758648.25,
-            "last_seen": "2026年02月01日 上午 7:13:04",
+            "hp": 1776182.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 767.8299560546875,
+                "y": -16981.958984375,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月21日 下午9:44:27",
             "level": 100,
             "name": "玉玉小稀",
             "name_history": [
@@ -12638,15 +12647,25 @@
             "server_region": "visser-aida"
         },
         "61435212224792": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 266287986476,
             "crew_name": "星奈海",
-            "equipping_title": "龙幽悠的后继者,1",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 2328824.5,
-            "last_seen": "2025年11月25日 上午 5:25:59",
+            "hp": 2428672.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -796.3299560546875,
+                "y": -16660.298828125,
+                "z": 96353.78125
+            },
+            "last_seen": "2026年2月21日 下午9:44:27",
             "level": 100,
-            "name": "热甜饼和冷牛奶",
+            "name": "星莉Sinly",
             "name_history": [
+                "星莉Sinly",
                 "热甜饼和冷牛奶"
             ],
             "registered": "2021年12月16日 下午3:44:00",
@@ -13923,16 +13942,16 @@
             ],
             "crew_id": 4294981499,
             "crew_name": "莉可丽丝",
-            "equipping_title": "1_6_0_1",
+            "equipping_title": "2_2_0_54",
             "gender": 1,
-            "hp": 2112585.0,
+            "hp": 1905571.125,
             "last_known_position": {
                 "map": "city",
-                "x": -190.34999084472656,
-                "y": -16669.26953125,
-                "z": 96362.03125
+                "x": -1149.7899169921875,
+                "y": -17030.71875,
+                "z": 96341.65625
             },
-            "last_seen": "2026年2月19日 上午12:12:36",
+            "last_seen": "2026年2月21日 下午9:44:27",
             "level": 100,
             "name": "魔法少女巧克力",
             "name_history": [
@@ -16249,6 +16268,6 @@
         }
     },
     "accounts_total": 1089,
-    "last_updated": "2026年2月21日 下午9:33:26",
+    "last_updated": "2026年2月21日 下午9:44:27",
     "server_region": "visser-aida"
 }
