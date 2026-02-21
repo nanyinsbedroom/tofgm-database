@@ -1121,14 +1121,14 @@
             "crew_name": "Architects",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 545283.0,
+            "hp": 524310.625,
             "last_known_position": {
                 "map": "city",
-                "x": -1806.5399169921875,
-                "y": -24488.900390625,
-                "z": 97872.328125
+                "x": -1654.89990234375,
+                "y": -24315.0,
+                "z": 97872.2890625
             },
-            "last_seen": "Feb 19, 2026, 9:32:32 PM",
+            "last_seen": "Feb 21, 2026, 11:38:12 PM",
             "level": 74,
             "name": "Trixiefix",
             "name_history": [
@@ -9042,11 +9042,11 @@
             "hp": 1114230.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1175.97998046875,
-                "y": -29263.55859375,
-                "z": 98619.15625
+                "x": 3214.659912109375,
+                "y": -28394.458984375,
+                "z": 96719.1953125
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 21, 2026, 11:38:12 PM",
             "level": 76,
             "name": "Mendell",
             "name_history": [
@@ -10941,6 +10941,31 @@
             ],
             "registered": "Nov 25, 2025, 10:20:16 PM",
             "role_id": 38174111708487952,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708487972": {
+            "crew_history": [
+                "ColdHeart"
+            ],
+            "crew_id": 98793135911,
+            "crew_name": "ColdHeart",
+            "equipping_title": "2_8_0_10",
+            "gender": 0,
+            "hp": 619608.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1710.2899169921875,
+                "y": -28002.958984375,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 21, 2026, 11:38:12 PM",
+            "level": 73,
+            "name": "Barbatixax",
+            "name_history": [
+                "Barbatixax"
+            ],
+            "registered": "Nov 25, 2025, 10:22:52 PM",
+            "role_id": 38174111708487972,
             "server_region": "ws-europe-01"
         },
         "38174111708487989": {
@@ -13442,14 +13467,14 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 1076254.875,
+            "hp": 1099026.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97872.6171875
+                "x": 3516.669921875,
+                "y": -28734.83984375,
+                "z": 96744.875
             },
-            "last_seen": "Feb 17, 2026, 8:28:49 AM",
+            "last_seen": "Feb 21, 2026, 11:38:12 PM",
             "level": 76,
             "name": "invite",
             "name_history": [
@@ -14110,14 +14135,14 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "1_6_4_35",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 1076752.375,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 84918.9453125,
-                "y": -188084.109375,
-                "z": -4307.107421875
+                "map": "city",
+                "x": 1088.50048828125,
+                "y": -27692.138671875,
+                "z": 97917.9453125
             },
-            "last_seen": "Feb 20, 2026, 9:31:49 PM",
+            "last_seen": "Feb 21, 2026, 11:38:12 PM",
             "level": 76,
             "name": "Ruri Hime",
             "name_history": [
@@ -21639,7 +21664,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1201,
-    "last_updated": "Feb 21, 2026, 7:31:00 PM",
+    "accounts_total": 1202,
+    "last_updated": "Feb 21, 2026, 11:38:12 PM",
     "server_region": "ws-europe-01"
 }
