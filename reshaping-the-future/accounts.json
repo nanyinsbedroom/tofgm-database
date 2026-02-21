@@ -3179,14 +3179,14 @@
             "crew_name": "魔女茶会",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1660323.75,
+            "hp": 1667899.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55281.01953125,
-                "y": -88367.9453125,
-                "z": 21717.548828125
+                "map": "city",
+                "x": 1545.7442626953125,
+                "y": -30668.6875,
+                "z": 97546.796875
             },
-            "last_seen": "2026年2月18日 下午10:15:34",
+            "last_seen": "2026年2月21日 下午8:39:05",
             "level": 100,
             "name": "电子雨",
             "name_history": [
@@ -8614,6 +8614,29 @@
             "role_id": 62715114592297,
             "server_region": "reshaping-the-future"
         },
+        "62715114592308": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 24579.98046875,
+            "last_known_position": {
+                "map": "city",
+                "x": 104.0,
+                "y": -19501.5703125,
+                "z": 96336.0390625
+            },
+            "last_seen": "2026年2月21日 下午8:39:05",
+            "level": 18,
+            "name": "你个…",
+            "name_history": [
+                "你个…"
+            ],
+            "registered": "2026年2月20日 下午9:43:12",
+            "role_id": 62715114592308,
+            "server_region": "reshaping-the-future"
+        },
         "62715114592318": {
             "crew_history": [],
             "crew_id": 0,
@@ -9413,11 +9436,26 @@
             "server_region": "reshaping-the-future"
         },
         "62719407838316": {
+            "crew_history": [
+                "魔女茶会"
+            ],
             "crew_id": 6824703047946,
             "crew_name": "魔女茶会",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "last_seen": "2025年09月26日 下午 2:03:40",
+            "hp": 1940262.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1019.7999877929688,
+                "y": -16713.099609375,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月21日 下午8:39:05",
+            "level": 100,
             "name": "烟暖笛声寒",
+            "name_history": [
+                "烟暖笛声寒"
+            ],
             "registered": "2022年6月12日 下午5:28:10",
             "role_id": 62719407838316,
             "server_region": "reshaping-the-future"
@@ -14347,7 +14385,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 694,
-    "last_updated": "2026年2月21日 下午8:38:05",
+    "accounts_total": 695,
+    "last_updated": "2026年2月21日 下午8:39:05",
     "server_region": "reshaping-the-future"
 }
