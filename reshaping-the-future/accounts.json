@@ -1033,14 +1033,14 @@
             "crew_name": "微雨问海棠",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2784510.75,
+            "hp": 2284177.25,
             "last_known_position": {
-                "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
-                "z": 96368.53125
+                "map": "QRSL_P",
+                "x": -55246.390625,
+                "y": -86881.6484375,
+                "z": 21717.44921875
             },
-            "last_seen": "2026年2月21日 下午3:58:46",
+            "last_seen": "2026年2月21日 下午4:19:37",
             "level": 100,
             "name": "繁星丶刹那",
             "name_history": [
@@ -4271,12 +4271,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715114235489": {
+            "crew_history": [
+                "炫飞萌"
+            ],
             "crew_id": 8439610751242,
             "crew_name": "炫飞萌",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 785562.1875,
-            "last_seen": "2025年11月25日 上午 1:53:17",
+            "hp": 848071.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54271.328125,
+                "y": -87866.390625,
+                "z": 21794.19921875
+            },
+            "last_seen": "2026年2月21日 下午4:19:37",
             "level": 100,
             "name": "洛华三千",
             "name_history": [
@@ -6074,6 +6083,29 @@
             ],
             "registered": "2025年11月26日 上午12:45:08",
             "role_id": 62715114572404,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114572456": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 410898.65625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52929.50390625,
+                "y": -95395.34375,
+                "z": 21736.0390625
+            },
+            "last_seen": "2026年2月21日 下午4:19:37",
+            "level": 44,
+            "name": "谷曲",
+            "name_history": [
+                "谷曲"
+            ],
+            "registered": "2025年11月26日 下午11:35:56",
+            "role_id": 62715114572456,
             "server_region": "reshaping-the-future"
         },
         "62715114572725": {
@@ -12574,7 +12606,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 623,
-    "last_updated": "2026年2月21日 下午4:18:37",
+    "accounts_total": 624,
+    "last_updated": "2026年2月21日 下午4:19:37",
     "server_region": "reshaping-the-future"
 }
