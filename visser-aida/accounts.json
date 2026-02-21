@@ -5439,12 +5439,21 @@
             "server_region": "visser-aida"
         },
         "60593398621247": {
+            "crew_history": [
+                "椿夏"
+            ],
             "crew_id": 21474850588,
             "crew_name": "椿夏",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2415868.25,
-            "last_seen": "2025年12月29日 上午 5:46:18",
+            "hp": 2248077.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54642.91796875,
+                "y": -87853.953125,
+                "z": 21856.66015625
+            },
+            "last_seen": "2026年2月21日 下午10:23:27",
             "level": 100,
             "name": "星★夜",
             "name_history": [
@@ -9333,12 +9342,21 @@
             "server_region": "visser-aida"
         },
         "60666413235196": {
+            "crew_history": [
+                "一堆大佬"
+            ],
             "crew_id": 416611841916,
             "crew_name": "一堆大佬",
             "equipping_title": "皮皮橘丶的学徒,0",
             "gender": 1,
-            "hp": 2850731.5,
-            "last_seen": "2026年2月12日 下午11:44:01",
+            "hp": 1883315.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55673.25,
+                "y": -88471.9453125,
+                "z": 21806.439453125
+            },
+            "last_seen": "2026年2月21日 下午10:23:27",
             "level": 100,
             "name": "一抹憨色",
             "name_history": [
@@ -14196,6 +14214,31 @@
             "role_id": 61452392075607,
             "server_region": "visser-aida"
         },
+        "61452392081359": {
+            "crew_history": [
+                "魔女的茶会"
+            ],
+            "crew_id": 64424523548,
+            "crew_name": "魔女的茶会",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2377151.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55102.98828125,
+                "y": -87297.7265625,
+                "z": 21717.458984375
+            },
+            "last_seen": "2026年2月21日 下午10:23:27",
+            "level": 100,
+            "name": "野生花",
+            "name_history": [
+                "野生花"
+            ],
+            "registered": "2021年12月16日 上午8:47:31",
+            "role_id": 61452392081359,
+            "server_region": "visser-aida"
+        },
         "61452392086728": {
             "crew_id": 0,
             "crew_name": "",
@@ -17618,7 +17661,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1139,
-    "last_updated": "2026年2月21日 下午10:22:27",
+    "accounts_total": 1140,
+    "last_updated": "2026年2月21日 下午10:23:27",
     "server_region": "visser-aida"
 }
