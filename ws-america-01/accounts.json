@@ -1652,11 +1652,11 @@
             "hp": 1075283.75,
             "last_known_position": {
                 "map": "city",
-                "x": 810.3999633789063,
-                "y": -28116.599609375,
+                "x": 760.8200073242188,
+                "y": -28204.119140625,
                 "z": 97866.1171875
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
             "level": 76,
             "name": "Altani",
             "name_history": [
@@ -1740,19 +1740,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512752": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
             "equipping_title": "Sleepy's Mentor,0",
             "gender": 0,
-            "hp": 1045669.625,
+            "hp": 1094294.5,
             "last_known_position": {
                 "map": "city",
-                "x": 188.92999267578125,
-                "y": -28440.66015625,
-                "z": 97866.1171875
+                "x": -2362.659912109375,
+                "y": -26976.5390625,
+                "z": 98583.1484375
             },
-            "last_seen": "Feb 13, 2026, 6:25:34 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
+            "level": 76,
             "name": "ⓑⓡⓤⓤⓗ",
             "name_history": [
                 "ⓑⓡⓤⓤⓗ"
@@ -14288,15 +14291,15 @@
             "crew_name": "Stray",
             "equipping_title": "AHAHAHAHAHA's Mentor,0",
             "gender": 1,
-            "hp": 1024651.6875,
+            "hp": 1069198.75,
             "last_known_position": {
                 "map": "city",
-                "x": 273.57000732421875,
-                "y": -22919.240234375,
+                "x": 420.79998779296875,
+                "y": -23505.3203125,
                 "z": 96705.6953125
             },
-            "last_seen": "Feb 15, 2026, 4:16:17 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
+            "level": 76,
             "name": "--Makaku--",
             "name_history": [
                 "--Makaku--"
@@ -17752,11 +17755,11 @@
             "hp": 572527.25,
             "last_known_position": {
                 "map": "city",
-                "x": -218.64999389648438,
-                "y": -17997.009765625,
-                "z": 96336.03125
+                "x": -61.28999710083008,
+                "y": -22960.83984375,
+                "z": 96712.1953125
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
             "level": 72,
             "name": "Ami",
             "name_history": [
@@ -23352,14 +23355,14 @@
             "crew_name": "Mishi-Raymi",
             "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1061100.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 84736.4765625,
-                "y": -183517.671875,
-                "z": -3208.079833984375
+                "map": "city",
+                "x": -1298.169921875,
+                "y": -24608.990234375,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 18, 2026, 10:10:27 PM",
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
             "level": 76,
             "name": "Larry★",
             "name_history": [
@@ -26404,6 +26407,31 @@
             "role_id": 38174107413581329,
             "server_region": "ws-america-01"
         },
+        "38174107413581351": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 798927.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1556.947265625,
+                "y": -24346.712890625,
+                "z": 97864.9140625
+            },
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
+            "level": 76,
+            "name": "Balrog",
+            "name_history": [
+                "Balrog"
+            ],
+            "registered": "Feb 5, 2026, 9:39:51 PM",
+            "role_id": 38174107413581351,
+            "server_region": "ws-america-01"
+        },
         "38174107413581404": {
             "crew_id": 0,
             "crew_name": "",
@@ -28151,9 +28179,32 @@
             "registered": "Feb 18, 2026, 10:49:16 PM",
             "role_id": 38174107413583172,
             "server_region": "ws-america-01"
+        },
+        "38174107413583230": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58432.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -117.69999694824219,
+                "y": -21934.099609375,
+                "z": 96744.3515625
+            },
+            "last_seen": "Feb 20, 2026, 10:55:32 PM",
+            "level": 13,
+            "name": "Rupee",
+            "name_history": [
+                "Rupee"
+            ],
+            "registered": "Feb 19, 2026, 1:12:55 PM",
+            "role_id": 38174107413583230,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1602,
-    "last_updated": "Feb 18, 2026, 11:22:53 PM",
+    "accounts_total": 1604,
+    "last_updated": "Feb 20, 2026, 10:55:32 PM",
     "server_region": "ws-america-01"
 }
