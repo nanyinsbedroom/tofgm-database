@@ -5562,14 +5562,14 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1164143.625,
+            "hp": 1105706.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54044.07421875,
-                "y": -88078.6484375,
+                "x": -54757.44921875,
+                "y": -88115.4765625,
                 "z": 21711.048828125
             },
-            "last_seen": "2026年2月18日 下午10:20:34",
+            "last_seen": "2026年2月21日 下午8:28:04",
             "level": 100,
             "name": "梨榆奈",
             "name_history": [
@@ -12595,14 +12595,26 @@
             "server_region": "reshaping-the-future"
         },
         "63148904385511": {
+            "crew_history": [
+                "花园乐土"
+            ],
             "crew_id": 1705102031215,
             "crew_name": "花园乐土",
-            "equipping_title": "3_2023",
+            "equipping_title": "2_2_0_77",
             "gender": 1,
-            "hp": 1375669.875,
-            "last_seen": "2025年10月26日 下午 4:05:17",
+            "hp": 1545705.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55692.37890625,
+                "y": -88360.2578125,
+                "z": 21717.3203125
+            },
+            "last_seen": "2026年2月21日 下午8:28:04",
             "level": 100,
             "name": "枫叶落矣",
+            "name_history": [
+                "枫叶落矣"
+            ],
             "registered": "2023年10月24日 下午2:53:59",
             "role_id": 63148904385511,
             "server_region": "reshaping-the-future"
@@ -14146,6 +14158,6 @@
         }
     },
     "accounts_total": 686,
-    "last_updated": "2026年2月21日 下午8:26:04",
+    "last_updated": "2026年2月21日 下午8:28:04",
     "server_region": "reshaping-the-future"
 }
