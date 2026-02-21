@@ -9237,12 +9237,21 @@
             "server_region": "visser-aida"
         },
         "60992830594019": {
+            "crew_history": [
+                "提瓦特料理"
+            ],
             "crew_id": 68719491049,
             "crew_name": "提瓦特料理",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2889806.5,
-            "last_seen": "2026年2月12日 下午11:43:04",
+            "hp": 1923391.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55178.5703125,
+                "y": -87062.9296875,
+                "z": 21724.458984375
+            },
+            "last_seen": "2026年2月21日 下午10:06:26",
             "level": 100,
             "name": "珠穆朗玛",
             "name_history": [
@@ -17035,6 +17044,6 @@
         }
     },
     "accounts_total": 1117,
-    "last_updated": "2026年2月21日 下午10:05:26",
+    "last_updated": "2026年2月21日 下午10:06:26",
     "server_region": "visser-aida"
 }
