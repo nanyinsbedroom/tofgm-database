@@ -2664,16 +2664,16 @@
             ],
             "crew_id": 992137461379,
             "crew_name": "ExilesMY",
-            "equipping_title": "ChinoAemeath's Successor,1",
+            "equipping_title": "ChinoHikari's Successor,1",
             "gender": 0,
-            "hp": 2375419.5,
+            "hp": 2561052.5,
             "last_known_position": {
                 "map": "city",
-                "x": -476.5999755859375,
-                "y": -17094.939453125,
-                "z": 96343.78125
+                "x": 36.23999786376953,
+                "y": -17911.830078125,
+                "z": 96329.53125
             },
-            "last_seen": "Feb 18, 2026, 7:05:44 PM",
+            "last_seen": "Feb 21, 2026, 10:41:00 PM",
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -9366,14 +9366,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2869543.25,
+            "hp": 2871337.0,
             "last_known_position": {
                 "map": "city",
-                "x": -83.12999725341797,
-                "y": -17965.51953125,
-                "z": 96322.78125
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96355.28125
             },
-            "last_seen": "Feb 21, 2026, 7:45:48 PM",
+            "last_seen": "Feb 21, 2026, 10:41:00 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -10903,17 +10903,18 @@
             "crew_name": "Oncilla",
             "equipping_title": "Exy.'s Enlightener,1",
             "gender": 1,
-            "hp": 2989623.5,
+            "hp": 2994699.0,
             "last_known_position": {
                 "map": "city",
-                "x": 605.1799926757813,
-                "y": -16752.0703125,
-                "z": 96343.78125
+                "x": -5.659999847412109,
+                "y": -17996.51953125,
+                "z": 96336.03125
             },
-            "last_seen": "Feb 19, 2026, 8:12:11 PM",
+            "last_seen": "Feb 21, 2026, 10:41:00 PM",
             "level": 100,
-            "name": "ChinoAemeath",
+            "name": "ChinoHikari",
             "name_history": [
+                "ChinoHikari",
                 "ChinoAemeath",
                 "Chino"
             ],
@@ -11202,11 +11203,11 @@
             "hp": 2684854.75,
             "last_known_position": {
                 "map": "city",
-                "x": 176.5399932861328,
-                "y": -19235.330078125,
+                "x": -83.61000061035156,
+                "y": -17910.0,
                 "z": 96336.03125
             },
-            "last_seen": "Feb 17, 2026, 11:03:17 PM",
+            "last_seen": "Feb 21, 2026, 10:41:00 PM",
             "level": 100,
             "name": "Inaurka",
             "name_history": [
@@ -12407,12 +12408,21 @@
             "server_region": "southeast-asia"
         },
         "68775311389750": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2712631.0,
-            "last_seen": "Feb 04, 2026, 05:17:36 AM",
+            "hp": 2716273.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 537.8999633789063,
+                "y": -17496.298828125,
+                "z": 96335.015625
+            },
+            "last_seen": "Feb 21, 2026, 10:41:00 PM",
             "level": 100,
             "name": "Coelica",
             "name_history": [
@@ -29369,6 +29379,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 21, 2026, 7:46:48 PM",
+    "last_updated": "Feb 21, 2026, 10:41:00 PM",
     "server_region": "southeast-asia"
 }
