@@ -1990,13 +1990,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512859": {
-            "crew_id": 38663593766,
-            "crew_name": "ACxBoba",
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1043962.625,
-            "last_seen": "Feb 5, 2026, 2:17:19 PM",
-            "level": 74,
+            "hp": 1208882.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1744.89990234375,
+                "y": -26682.8984375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 76,
             "name": "Komochi",
             "name_history": [
                 "Komochi"
@@ -3555,13 +3564,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413513760": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
-            "crew_name": "Dreamlight",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_064_world;2",
+            "crew_name": "Nyne Lives",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 829772.8125,
-            "last_seen": "Jan 26, 2026, 10:22:36 AM",
-            "level": 72,
+            "hp": 1047724.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1803.8399658203125,
+                "y": -27511.25,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 76,
             "name": "LuciDrealm",
             "name_history": [
                 "LuciDrealm"
@@ -5513,6 +5531,31 @@
             ],
             "registered": "Nov 25, 2025, 5:37:10 AM",
             "role_id": 38174107413515066,
+            "server_region": "ws-america-01"
+        },
+        "38174107413515073": {
+            "crew_history": [
+                "RedSuns"
+            ],
+            "crew_id": 231937122086,
+            "crew_name": "RedSuns",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1030043.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1341.8299560546875,
+                "y": -28280.01953125,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 76,
+            "name": "Fax..",
+            "name_history": [
+                "Fax.."
+            ],
+            "registered": "Nov 25, 2025, 5:37:27 AM",
+            "role_id": 38174107413515073,
             "server_region": "ws-america-01"
         },
         "38174107413515092": {
@@ -10595,11 +10638,11 @@
             "hp": 1111391.5,
             "last_known_position": {
                 "map": "city",
-                "x": 999.6399536132813,
-                "y": -28474.51953125,
+                "x": 1281.3699951171875,
+                "y": -28242.029296875,
                 "z": 97872.6171875
             },
-            "last_seen": "Feb 18, 2026, 8:24:36 PM",
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
             "level": 76,
             "name": "♥Nymph♥",
             "name_history": [
@@ -15823,13 +15866,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413527403": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1039518.8125,
-            "last_seen": "Feb 8, 2026, 4:00:15 PM",
-            "level": 74,
+            "hp": 1129047.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2462.7099609375,
+                "y": -25349.349609375,
+                "z": 98622.0703125
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 76,
             "name": "Suniaster",
             "name_history": [
                 "Suniaster"
@@ -17330,13 +17382,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413535705": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "hinode's Mentor,0",
             "gender": 0,
-            "hp": 1041166.3125,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
-            "level": 75,
+            "hp": 1100891.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1502.6986083984375,
+                "y": -27898.64453125,
+                "z": 97993.9609375
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 76,
             "name": "Kenmah",
             "name_history": [
                 "Kenmah"
@@ -17481,14 +17542,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_6_4_8",
             "gender": 1,
-            "hp": 957238.0625,
+            "hp": 993900.375,
             "last_known_position": {
                 "map": "city",
-                "x": -792.760009765625,
-                "y": -17053.240234375,
-                "z": 96350.28125
+                "x": 2044.1400146484375,
+                "y": -21826.080078125,
+                "z": 97280.3984375
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
             "level": 76,
             "name": "MissMal",
             "name_history": [
@@ -17496,6 +17557,31 @@
             ],
             "registered": "Nov 26, 2025, 6:57:44 PM",
             "role_id": 38174107413536142,
+            "server_region": "ws-america-01"
+        },
+        "38174107413536192": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "MillasLeftBoob's Mentor,0",
+            "gender": 1,
+            "hp": 1062430.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 2702.81884765625,
+                "y": -25988.28125,
+                "z": 98618.8671875
+            },
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
+            "level": 75,
+            "name": "Kiana Vayne",
+            "name_history": [
+                "Kiana Vayne"
+            ],
+            "registered": "Nov 26, 2025, 7:06:30 PM",
+            "role_id": 38174107413536192,
             "server_region": "ws-america-01"
         },
         "38174107413536509": {
@@ -18540,14 +18626,14 @@
             "crew_name": "Supernova",
             "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1093882.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 99979.9453125,
-                "y": -179854.671875,
-                "z": -7704.9697265625
+                "map": "city",
+                "x": -2850.369873046875,
+                "y": -25522.7890625,
+                "z": 96712.1953125
             },
-            "last_seen": "Feb 18, 2026, 8:34:37 PM",
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
             "level": 76,
             "name": "Chitose",
             "name_history": [
@@ -19127,11 +19213,11 @@
             "hp": 822375.6875,
             "last_known_position": {
                 "map": "city",
-                "x": -933.1300048828125,
-                "y": -22454.369140625,
-                "z": 96751.390625
+                "x": -1545.47998046875,
+                "y": -23203.21875,
+                "z": 96750.8359375
             },
-            "last_seen": "Feb 18, 2026, 8:25:36 PM",
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
             "level": 75,
             "name": "Josiani",
             "name_history": [
@@ -19724,20 +19810,21 @@
         },
         "38174107413549979": {
             "crew_history": [
+                "Sovereign",
                 "Supernova"
             ],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 0,
             "hp": 1071456.75,
             "last_known_position": {
                 "map": "city",
-                "x": -232.50999450683594,
-                "y": -22267.609375,
-                "z": 96758.375
+                "x": 192.4099884033203,
+                "y": -21743.650390625,
+                "z": 96757.8515625
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
+            "last_seen": "Feb 20, 2026, 10:58:32 PM",
             "level": 76,
             "name": "Niklaus",
             "name_history": [
@@ -28225,7 +28312,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1604,
-    "last_updated": "Feb 20, 2026, 10:57:32 PM",
+    "accounts_total": 1606,
+    "last_updated": "Feb 20, 2026, 10:58:32 PM",
     "server_region": "ws-america-01"
 }
