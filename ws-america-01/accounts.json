@@ -8883,13 +8883,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413517817": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
             "equipping_title": "1_6_4_25",
             "gender": 0,
-            "hp": 1076640.5,
-            "last_seen": "Feb 12, 2026, 5:25:54 PM",
-            "level": 75,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 90948.140625,
+                "y": -183980.0625,
+                "z": -7820.44970703125
+            },
+            "last_seen": "Feb 20, 2026, 10:56:32 PM",
+            "level": 76,
             "name": "Borg",
             "name_history": [
                 "Borg"
@@ -11212,11 +11221,11 @@
             "hp": 861379.3125,
             "last_known_position": {
                 "map": "city",
-                "x": 1355.1500244140625,
-                "y": -25170.859375,
+                "x": -206.89999389648438,
+                "y": -28247.279296875,
                 "z": 97877.1171875
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
+            "last_seen": "Feb 20, 2026, 10:56:32 PM",
             "level": 74,
             "name": "xSteelDaBestx",
             "name_history": [
@@ -12857,14 +12866,14 @@
             "crew_name": "Phantasia",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 2652000.0,
+            "hp": 968940.9375,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 98624.515625,
-                "y": -188737.96875,
-                "z": -7780.58984375
+                "map": "city",
+                "x": -1949.3699951171875,
+                "y": -24324.619140625,
+                "z": 97885.828125
             },
-            "last_seen": "Feb 18, 2026, 8:34:37 PM",
+            "last_seen": "Feb 20, 2026, 10:56:32 PM",
             "level": 76,
             "name": "Nym",
             "name_history": [
@@ -16952,19 +16961,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413534008": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1031709.125,
+            "hp": 1107406.5,
             "last_known_position": {
                 "map": "city",
-                "x": -88.75999450683594,
-                "y": -24545.228515625,
-                "z": 96720.4453125
+                "x": 3679.9599609375,
+                "y": -26509.69921875,
+                "z": 96908.6171875
             },
-            "last_seen": "Feb 13, 2026, 6:25:34 PM",
-            "level": 75,
+            "last_seen": "Feb 20, 2026, 10:56:32 PM",
+            "level": 76,
             "name": "NobreLinx",
             "name_history": [
                 "NobreLinx"
@@ -22699,14 +22711,14 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 844251.9375,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97874.1171875
+                "map": "Kailo_P_003",
+                "x": 96421.4453125,
+                "y": -196182.15625,
+                "z": -2908.369873046875
             },
-            "last_seen": "Feb 18, 2026, 11:11:53 PM",
+            "last_seen": "Feb 20, 2026, 10:56:32 PM",
             "level": 76,
             "name": " Haru ",
             "name_history": [
@@ -28205,6 +28217,6 @@
         }
     },
     "accounts_total": 1604,
-    "last_updated": "Feb 20, 2026, 10:55:32 PM",
+    "last_updated": "Feb 20, 2026, 10:56:32 PM",
     "server_region": "ws-america-01"
 }
