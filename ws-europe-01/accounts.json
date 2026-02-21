@@ -11696,13 +11696,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708489792": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 981388.8125,
-            "last_seen": "Feb 03, 2026, 10:38:02 PM",
-            "level": 74,
+            "hp": 1082996.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1459.43994140625,
+                "y": -27940.1484375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 21, 2026, 7:30:00 PM",
+            "level": 76,
             "name": "Cynders",
             "name_history": [
                 "Cynders"
@@ -21581,6 +21590,6 @@
         }
     },
     "accounts_total": 1199,
-    "last_updated": "Feb 21, 2026, 7:29:00 PM",
+    "last_updated": "Feb 21, 2026, 7:30:00 PM",
     "server_region": "ws-europe-01"
 }
