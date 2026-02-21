@@ -6285,15 +6285,15 @@
             "crew_name": "小赢楼",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 330769.28125,
+            "hp": 331527.28125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -90311.0078125,
-                "y": 81170.3046875,
-                "z": -7011.5361328125
+                "map": "city",
+                "x": -22.549467086791992,
+                "y": -16482.91796875,
+                "z": 96376.03125
             },
-            "last_seen": "2026年2月18日 下午11:14:59",
-            "level": 67,
+            "last_seen": "2026年2月21日 下午8:33:05",
+            "level": 70,
             "name": "LambKebab",
             "name_history": [
                 "LambKebab"
@@ -8658,6 +8658,29 @@
             "role_id": 62715114592520,
             "server_region": "reshaping-the-future"
         },
+        "62715114592521": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13952.212890625,
+            "last_known_position": {
+                "map": "city",
+                "x": 7.789999961853027,
+                "y": -15811.1298828125,
+                "z": 96351.78125
+            },
+            "last_seen": "2026年2月21日 下午8:33:05",
+            "level": 16,
+            "name": "别走死了",
+            "name_history": [
+                "别走死了"
+            ],
+            "registered": "2026年2月21日 上午9:31:18",
+            "role_id": 62715114592521,
+            "server_region": "reshaping-the-future"
+        },
         "62715114592788": {
             "crew_history": [],
             "crew_id": 0,
@@ -9630,6 +9653,31 @@
             ],
             "registered": "2022年7月26日 上午9:36:29",
             "role_id": 62719408031137,
+            "server_region": "reshaping-the-future"
+        },
+        "62719408047823": {
+            "crew_history": [
+                "闪闪"
+            ],
+            "crew_id": 863288441098,
+            "crew_name": "闪闪",
+            "equipping_title": "烟暖笛声寒的导师,0",
+            "gender": 1,
+            "hp": 2073518.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1040.2999267578125,
+                "y": -16854.0,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月21日 下午8:33:05",
+            "level": 100,
+            "name": "彤彤·Twinkle",
+            "name_history": [
+                "彤彤·Twinkle"
+            ],
+            "registered": "2022年7月31日 下午4:43:19",
+            "role_id": 62719408047823,
             "server_region": "reshaping-the-future"
         },
         "62719408061693": {
@@ -13655,6 +13703,29 @@
             "role_id": 63148904703041,
             "server_region": "reshaping-the-future"
         },
+        "63148904704847": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 91387.3203125,
+            "last_known_position": {
+                "map": "city",
+                "x": 71.27999877929688,
+                "y": -16441.048828125,
+                "z": 96372.9140625
+            },
+            "last_seen": "2026年2月21日 下午8:33:05",
+            "level": 23,
+            "name": "路克斯#c",
+            "name_history": [
+                "路克斯#c"
+            ],
+            "registered": "2024年5月5日 上午12:56:02",
+            "role_id": 63148904704847,
+            "server_region": "reshaping-the-future"
+        },
         "63148904706752": {
             "crew_id": 1606317783307,
             "crew_name": "杏酒",
@@ -14157,7 +14228,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 686,
-    "last_updated": "2026年2月21日 下午8:28:04",
+    "accounts_total": 689,
+    "last_updated": "2026年2月21日 下午8:33:05",
     "server_region": "reshaping-the-future"
 }
