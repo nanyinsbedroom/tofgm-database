@@ -3555,14 +3555,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "WorldBossDamage_1;Boss_hum_036_world;1",
             "gender": 0,
-            "hp": 1137280.375,
+            "hp": 1133785.375,
             "last_known_position": {
-                "map": "city",
-                "x": 601.5599975585938,
-                "y": -28042.69921875,
-                "z": 97924.15625
+                "map": "Vera_Maze_P",
+                "x": -433170.40625,
+                "y": 126601.2265625,
+                "z": -240393.171875
             },
-            "last_seen": "Feb 19, 2026, 9:12:31 PM",
+            "last_seen": "Feb 21, 2026, 11:54:59 PM",
             "level": 76,
             "name": "Xio",
             "name_history": [
@@ -7303,13 +7303,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483644": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
             "equipping_title": "1_9_0_2",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:31:37 PM",
-            "level": 74,
+            "hp": 1124279.375,
+            "last_known_position": {
+                "map": "Vera_Maze_P",
+                "x": -432990.78125,
+                "y": 126775.96875,
+                "z": -240383.078125
+            },
+            "last_seen": "Feb 21, 2026, 11:54:59 PM",
+            "level": 76,
             "name": "ρнιℓѕкα ツ",
             "name_history": [
                 "ρнιℓѕкα ツ"
@@ -14232,15 +14241,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "crashie's Apprentice,0",
             "gender": 1,
-            "hp": 3120000.0,
+            "hp": 941648.9375,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 98310.8203125,
-                "y": -189387.9375,
-                "z": -7893.7998046875
+                "map": "Vera_Maze_P",
+                "x": -433076.0625,
+                "y": 126622.375,
+                "z": -240372.359375
             },
-            "last_seen": "Feb 19, 2026, 9:25:32 PM",
-            "level": 74,
+            "last_seen": "Feb 21, 2026, 11:54:59 PM",
+            "level": 76,
             "name": "Raichu",
             "name_history": [
                 "Raichu"
@@ -22001,6 +22010,6 @@
         }
     },
     "accounts_total": 1213,
-    "last_updated": "Feb 21, 2026, 11:51:59 PM",
+    "last_updated": "Feb 21, 2026, 11:54:59 PM",
     "server_region": "ws-europe-01"
 }
