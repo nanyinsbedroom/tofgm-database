@@ -20900,15 +20900,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 44008.0,
+            "hp": 61949.24609375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54200.70703125,
-                "y": 73902.171875,
-                "z": -10087.9794921875
+                "x": -46918.97265625,
+                "y": 100881.34375,
+                "z": -15124.091796875
             },
-            "last_seen": "Feb 16, 2026, 10:00:02 PM",
-            "level": 9,
+            "last_seen": "Feb 22, 2026, 12:02:00 AM",
+            "level": 36,
             "name": "FraN_Rind0",
             "name_history": [
                 "FraN_Rind0"
@@ -21962,6 +21962,29 @@
             "role_id": 38174111708526239,
             "server_region": "ws-europe-01"
         },
+        "38174111708526246": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 37615.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98090.6953125,
+                "y": 80140.0390625,
+                "z": -5261.2900390625
+            },
+            "last_seen": "Feb 22, 2026, 12:02:00 AM",
+            "level": 10,
+            "name": "Bhaijaan",
+            "name_history": [
+                "Bhaijaan"
+            ],
+            "registered": "Feb 21, 2026, 10:16:09 PM",
+            "role_id": 38174111708526246,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526247": {
             "crew_history": [],
             "crew_id": 0,
@@ -22009,7 +22032,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1213,
-    "last_updated": "Feb 21, 2026, 11:54:59 PM",
+    "accounts_total": 1214,
+    "last_updated": "Feb 22, 2026, 12:02:00 AM",
     "server_region": "ws-europe-01"
 }
