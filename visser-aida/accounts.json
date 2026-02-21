@@ -5704,17 +5704,26 @@
             "server_region": "visser-aida"
         },
         "60593398698831": {
+            "crew_history": [
+                "大饭堂"
+            ],
             "crew_id": 77309425433,
             "crew_name": "大饭堂",
             "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 2993514.0,
-            "last_seen": "2026年2月14日 上午12:00:41",
+            "hp": 1938269.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54821.96875,
+                "y": -87946.671875,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年2月21日 下午10:19:27",
             "level": 100,
             "name": "八脚神怪",
             "name_history": [
-                "月无",
-                "八脚神怪"
+                "八脚神怪",
+                "月无"
             ],
             "registered": "2021年12月23日 下午11:29:30",
             "role_id": 60593398698831,
@@ -13196,6 +13205,31 @@
             "role_id": 61422328587764,
             "server_region": "visser-aida"
         },
+        "61422328589090": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 717259552733,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1881882.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56062.87890625,
+                "y": -89033.5390625,
+                "z": 21720.91015625
+            },
+            "last_seen": "2026年2月21日 下午10:19:27",
+            "level": 100,
+            "name": "转生到九域吃豆",
+            "name_history": [
+                "转生到九域吃豆"
+            ],
+            "registered": "2023年11月29日 上午12:17:30",
+            "role_id": 61422328589090,
+            "server_region": "visser-aida"
+        },
         "61422328597967": {
             "crew_id": 266287986476,
             "crew_name": "星奈海",
@@ -17477,7 +17511,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1134,
-    "last_updated": "2026年2月21日 下午10:18:26",
+    "accounts_total": 1135,
+    "last_updated": "2026年2月21日 下午10:19:27",
     "server_region": "visser-aida"
 }
