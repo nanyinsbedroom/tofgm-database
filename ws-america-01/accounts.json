@@ -16630,6 +16630,31 @@
             "role_id": 38174107413531102,
             "server_region": "ws-america-01"
         },
+        "38174107413531114": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_2_0_80",
+            "gender": 1,
+            "hp": 892362.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1196.2099609375,
+                "y": -28421.958984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 20, 2026, 11:02:32 PM",
+            "level": 74,
+            "name": "NightRain",
+            "name_history": [
+                "NightRain"
+            ],
+            "registered": "Nov 25, 2025, 11:27:47 PM",
+            "role_id": 38174107413531114,
+            "server_region": "ws-america-01"
+        },
         "38174107413531117": {
             "crew_id": 360786140966,
             "crew_name": "Ravenous",
@@ -22167,6 +22192,29 @@
             ],
             "registered": "Dec 19, 2025, 6:29:56 PM",
             "role_id": 38174107413567105,
+            "server_region": "ws-america-01"
+        },
+        "38174107413567282": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 136006.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96368.53125
+            },
+            "last_seen": "Feb 20, 2026, 11:02:32 PM",
+            "level": 51,
+            "name": "Monaca",
+            "name_history": [
+                "Monaca"
+            ],
+            "registered": "Dec 20, 2025, 1:20:22 AM",
+            "role_id": 38174107413567282,
             "server_region": "ws-america-01"
         },
         "38174107413567528": {
@@ -28503,7 +28551,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1613,
-    "last_updated": "Feb 20, 2026, 11:01:32 PM",
+    "accounts_total": 1615,
+    "last_updated": "Feb 20, 2026, 11:02:32 PM",
     "server_region": "ws-america-01"
 }
