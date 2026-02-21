@@ -202,14 +202,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1154154.625,
+            "hp": 1169158.625,
             "last_known_position": {
-                "map": "city",
-                "x": -1622.0599365234375,
-                "y": -28533.71875,
-                "z": 97879.4375
+                "map": "QRSL_P",
+                "x": -72712.078125,
+                "y": 49450.0703125,
+                "z": -12311.609375
             },
-            "last_seen": "Feb 18, 2026, 10:21:27 PM",
+            "last_seen": "Feb 20, 2026, 11:05:32 PM",
             "level": 76,
             "name": "Jerod",
             "name_history": [
@@ -3137,14 +3137,14 @@
             "crew_name": "Supernova",
             "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 899786.4375,
+            "hp": 909684.125,
             "last_known_position": {
                 "map": "QRSL_P",
                 "x": -68388.859375,
                 "y": 57599.23046875,
                 "z": -5906.60986328125
             },
-            "last_seen": "Feb 18, 2026, 11:07:53 PM",
+            "last_seen": "Feb 20, 2026, 11:05:32 PM",
             "level": 76,
             "name": "NezukoChaNN",
             "name_history": [
@@ -12823,6 +12823,31 @@
             ],
             "registered": "Nov 25, 2025, 11:58:34 AM",
             "role_id": 38174107413521163,
+            "server_region": "ws-america-01"
+        },
+        "38174107413521168": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 934856.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72786.6796875,
+                "y": 49447.3984375,
+                "z": -12325.1201171875
+            },
+            "last_seen": "Feb 20, 2026, 11:05:32 PM",
+            "level": 74,
+            "name": "---DEAD-EYE--",
+            "name_history": [
+                "---DEAD-EYE--"
+            ],
+            "registered": "Nov 25, 2025, 11:58:51 AM",
+            "role_id": 38174107413521168,
             "server_region": "ws-america-01"
         },
         "38174107413521208": {
@@ -28748,7 +28773,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1623,
-    "last_updated": "Feb 20, 2026, 11:04:32 PM",
+    "accounts_total": 1624,
+    "last_updated": "Feb 20, 2026, 11:05:32 PM",
     "server_region": "ws-america-01"
 }
