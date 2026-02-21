@@ -2192,14 +2192,14 @@
             "crew_name": "喵喵屋",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1492420.375,
+            "hp": 1506210.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.45703125,
-                "y": -88115.4765625,
-                "z": 21726.0390625
+                "x": -54348.37890625,
+                "y": -88128.6015625,
+                "z": 21723.048828125
             },
-            "last_seen": "2026年2月20日 下午10:21:09",
+            "last_seen": "2026年2月21日 下午4:02:47",
             "level": 100,
             "name": "时.渡",
             "name_history": [
@@ -2410,6 +2410,31 @@
             ],
             "registered": "2022年11月12日 下午11:12:35",
             "role_id": 62715113341866,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113359731": {
+            "crew_history": [
+                "守林人"
+            ],
+            "crew_id": 188978575626,
+            "crew_name": "守林人",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1658102.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54788.33984375,
+                "y": -87060.9375,
+                "z": 21723.94921875
+            },
+            "last_seen": "2026年2月21日 下午4:02:47",
+            "level": 100,
+            "name": "灭逆",
+            "name_history": [
+                "灭逆"
+            ],
+            "registered": "2022年11月19日 下午3:17:49",
+            "role_id": 62715113359731,
             "server_region": "reshaping-the-future"
         },
         "62715113363569": {
@@ -12089,7 +12114,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 604,
-    "last_updated": "2026年2月21日 下午4:01:47",
+    "accounts_total": 605,
+    "last_updated": "2026年2月21日 下午4:02:47",
     "server_region": "reshaping-the-future"
 }
