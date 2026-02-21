@@ -81,14 +81,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1151299.125,
+            "hp": 1087241.25,
             "last_known_position": {
                 "map": "city",
-                "x": -1164.8900146484375,
-                "y": -24078.8203125,
+                "x": -936.8800048828125,
+                "y": -23698.650390625,
                 "z": 98605.65625
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
+            "last_seen": "Feb 21, 2026, 7:31:00 PM",
             "level": 76,
             "name": "Lico",
             "name_history": [
@@ -1250,6 +1250,31 @@
             ],
             "registered": "Nov 25, 2025, 9:05:53 AM",
             "role_id": 38174111708479863,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708479866": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "1_1_19_1",
+            "gender": 1,
+            "hp": 1126781.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1874.18994140625,
+                "y": -27096.75,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 21, 2026, 7:31:00 PM",
+            "level": 76,
+            "name": "Келемвор",
+            "name_history": [
+                "Келемвор"
+            ],
+            "registered": "Nov 25, 2025, 9:06:03 AM",
+            "role_id": 38174111708479866,
             "server_region": "ws-europe-01"
         },
         "38174111708479870": {
@@ -16459,6 +16484,31 @@
             "role_id": 38174111708514234,
             "server_region": "ws-europe-01"
         },
+        "38174111708514316": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
+            "crew_id": 365081108263,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 882415.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1866.0899658203125,
+                "y": -27554.33984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 21, 2026, 7:31:00 PM",
+            "level": 74,
+            "name": "Silicia",
+            "name_history": [
+                "Silicia"
+            ],
+            "registered": "Dec 21, 2025, 1:15:10 AM",
+            "role_id": 38174111708514316,
+            "server_region": "ws-europe-01"
+        },
         "38174111708514494": {
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
@@ -21589,7 +21639,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1199,
-    "last_updated": "Feb 21, 2026, 7:30:00 PM",
+    "accounts_total": 1201,
+    "last_updated": "Feb 21, 2026, 7:31:00 PM",
     "server_region": "ws-europe-01"
 }
