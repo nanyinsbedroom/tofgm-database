@@ -8564,6 +8564,31 @@
             "role_id": 60563335997641,
             "server_region": "future-humanity"
         },
+        "60563336000256": {
+            "crew_history": [
+                "往生堂"
+            ],
+            "crew_id": 34359752469,
+            "crew_name": "往生堂",
+            "equipping_title": "1_1_11_1",
+            "gender": 1,
+            "hp": 758329.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54771.87890625,
+                "y": -87957.046875,
+                "z": 21725.009765625
+            },
+            "last_seen": "2026年2月21日 下午2:24:12",
+            "level": 70,
+            "name": "柊鞪",
+            "name_history": [
+                "柊鞪"
+            ],
+            "registered": "2026年2月12日 下午1:02:48",
+            "role_id": 60563336000256,
+            "server_region": "future-humanity"
+        },
         "60563336000577": {
             "crew_history": [
                 "榴火大学堂"
@@ -11741,14 +11766,14 @@
             "crew_name": "从零开始",
             "equipping_title": "2_11_1_2",
             "gender": 1,
-            "hp": 2568538.0,
+            "hp": 1940870.0,
             "last_known_position": {
-                "map": "city",
-                "x": -22.5,
-                "y": -16482.900390625,
-                "z": 96362.0390625
+                "map": "QRSL_P",
+                "x": -55232.87890625,
+                "y": -88304.375,
+                "z": 21710.939453125
             },
-            "last_seen": "2026年2月14日 下午8:21:06",
+            "last_seen": "2026年2月21日 下午2:24:12",
             "level": 100,
             "name": "　野孩子",
             "name_history": [
@@ -12170,7 +12195,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 637,
-    "last_updated": "2026年2月21日 下午2:22:12",
+    "accounts_total": 638,
+    "last_updated": "2026年2月21日 下午2:24:12",
     "server_region": "future-humanity"
 }
