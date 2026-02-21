@@ -10588,6 +10588,31 @@
             "role_id": 38174107413518881,
             "server_region": "ws-america-01"
         },
+        "38174107413518889": {
+            "crew_history": [
+                "Oreos Tengu"
+            ],
+            "crew_id": 287771696934,
+            "crew_name": "Oreos Tengu",
+            "equipping_title": "MavisVermillion's Apprentice,0",
+            "gender": 1,
+            "hp": 789530.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59691.02734375,
+                "y": 105113.6796875,
+                "z": -12932.830078125
+            },
+            "last_seen": "Feb 20, 2026, 11:06:32 PM",
+            "level": 73,
+            "name": "RochukoGonzales",
+            "name_history": [
+                "RochukoGonzales"
+            ],
+            "registered": "Nov 25, 2025, 9:39:04 AM",
+            "role_id": 38174107413518889,
+            "server_region": "ws-america-01"
+        },
         "38174107413518896": {
             "crew_history": [
                 "Kitten Café"
@@ -18239,13 +18264,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413539417": {
-            "crew_id": 38663593766,
-            "crew_name": "ACxBoba",
-            "equipping_title": "None",
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 394272.96875,
-            "last_seen": "Jan 30, 2026, 10:48:38 PM",
-            "level": 70,
+            "hp": 851786.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 20, 2026, 11:06:32 PM",
+            "level": 74,
             "name": "Andros Leo",
             "name_history": [
                 "Andros Leo"
@@ -23357,14 +23391,14 @@
             "crew_name": "Stray",
             "equipping_title": "2_10_1_8",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1104861.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 100421.609375,
-                "y": -187974.640625,
-                "z": -7886.2138671875
+                "map": "QRSL_P",
+                "x": -56442.01953125,
+                "y": 63988.4375,
+                "z": -3034.139892578125
             },
-            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "last_seen": "Feb 20, 2026, 11:06:32 PM",
             "level": 76,
             "name": "Marlle",
             "name_history": [
@@ -28726,6 +28760,29 @@
             "role_id": 38174107413583346,
             "server_region": "ws-america-01"
         },
+        "38174107413583403": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25009.4296875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55363.6796875,
+                "y": 82229.4453125,
+                "z": -11681.6591796875
+            },
+            "last_seen": "Feb 20, 2026, 11:06:32 PM",
+            "level": 7,
+            "name": "VXTOXINkiri",
+            "name_history": [
+                "VXTOXINkiri"
+            ],
+            "registered": "Feb 20, 2026, 8:49:26 PM",
+            "role_id": 38174107413583403,
+            "server_region": "ws-america-01"
+        },
         "38174107413583416": {
             "crew_history": [],
             "crew_id": 0,
@@ -28771,9 +28828,32 @@
             "registered": "Feb 20, 2026, 10:25:35 PM",
             "role_id": 38174107413583422,
             "server_region": "ws-america-01"
+        },
+        "38174107413583423": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 29162.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57764.30859375,
+                "y": 63647.6796875,
+                "z": -8925.080078125
+            },
+            "last_seen": "Feb 20, 2026, 11:06:32 PM",
+            "level": 7,
+            "name": "♪DarkDoLL",
+            "name_history": [
+                "♪DarkDoLL"
+            ],
+            "registered": "Feb 20, 2026, 10:45:49 PM",
+            "role_id": 38174107413583423,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1624,
-    "last_updated": "Feb 20, 2026, 11:05:32 PM",
+    "accounts_total": 1627,
+    "last_updated": "Feb 20, 2026, 11:06:32 PM",
     "server_region": "ws-america-01"
 }
