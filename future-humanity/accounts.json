@@ -555,12 +555,21 @@
             "server_region": "future-humanity"
         },
         "60563333970961": {
+            "crew_history": [
+                "九域"
+            ],
             "crew_id": 8589948693,
             "crew_name": "九域",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2454679.5,
-            "last_seen": "2026年01月29日 上午 12:57:30",
+            "hp": 2528873.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54849.16796875,
+                "y": -87097.3515625,
+                "z": 21710.94921875
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
             "level": 100,
             "name": "龙傲天yyds",
             "name_history": [
@@ -1201,11 +1210,11 @@
             "hp": 1021639.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55158.98828125,
-                "y": -87058.15625,
-                "z": 21724.98046875
+                "x": -55239.51953125,
+                "y": -87063.6953125,
+                "z": 21724.888671875
             },
-            "last_seen": "2026年2月21日 下午12:19:44",
+            "last_seen": "2026年2月21日 下午2:04:11",
             "level": 100,
             "name": "英海",
             "name_history": [
@@ -1862,6 +1871,31 @@
             ],
             "registered": "2024年4月18日 上午2:52:58",
             "role_id": 60563335197389,
+            "server_region": "future-humanity"
+        },
+        "60563335199589": {
+            "crew_history": [
+                "雨巷猫"
+            ],
+            "crew_id": 12884915989,
+            "crew_name": "雨巷猫",
+            "equipping_title": "2_2_0_75",
+            "gender": 1,
+            "hp": 1565268.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "Seles",
+            "name_history": [
+                "Seles"
+            ],
+            "registered": "2024年4月20日 下午3:30:39",
+            "role_id": 60563335199589,
             "server_region": "future-humanity"
         },
         "60563335201968": {
@@ -4492,6 +4526,31 @@
             "role_id": 60563335606458,
             "server_region": "future-humanity"
         },
+        "60563335606861": {
+            "crew_history": [
+                "水月殿"
+            ],
+            "crew_id": 14031658170133,
+            "crew_name": "水月殿",
+            "equipping_title": "2_2_0_48",
+            "gender": 1,
+            "hp": 950808.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55971.1796875,
+                "y": -88022.0859375,
+                "z": 21907.89453125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "没钱给完美氪金",
+            "name_history": [
+                "没钱给完美氪金"
+            ],
+            "registered": "2024年11月12日 下午12:21:53",
+            "role_id": 60563335606861,
+            "server_region": "future-humanity"
+        },
         "60563335609605": {
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
@@ -4960,6 +5019,31 @@
             ],
             "registered": "2024年12月24日 上午1:10:01",
             "role_id": 60563335671455,
+            "server_region": "future-humanity"
+        },
+        "60563335672501": {
+            "crew_history": [
+                "绘梨猫"
+            ],
+            "crew_id": 8349416437525,
+            "crew_name": "绘梨猫",
+            "equipping_title": "1_4_4_5",
+            "gender": 1,
+            "hp": 914974.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53762.69921875,
+                "y": -87770.546875,
+                "z": 21721.830078125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 98,
+            "name": "周半仙丶",
+            "name_history": [
+                "周半仙丶"
+            ],
+            "registered": "2024年12月24日 下午9:38:55",
+            "role_id": 60563335672501,
             "server_region": "future-humanity"
         },
         "60563335673722": {
@@ -7563,6 +7647,29 @@
             "role_id": 60563335991290,
             "server_region": "future-humanity"
         },
+        "60563335992389": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 621155.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56000.37890625,
+                "y": -86672.578125,
+                "z": 21721.990234375
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 82,
+            "name": "巅峰召唤师6",
+            "name_history": [
+                "巅峰召唤师6"
+            ],
+            "registered": "2026年1月24日 下午3:45:39",
+            "role_id": 60563335992389,
+            "server_region": "future-humanity"
+        },
         "60563335992972": {
             "crew_history": [
                 "天使社"
@@ -7990,6 +8097,54 @@
             "role_id": 60563335997641,
             "server_region": "future-humanity"
         },
+        "60563336000577": {
+            "crew_history": [
+                "榴火大学堂"
+            ],
+            "crew_id": 14160507189013,
+            "crew_name": "榴火大学堂",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 531757.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56187.46875,
+                "y": -87035.3984375,
+                "z": 21724.5
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 49,
+            "name": "落叶秋风早",
+            "name_history": [
+                "落叶秋风早"
+            ],
+            "registered": "2026年2月13日 上午12:13:16",
+            "role_id": 60563336000577,
+            "server_region": "future-humanity"
+        },
+        "60563336000734": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 517487.34375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55062.4296875,
+                "y": -88161.3671875,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 46,
+            "name": "永嫦",
+            "name_history": [
+                "永嫦"
+            ],
+            "registered": "2026年2月13日 下午12:41:16",
+            "role_id": 60563336000734,
+            "server_region": "future-humanity"
+        },
         "60563336001571": {
             "crew_history": [],
             "crew_id": 0,
@@ -8153,6 +8308,31 @@
             ],
             "registered": "2026年2月19日 下午4:14:44",
             "role_id": 60563336003226,
+            "server_region": "future-humanity"
+        },
+        "60563336003582": {
+            "crew_history": [
+                "无聊小屋"
+            ],
+            "crew_id": 4909147633429,
+            "crew_name": "无聊小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 236376.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55715.27734375,
+                "y": -88377.9296875,
+                "z": 21832.578125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 36,
+            "name": "Macheal",
+            "name_history": [
+                "Macheal"
+            ],
+            "registered": "2026年2月20日 下午2:31:20",
+            "role_id": 60563336003582,
             "server_region": "future-humanity"
         },
         "60563336003628": {
@@ -9228,6 +9408,31 @@
             "role_id": 60653528181960,
             "server_region": "future-humanity"
         },
+        "60657823151440": {
+            "crew_history": [
+                "梦乡"
+            ],
+            "crew_id": 8181912712981,
+            "crew_name": "梦乡",
+            "equipping_title": "1_4_8_6",
+            "gender": 1,
+            "hp": 2091011.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55188.66015625,
+                "y": -86914.15625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "诡道劳亚尔",
+            "name_history": [
+                "诡道劳亚尔"
+            ],
+            "registered": "2021年12月16日 下午7:39:18",
+            "role_id": 60657823151440,
+            "server_region": "future-humanity"
+        },
         "60666413065749": {
             "crew_id": 9509057607445,
             "crew_name": "羽落凡尘",
@@ -9293,6 +9498,31 @@
             ],
             "registered": "2021年12月16日 上午9:35:47",
             "role_id": 60992830583410,
+            "server_region": "future-humanity"
+        },
+        "60997125558521": {
+            "crew_history": [
+                "梦幻"
+            ],
+            "crew_id": 9401683425045,
+            "crew_name": "梦幻",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 1941799.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55605.67578125,
+                "y": -88729.65625,
+                "z": 21717.4296875
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "西诗幽幽子",
+            "name_history": [
+                "西诗幽幽子"
+            ],
+            "registered": "2021年12月16日 下午2:04:58",
+            "role_id": 60997125558521,
             "server_region": "future-humanity"
         },
         "61001420506614": {
@@ -10915,6 +11145,31 @@
             "role_id": 63140314222334,
             "server_region": "future-humanity"
         },
+        "63140314271455": {
+            "crew_history": [
+                "投降喵"
+            ],
+            "crew_id": 14383845488405,
+            "crew_name": "投降喵",
+            "equipping_title": "2_2_0_40",
+            "gender": 1,
+            "hp": 2632786.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55734.45703125,
+                "y": -88310.8359375,
+                "z": 21733.0390625
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "逍遥镇胡辣汤",
+            "name_history": [
+                "逍遥镇胡辣汤"
+            ],
+            "registered": "2023年4月22日 下午9:10:42",
+            "role_id": 63140314271455,
+            "server_region": "future-humanity"
+        },
         "63140314375967": {
             "crew_history": [
                 "神待少女"
@@ -11105,6 +11360,31 @@
             "role_id": 63574106405819,
             "server_region": "future-humanity"
         },
+        "63578400899880": {
+            "crew_history": [
+                "羽落凡尘"
+            ],
+            "crew_id": 9509057607445,
+            "crew_name": "羽落凡尘",
+            "equipping_title": "2_3_0_1",
+            "gender": 1,
+            "hp": 1351287.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54961.14453125,
+                "y": -87419.4375,
+                "z": 21722.0390625
+            },
+            "last_seen": "2026年2月21日 下午2:04:11",
+            "level": 100,
+            "name": "夏缇娅",
+            "name_history": [
+                "夏缇娅"
+            ],
+            "registered": "2024年2月8日 下午5:28:49",
+            "role_id": 63578400899880,
+            "server_region": "future-humanity"
+        },
         "63578401573609": {
             "crew_history": [
                 "雾巷猫"
@@ -11156,7 +11436,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 596,
-    "last_updated": "2026年2月21日 下午2:03:10",
+    "accounts_total": 607,
+    "last_updated": "2026年2月21日 下午2:04:11",
     "server_region": "future-humanity"
 }
