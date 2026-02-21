@@ -3074,14 +3074,14 @@
             "crew_name": "Schwarz Studio",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 2625136.5,
+            "hp": 6133062.5,
             "last_known_position": {
-                "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
-                "z": 96362.03125
+                "map": "Kailo_P_003",
+                "x": 102136.8359375,
+                "y": -188282.171875,
+                "z": -7701.06005859375
             },
-            "last_seen": "Feb 21, 2026, 4:12:48 AM",
+            "last_seen": "Feb 21, 2026, 7:38:48 PM",
             "level": 100,
             "name": "Inorinae",
             "name_history": [
@@ -8212,14 +8212,14 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2391336.0,
+            "hp": 5922652.0,
             "last_known_position": {
-                "map": "city",
-                "x": -516.8699951171875,
-                "y": -18614.4296875,
-                "z": 96329.53125
+                "map": "Kailo_P_003",
+                "x": 96042.6875,
+                "y": -189546.515625,
+                "z": -7932.5
             },
-            "last_seen": "Feb 19, 2026, 8:12:11 PM",
+            "last_seen": "Feb 21, 2026, 7:38:48 PM",
             "level": 100,
             "name": "ThunderNight",
             "name_history": [
@@ -24446,12 +24446,21 @@
             "server_region": "southeast-asia"
         },
         "68779606389453": {
+            "crew_history": [
+                "鬼滅の刃"
+            ],
             "crew_id": 4131758554765,
             "crew_name": "鬼滅の刃",
-            "equipping_title": "1_2022",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 2439088.5,
-            "last_seen": "Dec 21, 2025, 11:18:34 PM",
+            "hp": 6063015.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 88837.703125,
+                "y": -191031.296875,
+                "z": -5319.87353515625
+            },
+            "last_seen": "Feb 21, 2026, 7:38:48 PM",
             "level": 100,
             "name": "Michi",
             "name_history": [
@@ -29351,6 +29360,6 @@
         }
     },
     "accounts_total": 2057,
-    "last_updated": "Feb 21, 2026, 7:37:48 PM",
+    "last_updated": "Feb 21, 2026, 7:38:48 PM",
     "server_region": "southeast-asia"
 }
