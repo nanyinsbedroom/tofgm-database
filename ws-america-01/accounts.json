@@ -1035,13 +1035,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512492": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
-            "equipping_title": "2_2_0_89",
+            "equipping_title": "1_4_6_1",
             "gender": 0,
-            "hp": 912381.75,
-            "last_seen": "Jan 23, 2026, 08:08:46 PM",
-            "level": 72,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96524.2734375,
+                "y": -160297.828125,
+                "z": -2978.143310546875
+            },
+            "last_seen": "Feb 20, 2026, 10:57:32 PM",
+            "level": 76,
             "name": "Ars",
             "name_history": [
                 "Ars"
@@ -20270,14 +20279,14 @@
             "crew_name": "Stray",
             "equipping_title": "1_4_7_1",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 2618200.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 97557.046875,
-                "y": -175090.609375,
-                "z": -4993.169921875
+                "x": 93231.0,
+                "y": -223539.0,
+                "z": 1036.8599853515625
             },
-            "last_seen": "Feb 18, 2026, 8:32:37 PM",
+            "last_seen": "Feb 20, 2026, 10:57:32 PM",
             "level": 76,
             "name": " Nightmare ",
             "name_history": [
@@ -28217,6 +28226,6 @@
         }
     },
     "accounts_total": 1604,
-    "last_updated": "Feb 20, 2026, 10:56:32 PM",
+    "last_updated": "Feb 20, 2026, 10:57:32 PM",
     "server_region": "ws-america-01"
 }
