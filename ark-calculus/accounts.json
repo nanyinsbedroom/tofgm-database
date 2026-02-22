@@ -917,12 +917,21 @@
             "server_region": "ark-calculus"
         },
         "61851824105633": {
+            "crew_history": [
+                "推荐"
+            ],
             "crew_id": 128849033286,
             "crew_name": "推荐",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2104744.75,
-            "last_seen": "2026年02月04日 上午 3:22:24",
+            "hp": 2105392.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月22日 下午8:07:40",
             "level": 100,
             "name": "姜奈",
             "name_history": [
@@ -5011,12 +5020,21 @@
             "server_region": "ark-calculus"
         },
         "62311385569039": {
+            "crew_history": [
+                "花海幼儿园"
+            ],
             "crew_id": 485331318964,
             "crew_name": "花海幼儿园",
-            "equipping_title": "3_2021",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1271499.625,
-            "last_seen": "2025年11月25日 上午 1:29:15",
+            "hp": 1371907.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54856.94140625,
+                "y": -87782.6953125,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月22日 下午8:07:40",
             "level": 100,
             "name": "葑舞忆诗",
             "name_history": [
@@ -13999,6 +14017,6 @@
         }
     },
     "accounts_total": 733,
-    "last_updated": "2026年2月22日 下午8:06:40",
+    "last_updated": "2026年2月22日 下午8:07:40",
     "server_region": "ark-calculus"
 }
