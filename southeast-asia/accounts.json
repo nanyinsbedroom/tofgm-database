@@ -26726,12 +26726,21 @@
             "server_region": "southeast-asia"
         },
         "68792491237986": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "2_5_0_4",
             "gender": 0,
-            "hp": 2557367.0,
-            "last_seen": "Nov 05, 2025, 04:33:22 PM",
+            "hp": 3173128.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7119.2900390625,
+                "y": 61530.0,
+                "z": 40606.9609375
+            },
+            "last_seen": "Feb 23, 2026, 12:32:41 AM",
             "level": 100,
             "name": "Tonarisu",
             "name_history": [
@@ -29491,6 +29500,6 @@
         }
     },
     "accounts_total": 2059,
-    "last_updated": "Feb 23, 2026, 12:24:40 AM",
+    "last_updated": "Feb 23, 2026, 12:32:41 AM",
     "server_region": "southeast-asia"
 }
