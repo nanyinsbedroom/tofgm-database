@@ -14164,12 +14164,21 @@
             "server_region": "southeast-asia"
         },
         "68775311654839": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1713810.5,
-            "last_seen": "Feb 7, 2026, 10:54:09 PM",
+            "hp": 1716810.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 564.2899780273438,
+                "y": -18776.830078125,
+                "z": 96333.53125
+            },
+            "last_seen": "Feb 23, 2026, 12:24:40 AM",
             "level": 100,
             "name": "bahora",
             "name_history": [
@@ -29482,6 +29491,6 @@
         }
     },
     "accounts_total": 2059,
-    "last_updated": "Feb 23, 2026, 12:23:40 AM",
+    "last_updated": "Feb 23, 2026, 12:24:40 AM",
     "server_region": "southeast-asia"
 }
