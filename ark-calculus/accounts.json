@@ -4192,15 +4192,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 653038.3125,
+            "hp": 654048.3125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21726.048828125
+                "x": -56312.71875,
+                "y": -89457.171875,
+                "z": 21725.83203125
             },
-            "last_seen": "2026年2月20日 下午8:13:41",
-            "level": 60,
+            "last_seen": "2026年2月22日 下午8:14:41",
+            "level": 64,
             "name": "球球女藞",
             "name_history": [
                 "球球女藞"
@@ -4294,6 +4294,31 @@
             ],
             "registered": "2026年2月17日 下午8:32:45",
             "role_id": 62285617841708,
+            "server_region": "ark-calculus"
+        },
+        "62285617841712": {
+            "crew_history": [
+                "凉舍"
+            ],
+            "crew_id": 12884916494,
+            "crew_name": "凉舍",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 304307.90625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57353.28125,
+                "y": -78515.703125,
+                "z": 22529.01953125
+            },
+            "last_seen": "2026年2月22日 下午8:14:41",
+            "level": 43,
+            "name": "拓荒者小夏",
+            "name_history": [
+                "拓荒者小夏"
+            ],
+            "registered": "2026年2月17日 下午9:22:37",
+            "role_id": 62285617841712,
             "server_region": "ark-calculus"
         },
         "62285617841719": {
@@ -12890,6 +12915,31 @@
             "role_id": 63140314514259,
             "server_region": "ark-calculus"
         },
+        "63140314520906": {
+            "crew_history": [
+                "萌域"
+            ],
+            "crew_id": 120259098793,
+            "crew_name": "萌域",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1588656.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54099.125,
+                "y": -88116.3515625,
+                "z": 21827.61328125
+            },
+            "last_seen": "2026年2月22日 下午8:14:41",
+            "level": 100,
+            "name": "诶嘿！",
+            "name_history": [
+                "诶嘿！"
+            ],
+            "registered": "2023年6月21日 下午2:10:06",
+            "role_id": 63140314520906,
+            "server_region": "ark-calculus"
+        },
         "63140314526626": {
             "crew_id": 60129556646,
             "crew_name": "月汐阁",
@@ -14091,7 +14141,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 736,
-    "last_updated": "2026年2月22日 下午8:11:41",
+    "accounts_total": 738,
+    "last_updated": "2026年2月22日 下午8:14:41",
     "server_region": "ark-calculus"
 }
