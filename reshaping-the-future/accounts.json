@@ -10746,12 +10746,21 @@
             "server_region": "reshaping-the-future"
         },
         "62719408519661": {
+            "crew_history": [
+                "五个魂儿呀"
+            ],
             "crew_id": 9186935060746,
             "crew_name": "五个魂儿呀",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 1312062.75,
-            "last_seen": "2026年2月12日 下午7:09:04",
+            "hp": 1195231.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54845.58984375,
+                "y": -86802.3359375,
+                "z": 21717.490234375
+            },
+            "last_seen": "2026年2月22日 下午10:28:47",
             "level": 100,
             "name": "俺是大鲁蛋",
             "name_history": [
@@ -15055,6 +15064,6 @@
         }
     },
     "accounts_total": 722,
-    "last_updated": "2026年2月22日 下午10:24:47",
+    "last_updated": "2026年2月22日 下午10:28:47",
     "server_region": "reshaping-the-future"
 }
