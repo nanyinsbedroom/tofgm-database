@@ -15092,12 +15092,21 @@
             "server_region": "visser-aida"
         },
         "61456687069690": {
+            "crew_history": [
+                "晨曦"
+            ],
             "crew_id": 974957590501,
             "crew_name": "晨曦",
             "equipping_title": "2_2_0_18",
             "gender": 0,
-            "hp": 2202728.25,
-            "last_seen": "2026年2月9日 下午8:10:35",
+            "hp": 2508774.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55179.91796875,
+                "y": -87072.1875,
+                "z": 21717.439453125
+            },
+            "last_seen": "2026年2月22日 下午4:11:47",
             "level": 100,
             "name": "照夜清#d",
             "name_history": [
@@ -18571,6 +18580,6 @@
         }
     },
     "accounts_total": 1171,
-    "last_updated": "2026年2月22日 下午4:10:47",
+    "last_updated": "2026年2月22日 下午4:11:47",
     "server_region": "visser-aida"
 }
