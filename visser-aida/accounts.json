@@ -4672,14 +4672,24 @@
             "server_region": "visser-aida"
         },
         "60576218796049": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_8_1_1",
             "gender": 1,
-            "hp": 2014471.0,
-            "last_seen": "2025年10月27日 下午 7:29:56",
+            "hp": 2138963.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55141.48046875,
+                "y": -86839.1953125,
+                "z": 21724.990234375
+            },
+            "last_seen": "2026年2月22日 下午4:23:48",
             "level": 100,
             "name": "遥光",
+            "name_history": [
+                "遥光"
+            ],
             "registered": "2021年12月20日 下午3:22:09",
             "role_id": 60576218796049,
             "server_region": "visser-aida"
@@ -9837,14 +9847,14 @@
             "crew_name": "九域",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 2840356.25,
+            "hp": 2639952.5,
             "last_known_position": {
-                "map": "Team8P_16_D_II",
-                "x": 79642.1796875,
-                "y": 69427.9453125,
-                "z": 87832.109375
+                "map": "QRSL_P",
+                "x": -52924.73046875,
+                "y": -89110.484375,
+                "z": 22026.69921875
             },
-            "last_seen": "2026年2月21日 下午9:33:26",
+            "last_seen": "2026年2月22日 下午4:23:48",
             "level": 100,
             "name": "基利波蛇",
             "name_history": [
@@ -10324,12 +10334,12 @@
             "gender": 1,
             "hp": 2223552.5,
             "last_known_position": {
-                "map": "city",
-                "x": -158.62998962402344,
-                "y": -16300.779296875,
-                "z": 96362.03125
+                "map": "QRSL_P",
+                "x": -54890.5390625,
+                "y": -88261.8671875,
+                "z": 21711.08984375
             },
-            "last_seen": "2026年2月21日 下午10:32:27",
+            "last_seen": "2026年2月22日 下午4:23:48",
             "level": 100,
             "name": "万晴",
             "name_history": [
@@ -17107,6 +17117,31 @@
             "role_id": 61516816614366,
             "server_region": "visser-aida"
         },
+        "61516816628383": {
+            "crew_history": [
+                "提瓦特料理"
+            ],
+            "crew_id": 68719491049,
+            "crew_name": "提瓦特料理",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1846376.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55283.58984375,
+                "y": -87905.5,
+                "z": 21730.5390625
+            },
+            "last_seen": "2026年2月22日 下午4:23:48",
+            "level": 100,
+            "name": "君问愁",
+            "name_history": [
+                "君问愁"
+            ],
+            "registered": "2021年12月19日 下午10:07:41",
+            "role_id": 61516816628383,
+            "server_region": "visser-aida"
+        },
         "61521111548789": {
             "crew_id": 4672924432349,
             "crew_name": "完美的一天",
@@ -19099,7 +19134,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1189,
-    "last_updated": "2026年2月22日 下午4:21:48",
+    "accounts_total": 1190,
+    "last_updated": "2026年2月22日 下午4:23:48",
     "server_region": "visser-aida"
 }
