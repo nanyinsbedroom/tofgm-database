@@ -1635,6 +1635,31 @@
             "role_id": 62281320793719,
             "server_region": "ark-calculus"
         },
+        "62281320794574": {
+            "crew_history": [
+                "花园"
+            ],
+            "crew_id": 1138166347947,
+            "crew_name": "花园",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1159661.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55409.41796875,
+                "y": -87290.875,
+                "z": 21723.87890625
+            },
+            "last_seen": "2026年2月22日 下午6:31:15",
+            "level": 100,
+            "name": "暖宝#a",
+            "name_history": [
+                "暖宝#a"
+            ],
+            "registered": "2021年12月17日 上午8:01:20",
+            "role_id": 62281320794574,
+            "server_region": "ark-calculus"
+        },
         "62281320823609": {
             "crew_history": [
                 "记录の地平线"
@@ -7032,12 +7057,21 @@
             "server_region": "ark-calculus"
         },
         "62727997358448": {
+            "crew_history": [
+                "记录の地平线"
+            ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
             "equipping_title": "1_4_7_1",
             "gender": 1,
-            "hp": 2752753.75,
-            "last_seen": "2026年02月04日 上午 3:40:26",
+            "hp": 2188846.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54455.8671875,
+                "y": -86554.0078125,
+                "z": 21717.46875
+            },
+            "last_seen": "2026年2月22日 下午6:31:15",
             "level": 100,
             "name": "Hikaru",
             "name_history": [
@@ -13211,7 +13245,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 702,
-    "last_updated": "2026年2月22日 下午6:30:15",
+    "accounts_total": 703,
+    "last_updated": "2026年2月22日 下午6:31:15",
     "server_region": "ark-calculus"
 }
