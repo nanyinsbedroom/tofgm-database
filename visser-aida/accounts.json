@@ -15104,14 +15104,26 @@
             "server_region": "visser-aida"
         },
         "61439507184983": {
+            "crew_history": [
+                "世界樹之葉"
+            ],
             "crew_id": 68719490851,
             "crew_name": "世界樹之葉",
-            "equipping_title": "月泷千辰的导师,0",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2650917.0,
-            "last_seen": "2025年10月27日 下午 7:18:14",
+            "hp": 2791492.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56071.8671875,
+                "y": -89136.46875,
+                "z": 21711.0
+            },
+            "last_seen": "2026年2月22日 下午4:27:48",
             "level": 100,
             "name": "妮妮可",
+            "name_history": [
+                "妮妮可"
+            ],
             "registered": "2021年12月16日 下午12:29:27",
             "role_id": 61439507184983,
             "server_region": "visser-aida"
@@ -17882,6 +17894,31 @@
             "role_id": 62289910717914,
             "server_region": "visser-aida"
         },
+        "62294205699389": {
+            "crew_history": [
+                "喵喵屋"
+            ],
+            "crew_id": 4294981407,
+            "crew_name": "喵喵屋",
+            "equipping_title": "2_2_0_75",
+            "gender": 1,
+            "hp": 1674593.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54170.859375,
+                "y": -87769.1875,
+                "z": 21724.849609375
+            },
+            "last_seen": "2026年2月22日 下午4:27:48",
+            "level": 100,
+            "name": "锦龙吟",
+            "name_history": [
+                "锦龙吟"
+            ],
+            "registered": "2021年12月18日 下午5:07:08",
+            "role_id": 62294205699389,
+            "server_region": "visser-aida"
+        },
         "62298500646155": {
             "crew_id": 481036351254,
             "crew_name": "星语星愿",
@@ -19159,7 +19196,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1191,
-    "last_updated": "2026年2月22日 下午4:26:48",
+    "accounts_total": 1192,
+    "last_updated": "2026年2月22日 下午4:27:48",
     "server_region": "visser-aida"
 }
