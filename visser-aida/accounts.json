@@ -5477,12 +5477,21 @@
             "server_region": "visser-aida"
         },
         "60589103655497": {
+            "crew_history": [
+                "晓"
+            ],
             "crew_id": 468151449372,
             "crew_name": "晓",
-            "equipping_title": "2_11_1_1",
+            "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 2455035.75,
-            "last_seen": "2026年01月26日 上午 5:16:18",
+            "hp": 2657335.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54087.71875,
+                "y": -87987.046875,
+                "z": 21725.322265625
+            },
+            "last_seen": "2026年2月22日 下午4:21:48",
             "level": 100,
             "name": "　UMR　",
             "name_history": [
@@ -6179,6 +6188,31 @@
             ],
             "registered": "2021年12月17日 下午7:55:50",
             "role_id": 60593398652915,
+            "server_region": "visser-aida"
+        },
+        "60593398656658": {
+            "crew_history": [
+                "晓"
+            ],
+            "crew_id": 468151449372,
+            "crew_name": "晓",
+            "equipping_title": "2_2_0_29",
+            "gender": 1,
+            "hp": 2401751.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54003.42578125,
+                "y": -87961.796875,
+                "z": 21841.80078125
+            },
+            "last_seen": "2026年2月22日 下午4:21:48",
+            "level": 100,
+            "name": "一个朋友",
+            "name_history": [
+                "一个朋友"
+            ],
+            "registered": "2021年12月18日 上午11:02:21",
+            "role_id": 60593398656658,
             "server_region": "visser-aida"
         },
         "60593398672102": {
@@ -9539,6 +9573,31 @@
             "role_id": 60657823139730,
             "server_region": "visser-aida"
         },
+        "60657823142644": {
+            "crew_history": [
+                "繁星四月"
+            ],
+            "crew_id": 163208771368,
+            "crew_name": "繁星四月",
+            "equipping_title": "2_2_0_70",
+            "gender": 1,
+            "hp": 1526782.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54125.859375,
+                "y": -88058.0546875,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月22日 下午4:21:48",
+            "level": 100,
+            "name": "白雪歌送伊人",
+            "name_history": [
+                "白雪歌送伊人"
+            ],
+            "registered": "2021年12月16日 下午12:12:04",
+            "role_id": 60657823142644,
+            "server_region": "visser-aida"
+        },
         "60657823149153": {
             "crew_id": 270582953759,
             "crew_name": "幻塔阁",
@@ -12656,6 +12715,31 @@
             ],
             "registered": "2021年12月16日 下午7:23:58",
             "role_id": 61048665174453,
+            "server_region": "visser-aida"
+        },
+        "61048665176365": {
+            "crew_history": [
+                "一堆大佬"
+            ],
+            "crew_id": 416611841916,
+            "crew_name": "一堆大佬",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 1372993.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53734.19921875,
+                "y": -87650.0078125,
+                "z": 21727.779296875
+            },
+            "last_seen": "2026年2月22日 下午4:21:48",
+            "level": 100,
+            "name": "桐谷花",
+            "name_history": [
+                "桐谷花"
+            ],
+            "registered": "2021年12月16日 下午8:11:18",
+            "role_id": 61048665176365,
             "server_region": "visser-aida"
         },
         "61048665178261": {
@@ -17982,6 +18066,31 @@
             "role_id": 62328565402683,
             "server_region": "visser-aida"
         },
+        "62328565430897": {
+            "crew_history": [
+                "一堆大佬"
+            ],
+            "crew_id": 416611841916,
+            "crew_name": "一堆大佬",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2292045.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.0390625
+            },
+            "last_seen": "2026年2月22日 下午4:21:48",
+            "level": 100,
+            "name": "墨映雪",
+            "name_history": [
+                "墨映雪"
+            ],
+            "registered": "2021年12月17日 下午4:05:54",
+            "role_id": 62328565430897,
+            "server_region": "visser-aida"
+        },
         "62332860375734": {
             "crew_id": 219043346204,
             "crew_name": "魔法少女",
@@ -18990,7 +19099,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1185,
-    "last_updated": "2026年2月22日 下午4:20:48",
+    "accounts_total": 1189,
+    "last_updated": "2026年2月22日 下午4:21:48",
     "server_region": "visser-aida"
 }
