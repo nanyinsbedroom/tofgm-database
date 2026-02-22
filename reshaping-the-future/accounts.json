@@ -10810,12 +10810,21 @@
             "server_region": "reshaping-the-future"
         },
         "62719408464986": {
+            "crew_history": [
+                "微光"
+            ],
             "crew_id": 944892819823,
             "crew_name": "微光",
-            "equipping_title": "2_3_0_1",
+            "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1882556.0,
-            "last_seen": "2025年11月25日 上午 1:59:17",
+            "hp": 1960724.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -9.75,
+                "y": -16590.76953125,
+                "z": 96375.5390625
+            },
+            "last_seen": "2026年2月22日 下午10:35:48",
             "level": 100,
             "name": "传奇行者",
             "name_history": [
@@ -15177,6 +15186,6 @@
         }
     },
     "accounts_total": 726,
-    "last_updated": "2026年2月22日 下午10:33:47",
+    "last_updated": "2026年2月22日 下午10:35:48",
     "server_region": "reshaping-the-future"
 }
