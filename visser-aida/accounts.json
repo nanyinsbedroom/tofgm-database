@@ -1212,11 +1212,26 @@
             "server_region": "visser-aida"
         },
         "60567630058899": {
+            "crew_history": [
+                "云中歌"
+            ],
             "crew_id": 111669163804,
             "crew_name": "云中歌",
+            "equipping_title": "1_6_0_1",
             "gender": 0,
-            "last_seen": "2025年10月02日 下午 7:35:40",
+            "hp": 1839883.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21730.048828125
+            },
+            "last_seen": "2026年2月22日 下午4:13:48",
+            "level": 100,
             "name": "蛋福特",
+            "name_history": [
+                "蛋福特"
+            ],
             "registered": "2023年12月5日 下午10:25:01",
             "role_id": 60567630058899,
             "server_region": "visser-aida"
@@ -1374,14 +1389,26 @@
             "server_region": "visser-aida"
         },
         "60567630231740": {
+            "crew_history": [
+                "狼来了"
+            ],
             "crew_id": 4247722669849,
             "crew_name": "狼来了",
             "equipping_title": "恩赐天使彩羽喵的学徒,0",
             "gender": 1,
-            "hp": 346649.6875,
-            "last_seen": "2025年10月20日 下午 9:52:54",
+            "hp": 373374.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54209.6484375,
+                "y": -88088.328125,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月22日 下午4:13:48",
             "level": 100,
             "name": "身娇体弱",
+            "name_history": [
+                "身娇体弱"
+            ],
             "registered": "2024年6月13日 上午11:32:40",
             "role_id": 60567630231740,
             "server_region": "visser-aida"
@@ -9682,6 +9709,31 @@
             ],
             "registered": "2021年12月16日 下午7:37:51",
             "role_id": 60666413094414,
+            "server_region": "visser-aida"
+        },
+        "60666413095464": {
+            "crew_history": [
+                "墨影千秋"
+            ],
+            "crew_id": 438086678307,
+            "crew_name": "墨影千秋",
+            "equipping_title": "3_2021",
+            "gender": 1,
+            "hp": 2326222.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54122.5390625,
+                "y": -87742.7109375,
+                "z": 21718.87890625
+            },
+            "last_seen": "2026年2月22日 下午4:13:48",
+            "level": 100,
+            "name": "零号机体",
+            "name_history": [
+                "零号机体"
+            ],
+            "registered": "2021年12月16日 下午8:20:56",
+            "role_id": 60666413095464,
             "server_region": "visser-aida"
         },
         "60666413101290": {
@@ -18579,7 +18631,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1171,
-    "last_updated": "2026年2月22日 下午4:11:47",
+    "accounts_total": 1172,
+    "last_updated": "2026年2月22日 下午4:13:48",
     "server_region": "visser-aida"
 }
