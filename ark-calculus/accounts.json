@@ -2050,11 +2050,26 @@
             "server_region": "ark-calculus"
         },
         "62285615737955": {
+            "crew_history": [
+                "梦染江山"
+            ],
             "crew_id": 68719491245,
             "crew_name": "梦染江山",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "last_seen": "2025年09月26日 下午 5:42:01",
+            "hp": 2580996.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月22日 下午8:21:41",
+            "level": 100,
             "name": "茶茶子",
+            "name_history": [
+                "茶茶子"
+            ],
             "registered": "2021年12月16日 上午9:14:13",
             "role_id": 62285615737955,
             "server_region": "ark-calculus"
@@ -8359,12 +8374,21 @@
             "server_region": "ark-calculus"
         },
         "62727997534289": {
+            "crew_history": [
+                "六芒星理事会"
+            ],
             "crew_id": 146028902766,
             "crew_name": "六芒星理事会",
-            "equipping_title": "1_8_1_1",
+            "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1852758.125,
-            "last_seen": "2025年11月25日 上午 1:21:55",
+            "hp": 1946877.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55808.1171875,
+                "y": -88522.2265625,
+                "z": 21723.990234375
+            },
+            "last_seen": "2026年2月22日 下午8:21:41",
             "level": 100,
             "name": "崩崩霜异线",
             "name_history": [
@@ -9011,14 +9035,14 @@
             "crew_name": "蓝桉与槐",
             "equipping_title": "4_2024",
             "gender": 0,
-            "hp": 1909630.125,
+            "hp": 1983781.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21726.048828125
+                "x": -54256.71875,
+                "y": -87930.3984375,
+                "z": 21722.048828125
             },
-            "last_seen": "2026年2月20日 下午8:18:41",
+            "last_seen": "2026年2月22日 下午8:21:41",
             "level": 100,
             "name": "胖达cafe",
             "name_history": [
@@ -9959,6 +9983,31 @@
             ],
             "registered": "2022年12月26日 下午5:37:39",
             "role_id": 62732292606212,
+            "server_region": "ark-calculus"
+        },
+        "62732292615455": {
+            "crew_history": [
+                "神圣的卡拉"
+            ],
+            "crew_id": 2164663531790,
+            "crew_name": "神圣的卡拉",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 2120870.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52959.59765625,
+                "y": -87711.5078125,
+                "z": 21862.69921875
+            },
+            "last_seen": "2026年2月22日 下午8:21:41",
+            "level": 100,
+            "name": "凰·羽",
+            "name_history": [
+                "凰·羽"
+            ],
+            "registered": "2022年12月29日 下午2:00:05",
+            "role_id": 62732292615455,
             "server_region": "ark-calculus"
         },
         "62732292617844": {
@@ -14266,7 +14315,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 743,
-    "last_updated": "2026年2月22日 下午8:19:41",
+    "accounts_total": 744,
+    "last_updated": "2026年2月22日 下午8:21:41",
     "server_region": "ark-calculus"
 }
