@@ -2252,6 +2252,31 @@
             "role_id": 60567630568024,
             "server_region": "visser-aida"
         },
+        "60567630568403": {
+            "crew_history": [
+                "猫猫乐园"
+            ],
+            "crew_id": 34359752575,
+            "crew_name": "猫猫乐园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1680257.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53966.59765625,
+                "y": -88007.3359375,
+                "z": 21942.208984375
+            },
+            "last_seen": "2026年2月22日 下午4:15:48",
+            "level": 100,
+            "name": "世界无",
+            "name_history": [
+                "世界无"
+            ],
+            "registered": "2024年11月26日 下午11:29:31",
+            "role_id": 60567630568403,
+            "server_region": "visser-aida"
+        },
         "60567630569363": {
             "crew_id": 55834588961,
             "crew_name": "诗情画意",
@@ -14539,14 +14564,26 @@
             "server_region": "visser-aida"
         },
         "61435212225172": {
+            "crew_history": [
+                "花涧"
+            ],
             "crew_id": 1039382099740,
             "crew_name": "花涧",
             "equipping_title": "2_1_0_2",
             "gender": 0,
-            "hp": 2077525.25,
-            "last_seen": "2025年10月27日 下午 7:28:56",
+            "hp": 2349920.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54882.96875,
+                "y": -88026.6015625,
+                "z": 21731.048828125
+            },
+            "last_seen": "2026年2月22日 下午4:15:48",
             "level": 100,
             "name": "Le0",
+            "name_history": [
+                "Le0"
+            ],
             "registered": "2021年12月16日 下午4:20:27",
             "role_id": 61435212225172,
             "server_region": "visser-aida"
@@ -18706,7 +18743,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1175,
-    "last_updated": "2026年2月22日 下午4:14:48",
+    "accounts_total": 1176,
+    "last_updated": "2026年2月22日 下午4:15:48",
     "server_region": "visser-aida"
 }
