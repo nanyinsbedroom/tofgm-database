@@ -5136,11 +5136,26 @@
             "server_region": "time-travel"
         },
         "63578401027407": {
-            "crew_id": 1022202231250,
-            "crew_name": "生态研究会",
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "1_1_3_1",
             "gender": 0,
-            "last_seen": "2025年09月24日 下午 11:10:29",
+            "hp": 1509743.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91553.46875,
+                "y": 77411.1015625,
+                "z": -7018.6396484375
+            },
+            "last_seen": "2026年2月23日 下午7:20:47",
+            "level": 84,
             "name": "浪漫血液",
+            "name_history": [
+                "浪漫血液"
+            ],
             "registered": "2024年3月7日 下午8:03:29",
             "role_id": 63578401027407,
             "server_region": "time-travel"
@@ -11963,9 +11978,32 @@
             "registered": "2026年2月23日 下午7:10:25",
             "role_id": 63578402004026,
             "server_region": "time-travel"
+        },
+        "63578402004028": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97765.0859375,
+                "y": 80790.28125,
+                "z": -5264.73974609375
+            },
+            "last_seen": "2026年2月23日 下午7:20:47",
+            "level": 1,
+            "name": "二十紫薇",
+            "name_history": [
+                "二十紫薇"
+            ],
+            "registered": "2026年2月23日 下午7:13:23",
+            "role_id": 63578402004028,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 718,
-    "last_updated": "2026年2月23日 下午7:19:47",
+    "accounts_total": 719,
+    "last_updated": "2026年2月23日 下午7:20:47",
     "server_region": "time-travel"
 }
