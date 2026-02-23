@@ -7043,6 +7043,29 @@
             "role_id": 60563335748028,
             "server_region": "future-humanity"
         },
+        "60563335751235": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 234224.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53715.75,
+                "y": -88102.15625,
+                "z": 21716.048828125
+            },
+            "last_seen": "2026年2月23日 下午8:24:50",
+            "level": 35,
+            "name": "云暮昏",
+            "name_history": [
+                "云暮昏"
+            ],
+            "registered": "2025年2月20日 下午11:34:41",
+            "role_id": 60563335751235,
+            "server_region": "future-humanity"
+        },
         "60563335766301": {
             "crew_history": [
                 "世界第一可爱"
@@ -7288,12 +7311,21 @@
             "server_region": "future-humanity"
         },
         "60563335799339": {
+            "crew_history": [
+                "无聊小屋"
+            ],
             "crew_id": 4909147633429,
             "crew_name": "无聊小屋",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_87",
             "gender": 1,
-            "hp": 1065448.125,
-            "last_seen": "2025年11月25日 上午 3:04:14",
+            "hp": 999278.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54940.859375,
+                "y": -87028.78125,
+                "z": 21724.96484375
+            },
+            "last_seen": "2026年2月23日 下午8:24:50",
             "level": 100,
             "name": "布林菌",
             "name_history": [
@@ -14360,7 +14392,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 724,
-    "last_updated": "2026年2月23日 下午8:23:50",
+    "accounts_total": 725,
+    "last_updated": "2026年2月23日 下午8:24:50",
     "server_region": "future-humanity"
 }
