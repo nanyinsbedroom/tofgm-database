@@ -56,14 +56,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1098085.75,
+            "hp": 1082668.875,
             "last_known_position": {
                 "map": "city",
-                "x": -904.8499755859375,
-                "y": -28447.548828125,
+                "x": 1340.896728515625,
+                "y": -28212.376953125,
                 "z": 97879.6171875
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Alice",
             "name_history": [
@@ -227,14 +227,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1083821.0,
+            "hp": 1077680.375,
             "last_known_position": {
                 "map": "city",
-                "x": -2326.849853515625,
-                "y": -28450.1796875,
-                "z": 96712.1953125
+                "x": 2485.7099609375,
+                "y": -27887.138671875,
+                "z": 98025.6640625
             },
-            "last_seen": "Feb 20, 2026, 9:17:49 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "wrap cat",
             "name_history": [
@@ -1575,14 +1575,14 @@
             "crew_name": "Asylum",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1135472.25,
+            "hp": 1123955.5,
             "last_known_position": {
                 "map": "city",
-                "x": 3925.659912109375,
-                "y": -28761.240234375,
-                "z": 96748.8671875
+                "x": 2020.0999755859375,
+                "y": -26664.26953125,
+                "z": 97877.1171875
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Sithral",
             "name_history": [
@@ -4550,15 +4550,25 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481638": {
-            "crew_id": 25778691879,
-            "crew_name": "Asylum",
-            "equipping_title": "None",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1043867.625,
-            "last_seen": "Feb 7, 2026, 8:02:01 PM",
-            "level": 74,
-            "name": "gogo1",
+            "hp": 1124239.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -226.50999450683594,
+                "y": -24094.279296875,
+                "z": 96730.875
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
+            "name": "kangoo",
             "name_history": [
+                "kangoo",
                 "gogo1"
             ],
             "registered": "Nov 25, 2025, 11:08:11 AM",
@@ -5743,6 +5753,31 @@
             "role_id": 38174111708482321,
             "server_region": "ws-europe-01"
         },
+        "38174111708482335": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "2_8_0_9",
+            "gender": 1,
+            "hp": 1108458.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1684.510009765625,
+                "y": -24255.08984375,
+                "z": 97872.4140625
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
+            "name": "Lulu",
+            "name_history": [
+                "Lulu"
+            ],
+            "registered": "Nov 25, 2025, 12:17:56 PM",
+            "role_id": 38174111708482335,
+            "server_region": "ws-europe-01"
+        },
         "38174111708482355": {
             "crew_id": 0,
             "crew_name": "",
@@ -6048,14 +6083,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_19",
             "gender": 0,
-            "hp": 1136867.25,
+            "hp": 936070.5,
             "last_known_position": {
                 "map": "city",
-                "x": -440.3800048828125,
-                "y": -23663.41015625,
-                "z": 98605.65625
+                "x": 1384.8499755859375,
+                "y": -27445.37890625,
+                "z": 97911.15625
             },
-            "last_seen": "Feb 21, 2026, 11:47:59 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Fedwells",
             "name_history": [
@@ -6249,14 +6284,14 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_8_0_7",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1105978.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 94895.28125,
-                "y": -188572.40625,
-                "z": -8084.8701171875
+                "map": "city",
+                "x": -1834.3299560546875,
+                "y": -24725.728515625,
+                "z": 97872.3984375
             },
-            "last_seen": "Feb 20, 2026, 9:23:49 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "DэDэ",
             "name_history": [
@@ -6966,16 +7001,16 @@
             ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1056181.125,
+            "hp": 1058484.5,
             "last_known_position": {
                 "map": "city",
-                "x": 109.64999389648438,
-                "y": -28148.8203125,
-                "z": 97917.4765625
+                "x": 1441.0899658203125,
+                "y": -27267.37890625,
+                "z": 97917.625
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Gi",
             "name_history": [
@@ -7966,11 +8001,11 @@
             "hp": 931113.0,
             "last_known_position": {
                 "map": "city",
-                "x": -1599.1400146484375,
-                "y": -28461.509765625,
-                "z": 97866.0
+                "x": 3349.889892578125,
+                "y": -26842.369140625,
+                "z": 96769.859375
             },
-            "last_seen": "Feb 19, 2026, 9:36:32 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 75,
             "name": "          .",
             "name_history": [
@@ -8481,13 +8516,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708484683": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 935366.75,
-            "last_seen": "Feb 10, 2026, 7:22:47 PM",
-            "level": 74,
+            "hp": 988063.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": -3428.3798828125,
+                "y": -28854.830078125,
+                "z": 96738.375
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 75,
             "name": "Fanni",
             "name_history": [
                 "Fanni"
@@ -9117,16 +9161,16 @@
             ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
-            "equipping_title": "2_7_0_11",
+            "equipping_title": "ʝα∂α's Mentor,0",
             "gender": 1,
-            "hp": 1061061.75,
+            "hp": 1064421.75,
             "last_known_position": {
                 "map": "city",
-                "x": 273.6399841308594,
-                "y": -28152.76953125,
-                "z": 97917.5
+                "x": 1553.449951171875,
+                "y": -27116.609375,
+                "z": 97917.6640625
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "zKevinPlayz",
             "name_history": [
@@ -9174,16 +9218,16 @@
             ],
             "crew_id": 171807579943,
             "crew_name": "Rebirth",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "2_7_0_11",
             "gender": 1,
             "hp": 1085334.5,
             "last_known_position": {
                 "map": "city",
-                "x": 170.17999267578125,
-                "y": -28170.080078125,
-                "z": 97917.65625
+                "x": 1507.25,
+                "y": -27205.419921875,
+                "z": 97917.6640625
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Iridaceae",
             "name_history": [
@@ -10067,14 +10111,14 @@
             "crew_name": "Asylum",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 1051050.0,
+            "hp": 1044064.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
+                "x": 2291.530029296875,
+                "y": -27120.849609375,
                 "z": 97872.6171875
             },
-            "last_seen": "Feb 19, 2026, 9:35:32 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "RoamingGiant",
             "name_history": [
@@ -10236,14 +10280,14 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1086347.875,
+            "hp": 1115610.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1114.719970703125,
-                "y": -31157.029296875,
-                "z": 97306.71875
+                "x": 1924.929931640625,
+                "y": -25518.5390625,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Gojo Satoru",
             "name_history": [
@@ -11328,6 +11372,31 @@
             "role_id": 38174111708488507,
             "server_region": "ws-europe-01"
         },
+        "38174111708488587": {
+            "crew_history": [
+                "Arcana"
+            ],
+            "crew_id": 115973005095,
+            "crew_name": "Arcana",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 854265.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1403.5599365234375,
+                "y": -28539.19921875,
+                "z": 97873.8671875
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
+            "name": "Shahai",
+            "name_history": [
+                "Shahai"
+            ],
+            "registered": "Nov 26, 2025, 12:13:51 AM",
+            "role_id": 38174111708488587,
+            "server_region": "ws-europe-01"
+        },
         "38174111708488675": {
             "crew_id": 115973005095,
             "crew_name": "Arcana",
@@ -11769,14 +11838,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "PoorLifeChoice's Mentor,0",
             "gender": 0,
-            "hp": 1118013.625,
+            "hp": 847282.5,
             "last_known_position": {
                 "map": "city",
-                "x": 441.1999816894531,
-                "y": -27654.689453125,
-                "z": 96718.9453125
+                "x": 1433.719970703125,
+                "y": -27367.728515625,
+                "z": 97922.984375
             },
-            "last_seen": "Feb 19, 2026, 9:13:31 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Wastingtime",
             "name_history": [
@@ -12862,13 +12931,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708493754": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1955885.625,
-            "last_seen": "Feb 8, 2026, 7:29:41 PM",
-            "level": 74,
+            "hp": 1081234.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -2051.179931640625,
+                "y": -27005.25,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
             "name": "SANZENKAI",
             "name_history": [
                 "SANZENKAI"
@@ -13386,6 +13464,31 @@
             "role_id": 38174111708495270,
             "server_region": "ws-europe-01"
         },
+        "38174111708495513": {
+            "crew_history": [
+                "Tower of Hope"
+            ],
+            "crew_id": 446685486887,
+            "crew_name": "Tower of Hope",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 1027793.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1457.239990234375,
+                "y": -24976.2890625,
+                "z": 97879.515625
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
+            "name": "Knives",
+            "name_history": [
+                "Knives"
+            ],
+            "registered": "Nov 28, 2025, 11:50:17 AM",
+            "role_id": 38174111708495513,
+            "server_region": "ws-europe-01"
+        },
         "38174111708495522": {
             "crew_id": 266296860455,
             "crew_name": "Star Guardians",
@@ -13508,14 +13611,14 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "2_2_0_68",
             "gender": 0,
-            "hp": 1066187.5,
+            "hp": 1070584.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -73286.3515625,
-                "y": 48951.1875,
-                "z": -12301.16015625
+                "map": "city",
+                "x": 1297.989990234375,
+                "y": -28248.509765625,
+                "z": 97879.6171875
             },
-            "last_seen": "Feb 21, 2026, 11:43:59 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Birjukow",
             "name_history": [
@@ -14455,13 +14558,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708501348": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 481581.625,
-            "last_seen": "Feb 10, 2026, 7:20:51 PM",
-            "level": 73,
+            "hp": 714350.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1933.5,
+                "y": -24320.0,
+                "z": 97879.1015625
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
             "name": "ysir",
             "name_history": [
                 "ysir"
@@ -15027,14 +15139,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "WorldBossDamage_1;boss_hum_055_World;1",
             "gender": 1,
-            "hp": 1113412.125,
+            "hp": 1116725.75,
             "last_known_position": {
                 "map": "city",
-                "x": 238.79998779296875,
-                "y": -28145.69921875,
-                "z": 97911.15625
+                "x": 1718.2999267578125,
+                "y": -27673.19921875,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 21, 2026, 11:51:59 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Rosémi",
             "name_history": [
@@ -16939,6 +17051,31 @@
             "role_id": 38174111708515798,
             "server_region": "ws-europe-01"
         },
+        "38174111708515857": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
+            "crew_id": 365081108263,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "Tamira's Apprentice,0",
+            "gender": 1,
+            "hp": 1045855.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1633.75,
+                "y": -23713.689453125,
+                "z": 97865.5
+            },
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
+            "level": 76,
+            "name": "Aquiana",
+            "name_history": [
+                "Aquiana"
+            ],
+            "registered": "Dec 23, 2025, 10:44:38 PM",
+            "role_id": 38174111708515857,
+            "server_region": "ws-europe-01"
+        },
         "38174111708516893": {
             "crew_history": [
                 "Asylum"
@@ -17569,14 +17706,14 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 1090796.5,
+            "hp": 805162.0625,
             "last_known_position": {
                 "map": "city",
-                "x": 592.0,
-                "y": -28060.0,
-                "z": 97917.6640625
+                "x": 559.2799682617188,
+                "y": -27651.6484375,
+                "z": 96713.4453125
             },
-            "last_seen": "Feb 21, 2026, 7:29:00 PM",
+            "last_seen": "Feb 23, 2026, 6:57:13 PM",
             "level": 76,
             "name": "Anishy",
             "name_history": [
@@ -22357,7 +22494,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1227,
-    "last_updated": "Feb 23, 2026, 6:56:13 PM",
+    "accounts_total": 1231,
+    "last_updated": "Feb 23, 2026, 6:57:13 PM",
     "server_region": "ws-europe-01"
 }
