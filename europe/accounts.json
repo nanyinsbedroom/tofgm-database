@@ -7406,15 +7406,25 @@
             "server_region": "europe"
         },
         "55903294407816": {
+            "crew_history": [
+                "New Hope"
+            ],
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
-            "equipping_title": "3_2022",
+            "equipping_title": "SexOnlyWithMita's Mentor,0",
             "gender": 0,
-            "hp": 2325778.25,
-            "last_seen": "Nov 22, 2025, 06:33:25 PM",
+            "hp": 2154267.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1551.699951171875,
+                "y": 45418.05859375,
+                "z": 5695.59375
+            },
+            "last_seen": "Feb 23, 2026, 7:15:14 PM",
             "level": 100,
-            "name": "NixonPL",
+            "name": "Nixi Atlanta",
             "name_history": [
+                "Nixi Atlanta",
                 "NixonPL"
             ],
             "registered": "Sep 15, 2022, 8:42:34 PM",
@@ -7626,6 +7636,31 @@
             ],
             "registered": "Sep 26, 2022, 1:39:58 AM",
             "role_id": 55907589396219,
+            "server_region": "europe"
+        },
+        "55911884259565": {
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 2697239474913,
+            "crew_name": "Asylum",
+            "equipping_title": "1_2022",
+            "gender": 0,
+            "hp": 2024210.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1624.8099365234375,
+                "y": 45310.9296875,
+                "z": 5714.603515625
+            },
+            "last_seen": "Feb 23, 2026, 7:15:14 PM",
+            "level": 100,
+            "name": "L0sT FR0m L1gHT",
+            "name_history": [
+                "L0sT FR0m L1gHT"
+            ],
+            "registered": "Aug 11, 2022, 3:52:29 AM",
+            "role_id": 55911884259565,
             "server_region": "europe"
         },
         "55911884262421": {
@@ -13750,6 +13785,31 @@
             "role_id": 55963424695324,
             "server_region": "europe"
         },
+        "55963424695706": {
+            "crew_history": [
+                "Requiem "
+            ],
+            "crew_id": 1047972033225,
+            "crew_name": "Requiem ",
+            "equipping_title": "1_4_4_6",
+            "gender": 1,
+            "hp": 1294728.625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 11409.01953125,
+                "y": 690.5299682617188,
+                "z": 12698.8798828125
+            },
+            "last_seen": "Feb 23, 2026, 7:15:14 PM",
+            "level": 100,
+            "name": "minizie",
+            "name_history": [
+                "minizie"
+            ],
+            "registered": "May 5, 2025, 4:11:41 AM",
+            "role_id": 55963424695706,
+            "server_region": "europe"
+        },
         "55963424695886": {
             "crew_id": 0,
             "crew_name": "",
@@ -19799,6 +19859,29 @@
             "role_id": 55963424765627,
             "server_region": "europe"
         },
+        "55963424765649": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 1007438.0625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 1524.419921875,
+                "y": 44510.3203125,
+                "z": 5710.11962890625
+            },
+            "last_seen": "Feb 23, 2026, 7:15:14 PM",
+            "level": 83,
+            "name": "Don Goku",
+            "name_history": [
+                "Don Goku"
+            ],
+            "registered": "Feb 14, 2026, 11:52:26 PM",
+            "role_id": 55963424765649,
+            "server_region": "europe"
+        },
         "55963424765743": {
             "crew_history": [],
             "crew_id": 0,
@@ -21206,7 +21289,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1407,
-    "last_updated": "Feb 23, 2026, 7:14:13 PM",
+    "accounts_total": 1410,
+    "last_updated": "Feb 23, 2026, 7:15:14 PM",
     "server_region": "europe"
 }
