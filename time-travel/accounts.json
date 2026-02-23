@@ -1736,13 +1736,22 @@
             "server_region": "time-travel"
         },
         "63574105957115": {
+            "crew_history": [
+                "心焰"
+            ],
             "crew_id": 4552665348563,
             "crew_name": "心焰",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1339807.75,
-            "last_seen": "2026年01月28日 上午 7:01:02",
-            "level": 80,
+            "hp": 1584384.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42447.77734375,
+                "y": 1943.8599853515625,
+                "z": -13488.529296875
+            },
+            "last_seen": "2026年2月23日 下午7:47:48",
+            "level": 84,
             "name": "玛奇朵·",
             "name_history": [
                 "玛奇朵·"
@@ -8779,13 +8788,22 @@
             "server_region": "time-travel"
         },
         "63578401954140": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 2920577776082,
             "crew_name": "魔女之旅",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1263659.25,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 81,
+            "hp": 1322693.75,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42430.25,
+                "y": 1898.75,
+                "z": -13482.0595703125
+            },
+            "last_seen": "2026年2月23日 下午7:47:48",
+            "level": 83,
             "name": "无情画.",
             "name_history": [
                 "无情画."
@@ -10509,6 +10527,31 @@
             "role_id": 63578401983392,
             "server_region": "time-travel"
         },
+        "63578401983423": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1242777.25,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42469.30859375,
+                "y": 1998.159912109375,
+                "z": -13473.51953125
+            },
+            "last_seen": "2026年2月23日 下午7:47:48",
+            "level": 84,
+            "name": "乌米乌米乌～-",
+            "name_history": [
+                "乌米乌米乌～-"
+            ],
+            "registered": "2025年11月25日 下午8:35:27",
+            "role_id": 63578401983423,
+            "server_region": "time-travel"
+        },
         "63578401983820": {
             "crew_id": 4552665348563,
             "crew_name": "心焰",
@@ -10573,6 +10616,31 @@
             ],
             "registered": "2021年12月18日 上午10:57:05",
             "role_id": 63578401984698,
+            "server_region": "time-travel"
+        },
+        "63578401984856": {
+            "crew_history": [
+                "暖暖六课"
+            ],
+            "crew_id": 1473173797330,
+            "crew_name": "暖暖六课",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 115431.796875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42353.5703125,
+                "y": 1849.18994140625,
+                "z": -13485.830078125
+            },
+            "last_seen": "2026年2月23日 下午7:47:48",
+            "level": 83,
+            "name": "御坂10127",
+            "name_history": [
+                "御坂10127"
+            ],
+            "registered": "2025年11月30日 下午7:51:57",
+            "role_id": 63578401984856,
             "server_region": "time-travel"
         },
         "63578401984888": {
@@ -12815,7 +12883,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 752,
-    "last_updated": "2026年2月23日 下午7:46:48",
+    "accounts_total": 754,
+    "last_updated": "2026年2月23日 下午7:47:48",
     "server_region": "time-travel"
 }
