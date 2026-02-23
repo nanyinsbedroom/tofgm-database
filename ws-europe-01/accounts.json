@@ -10588,13 +10588,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708487269": {
+            "crew_history": [
+                "Tempest"
+            ],
             "crew_id": 1378693390119,
             "crew_name": "Tempest",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 499269.0,
-            "last_seen": "Feb 03, 2026, 10:30:49 PM",
-            "level": 71,
+            "hp": 500997.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64596.09765625,
+                "y": 105880.515625,
+                "z": -7190.77783203125
+            },
+            "last_seen": "Feb 23, 2026, 6:55:13 PM",
+            "level": 73,
             "name": "Yunai",
             "name_history": [
                 "Yunai"
@@ -21859,15 +21868,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 14976.0,
+            "hp": 87726.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -89636.0703125,
-                "y": 85540.53125,
-                "z": -6388.68310546875
+                "x": -56069.5,
+                "y": 64396.5,
+                "z": -3065.199951171875
             },
-            "last_seen": "Feb 21, 2026, 7:19:00 PM",
-            "level": 9,
+            "last_seen": "Feb 23, 2026, 6:55:13 PM",
+            "level": 26,
             "name": "Eijiakia",
             "name_history": [
                 "Eijiakia"
@@ -22037,6 +22046,29 @@
             "role_id": 38174111708526220,
             "server_region": "ws-europe-01"
         },
+        "38174111708526234": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55082.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -51504.16796875,
+                "y": 97737.6953125,
+                "z": -12642.8701171875
+            },
+            "last_seen": "Feb 23, 2026, 6:55:13 PM",
+            "level": 9,
+            "name": "Lucky5",
+            "name_history": [
+                "Lucky5"
+            ],
+            "registered": "Feb 21, 2026, 9:05:00 PM",
+            "role_id": 38174111708526234,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526239": {
             "crew_history": [],
             "crew_id": 0,
@@ -22175,6 +22207,31 @@
             "role_id": 38174111708526255,
             "server_region": "ws-europe-01"
         },
+        "38174111708526357": {
+            "crew_history": [
+                "french"
+            ],
+            "crew_id": 1855434759975,
+            "crew_name": "french",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 84350.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55298.48828125,
+                "y": 66684.9375,
+                "z": -8916.7197265625
+            },
+            "last_seen": "Feb 23, 2026, 6:55:13 PM",
+            "level": 31,
+            "name": "lmt",
+            "name_history": [
+                "lmt"
+            ],
+            "registered": "Feb 22, 2026, 11:44:12 PM",
+            "role_id": 38174111708526357,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526388": {
             "crew_history": [],
             "crew_id": 0,
@@ -22196,6 +22253,29 @@
             ],
             "registered": "Feb 23, 2026, 1:15:59 PM",
             "role_id": 38174111708526388,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708526402": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38839.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57690.27734375,
+                "y": 84013.4375,
+                "z": -11492.83984375
+            },
+            "last_seen": "Feb 23, 2026, 6:55:13 PM",
+            "level": 7,
+            "name": "Stigma",
+            "name_history": [
+                "Stigma"
+            ],
+            "registered": "Feb 23, 2026, 5:17:14 PM",
+            "role_id": 38174111708526402,
             "server_region": "ws-europe-01"
         },
         "38174111708526404": {
@@ -22268,7 +22348,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1224,
-    "last_updated": "Feb 23, 2026, 6:54:13 PM",
+    "accounts_total": 1227,
+    "last_updated": "Feb 23, 2026, 6:55:13 PM",
     "server_region": "ws-europe-01"
 }
