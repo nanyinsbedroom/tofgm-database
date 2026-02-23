@@ -16397,13 +16397,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413528577": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
-            "equipping_title": "Huh的导师,0",
+            "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 897249.6875,
-            "last_seen": "Jan 25, 2026, 11:23:21 PM",
-            "level": 72,
+            "hp": 1089535.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -3572.0,
+                "y": -22729.298828125,
+                "z": 97293.8984375
+            },
+            "last_seen": "Feb 23, 2026, 12:46:13 PM",
+            "level": 76,
             "name": "Kart",
             "name_history": [
                 "Kart"
@@ -18899,6 +18908,31 @@
             ],
             "registered": "Nov 28, 2025, 2:48:00 PM",
             "role_id": 38174107413542719,
+            "server_region": "ws-america-01"
+        },
+        "38174107413542732": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "2_8_0_6",
+            "gender": 0,
+            "hp": 1022365.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1275.260009765625,
+                "y": -27969.1484375,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 23, 2026, 12:46:13 PM",
+            "level": 76,
+            "name": "Thatdamnhealer",
+            "name_history": [
+                "Thatdamnhealer"
+            ],
+            "registered": "Nov 28, 2025, 2:52:23 PM",
+            "role_id": 38174107413542732,
             "server_region": "ws-america-01"
         },
         "38174107413542820": {
@@ -29344,7 +29378,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1644,
-    "last_updated": "Feb 23, 2026, 12:45:13 PM",
+    "accounts_total": 1645,
+    "last_updated": "Feb 23, 2026, 12:46:13 PM",
     "server_region": "ws-america-01"
 }
