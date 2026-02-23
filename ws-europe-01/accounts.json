@@ -18227,6 +18227,31 @@
             "role_id": 38174111708522844,
             "server_region": "ws-europe-01"
         },
+        "38174111708522854": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "Rosémi's Apprentice,0",
+            "gender": 1,
+            "hp": 298459.78125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79769.0,
+                "y": 73301.8984375,
+                "z": -9654.16015625
+            },
+            "last_seen": "Feb 23, 2026, 6:53:13 PM",
+            "level": 63,
+            "name": "Mélaena",
+            "name_history": [
+                "Mélaena"
+            ],
+            "registered": "Jan 21, 2026, 1:09:25 AM",
+            "role_id": 38174111708522854,
+            "server_region": "ws-europe-01"
+        },
         "38174111708522886": {
             "crew_id": 0,
             "crew_name": "",
@@ -21174,6 +21199,29 @@
             "role_id": 38174111708525914,
             "server_region": "ws-europe-01"
         },
+        "38174111708525933": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33686.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80155.7421875,
+                "y": 69588.6953125,
+                "z": -8467.7568359375
+            },
+            "last_seen": "Feb 23, 2026, 6:53:13 PM",
+            "level": 9,
+            "name": "Stalya",
+            "name_history": [
+                "Stalya"
+            ],
+            "registered": "Feb 18, 2026, 9:41:52 PM",
+            "role_id": 38174111708525933,
+            "server_region": "ws-europe-01"
+        },
         "38174111708525935": {
             "crew_history": [],
             "crew_id": 0,
@@ -22076,9 +22124,78 @@
             "registered": "Feb 21, 2026, 11:31:48 PM",
             "role_id": 38174111708526255,
             "server_region": "ws-europe-01"
+        },
+        "38174111708526388": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30890.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98718.0,
+                "y": 80385.0,
+                "z": -5217.759765625
+            },
+            "last_seen": "Feb 23, 2026, 6:53:13 PM",
+            "level": 9,
+            "name": "Llynora",
+            "name_history": [
+                "Llynora"
+            ],
+            "registered": "Feb 23, 2026, 1:15:59 PM",
+            "role_id": 38174111708526388,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708526404": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 10346.3349609375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80666.265625,
+                "y": 79553.3671875,
+                "z": -9774.2431640625
+            },
+            "last_seen": "Feb 23, 2026, 6:53:13 PM",
+            "level": 5,
+            "name": "MrJokerFr",
+            "name_history": [
+                "MrJokerFr"
+            ],
+            "registered": "Feb 23, 2026, 5:51:24 PM",
+            "role_id": 38174111708526404,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708526407": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81548.328125,
+                "y": 77262.4609375,
+                "z": -10065.689453125
+            },
+            "last_seen": "Feb 23, 2026, 6:53:13 PM",
+            "level": 4,
+            "name": "ZeroBlaz",
+            "name_history": [
+                "ZeroBlaz"
+            ],
+            "registered": "Feb 23, 2026, 6:04:19 PM",
+            "role_id": 38174111708526407,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1216,
-    "last_updated": "Feb 22, 2026, 12:04:00 AM",
+    "accounts_total": 1221,
+    "last_updated": "Feb 23, 2026, 6:53:13 PM",
     "server_region": "ws-europe-01"
 }
