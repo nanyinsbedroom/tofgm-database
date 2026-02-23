@@ -2830,15 +2830,15 @@
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1067286.75,
+            "hp": 1118371.0,
             "last_known_position": {
                 "map": "city",
-                "x": -117.27999877929688,
-                "y": -16561.009765625,
-                "z": 96362.0390625
+                "x": 354.5199890136719,
+                "y": -27421.939453125,
+                "z": 96706.9609375
             },
-            "last_seen": "Feb 16, 2026, 10:05:02 PM",
-            "level": 75,
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
+            "level": 76,
             "name": "fyfu",
             "name_history": [
                 "fyfu"
@@ -6601,13 +6601,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482988": {
-            "crew_id": 98793135911,
-            "crew_name": "ColdHeart",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 641470.375,
-            "last_seen": "Jan 20, 2026, 01:49:38 AM",
-            "level": 71,
+            "hp": 850516.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1981.0999755859375,
+                "y": -27590.1484375,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
+            "level": 76,
             "name": "PinkLillys™",
             "name_history": [
                 "PinkLillys™"
@@ -9277,14 +9286,14 @@
             "crew_name": "Dynasty",
             "equipping_title": "Xiang's Enlightener,1",
             "gender": 1,
-            "hp": 1150106.0,
+            "hp": 1158428.375,
             "last_known_position": {
                 "map": "city",
-                "x": 109.39999389648438,
-                "y": -28626.099609375,
+                "x": 1493.5999755859375,
+                "y": -28196.8984375,
                 "z": 97872.6171875
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
             "level": 76,
             "name": "Xig",
             "name_history": [
@@ -9350,14 +9359,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "1_4_6_6",
             "gender": 0,
-            "hp": 947963.625,
+            "hp": 997496.0625,
             "last_known_position": {
                 "map": "city",
-                "x": 634.1400146484375,
-                "y": -28065.19921875,
-                "z": 97911.046875
+                "x": 2017.2099609375,
+                "y": -27518.330078125,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 21, 2026, 11:48:59 PM",
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
             "level": 76,
             "name": "Danieru",
             "name_history": [
@@ -15499,11 +15508,11 @@
             "hp": 1021077.75,
             "last_known_position": {
                 "map": "city",
-                "x": 2971.89990234375,
-                "y": -25486.240234375,
+                "x": 2992.22998046875,
+                "y": -25498.638671875,
                 "z": 96719.1953125
             },
-            "last_seen": "Feb 21, 2026, 11:48:59 PM",
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
             "level": 76,
             "name": "Mere",
             "name_history": [
@@ -16788,12 +16797,21 @@
             "server_region": "ws-europe-01"
         },
         "38174111708514494": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 364282.0,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
+            "hp": 373690.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97886.1171875
+            },
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
             "level": 72,
             "name": "Непонятно",
             "name_history": [
@@ -16954,6 +16972,31 @@
             ],
             "registered": "Dec 22, 2025, 9:18:34 AM",
             "role_id": 38174111708515043,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708515052": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
+            "crew_id": 932016791335,
+            "crew_name": "Апертура Науки",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 289709.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1139.9000244140625,
+                "y": -28342.3984375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
+            "level": 72,
+            "name": "Турель",
+            "name_history": [
+                "Турель"
+            ],
+            "registered": "Dec 22, 2025, 10:12:22 AM",
+            "role_id": 38174111708515052,
             "server_region": "ws-europe-01"
         },
         "38174111708515224": {
@@ -22353,6 +22396,29 @@
             "role_id": 38174111708526255,
             "server_region": "ws-europe-01"
         },
+        "38174111708526289": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 34869.93359375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1104.530029296875,
+                "y": -25296.189453125,
+                "z": 96706.9765625
+            },
+            "last_seen": "Feb 23, 2026, 6:58:13 PM",
+            "level": 28,
+            "name": "XMN",
+            "name_history": [
+                "XMN"
+            ],
+            "registered": "Feb 22, 2026, 11:28:08 AM",
+            "role_id": 38174111708526289,
+            "server_region": "ws-europe-01"
+        },
         "38174111708526357": {
             "crew_history": [
                 "french"
@@ -22494,7 +22560,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1231,
-    "last_updated": "Feb 23, 2026, 6:57:13 PM",
+    "accounts_total": 1233,
+    "last_updated": "Feb 23, 2026, 6:58:13 PM",
     "server_region": "ws-europe-01"
 }
