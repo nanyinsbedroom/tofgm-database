@@ -1264,19 +1264,20 @@
             ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
-            "equipping_title": "2_11_1_2",
+            "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1471087.375,
+            "hp": 1551948.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1704.0699462890625,
-                "y": -24528.26953125,
-                "z": 98638.265625
+                "map": "QRSL_P",
+                "x": -80096.2578125,
+                "y": 70142.359375,
+                "z": -7944.9716796875
             },
-            "last_seen": "2026年2月17日 下午8:58:32",
-            "level": 83,
-            "name": "土煲孑",
+            "last_seen": "2026年2月23日 下午5:57:43",
+            "level": 84,
+            "name": "窗畔裁云",
             "name_history": [
+                "窗畔裁云",
                 "土煲孑"
             ],
             "registered": "2023年12月14日 下午12:30:54",
@@ -3544,6 +3545,31 @@
             "name": "羽暖",
             "registered": "2023年12月26日 下午7:48:11",
             "role_id": 63574106070640,
+            "server_region": "time-travel"
+        },
+        "63574106077835": {
+            "crew_history": [
+                "崩坏"
+            ],
+            "crew_id": 6326486841811,
+            "crew_name": "崩坏",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 121567.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81003.9453125,
+                "y": 71813.453125,
+                "z": -9139.3486328125
+            },
+            "last_seen": "2026年2月23日 下午5:57:43",
+            "level": 53,
+            "name": "䳑",
+            "name_history": [
+                "䳑"
+            ],
+            "registered": "2023年12月28日 下午9:25:48",
+            "role_id": 63574106077835,
             "server_region": "time-travel"
         },
         "63574106078114": {
@@ -7020,6 +7046,31 @@
             ],
             "registered": "2024年12月28日 下午8:58:05",
             "role_id": 63578401774197,
+            "server_region": "time-travel"
+        },
+        "63578401774406": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "4_2024",
+            "gender": 1,
+            "hp": 1476499.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91437.1015625,
+                "y": 77495.2109375,
+                "z": -7021.1396484375
+            },
+            "last_seen": "2026年2月23日 下午5:57:43",
+            "level": 84,
+            "name": "慕I影织",
+            "name_history": [
+                "慕I影织"
+            ],
+            "registered": "2024年12月29日 上午12:33:05",
+            "role_id": 63578401774406,
             "server_region": "time-travel"
         },
         "63578401777915": {
@@ -10970,6 +11021,29 @@
             "role_id": 63578402003548,
             "server_region": "time-travel"
         },
+        "63578402003822": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 62967.19140625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -87961.078125,
+                "y": 83323.34375,
+                "z": -7063.24365234375
+            },
+            "last_seen": "2026年2月23日 下午5:57:43",
+            "level": 15,
+            "name": "万顷花海延绵",
+            "name_history": [
+                "万顷花海延绵"
+            ],
+            "registered": "2026年2月22日 下午9:58:44",
+            "role_id": 63578402003822,
+            "server_region": "time-travel"
+        },
         "63578402004001": {
             "crew_history": [],
             "crew_id": 0,
@@ -11132,7 +11206,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 683,
-    "last_updated": "2026年2月23日 下午5:54:42",
+    "accounts_total": 686,
+    "last_updated": "2026年2月23日 下午5:57:43",
     "server_region": "time-travel"
 }
