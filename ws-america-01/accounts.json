@@ -331,6 +331,31 @@
             "role_id": 38174107413512262,
             "server_region": "ws-america-01"
         },
+        "38174107413512269": {
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "Enzomniak's Successor,1",
+            "gender": 1,
+            "hp": 1048767.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -40864.80078125,
+                "y": 90983.96875,
+                "z": -12620.0146484375
+            },
+            "last_seen": "Feb 23, 2026, 12:42:13 PM",
+            "level": 76,
+            "name": "Azazaela",
+            "name_history": [
+                "Azazaela"
+            ],
+            "registered": "Nov 25, 2025, 3:01:49 AM",
+            "role_id": 38174107413512269,
+            "server_region": "ws-america-01"
+        },
         "38174107413512273": {
             "crew_history": [
                 "Sovereign"
@@ -14720,15 +14745,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413524290": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Dreamlight"
+            ],
+            "crew_id": 798872805158,
+            "crew_name": "Dreamlight",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 64829.0,
-            "last_seen": "Nov 26, 2025, 01:13:50 AM",
-            "level": 13,
-            "name": " Ayane ",
+            "hp": 454764.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60189.16796875,
+                "y": 106767.234375,
+                "z": -12908.16015625
+            },
+            "last_seen": "Feb 23, 2026, 12:42:13 PM",
+            "level": 73,
+            "name": "Daki",
             "name_history": [
+                "Daki",
                 " Ayane "
             ],
             "registered": "Nov 25, 2025, 3:54:46 PM",
@@ -28299,6 +28334,31 @@
             "role_id": 38174107413582841,
             "server_region": "ws-america-01"
         },
+        "38174107413582886": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
+            "crew_id": 622779146022,
+            "crew_name": "BR Battle Storm",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 193516.609375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62028.44921875,
+                "y": 107145.4296875,
+                "z": -12911.01953125
+            },
+            "last_seen": "Feb 23, 2026, 12:42:13 PM",
+            "level": 66,
+            "name": "Spawnzera",
+            "name_history": [
+                "Spawnzera"
+            ],
+            "registered": "Feb 16, 2026, 6:20:33 PM",
+            "role_id": 38174107413582886,
+            "server_region": "ws-america-01"
+        },
         "38174107413582895": {
             "crew_history": [],
             "crew_id": 0,
@@ -29092,7 +29152,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1636,
-    "last_updated": "Feb 23, 2026, 12:41:13 PM",
+    "accounts_total": 1638,
+    "last_updated": "Feb 23, 2026, 12:42:13 PM",
     "server_region": "ws-america-01"
 }
