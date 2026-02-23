@@ -2592,14 +2592,26 @@
             "server_region": "time-travel"
         },
         "63574105986045": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
             "crew_id": 416611842514,
             "crew_name": "雪绒白巧",
             "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 563565.4375,
-            "last_seen": "2025年10月26日 下午 2:32:16",
-            "level": 64,
+            "hp": 1458665.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89214.0859375,
+                "y": 84117.3359375,
+                "z": -6892.759765625
+            },
+            "last_seen": "2026年2月23日 下午5:49:42",
+            "level": 84,
             "name": "爱莉儿",
+            "name_history": [
+                "爱莉儿"
+            ],
             "registered": "2023年12月16日 上午8:15:47",
             "role_id": 63574105986045,
             "server_region": "time-travel"
@@ -4648,6 +4660,29 @@
             ],
             "registered": "2024年2月7日 下午1:13:47",
             "role_id": 63578400884981,
+            "server_region": "time-travel"
+        },
+        "63578400894376": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 58442.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91521.6015625,
+                "y": 87677.140625,
+                "z": -6617.85986328125
+            },
+            "last_seen": "2026年2月23日 下午5:49:42",
+            "level": 16,
+            "name": "霄云Girl",
+            "name_history": [
+                "霄云Girl"
+            ],
+            "registered": "2024年2月8日 上午2:31:10",
+            "role_id": 63578400894376,
             "server_region": "time-travel"
         },
         "63578400918061": {
@@ -10946,7 +10981,7 @@
                 "y": 76189.7265625,
                 "z": -6891.2197265625
             },
-            "last_seen": "2026年2月23日 下午5:42:54",
+            "last_seen": "2026年2月23日 下午5:49:42",
             "level": 4,
             "name": "壹缕靑銯湮",
             "name_history": [
@@ -10978,9 +11013,55 @@
             "registered": "2026年2月23日 下午5:33:30",
             "role_id": 63578402004005,
             "server_region": "time-travel"
+        },
+        "63578402004006": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4997.77001953125
+            },
+            "last_seen": "2026年2月23日 下午5:49:42",
+            "level": 1,
+            "name": "逸风衍",
+            "name_history": [
+                "逸风衍"
+            ],
+            "registered": "2026年2月23日 下午5:43:03",
+            "role_id": 63578402004006,
+            "server_region": "time-travel"
+        },
+        "63578402004007": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97771.046875,
+                "y": 80791.2109375,
+                "z": -5264.7197265625
+            },
+            "last_seen": "2026年2月23日 下午5:49:42",
+            "level": 1,
+            "name": "边默涵",
+            "name_history": [
+                "边默涵"
+            ],
+            "registered": "2026年2月23日 下午5:47:50",
+            "role_id": 63578402004007,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 677,
-    "last_updated": "2026年2月23日 下午5:48:42",
+    "accounts_total": 680,
+    "last_updated": "2026年2月23日 下午5:49:42",
     "server_region": "time-travel"
 }
