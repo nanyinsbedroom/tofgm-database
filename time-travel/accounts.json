@@ -2468,6 +2468,31 @@
             "role_id": 63574105971826,
             "server_region": "time-travel"
         },
+        "63574105972098": {
+            "crew_history": [
+                "星期三"
+            ],
+            "crew_id": 8589949395,
+            "crew_name": "星期三",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 1635155.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82991.75,
+                "y": 73331.1015625,
+                "z": -8754.47265625
+            },
+            "last_seen": "2026年2月23日 下午7:04:46",
+            "level": 84,
+            "name": "Masiro",
+            "name_history": [
+                "Masiro"
+            ],
+            "registered": "2023年12月15日 上午10:22:40",
+            "role_id": 63574105972098,
+            "server_region": "time-travel"
+        },
         "63574105975284": {
             "crew_id": 0,
             "crew_name": "",
@@ -10672,13 +10697,22 @@
             "server_region": "time-travel"
         },
         "63578401998729": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "绳次元"
+            ],
+            "crew_id": 6292127103443,
+            "crew_name": "绳次元",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 50909.0,
-            "last_seen": "2026年01月29日 上午 1:11:39",
-            "level": 14,
+            "hp": 172281.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82231.9140625,
+                "y": 72616.703125,
+                "z": -9009.466796875
+            },
+            "last_seen": "2026年2月23日 下午7:04:46",
+            "level": 60,
             "name": "灯挺",
             "name_history": [
                 "灯挺"
@@ -11839,7 +11873,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 713,
-    "last_updated": "2026年2月23日 下午7:03:46",
+    "accounts_total": 714,
+    "last_updated": "2026年2月23日 下午7:04:46",
     "server_region": "time-travel"
 }
