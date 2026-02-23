@@ -13404,11 +13404,26 @@
             "server_region": "southeast-asia"
         },
         "68775311595214": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "last_seen": "Oct 11, 2025, 10:54:55 PM",
+            "hp": 1246034.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -522.2000122070313,
+                "y": -22436.400390625,
+                "z": 96744.875
+            },
+            "last_seen": "Feb 24, 2026, 5:49:16 AM",
+            "level": 100,
             "name": "Banshee~",
+            "name_history": [
+                "Banshee~"
+            ],
             "registered": "Nov 30, 2023, 9:09:41 AM",
             "role_id": 68775311595214,
             "server_region": "southeast-asia"
@@ -29534,6 +29549,6 @@
         }
     },
     "accounts_total": 2060,
-    "last_updated": "Feb 24, 2026, 1:34:02 AM",
+    "last_updated": "Feb 24, 2026, 5:49:16 AM",
     "server_region": "southeast-asia"
 }
