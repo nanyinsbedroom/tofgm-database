@@ -2005,12 +2005,21 @@
             "server_region": "future-humanity"
         },
         "60563335089100": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 14164802156309,
             "crew_name": "天使社",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 1632529.125,
-            "last_seen": "2025年11月25日 上午 3:02:13",
+            "hp": 1692904.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57640.0,
+                "y": -78480.0,
+                "z": 22534.779296875
+            },
+            "last_seen": "2026年2月23日 下午8:36:51",
             "level": 100,
             "name": "老秋",
             "name_history": [
@@ -14742,6 +14751,6 @@
         }
     },
     "accounts_total": 738,
-    "last_updated": "2026年2月23日 下午8:34:51",
+    "last_updated": "2026年2月23日 下午8:36:51",
     "server_region": "future-humanity"
 }
