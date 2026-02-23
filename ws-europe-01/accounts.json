@@ -7198,13 +7198,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483580": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 160993.0,
-            "last_seen": "Jan 25, 2026, 04:01:24 AM",
-            "level": 53,
+            "hp": 960794.3125,
+            "last_known_position": {
+                "map": "city",
+                "x": 499.29998779296875,
+                "y": -22264.798828125,
+                "z": 96741.375
+            },
+            "last_seen": "Feb 23, 2026, 6:56:13 PM",
+            "level": 76,
             "name": "3mar",
             "name_history": [
                 "3mar"
@@ -17197,14 +17206,14 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 998899.5625,
+            "hp": 1018654.375,
             "last_known_position": {
                 "map": "city",
-                "x": -3540.369873046875,
-                "y": -23213.25,
-                "z": 97319.875
+                "x": -422.1300048828125,
+                "y": -18190.099609375,
+                "z": 96343.0390625
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
+            "last_seen": "Feb 23, 2026, 6:56:13 PM",
             "level": 76,
             "name": "MasterMagic67",
             "name_history": [
@@ -18946,14 +18955,14 @@
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1007361.75,
+            "hp": 1027249.6875,
             "last_known_position": {
                 "map": "city",
-                "x": -1029.4100341796875,
-                "y": -26042.69921875,
-                "z": 96720.4453125
+                "x": 124.19999694824219,
+                "y": -21788.19921875,
+                "z": 96751.359375
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
+            "last_seen": "Feb 23, 2026, 6:56:13 PM",
             "level": 76,
             "name": "Queenpatrycja",
             "name_history": [
@@ -22349,6 +22358,6 @@
         }
     },
     "accounts_total": 1227,
-    "last_updated": "Feb 23, 2026, 6:55:13 PM",
+    "last_updated": "Feb 23, 2026, 6:56:13 PM",
     "server_region": "ws-europe-01"
 }
