@@ -4138,12 +4138,19 @@
             "server_region": "europe"
         },
         "55864639828922": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1268508.625,
-            "last_seen": "Nov 22, 2025, 01:37:22 AM",
+            "hp": 1268624.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -40592.828125,
+                "y": 90815.328125,
+                "z": -12633.2197265625
+            },
+            "last_seen": "Feb 24, 2026, 1:13:17 AM",
             "level": 100,
             "name": "Littlbob",
             "name_history": [
@@ -5034,6 +5041,31 @@
             "name": "Allynna ツ",
             "registered": "Jan 8, 2023, 7:06:17 AM",
             "role_id": 55873229674692,
+            "server_region": "europe"
+        },
+        "55873229737553": {
+            "crew_history": [
+                "Serenity"
+            ],
+            "crew_id": 489626284753,
+            "crew_name": "Serenity",
+            "equipping_title": "2_2_0_3",
+            "gender": 1,
+            "hp": 4824093.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58375.3125,
+                "y": 104468.0625,
+                "z": -12939.046875
+            },
+            "last_seen": "Feb 24, 2026, 1:13:17 AM",
+            "level": 100,
+            "name": "Gimpie",
+            "name_history": [
+                "Gimpie"
+            ],
+            "registered": "Feb 3, 2023, 1:05:30 AM",
+            "role_id": 55873229737553,
             "server_region": "europe"
         },
         "55873229737848": {
@@ -20370,6 +20402,29 @@
             "role_id": 55963424769608,
             "server_region": "europe"
         },
+        "55963424769609": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 5828.5244140625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64439.9140625,
+                "y": 89335.65625,
+                "z": -8850.06640625
+            },
+            "last_seen": "Feb 24, 2026, 1:13:17 AM",
+            "level": 14,
+            "name": "Растабан",
+            "name_history": [
+                "Растабан"
+            ],
+            "registered": "Feb 23, 2026, 5:44:20 PM",
+            "role_id": 55963424769609,
+            "server_region": "europe"
+        },
         "55967718837209": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -21110,7 +21165,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1404,
-    "last_updated": "Feb 23, 2026, 7:12:14 PM",
+    "accounts_total": 1406,
+    "last_updated": "Feb 24, 2026, 1:13:17 AM",
     "server_region": "europe"
 }
