@@ -19475,6 +19475,31 @@
             "role_id": 38174107413546199,
             "server_region": "ws-america-01"
         },
+        "38174107413546206": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "1_1_13_1",
+            "gender": 0,
+            "hp": 1062028.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -61475.4296875,
+                "y": 57867.1796875,
+                "z": -9189.5595703125
+            },
+            "last_seen": "Feb 23, 2026, 12:41:13 PM",
+            "level": 76,
+            "name": "xBreyner",
+            "name_history": [
+                "xBreyner"
+            ],
+            "registered": "Nov 29, 2025, 1:59:18 PM",
+            "role_id": 38174107413546206,
+            "server_region": "ws-america-01"
+        },
         "38174107413546292": {
             "crew_id": 55843462950,
             "crew_name": "Dreamlight",
@@ -22941,15 +22966,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413571491": {
-            "crew_id": 55843462950,
-            "crew_name": "Dreamlight",
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 163217645350,
+            "crew_name": "Michi Pizzería",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 506489.9375,
-            "last_seen": "Jan 23, 2026, 05:47:08 PM",
-            "level": 70,
-            "name": "CapiBara",
+            "hp": 643272.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77415.671875,
+                "y": 48773.02734375,
+                "z": -11933.5908203125
+            },
+            "last_seen": "Feb 23, 2026, 12:41:13 PM",
+            "level": 74,
+            "name": "El Zorro",
             "name_history": [
+                "El Zorro",
                 "CapiBara"
             ],
             "registered": "Dec 26, 2025, 4:17:02 PM",
@@ -24874,13 +24909,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413578695": {
+            "crew_history": [
+                "Kitten Café"
+            ],
             "crew_id": 115973005094,
-            "crew_name": "Maid Café ",
+            "crew_name": "Kitten Café",
             "equipping_title": "Marlle's Apprentice,0",
             "gender": 0,
-            "hp": 266245.65625,
-            "last_seen": "Feb 7, 2026, 2:33:08 PM",
-            "level": 71,
+            "hp": 499115.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -70372.390625,
+                "y": 48057.65234375,
+                "z": -12924.9462890625
+            },
+            "last_seen": "Feb 23, 2026, 12:41:13 PM",
+            "level": 75,
             "name": "Spke",
             "name_history": [
                 "Spke"
@@ -28070,20 +28114,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413582614": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 63138.0,
+            "hp": 253910.40625,
             "last_known_position": {
-                "map": "city",
-                "x": 94.05999755859375,
-                "y": -15824.4794921875,
-                "z": 96343.78125
+                "map": "QRSL_P",
+                "x": -72813.4921875,
+                "y": 48232.18359375,
+                "z": -12284.0576171875
             },
-            "last_seen": "Feb 15, 2026, 4:26:18 PM",
-            "level": 21,
+            "last_seen": "Feb 23, 2026, 12:41:13 PM",
+            "level": 70,
             "name": "Cloroplasma",
             "name_history": [
                 "Cloroplasma"
@@ -28953,6 +28999,29 @@
             "role_id": 38174107413583676,
             "server_region": "ws-america-01"
         },
+        "38174107413583770": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 38209.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74853.8984375,
+                "y": 51300.8671875,
+                "z": -11746.779296875
+            },
+            "last_seen": "Feb 23, 2026, 12:41:13 PM",
+            "level": 11,
+            "name": "Ragual",
+            "name_history": [
+                "Ragual"
+            ],
+            "registered": "Feb 23, 2026, 8:41:03 AM",
+            "role_id": 38174107413583770,
+            "server_region": "ws-america-01"
+        },
         "38174107413583778": {
             "crew_history": [],
             "crew_id": 0,
@@ -29023,7 +29092,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1634,
-    "last_updated": "Feb 23, 2026, 12:40:13 PM",
+    "accounts_total": 1636,
+    "last_updated": "Feb 23, 2026, 12:41:13 PM",
     "server_region": "ws-america-01"
 }
