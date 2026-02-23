@@ -17945,15 +17945,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695860685": {
+            "crew_history": [
+                "白露之歌"
+            ],
             "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
+            "crew_name": "白露之歌",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1489453.875,
-            "last_seen": "2026年2月10日 上午1:15:47",
-            "level": 82,
-            "name": "心动猫猫",
+            "hp": 1616183.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 2003.9599609375,
+                "y": -27097.55859375,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月24日 上午2:48:34",
+            "level": 84,
+            "name": "江应怜",
             "name_history": [
+                "江应怜",
                 "心动猫猫"
             ],
             "registered": "2025年9月25日 下午9:15:46",
@@ -43043,14 +43053,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_7_0_18",
             "gender": 1,
-            "hp": 1460559.875,
+            "hp": 1504720.0,
             "last_known_position": {
                 "map": "city",
-                "x": -17.90999984741211,
-                "y": -16606.3203125,
-                "z": 96362.0390625
+                "x": 1231.909912109375,
+                "y": -28357.71875,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月20日 下午11:39:13",
+            "last_seen": "2026年2月24日 上午2:48:34",
             "level": 84,
             "name": "哈气猫猫",
             "name_history": [
@@ -53634,16 +53644,16 @@
             ],
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
-            "equipping_title": "1_6_4_26",
+            "equipping_title": "21神主的导师,0",
             "gender": 0,
-            "hp": 1438255.375,
+            "hp": 1473793.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1127.1600341796875,
-                "y": -28445.439453125,
-                "z": 97865.90625
+                "x": -1493.909912109375,
+                "y": -25125.3203125,
+                "z": 97866.0390625
             },
-            "last_seen": "2026年2月20日 下午11:22:12",
+            "last_seen": "2026年2月24日 上午2:48:34",
             "level": 84,
             "name": "anki",
             "name_history": [
@@ -56803,6 +56813,29 @@
             ],
             "registered": "2025年11月21日 下午11:46:20",
             "role_id": 63582695963704,
+            "server_region": "cosmic-fold"
+        },
+        "63582695963798": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 50565.26953125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1022.1699829101563,
+                "y": -23575.048828125,
+                "z": 98624.6171875
+            },
+            "last_seen": "2026年2月24日 上午2:48:34",
+            "level": 50,
+            "name": "观察员ζ",
+            "name_history": [
+                "观察员ζ"
+            ],
+            "registered": "2025年11月22日 上午5:08:47",
+            "role_id": 63582695963798,
             "server_region": "cosmic-fold"
         },
         "63582695963819": {
@@ -60733,15 +60766,15 @@
             "crew_name": "白月破晓",
             "equipping_title": "曼波小公主吖的学徒,0",
             "gender": 0,
-            "hp": 727241.625,
+            "hp": 730848.6875,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -34012.55078125,
-                "y": 6875.47998046875,
-                "z": -13802.2998046875
+                "map": "city",
+                "x": -1727.5999755859375,
+                "y": -28714.099609375,
+                "z": 97873.6953125
             },
-            "last_seen": "2026年2月19日 上午12:39:39",
-            "level": 83,
+            "last_seen": "2026年2月24日 上午2:48:34",
+            "level": 84,
             "name": "开导",
             "name_history": [
                 "开导"
@@ -71091,9 +71124,32 @@
             "registered": "2026年2月20日 下午11:32:11",
             "role_id": 63582696008501,
             "server_region": "cosmic-fold"
+        },
+        "63582696008988": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26811.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -9.179999351501465,
+                "y": -26009.66015625,
+                "z": 96766.28125
+            },
+            "last_seen": "2026年2月24日 上午2:48:34",
+            "level": 11,
+            "name": "卢建阿",
+            "name_history": [
+                "卢建阿"
+            ],
+            "registered": "2026年2月24日 上午12:52:17",
+            "role_id": 63582696008988,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5025,
-    "last_updated": "2026年2月21日 上午4:07:26",
+    "accounts_total": 5027,
+    "last_updated": "2026年2月24日 上午2:48:34",
     "server_region": "cosmic-fold"
 }
