@@ -5184,12 +5184,21 @@
             "server_region": "europe"
         },
         "55877524523476": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 725849486034,
             "crew_name": "Harmony",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1827995.0,
-            "last_seen": "Nov 18, 2025, 02:44:43 AM",
+            "hp": 2331256.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7796.0,
+                "y": 61421.0,
+                "z": 40598.96875
+            },
+            "last_seen": "Feb 23, 2026, 7:14:13 PM",
             "level": 100,
             "name": "Voye",
             "name_history": [
@@ -5684,12 +5693,21 @@
             "server_region": "europe"
         },
         "55881819652554": {
+            "crew_history": [
+                "Moonlight"
+            ],
             "crew_id": 64424522451,
             "crew_name": "Moonlight",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2318854.75,
-            "last_seen": "Nov 18, 2025, 02:08:28 AM",
+            "hp": 2867343.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7443.1396484375,
+                "y": 61362.6796875,
+                "z": 40605.4609375
+            },
+            "last_seen": "Feb 23, 2026, 7:14:13 PM",
             "level": 100,
             "name": "DoomKelly",
             "name_history": [
@@ -14942,6 +14960,29 @@
             "role_id": 55963424720975,
             "server_region": "europe"
         },
+        "55963424721196": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 1331217.875,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -13497.4853515625,
+                "y": 59024.4453125,
+                "z": 12810.64453125
+            },
+            "last_seen": "Feb 23, 2026, 7:14:13 PM",
+            "level": 99,
+            "name": "D master",
+            "name_history": [
+                "D master"
+            ],
+            "registered": "Aug 16, 2025, 10:03:41 PM",
+            "role_id": 55963424721196,
+            "server_region": "europe"
+        },
         "55963424721200": {
             "crew_id": 2538325684941,
             "crew_name": "  ",
@@ -21165,7 +21206,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1406,
-    "last_updated": "Feb 24, 2026, 1:13:17 AM",
+    "accounts_total": 1407,
+    "last_updated": "Feb 23, 2026, 7:14:13 PM",
     "server_region": "europe"
 }
