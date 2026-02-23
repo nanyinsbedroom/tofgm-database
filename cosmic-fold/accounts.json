@@ -54843,13 +54843,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695957864": {
-            "crew_id": 184683608532,
-            "crew_name": "天月之境",
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 963523.0,
-            "last_seen": "2026年01月26日 上午 4:37:52",
-            "level": 78,
+            "hp": 1020585.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35934.828125,
+                "y": 8965.1796875,
+                "z": -14012.58984375
+            },
+            "last_seen": "2026年2月24日 上午3:08:44",
+            "level": 81,
             "name": "夜蝶",
             "name_history": [
                 "夜蝶"
@@ -71173,6 +71182,31 @@
             "role_id": 63582696008748,
             "server_region": "cosmic-fold"
         },
+        "63582696008790": {
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 255102.609375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -33848.0,
+                "y": 7268.0,
+                "z": -13171.0
+            },
+            "last_seen": "2026年2月24日 上午3:08:44",
+            "level": 76,
+            "name": "困困兔",
+            "name_history": [
+                "困困兔"
+            ],
+            "registered": "2026年2月23日 上午1:36:05",
+            "role_id": 63582696008790,
+            "server_region": "cosmic-fold"
+        },
         "63582696008988": {
             "crew_history": [],
             "crew_id": 0,
@@ -71197,7 +71231,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5029,
-    "last_updated": "2026年2月24日 上午3:04:44",
+    "accounts_total": 5030,
+    "last_updated": "2026年2月24日 上午3:08:44",
     "server_region": "cosmic-fold"
 }
