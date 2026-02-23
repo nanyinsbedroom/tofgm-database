@@ -5939,15 +5939,15 @@
             "crew_name": "Solstice",
             "equipping_title": "2_2_0_31",
             "gender": 0,
-            "hp": 1082465.875,
+            "hp": 1095734.0,
             "last_known_position": {
-                "map": "city",
-                "x": -522.9299926757813,
-                "y": -24855.978515625,
-                "z": 97908.4765625
+                "map": "QRSL_P",
+                "x": -83827.453125,
+                "y": 71886.4921875,
+                "z": -8583.1337890625
             },
-            "last_seen": "Feb 15, 2026, 4:27:18 PM",
-            "level": 75,
+            "last_seen": "Feb 23, 2026, 12:51:13 PM",
+            "level": 76,
             "name": "Oshiddy",
             "name_history": [
                 "Oshiddy"
@@ -6092,17 +6092,17 @@
             ],
             "crew_id": 115973005094,
             "crew_name": "Kitten Café",
-            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;100",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 929613.625,
+            "hp": 980060.5,
             "last_known_position": {
-                "map": "city",
-                "x": -1427.699951171875,
-                "y": -24874.0,
-                "z": 97879.6171875
+                "map": "QRSL_P",
+                "x": -93260.1953125,
+                "y": 73340.7109375,
+                "z": -6989.0498046875
             },
-            "last_seen": "Feb 15, 2026, 4:17:17 PM",
-            "level": 75,
+            "last_seen": "Feb 23, 2026, 12:51:13 PM",
+            "level": 76,
             "name": "kittenkitten",
             "name_history": [
                 "kittenkitten"
@@ -20384,13 +20384,20 @@
             "server_region": "ws-america-01"
         },
         "38174107413551712": {
-            "crew_id": 1962808942374,
-            "crew_name": "KittySquad",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 187104.8125,
-            "last_seen": "Dec 22, 2025, 08:39:21 PM",
-            "level": 60,
+            "hp": 351823.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -88837.9375,
+                "y": 73011.046875,
+                "z": -7507.6552734375
+            },
+            "last_seen": "Feb 23, 2026, 12:51:13 PM",
+            "level": 74,
             "name": "HellaKitty",
             "name_history": [
                 "HellaKitty"
@@ -29383,6 +29390,6 @@
         }
     },
     "accounts_total": 1645,
-    "last_updated": "Feb 23, 2026, 12:49:13 PM",
+    "last_updated": "Feb 23, 2026, 12:51:13 PM",
     "server_region": "ws-america-01"
 }
