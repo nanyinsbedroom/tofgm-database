@@ -247,12 +247,21 @@
             "server_region": "future-humanity"
         },
         "60563333879588": {
+            "crew_history": [
+                "东方幻想乡"
+            ],
             "crew_id": 476741383957,
             "crew_name": "东方幻想乡",
             "equipping_title": "1_2021",
             "gender": 0,
-            "hp": 2110168.0,
-            "last_seen": "2025年11月25日 上午 3:14:14",
+            "hp": 2223533.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54744.6640625,
+                "y": -88383.7578125,
+                "z": 22053.677734375
+            },
+            "last_seen": "2026年2月23日 下午8:18:50",
             "level": 100,
             "name": "我要吃牛排",
             "name_history": [
@@ -14202,6 +14211,6 @@
         }
     },
     "accounts_total": 718,
-    "last_updated": "2026年2月23日 下午8:17:50",
+    "last_updated": "2026年2月23日 下午8:18:50",
     "server_region": "future-humanity"
 }
