@@ -9412,6 +9412,31 @@
             "role_id": 55937654108727,
             "server_region": "europe"
         },
+        "55937654112428": {
+            "crew_history": [
+                "Whalesong"
+            ],
+            "crew_id": 34359751370,
+            "crew_name": "Whalesong",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2125572.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 85383.0,
+                "y": -1682.5999755859375,
+                "z": 9565.4794921875
+            },
+            "last_seen": "Feb 24, 2026, 11:54:40 AM",
+            "level": 100,
+            "name": "begbie ",
+            "name_history": [
+                "begbie "
+            ],
+            "registered": "Aug 13, 2022, 11:15:25 AM",
+            "role_id": 55937654112428,
+            "server_region": "europe"
+        },
         "55937654128519": {
             "crew_id": 38654718669,
             "crew_name": "The_Void",
@@ -9926,11 +9951,11 @@
             "hp": 2033512.875,
             "last_known_position": {
                 "map": "Vera_city",
-                "x": 88972.3828125,
-                "y": 775.9129028320313,
-                "z": 9425.990234375
+                "x": 88961.4453125,
+                "y": 799.5199584960938,
+                "z": 9425.75
             },
-            "last_seen": "Feb 23, 2026, 7:16:14 PM",
+            "last_seen": "Feb 24, 2026, 11:54:40 AM",
             "level": 100,
             "name": "Wouter",
             "name_history": [
@@ -20539,6 +20564,29 @@
             "role_id": 55963424768851,
             "server_region": "europe"
         },
+        "55963424769352": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 31909.79296875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 7838.77001953125,
+                "y": -335.8500061035156,
+                "z": 12745.330078125
+            },
+            "last_seen": "Feb 24, 2026, 11:54:40 AM",
+            "level": 26,
+            "name": "Cosmosis",
+            "name_history": [
+                "Cosmosis"
+            ],
+            "registered": "Feb 23, 2026, 1:20:49 AM",
+            "role_id": 55963424769352,
+            "server_region": "europe"
+        },
         "55963424769469": {
             "crew_history": [],
             "crew_id": 0,
@@ -21371,7 +21419,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1413,
-    "last_updated": "Feb 24, 2026, 11:51:40 AM",
+    "accounts_total": 1415,
+    "last_updated": "Feb 24, 2026, 11:54:40 AM",
     "server_region": "europe"
 }
