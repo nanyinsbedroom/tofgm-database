@@ -3612,11 +3612,26 @@
             "server_region": "time-travel"
         },
         "63574106026752": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
+            "equipping_title": "1_1_7_1",
             "gender": 1,
-            "last_seen": "2025年09月19日 下午 3:50:55",
+            "hp": 1650604.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54176.48828125,
+                "y": -88121.609375,
+                "z": 21717.490234375
+            },
+            "last_seen": "2026年2月24日 下午4:24:04",
+            "level": 84,
             "name": "水月之风",
+            "name_history": [
+                "水月之风"
+            ],
             "registered": "2023年12月19日 下午8:17:13",
             "role_id": 63574106026752,
             "server_region": "time-travel"
@@ -8868,6 +8883,31 @@
             "role_id": 63578401931729,
             "server_region": "time-travel"
         },
+        "63578401934502": {
+            "crew_history": [
+                "魔法少女"
+            ],
+            "crew_id": 34359753170,
+            "crew_name": "魔法少女",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1108301.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55798.71875,
+                "y": -88739.734375,
+                "z": 21724.439453125
+            },
+            "last_seen": "2026年2月24日 下午4:24:04",
+            "level": 82,
+            "name": "芙心婉依",
+            "name_history": [
+                "芙心婉依"
+            ],
+            "registered": "2025年8月9日 下午4:04:50",
+            "role_id": 63578401934502,
+            "server_region": "time-travel"
+        },
         "63578401935392": {
             "crew_id": 5016521816531,
             "crew_name": "爱哥恋妹",
@@ -9236,15 +9276,23 @@
             "server_region": "time-travel"
         },
         "63578401954370": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 65817.0,
-            "last_seen": "2025年11月19日 上午 1:53:07",
-            "level": 47,
-            "name": "GreatGame",
+            "hp": 73593.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.453125,
+                "y": -88115.484375,
+                "z": 21724.048828125
+            },
+            "last_seen": "2026年2月24日 下午4:24:04",
+            "level": 56,
+            "name": "Kebabus",
             "name_history": [
+                "Kebabus",
                 "GreatGame"
             ],
             "registered": "2025年9月17日 下午7:07:01",
@@ -13470,7 +13518,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 777,
-    "last_updated": "2026年2月24日 下午4:20:04",
+    "accounts_total": 778,
+    "last_updated": "2026年2月24日 下午4:24:04",
     "server_region": "time-travel"
 }
