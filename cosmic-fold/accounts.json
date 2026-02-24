@@ -12032,13 +12032,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695856995": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "2_9_0_1",
             "gender": 1,
-            "hp": 1474079.625,
-            "last_seen": "2026年2月8日 下午8:27:29",
-            "level": 82,
+            "hp": 1647291.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 2263.93994140625,
+                "y": -26996.3203125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 84,
             "name": "魔王猫猫",
             "name_history": [
                 "魔王猫猫"
@@ -20440,15 +20449,15 @@
             "crew_name": "白月破晓",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1477056.25,
+            "hp": 1576696.0,
             "last_known_position": {
                 "map": "city",
-                "x": -22.5,
-                "y": -16482.900390625,
-                "z": 96362.0390625
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
             },
-            "last_seen": "2026年2月16日 上午12:14:14",
-            "level": 83,
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 84,
             "name": "桪",
             "name_history": [
                 "桪"
@@ -29514,14 +29523,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1532888.25,
+            "hp": 1561086.125,
             "last_known_position": {
                 "map": "city",
-                "x": -1630.9000244140625,
-                "y": -26485.5,
-                "z": 95410.1640625
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96349.03125
             },
-            "last_seen": "2026年2月20日 上午2:05:27",
+            "last_seen": "2026年2月24日 下午11:06:32",
             "level": 84,
             "name": "洛月儿",
             "name_history": [
@@ -30369,13 +30378,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695873892": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 1357638.0,
-            "last_seen": "",
-            "level": 81,
+            "hp": 1537086.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 20.469999313354492,
+                "y": -16593.330078125,
+                "z": 96362.015625
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 84,
             "name": "風清雲淡",
             "name_history": [
                 "風清雲淡"
@@ -54832,15 +54850,15 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 552037.6875,
+            "hp": 606271.875,
             "last_known_position": {
                 "map": "city",
-                "x": -1660.0,
-                "y": -28644.69921875,
-                "z": 97875.8203125
+                "x": 1418.989990234375,
+                "y": -28250.0,
+                "z": 97876.1171875
             },
-            "last_seen": "2026年2月15日 下午11:52:13",
-            "level": 81,
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 82,
             "name": "迦摩",
             "name_history": [
                 "迦摩"
@@ -71325,6 +71343,81 @@
             "role_id": 63582696008501,
             "server_region": "cosmic-fold"
         },
+        "63582696008528": {
+            "crew_history": [
+                "少女祈祷中"
+            ],
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 82401.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 39,
+            "name": "魔法少女一緣酱",
+            "name_history": [
+                "魔法少女一緣酱"
+            ],
+            "registered": "2026年2月21日 上午9:32:19",
+            "role_id": 63582696008528,
+            "server_region": "cosmic-fold"
+        },
+        "63582696008556": {
+            "crew_history": [
+                "少女祈祷中"
+            ],
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 68207.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 39,
+            "name": "魔法少女两仪酱",
+            "name_history": [
+                "魔法少女两仪酱"
+            ],
+            "registered": "2026年2月21日 下午1:47:47",
+            "role_id": 63582696008556,
+            "server_region": "cosmic-fold"
+        },
+        "63582696008563": {
+            "crew_history": [
+                "少女祈祷中"
+            ],
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79605.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 39,
+            "name": "魔法少女三叶酱",
+            "name_history": [
+                "魔法少女三叶酱"
+            ],
+            "registered": "2026年2月21日 下午2:37:00",
+            "role_id": 63582696008563,
+            "server_region": "cosmic-fold"
+        },
         "63582696008748": {
             "crew_history": [],
             "crew_id": 0,
@@ -71346,6 +71439,29 @@
             ],
             "registered": "2026年2月22日 下午6:57:28",
             "role_id": 63582696008748,
+            "server_region": "cosmic-fold"
+        },
+        "63582696008750": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "温柔猫猫的学徒,0",
+            "gender": 1,
+            "hp": 191182.40625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42187.98046875,
+                "y": 1774.199951171875,
+                "z": -13480.580078125
+            },
+            "last_seen": "2026年2月24日 下午11:06:32",
+            "level": 57,
+            "name": "美竹兰",
+            "name_history": [
+                "美竹兰"
+            ],
+            "registered": "2026年2月22日 下午7:08:22",
+            "role_id": 63582696008750,
             "server_region": "cosmic-fold"
         },
         "63582696008790": {
@@ -71514,7 +71630,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5040,
-    "last_updated": "2026年2月24日 下午11:05:32",
+    "accounts_total": 5044,
+    "last_updated": "2026年2月24日 下午11:06:32",
     "server_region": "cosmic-fold"
 }
