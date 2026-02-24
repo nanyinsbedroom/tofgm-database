@@ -24114,15 +24114,15 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 516719.40625,
+            "hp": 1081248.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55113.6875,
-                "y": 98902.4765625,
-                "z": -12516.01953125
+                "x": -45928.3671875,
+                "y": 96898.140625,
+                "z": -11137.830078125
             },
-            "last_seen": "Feb 18, 2026, 1:43:26 AM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 8:48:04 PM",
+            "level": 77,
             "name": "Sorahane",
             "name_history": [
                 "Sorahane"
@@ -41270,13 +41270,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118562851": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1003287.25,
-            "last_seen": "Feb 6, 2026, 6:34:13 PM",
-            "level": 74,
+            "hp": 1121786.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73773.859375,
+                "y": 48462.5390625,
+                "z": -12297.2001953125
+            },
+            "last_seen": "Feb 24, 2026, 8:48:04 PM",
+            "level": 76,
             "name": "AndhraZX",
             "name_history": [
                 "AndhraZX"
@@ -45548,17 +45557,17 @@
             ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "1_10_0_5",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1119756.75,
+            "hp": 1182478.625,
             "last_known_position": {
-                "map": "city",
-                "x": 1027.1199951171875,
-                "y": -16045.6201171875,
-                "z": 96362.546875
+                "map": "QRSL_P",
+                "x": -71030.109375,
+                "y": 48518.140625,
+                "z": -12477.8701171875
             },
-            "last_seen": "Feb 18, 2026, 7:31:50 PM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 8:48:04 PM",
+            "level": 77,
             "name": "マンタ",
             "name_history": [
                 "マンタ"
@@ -83373,6 +83382,31 @@
             "role_id": 38174103118603284,
             "server_region": "ws-asia-01"
         },
+        "38174103118603295": {
+            "crew_history": [
+                "ブラックムーン海賊団"
+            ],
+            "crew_id": 579829473061,
+            "crew_name": "ブラックムーン海賊団",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 239715.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71601.1171875,
+                "y": 46946.86328125,
+                "z": -13511.2294921875
+            },
+            "last_seen": "Feb 24, 2026, 8:48:04 PM",
+            "level": 75,
+            "name": "ちまさん",
+            "name_history": [
+                "ちまさん"
+            ],
+            "registered": "Dec 21, 2025, 4:27:23 PM",
+            "role_id": 38174103118603295,
+            "server_region": "ws-asia-01"
+        },
         "38174103118603316": {
             "crew_id": 0,
             "crew_name": "",
@@ -88659,7 +88693,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5377,
-    "last_updated": "Feb 24, 2026, 8:47:04 PM",
+    "accounts_total": 5378,
+    "last_updated": "Feb 24, 2026, 8:48:04 PM",
     "server_region": "ws-asia-01"
 }
