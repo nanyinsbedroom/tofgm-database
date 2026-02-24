@@ -2916,12 +2916,12 @@
             "gender": 1,
             "hp": 1685398.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1709.260009765625,
-                "y": -22023.169921875,
-                "z": 96954.8203125
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21825.9296875
             },
-            "last_seen": "2026年2月23日 下午5:46:42",
+            "last_seen": "2026年2月24日 下午4:03:03",
             "level": 84,
             "name": "null_",
             "name_history": [
@@ -4831,6 +4831,31 @@
             ],
             "registered": "2024年3月9日 下午7:21:55",
             "role_id": 63574106363181,
+            "server_region": "time-travel"
+        },
+        "63574106364440": {
+            "crew_history": [
+                "幻策司梦阁"
+            ],
+            "crew_id": 996432427474,
+            "crew_name": "幻策司梦阁",
+            "equipping_title": "小爱三条的后继者,1",
+            "gender": 0,
+            "hp": 1390491.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54765.28515625,
+                "y": -87023.234375,
+                "z": 21813.958984375
+            },
+            "last_seen": "2026年2月24日 下午4:03:03",
+            "level": 84,
+            "name": "星鱼云",
+            "name_history": [
+                "星鱼云"
+            ],
+            "registered": "2024年3月10日 上午2:50:38",
+            "role_id": 63574106364440,
             "server_region": "time-travel"
         },
         "63574106366641": {
@@ -8806,14 +8831,14 @@
             "crew_name": "星岛避难所",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 1467667.0,
+            "hp": 1471363.25,
             "last_known_position": {
-                "map": "city",
-                "x": 412.5999755859375,
-                "y": -28206.5,
-                "z": 97879.1171875
+                "map": "QRSL_P",
+                "x": -54930.609375,
+                "y": -87022.6171875,
+                "z": 21723.96875
             },
-            "last_seen": "2026年2月23日 下午5:47:42",
+            "last_seen": "2026年2月24日 下午4:03:03",
             "level": 84,
             "name": "奈美西斯.",
             "name_history": [
@@ -11193,13 +11218,22 @@
             "server_region": "time-travel"
         },
         "63578401994191": {
+            "crew_history": [
+                "暖暖六课"
+            ],
             "crew_id": 1473173797330,
             "crew_name": "暖暖六课",
-            "equipping_title": "4_2026",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 1072478.125,
-            "last_seen": "2026年02月01日 上午 12:46:28",
-            "level": 81,
+            "hp": 1389791.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54910.20703125,
+                "y": -87700.015625,
+                "z": 21717.388671875
+            },
+            "last_seen": "2026年2月24日 下午4:03:03",
+            "level": 84,
             "name": "快乐珍藏版",
             "name_history": [
                 "快乐珍藏版"
@@ -13115,7 +13149,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 763,
-    "last_updated": "2026年2月24日 下午4:02:03",
+    "accounts_total": 764,
+    "last_updated": "2026年2月24日 下午4:03:03",
     "server_region": "time-travel"
 }
