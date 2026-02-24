@@ -5775,11 +5775,26 @@
             "server_region": "ark-calculus"
         },
         "62328565412954": {
+            "crew_history": [
+                "域垣魔宗"
+            ],
             "crew_id": 115964131693,
             "crew_name": "域垣魔宗",
+            "equipping_title": "2_11_1_1",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 10:10:07",
+            "hp": 2303830.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -429.41998291015625,
+                "y": -18176.279296875,
+                "z": 96329.5390625
+            },
+            "last_seen": "2026年2月24日 下午12:03:49",
+            "level": 100,
             "name": "血老板",
+            "name_history": [
+                "血老板"
+            ],
             "registered": "2021年12月16日 上午10:10:10",
             "role_id": 62328565412954,
             "server_region": "ark-calculus"
@@ -7254,14 +7269,14 @@
             "crew_name": "魔女茶话会",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 2167590.25,
+            "hp": 2168529.0,
             "last_known_position": {
                 "map": "city",
-                "x": -561.2000122070313,
-                "y": -18501.5,
+                "x": -540.1699829101563,
+                "y": -18304.109375,
                 "z": 96329.53125
             },
-            "last_seen": "2026年2月22日 下午8:34:41",
+            "last_seen": "2026年2月24日 下午12:03:49",
             "level": 100,
             "name": "琉璃猫猫澄",
             "name_history": [
@@ -9094,6 +9109,31 @@
             ],
             "registered": "2023年3月25日 上午4:00:50",
             "role_id": 62727998446567,
+            "server_region": "ark-calculus"
+        },
+        "62727998550717": {
+            "crew_history": [
+                "蓝桉与槐"
+            ],
+            "crew_id": 2186138368265,
+            "crew_name": "蓝桉与槐",
+            "equipping_title": "2_1_0_2",
+            "gender": 1,
+            "hp": 2074338.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 87.77999877929688,
+                "y": -17830.33984375,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月24日 下午12:03:49",
+            "level": 100,
+            "name": "　夕阳の刻痕",
+            "name_history": [
+                "　夕阳の刻痕"
+            ],
+            "registered": "2023年5月26日 下午2:15:20",
+            "role_id": 62727998550717,
             "server_region": "ark-calculus"
         },
         "62727998551632": {
@@ -14711,7 +14751,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 760,
-    "last_updated": "2026年2月24日 上午2:23:25",
+    "accounts_total": 761,
+    "last_updated": "2026年2月24日 下午12:03:49",
     "server_region": "ark-calculus"
 }
