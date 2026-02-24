@@ -24149,12 +24149,21 @@
             "server_region": "southeast-asia"
         },
         "68779606285987": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "Tencent_Sever_124",
+            "equipping_title": "Kizuna N's Mentor,0",
             "gender": 1,
-            "hp": 6281384.5,
-            "last_seen": "Jan 02, 2026, 03:42:04 AM",
+            "hp": 6340051.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 93463.125,
+                "y": -189689.484375,
+                "z": -7796.8486328125
+            },
+            "last_seen": "Feb 24, 2026, 10:44:11 PM",
             "level": 100,
             "name": "RammusSaidOK",
             "name_history": [
@@ -29717,6 +29726,6 @@
         }
     },
     "accounts_total": 2063,
-    "last_updated": "Feb 24, 2026, 10:41:11 PM",
+    "last_updated": "Feb 24, 2026, 10:44:11 PM",
     "server_region": "southeast-asia"
 }
