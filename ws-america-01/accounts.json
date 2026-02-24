@@ -20883,13 +20883,20 @@
             "server_region": "ws-america-01"
         },
         "38174107413554827": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 84078.0,
-            "last_seen": "Jan 24, 2026, 11:26:59 PM",
-            "level": 42,
+            "hp": 99346.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91098.7265625,
+                "y": 79933.40625,
+                "z": -7014.830078125
+            },
+            "last_seen": "Feb 23, 2026, 10:43:26 PM",
+            "level": 56,
             "name": "Alysaphrena",
             "name_history": [
                 "Alysaphrena"
@@ -29319,6 +29326,29 @@
             "role_id": 38174107413583771,
             "server_region": "ws-america-01"
         },
+        "38174107413583772": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Rathek's Apprentice,0",
+            "gender": 1,
+            "hp": 114529.6015625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90760.765625,
+                "y": 80413.5546875,
+                "z": -7032.1396484375
+            },
+            "last_seen": "Feb 23, 2026, 10:43:26 PM",
+            "level": 36,
+            "name": "AinZbb",
+            "name_history": [
+                "AinZbb"
+            ],
+            "registered": "Feb 23, 2026, 8:57:57 AM",
+            "role_id": 38174107413583772,
+            "server_region": "ws-america-01"
+        },
         "38174107413583778": {
             "crew_history": [],
             "crew_id": 0,
@@ -29389,7 +29419,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1645,
-    "last_updated": "Feb 23, 2026, 12:51:13 PM",
+    "accounts_total": 1646,
+    "last_updated": "Feb 23, 2026, 10:43:26 PM",
     "server_region": "ws-america-01"
 }
