@@ -24787,14 +24787,14 @@
             "crew_name": "Genesis",
             "equipping_title": "Tencent_Sever_124",
             "gender": 1,
-            "hp": 2725242.0,
+            "hp": 6205740.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -6587.33544921875,
-                "y": 4793.3984375,
-                "z": 26424.119140625
+                "map": "Kailo_P_003",
+                "x": 95111.4375,
+                "y": -190022.0625,
+                "z": -7906.18994140625
             },
-            "last_seen": "Feb 16, 2026, 8:31:21 PM",
+            "last_seen": "Feb 24, 2026, 10:40:10 PM",
             "level": 100,
             "name": "Rindō Kobayashi",
             "name_history": [
@@ -24891,12 +24891,21 @@
             "server_region": "southeast-asia"
         },
         "68783901245786": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "2_2_0_71",
             "gender": 1,
-            "hp": 2945554.75,
-            "last_seen": [],
+            "hp": 6336051.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101097.90625,
+                "y": -184597.15625,
+                "z": -7713.31982421875
+            },
+            "last_seen": "Feb 24, 2026, 10:40:10 PM",
             "level": 100,
             "name": "Moonlight 月影",
             "name_history": [
@@ -25555,14 +25564,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 3069015.75,
+            "hp": 6305251.5,
             "last_known_position": {
-                "map": "city",
-                "x": -2796.300048828125,
-                "y": -24235.0,
-                "z": 96705.6953125
+                "map": "Kailo_P_003",
+                "x": 100660.8359375,
+                "y": -181317.140625,
+                "z": -7518.10205078125
             },
-            "last_seen": "Feb 17, 2026, 11:30:19 PM",
+            "last_seen": "Feb 24, 2026, 10:40:10 PM",
             "level": 100,
             "name": "Lilycoris",
             "name_history": [
@@ -29708,6 +29717,6 @@
         }
     },
     "accounts_total": 2063,
-    "last_updated": "Feb 24, 2026, 10:39:10 PM",
+    "last_updated": "Feb 24, 2026, 10:40:10 PM",
     "server_region": "southeast-asia"
 }
