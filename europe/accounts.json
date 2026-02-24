@@ -2449,12 +2449,21 @@
             "server_region": "europe"
         },
         "55856049754652": {
+            "crew_history": [
+                "New Era"
+            ],
             "crew_id": 133143999181,
             "crew_name": "New Era",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2574514.5,
-            "last_seen": "Nov 02, 2025, 02:08:16 AM",
+            "hp": 6067921.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 104289.671875,
+                "y": -177614.578125,
+                "z": -5349.5087890625
+            },
+            "last_seen": "Feb 24, 2026, 10:46:26 PM",
             "level": 100,
             "name": "            ",
             "name_history": [
@@ -21525,6 +21534,6 @@
         }
     },
     "accounts_total": 1419,
-    "last_updated": "Feb 24, 2026, 10:45:26 PM",
+    "last_updated": "Feb 24, 2026, 10:46:26 PM",
     "server_region": "europe"
 }
