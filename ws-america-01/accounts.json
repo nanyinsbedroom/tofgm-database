@@ -5948,14 +5948,14 @@
             "crew_name": "Solstice",
             "equipping_title": "2_2_0_31",
             "gender": 0,
-            "hp": 1095734.0,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -83827.453125,
-                "y": 71886.4921875,
-                "z": -8583.1337890625
+                "map": "Kailo_P_003",
+                "x": 87117.765625,
+                "y": -185565.890625,
+                "z": -6279.28955078125
             },
-            "last_seen": "Feb 23, 2026, 12:51:13 PM",
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
             "level": 76,
             "name": "Oshiddy",
             "name_history": [
@@ -10314,15 +10314,15 @@
             "crew_name": "Kitten Café",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1056911.125,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1543.0,
-                "y": -25447.400390625,
-                "z": 96713.4453125
+                "map": "Kailo_P_003",
+                "x": 94673.7578125,
+                "y": -199139.71875,
+                "z": -4846.8134765625
             },
-            "last_seen": "Feb 15, 2026, 4:17:17 PM",
-            "level": 75,
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
+            "level": 76,
             "name": "-Rukia-",
             "name_history": [
                 "-Rukia-"
@@ -16624,11 +16624,11 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 101684.9140625,
-                "y": -175440.03125,
-                "z": -5174.52978515625
+                "x": 101033.4765625,
+                "y": -179394.15625,
+                "z": -7745.1240234375
             },
-            "last_seen": "Feb 18, 2026, 8:34:37 PM",
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
             "level": 76,
             "name": "ZaeD",
             "name_history": [
@@ -18319,11 +18319,11 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 93330.015625,
-                "y": -181708.0,
-                "z": -7704.7568359375
+                "x": 101265.9140625,
+                "y": -188389.78125,
+                "z": -7833.88037109375
             },
-            "last_seen": "Feb 18, 2026, 9:57:26 PM",
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
             "level": 76,
             "name": "Mystocan",
             "name_history": [
@@ -18560,13 +18560,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413540790": {
+            "crew_history": [
+                "Kitten Café"
+            ],
             "crew_id": 115973005094,
-            "crew_name": "Maid Café ",
-            "equipping_title": "None",
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_10_1_9",
             "gender": 1,
-            "hp": 966894.5,
-            "last_seen": "Feb 7, 2026, 2:28:09 PM",
-            "level": 74,
+            "hp": 2360473.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 114243.6015625,
+                "y": -191841.984375,
+                "z": -3866.820556640625
+            },
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
+            "level": 76,
             "name": "Jouu",
             "name_history": [
                 "Jouu"
@@ -23677,14 +23686,14 @@
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1082822.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 2608.829833984375,
-                "y": -27711.21875,
-                "z": 96698.9453125
+                "map": "Kailo_P_003",
+                "x": 106319.1953125,
+                "y": -184319.453125,
+                "z": -5529.90966796875
             },
-            "last_seen": "Feb 23, 2026, 12:45:13 PM",
+            "last_seen": "Feb 23, 2026, 10:51:47 PM",
             "level": 76,
             "name": "Ks7",
             "name_history": [
@@ -29605,6 +29614,6 @@
         }
     },
     "accounts_total": 1653,
-    "last_updated": "Feb 23, 2026, 10:50:47 PM",
+    "last_updated": "Feb 23, 2026, 10:51:47 PM",
     "server_region": "ws-america-01"
 }
