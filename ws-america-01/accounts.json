@@ -10677,14 +10677,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1036426.375,
+            "hp": 1056212.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -47755.0,
-                "y": 71228.9609375,
-                "z": -10117.689453125
+                "x": -62452.16015625,
+                "y": 97021.8359375,
+                "z": -7569.02978515625
             },
-            "last_seen": "Feb 20, 2026, 11:04:32 PM",
+            "last_seen": "Feb 23, 2026, 10:45:26 PM",
             "level": 76,
             "name": "Lorde Sensei",
             "name_history": [
@@ -16990,6 +16990,31 @@
             ],
             "registered": "Nov 26, 2025, 12:47:09 AM",
             "role_id": 38174107413531656,
+            "server_region": "ws-america-01"
+        },
+        "38174107413531875": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 574469.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57548.66796875,
+                "y": 108599.65625,
+                "z": -12141.580078125
+            },
+            "last_seen": "Feb 23, 2026, 10:45:26 PM",
+            "level": 73,
+            "name": "Oveja24",
+            "name_history": [
+                "Oveja24"
+            ],
+            "registered": "Nov 26, 2025, 1:29:46 AM",
+            "role_id": 38174107413531875,
             "server_region": "ws-america-01"
         },
         "38174107413531910": {
@@ -27695,6 +27720,29 @@
             "role_id": 38174107413581760,
             "server_region": "ws-america-01"
         },
+        "38174107413581803": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 67635.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91231.4375,
+                "y": 78262.78125,
+                "z": -7020.1396484375
+            },
+            "last_seen": "Feb 23, 2026, 10:45:26 PM",
+            "level": 16,
+            "name": "AlucardBelmont",
+            "name_history": [
+                "AlucardBelmont"
+            ],
+            "registered": "Feb 8, 2026, 8:39:47 PM",
+            "role_id": 38174107413581803,
+            "server_region": "ws-america-01"
+        },
         "38174107413581848": {
             "crew_history": [
                 "Dreamlight"
@@ -29556,7 +29604,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1651,
-    "last_updated": "Feb 23, 2026, 10:44:26 PM",
+    "accounts_total": 1653,
+    "last_updated": "Feb 23, 2026, 10:45:26 PM",
     "server_region": "ws-america-01"
 }
