@@ -56,15 +56,15 @@
             "crew_name": "Wonderland",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1082668.875,
+            "hp": 823920.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1340.896728515625,
-                "y": -28212.376953125,
-                "z": 97879.6171875
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97889.6171875
             },
-            "last_seen": "Feb 23, 2026, 6:57:13 PM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 11:00:15 PM",
+            "level": 77,
             "name": "Alice",
             "name_history": [
                 "Alice"
@@ -7021,15 +7021,15 @@
             "crew_name": "Rebirth",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1058484.5,
+            "hp": 1114641.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1441.0899658203125,
-                "y": -27267.37890625,
-                "z": 97917.625
+                "x": 1543.929931640625,
+                "y": -27164.580078125,
+                "z": 97917.65625
             },
-            "last_seen": "Feb 23, 2026, 6:57:13 PM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 11:00:15 PM",
+            "level": 77,
             "name": "Gi",
             "name_history": [
                 "Gi"
@@ -9326,6 +9326,31 @@
             ],
             "registered": "Nov 25, 2025, 6:13:26 PM",
             "role_id": 38174111708485786,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708485787": {
+            "crew_history": [
+                "🅶🅾🅳🆁🅾🅻🅻"
+            ],
+            "crew_id": 365081108263,
+            "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1112662.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -134.36000061035156,
+                "y": -28356.08984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 24, 2026, 11:00:15 PM",
+            "level": 77,
+            "name": "Janny",
+            "name_history": [
+                "Janny"
+            ],
+            "registered": "Nov 25, 2025, 6:13:32 PM",
+            "role_id": 38174111708485787,
             "server_region": "ws-europe-01"
         },
         "38174111708485801": {
@@ -22805,7 +22830,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1243,
-    "last_updated": "Feb 24, 2026, 10:59:15 PM",
+    "accounts_total": 1244,
+    "last_updated": "Feb 24, 2026, 11:00:15 PM",
     "server_region": "ws-europe-01"
 }
