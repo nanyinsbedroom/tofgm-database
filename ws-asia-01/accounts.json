@@ -4505,15 +4505,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545549": {
-            "crew_id": 176102547237,
-            "crew_name": "สมาคมฮันเตอร์",
-            "equipping_title": "2_8_0_3",
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 687441.625,
-            "last_seen": "Dec 25, 2025, 10:34:16 PM",
-            "level": 64,
-            "name": "P2X",
+            "hp": 1125655.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1175.5499267578125,
+                "y": -28151.978515625,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 24, 2026, 8:58:03 PM",
+            "level": 76,
+            "name": "简体中文",
             "name_history": [
+                "简体中文",
                 "P2X"
             ],
             "registered": "Nov 25, 2025, 5:03:41 PM",
@@ -42750,23 +42760,25 @@
         },
         "38174103118563407": {
             "crew_history": [
+                "式歌ベリア【本物】",
                 "EROGE"
             ],
-            "crew_id": 4303855397,
-            "crew_name": "EROGE",
-            "equipping_title": "1_1_23_1",
+            "crew_id": 64433397541,
+            "crew_name": "式歌ベリア【本物】",
+            "equipping_title": "ゴールドシップ's Successor,1",
             "gender": 1,
-            "hp": 903210.75,
+            "hp": 1029326.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -93327.9765625,
-                "y": 84127.5546875,
-                "z": -7046.61962890625
+                "map": "city",
+                "x": 1115.5399169921875,
+                "y": -28451.9296875,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 14, 2026, 7:50:34 PM",
-            "level": 75,
-            "name": "BlueBeary",
+            "last_seen": "Feb 24, 2026, 8:58:03 PM",
+            "level": 76,
+            "name": "クマクマクマ Bear",
             "name_history": [
+                "クマクマクマ Bear",
                 "BlueBeary"
             ],
             "registered": "Nov 26, 2025, 12:58:45 AM",
@@ -89046,6 +89058,6 @@
         }
     },
     "accounts_total": 5382,
-    "last_updated": "Feb 24, 2026, 8:57:52 PM",
+    "last_updated": "Feb 24, 2026, 8:58:03 PM",
     "server_region": "ws-asia-01"
 }
