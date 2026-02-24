@@ -1014,12 +1014,21 @@
             "server_region": "reshaping-the-future"
         },
         "61422327307193": {
-            "crew_id": 30064785674,
-            "crew_name": "世界BOSS",
-            "equipping_title": "·M的学徒,0",
+            "crew_history": [
+                "旧巷的猫"
+            ],
+            "crew_id": 18859201411338,
+            "crew_name": "旧巷的猫",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1856041.75,
-            "last_seen": "2025年11月25日 上午 1:46:17",
+            "hp": 1792939.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57043.15234375,
+                "y": -91922.6171875,
+                "z": 22025.009765625
+            },
+            "last_seen": "2026年2月24日 下午8:30:20",
             "level": 100,
             "name": "高性能nano",
             "name_history": [
@@ -11722,6 +11731,31 @@
             "role_id": 62719408208790,
             "server_region": "reshaping-the-future"
         },
+        "62719408219518": {
+            "crew_history": [
+                "银岸"
+            ],
+            "crew_id": 4294981899,
+            "crew_name": "银岸",
+            "equipping_title": "1_8_0_9",
+            "gender": 1,
+            "hp": 2375082.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54752.7578125,
+                "y": -87870.1171875,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年2月24日 下午8:30:20",
+            "level": 100,
+            "name": "不闪电也超人",
+            "name_history": [
+                "不闪电也超人"
+            ],
+            "registered": "2022年10月2日 下午1:49:45",
+            "role_id": 62719408219518,
+            "server_region": "reshaping-the-future"
+        },
         "62719408286280": {
             "crew_history": [],
             "crew_id": 0,
@@ -16728,7 +16762,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 788,
-    "last_updated": "2026年2月24日 下午8:28:20",
+    "accounts_total": 789,
+    "last_updated": "2026年2月24日 下午8:30:20",
     "server_region": "reshaping-the-future"
 }
