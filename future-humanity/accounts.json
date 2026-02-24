@@ -2820,12 +2820,21 @@
             "server_region": "future-humanity"
         },
         "60563335169274": {
-            "crew_id": 11905649358613,
-            "crew_name": "霜尾绒",
-            "equipping_title": "2_10_1_1",
+            "crew_history": [
+                "绘梨猫"
+            ],
+            "crew_id": 8349416437525,
+            "crew_name": "绘梨猫",
+            "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1750747.25,
-            "last_seen": "2025年11月25日 上午 3:20:14",
+            "hp": 1808008.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月24日 下午10:08:57",
             "level": 100,
             "name": "浅仓透丶",
             "name_history": [
@@ -10901,15 +10910,15 @@
             "crew_name": "闲人",
             "equipping_title": "小细菌的学徒,0",
             "gender": 1,
-            "hp": 1820298.5,
+            "hp": 1079864.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -285546.5625,
-                "y": 168444.53125,
-                "z": -31592.03515625
+                "map": "QRSL_P",
+                "x": -54858.28515625,
+                "y": -87099.9140625,
+                "z": 21704.23046875
             },
-            "last_seen": "2026年2月17日 下午8:33:26",
-            "level": 99,
+            "last_seen": "2026年2月24日 下午10:08:57",
+            "level": 100,
             "name": "听你说话",
             "name_history": [
                 "听你说话"
@@ -16400,6 +16409,6 @@
         }
     },
     "accounts_total": 802,
-    "last_updated": "2026年2月24日 下午10:07:57",
+    "last_updated": "2026年2月24日 下午10:08:57",
     "server_region": "future-humanity"
 }
