@@ -48262,13 +48262,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118566451": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 390093.40625,
-            "last_seen": "Dec 26, 2025, 08:50:18 AM",
-            "level": 63,
+            "hp": 1387184.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -44114.3203125,
+                "y": 1392.72998046875,
+                "z": -13118.66015625
+            },
+            "last_seen": "Feb 24, 2026, 8:51:52 PM",
+            "level": 77,
             "name": "君の名はトラ",
             "name_history": [
                 "君の名はトラ"
@@ -58440,15 +58449,15 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "雪色みゆ's Apprentice,0",
             "gender": 0,
-            "hp": 762907.875,
+            "hp": 926843.25,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -42236.5,
-                "y": 1967.2999267578125,
-                "z": -13482.029296875
+                "x": -33291.328125,
+                "y": 9590.0380859375,
+                "z": -13798.359375
             },
-            "last_seen": "Feb 18, 2026, 2:02:27 AM",
-            "level": 73,
+            "last_seen": "Feb 24, 2026, 8:51:52 PM",
+            "level": 75,
             "name": "noshi",
             "name_history": [
                 "noshi"
@@ -84590,6 +84599,31 @@
             "role_id": 38174103118606153,
             "server_region": "ws-asia-01"
         },
+        "38174103118606248": {
+            "crew_history": [
+                "StarDust Saints"
+            ],
+            "crew_id": 68728364837,
+            "crew_name": "StarDust Saints",
+            "equipping_title": "WorldBossDamage_3;boss_hum_044_world;22",
+            "gender": 0,
+            "hp": 855084.5625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42213.3984375,
+                "y": 1578.0999755859375,
+                "z": -13468.529296875
+            },
+            "last_seen": "Feb 24, 2026, 8:51:52 PM",
+            "level": 77,
+            "name": "Neill",
+            "name_history": [
+                "Neill"
+            ],
+            "registered": "Dec 27, 2025, 2:14:55 PM",
+            "role_id": 38174103118606248,
+            "server_region": "ws-asia-01"
+        },
         "38174103118606276": {
             "crew_id": 0,
             "crew_name": "",
@@ -88236,15 +88270,15 @@
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 46239.69921875,
+            "hp": 277658.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -94975.3203125,
-                "y": 80354.9609375,
-                "z": -7627.60986328125
+                "map": "norn_city",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
             },
-            "last_seen": "Feb 15, 2026, 8:29:58 PM",
-            "level": 70,
+            "last_seen": "Feb 24, 2026, 8:51:52 PM",
+            "level": 74,
             "name": "高市早苗サワー",
             "name_history": [
                 "高市早苗サワー"
@@ -88435,6 +88469,31 @@
             ],
             "registered": "Feb 18, 2026, 1:02:08 AM",
             "role_id": 38174103118613419,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118613445": {
+            "crew_history": [
+                "Alter"
+            ],
+            "crew_id": 137447841573,
+            "crew_name": "Alter",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 571917.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -44107.55078125,
+                "y": 1398.8199462890625,
+                "z": -13115.7099609375
+            },
+            "last_seen": "Feb 24, 2026, 8:51:52 PM",
+            "level": 75,
+            "name": "RTM",
+            "name_history": [
+                "RTM"
+            ],
+            "registered": "Feb 18, 2026, 9:52:40 AM",
+            "role_id": 38174103118613445,
             "server_region": "ws-asia-01"
         },
         "38174103118613862": {
@@ -88693,7 +88752,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5378,
-    "last_updated": "Feb 24, 2026, 8:48:04 PM",
+    "accounts_total": 5380,
+    "last_updated": "Feb 24, 2026, 8:51:52 PM",
     "server_region": "ws-asia-01"
 }
