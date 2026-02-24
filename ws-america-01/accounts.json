@@ -1028,13 +1028,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512483": {
+            "crew_history": [
+                "Redux"
+            ],
             "crew_id": 60138430246,
             "crew_name": "Redux",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "1_6_4_27",
             "gender": 1,
-            "hp": 666086.375,
-            "last_seen": "Feb 7, 2026, 2:41:09 PM",
-            "level": 73,
+            "hp": 680774.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89471.640625,
+                "y": 84214.875,
+                "z": -5679.5
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 74,
             "name": "HMS Unicorn",
             "name_history": [
                 "HMS Unicorn"
@@ -3170,7 +3179,7 @@
                 "y": 57599.23046875,
                 "z": -5906.60986328125
             },
-            "last_seen": "Feb 20, 2026, 11:05:32 PM",
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
             "level": 76,
             "name": "NezukoChaNN",
             "name_history": [
@@ -18752,13 +18761,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413542078": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "None",
+            "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 715174.0625,
-            "last_seen": "Feb 8, 2026, 4:01:07 PM",
-            "level": 71,
+            "hp": 807918.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -70083.703125,
+                "y": 50177.70703125,
+                "z": -12645.2783203125
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 74,
             "name": "GhosTRoses",
             "name_history": [
                 "GhosTRoses"
@@ -22184,6 +22202,31 @@
             ],
             "registered": "Dec 17, 2025, 3:25:17 AM",
             "role_id": 38174107413565708,
+            "server_region": "ws-america-01"
+        },
+        "38174107413565793": {
+            "crew_history": [
+                "RedSuns"
+            ],
+            "crew_id": 231937122086,
+            "crew_name": "RedSuns",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_065_world;28",
+            "gender": 1,
+            "hp": 707122.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -51382.19921875,
+                "y": 88513.1953125,
+                "z": -13034.58984375
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 75,
+            "name": "Anaís10",
+            "name_history": [
+                "Anaís10"
+            ],
+            "registered": "Dec 17, 2025, 7:56:16 AM",
+            "role_id": 38174107413565793,
             "server_region": "ws-america-01"
         },
         "38174107413565907": {
@@ -28394,6 +28437,31 @@
             "role_id": 38174107413582614,
             "server_region": "ws-america-01"
         },
+        "38174107413582635": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110097.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74745.515625,
+                "y": 47198.78515625,
+                "z": -12273.0068359375
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 40,
+            "name": "Sikzi",
+            "name_history": [
+                "Sikzi"
+            ],
+            "registered": "Feb 14, 2026, 9:14:16 PM",
+            "role_id": 38174107413582635,
+            "server_region": "ws-america-01"
+        },
         "38174107413582647": {
             "crew_history": [],
             "crew_id": 0,
@@ -29417,9 +29485,78 @@
             "registered": "Feb 23, 2026, 12:36:02 PM",
             "role_id": 38174107413583784,
             "server_region": "ws-america-01"
+        },
+        "38174107413583816": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 25287.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57464.5,
+                "y": 83826.7578125,
+                "z": -11489.599609375
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 6,
+            "name": "Morden",
+            "name_history": [
+                "Morden"
+            ],
+            "registered": "Feb 23, 2026, 6:47:41 PM",
+            "role_id": 38174107413583816,
+            "server_region": "ws-america-01"
+        },
+        "38174107413583839": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25140.537109375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82074.828125,
+                "y": 80561.171875,
+                "z": -9758.611328125
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 6,
+            "name": "Mordredix",
+            "name_history": [
+                "Mordredix"
+            ],
+            "registered": "Feb 23, 2026, 10:06:26 PM",
+            "role_id": 38174107413583839,
+            "server_region": "ws-america-01"
+        },
+        "38174107413583840": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16035.9990234375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80626.671875,
+                "y": 81418.2734375,
+                "z": -9759.177734375
+            },
+            "last_seen": "Feb 23, 2026, 10:44:26 PM",
+            "level": 5,
+            "name": "MASASHICA ",
+            "name_history": [
+                "MASASHICA "
+            ],
+            "registered": "Feb 23, 2026, 10:18:01 PM",
+            "role_id": 38174107413583840,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1646,
-    "last_updated": "Feb 23, 2026, 10:43:26 PM",
+    "accounts_total": 1651,
+    "last_updated": "Feb 23, 2026, 10:44:26 PM",
     "server_region": "ws-america-01"
 }
