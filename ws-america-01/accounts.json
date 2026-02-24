@@ -11096,6 +11096,31 @@
             "role_id": 38174107413519276,
             "server_region": "ws-america-01"
         },
+        "38174107413519291": {
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "2_7_0_11",
+            "gender": 1,
+            "hp": 1101585.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -932.25,
+                "y": -17135.1796875,
+                "z": 96346.78125
+            },
+            "last_seen": "Feb 23, 2026, 10:54:47 PM",
+            "level": 76,
+            "name": "Amadeus",
+            "name_history": [
+                "Amadeus"
+            ],
+            "registered": "Nov 25, 2025, 9:59:33 AM",
+            "role_id": 38174107413519291,
+            "server_region": "ws-america-01"
+        },
         "38174107413519300": {
             "crew_id": 0,
             "crew_name": "",
@@ -19608,14 +19633,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 884260.5,
+            "hp": 884273.375,
             "last_known_position": {
                 "map": "city",
-                "x": -1843.5399169921875,
-                "y": -23971.150390625,
-                "z": 96828.359375
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96375.03125
             },
-            "last_seen": "Feb 23, 2026, 12:44:13 PM",
+            "last_seen": "Feb 23, 2026, 10:54:47 PM",
             "level": 76,
             "name": "Josiani",
             "name_history": [
@@ -26988,13 +27013,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413580908": {
+            "crew_history": [
+                "Espada"
+            ],
             "crew_id": 3002191028006,
             "crew_name": "Espada",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_030_world;35",
             "gender": 0,
-            "hp": 107576.03125,
-            "last_seen": "Feb 8, 2026, 4:07:12 PM",
-            "level": 41,
+            "hp": 163266.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "last_seen": "Feb 23, 2026, 10:54:47 PM",
+            "level": 62,
             "name": "King Pwn",
             "name_history": [
                 "King Pwn"
@@ -29622,7 +29656,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1653,
-    "last_updated": "Feb 23, 2026, 10:53:47 PM",
+    "accounts_total": 1654,
+    "last_updated": "Feb 23, 2026, 10:54:47 PM",
     "server_region": "ws-america-01"
 }
