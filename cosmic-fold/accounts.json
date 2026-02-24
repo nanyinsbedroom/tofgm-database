@@ -34759,13 +34759,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695884865": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1423436.125,
-            "last_seen": "2026年2月8日 下午8:26:24",
-            "level": 82,
+            "hp": 1505576.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92159.2578125,
+                "y": 76423.9921875,
+                "z": -7072.1298828125
+            },
+            "last_seen": "2026年2月25日 上午1:42:38",
+            "level": 84,
             "name": "汐月铃",
             "name_history": [
                 "汐月铃"
@@ -73887,6 +73896,6 @@
         }
     },
     "accounts_total": 5131,
-    "last_updated": "2026年2月25日 上午1:34:37",
+    "last_updated": "2026年2月25日 上午1:42:38",
     "server_region": "cosmic-fold"
 }
