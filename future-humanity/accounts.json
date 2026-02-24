@@ -3558,14 +3558,14 @@
             "crew_name": "星之海",
             "equipping_title": "2_11_1_2",
             "gender": 1,
-            "hp": 1300361.375,
+            "hp": 1317527.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55216.8671875,
-                "y": -87326.2109375,
-                "z": 21718.869140625
+                "x": -54952.21875,
+                "y": -87247.296875,
+                "z": 21717.490234375
             },
-            "last_seen": "2026年2月23日 下午10:09:55",
+            "last_seen": "2026年2月24日 下午10:06:57",
             "level": 100,
             "name": "白鹭.",
             "name_history": [
@@ -9690,6 +9690,29 @@
             "name": "Alxi",
             "registered": "2025年9月26日 下午4:15:14",
             "role_id": 60563335953063,
+            "server_region": "future-humanity"
+        },
+        "60563335953229": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_2_1",
+            "gender": 0,
+            "hp": 752320.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21731.048828125
+            },
+            "last_seen": "2026年2月24日 下午10:06:57",
+            "level": 100,
+            "name": "凌雨不来",
+            "name_history": [
+                "凌雨不来"
+            ],
+            "registered": "2025年9月27日 下午9:20:05",
+            "role_id": 60563335953229,
             "server_region": "future-humanity"
         },
         "60563335953600": {
@@ -16326,7 +16349,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 799,
-    "last_updated": "2026年2月24日 下午10:05:57",
+    "accounts_total": 800,
+    "last_updated": "2026年2月24日 下午10:06:57",
     "server_region": "future-humanity"
 }
