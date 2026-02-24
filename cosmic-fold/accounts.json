@@ -67546,13 +67546,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696001426": {
-            "crew_id": 2993592220116,
-            "crew_name": "弋阳县",
-            "equipping_title": "None",
+            "crew_history": [
+                "休闲"
+            ],
+            "crew_id": 3384434244052,
+            "crew_name": "休闲",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 22555.134765625,
-            "last_seen": "2026年02月03日 上午 5:49:41",
-            "level": 13,
+            "hp": 171459.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.2734375,
+                "y": 75609.75,
+                "z": -7034.24755859375
+            },
+            "last_seen": "2026年2月25日 上午1:33:37",
+            "level": 66,
             "name": "不知归路",
             "name_history": [
                 "不知归路"
@@ -73855,6 +73864,6 @@
         }
     },
     "accounts_total": 5130,
-    "last_updated": "2026年2月25日 上午1:32:37",
+    "last_updated": "2026年2月25日 上午1:33:37",
     "server_region": "cosmic-fold"
 }
