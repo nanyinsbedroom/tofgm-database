@@ -293,15 +293,25 @@
             "server_region": "ark-calculus"
         },
         "60567628808517": {
+            "crew_history": [
+                "记录の地平线"
+            ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "2_2_0_37",
+            "equipping_title": "1_8_0_33",
             "gender": 0,
-            "hp": 2620775.25,
-            "last_seen": "2026年2月12日 下午5:38:25",
+            "hp": 2555308.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53789.71875,
+                "y": -87825.5390625,
+                "z": 21710.830078125
+            },
+            "last_seen": "2026年2月24日 下午12:08:49",
             "level": 100,
-            "name": "清欢丷",
+            "name": "蝶舞星遇",
             "name_history": [
+                "蝶舞星遇",
                 "清欢丷"
             ],
             "registered": "2021年12月16日 上午7:59:52",
@@ -467,12 +477,21 @@
             "server_region": "ark-calculus"
         },
         "60614873460707": {
+            "crew_history": [
+                "SOS团"
+            ],
             "crew_id": 270582954149,
             "crew_name": "SOS团",
             "equipping_title": "1_8_0_4",
             "gender": 1,
-            "hp": 2257708.5,
-            "last_seen": "2026年01月31日 下午 11:25:42",
+            "hp": 2281808.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54587.546875,
+                "y": -87687.546875,
+                "z": 21717.5390625
+            },
+            "last_seen": "2026年2月24日 下午12:08:49",
             "level": 100,
             "name": "一只吉良",
             "name_history": [
@@ -964,6 +983,31 @@
             ],
             "registered": "2021年12月16日 下午7:39:41",
             "role_id": 61851824066351,
+            "server_region": "ark-calculus"
+        },
+        "61851824074507": {
+            "crew_history": [
+                "春物"
+            ],
+            "crew_id": 42949687364,
+            "crew_name": "春物",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1365736.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21825.9296875
+            },
+            "last_seen": "2026年2月24日 下午12:08:49",
+            "level": 100,
+            "name": "季扒甩着跑图",
+            "name_history": [
+                "季扒甩着跑图"
+            ],
+            "registered": "2021年12月17日 上午11:26:58",
+            "role_id": 61851824074507,
             "server_region": "ark-calculus"
         },
         "61851824077695": {
@@ -6573,6 +6617,31 @@
             "role_id": 62362925139098,
             "server_region": "ark-calculus"
         },
+        "62362925163190": {
+            "crew_history": [
+                "黎明"
+            ],
+            "crew_id": 137438967992,
+            "crew_name": "黎明",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 1695216.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21731.0390625
+            },
+            "last_seen": "2026年2月24日 下午12:08:49",
+            "level": 100,
+            "name": "未知的lover",
+            "name_history": [
+                "未知的lover"
+            ],
+            "registered": "2021年12月16日 下午1:19:16",
+            "role_id": 62362925163190,
+            "server_region": "ark-calculus"
+        },
         "62362925173687": {
             "crew_id": 137438967992,
             "crew_name": "黎明",
@@ -10336,12 +10405,21 @@
             "server_region": "ark-calculus"
         },
         "62732292508904": {
+            "crew_history": [
+                "半糖茶馆"
+            ],
             "crew_id": 68719491345,
             "crew_name": "半糖茶馆",
             "equipping_title": "1_8_1_1",
             "gender": 0,
             "hp": 1607516.125,
-            "last_seen": "2026年2月12日 下午6:06:30",
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年2月24日 下午12:08:49",
             "level": 100,
             "name": "巡音ルカ",
             "name_history": [
@@ -15142,7 +15220,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 776,
-    "last_updated": "2026年2月24日 下午12:07:49",
+    "accounts_total": 778,
+    "last_updated": "2026年2月24日 下午12:08:49",
     "server_region": "ark-calculus"
 }
