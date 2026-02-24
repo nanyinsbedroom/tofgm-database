@@ -22205,14 +22205,14 @@
             "crew_name": "Solstice",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1142989.5,
+            "hp": 1186998.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1039.6099853515625,
-                "y": -27870.3984375,
-                "z": 97889.1015625
+                "map": "QRSL_P",
+                "x": -72814.9296875,
+                "y": 48461.671875,
+                "z": -12301.3408203125
             },
-            "last_seen": "Feb 23, 2026, 12:44:13 PM",
+            "last_seen": "Feb 23, 2026, 10:53:47 PM",
             "level": 76,
             "name": "Sini",
             "name_history": [
@@ -22731,13 +22731,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413568127": {
-            "crew_id": 38663593766,
-            "crew_name": "ACxBoba",
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 912814.4375,
-            "last_seen": "Feb 5, 2026, 2:15:08 PM",
-            "level": 74,
+            "hp": 1117512.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72940.234375,
+                "y": 48927.58984375,
+                "z": -12317.3193359375
+            },
+            "last_seen": "Feb 23, 2026, 10:53:47 PM",
+            "level": 76,
             "name": "GazelleSkull",
             "name_history": [
                 "GazelleSkull"
@@ -29614,6 +29623,6 @@
         }
     },
     "accounts_total": 1653,
-    "last_updated": "Feb 23, 2026, 10:51:47 PM",
+    "last_updated": "Feb 23, 2026, 10:53:47 PM",
     "server_region": "ws-america-01"
 }
