@@ -1184,13 +1184,22 @@
             "server_region": "time-travel"
         },
         "63574105944926": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
             "equipping_title": "咩吖的导师,0",
             "gender": 1,
-            "hp": 1436804.25,
-            "last_seen": "2026年01月28日 上午 7:02:02",
-            "level": 80,
+            "hp": 1662213.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54184.23046875,
+                "y": -88132.875,
+                "z": 21710.98046875
+            },
+            "last_seen": "2026年2月24日 下午4:28:04",
+            "level": 84,
             "name": "卦者那啥子靈風",
             "name_history": [
                 "卦者那啥子靈風"
@@ -8741,6 +8750,31 @@
             "role_id": 63578401912595,
             "server_region": "time-travel"
         },
+        "63578401916097": {
+            "crew_history": [
+                "EVA"
+            ],
+            "crew_id": 55834589650,
+            "crew_name": "EVA",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 98735.3984375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53953.96875,
+                "y": -85026.3359375,
+                "z": 21729.9921875
+            },
+            "last_seen": "2026年2月24日 下午4:28:04",
+            "level": 43,
+            "name": "socksoci",
+            "name_history": [
+                "socksoci"
+            ],
+            "registered": "2025年7月14日 上午1:08:12",
+            "role_id": 63578401916097,
+            "server_region": "time-travel"
+        },
         "63578401917058": {
             "crew_history": [
                 "林深不知处"
@@ -13543,7 +13577,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 779,
-    "last_updated": "2026年2月24日 下午4:27:04",
+    "accounts_total": 780,
+    "last_updated": "2026年2月24日 下午4:28:04",
     "server_region": "time-travel"
 }
