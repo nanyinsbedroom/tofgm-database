@@ -14206,13 +14206,20 @@
             "server_region": "europe"
         },
         "55963424706293": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "Overseas2_7",
             "gender": 0,
-            "hp": 842722.75,
-            "last_seen": "Feb 9, 2026, 7:31:50 PM",
-            "level": 75,
+            "hp": 843001.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91417.5859375,
+                "y": 87835.15625,
+                "z": -6594.25
+            },
+            "last_seen": "Feb 24, 2026, 11:51:40 AM",
+            "level": 76,
             "name": "Fazuke",
             "name_history": [
                 "Fazuke"
@@ -21365,6 +21372,6 @@
         }
     },
     "accounts_total": 1413,
-    "last_updated": "Feb 24, 2026, 11:50:40 AM",
+    "last_updated": "Feb 24, 2026, 11:51:40 AM",
     "server_region": "europe"
 }
