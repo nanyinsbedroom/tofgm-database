@@ -1196,13 +1196,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708479853": {
+            "crew_history": [
+                "ColdHeart"
+            ],
             "crew_id": 98793135911,
             "crew_name": "ColdHeart",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "2_7_0_16",
             "gender": 0,
-            "hp": 872064.75,
-            "last_seen": "Feb 7, 2026, 7:58:58 PM",
-            "level": 74,
+            "hp": 978970.4375,
+            "last_known_position": {
+                "map": "city",
+                "x": 2193.239990234375,
+                "y": -27102.830078125,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 24, 2026, 10:59:15 PM",
+            "level": 77,
             "name": "MIracLE",
             "name_history": [
                 "MIracLE"
@@ -8478,11 +8487,11 @@
             "hp": 799484.4375,
             "last_known_position": {
                 "map": "city",
-                "x": 1969.3624267578125,
-                "y": -26113.916015625,
-                "z": 97872.609375
+                "x": -52.38999938964844,
+                "y": -18254.400390625,
+                "z": 96336.03125
             },
-            "last_seen": "Feb 23, 2026, 6:59:14 PM",
+            "last_seen": "Feb 24, 2026, 10:59:15 PM",
             "level": 72,
             "name": "Kotone",
             "name_history": [
@@ -18202,15 +18211,15 @@
             "crew_name": "Wonderland",
             "equipping_title": "Teskux's Apprentice,0",
             "gender": 0,
-            "hp": 988067.9375,
+            "hp": 1092761.125,
             "last_known_position": {
                 "map": "city",
-                "x": 430.6999816894531,
-                "y": -28340.51953125,
+                "x": 183.70999145507813,
+                "y": -28298.099609375,
                 "z": 97879.6171875
             },
-            "last_seen": "Feb 15, 2026, 9:40:15 PM",
-            "level": 75,
+            "last_seen": "Feb 24, 2026, 10:59:15 PM",
+            "level": 77,
             "name": "BiBi",
             "name_history": [
                 "BiBi"
@@ -22797,6 +22806,6 @@
         }
     },
     "accounts_total": 1243,
-    "last_updated": "Feb 24, 2026, 10:58:15 PM",
+    "last_updated": "Feb 24, 2026, 10:59:15 PM",
     "server_region": "ws-europe-01"
 }
