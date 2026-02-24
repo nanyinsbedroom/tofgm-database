@@ -645,15 +645,15 @@
             "crew_name": "EROGE",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1296581.75,
+            "hp": 1327794.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72994.2890625,
-                "y": 48889.12890625,
-                "z": -12309.7392578125
+                "x": -72884.71875,
+                "y": 49018.71875,
+                "z": -12312.3095703125
             },
-            "last_seen": "Feb 15, 2026, 10:16:53 PM",
-            "level": 75,
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 77,
             "name": "ninetales",
             "name_history": [
                 "ninetales"
@@ -12395,15 +12395,15 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 620264.0,
+            "hp": 1065713.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -73405.6484375,
-                "y": 48942.7578125,
-                "z": -12300.1201171875
+                "x": -72873.7890625,
+                "y": 48994.5078125,
+                "z": -12305.26953125
             },
-            "last_seen": "Feb 18, 2026, 1:44:26 AM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 77,
             "name": "Gunnhildr",
             "name_history": [
                 "Gunnhildr"
@@ -37696,13 +37696,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118561064": {
+            "crew_history": [
+                "ミラポリス幻影騎士団"
+            ],
             "crew_id": 695793590053,
             "crew_name": "ミラポリス幻影騎士団",
             "equipping_title": "1_1_22_1",
             "gender": 1,
-            "hp": 566171.375,
-            "last_seen": "Dec 23, 2025, 08:26:34 AM",
-            "level": 63,
+            "hp": 860928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -85297.578125,
+                "y": 62476.4453125,
+                "z": -818.8903198242188
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 77,
             "name": "キリシマ",
             "name_history": [
                 "キリシマ"
@@ -68586,6 +68595,31 @@
             "role_id": 38174103118584776,
             "server_region": "ws-asia-01"
         },
+        "38174103118584787": {
+            "crew_history": [
+                "甘味処「るみぱる」"
+            ],
+            "crew_id": 279181762341,
+            "crew_name": "甘味処「るみぱる」",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 758347.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81840.53125,
+                "y": 86896.265625,
+                "z": -4010.25
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 74,
+            "name": "キャロット",
+            "name_history": [
+                "キャロット"
+            ],
+            "registered": "Nov 29, 2025, 11:44:51 PM",
+            "role_id": 38174103118584787,
+            "server_region": "ws-asia-01"
+        },
         "38174103118584801": {
             "crew_history": [
                 "幻塔の星騎士"
@@ -78099,6 +78133,31 @@
             "role_id": 38174103118594507,
             "server_region": "ws-asia-01"
         },
+        "38174103118594517": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
+            "crew_id": 841822478117,
+            "crew_name": "居酒屋『低スペック桜花めいと』",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 744402.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84355.796875,
+                "y": 87062.3984375,
+                "z": -4200.58984375
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 74,
+            "name": "アークナイツエンドフィールド",
+            "name_history": [
+                "アークナイツエンドフィールド"
+            ],
+            "registered": "Dec 7, 2025, 3:04:06 PM",
+            "role_id": 38174103118594517,
+            "server_region": "ws-asia-01"
+        },
         "38174103118594526": {
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
@@ -86327,6 +86386,29 @@
             "role_id": 38174103118610824,
             "server_region": "ws-asia-01"
         },
+        "38174103118610906": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 127639.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62654.0,
+                "y": 63622.09765625,
+                "z": -9750.859375
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 52,
+            "name": "HotSauce",
+            "name_history": [
+                "HotSauce"
+            ],
+            "registered": "Jan 21, 2026, 10:16:55 AM",
+            "role_id": 38174103118610906,
+            "server_region": "ws-asia-01"
+        },
         "38174103118611056": {
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
@@ -88201,9 +88283,147 @@
             "registered": "Feb 18, 2026, 1:02:08 AM",
             "role_id": 38174103118613419,
             "server_region": "ws-asia-01"
+        },
+        "38174103118613862": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 107394.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64689.95703125,
+                "y": 51128.45703125,
+                "z": -9593.16015625
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 52,
+            "name": "水6",
+            "name_history": [
+                "水6"
+            ],
+            "registered": "Feb 22, 2026, 9:00:48 AM",
+            "role_id": 38174103118613862,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118613913": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 79294.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64478.44921875,
+                "y": 58984.578125,
+                "z": -9111.4794921875
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 28,
+            "name": "Shalom",
+            "name_history": [
+                "Shalom"
+            ],
+            "registered": "Feb 22, 2026, 6:23:44 PM",
+            "role_id": 38174103118613913,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118614031": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 9792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92546.8359375,
+                "y": 85380.28125,
+                "z": -7028.4296875
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 3,
+            "name": "Kirito80",
+            "name_history": [
+                "Kirito80"
+            ],
+            "registered": "Feb 23, 2026, 10:27:53 PM",
+            "role_id": 38174103118614031,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118614064": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 21024.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74280.0859375,
+                "y": 50240.13671875,
+                "z": -12223.830078125
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 16,
+            "name": "JuKJame",
+            "name_history": [
+                "JuKJame"
+            ],
+            "registered": "Feb 24, 2026, 7:50:28 AM",
+            "role_id": 38174103118614064,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118614100": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98618.6953125,
+                "y": 80064.6015625,
+                "z": -5224.10986328125
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 1,
+            "name": "海未",
+            "name_history": [
+                "海未"
+            ],
+            "registered": "Feb 24, 2026, 7:58:17 PM",
+            "role_id": 38174103118614100,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118614102": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4993.27001953125
+            },
+            "last_seen": "Feb 24, 2026, 8:40:24 PM",
+            "level": 1,
+            "name": "Phain",
+            "name_history": [
+                "Phain"
+            ],
+            "registered": "Feb 24, 2026, 8:32:02 PM",
+            "role_id": 38174103118614102,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5361,
-    "last_updated": "Feb 18, 2026, 7:47:51 PM",
+    "accounts_total": 5370,
+    "last_updated": "Feb 24, 2026, 8:40:24 PM",
     "server_region": "ws-asia-01"
 }
