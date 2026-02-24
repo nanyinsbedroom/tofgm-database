@@ -2240,15 +2240,15 @@
             "crew_name": "雪绒白巧",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1435567.5,
+            "hp": 1472234.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97872.6171875
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21825.9296875
             },
-            "last_seen": "2026年2月15日 下午11:35:12",
-            "level": 83,
+            "last_seen": "2026年2月24日 下午4:27:04",
+            "level": 84,
             "name": "孤独De美食家",
             "name_history": [
                 "孤独De美食家"
@@ -6034,6 +6034,31 @@
             "name": "岁瓜",
             "registered": "2024年5月4日 下午2:43:09",
             "role_id": 63578401137353,
+            "server_region": "time-travel"
+        },
+        "63578401151962": {
+            "crew_history": [
+                "山海阁"
+            ],
+            "crew_id": 1769526540754,
+            "crew_name": "山海阁",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1011382.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54645.296875,
+                "y": -87003.015625,
+                "z": 21710.94921875
+            },
+            "last_seen": "2026年2月24日 下午4:27:04",
+            "level": 81,
+            "name": "绯.",
+            "name_history": [
+                "绯."
+            ],
+            "registered": "2024年5月12日 下午2:59:30",
+            "role_id": 63578401151962,
             "server_region": "time-travel"
         },
         "63578401154571": {
@@ -13518,7 +13543,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 778,
-    "last_updated": "2026年2月24日 下午4:24:04",
+    "accounts_total": 779,
+    "last_updated": "2026年2月24日 下午4:27:04",
     "server_region": "time-travel"
 }
