@@ -64793,13 +64793,20 @@
             "server_region": "cosmic-fold"
         },
         "63582695996795": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 54799.90234375,
-            "last_seen": "2026年02月03日 上午 5:51:42",
-            "level": 21,
+            "hp": 71706.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90234.0,
+                "y": 74653.9296875,
+                "z": -7229.099609375
+            },
+            "last_seen": "2026年2月25日 上午12:06:32",
+            "level": 40,
             "name": "乌萨奇∽到！",
             "name_history": [
                 "乌萨奇∽到！"
@@ -72941,6 +72948,6 @@
         }
     },
     "accounts_total": 5092,
-    "last_updated": "2026年2月25日 上午12:03:32",
+    "last_updated": "2026年2月25日 上午12:06:32",
     "server_region": "cosmic-fold"
 }
