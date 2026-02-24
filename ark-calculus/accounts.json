@@ -8955,12 +8955,21 @@
             "server_region": "ark-calculus"
         },
         "62727997427488": {
+            "crew_history": [
+                "萌新庇护所"
+            ],
             "crew_id": 1258425432430,
             "crew_name": "萌新庇护所",
             "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1347699.625,
-            "last_seen": "2026年01月31日 下午 11:20:40",
+            "hp": 1454223.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53846.08984375,
+                "y": -87910.5390625,
+                "z": 21723.87890625
+            },
+            "last_seen": "2026年2月24日 下午12:27:50",
             "level": 100,
             "name": "朵猫猫",
             "name_history": [
@@ -16021,6 +16030,6 @@
         }
     },
     "accounts_total": 809,
-    "last_updated": "2026年2月24日 下午12:26:50",
+    "last_updated": "2026年2月24日 下午12:27:50",
     "server_region": "ark-calculus"
 }
