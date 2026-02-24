@@ -1350,14 +1350,26 @@
             "server_region": "future-humanity"
         },
         "60563334214262": {
+            "crew_history": [
+                "薪炎永燃"
+            ],
             "crew_id": 10471130281749,
             "crew_name": "薪炎永燃",
-            "equipping_title": "1_2022",
+            "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1867448.75,
-            "last_seen": "2025年10月26日 下午 5:04:28",
+            "hp": 2398580.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54657.46875,
+                "y": -87844.8515625,
+                "z": 21724.44921875
+            },
+            "last_seen": "2026年2月24日 下午10:00:56",
             "level": 100,
             "name": "葱游兵",
+            "name_history": [
+                "葱游兵"
+            ],
             "registered": "2022年8月13日 下午1:58:26",
             "role_id": 60563334214262,
             "server_region": "future-humanity"
@@ -1870,6 +1882,31 @@
             ],
             "registered": "2023年4月3日 下午12:39:12",
             "role_id": 60563335032324,
+            "server_region": "future-humanity"
+        },
+        "60563335032533": {
+            "crew_history": [
+                "雾巷猫"
+            ],
+            "crew_id": 7322919253781,
+            "crew_name": "雾巷猫",
+            "equipping_title": "2_11_1_2",
+            "gender": 1,
+            "hp": 1538818.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.05859375
+            },
+            "last_seen": "2026年2月24日 下午10:00:56",
+            "level": 100,
+            "name": "西雨里南瓜",
+            "name_history": [
+                "西雨里南瓜"
+            ],
+            "registered": "2023年4月4日 下午2:01:37",
+            "role_id": 60563335032533,
             "server_region": "future-humanity"
         },
         "60563335034928": {
@@ -4332,6 +4369,31 @@
             ],
             "registered": "2021年12月16日 下午12:28:52",
             "role_id": 60563335327886,
+            "server_region": "future-humanity"
+        },
+        "60563335331806": {
+            "crew_history": [
+                "才不是萝莉控"
+            ],
+            "crew_id": 14362370651925,
+            "crew_name": "才不是萝莉控",
+            "equipping_title": "2_8_0_11",
+            "gender": 1,
+            "hp": 1082536.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54063.16796875,
+                "y": -88323.796875,
+                "z": 21734.369140625
+            },
+            "last_seen": "2026年2月24日 下午10:00:56",
+            "level": 100,
+            "name": "嗨！可妹",
+            "name_history": [
+                "嗨！可妹"
+            ],
+            "registered": "2024年6月14日 下午1:18:49",
+            "role_id": 60563335331806,
             "server_region": "future-humanity"
         },
         "60563335332161": {
@@ -12787,6 +12849,31 @@
             "role_id": 60601988560327,
             "server_region": "future-humanity"
         },
+        "60601988572157": {
+            "crew_history": [
+                "东方幻想乡"
+            ],
+            "crew_id": 476741383957,
+            "crew_name": "东方幻想乡",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 1717346.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53477.93359375,
+                "y": -88254.9140625,
+                "z": 21730.8203125
+            },
+            "last_seen": "2026年2月24日 下午10:00:56",
+            "level": 100,
+            "name": "比奇堡在逃海星",
+            "name_history": [
+                "比奇堡在逃海星"
+            ],
+            "registered": "2021年12月16日 下午6:38:34",
+            "role_id": 60601988572157,
+            "server_region": "future-humanity"
+        },
         "60606283528554": {
             "crew_id": 15079630190357,
             "crew_name": "魅魔",
@@ -13219,12 +13306,21 @@
             "server_region": "future-humanity"
         },
         "60640643260415": {
+            "crew_history": [
+                "星之海"
+            ],
             "crew_id": 1627792619285,
             "crew_name": "星之海",
             "equipping_title": "3_2021",
             "gender": 1,
-            "hp": 1962888.625,
-            "last_seen": "2025年11月25日 上午 3:01:13",
+            "hp": 2006975.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54992.1484375,
+                "y": -88057.2890625,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月24日 下午10:00:56",
             "level": 100,
             "name": "acie-g37",
             "name_history": [
@@ -16046,7 +16142,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 789,
-    "last_updated": "2026年2月23日 下午10:25:56",
+    "accounts_total": 792,
+    "last_updated": "2026年2月24日 下午10:00:56",
     "server_region": "future-humanity"
 }
