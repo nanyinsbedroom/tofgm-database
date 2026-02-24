@@ -2498,14 +2498,14 @@
             "crew_name": "  ",
             "equipping_title": "Neyara's Enlightener,1",
             "gender": 0,
-            "hp": 6285003.0,
+            "hp": 6927446.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96070.859375,
-                "y": -189148.03125,
-                "z": -7947.4599609375
+                "x": 106552.9765625,
+                "y": -180937.375,
+                "z": -5220.22998046875
             },
-            "last_seen": "Feb 19, 2026, 10:05:34 PM",
+            "last_seen": "Feb 24, 2026, 10:39:30 PM",
             "level": 100,
             "name": "Anarchy7",
             "name_history": [
@@ -4767,14 +4767,14 @@
             "crew_name": "  ",
             "equipping_title": "Anarchy7's Successor,1",
             "gender": 1,
-            "hp": 6807919.5,
+            "hp": 6925582.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 101008.15625,
-                "y": -185003.03125,
-                "z": -7637.419921875
+                "x": 105324.109375,
+                "y": -181520.3125,
+                "z": -5217.43994140625
             },
-            "last_seen": "Feb 16, 2026, 9:41:16 PM",
+            "last_seen": "Feb 24, 2026, 10:39:30 PM",
             "level": 100,
             "name": "Neyara",
             "name_history": [
@@ -12233,12 +12233,21 @@
             "server_region": "europe"
         },
         "55963424544468": {
+            "crew_history": [
+                "ColdHeart"
+            ],
             "crew_id": 8589947620,
             "crew_name": "ColdHeart",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 2520436.25,
-            "last_seen": "Nov 22, 2025, 06:31:24 PM",
+            "hp": 6931870.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 104301.734375,
+                "y": -177816.109375,
+                "z": -5390.5
+            },
+            "last_seen": "Feb 24, 2026, 10:39:30 PM",
             "level": 100,
             "name": "Tati777",
             "name_history": [
@@ -12992,14 +13001,14 @@
             "crew_name": "The_Void",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6717043.5,
+            "hp": 6077298.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 69936.265625,
-                "y": -203356.265625,
-                "z": -2915.35302734375
+                "x": 106262.5,
+                "y": -200835.453125,
+                "z": -577.6699829101563
             },
-            "last_seen": "Feb 20, 2026, 9:51:59 PM",
+            "last_seen": "Feb 24, 2026, 10:39:30 PM",
             "level": 100,
             "name": "D25T",
             "name_history": [
@@ -21468,6 +21477,6 @@
         }
     },
     "accounts_total": 1417,
-    "last_updated": "Feb 24, 2026, 10:38:30 PM",
+    "last_updated": "Feb 24, 2026, 10:39:30 PM",
     "server_region": "europe"
 }
