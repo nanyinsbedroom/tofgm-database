@@ -5809,13 +5809,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695852558": {
+            "crew_history": [
+                "音乐蛋糕坊"
+            ],
             "crew_id": 42949687764,
             "crew_name": "音乐蛋糕坊",
             "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 1414504.375,
-            "last_seen": "2026年2月9日 下午7:51:31",
-            "level": 82,
+            "hp": 1481312.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1283.27001953125,
+                "y": -28376.25,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月24日 下午11:52:31",
+            "level": 84,
             "name": "甜甜圈",
             "name_history": [
                 "甜甜圈"
@@ -9543,13 +9552,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695855115": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "不喜欢loli的导师,0",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1494397.5,
-            "last_seen": "2026年2月8日 下午9:12:34",
-            "level": 82,
+            "hp": 1628741.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月24日 下午11:52:31",
+            "level": 84,
             "name": "NEETlolicon",
             "name_history": [
                 "NEETlolicon"
@@ -33370,12 +33388,12 @@
             "gender": 1,
             "hp": 1502235.875,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -34618.05078125,
-                "y": 8642.4833984375,
-                "z": -13799.359375
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年2月24日 下午10:07:32",
+            "last_seen": "2026年2月24日 下午11:52:31",
             "level": 84,
             "name": "水镜映月明",
             "name_history": [
@@ -72456,6 +72474,6 @@
         }
     },
     "accounts_total": 5073,
-    "last_updated": "2026年2月24日 下午11:51:31",
+    "last_updated": "2026年2月24日 下午11:52:31",
     "server_region": "cosmic-fold"
 }
