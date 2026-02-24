@@ -9242,12 +9242,21 @@
             "server_region": "southeast-asia"
         },
         "68758131638776": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
-            "equipping_title": "1_7_1_3",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 2093533.0,
-            "last_seen": "Nov 09, 2025, 05:03:09 PM",
+            "hp": 6145278.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95578.0546875,
+                "y": -174083.953125,
+                "z": -4869.0400390625
+            },
+            "last_seen": "Feb 24, 2026, 10:36:10 PM",
             "level": 100,
             "name": "Natsfluw",
             "name_history": [
@@ -25843,14 +25852,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "FriK√SweetEyes's Apprentice,0",
             "gender": 1,
-            "hp": 2857380.5,
+            "hp": 6969657.0,
             "last_known_position": {
-                "map": "city",
-                "x": -601.6099853515625,
-                "y": -16513.869140625,
-                "z": 96343.78125
+                "map": "Kailo_P_003",
+                "x": 97224.046875,
+                "y": -198830.5625,
+                "z": -4557.20068359375
             },
-            "last_seen": "Feb 17, 2026, 11:01:17 PM",
+            "last_seen": "Feb 24, 2026, 10:36:10 PM",
             "level": 100,
             "name": "RuneStone",
             "name_history": [
@@ -26068,14 +26077,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 6056876.0,
+            "hp": 6728563.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 98720.078125,
-                "y": -189586.1875,
-                "z": -7905.70361328125
+                "x": 95907.265625,
+                "y": -197014.59375,
+                "z": -2659.68994140625
             },
-            "last_seen": "Feb 18, 2026, 8:54:55 PM",
+            "last_seen": "Feb 24, 2026, 10:36:10 PM",
             "level": 100,
             "name": "UmbraFallen",
             "name_history": [
@@ -29649,6 +29658,6 @@
         }
     },
     "accounts_total": 2061,
-    "last_updated": "Feb 24, 2026, 10:35:10 PM",
+    "last_updated": "Feb 24, 2026, 10:36:10 PM",
     "server_region": "southeast-asia"
 }
