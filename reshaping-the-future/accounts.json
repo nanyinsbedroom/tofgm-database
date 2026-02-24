@@ -7474,13 +7474,22 @@
             "server_region": "reshaping-the-future"
         },
         "62715114572952": {
+            "crew_history": [
+                "魔女茶会"
+            ],
             "crew_id": 6824703047946,
             "crew_name": "魔女茶会",
-            "equipping_title": "1_1_22_1",
+            "equipping_title": "1_6_2_3",
             "gender": 1,
-            "hp": 1677669.375,
-            "last_seen": "2026年2月6日 上午1:04:03",
-            "level": 99,
+            "hp": 1233398.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56029.48828125,
+                "y": -88039.1171875,
+                "z": 21698.458984375
+            },
+            "last_seen": "2026年2月24日 下午2:13:51",
+            "level": 100,
             "name": "冷冰凉",
             "name_history": [
                 "冷冰凉"
@@ -15747,6 +15756,6 @@
         }
     },
     "accounts_total": 749,
-    "last_updated": "2026年2月24日 下午2:12:51",
+    "last_updated": "2026年2月24日 下午2:13:51",
     "server_region": "reshaping-the-future"
 }
