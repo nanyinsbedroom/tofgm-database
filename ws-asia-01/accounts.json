@@ -16262,13 +16262,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118553286": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1065850.375,
-            "last_seen": "Feb 12, 2026, 2:41:51 AM",
-            "level": 75,
+            "hp": 1144929.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79089.0078125,
+                "y": 77644.1171875,
+                "z": -9784.330078125
+            },
+            "last_seen": "Feb 24, 2026, 8:42:24 PM",
+            "level": 77,
             "name": "ひかり",
             "name_history": [
                 "ひかり"
@@ -48001,13 +48010,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118566365": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 190121.765625,
-            "last_seen": "Dec 21, 2025, 03:10:40 AM",
-            "level": 60,
+            "hp": 499035.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -83846.46875,
+                "y": 67204.796875,
+                "z": -8099.5322265625
+            },
+            "last_seen": "Feb 24, 2026, 8:42:24 PM",
+            "level": 74,
             "name": "ザワ",
             "name_history": [
                 "ザワ"
@@ -65364,13 +65380,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118582036": {
+            "crew_history": [
+                "Library"
+            ],
             "crew_id": 1198304763685,
             "crew_name": "Library",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 1010063.1875,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
-            "level": 75,
+            "hp": 1394072.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74313.0390625,
+                "y": 70354.9921875,
+                "z": -9587.0751953125
+            },
+            "last_seen": "Feb 24, 2026, 8:42:24 PM",
+            "level": 77,
             "name": "Rikoris",
             "name_history": [
                 "Rikoris"
@@ -88353,6 +88378,29 @@
             "role_id": 38174103118613913,
             "server_region": "ws-asia-01"
         },
+        "38174103118613999": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 87316.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82922.0546875,
+                "y": 67921.78125,
+                "z": -8352.25
+            },
+            "last_seen": "Feb 24, 2026, 8:42:24 PM",
+            "level": 31,
+            "name": "NaWin",
+            "name_history": [
+                "NaWin"
+            ],
+            "registered": "Feb 23, 2026, 1:39:08 PM",
+            "role_id": 38174103118613999,
+            "server_region": "ws-asia-01"
+        },
         "38174103118614031": {
             "crew_history": [],
             "crew_id": 0,
@@ -88446,7 +88494,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5371,
-    "last_updated": "Feb 24, 2026, 8:41:24 PM",
+    "accounts_total": 5372,
+    "last_updated": "Feb 24, 2026, 8:42:24 PM",
     "server_region": "ws-asia-01"
 }
