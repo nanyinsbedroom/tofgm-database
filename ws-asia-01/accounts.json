@@ -1181,11 +1181,11 @@
             "hp": 405321.21875,
             "last_known_position": {
                 "map": "city",
-                "x": -18.421749114990234,
-                "y": -18529.94140625,
-                "z": 95948.921875
+                "x": -18.337051391601563,
+                "y": -18529.919921875,
+                "z": 95949.0859375
             },
-            "last_seen": "Feb 18, 2026, 7:32:50 PM",
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
             "level": 74,
             "name": "Cocoritter",
             "name_history": [
@@ -1251,15 +1251,15 @@
             "crew_name": "Alter",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1210285.5,
+            "hp": 1320964.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1358.6099853515625,
-                "y": -27738.919921875,
+                "x": 1064.9000244140625,
+                "y": -27949.0,
                 "z": 97881.125
             },
-            "last_seen": "Feb 18, 2026, 7:31:50 PM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
+            "level": 77,
             "name": "Neko♡",
             "name_history": [
                 "Neko♡"
@@ -1413,17 +1413,17 @@
             ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "2_8_0_4",
             "gender": 1,
-            "hp": 1053483.0,
+            "hp": 1172432.0,
             "last_known_position": {
                 "map": "city",
-                "x": -1603.679931640625,
-                "y": -24640.779296875,
-                "z": 97866.109375
+                "x": 969.8099975585938,
+                "y": -26392.859375,
+                "z": 96706.9453125
             },
-            "last_seen": "Feb 15, 2026, 8:36:58 PM",
-            "level": 75,
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
+            "level": 77,
             "name": "ニシン",
             "name_history": [
                 "ニシン"
@@ -13366,13 +13366,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118549694": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "毛根な時間。's Apprentice,0",
+            "crew_history": [
+                "りんごあめ"
+            ],
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "毛根な時間。's Successor,1",
             "gender": 0,
-            "hp": 420200.0,
-            "last_seen": "Dec 26, 2025, 09:02:19 AM",
-            "level": 62,
+            "hp": 1078500.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 636.7999877929688,
+                "y": -28432.798828125,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
+            "level": 77,
             "name": "神の味噌汁ぅ",
             "name_history": [
                 "神の味噌汁ぅ"
@@ -72439,14 +72448,14 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 391445.46875,
+            "hp": 584827.5,
             "last_known_position": {
                 "map": "city",
-                "x": 822.75,
-                "y": -22311.099609375,
-                "z": 96757.375
+                "x": 1966.75,
+                "y": -23416.75,
+                "z": 96756.8359375
             },
-            "last_seen": "Feb 18, 2026, 1:48:27 AM",
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
             "level": 74,
             "name": "lan1",
             "name_history": [
@@ -73194,17 +73203,17 @@
             ],
             "crew_id": 399440846629,
             "crew_name": "LufusIntegra",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 1056363.625,
+            "hp": 1130234.375,
             "last_known_position": {
                 "map": "city",
-                "x": 515.010009765625,
-                "y": -28439.349609375,
-                "z": 97886.1171875
+                "x": -682.7999877929688,
+                "y": -28040.3984375,
+                "z": 97931.15625
             },
-            "last_seen": "Feb 18, 2026, 1:48:27 AM",
-            "level": 76,
+            "last_seen": "Feb 24, 2026, 8:57:52 PM",
+            "level": 77,
             "name": "Krios",
             "name_history": [
                 "Krios"
@@ -89037,6 +89046,6 @@
         }
     },
     "accounts_total": 5382,
-    "last_updated": "Feb 24, 2026, 8:56:52 PM",
+    "last_updated": "Feb 24, 2026, 8:57:52 PM",
     "server_region": "ws-asia-01"
 }
