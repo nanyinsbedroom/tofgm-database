@@ -49361,13 +49361,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118567589": {
+            "crew_history": [
+                "Alter"
+            ],
             "crew_id": 137447841573,
             "crew_name": "Alter",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 1119154.5,
-            "last_seen": "Feb 11, 2026, 9:42:43 PM",
-            "level": 75,
+            "hp": 1163174.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74001.359375,
+                "y": 48533.44921875,
+                "z": -12302.8994140625
+            },
+            "last_seen": "Feb 24, 2026, 8:47:04 PM",
+            "level": 77,
             "name": "L-M-K-3-9",
             "name_history": [
                 "L-M-K-3-9"
@@ -88651,6 +88660,6 @@
         }
     },
     "accounts_total": 5377,
-    "last_updated": "Feb 24, 2026, 8:44:24 PM",
+    "last_updated": "Feb 24, 2026, 8:47:04 PM",
     "server_region": "ws-asia-01"
 }
