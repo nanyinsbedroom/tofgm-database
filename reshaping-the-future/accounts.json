@@ -2241,14 +2241,26 @@
             "server_region": "reshaping-the-future"
         },
         "62715112856481": {
+            "crew_history": [
+                "希望之花"
+            ],
             "crew_id": 38654720266,
             "crew_name": "希望之花",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1509074.875,
-            "last_seen": "2025年10月14日 下午 10:05:44",
+            "hp": 1594088.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.4609375,
+                "y": -88115.46875,
+                "z": 21711.0390625
+            },
+            "last_seen": "2026年2月24日 下午2:23:52",
             "level": 100,
             "name": "芙芙桑",
+            "name_history": [
+                "芙芙桑"
+            ],
             "registered": "2022年6月18日 下午8:52:49",
             "role_id": 62715112856481,
             "server_region": "reshaping-the-future"
@@ -15906,6 +15918,6 @@
         }
     },
     "accounts_total": 755,
-    "last_updated": "2026年2月24日 下午2:22:52",
+    "last_updated": "2026年2月24日 下午2:23:52",
     "server_region": "reshaping-the-future"
 }
