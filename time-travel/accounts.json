@@ -5262,6 +5262,29 @@
             "role_id": 63574106363181,
             "server_region": "time-travel"
         },
+        "63574106363358": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9569.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -85078.140625,
+                "y": 79836.9375,
+                "z": -9635.16015625
+            },
+            "last_seen": "2026年2月25日 下午6:32:57",
+            "level": 1,
+            "name": "Queequeg",
+            "name_history": [
+                "Queequeg"
+            ],
+            "registered": "2024年3月9日 下午8:02:48",
+            "role_id": 63574106363358,
+            "server_region": "time-travel"
+        },
         "63574106364440": {
             "crew_history": [
                 "幻策司梦阁"
@@ -14720,9 +14743,32 @@
             "registered": "2026年2月25日 下午6:23:47",
             "role_id": 63578402004471,
             "server_region": "time-travel"
+        },
+        "63578402004472": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99338.125,
+                "y": 80795.78125,
+                "z": -5166.49853515625
+            },
+            "last_seen": "2026年2月25日 下午6:32:57",
+            "level": 1,
+            "name": "余溺寒",
+            "name_history": [
+                "余溺寒"
+            ],
+            "registered": "2026年2月25日 下午6:28:55",
+            "role_id": 63578402004472,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 825,
-    "last_updated": "2026年2月25日 下午6:31:57",
+    "accounts_total": 827,
+    "last_updated": "2026年2月25日 下午6:32:57",
     "server_region": "time-travel"
 }
