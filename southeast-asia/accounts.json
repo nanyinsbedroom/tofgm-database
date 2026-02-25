@@ -16008,14 +16008,26 @@
             "server_region": "southeast-asia"
         },
         "68775311728510": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "3_2025",
             "gender": 1,
-            "hp": 1533300.5,
-            "last_seen": "Oct 28, 2025, 06:07:55 PM",
+            "hp": 0.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -10359.0,
+                "y": 51734.0,
+                "z": -15239.669921875
+            },
+            "last_seen": "Feb 25, 2026, 7:33:04 PM",
             "level": 100,
             "name": "LilyIFx",
+            "name_history": [
+                "LilyIFx"
+            ],
             "registered": "Mar 17, 2025, 7:58:47 PM",
             "role_id": 68775311728510,
             "server_region": "southeast-asia"
@@ -29796,6 +29808,6 @@
         }
     },
     "accounts_total": 2064,
-    "last_updated": "Feb 25, 2026, 7:32:04 PM",
+    "last_updated": "Feb 25, 2026, 7:33:04 PM",
     "server_region": "southeast-asia"
 }
