@@ -3844,6 +3844,31 @@
             "role_id": 63574106033379,
             "server_region": "time-travel"
         },
+        "63574106034397": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "2_7_0_16",
+            "gender": 1,
+            "hp": 1673569.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55325.83984375,
+                "y": -88540.515625,
+                "z": 21710.98046875
+            },
+            "last_seen": "2026年2月25日 下午6:16:56",
+            "level": 84,
+            "name": "听海涵",
+            "name_history": [
+                "听海涵"
+            ],
+            "registered": "2023年12月20日 下午9:29:45",
+            "role_id": 63574106034397,
+            "server_region": "time-travel"
+        },
         "63574106038062": {
             "crew_history": [
                 "樱花荘"
@@ -7944,14 +7969,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1545219.0,
+            "hp": 1549352.5,
             "last_known_position": {
-                "map": "city",
-                "x": 1784.0699462890625,
-                "y": -29200.4296875,
-                "z": 96737.8359375
+                "map": "QRSL_P",
+                "x": -54267.70703125,
+                "y": -88030.8359375,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月23日 下午5:46:42",
+            "last_seen": "2026年2月25日 下午6:16:56",
             "level": 84,
             "name": "豆豆种子",
             "name_history": [
@@ -10381,6 +10406,31 @@
             "name": "羊月星",
             "registered": "2025年10月25日 下午7:19:28",
             "role_id": 63578401968628,
+            "server_region": "time-travel"
+        },
+        "63578401968685": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 761082.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21721.048828125
+            },
+            "last_seen": "2026年2月25日 下午6:16:56",
+            "level": 81,
+            "name": "红糖GingTea",
+            "name_history": [
+                "红糖GingTea"
+            ],
+            "registered": "2025年10月26日 上午1:13:16",
+            "role_id": 63578401968685,
             "server_region": "time-travel"
         },
         "63578401968749": {
@@ -14259,7 +14309,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 806,
-    "last_updated": "2026年2月25日 下午6:15:56",
+    "accounts_total": 808,
+    "last_updated": "2026年2月25日 下午6:16:56",
     "server_region": "time-travel"
 }
