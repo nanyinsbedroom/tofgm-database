@@ -10368,13 +10368,22 @@
             "server_region": "time-travel"
         },
         "63578401969556": {
+            "crew_history": [
+                "幻策司梦阁"
+            ],
             "crew_id": 996432427474,
             "crew_name": "幻策司梦阁",
             "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 894127.4375,
-            "last_seen": "2026年01月28日 上午 7:01:02",
-            "level": 79,
+            "hp": 1063151.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21726.048828125
+            },
+            "last_seen": "2026年2月25日 下午6:11:55",
+            "level": 83,
             "name": "zekin",
             "name_history": [
                 "zekin"
@@ -13078,6 +13087,31 @@
             "role_id": 63578402002913,
             "server_region": "time-travel"
         },
+        "63578402003174": {
+            "crew_history": [
+                "念"
+            ],
+            "crew_id": 468151450066,
+            "crew_name": "念",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 122077.3984375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53842.76953125,
+                "y": -88089.7265625,
+                "z": 21709.12890625
+            },
+            "last_seen": "2026年2月25日 下午6:11:55",
+            "level": 50,
+            "name": "可以不慧羊羊",
+            "name_history": [
+                "可以不慧羊羊"
+            ],
+            "registered": "2026年2月19日 下午9:12:11",
+            "role_id": 63578402003174,
+            "server_region": "time-travel"
+        },
         "63578402003227": {
             "crew_history": [
                 "灵婵月宫"
@@ -14076,7 +14110,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 800,
-    "last_updated": "2026年2月25日 下午6:10:55",
+    "accounts_total": 801,
+    "last_updated": "2026年2月25日 下午6:11:55",
     "server_region": "time-travel"
 }
