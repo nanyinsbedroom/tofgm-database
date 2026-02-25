@@ -8718,14 +8718,14 @@
             "crew_name": "七宫",
             "equipping_title": "4_2024",
             "gender": 1,
-            "hp": 1476499.0,
+            "hp": 1479187.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91437.1015625,
-                "y": 77495.2109375,
-                "z": -7021.1396484375
+                "x": -91943.8984375,
+                "y": 76718.8984375,
+                "z": -7074.9296875
             },
-            "last_seen": "2026年2月23日 下午5:57:43",
+            "last_seen": "2026年2月25日 下午6:46:57",
             "level": 84,
             "name": "慕I影织",
             "name_history": [
@@ -15000,9 +15000,32 @@
             "registered": "2026年2月25日 下午6:37:58",
             "role_id": 63578402004475,
             "server_region": "time-travel"
+        },
+        "63578402004476": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97797.8359375,
+                "y": 80792.609375,
+                "z": -5264.56005859375
+            },
+            "last_seen": "2026年2月25日 下午6:46:57",
+            "level": 1,
+            "name": "TJZ",
+            "name_history": [
+                "TJZ"
+            ],
+            "registered": "2026年2月25日 下午6:45:10",
+            "role_id": 63578402004476,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 837,
-    "last_updated": "2026年2月25日 下午6:45:57",
+    "accounts_total": 838,
+    "last_updated": "2026年2月25日 下午6:46:57",
     "server_region": "time-travel"
 }
