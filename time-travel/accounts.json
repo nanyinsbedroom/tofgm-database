@@ -3308,13 +3308,22 @@
             "server_region": "time-travel"
         },
         "63574106006157": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "2_2_0_87",
             "gender": 1,
-            "hp": 1479057.125,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 82,
+            "hp": 2659779.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.8125,
+                "y": 201969.296875,
+                "z": -28340.458984375
+            },
+            "last_seen": "2026年2月25日 下午6:10:55",
+            "level": 84,
             "name": "花蔓",
             "name_history": [
                 "花蔓"
@@ -8745,14 +8754,26 @@
             "server_region": "time-travel"
         },
         "63578401884854": {
-            "crew_id": 798863931858,
-            "crew_name": "★千年魔法使",
+            "crew_history": [
+                "绝幻"
+            ],
+            "crew_id": 270582954450,
+            "crew_name": "绝幻",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 500985.3125,
-            "last_seen": "2025年10月26日 下午 2:21:15",
-            "level": 64,
+            "hp": 2298726.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.8125,
+                "y": 201969.296875,
+                "z": -28337.458984375
+            },
+            "last_seen": "2026年2月25日 下午6:10:55",
+            "level": 84,
             "name": "飞起几脚",
+            "name_history": [
+                "飞起几脚"
+            ],
             "registered": "2025年5月26日 下午5:38:06",
             "role_id": 63578401884854,
             "server_region": "time-travel"
@@ -10376,6 +10397,31 @@
             ],
             "registered": "2021年12月16日 上午8:42:19",
             "role_id": 63578401969735,
+            "server_region": "time-travel"
+        },
+        "63578401969764": {
+            "crew_history": [
+                "樱花荘"
+            ],
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
+            "equipping_title": "1_2021",
+            "gender": 1,
+            "hp": 2316484.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325204.09375,
+                "y": 204323.46875,
+                "z": -28327.099609375
+            },
+            "last_seen": "2026年2月25日 下午6:10:55",
+            "level": 84,
+            "name": "星空倒影#a",
+            "name_history": [
+                "星空倒影#a"
+            ],
+            "registered": "2021年12月25日 下午4:08:53",
+            "role_id": 63578401969764,
             "server_region": "time-travel"
         },
         "63578401969858": {
@@ -14030,7 +14076,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 799,
-    "last_updated": "2026年2月24日 下午4:40:05",
+    "accounts_total": 800,
+    "last_updated": "2026年2月25日 下午6:10:55",
     "server_region": "time-travel"
 }
