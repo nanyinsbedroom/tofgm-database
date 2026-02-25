@@ -5382,13 +5382,22 @@
             "server_region": "time-travel"
         },
         "63574106439342": {
+            "crew_history": [
+                "喵喵喵"
+            ],
             "crew_id": 781684062674,
             "crew_name": "喵喵喵",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1501165.5,
-            "last_seen": "2026年2月5日 下午11:53:56",
-            "level": 82,
+            "hp": 1676740.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54615.83984375,
+                "y": -87813.234375,
+                "z": 21710.94921875
+            },
+            "last_seen": "2026年2月25日 下午6:12:55",
+            "level": 84,
             "name": "大西娘",
             "name_history": [
                 "大西娘"
@@ -8424,6 +8433,31 @@
             "role_id": 63578401781763,
             "server_region": "time-travel"
         },
+        "63578401783443": {
+            "crew_history": [
+                "星下樱园"
+            ],
+            "crew_id": 5673651812819,
+            "crew_name": "星下樱园",
+            "equipping_title": "3_2025",
+            "gender": 1,
+            "hp": 72731.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55116.09765625,
+                "y": -87034.28125,
+                "z": 21714.9296875
+            },
+            "last_seen": "2026年2月25日 下午6:12:55",
+            "level": 41,
+            "name": "鬃",
+            "name_history": [
+                "鬃"
+            ],
+            "registered": "2025年1月11日 上午8:55:54",
+            "role_id": 63578401783443,
+            "server_region": "time-travel"
+        },
         "63578401784386": {
             "crew_history": [],
             "crew_id": 0,
@@ -8445,6 +8479,31 @@
             ],
             "registered": "2025年1月12日 上午7:32:55",
             "role_id": 63578401784386,
+            "server_region": "time-travel"
+        },
+        "63578401785049": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 819206.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55695.69921875,
+                "y": -88760.5703125,
+                "z": 21717.419921875
+            },
+            "last_seen": "2026年2月25日 下午6:12:55",
+            "level": 84,
+            "name": "柠檬_Lemon",
+            "name_history": [
+                "柠檬_Lemon"
+            ],
+            "registered": "2025年1月12日 下午8:59:30",
+            "role_id": 63578401785049,
             "server_region": "time-travel"
         },
         "63578401786832": {
@@ -10638,6 +10697,31 @@
             ],
             "registered": "2024年6月18日 下午7:53:16",
             "role_id": 63578401970942,
+            "server_region": "time-travel"
+        },
+        "63578401971424": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1318806.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55644.3984375,
+                "y": -88919.1015625,
+                "z": 21717.46875
+            },
+            "last_seen": "2026年2月25日 下午6:12:55",
+            "level": 84,
+            "name": "是依然呀",
+            "name_history": [
+                "是依然呀"
+            ],
+            "registered": "2021年12月16日 下午1:36:12",
+            "role_id": 63578401971424,
             "server_region": "time-travel"
         },
         "63578401971671": {
@@ -14110,7 +14194,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 801,
-    "last_updated": "2026年2月25日 下午6:11:55",
+    "accounts_total": 804,
+    "last_updated": "2026年2月25日 下午6:12:55",
     "server_region": "time-travel"
 }
