@@ -59094,15 +59094,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_10_1_9_1_1",
             "gender": 1,
-            "hp": 1063852.5,
+            "hp": 1070449.5,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97879.1171875
+                "map": "QRSL_P",
+                "x": -62587.578125,
+                "y": 62769.828125,
+                "z": -9842.1796875
             },
-            "last_seen": "2026年2月17日 下午9:32:34",
-            "level": 82,
+            "last_seen": "2026年2月26日 上午2:42:54",
+            "level": 83,
             "name": "叫我帅哥就好了",
             "name_history": [
                 "叫我帅哥就好了"
@@ -72247,6 +72247,29 @@
             "role_id": 63582696008501,
             "server_region": "cosmic-fold"
         },
+        "63582696008509": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 42085.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74499.2890625,
+                "y": 67315.3984375,
+                "z": -9526.1396484375
+            },
+            "last_seen": "2026年2月26日 上午2:42:54",
+            "level": 12,
+            "name": "shdks",
+            "name_history": [
+                "shdks"
+            ],
+            "registered": "2026年2月21日 上午12:42:58",
+            "role_id": 63582696008509,
+            "server_region": "cosmic-fold"
+        },
         "63582696008528": {
             "crew_history": [
                 "少女祈祷中"
@@ -72905,21 +72928,22 @@
         },
         "63582696009239": {
             "crew_history": [
+                "抵达深空",
                 "天使社"
             ],
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
+            "crew_id": 820338768340,
+            "crew_name": "抵达深空",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 64741.640625,
+            "hp": 123006.3125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -79036.6015625,
-                "y": 63700.0,
-                "z": -7942.6015625
+                "x": -48973.0,
+                "y": 71845.0,
+                "z": -10129.701171875
             },
-            "last_seen": "2026年2月24日 下午11:58:31",
-            "level": 17,
+            "last_seen": "2026年2月26日 上午2:42:54",
+            "level": 49,
             "name": "典狱长的后代",
             "name_history": [
                 "典狱长的后代"
@@ -74262,6 +74286,52 @@
             "role_id": 63582696009470,
             "server_region": "cosmic-fold"
         },
+        "63582696010236": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56581.01171875,
+                "y": 64888.90625,
+                "z": -5723.798828125
+            },
+            "last_seen": "2026年2月26日 上午2:42:54",
+            "level": 6,
+            "name": "酒酒葬",
+            "name_history": [
+                "酒酒葬"
+            ],
+            "registered": "2026年2月26日 上午1:41:34",
+            "role_id": 63582696010236,
+            "server_region": "cosmic-fold"
+        },
+        "63582696010245": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 22707.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52903.73046875,
+                "y": 79649.7890625,
+                "z": -12074.7109375
+            },
+            "last_seen": "2026年2月26日 上午2:42:54",
+            "level": 6,
+            "name": "牢·白",
+            "name_history": [
+                "牢·白"
+            ],
+            "registered": "2026年2月26日 上午1:57:44",
+            "role_id": 63582696010245,
+            "server_region": "cosmic-fold"
+        },
         "63582696010247": {
             "crew_history": [],
             "crew_id": 0,
@@ -74286,7 +74356,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5148,
-    "last_updated": "2026年2月26日 上午2:41:54",
+    "accounts_total": 5151,
+    "last_updated": "2026年2月26日 上午2:42:54",
     "server_region": "cosmic-fold"
 }
