@@ -14516,14 +14516,26 @@
             "server_region": "ark-calculus"
         },
         "63140314256959": {
+            "crew_history": [
+                "记录の地平线"
+            ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "1_9_0_5",
             "gender": 0,
-            "hp": "1832385.625",
-            "last_seen": "2025年10月26日 下午 3:02:56",
-            "level": "100",
+            "hp": 2011342.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月25日 下午8:10:41",
+            "level": 100,
             "name": "猫猫一号",
+            "name_history": [
+                "猫猫一号"
+            ],
             "registered": "2023年4月21日 下午10:20:17",
             "role_id": 63140314256959,
             "server_region": "ark-calculus"
@@ -16883,6 +16895,6 @@
         }
     },
     "accounts_total": 839,
-    "last_updated": "2026年2月25日 下午8:09:41",
+    "last_updated": "2026年2月25日 下午8:10:41",
     "server_region": "ark-calculus"
 }
