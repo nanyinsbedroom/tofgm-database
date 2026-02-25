@@ -10992,6 +10992,31 @@
             "role_id": 63578401974046,
             "server_region": "time-travel"
         },
+        "63578401974161": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 1205792.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55409.76953125,
+                "y": -88521.0859375,
+                "z": 21719.048828125
+            },
+            "last_seen": "2026年2月25日 下午6:18:56",
+            "level": 84,
+            "name": "TABURISS",
+            "name_history": [
+                "TABURISS"
+            ],
+            "registered": "2021年12月16日 下午8:21:57",
+            "role_id": 63578401974161,
+            "server_region": "time-travel"
+        },
         "63578401974176": {
             "crew_history": [
                 "星奈海"
@@ -11657,15 +11682,15 @@
             "crew_name": "小怪兽",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 1162903.625,
+            "hp": 1276231.875,
             "last_known_position": {
-                "map": "city",
-                "x": 1849.429931640625,
-                "y": -25775.87890625,
-                "z": 97872.1171875
+                "map": "QRSL_P",
+                "x": -53273.21875,
+                "y": -88361.7890625,
+                "z": 21725.958984375
             },
-            "last_seen": "2026年2月15日 下午11:29:12",
-            "level": 81,
+            "last_seen": "2026年2月25日 下午6:18:56",
+            "level": 82,
             "name": "鸽鸽你真蔡",
             "name_history": [
                 "鸽鸽你真蔡"
@@ -13757,20 +13782,22 @@
             "server_region": "time-travel"
         },
         "63578402004001": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "回溯"
+            ],
+            "crew_id": 360777267666,
+            "crew_name": "回溯",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 23571.0,
+            "hp": 130254.59375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -82706.3515625,
-                "y": 77872.875,
-                "z": -10077.86328125
+                "x": -54498.78515625,
+                "y": -87932.046875,
+                "z": 21729.048828125
             },
-            "last_seen": "2026年2月23日 下午5:51:42",
-            "level": 7,
+            "last_seen": "2026年2月25日 下午6:18:56",
+            "level": 45,
             "name": "邱啟娟",
             "name_history": [
                 "邱啟娟"
@@ -14355,7 +14382,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 810,
-    "last_updated": "2026年2月25日 下午6:17:56",
+    "accounts_total": 811,
+    "last_updated": "2026年2月25日 下午6:18:56",
     "server_region": "time-travel"
 }
