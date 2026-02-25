@@ -1256,14 +1256,14 @@
             "crew_name": "Origin",
             "equipping_title": "2_2_0_1",
             "gender": 1,
-            "hp": 2180905.5,
+            "hp": 4579901.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -9707.7451171875,
-                "y": 4774.82421875,
-                "z": 25627.8125
+                "map": "Team8P_07_D_II",
+                "x": -9823.91015625,
+                "y": 53473.16796875,
+                "z": -15232.669921875
             },
-            "last_seen": "Feb 16, 2026, 8:04:20 PM",
+            "last_seen": "Feb 25, 2026, 7:48:29 PM",
             "level": 100,
             "name": "Rinoa Hātirī",
             "name_history": [
@@ -10879,12 +10879,21 @@
             "server_region": "southeast-asia"
         },
         "68766721398804": {
+            "crew_history": [
+                "Guardians"
+            ],
             "crew_id": 395137007241,
             "crew_name": "Guardians",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2330876.0,
-            "last_seen": "Nov 19, 2025, 10:51:25 PM",
+            "hp": 2827927.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8091.16748046875,
+                "y": 53670.296875,
+                "z": -15221.5400390625
+            },
+            "last_seen": "Feb 25, 2026, 7:48:29 PM",
             "level": 100,
             "name": "GELLBOORU",
             "name_history": [
@@ -29833,6 +29842,6 @@
         }
     },
     "accounts_total": 2065,
-    "last_updated": "Feb 25, 2026, 7:45:29 PM",
+    "last_updated": "Feb 25, 2026, 7:48:29 PM",
     "server_region": "southeast-asia"
 }
