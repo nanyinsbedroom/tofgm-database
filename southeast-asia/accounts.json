@@ -8394,12 +8394,21 @@
             "server_region": "southeast-asia"
         },
         "68758131526798": {
-            "crew_id": 206158446212,
-            "crew_name": "CASTLE",
-            "equipping_title": "3_2022",
+            "crew_history": [
+                "Guardian"
+            ],
+            "crew_id": 184683609733,
+            "crew_name": "Guardian",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2436866.75,
-            "last_seen": "Nov 04, 2025, 07:17:08 PM",
+            "hp": 2344976.75,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8940.5693359375,
+                "y": 52739.05859375,
+                "z": -15124.6591796875
+            },
+            "last_seen": "Feb 25, 2026, 7:32:04 PM",
             "level": 100,
             "name": "HeLic",
             "name_history": [
@@ -13367,12 +13376,21 @@
             "server_region": "southeast-asia"
         },
         "68775311577472": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
-            "equipping_title": "Title_tencentshare_os_17",
+            "equipping_title": "2_2_0_39",
             "gender": 0,
-            "hp": 1993099.0,
-            "last_seen": "Nov 07, 2025, 06:36:00 PM",
+            "hp": 2208013.75,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -9148.6484375,
+                "y": 52432.72265625,
+                "z": -15227.169921875
+            },
+            "last_seen": "Feb 25, 2026, 7:32:04 PM",
             "level": 100,
             "name": "Valkyon",
             "name_history": [
@@ -14637,12 +14655,21 @@
             "server_region": "southeast-asia"
         },
         "68775311687539": {
+            "crew_history": [
+                "INDONESIA "
+            ],
             "crew_id": 133144002183,
             "crew_name": "INDONESIA ",
-            "equipping_title": "None",
+            "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2243375.5,
-            "last_seen": "Jan 27, 2026, 12:30:04 AM",
+            "hp": 2404535.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8868.0400390625,
+                "y": 52604.1640625,
+                "z": -15226.169921875
+            },
+            "last_seen": "Feb 25, 2026, 7:32:04 PM",
             "level": 100,
             "name": "Pinjam_Seratus",
             "name_history": [
@@ -18498,12 +18525,21 @@
             "server_region": "southeast-asia"
         },
         "68775311749343": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
             "equipping_title": "3_2025",
             "gender": 1,
-            "hp": 1513828.75,
-            "last_seen": "Jan 27, 2026, 12:30:04 AM",
+            "hp": 1634303.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -10096.423828125,
+                "y": 53086.8203125,
+                "z": -15259.169921875
+            },
+            "last_seen": "Feb 25, 2026, 7:32:04 PM",
             "level": 100,
             "name": "Iora",
             "name_history": [
@@ -29318,6 +29354,31 @@
             "role_id": 68805376222399,
             "server_region": "southeast-asia"
         },
+        "68809671055457": {
+            "crew_history": [
+                "•RASCAL•"
+            ],
+            "crew_id": 266287988376,
+            "crew_name": "•RASCAL•",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2194892.5,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -9945.75,
+                "y": 54003.859375,
+                "z": -15232.669921875
+            },
+            "last_seen": "Feb 25, 2026, 7:32:04 PM",
+            "level": 100,
+            "name": "_Okuni_",
+            "name_history": [
+                "_Okuni_"
+            ],
+            "registered": "Aug 18, 2022, 11:09:59 PM",
+            "role_id": 68809671055457,
+            "server_region": "southeast-asia"
+        },
         "68809671056442": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
@@ -29734,7 +29795,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2063,
-    "last_updated": "Feb 25, 2026, 7:29:03 PM",
+    "accounts_total": 2064,
+    "last_updated": "Feb 25, 2026, 7:32:04 PM",
     "server_region": "southeast-asia"
 }
