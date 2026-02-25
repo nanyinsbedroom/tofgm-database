@@ -33087,13 +33087,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695880120": {
-            "crew_id": 8589949396,
-            "crew_name": "星辰",
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 107374197204,
+            "crew_name": "幻塔",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1319184.25,
-            "last_seen": "2026年2月9日 下午7:32:28",
-            "level": 81,
+            "hp": 1503949.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -90.66999816894531,
+                "y": -16690.33984375,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年2月26日 上午2:51:54",
+            "level": 84,
             "name": "镜華",
             "name_history": [
                 "镜華"
@@ -74480,6 +74489,6 @@
         }
     },
     "accounts_total": 5155,
-    "last_updated": "2026年2月26日 上午2:47:54",
+    "last_updated": "2026年2月26日 上午2:51:54",
     "server_region": "cosmic-fold"
 }
