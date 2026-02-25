@@ -2748,14 +2748,14 @@
             "crew_name": "月汐阁",
             "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 2965759.5,
+            "hp": 1744359.875,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325707.84375,
-                "y": 204679.375,
-                "z": -28348.244140625
+                "map": "city",
+                "x": -399.8899841308594,
+                "y": -25564.3203125,
+                "z": 96706.9453125
             },
-            "last_seen": "2026年2月20日 下午9:08:53",
+            "last_seen": "2026年2月25日 下午7:59:41",
             "level": 100,
             "name": "战斗猫娘茉莉丝",
             "name_history": [
@@ -13058,12 +13058,21 @@
             "server_region": "ark-calculus"
         },
         "62745177311921": {
+            "crew_history": [
+                "楼兰月影"
+            ],
             "crew_id": 2353642092817,
             "crew_name": "楼兰月影",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2078822.75,
-            "last_seen": "2026年01月28日 下午 10:43:28",
+            "hp": 1952797.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97647.4453125,
+                "y": 80239.890625,
+                "z": -5282.509765625
+            },
+            "last_seen": "2026年2月25日 下午7:59:41",
             "level": 100,
             "name": "白石墨",
             "name_history": [
@@ -14953,15 +14962,25 @@
             "server_region": "ark-calculus"
         },
         "63140314556160": {
+            "crew_history": [
+                "楼兰月影"
+            ],
             "crew_id": 2353642092817,
             "crew_name": "楼兰月影",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 1848334.25,
-            "last_seen": "2026年01月28日 下午 10:43:28",
+            "hp": 1969702.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97645.515625,
+                "y": 80255.171875,
+                "z": -5282.52001953125
+            },
+            "last_seen": "2026年2月25日 下午7:59:41",
             "level": 100,
-            "name": "安小雅",
+            "name": "墨染悕",
             "name_history": [
+                "墨染悕",
                 "安小雅"
             ],
             "registered": "2023年6月29日 下午11:59:11",
@@ -16231,6 +16250,6 @@
         }
     },
     "accounts_total": 815,
-    "last_updated": "2026年2月25日 下午7:58:40",
+    "last_updated": "2026年2月25日 下午7:59:41",
     "server_region": "ark-calculus"
 }
