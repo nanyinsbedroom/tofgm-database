@@ -21759,13 +21759,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695863482": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_2_0_82",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;1",
             "gender": 1,
-            "hp": 1448375.75,
-            "last_seen": "2026年2月10日 上午12:56:51",
-            "level": 82,
+            "hp": 1504910.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34838.41796875,
+                "y": 7070.08984375,
+                "z": -13787.349609375
+            },
+            "last_seen": "2026年2月26日 上午2:46:54",
+            "level": 84,
             "name": "坤坤",
             "name_history": [
                 "坤坤"
@@ -59070,6 +59079,31 @@
             "role_id": 63582695967964,
             "server_region": "cosmic-fold"
         },
+        "63582695968341": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 990900.375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34782.84765625,
+                "y": 7126.06982421875,
+                "z": -13797.4599609375
+            },
+            "last_seen": "2026年2月26日 上午2:46:54",
+            "level": 79,
+            "name": "『厉飞雨』",
+            "name_history": [
+                "『厉飞雨』"
+            ],
+            "registered": "2025年11月29日 上午8:54:08",
+            "role_id": 63582695968341,
+            "server_region": "cosmic-fold"
+        },
         "63582695968505": {
             "crew_id": 0,
             "crew_name": "",
@@ -74402,7 +74436,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5153,
-    "last_updated": "2026年2月26日 上午2:44:54",
+    "accounts_total": 5154,
+    "last_updated": "2026年2月26日 上午2:46:54",
     "server_region": "cosmic-fold"
 }
