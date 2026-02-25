@@ -2642,17 +2642,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695851073": {
+            "crew_history": [
+                "白露之歌"
+            ],
             "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
-            "equipping_title": "2_7_0_14",
+            "crew_name": "白露之歌",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_064_world;2",
             "gender": 1,
-            "hp": 1380831.5,
-            "last_seen": "2026年02月04日 上午 6:19:09",
-            "level": 81,
+            "hp": 1897519.375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34559.66015625,
+                "y": 7941.03857421875,
+                "z": -13815.16015625
+            },
+            "last_seen": "2026年2月26日 上午2:47:54",
+            "level": 84,
             "name": "久遠寺有珠",
             "name_history": [
-                "诺言诺语",
-                "久遠寺有珠"
+                "久遠寺有珠",
+                "诺言诺语"
             ],
             "registered": "2025年9月25日 下午6:12:26",
             "role_id": 63582695851073,
@@ -14953,13 +14962,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695858736": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1399227.0,
-            "last_seen": "2026年2月8日 下午10:10:57",
-            "level": 82,
+            "hp": 1534908.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34585.34765625,
+                "y": 7981.5,
+                "z": -13810.2900390625
+            },
+            "last_seen": "2026年2月26日 上午2:47:54",
+            "level": 84,
             "name": "风吟泡泡",
             "name_history": [
                 "风吟泡泡"
@@ -62550,6 +62568,31 @@
             "role_id": 63582695989342,
             "server_region": "cosmic-fold"
         },
+        "63582695989462": {
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_085_world;8",
+            "gender": 1,
+            "hp": 808866.0625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -34553.59765625,
+                "y": 7942.47998046875,
+                "z": -13460.16015625
+            },
+            "last_seen": "2026年2月26日 上午2:47:54",
+            "level": 83,
+            "name": "绯元子",
+            "name_history": [
+                "绯元子"
+            ],
+            "registered": "2026年1月16日 上午10:46:29",
+            "role_id": 63582695989462,
+            "server_region": "cosmic-fold"
+        },
         "63582695989557": {
             "crew_id": 0,
             "crew_name": "",
@@ -74436,7 +74479,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5154,
-    "last_updated": "2026年2月26日 上午2:46:54",
+    "accounts_total": 5155,
+    "last_updated": "2026年2月26日 上午2:47:54",
     "server_region": "cosmic-fold"
 }
