@@ -7067,11 +7067,26 @@
             "server_region": "time-travel"
         },
         "63578401567770": {
-            "crew_id": 304942692818,
-            "crew_name": "深月航迹",
+            "crew_history": [
+                "异世相遇"
+            ],
+            "crew_id": 283467856338,
+            "crew_name": "异世相遇",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "last_seen": "2025年10月08日 上午 12:17:13",
-            "name": "知奈",
+            "hp": 1501029.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月25日 下午6:14:56",
+            "level": 84,
+            "name": "木子禧",
+            "name_history": [
+                "木子禧"
+            ],
             "registered": "2024年7月1日 下午8:57:42",
             "role_id": 63578401567770,
             "server_region": "time-travel"
@@ -13290,6 +13305,31 @@
             "role_id": 63578402003438,
             "server_region": "time-travel"
         },
+        "63578402003492": {
+            "crew_history": [
+                "挽梦挽星辰"
+            ],
+            "crew_id": 502511188434,
+            "crew_name": "挽梦挽星辰",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 40869.8515625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54662.87109375,
+                "y": -87470.0,
+                "z": 21723.87890625
+            },
+            "last_seen": "2026年2月25日 下午6:14:56",
+            "level": 36,
+            "name": "烬柒",
+            "name_history": [
+                "烬柒"
+            ],
+            "registered": "2026年2月21日 下午12:22:19",
+            "role_id": 63578402003492,
+            "server_region": "time-travel"
+        },
         "63578402003548": {
             "crew_history": [
                 "小怪兽"
@@ -14194,7 +14234,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 804,
-    "last_updated": "2026年2月25日 下午6:12:55",
+    "accounts_total": 805,
+    "last_updated": "2026年2月25日 下午6:14:56",
     "server_region": "time-travel"
 }
