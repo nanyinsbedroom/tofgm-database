@@ -108,11 +108,26 @@
             "server_region": "visser-aida"
         },
         "60563335214191": {
+            "crew_history": [
+                "奥林匹斯"
+            ],
             "crew_id": 2486786078600,
             "crew_name": "奥林匹斯",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "2025年09月17日 下午 8:53:50",
+            "hp": 1852564.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55690.9296875,
+                "y": -88540.9609375,
+                "z": 21717.5
+            },
+            "last_seen": "2026年2月26日 下午6:24:20",
+            "level": 100,
             "name": "魔法少女牢大",
+            "name_history": [
+                "魔法少女牢大"
+            ],
             "registered": "2024年4月28日 下午10:05:48",
             "role_id": 60563335214191,
             "server_region": "visser-aida"
@@ -7995,6 +8010,31 @@
             "role_id": 60610578560196,
             "server_region": "visser-aida"
         },
+        "60614873449967": {
+            "crew_history": [
+                "繁星四月"
+            ],
+            "crew_id": 163208771368,
+            "crew_name": "繁星四月",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1503072.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54209.359375,
+                "y": -87907.1953125,
+                "z": 21723.91015625
+            },
+            "last_seen": "2026年2月26日 下午6:24:20",
+            "level": 100,
+            "name": "香风依旧",
+            "name_history": [
+                "香风依旧"
+            ],
+            "registered": "2021年12月16日 上午8:09:24",
+            "role_id": 60614873449967,
+            "server_region": "visser-aida"
+        },
         "60614873450030": {
             "crew_history": [
                 "世界樹之葉"
@@ -12395,14 +12435,14 @@
             "crew_name": "猫猫乐园",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 2595415.25,
+            "hp": 2458441.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54768.20703125,
-                "y": -87069.8046875,
-                "z": 21717.548828125
+                "x": -55517.66015625,
+                "y": -88865.796875,
+                "z": 21818.5390625
             },
-            "last_seen": "2026年2月22日 下午4:19:48",
+            "last_seen": "2026年2月26日 下午6:24:20",
             "level": 100,
             "name": "北天十字",
             "name_history": [
@@ -19440,7 +19480,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1199,
-    "last_updated": "2026年2月26日 下午6:23:20",
+    "accounts_total": 1200,
+    "last_updated": "2026年2月26日 下午6:24:20",
     "server_region": "visser-aida"
 }
