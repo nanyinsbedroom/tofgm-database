@@ -53186,13 +53186,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118570768": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_84",
             "gender": 0,
-            "hp": 537707.5,
-            "last_seen": "Dec 21, 2025, 01:48:32 PM",
-            "level": 62,
+            "hp": 1120419.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91806.8671875,
+                "y": 75433.2265625,
+                "z": -7044.224609375
+            },
+            "last_seen": "Feb 27, 2026, 7:04:24 AM",
+            "level": 77,
             "name": "オネシャス",
             "name_history": [
                 "オネシャス"
@@ -89230,6 +89239,6 @@
         }
     },
     "accounts_total": 5385,
-    "last_updated": "Feb 27, 2026, 7:03:24 AM",
+    "last_updated": "Feb 27, 2026, 7:04:24 AM",
     "server_region": "ws-asia-01"
 }
