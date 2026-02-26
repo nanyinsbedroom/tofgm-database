@@ -16261,14 +16261,26 @@
             "server_region": "southeast-asia"
         },
         "68775311728847": {
+            "crew_history": [
+                "SHUTINS"
+            ],
             "crew_id": 4544075415181,
             "crew_name": "SHUTINS",
             "equipping_title": "3_2025",
             "gender": 1,
-            "hp": 317622.125,
-            "last_seen": "Oct 14, 2025, 12:58:54 AM",
+            "hp": 5554450.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 74668.0,
+                "y": -163570.0,
+                "z": -3037.35986328125
+            },
+            "last_seen": "Feb 26, 2026, 10:55:41 PM",
             "level": 100,
             "name": "ChuSheng",
+            "name_history": [
+                "ChuSheng"
+            ],
             "registered": "Mar 20, 2025, 10:27:58 PM",
             "role_id": 68775311728847,
             "server_region": "southeast-asia"
@@ -30108,6 +30120,6 @@
         }
     },
     "accounts_total": 2070,
-    "last_updated": "Feb 26, 2026, 10:51:41 PM",
+    "last_updated": "Feb 26, 2026, 10:55:41 PM",
     "server_region": "southeast-asia"
 }
