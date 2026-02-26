@@ -8730,12 +8730,21 @@
             "server_region": "ark-calculus"
         },
         "62715112456942": {
+            "crew_history": [
+                "记录の地平线"
+            ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "4_2022",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 2439215.0,
-            "last_seen": "2026年2月12日 下午5:40:24",
+            "hp": 2530134.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -186.3699951171875,
+                "y": -18734.19921875,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月26日 下午12:33:56",
             "level": 100,
             "name": "影子喵",
             "name_history": [
@@ -18257,6 +18266,6 @@
         }
     },
     "accounts_total": 893,
-    "last_updated": "2026年2月26日 下午12:33:25",
+    "last_updated": "2026年2月26日 下午12:33:56",
     "server_region": "ark-calculus"
 }
