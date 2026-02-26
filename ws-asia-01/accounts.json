@@ -43832,13 +43832,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118563922": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "WorldBossDamage_1;boss_hum_044_world;1",
             "gender": 1,
-            "hp": 2572442.25,
-            "last_seen": "Feb 8, 2026, 7:25:23 PM",
-            "level": 74,
+            "hp": 1099772.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72333.7578125,
+                "y": 49501.140625,
+                "z": -12320.529296875
+            },
+            "last_seen": "Feb 27, 2026, 7:17:24 AM",
+            "level": 77,
             "name": "シェラザードMKⅡ",
             "name_history": [
                 "シェラザードMKⅡ"
@@ -56043,6 +56052,31 @@
             "role_id": 38174103118574035,
             "server_region": "ws-asia-01"
         },
+        "38174103118574039": {
+            "crew_history": [
+                "りんごあめ"
+            ],
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 500915.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71774.609375,
+                "y": 49482.96875,
+                "z": -12315.7294921875
+            },
+            "last_seen": "Feb 27, 2026, 7:17:24 AM",
+            "level": 74,
+            "name": "ちょこぱふぇ",
+            "name_history": [
+                "ちょこぱふぇ"
+            ],
+            "registered": "Nov 26, 2025, 11:48:04 PM",
+            "role_id": 38174103118574039,
+            "server_region": "ws-asia-01"
+        },
         "38174103118574045": {
             "crew_id": 176102547237,
             "crew_name": "สมาคมฮันเตอร์",
@@ -65561,13 +65595,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118581953": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
-            "equipping_title": "WorldBossDamage_2;Boss_hum_006_world;10",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 997740.25,
-            "last_seen": "Feb 8, 2026, 7:06:01 PM",
-            "level": 74,
+            "hp": 1134266.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72354.265625,
+                "y": 49424.84765625,
+                "z": -12319.26953125
+            },
+            "last_seen": "Feb 27, 2026, 7:17:24 AM",
+            "level": 77,
             "name": "YipPy",
             "name_history": [
                 "YipPy"
@@ -84013,13 +84056,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118603529": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 413862.625,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
-            "level": 72,
+            "hp": 416397.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71816.6484375,
+                "y": 49450.23046875,
+                "z": -12320.849609375
+            },
+            "last_seen": "Feb 27, 2026, 7:17:24 AM",
+            "level": 74,
             "name": "ちょこぱい",
             "name_history": [
                 "ちょこぱい"
@@ -85776,6 +85828,31 @@
             ],
             "registered": "Jan 4, 2026, 3:03:43 PM",
             "role_id": 38174103118608802,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118608806": {
+            "crew_history": [
+                "りんごあめ"
+            ],
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
+            "equipping_title": "YipPy's Apprentice,0",
+            "gender": 1,
+            "hp": 918949.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72269.1484375,
+                "y": 49429.1796875,
+                "z": -12319.3896484375
+            },
+            "last_seen": "Feb 27, 2026, 7:17:24 AM",
+            "level": 77,
+            "name": "Yip_Puu_Yee",
+            "name_history": [
+                "Yip_Puu_Yee"
+            ],
+            "registered": "Jan 4, 2026, 3:21:30 PM",
+            "role_id": 38174103118608806,
             "server_region": "ws-asia-01"
         },
         "38174103118608840": {
@@ -89337,7 +89414,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5387,
-    "last_updated": "Feb 27, 2026, 7:10:24 AM",
+    "accounts_total": 5389,
+    "last_updated": "Feb 27, 2026, 7:17:24 AM",
     "server_region": "ws-asia-01"
 }
