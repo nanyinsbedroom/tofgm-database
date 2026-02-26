@@ -32243,17 +32243,17 @@
             ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "2_7_0_21",
             "gender": 1,
-            "hp": 1553975.375,
+            "hp": 1588674.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -77494.4296875,
-                "y": 76583.78125,
-                "z": -9948.939453125
+                "x": -77107.9921875,
+                "y": 73642.5234375,
+                "z": -9511.947265625
             },
-            "last_seen": "2026年2月26日 上午2:41:54",
-            "level": 84,
+            "last_seen": "2026年2月26日 下午11:28:37",
+            "level": 85,
             "name": "卟卟",
             "name_history": [
                 "卟卟"
@@ -63890,6 +63890,29 @@
             "role_id": 63582695994068,
             "server_region": "cosmic-fold"
         },
+        "63582695994176": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 138678.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54390.390625,
+                "y": 75186.6015625,
+                "z": -10293.3359375
+            },
+            "last_seen": "2026年2月26日 下午11:28:37",
+            "level": 53,
+            "name": "残煙",
+            "name_history": [
+                "残煙"
+            ],
+            "registered": "2026年1月23日 下午7:14:28",
+            "role_id": 63582695994176,
+            "server_region": "cosmic-fold"
+        },
         "63582695994263": {
             "crew_id": 0,
             "crew_name": "",
@@ -69044,6 +69067,29 @@
             ],
             "registered": "2026年2月6日 下午5:09:51",
             "role_id": 63582696003901,
+            "server_region": "cosmic-fold"
+        },
+        "63582696003949": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101523.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73374.3515625,
+                "y": 83779.640625,
+                "z": -10661.8896484375
+            },
+            "last_seen": "2026年2月26日 下午11:28:37",
+            "level": 45,
+            "name": "哈基米不哈气",
+            "name_history": [
+                "哈基米不哈气"
+            ],
+            "registered": "2026年2月6日 下午6:24:13",
+            "role_id": 63582696003949,
             "server_region": "cosmic-fold"
         },
         "63582696004007": {
@@ -74533,6 +74579,52 @@
             "role_id": 63582696010259,
             "server_region": "cosmic-fold"
         },
+        "63582696010439": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25866.525390625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54671.75,
+                "y": 77564.328125,
+                "z": -11237.974609375
+            },
+            "last_seen": "2026年2月26日 下午11:28:37",
+            "level": 6,
+            "name": "勿忘心安",
+            "name_history": [
+                "勿忘心安"
+            ],
+            "registered": "2026年2月26日 上午11:42:18",
+            "role_id": 63582696010439,
+            "server_region": "cosmic-fold"
+        },
+        "63582696010985": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 31957.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -46487.859375,
+                "y": 79872.6171875,
+                "z": -12329.609375
+            },
+            "last_seen": "2026年2月26日 下午11:28:37",
+            "level": 7,
+            "name": "新号2",
+            "name_history": [
+                "新号2"
+            ],
+            "registered": "2026年2月26日 下午10:53:47",
+            "role_id": 63582696010985,
+            "server_region": "cosmic-fold"
+        },
         "63582696011000": {
             "crew_history": [],
             "crew_id": 0,
@@ -74557,7 +74649,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5158,
-    "last_updated": "2026年2月26日 下午11:27:37",
+    "accounts_total": 5162,
+    "last_updated": "2026年2月26日 下午11:28:37",
     "server_region": "cosmic-fold"
 }
