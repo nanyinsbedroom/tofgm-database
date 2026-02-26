@@ -84377,13 +84377,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118604400": {
-            "crew_id": 459570388773,
-            "crew_name": "低スペックチーム",
-            "equipping_title": "None",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 20287.9296875,
-            "last_seen": "Dec 27, 2025, 10:54:49 AM",
-            "level": 21,
+            "hp": 216468.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 92544.2890625,
+                "y": 61220.4921875,
+                "z": -8584.6123046875
+            },
+            "last_seen": "Feb 27, 2026, 7:01:24 AM",
+            "level": 59,
             "name": "yuee",
             "name_history": [
                 "yuee"
@@ -89084,9 +89091,32 @@
             "registered": "Feb 24, 2026, 8:32:02 PM",
             "role_id": 38174103118614102,
             "server_region": "ws-asia-01"
+        },
+        "38174103118614139": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -88531.921875,
+                "y": 74159.78125,
+                "z": -7602.849609375
+            },
+            "last_seen": "Feb 27, 2026, 7:01:24 AM",
+            "level": 4,
+            "name": "eryn",
+            "name_history": [
+                "eryn"
+            ],
+            "registered": "Feb 25, 2026, 7:30:07 AM",
+            "role_id": 38174103118614139,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5382,
-    "last_updated": "Feb 27, 2026, 7:00:23 AM",
+    "accounts_total": 5383,
+    "last_updated": "Feb 27, 2026, 7:01:24 AM",
     "server_region": "ws-asia-01"
 }
