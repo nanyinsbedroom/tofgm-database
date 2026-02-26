@@ -184,11 +184,11 @@
             "hp": 1810512.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.4765625,
-                "y": -88115.4609375,
+                "x": -54757.44921875,
+                "y": -88115.4765625,
                 "z": 21724.048828125
             },
-            "last_seen": "2026年2月23日 下午8:05:49",
+            "last_seen": "2026年2月26日 下午8:11:40",
             "level": 100,
             "name": "阿夏",
             "name_history": [
@@ -2579,6 +2579,29 @@
             "name": "烨启",
             "registered": "2023年9月8日 下午4:07:24",
             "role_id": 60563335058072,
+            "server_region": "future-humanity"
+        },
+        "60563335058112": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 760347.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55828.23046875,
+                "y": -88733.6875,
+                "z": 21710.888671875
+            },
+            "last_seen": "2026年2月26日 下午8:11:40",
+            "level": 100,
+            "name": "折花予卿",
+            "name_history": [
+                "折花予卿"
+            ],
+            "registered": "2023年9月8日 下午8:54:53",
+            "role_id": 60563335058112,
             "server_region": "future-humanity"
         },
         "60563335058119": {
@@ -7311,6 +7334,31 @@
             "role_id": 60563335567863,
             "server_region": "future-humanity"
         },
+        "60563335569172": {
+            "crew_history": [
+                "玲珑"
+            ],
+            "crew_id": 7597797160725,
+            "crew_name": "玲珑",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 1648985.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54959.8984375,
+                "y": -86848.5390625,
+                "z": 21720.91015625
+            },
+            "last_seen": "2026年2月26日 下午8:11:40",
+            "level": 100,
+            "name": "或归",
+            "name_history": [
+                "或归"
+            ],
+            "registered": "2024年10月16日 下午11:10:57",
+            "role_id": 60563335569172,
+            "server_region": "future-humanity"
+        },
         "60563335571711": {
             "crew_id": 0,
             "crew_name": "",
@@ -8558,7 +8606,7 @@
                 "y": -88115.4765625,
                 "z": 21717.548828125
             },
-            "last_seen": "2026年2月21日 下午2:08:11",
+            "last_seen": "2026年2月26日 下午8:11:40",
             "level": 100,
             "name": "江秒",
             "name_history": [
@@ -18614,7 +18662,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 890,
-    "last_updated": "2026年2月26日 下午8:10:40",
+    "accounts_total": 892,
+    "last_updated": "2026年2月26日 下午8:11:40",
     "server_region": "future-humanity"
 }
