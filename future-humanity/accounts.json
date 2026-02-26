@@ -8510,12 +8510,21 @@
             "server_region": "future-humanity"
         },
         "60563335643951": {
+            "crew_history": [
+                "投降喵"
+            ],
             "crew_id": 14383845488405,
             "crew_name": "投降喵",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 986012.0,
-            "last_seen": "2025年11月25日 上午 3:04:14",
+            "hp": 986088.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54772.6875,
+                "y": -87058.875,
+                "z": 21725.888671875
+            },
+            "last_seen": "2026年2月26日 下午8:14:40",
             "level": 100,
             "name": "舞千年",
             "name_history": [
@@ -12156,6 +12165,31 @@
             ],
             "registered": "2025年12月20日 下午3:56:25",
             "role_id": 60563335976520,
+            "server_region": "future-humanity"
+        },
+        "60563335978064": {
+            "crew_history": [
+                "未来人类"
+            ],
+            "crew_id": 17467632006933,
+            "crew_name": "未来人类",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 1070812.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53856.109375,
+                "y": -88104.921875,
+                "z": 21721.94921875
+            },
+            "last_seen": "2026年2月26日 下午8:14:40",
+            "level": 100,
+            "name": "PMi",
+            "name_history": [
+                "PMi"
+            ],
+            "registered": "2025年12月23日 下午9:11:32",
+            "role_id": 60563335978064,
             "server_region": "future-humanity"
         },
         "60563335978932": {
@@ -18762,7 +18796,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 896,
-    "last_updated": "2026年2月26日 下午8:13:40",
+    "accounts_total": 897,
+    "last_updated": "2026年2月26日 下午8:14:40",
     "server_region": "future-humanity"
 }
