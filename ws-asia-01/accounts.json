@@ -7142,17 +7142,17 @@
             ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_70",
             "gender": 1,
-            "hp": 1368372.625,
+            "hp": 1196184.75,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -37389.69921875,
-                "y": 9644.240234375,
-                "z": -14027.5400390625
+                "x": -42370.17578125,
+                "y": 4118.3154296875,
+                "z": -13810.279296875
             },
-            "last_seen": "Feb 18, 2026, 2:02:27 AM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:07:24 AM",
+            "level": 77,
             "name": "Garnet",
             "name_history": [
                 "Garnet"
@@ -20674,13 +20674,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555064": {
+            "crew_history": [
+                "宿屋享楽"
+            ],
             "crew_id": 592714374949,
             "crew_name": "宿屋享楽",
-            "equipping_title": "WorldBossDamage_4;boss_hum_061_World;70",
+            "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 447051.375,
-            "last_seen": "Dec 21, 2025, 01:47:32 PM",
-            "level": 62,
+            "hp": 585112.3125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -45995.02734375,
+                "y": 5046.25,
+                "z": -12985.33984375
+            },
+            "last_seen": "Feb 27, 2026, 7:07:24 AM",
+            "level": 77,
             "name": "よっちゃん",
             "name_history": [
                 "よっちゃん"
@@ -89252,6 +89261,6 @@
         }
     },
     "accounts_total": 5385,
-    "last_updated": "Feb 27, 2026, 7:06:24 AM",
+    "last_updated": "Feb 27, 2026, 7:07:24 AM",
     "server_region": "ws-asia-01"
 }
