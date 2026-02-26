@@ -14167,12 +14167,21 @@
             "server_region": "southeast-asia"
         },
         "68775311641290": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
             "equipping_title": "1_4_7_4",
             "gender": 0,
-            "hp": 2427535.5,
-            "last_seen": "Feb 04, 2026, 07:38:30 AM",
+            "hp": 2696862.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
+            },
+            "last_seen": "Feb 26, 2026, 9:52:56 PM",
             "level": 100,
             "name": "Keparta",
             "name_history": [
@@ -30007,6 +30016,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 9:51:56 PM",
+    "last_updated": "Feb 26, 2026, 9:52:56 PM",
     "server_region": "southeast-asia"
 }
