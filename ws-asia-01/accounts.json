@@ -31065,13 +31065,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118558507": {
+            "crew_history": [
+                "ブラックムーン海賊団"
+            ],
             "crew_id": 579829473061,
-            "crew_name": "女神の祝福・賊",
+            "crew_name": "ブラックムーン海賊団",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 1080524.25,
-            "last_seen": "Feb 13, 2026, 3:36:23 AM",
-            "level": 75,
+            "hp": 1179986.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72861.578125,
+                "y": 49288.9296875,
+                "z": -12319.9296875
+            },
+            "last_seen": "Feb 27, 2026, 7:09:24 AM",
+            "level": 77,
             "name": "りゆ",
             "name_history": [
                 "りゆ"
@@ -48391,13 +48400,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118566416": {
-            "crew_id": 974966464293,
-            "crew_name": "Family",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 198854.0,
-            "last_seen": "Dec 14, 2025, 07:18:40 AM",
-            "level": 58,
+            "crew_history": [
+                "ミスティルテイン"
+            ],
+            "crew_id": 30073659173,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 520746.78125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74051.828125,
+                "y": 48557.27734375,
+                "z": -12283.759765625
+            },
+            "last_seen": "Feb 27, 2026, 7:09:24 AM",
+            "level": 75,
             "name": "幻塔界隈のホルスタイン　",
             "name_history": [
                 "幻塔界隈のホルスタイン　"
@@ -78816,13 +78834,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118594881": {
+            "crew_history": [
+                "ブラックムーン海賊団"
+            ],
             "crew_id": 579829473061,
-            "crew_name": "女神の祝福・賊",
+            "crew_name": "ブラックムーン海賊団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 434891.0,
-            "last_seen": "Feb 12, 2026, 11:09:30 PM",
-            "level": 69,
+            "hp": 757447.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73782.921875,
+                "y": 49014.91796875,
+                "z": -12296.8984375
+            },
+            "last_seen": "Feb 27, 2026, 7:09:24 AM",
+            "level": 75,
             "name": "海賊団員No.2",
             "name_history": [
                 "海賊団員No.2"
@@ -88935,6 +88962,31 @@
             "role_id": 38174103118613445,
             "server_region": "ws-asia-01"
         },
+        "38174103118613537": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
+            "crew_id": 841822478117,
+            "crew_name": "居酒屋『低スペック桜花めいと』",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 494317.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79127.4453125,
+                "y": 50168.1171875,
+                "z": -11331.859375
+            },
+            "last_seen": "Feb 27, 2026, 7:09:24 AM",
+            "level": 75,
+            "name": "S.Pina",
+            "name_history": [
+                "S.Pina"
+            ],
+            "registered": "Feb 19, 2026, 1:30:51 AM",
+            "role_id": 38174103118613537,
+            "server_region": "ws-asia-01"
+        },
         "38174103118613862": {
             "crew_history": [],
             "crew_id": 0,
@@ -89285,7 +89337,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5386,
-    "last_updated": "Feb 27, 2026, 7:08:24 AM",
+    "accounts_total": 5387,
+    "last_updated": "Feb 27, 2026, 7:09:24 AM",
     "server_region": "ws-asia-01"
 }
