@@ -1181,11 +1181,11 @@
             "hp": 405321.21875,
             "last_known_position": {
                 "map": "city",
-                "x": -18.337051391601563,
-                "y": -18529.919921875,
-                "z": 95949.0859375
+                "x": -7.89520263671875,
+                "y": -18479.8359375,
+                "z": 95947.015625
             },
-            "last_seen": "Feb 24, 2026, 8:57:52 PM",
+            "last_seen": "Feb 27, 2026, 7:00:23 AM",
             "level": 74,
             "name": "Cocoritter",
             "name_history": [
@@ -23090,15 +23090,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118555947": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "1_6_2_1",
+            "equipping_title": "WorldBossDamage_2;boss_hum_059_world;6",
             "gender": 1,
-            "hp": 879754.875,
-            "last_seen": "Feb 03, 2026, 01:31:41 AM",
-            "level": 73,
-            "name": "Matcha_RS",
+            "hp": 933017.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1078.739990234375,
+                "y": -26442.048828125,
+                "z": 96719.9453125
+            },
+            "last_seen": "Feb 27, 2026, 7:00:23 AM",
+            "level": 77,
+            "name": "Matcha_Twitch",
             "name_history": [
+                "Matcha_Twitch",
                 "Matcha_RS"
             ],
             "registered": "Nov 25, 2025, 6:59:14 PM",
@@ -66743,13 +66753,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118582868": {
+            "crew_history": [
+                "Reverie"
+            ],
             "crew_id": 1430232997669,
             "crew_name": "Reverie",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 634713.75,
-            "last_seen": "Feb 03, 2026, 01:39:43 AM",
-            "level": 73,
+            "hp": 1037624.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1806.5399169921875,
+                "y": -24488.900390625,
+                "z": 97878.828125
+            },
+            "last_seen": "Feb 27, 2026, 7:00:23 AM",
+            "level": 77,
             "name": "ユカウラ",
             "name_history": [
                 "ユカウラ"
@@ -89068,6 +89087,6 @@
         }
     },
     "accounts_total": 5382,
-    "last_updated": "Feb 27, 2026, 6:59:23 AM",
+    "last_updated": "Feb 27, 2026, 7:00:23 AM",
     "server_region": "ws-asia-01"
 }
