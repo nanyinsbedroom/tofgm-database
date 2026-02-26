@@ -8,15 +8,15 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1787539.625,
+            "hp": 1891256.75,
             "last_known_position": {
-                "map": "city",
-                "x": 1432.0599365234375,
-                "y": -27825.240234375,
-                "z": 97866.1171875
+                "map": "norn_city",
+                "x": -37454.30078125,
+                "y": 9291.669921875,
+                "z": -14026.259765625
             },
-            "last_seen": "2026年2月24日 下午11:49:31",
-            "level": 84,
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 85,
             "name": "未来",
             "name_history": [
                 "未来"
@@ -7198,14 +7198,14 @@
             "crew_name": "幻塔",
             "equipping_title": "菜包肉包各两个的导师,0",
             "gender": 1,
-            "hp": 1529085.75,
+            "hp": 1530084.125,
             "last_known_position": {
-                "map": "city",
-                "x": 1321.18994140625,
-                "y": -28264.638671875,
-                "z": 97874.1171875
+                "map": "norn_city",
+                "x": -37454.0390625,
+                "y": 9266.51953125,
+                "z": -14019.0
             },
-            "last_seen": "2026年2月25日 上午12:20:33",
+            "last_seen": "2026年2月26日 下午11:34:37",
             "level": 84,
             "name": "夏桐",
             "name_history": [
@@ -23553,15 +23553,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1448731.25,
+            "hp": 1587532.75,
             "last_known_position": {
-                "map": "city",
-                "x": 2017.909912109375,
-                "y": -31190.87890625,
-                "z": 97271.765625
+                "map": "norn_city",
+                "x": -36276.83984375,
+                "y": 1282.169921875,
+                "z": -13805.01953125
             },
-            "last_seen": "2026年2月19日 上午12:36:38",
-            "level": 83,
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 84,
             "name": "白龍1号",
             "name_history": [
                 "白龍1号",
@@ -27408,11 +27408,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695869517": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "鱼俞sy的导师,0",
             "gender": 1,
-            "last_seen": "2025年09月26日 下午 9:21:36",
+            "hp": 1350895.125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35972.58984375,
+                "y": 3009.689697265625,
+                "z": -13805.849609375
+            },
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 84,
             "name": "芸汐",
+            "name_history": [
+                "芸汐"
+            ],
             "registered": "2025年9月26日 下午3:09:32",
             "role_id": 63582695869517,
             "server_region": "cosmic-fold"
@@ -32102,6 +32117,31 @@
             "role_id": 63582695876931,
             "server_region": "cosmic-fold"
         },
+        "63582695876949": {
+            "crew_history": [
+                "暖暖会"
+            ],
+            "crew_id": 25769818580,
+            "crew_name": "暖暖会",
+            "equipping_title": "2_10_1_12_1_1",
+            "gender": 1,
+            "hp": 1105309.5,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -37320.33984375,
+                "y": 9264.189453125,
+                "z": -14027.4697265625
+            },
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 83,
+            "name": "叶轻语雯",
+            "name_history": [
+                "叶轻语雯"
+            ],
+            "registered": "2025年9月27日 下午12:16:22",
+            "role_id": 63582695876949,
+            "server_region": "cosmic-fold"
+        },
         "63582695877113": {
             "crew_id": 347892365780,
             "crew_name": "格兰塞法",
@@ -32730,14 +32770,14 @@
             "crew_name": "幻塔",
             "equipping_title": "景清l的导师,0",
             "gender": 1,
-            "hp": 1543759.75,
+            "hp": 1558067.25,
             "last_known_position": {
-                "map": "city",
-                "x": 2330.02001953125,
-                "y": -27071.478515625,
-                "z": 97879.6171875
+                "map": "norn_city",
+                "x": -37380.73046875,
+                "y": 9266.259765625,
+                "z": -14006.580078125
             },
-            "last_seen": "2026年2月20日 下午11:42:13",
+            "last_seen": "2026年2月26日 下午11:34:37",
             "level": 84,
             "name": "暖树",
             "name_history": [
@@ -33164,15 +33204,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 2169748.5,
+            "hp": 1695739.125,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325629.6875,
-                "y": 204829.21875,
-                "z": -28332.9296875
+                "map": "norn_city",
+                "x": -35890.9296875,
+                "y": 3172.31884765625,
+                "z": -13792.349609375
             },
-            "last_seen": "2026年2月14日 下午8:48:52",
-            "level": 83,
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 84,
             "name": "君悦绝挞蝶",
             "name_history": [
                 "君悦绝挞蝶"
@@ -38434,6 +38474,31 @@
             "role_id": 63582695897583,
             "server_region": "cosmic-fold"
         },
+        "63582695897627": {
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 1296249.75,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35729.7578125,
+                "y": 2648.079833984375,
+                "z": -13792.0
+            },
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 84,
+            "name": "我建议滑着走",
+            "name_history": [
+                "我建议滑着走"
+            ],
+            "registered": "2025年10月2日 上午12:57:27",
+            "role_id": 63582695897627,
+            "server_region": "cosmic-fold"
+        },
         "63582695897628": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
@@ -39718,12 +39783,12 @@
             "gender": 1,
             "hp": 1605916.875,
             "last_known_position": {
-                "map": "city",
-                "x": 1162.280029296875,
-                "y": -28277.978515625,
-                "z": 97879.6171875
+                "map": "norn_city",
+                "x": -36407.05859375,
+                "y": 1920.5,
+                "z": -13799.849609375
             },
-            "last_seen": "2026年2月24日 下午11:50:31",
+            "last_seen": "2026年2月26日 下午11:34:37",
             "level": 84,
             "name": "月光闪耀",
             "name_history": [
@@ -63136,13 +63201,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695991846": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "观世正宗的学徒,0",
             "gender": 0,
-            "hp": 397702.03125,
-            "last_seen": "2026年02月04日 上午 6:19:09",
-            "level": 70,
+            "hp": 1136546.125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35968.5859375,
+                "y": 3113.814208984375,
+                "z": -13799.849609375
+            },
+            "last_seen": "2026年2月26日 下午11:34:37",
+            "level": 83,
             "name": "苏沐璃",
             "name_history": [
                 "苏沐璃"
@@ -74867,7 +74941,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5169,
-    "last_updated": "2026年2月26日 下午11:33:37",
+    "accounts_total": 5171,
+    "last_updated": "2026年2月26日 下午11:34:37",
     "server_region": "cosmic-fold"
 }
