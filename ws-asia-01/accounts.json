@@ -87796,15 +87796,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118612223": {
-            "crew_id": 2662888611621,
-            "crew_name": "ぽんぽん☆ぺいんRE★STAR",
-            "equipping_title": "None",
+            "crew_history": [
+                "ブラックムーン海賊団"
+            ],
+            "crew_id": 579829473061,
+            "crew_name": "ブラックムーン海賊団",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_Sand_world;36",
             "gender": 1,
-            "hp": 198482.40625,
-            "last_seen": "Feb 10, 2026, 8:25:38 PM",
-            "level": 73,
-            "name": "プリマ",
+            "hp": 750128.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72840.0,
+                "y": 48765.55078125,
+                "z": -12315.4189453125
+            },
+            "last_seen": "Feb 27, 2026, 7:03:24 AM",
+            "level": 77,
+            "name": "あまの",
             "name_history": [
+                "あまの",
                 "プリマ"
             ],
             "registered": "Feb 3, 2026, 10:43:41 PM",
@@ -89147,6 +89157,31 @@
             "role_id": 38174103118614102,
             "server_region": "ws-asia-01"
         },
+        "38174103118614135": {
+            "crew_history": [
+                "SoLo Player"
+            ],
+            "crew_id": 2744492990245,
+            "crew_name": "SoLo Player",
+            "equipping_title": "ไอหวัง's Apprentice,0",
+            "gender": 1,
+            "hp": 387821.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59107.5,
+                "y": 105364.09375,
+                "z": -12895.6201171875
+            },
+            "last_seen": "Feb 27, 2026, 7:03:24 AM",
+            "level": 70,
+            "name": "เจ๊ร๊ายยยย",
+            "name_history": [
+                "เจ๊ร๊ายยยย"
+            ],
+            "registered": "Feb 25, 2026, 5:04:22 AM",
+            "role_id": 38174103118614135,
+            "server_region": "ws-asia-01"
+        },
         "38174103118614139": {
             "crew_history": [],
             "crew_id": 0,
@@ -89169,9 +89204,32 @@
             "registered": "Feb 25, 2026, 7:30:07 AM",
             "role_id": 38174103118614139,
             "server_region": "ws-asia-01"
+        },
+        "38174103118614244": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 28888.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11497.599609375
+            },
+            "last_seen": "Feb 27, 2026, 7:03:24 AM",
+            "level": 6,
+            "name": "ADELINE ",
+            "name_history": [
+                "ADELINE "
+            ],
+            "registered": "Feb 26, 2026, 5:26:35 PM",
+            "role_id": 38174103118614244,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5383,
-    "last_updated": "Feb 27, 2026, 7:02:24 AM",
+    "accounts_total": 5385,
+    "last_updated": "Feb 27, 2026, 7:03:24 AM",
     "server_region": "ws-asia-01"
 }
