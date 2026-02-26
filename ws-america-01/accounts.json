@@ -4000,15 +4000,15 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 1051670.125,
+            "hp": 1089284.875,
             "last_known_position": {
-                "map": "city",
-                "x": -1523.1300048828125,
-                "y": -25393.759765625,
-                "z": 96717.9453125
+                "map": "QRSL_P",
+                "x": -75227.2890625,
+                "y": 92867.9453125,
+                "z": -3759.030029296875
             },
-            "last_seen": "Feb 18, 2026, 10:22:27 PM",
-            "level": 76,
+            "last_seen": "Feb 26, 2026, 4:56:23 PM",
+            "level": 77,
             "name": "Bennett",
             "name_history": [
                 "Bennett"
@@ -29301,15 +29301,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 63538.0,
+            "hp": 74974.0,
             "last_known_position": {
-                "map": "city",
-                "x": 115.0,
-                "y": -25714.0,
-                "z": 96773.78125
+                "map": "QRSL_P",
+                "x": -90898.09375,
+                "y": 78859.8828125,
+                "z": -7011.1396484375
             },
-            "last_seen": "Feb 18, 2026, 8:24:36 PM",
-            "level": 13,
+            "last_seen": "Feb 26, 2026, 4:56:23 PM",
+            "level": 23,
             "name": "Galaky",
             "name_history": [
                 "Galaky"
@@ -30200,6 +30200,29 @@
             "role_id": 38174107413584101,
             "server_region": "ws-america-01"
         },
+        "38174107413584113": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33686.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -95027.796875,
+                "y": 86223.234375,
+                "z": -6645.83984375
+            },
+            "last_seen": "Feb 26, 2026, 4:56:23 PM",
+            "level": 9,
+            "name": "Easyfon",
+            "name_history": [
+                "Easyfon"
+            ],
+            "registered": "Feb 25, 2026, 11:38:00 PM",
+            "role_id": 38174107413584113,
+            "server_region": "ws-america-01"
+        },
         "38174107413584132": {
             "crew_history": [],
             "crew_id": 0,
@@ -30270,7 +30293,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1676,
-    "last_updated": "Feb 26, 2026, 4:55:23 PM",
+    "accounts_total": 1677,
+    "last_updated": "Feb 26, 2026, 4:56:23 PM",
     "server_region": "ws-america-01"
 }
