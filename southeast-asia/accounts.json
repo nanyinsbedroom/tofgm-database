@@ -13294,14 +13294,14 @@
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "2_10_1_6",
             "gender": 1,
-            "hp": 2298570.5,
+            "hp": 5813262.5,
             "last_known_position": {
-                "map": "city",
-                "x": -507.5,
-                "y": -18553.099609375,
-                "z": 96329.5390625
+                "map": "Kailo_P_003",
+                "x": 106938.4921875,
+                "y": -184432.484375,
+                "z": -5392.986328125
             },
-            "last_seen": "Feb 19, 2026, 7:40:24 PM",
+            "last_seen": "Feb 26, 2026, 9:46:20 PM",
             "level": 100,
             "name": "Amimima",
             "name_history": [
@@ -16226,12 +16226,21 @@
             "server_region": "southeast-asia"
         },
         "68775311729024": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1576844.875,
-            "last_seen": "Dec 19, 2025, 01:22:46 AM",
+            "hp": 6061721.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101991.46875,
+                "y": -183663.53125,
+                "z": -7873.80908203125
+            },
+            "last_seen": "Feb 26, 2026, 9:46:20 PM",
             "level": 100,
             "name": "tt",
             "name_history": [
@@ -29998,6 +30007,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 9:45:20 PM",
+    "last_updated": "Feb 26, 2026, 9:46:20 PM",
     "server_region": "southeast-asia"
 }
