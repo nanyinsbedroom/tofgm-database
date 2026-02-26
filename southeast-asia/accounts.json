@@ -5737,12 +5737,21 @@
             "server_region": "southeast-asia"
         },
         "68740951650127": {
+            "crew_history": [
+                "Eroge"
+            ],
             "crew_id": 1563368111749,
             "crew_name": "Eroge",
-            "equipping_title": "Ayin的后继者,1",
+            "equipping_title": "Ayin's Successor,1",
             "gender": 0,
-            "hp": 1910264.5,
-            "last_seen": "Jan 03, 2026, 07:12:45 AM",
+            "hp": 6037148.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95650.671875,
+                "y": -189839.171875,
+                "z": -7919.12060546875
+            },
+            "last_seen": "Feb 26, 2026, 9:21:12 PM",
             "level": 100,
             "name": "Salmon Sammy",
             "name_history": [
@@ -26094,14 +26103,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "FriK√SweetEyes's Apprentice,0",
             "gender": 1,
-            "hp": 6969657.0,
+            "hp": 7823200.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 97224.046875,
-                "y": -198830.5625,
-                "z": -4557.20068359375
+                "x": 101762.1484375,
+                "y": -185763.390625,
+                "z": -7922.18310546875
             },
-            "last_seen": "Feb 24, 2026, 10:36:10 PM",
+            "last_seen": "Feb 26, 2026, 9:21:12 PM",
             "level": 100,
             "name": "RuneStone",
             "name_history": [
@@ -26870,14 +26879,14 @@
             "crew_name": "Waifu",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 5931803.0,
+            "hp": 5933253.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 98162.40625,
-                "y": -174853.546875,
-                "z": -4899.06103515625
+                "x": 101537.109375,
+                "y": -183604.234375,
+                "z": -7800.91748046875
             },
-            "last_seen": "Feb 18, 2026, 9:09:56 PM",
+            "last_seen": "Feb 26, 2026, 9:21:12 PM",
             "level": 100,
             "name": "Throne@6017",
             "name_history": [
@@ -29959,6 +29968,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 9:16:12 PM",
+    "last_updated": "Feb 26, 2026, 9:21:12 PM",
     "server_region": "southeast-asia"
 }
