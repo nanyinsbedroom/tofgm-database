@@ -509,14 +509,14 @@
             "crew_name": "魅魔恬心",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 3593090.0,
+            "hp": 2625127.5,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -327530.8125,
-                "y": 200086.75,
-                "z": -28341.388671875
+                "map": "QRSL_P",
+                "x": -55212.6171875,
+                "y": -87306.21875,
+                "z": 21710.94921875
             },
-            "last_seen": "2026年2月14日 下午7:54:05",
+            "last_seen": "2026年2月26日 下午12:15:24",
             "level": 100,
             "name": "合乎中道",
             "name_history": [
@@ -620,14 +620,14 @@
             "crew_name": "记录の地平线",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2469082.25,
+            "hp": 2397766.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
+                "x": -54182.44921875,
+                "y": -88013.7265625,
                 "z": 21711.048828125
             },
-            "last_seen": "2026年2月24日 下午12:18:50",
+            "last_seen": "2026年2月26日 下午12:15:24",
             "level": 100,
             "name": "柚点小脾气",
             "name_history": [
@@ -710,6 +710,31 @@
             ],
             "registered": "2021年12月26日 下午7:58:11",
             "role_id": 61018600431054,
+            "server_region": "ark-calculus"
+        },
+        "61027190319015": {
+            "crew_history": [
+                "梦染江山"
+            ],
+            "crew_id": 68719491245,
+            "crew_name": "梦染江山",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2386620.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54005.140625,
+                "y": -87702.2265625,
+                "z": 21739.919921875
+            },
+            "last_seen": "2026年2月26日 下午12:15:24",
+            "level": 100,
+            "name": "云隙",
+            "name_history": [
+                "云隙"
+            ],
+            "registered": "2021年12月16日 上午8:45:25",
+            "role_id": 61027190319015,
             "server_region": "ark-calculus"
         },
         "61035780253211": {
@@ -2662,6 +2687,31 @@
             ],
             "registered": "2022年12月2日 下午3:58:34",
             "role_id": 62285616545847,
+            "server_region": "ark-calculus"
+        },
+        "62285616774985": {
+            "crew_history": [
+                "A-SVIP"
+            ],
+            "crew_id": 47244654861,
+            "crew_name": "A-SVIP",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1600379.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55330.0859375,
+                "y": -88530.6015625,
+                "z": 21724.01953125
+            },
+            "last_seen": "2026年2月26日 下午12:15:24",
+            "level": 100,
+            "name": "康娜酱",
+            "name_history": [
+                "康娜酱"
+            ],
+            "registered": "2023年1月30日 下午11:33:39",
+            "role_id": 62285616774985,
             "server_region": "ark-calculus"
         },
         "62285616777186": {
@@ -17657,7 +17707,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 869,
-    "last_updated": "2026年2月26日 下午12:13:24",
+    "accounts_total": 871,
+    "last_updated": "2026年2月26日 下午12:15:24",
     "server_region": "ark-calculus"
 }
