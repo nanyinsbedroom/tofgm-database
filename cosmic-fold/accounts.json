@@ -16848,15 +16848,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1466295.625,
+            "hp": 1521475.5,
             "last_known_position": {
-                "map": "city",
-                "x": 1980.0699462890625,
-                "y": -28128.7890625,
-                "z": 97936.1953125
+                "map": "QRSL_P",
+                "x": -90661.15625,
+                "y": 76042.75,
+                "z": -7140.1396484375
             },
-            "last_seen": "2026年2月17日 上午1:48:32",
-            "level": 83,
+            "last_seen": "2026年2月26日 下午11:27:37",
+            "level": 85,
             "name": "人道毁灭者",
             "name_history": [
                 "人道毁灭者"
@@ -74532,9 +74532,32 @@
             "registered": "2026年2月26日 上午2:30:54",
             "role_id": 63582696010259,
             "server_region": "cosmic-fold"
+        },
+        "63582696011000": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90224.328125,
+                "y": 82221.3046875,
+                "z": -7054.04638671875
+            },
+            "last_seen": "2026年2月26日 下午11:27:37",
+            "level": 4,
+            "name": "雷鸢",
+            "name_history": [
+                "雷鸢"
+            ],
+            "registered": "2026年2月26日 下午11:13:45",
+            "role_id": 63582696011000,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5157,
-    "last_updated": "2026年2月26日 上午2:59:55",
+    "accounts_total": 5158,
+    "last_updated": "2026年2月26日 下午11:27:37",
     "server_region": "cosmic-fold"
 }
