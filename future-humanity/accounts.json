@@ -7137,14 +7137,26 @@
             "server_region": "future-humanity"
         },
         "60563335584199": {
+            "crew_history": [
+                "梦幻"
+            ],
             "crew_id": 9401683425045,
             "crew_name": "梦幻",
-            "equipping_title": "1_1_14_1",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 1012337.6875,
-            "last_seen": "2025年10月26日 下午 5:01:27",
+            "hp": 1351633.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53806.05859375,
+                "y": -88002.7265625,
+                "z": 21710.91015625
+            },
+            "last_seen": "2026年2月26日 下午4:22:08",
             "level": 100,
             "name": "晓之桥",
+            "name_history": [
+                "晓之桥"
+            ],
             "registered": "2024年10月28日 下午9:36:55",
             "role_id": 60563335584199,
             "server_region": "future-humanity"
@@ -17803,6 +17815,6 @@
         }
     },
     "accounts_total": 858,
-    "last_updated": "2026年2月26日 下午4:21:08",
+    "last_updated": "2026年2月26日 下午4:22:08",
     "server_region": "future-humanity"
 }
