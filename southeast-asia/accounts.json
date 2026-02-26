@@ -8314,12 +8314,21 @@
             "server_region": "southeast-asia"
         },
         "68758131495525": {
-            "crew_id": 395137007241,
-            "crew_name": "Guardians",
-            "equipping_title": "1_8_0_33",
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
+            "crew_id": 253403086473,
+            "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "1_8_0_36",
             "gender": 0,
-            "hp": 2582445.75,
-            "last_seen": "Jan 03, 2026, 07:05:45 AM",
+            "hp": 2591702.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -9053.330078125,
+                "y": 53445.33984375,
+                "z": -15224.0400390625
+            },
+            "last_seen": "Feb 26, 2026, 11:06:42 PM",
             "level": 100,
             "name": "shira_nai",
             "name_history": [
@@ -26395,11 +26404,11 @@
             "hp": 2112847.75,
             "last_known_position": {
                 "map": "Team8P_07_D_II",
-                "x": -9458.26953125,
-                "y": 53650.94921875,
+                "x": -9500.064453125,
+                "y": 52891.01171875,
                 "z": -15246.169921875
             },
-            "last_seen": "Feb 24, 2026, 6:07:18 AM",
+            "last_seen": "Feb 26, 2026, 11:06:42 PM",
             "level": 100,
             "name": "Meowbie15",
             "name_history": [
@@ -28945,12 +28954,21 @@
             "server_region": "southeast-asia"
         },
         "68805376090787": {
+            "crew_history": [
+                "Sakura✿Clan"
+            ],
             "crew_id": 313532628620,
             "crew_name": "Sakura✿Clan",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2109876.0,
-            "last_seen": "Nov 17, 2025, 06:04:34 PM",
+            "hp": 2178219.5,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -9589.439453125,
+                "y": 53226.296875,
+                "z": -15239.669921875
+            },
+            "last_seen": "Feb 26, 2026, 11:06:42 PM",
             "level": 100,
             "name": "Faya❀",
             "name_history": [
@@ -30120,6 +30138,6 @@
         }
     },
     "accounts_total": 2070,
-    "last_updated": "Feb 26, 2026, 3:05:42 PM",
+    "last_updated": "Feb 26, 2026, 11:06:42 PM",
     "server_region": "southeast-asia"
 }
