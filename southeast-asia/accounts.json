@@ -3031,14 +3031,14 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 6205400.5,
+            "hp": 6221233.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 105124.359375,
-                "y": -188322.078125,
-                "z": -5809.14990234375
+                "x": 97346.234375,
+                "y": -193901.09375,
+                "z": -4902.48974609375
             },
-            "last_seen": "Feb 24, 2026, 10:35:10 PM",
+            "last_seen": "Feb 26, 2026, 8:48:43 PM",
             "level": 100,
             "name": "◄ Hinata ►",
             "name_history": [
@@ -5788,11 +5788,11 @@
             "hp": 6198417.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 98027.4609375,
-                "y": -178721.28125,
-                "z": -7736.2900390625
+                "x": 91537.953125,
+                "y": -187071.40625,
+                "z": -7623.59765625
             },
-            "last_seen": "Feb 24, 2026, 10:35:10 PM",
+            "last_seen": "Feb 26, 2026, 8:48:43 PM",
             "level": 100,
             "name": "Ayin",
             "name_history": [
@@ -15651,6 +15651,31 @@
             "role_id": 68775311725366,
             "server_region": "southeast-asia"
         },
+        "68775311725377": {
+            "crew_history": [
+                "Infinite TH"
+            ],
+            "crew_id": 124554067597,
+            "crew_name": "Infinite TH",
+            "equipping_title": "2_10_1_4",
+            "gender": 0,
+            "hp": 5972174.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100922.8984375,
+                "y": -180984.34375,
+                "z": -7655.93994140625
+            },
+            "last_seen": "Feb 26, 2026, 8:48:43 PM",
+            "level": 100,
+            "name": "lee",
+            "name_history": [
+                "lee"
+            ],
+            "registered": "Feb 28, 2025, 5:08:16 PM",
+            "role_id": 68775311725377,
+            "server_region": "southeast-asia"
+        },
         "68775311725425": {
             "crew_id": 0,
             "crew_name": "",
@@ -19570,13 +19595,22 @@
             "server_region": "southeast-asia"
         },
         "68775311751724": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "Overseas2_7",
             "gender": 0,
-            "hp": 2299595.75,
-            "last_seen": "Nov 07, 2025, 06:13:57 PM",
-            "level": 99,
+            "hp": 5863467.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100688.875,
+                "y": -188432.015625,
+                "z": -7873.599609375
+            },
+            "last_seen": "Feb 26, 2026, 8:48:43 PM",
+            "level": 100,
             "name": "Lux Arcadia",
             "name_history": [
                 "Lux Arcadia"
@@ -29909,7 +29943,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2067,
-    "last_updated": "Feb 26, 2026, 8:46:43 PM",
+    "accounts_total": 2068,
+    "last_updated": "Feb 26, 2026, 8:48:43 PM",
     "server_region": "southeast-asia"
 }
