@@ -17709,13 +17709,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413535374": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
             "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 548769.8125,
-            "last_seen": "Feb 11, 2026, 2:12:30 PM",
-            "level": 67,
+            "hp": 610200.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84754.65625,
+                "y": 73494.0,
+                "z": -8412.669921875
+            },
+            "last_seen": "Feb 26, 2026, 4:53:23 PM",
+            "level": 75,
             "name": "Nolear",
             "name_history": [
                 "Nolear"
@@ -29902,6 +29911,29 @@
             "role_id": 38174107413583784,
             "server_region": "ws-america-01"
         },
+        "38174107413583808": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 44441.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91182.2578125,
+                "y": 79656.359375,
+                "z": -7018.6396484375
+            },
+            "last_seen": "Feb 26, 2026, 4:53:23 PM",
+            "level": 10,
+            "name": "cecilix",
+            "name_history": [
+                "cecilix"
+            ],
+            "registered": "Feb 23, 2026, 5:51:20 PM",
+            "role_id": 38174107413583808,
+            "server_region": "ws-america-01"
+        },
         "38174107413583816": {
             "crew_history": [],
             "crew_id": 0,
@@ -29972,7 +30004,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1664,
-    "last_updated": "Feb 26, 2026, 4:52:23 PM",
+    "accounts_total": 1665,
+    "last_updated": "Feb 26, 2026, 4:53:23 PM",
     "server_region": "ws-america-01"
 }
