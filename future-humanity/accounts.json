@@ -700,14 +700,14 @@
             "crew_name": "神秘组织",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1505702.375,
+            "hp": 1516227.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21724.548828125
+                "x": -53979.3984375,
+                "y": -88085.8359375,
+                "z": 21724.44921875
             },
-            "last_seen": "2026年2月21日 下午12:24:44",
+            "last_seen": "2026年2月26日 下午8:17:40",
             "level": 100,
             "name": "迪克扭崽",
             "name_history": [
@@ -7445,6 +7445,31 @@
             "name": "张法",
             "registered": "2024年10月19日 下午1:49:44",
             "role_id": 60563335571711,
+            "server_region": "future-humanity"
+        },
+        "60563335573607": {
+            "crew_history": [
+                "神待少女"
+            ],
+            "crew_id": 14263586404117,
+            "crew_name": "神待少女",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 803979.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21725.548828125
+            },
+            "last_seen": "2026年2月26日 下午8:17:40",
+            "level": 70,
+            "name": "留归隐",
+            "name_history": [
+                "留归隐"
+            ],
+            "registered": "2024年10月20日 下午12:59:14",
+            "role_id": 60563335573607,
             "server_region": "future-humanity"
         },
         "60563335573641": {
@@ -14250,6 +14275,31 @@
             "role_id": 60563336005550,
             "server_region": "future-humanity"
         },
+        "60563336005724": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 19829864019733,
+            "crew_name": "七宫",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 528717.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年2月26日 下午8:17:40",
+            "level": 48,
+            "name": "法修散打，",
+            "name_history": [
+                "法修散打，"
+            ],
+            "registered": "2026年2月24日 下午7:11:15",
+            "role_id": 60563336005724,
+            "server_region": "future-humanity"
+        },
         "60563336006380": {
             "crew_history": [],
             "crew_id": 0,
@@ -18844,7 +18894,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 899,
-    "last_updated": "2026年2月26日 下午8:16:40",
+    "accounts_total": 901,
+    "last_updated": "2026年2月26日 下午8:17:40",
     "server_region": "future-humanity"
 }
