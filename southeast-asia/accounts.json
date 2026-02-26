@@ -15091,11 +15091,26 @@
             "server_region": "southeast-asia"
         },
         "68775311711235": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
+            "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "last_seen": "Oct 06, 2025, 05:00:35 PM",
+            "hp": 6037427.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101494.3203125,
+                "y": -186743.828125,
+                "z": -7918.646484375
+            },
+            "last_seen": "Feb 26, 2026, 8:57:44 PM",
+            "level": 100,
             "name": "Honnyy",
+            "name_history": [
+                "Honnyy"
+            ],
             "registered": "Dec 3, 2024, 8:48:42 AM",
             "role_id": 68775311711235,
             "server_region": "southeast-asia"
@@ -29944,6 +29959,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 8:56:44 PM",
+    "last_updated": "Feb 26, 2026, 8:57:44 PM",
     "server_region": "southeast-asia"
 }
