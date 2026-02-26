@@ -14044,14 +14044,14 @@
             "crew_name": "BR Battle Storm",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 740387.5,
+            "hp": 742921.9375,
             "last_known_position": {
                 "map": "city",
-                "x": 1742.429931640625,
-                "y": -26676.279296875,
-                "z": 97872.6171875
+                "x": -172.05999755859375,
+                "y": -23086.83984375,
+                "z": 96712.1953125
             },
-            "last_seen": "Feb 18, 2026, 11:12:53 PM",
+            "last_seen": "Feb 26, 2026, 4:51:23 PM",
             "level": 74,
             "name": "Slime KasIana",
             "name_history": [
@@ -17773,15 +17773,15 @@
             "crew_name": "Stray",
             "equipping_title": "hinode's Mentor,0",
             "gender": 0,
-            "hp": 1100891.5,
+            "hp": 1169834.125,
             "last_known_position": {
                 "map": "city",
-                "x": -1502.6986083984375,
-                "y": -27898.64453125,
-                "z": 97993.9609375
+                "x": -261.5799865722656,
+                "y": -23330.94921875,
+                "z": 96719.1953125
             },
-            "last_seen": "Feb 20, 2026, 10:58:32 PM",
-            "level": 76,
+            "last_seen": "Feb 26, 2026, 4:51:23 PM",
+            "level": 77,
             "name": "Kenmah",
             "name_history": [
                 "Kenmah"
@@ -24869,6 +24869,29 @@
             "role_id": 38174107413577692,
             "server_region": "ws-america-01"
         },
+        "38174107413577693": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 486204.5625,
+            "last_known_position": {
+                "map": "city",
+                "x": 520.5399780273438,
+                "y": -23806.109375,
+                "z": 97885.375
+            },
+            "last_seen": "Feb 26, 2026, 4:51:23 PM",
+            "level": 75,
+            "name": "NameWasTaken",
+            "name_history": [
+                "NameWasTaken"
+            ],
+            "registered": "Jan 14, 2026, 9:04:28 PM",
+            "role_id": 38174107413577693,
+            "server_region": "ws-america-01"
+        },
         "38174107413577713": {
             "crew_id": 3002191028006,
             "crew_name": "Espada",
@@ -29866,7 +29889,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1662,
-    "last_updated": "Feb 23, 2026, 10:58:48 PM",
+    "accounts_total": 1663,
+    "last_updated": "Feb 26, 2026, 4:51:23 PM",
     "server_region": "ws-america-01"
 }
