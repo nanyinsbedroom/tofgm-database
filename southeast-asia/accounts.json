@@ -24,14 +24,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2518840.25,
+            "hp": 6109480.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -13134.9052734375,
-                "y": 4166.28857421875,
-                "z": 25603.669921875
+                "map": "Kailo_P_003",
+                "x": 143628.5,
+                "y": -174306.109375,
+                "z": 67.8499984741211
             },
-            "last_seen": "Feb 16, 2026, 8:33:21 PM",
+            "last_seen": "Feb 26, 2026, 9:24:40 PM",
             "level": 100,
             "name": "Αina",
             "name_history": [
@@ -2405,11 +2405,26 @@
             "server_region": "southeast-asia"
         },
         "68732361648408": {
+            "crew_history": [
+                "Schwarz Studio"
+            ],
             "crew_id": 2516850851459,
             "crew_name": "Schwarz Studio",
+            "equipping_title": "TeeJi's Mentor,0",
             "gender": 1,
-            "last_seen": "Sep 27, 2025, 11:06:26 PM",
+            "hp": 5810134.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 111891.046875,
+                "y": -183771.453125,
+                "z": -5142.8896484375
+            },
+            "last_seen": "Feb 26, 2026, 9:24:40 PM",
+            "level": 100,
             "name": "slime-X",
+            "name_history": [
+                "slime-X"
+            ],
             "registered": "Aug 11, 2022, 9:11:07 AM",
             "role_id": 68732361648408,
             "server_region": "southeast-asia"
@@ -26160,14 +26175,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "FriK√SweetEyes's Apprentice,0",
             "gender": 1,
-            "hp": 7197141.5,
+            "hp": 6737750.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 102024.6953125,
-                "y": -187262.78125,
-                "z": -7859.7119140625
+                "x": 111837.1484375,
+                "y": -190454.578125,
+                "z": -4417.66015625
             },
-            "last_seen": "Feb 26, 2026, 9:55:57 PM",
+            "last_seen": "Feb 26, 2026, 9:24:40 PM",
             "level": 100,
             "name": "RuneStone",
             "name_history": [
@@ -27585,12 +27600,21 @@
             "server_region": "southeast-asia"
         },
         "68796786191587": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2616198.0,
-            "last_seen": "Jan 31, 2026, 09:26:59 AM",
+            "hp": 6306051.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 122646.6953125,
+                "y": -186292.046875,
+                "z": -3491.421142578125
+            },
+            "last_seen": "Feb 26, 2026, 9:24:40 PM",
             "level": 100,
             "name": "Adrenaline",
             "name_history": [
@@ -30025,6 +30049,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 10:23:40 PM",
+    "last_updated": "Feb 26, 2026, 9:24:40 PM",
     "server_region": "southeast-asia"
 }
