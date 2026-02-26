@@ -25970,14 +25970,26 @@
             "server_region": "southeast-asia"
         },
         "68788196217344": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "Tencent_Sever_126",
+            "equipping_title": "Overseas2_10",
             "gender": 1,
-            "hp": 2173262.25,
-            "last_seen": "Oct 19, 2025, 09:18:47 PM",
+            "hp": 6028244.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 87331.09375,
+                "y": -176138.484375,
+                "z": -4032.13671875
+            },
+            "last_seen": "Feb 26, 2026, 9:29:20 PM",
             "level": 100,
             "name": "¥mir",
+            "name_history": [
+                "¥mir"
+            ],
             "registered": "Aug 11, 2022, 9:22:47 AM",
             "role_id": 68788196217344,
             "server_region": "southeast-asia"
@@ -26121,14 +26133,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "FriK√SweetEyes's Apprentice,0",
             "gender": 1,
-            "hp": 7823200.0,
+            "hp": 6969657.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 101762.1484375,
-                "y": -185763.390625,
-                "z": -7922.18310546875
+                "x": 100366.875,
+                "y": -181326.421875,
+                "z": -7464.849609375
             },
-            "last_seen": "Feb 26, 2026, 9:21:12 PM",
+            "last_seen": "Feb 26, 2026, 9:29:20 PM",
             "level": 100,
             "name": "RuneStone",
             "name_history": [
@@ -29986,6 +29998,6 @@
         }
     },
     "accounts_total": 2068,
-    "last_updated": "Feb 26, 2026, 9:28:19 PM",
+    "last_updated": "Feb 26, 2026, 9:29:20 PM",
     "server_region": "southeast-asia"
 }
