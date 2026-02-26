@@ -1,5 +1,30 @@
 {
     "accounts": {
+        "60563333845353": {
+            "crew_history": [
+                "往生堂"
+            ],
+            "crew_id": 34359752469,
+            "crew_name": "往生堂",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2020405.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55048.37890625,
+                "y": -86780.3359375,
+                "z": 21710.96875
+            },
+            "last_seen": "2026年2月26日 下午4:23:08",
+            "level": 100,
+            "name": "旅行者.",
+            "name_history": [
+                "旅行者."
+            ],
+            "registered": "2021年12月16日 上午8:01:23",
+            "role_id": 60563333845353,
+            "server_region": "future-humanity"
+        },
         "60563333847560": {
             "crew_history": [
                 "神待少女"
@@ -16960,11 +16985,11 @@
             "hp": 1778476.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.47265625,
-                "y": -88115.46875,
-                "z": 21711.0390625
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月23日 下午4:28:27",
+            "last_seen": "2026年2月26日 下午4:23:08",
             "level": 100,
             "name": "甜菜根源",
             "name_history": [
@@ -17814,7 +17839,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 858,
-    "last_updated": "2026年2月26日 下午4:22:08",
+    "accounts_total": 859,
+    "last_updated": "2026年2月26日 下午4:23:08",
     "server_region": "future-humanity"
 }
