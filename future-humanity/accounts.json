@@ -4138,6 +4138,31 @@
             "role_id": 60563335219480,
             "server_region": "future-humanity"
         },
+        "60563335221776": {
+            "crew_history": [
+                "天空星岛"
+            ],
+            "crew_id": 1382979483413,
+            "crew_name": "天空星岛",
+            "equipping_title": "2_8_0_8",
+            "gender": 1,
+            "hp": 1318940.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55535.67578125,
+                "y": -88082.921875,
+                "z": 21722.76171875
+            },
+            "last_seen": "2026年2月26日 下午10:11:50",
+            "level": 100,
+            "name": "梧桐细雨",
+            "name_history": [
+                "梧桐细雨"
+            ],
+            "registered": "2024年5月2日 上午5:50:42",
+            "role_id": 60563335221776,
+            "server_region": "future-humanity"
+        },
         "60563335225849": {
             "crew_history": [
                 "羽落凡尘"
@@ -4821,12 +4846,21 @@
             "server_region": "future-humanity"
         },
         "60563335270091": {
+            "crew_history": [
+                "雾巷猫"
+            ],
             "crew_id": 7322919253781,
             "crew_name": "雾巷猫",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 787898.375,
-            "last_seen": "2025年11月25日 上午 3:11:14",
+            "hp": 784708.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55473.5,
+                "y": -88360.0546875,
+                "z": 21724.869140625
+            },
+            "last_seen": "2026年2月26日 下午10:11:50",
             "level": 100,
             "name": "星辰落海底",
             "name_history": [
@@ -10713,6 +10747,29 @@
             "role_id": 60563335872726,
             "server_region": "future-humanity"
         },
+        "60563335876374": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 886683.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54024.38671875,
+                "y": -88169.0625,
+                "z": 21720.990234375
+            },
+            "last_seen": "2026年2月26日 下午10:11:50",
+            "level": 99,
+            "name": "奥天灰",
+            "name_history": [
+                "奥天灰"
+            ],
+            "registered": "2025年6月20日 下午9:08:57",
+            "role_id": 60563335876374,
+            "server_region": "future-humanity"
+        },
         "60563335876989": {
             "crew_id": 15079630190357,
             "crew_name": "魅魔",
@@ -14471,17 +14528,17 @@
             "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 90781.8125,
+            "hp": 584228.6875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -56415.94921875,
-                "y": -82479.859375,
-                "z": 22359.888671875
+                "x": -54405.44921875,
+                "y": -88011.5234375,
+                "z": 21726.048828125
             },
-            "last_seen": "2026年2月23日 下午9:51:54",
-            "level": 34,
+            "last_seen": "2026年2月26日 下午10:11:50",
+            "level": 56,
             "name": "Svzx7",
             "name_history": [
                 "Svzx7"
@@ -16002,12 +16059,21 @@
             "server_region": "future-humanity"
         },
         "60614873477103": {
+            "crew_history": [
+                "源书の黑兔"
+            ],
             "crew_id": 19576460949269,
             "crew_name": "源书の黑兔",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "2_2_0_28",
             "gender": 0,
-            "hp": 2320550.0,
-            "last_seen": "2025年11月25日 上午 4:12:17",
+            "hp": 2321864.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55380.609375,
+                "y": -88527.578125,
+                "z": 21711.029296875
+            },
+            "last_seen": "2026年2月26日 下午10:11:50",
             "level": 100,
             "name": "我的2000攻呢",
             "name_history": [
@@ -19393,7 +19459,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 921,
-    "last_updated": "2026年2月26日 下午10:09:50",
+    "accounts_total": 923,
+    "last_updated": "2026年2月26日 下午10:11:50",
     "server_region": "future-humanity"
 }
