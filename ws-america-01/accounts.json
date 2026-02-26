@@ -18522,6 +18522,29 @@
             "role_id": 38174107413538701,
             "server_region": "ws-america-01"
         },
+        "38174107413538854": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29816.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -95700.09375,
+                "y": 83394.6328125,
+                "z": -6993.76953125
+            },
+            "last_seen": "Feb 26, 2026, 4:54:23 PM",
+            "level": 9,
+            "name": "CERAFIM",
+            "name_history": [
+                "CERAFIM"
+            ],
+            "registered": "Nov 27, 2025, 9:44:36 AM",
+            "role_id": 38174107413538854,
+            "server_region": "ws-america-01"
+        },
         "38174107413538881": {
             "crew_id": 163217645350,
             "crew_name": "Michi Pizzería",
@@ -29144,6 +29167,31 @@
             "role_id": 38174107413582936,
             "server_region": "ws-america-01"
         },
+        "38174107413582944": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "1_6_2_2",
+            "gender": 1,
+            "hp": 470315.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92657.8984375,
+                "y": 77411.484375,
+                "z": -7111.89990234375
+            },
+            "last_seen": "Feb 26, 2026, 4:54:23 PM",
+            "level": 73,
+            "name": "Amane Kanata",
+            "name_history": [
+                "Amane Kanata"
+            ],
+            "registered": "Feb 17, 2026, 2:45:24 AM",
+            "role_id": 38174107413582944,
+            "server_region": "ws-america-01"
+        },
         "38174107413582963": {
             "crew_history": [],
             "crew_id": 0,
@@ -30002,9 +30050,78 @@
             "registered": "Feb 23, 2026, 10:18:01 PM",
             "role_id": 38174107413583840,
             "server_region": "ws-america-01"
+        },
+        "38174107413584132": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37986.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78473.859375,
+                "y": 77418.1171875,
+                "z": -9809.33984375
+            },
+            "last_seen": "Feb 26, 2026, 4:54:23 PM",
+            "level": 9,
+            "name": "Morphismy ",
+            "name_history": [
+                "Morphismy "
+            ],
+            "registered": "Feb 26, 2026, 10:03:25 AM",
+            "role_id": 38174107413584132,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584155": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9875.2060546875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80326.078125,
+                "y": 65043.625,
+                "z": -7749.8720703125
+            },
+            "last_seen": "Feb 26, 2026, 4:54:23 PM",
+            "level": 4,
+            "name": " Lumari ",
+            "name_history": [
+                " Lumari "
+            ],
+            "registered": "Feb 26, 2026, 4:09:30 PM",
+            "role_id": 38174107413584155,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584156": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99683.75,
+                "y": 80355.390625,
+                "z": -4993.2099609375
+            },
+            "last_seen": "Feb 26, 2026, 4:54:23 PM",
+            "level": 1,
+            "name": "Makoto Yuki",
+            "name_history": [
+                "Makoto Yuki"
+            ],
+            "registered": "Feb 26, 2026, 4:36:55 PM",
+            "role_id": 38174107413584156,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1665,
-    "last_updated": "Feb 26, 2026, 4:53:23 PM",
+    "accounts_total": 1670,
+    "last_updated": "Feb 26, 2026, 4:54:23 PM",
     "server_region": "ws-america-01"
 }
