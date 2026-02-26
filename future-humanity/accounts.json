@@ -1793,14 +1793,14 @@
             "crew_name": "魅魔",
             "equipping_title": "超市各位的导师,0",
             "gender": 1,
-            "hp": 1555687.75,
+            "hp": 1568249.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55072.82421875,
-                "y": -87064.234375,
-                "z": 21717.48046875
+                "x": -54916.4375,
+                "y": -86643.671875,
+                "z": 21717.490234375
             },
-            "last_seen": "2026年2月21日 下午12:22:44",
+            "last_seen": "2026年2月26日 下午10:07:50",
             "level": 100,
             "name": "笙佥",
             "name_history": [
@@ -14768,6 +14768,31 @@
             "role_id": 60563336008311,
             "server_region": "future-humanity"
         },
+        "60567628821206": {
+            "crew_history": [
+                "梦乡"
+            ],
+            "crew_id": 8181912712981,
+            "crew_name": "梦乡",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2285264.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55273.4296875,
+                "y": -87041.8203125,
+                "z": 21724.87890625
+            },
+            "last_seen": "2026年2月26日 下午10:07:50",
+            "level": 100,
+            "name": "子鲸",
+            "name_history": [
+                "子鲸"
+            ],
+            "registered": "2021年12月16日 上午9:56:50",
+            "role_id": 60567628821206,
+            "server_region": "future-humanity"
+        },
         "60567628821868": {
             "crew_id": 17231408805653,
             "crew_name": "妖精仓库",
@@ -19295,7 +19320,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 917,
-    "last_updated": "2026年2月26日 下午10:06:50",
+    "accounts_total": 918,
+    "last_updated": "2026年2月26日 下午10:07:50",
     "server_region": "future-humanity"
 }
