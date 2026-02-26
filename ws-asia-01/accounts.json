@@ -64971,13 +64971,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118581633": {
+            "crew_history": [
+                "Library"
+            ],
             "crew_id": 1198304763685,
             "crew_name": "Library",
             "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 1058143.25,
-            "last_seen": "Feb 12, 2026, 3:09:55 AM",
-            "level": 75,
+            "hp": 1155581.875,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -37336.88671875,
+                "y": 9897.6796875,
+                "z": -14018.470703125
+            },
+            "last_seen": "Feb 27, 2026, 7:06:24 AM",
+            "level": 77,
             "name": "Yukouri",
             "name_history": [
                 "Yukouri"
@@ -65251,15 +65260,15 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "2_10_1_12",
             "gender": 1,
-            "hp": 1150757.625,
+            "hp": 1077965.875,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -35535.85546875,
-                "y": 1268.529296875,
+                "x": -34123.26953125,
+                "y": 7889.8798828125,
                 "z": -13805.849609375
             },
-            "last_seen": "Feb 18, 2026, 2:02:27 AM",
-            "level": 74,
+            "last_seen": "Feb 27, 2026, 7:06:24 AM",
+            "level": 77,
             "name": "FLFBS",
             "name_history": [
                 "FLFBS"
@@ -65722,16 +65731,16 @@
             ],
             "crew_id": 1198304763685,
             "crew_name": "Library",
-            "equipping_title": "2_10_1_11",
+            "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1394072.75,
+            "hp": 1125119.875,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -74313.0390625,
-                "y": 70354.9921875,
-                "z": -9587.0751953125
+                "map": "norn_city",
+                "x": -37327.85546875,
+                "y": 9895.9384765625,
+                "z": -14037.970703125
             },
-            "last_seen": "Feb 24, 2026, 8:42:24 PM",
+            "last_seen": "Feb 27, 2026, 7:06:24 AM",
             "level": 77,
             "name": "Rikoris",
             "name_history": [
@@ -86554,15 +86563,15 @@
             "crew_name": "Library",
             "equipping_title": "IPhanik's Apprentice,0",
             "gender": 1,
-            "hp": 973451.3125,
+            "hp": 1306118.875,
             "last_known_position": {
-                "map": "Kailo_P",
-                "x": 79050.1015625,
-                "y": -209662.796875,
-                "z": 6511.01318359375
+                "map": "norn_city",
+                "x": -37723.56640625,
+                "y": 9838.2900390625,
+                "z": -14028.3994140625
             },
-            "last_seen": "Feb 18, 2026, 1:54:27 AM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:06:24 AM",
+            "level": 77,
             "name": "Cognitio",
             "name_history": [
                 "Cognitio"
@@ -89243,6 +89252,6 @@
         }
     },
     "accounts_total": 5385,
-    "last_updated": "Feb 27, 2026, 7:05:24 AM",
+    "last_updated": "Feb 27, 2026, 7:06:24 AM",
     "server_region": "ws-asia-01"
 }
