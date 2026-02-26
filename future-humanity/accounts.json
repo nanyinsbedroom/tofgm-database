@@ -4726,11 +4726,26 @@
             "server_region": "future-humanity"
         },
         "60563335259919": {
+            "crew_history": [
+                "樱花庄"
+            ],
             "crew_id": 863288440597,
             "crew_name": "樱花庄",
+            "equipping_title": "2_2_0_62",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 11:19:11",
+            "hp": 1848015.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月26日 下午10:18:51",
+            "level": 100,
             "name": "如仙",
+            "name_history": [
+                "如仙"
+            ],
             "registered": "2024年5月24日 下午9:27:38",
             "role_id": 60563335259919,
             "server_region": "future-humanity"
@@ -19658,6 +19673,6 @@
         }
     },
     "accounts_total": 931,
-    "last_updated": "2026年2月26日 下午10:17:51",
+    "last_updated": "2026年2月26日 下午10:18:51",
     "server_region": "future-humanity"
 }
