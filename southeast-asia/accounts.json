@@ -1660,12 +1660,21 @@
             "server_region": "southeast-asia"
         },
         "68728066708671": {
-            "crew_id": 395137007241,
-            "crew_name": "Guardians",
-            "equipping_title": "2_8_0_2",
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
+            "crew_id": 253403086473,
+            "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "2_2_0_77",
             "gender": 0,
-            "hp": 3560953.25,
-            "last_seen": "Jan 29, 2026, 03:18:04 AM",
+            "hp": 3038546.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8634.974609375,
+                "y": 53936.375,
+                "z": -15221.6796875
+            },
+            "last_seen": "Feb 26, 2026, 11:16:42 PM",
             "level": 100,
             "name": "Newones",
             "name_history": [
@@ -4775,12 +4784,21 @@
             "server_region": "southeast-asia"
         },
         "68736656797539": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 4948966.0,
-            "last_seen": "Feb 8, 2026, 7:40:02 PM",
+            "hp": 2529302.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -9051.732421875,
+                "y": 54019.578125,
+                "z": -15221.55078125
+            },
+            "last_seen": "Feb 26, 2026, 11:16:42 PM",
             "level": 100,
             "name": "VeryQ",
             "name_history": [
@@ -6759,6 +6777,31 @@
             "name": "Aldoraemon94",
             "registered": "Aug 11, 2022, 3:26:34 PM",
             "role_id": 68749541531728,
+            "server_region": "southeast-asia"
+        },
+        "68749541536790": {
+            "crew_history": [
+                "VN-Archon"
+            ],
+            "crew_id": 790273998467,
+            "crew_name": "VN-Archon",
+            "equipping_title": "Title_KoreaAnniversary23",
+            "gender": 1,
+            "hp": 2521711.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8336.3701171875,
+                "y": 53644.98046875,
+                "z": -15227.0400390625
+            },
+            "last_seen": "Feb 26, 2026, 11:16:42 PM",
+            "level": 100,
+            "name": "DuckPink ",
+            "name_history": [
+                "DuckPink "
+            ],
+            "registered": "Aug 11, 2022, 7:11:13 PM",
+            "role_id": 68749541536790,
             "server_region": "southeast-asia"
         },
         "68749541542807": {
@@ -12047,12 +12090,21 @@
             "server_region": "southeast-asia"
         },
         "68771016439465": {
+            "crew_history": [
+                "Aspen"
+            ],
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 6101351.5,
-            "last_seen": "Feb 10, 2026, 8:44:18 PM",
+            "hp": 5180368.0,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8360.9501953125,
+                "y": 53416.69140625,
+                "z": -15228.55078125
+            },
+            "last_seen": "Feb 26, 2026, 11:16:42 PM",
             "level": 100,
             "name": "BoloDhewo",
             "name_history": [
@@ -24396,12 +24448,21 @@
             "server_region": "southeast-asia"
         },
         "68779606282785": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "1_8_0_17",
             "gender": 0,
-            "hp": 2256260.25,
-            "last_seen": [],
+            "hp": 2285310.25,
+            "last_known_position": {
+                "map": "Team8P_07_D_II",
+                "x": -8932.95703125,
+                "y": 53482.80859375,
+                "z": -15224.0400390625
+            },
+            "last_seen": "Feb 26, 2026, 11:16:42 PM",
             "level": 100,
             "name": "Deusvon",
             "name_history": [
@@ -30137,7 +30198,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2070,
-    "last_updated": "Feb 26, 2026, 11:06:42 PM",
+    "accounts_total": 2071,
+    "last_updated": "Feb 26, 2026, 11:16:42 PM",
     "server_region": "southeast-asia"
 }
