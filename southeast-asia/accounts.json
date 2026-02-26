@@ -25322,14 +25322,14 @@
             "crew_name": "Luminous",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 6091251.5,
+            "hp": 5644563.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 93313.71875,
-                "y": -223497.515625,
-                "z": 1061.8599853515625
+                "x": 88308.6953125,
+                "y": -167994.1875,
+                "z": -3574.0
             },
-            "last_seen": "Feb 26, 2026, 9:49:56 PM",
+            "last_seen": "Feb 26, 2026, 10:27:40 PM",
             "level": 100,
             "name": "Oyit",
             "name_history": [
@@ -26425,14 +26425,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 6728563.5,
+            "hp": 6257727.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 95907.265625,
-                "y": -197014.59375,
-                "z": -2659.68994140625
+                "x": 88373.90625,
+                "y": -168008.609375,
+                "z": -3687.2900390625
             },
-            "last_seen": "Feb 24, 2026, 10:36:10 PM",
+            "last_seen": "Feb 26, 2026, 10:27:40 PM",
             "level": 100,
             "name": "UmbraFallen",
             "name_history": [
@@ -28144,12 +28144,21 @@
             "server_region": "southeast-asia"
         },
         "68796786279274": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2385398.75,
-            "last_seen": "Nov 06, 2025, 07:31:49 PM",
+            "hp": 6072216.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 94045.2265625,
+                "y": -174649.78125,
+                "z": -5104.384765625
+            },
+            "last_seen": "Feb 26, 2026, 10:27:40 PM",
             "level": 100,
             "name": "Chef_Ravie78",
             "name_history": [
@@ -30074,6 +30083,6 @@
         }
     },
     "accounts_total": 2069,
-    "last_updated": "Feb 26, 2026, 10:26:40 PM",
+    "last_updated": "Feb 26, 2026, 10:27:40 PM",
     "server_region": "southeast-asia"
 }
