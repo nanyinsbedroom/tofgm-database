@@ -2976,12 +2976,21 @@
             "server_region": "future-humanity"
         },
         "60563335091291": {
+            "crew_history": [
+                "梦乡"
+            ],
             "crew_id": 8181912712981,
             "crew_name": "梦乡",
-            "equipping_title": "3_2023",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 1794685.875,
-            "last_seen": "2025年11月25日 上午 3:08:14",
+            "hp": 1851903.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55461.98046875,
+                "y": -88530.9375,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月26日 下午10:19:51",
             "level": 100,
             "name": "一滴也没有了",
             "name_history": [
@@ -12055,6 +12064,31 @@
             "role_id": 60563335959257,
             "server_region": "future-humanity"
         },
+        "60563335959718": {
+            "crew_history": [
+                "源书の黑兔"
+            ],
+            "crew_id": 19576460949269,
+            "crew_name": "源书の黑兔",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 845272.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55321.21875,
+                "y": -88176.1640625,
+                "z": 21723.888671875
+            },
+            "last_seen": "2026年2月26日 下午10:19:51",
+            "level": 93,
+            "name": "奥特朗",
+            "name_history": [
+                "奥特朗"
+            ],
+            "registered": "2025年11月7日 下午4:19:15",
+            "role_id": 60563335959718,
+            "server_region": "future-humanity"
+        },
         "60563335959904": {
             "crew_history": [
                 "小奈碎碎念"
@@ -12478,6 +12512,31 @@
             ],
             "registered": "2025年11月24日 下午11:51:43",
             "role_id": 60563335966197,
+            "server_region": "future-humanity"
+        },
+        "60563335966604": {
+            "crew_history": [
+                "星月"
+            ],
+            "crew_id": 2508260914965,
+            "crew_name": "星月",
+            "equipping_title": "1_3_1_7",
+            "gender": 1,
+            "hp": 1531568.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54041.0390625,
+                "y": -88187.03125,
+                "z": 21710.990234375
+            },
+            "last_seen": "2026年2月26日 下午10:19:51",
+            "level": 100,
+            "name": "小楼一夜·",
+            "name_history": [
+                "小楼一夜·"
+            ],
+            "registered": "2025年11月27日 下午4:07:52",
+            "role_id": 60563335966604,
             "server_region": "future-humanity"
         },
         "60563335968796": {
@@ -16378,6 +16437,31 @@
             "role_id": 60632053333991,
             "server_region": "future-humanity"
         },
+        "60632053365645": {
+            "crew_history": [
+                "樱高轻音部"
+            ],
+            "crew_id": 957777721109,
+            "crew_name": "樱高轻音部",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1790974.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
+            },
+            "last_seen": "2026年2月26日 下午10:19:51",
+            "level": 100,
+            "name": "复读姬",
+            "name_history": [
+                "复读姬"
+            ],
+            "registered": "2021年12月19日 上午10:47:07",
+            "role_id": 60632053365645,
+            "server_region": "future-humanity"
+        },
         "60632053392474": {
             "crew_history": [
                 "樱高轻音部"
@@ -19672,7 +19756,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 931,
-    "last_updated": "2026年2月26日 下午10:18:51",
+    "accounts_total": 934,
+    "last_updated": "2026年2月26日 下午10:19:51",
     "server_region": "future-humanity"
 }
