@@ -6901,15 +6901,15 @@
             "crew_name": "Stray",
             "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 1129456.75,
+            "hp": 1207701.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1554.0439453125,
-                "y": -27381.056640625,
-                "z": 97864.1171875
+                "map": "QRSL_P",
+                "x": -73414.265625,
+                "y": 48817.390625,
+                "z": -12291.75
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
-            "level": 76,
+            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "level": 77,
             "name": "Mimo",
             "name_history": [
                 "Mimo"
@@ -8400,6 +8400,31 @@
             ],
             "registered": "Nov 25, 2025, 8:14:26 AM",
             "role_id": 38174107413517358,
+            "server_region": "ws-america-01"
+        },
+        "38174107413517370": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
+            "crew_id": 622779146022,
+            "crew_name": "BR Battle Storm",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 194558.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72801.2109375,
+                "y": 49208.76953125,
+                "z": -12311.109375
+            },
+            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "level": 62,
+            "name": "wedsonei",
+            "name_history": [
+                "wedsonei"
+            ],
+            "registered": "Nov 25, 2025, 8:14:50 AM",
+            "role_id": 38174107413517370,
             "server_region": "ws-america-01"
         },
         "38174107413517373": {
@@ -28271,15 +28296,15 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 68200.71875,
+            "hp": 109422.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -38886.2109375,
-                "y": 80740.0,
-                "z": -14901.0595703125
+                "x": -77017.1484375,
+                "y": 57645.609375,
+                "z": -8134.48974609375
             },
-            "last_seen": "Feb 18, 2026, 8:22:36 PM",
-            "level": 32,
+            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "level": 42,
             "name": "Saren",
             "name_history": [
                 "Saren"
@@ -29464,6 +29489,29 @@
             "role_id": 38174107413583101,
             "server_region": "ws-america-01"
         },
+        "38174107413583136": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13168.958984375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60963.1796875,
+                "y": 64207.73828125,
+                "z": -9788.75
+            },
+            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "level": 8,
+            "name": "Tast77",
+            "name_history": [
+                "Tast77"
+            ],
+            "registered": "Feb 18, 2026, 5:23:37 PM",
+            "role_id": 38174107413583136,
+            "server_region": "ws-america-01"
+        },
         "38174107413583147": {
             "crew_history": [],
             "crew_id": 0,
@@ -30177,6 +30225,29 @@
             "role_id": 38174107413583840,
             "server_region": "ws-america-01"
         },
+        "38174107413584037": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19696.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60023.88671875,
+                "y": 64872.6171875,
+                "z": -9793.3701171875
+            },
+            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "level": 6,
+            "name": "Iroha244",
+            "name_history": [
+                "Iroha244"
+            ],
+            "registered": "Feb 25, 2026, 12:44:52 PM",
+            "role_id": 38174107413584037,
+            "server_region": "ws-america-01"
+        },
         "38174107413584101": {
             "crew_history": [],
             "crew_id": 0,
@@ -30293,7 +30364,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1677,
-    "last_updated": "Feb 26, 2026, 4:56:23 PM",
+    "accounts_total": 1680,
+    "last_updated": "Feb 26, 2026, 4:57:23 PM",
     "server_region": "ws-america-01"
 }
