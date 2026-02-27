@@ -15663,12 +15663,21 @@
             "server_region": "visser-aida"
         },
         "61426622303869": {
+            "crew_history": [
+                "完美的一天"
+            ],
             "crew_id": 4672924432349,
             "crew_name": "完美的一天",
             "equipping_title": "2_10_0_3",
             "gender": 1,
-            "hp": 1934341.375,
-            "last_seen": "2026年2月9日 下午8:31:01",
+            "hp": 2543662.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7119.2900390625,
+                "y": 61530.0,
+                "z": 40612.4609375
+            },
+            "last_seen": "2026年2月27日 下午1:05:18",
             "level": 100,
             "name": "取名废orz",
             "name_history": [
@@ -20514,6 +20523,6 @@
         }
     },
     "accounts_total": 1236,
-    "last_updated": "2026年2月27日 下午1:04:18",
+    "last_updated": "2026年2月27日 下午1:05:18",
     "server_region": "visser-aida"
 }
