@@ -2598,7 +2598,7 @@
                 "y": -17799.51953125,
                 "z": 94574.328125
             },
-            "last_seen": "Feb 27, 2026, 9:58:19 PM",
+            "last_seen": "Feb 27, 2026, 10:30:38 PM",
             "level": 100,
             "name": "IcyRain-V3.Bene",
             "name_history": [
@@ -2720,11 +2720,11 @@
             "hp": 2158732.0,
             "last_known_position": {
                 "map": "city",
-                "x": 93.25999450683594,
-                "y": -21026.990234375,
-                "z": 96737.8515625
+                "x": 126.44999694824219,
+                "y": -18131.779296875,
+                "z": 96329.53125
             },
-            "last_seen": "Feb 27, 2026, 9:58:19 PM",
+            "last_seen": "Feb 27, 2026, 10:30:38 PM",
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -9604,7 +9604,7 @@
                 "y": -18886.388671875,
                 "z": 96322.78125
             },
-            "last_seen": "Feb 27, 2026, 9:58:19 PM",
+            "last_seen": "Feb 27, 2026, 10:30:38 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -11525,14 +11525,14 @@
             "crew_name": "Guardians",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 6276851.5,
+            "hp": 2776322.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101194.015625,
-                "y": -185299.578125,
-                "z": -7696.08984375
+                "map": "city",
+                "x": 116.13999938964844,
+                "y": -18120.26953125,
+                "z": 96336.03125
             },
-            "last_seen": "Feb 27, 2026, 9:22:03 PM",
+            "last_seen": "Feb 27, 2026, 10:30:38 PM",
             "level": 100,
             "name": "Inaurka",
             "name_history": [
@@ -29264,12 +29264,21 @@
             "server_region": "southeast-asia"
         },
         "68805376124086": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
             "hp": 747129.8125,
-            "last_seen": "Feb 02, 2026, 03:30:44 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": 263.29998779296875,
+                "y": -16692.599609375,
+                "z": 96362.0390625
+            },
+            "last_seen": "Feb 27, 2026, 10:30:38 PM",
             "level": 100,
             "name": "Tongaraa",
             "name_history": [
@@ -30312,6 +30321,6 @@
         }
     },
     "accounts_total": 2072,
-    "last_updated": "Feb 27, 2026, 9:58:19 PM",
+    "last_updated": "Feb 27, 2026, 10:30:38 PM",
     "server_region": "southeast-asia"
 }
