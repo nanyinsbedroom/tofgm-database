@@ -20156,13 +20156,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695862088": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 1515073.375,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 82,
+            "hp": 1709610.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1541.4000244140625,
+                "y": -28051.298828125,
+                "z": 97881.1171875
+            },
+            "last_seen": "2026年2月27日 下午11:16:53",
+            "level": 85,
             "name": "珠泪哀歌",
             "name_history": [
                 "珠泪哀歌"
@@ -24457,21 +24466,22 @@
         },
         "63582695865577": {
             "crew_history": [
+                "芬璃尔应援会",
                 "月歌行"
             ],
-            "crew_id": 128849033684,
-            "crew_name": "月歌行",
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1466543.875,
+            "hp": 1579537.125,
             "last_known_position": {
                 "map": "city",
-                "x": 17.399999618530273,
-                "y": -20902.900390625,
-                "z": 96751.375
+                "x": 912.3699951171875,
+                "y": -25648.978515625,
+                "z": 96720.4609375
             },
-            "last_seen": "2026年2月14日 下午9:50:56",
-            "level": 83,
+            "last_seen": "2026年2月27日 下午11:16:53",
+            "level": 85,
             "name": "蛋挞",
             "name_history": [
                 "蛋挞"
@@ -49152,6 +49162,29 @@
             "role_id": 63582695929052,
             "server_region": "cosmic-fold"
         },
+        "63582695929109": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "迷迭香·沁的学徒,0",
+            "gender": 1,
+            "hp": 620432.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1215.5,
+                "y": -28360.888671875,
+                "z": 97874.1171875
+            },
+            "last_seen": "2026年2月27日 下午11:16:53",
+            "level": 84,
+            "name": "德丽莎·观星",
+            "name_history": [
+                "德丽莎·观星"
+            ],
+            "registered": "2025年10月15日 下午2:22:55",
+            "role_id": 63582695929109,
+            "server_region": "cosmic-fold"
+        },
         "63582695929113": {
             "crew_id": 0,
             "crew_name": "",
@@ -61058,17 +61091,17 @@
             ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "1_9_0_2",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1311569.875,
+            "hp": 1485250.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1613.489990234375,
-                "y": -27393.51953125,
-                "z": 97866.1171875
+                "x": 1606.9000244140625,
+                "y": -27539.3984375,
+                "z": 97874.1171875
             },
-            "last_seen": "2026年2月16日 上午12:15:15",
-            "level": 83,
+            "last_seen": "2026年2月27日 下午11:16:53",
+            "level": 85,
             "name": "百合园小咲",
             "name_history": [
                 "百合园小咲"
@@ -74968,7 +75001,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5172,
-    "last_updated": "2026年2月27日 下午11:15:53",
+    "accounts_total": 5173,
+    "last_updated": "2026年2月27日 下午11:16:53",
     "server_region": "cosmic-fold"
 }
