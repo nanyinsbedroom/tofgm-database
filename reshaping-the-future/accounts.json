@@ -2925,14 +2925,14 @@
             "crew_name": "微光",
             "equipping_title": "1_8_0_25",
             "gender": 1,
-            "hp": 2435075.0,
+            "hp": 2224508.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55335.2890625,
-                "y": -88525.125,
-                "z": 21710.9296875
+                "x": -55200.1796875,
+                "y": -87065.6171875,
+                "z": 21710.87890625
             },
-            "last_seen": "2026年2月24日 下午8:06:19",
+            "last_seen": "2026年2月27日 下午8:09:20",
             "level": 100,
             "name": "云隙阳光",
             "name_history": [
@@ -4898,6 +4898,31 @@
             "role_id": 62715113805083,
             "server_region": "reshaping-the-future"
         },
+        "62715113806833": {
+            "crew_history": [
+                "听风阁"
+            ],
+            "crew_id": 90194327919,
+            "crew_name": "听风阁",
+            "equipping_title": "HuntingRank_3;imitation_62;80",
+            "gender": 0,
+            "hp": 1399337.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55687.609375,
+                "y": -88494.9296875,
+                "z": 21730.87890625
+            },
+            "last_seen": "2026年2月27日 下午8:09:20",
+            "level": 100,
+            "name": "齐格飞，斩龙者",
+            "name_history": [
+                "齐格飞，斩龙者"
+            ],
+            "registered": "2024年5月1日 上午6:06:05",
+            "role_id": 62715113806833,
+            "server_region": "reshaping-the-future"
+        },
         "62715113824929": {
             "crew_history": [],
             "crew_id": 0,
@@ -4944,6 +4969,31 @@
             ],
             "registered": "2024年5月16日 下午12:27:16",
             "role_id": 62715113826340,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113827179": {
+            "crew_history": [
+                "花海"
+            ],
+            "crew_id": 25769818378,
+            "crew_name": "花海",
+            "equipping_title": "1_6_1_5",
+            "gender": 1,
+            "hp": 1132475.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月27日 下午8:09:20",
+            "level": 100,
+            "name": "時之旅人",
+            "name_history": [
+                "時之旅人"
+            ],
+            "registered": "2024年5月22日 上午2:50:04",
+            "role_id": 62715113827179,
             "server_region": "reshaping-the-future"
         },
         "62715113828403": {
@@ -16073,14 +16123,26 @@
             "server_region": "reshaping-the-future"
         },
         "63148904259269": {
+            "crew_history": [
+                "银岸"
+            ],
             "crew_id": 4294981899,
             "crew_name": "银岸",
             "equipping_title": "2_3_0_1",
             "gender": 1,
-            "hp": 1607820.375,
-            "last_seen": "2025年10月14日 下午 10:34:46",
+            "hp": 1526894.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21719.048828125
+            },
+            "last_seen": "2026年2月27日 下午8:09:20",
             "level": 100,
             "name": "杨宁",
+            "name_history": [
+                "杨宁"
+            ],
             "registered": "2023年9月24日 上午10:00:04",
             "role_id": 63148904259269,
             "server_region": "reshaping-the-future"
@@ -18625,7 +18687,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 864,
-    "last_updated": "2026年2月27日 下午8:08:20",
+    "accounts_total": 866,
+    "last_updated": "2026年2月27日 下午8:09:20",
     "server_region": "reshaping-the-future"
 }
