@@ -699,14 +699,26 @@
             "server_region": "time-travel"
         },
         "63574105918710": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
             "crew_id": 416611842514,
             "crew_name": "雪绒白巧",
-            "equipping_title": "WorldBossDamage_3;巴巴罗萨;16",
+            "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 624927.375,
-            "last_seen": "2025年10月16日 上午 4:23:44",
-            "level": 60,
+            "hp": 1666161.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -715.2899780273438,
+                "y": -17008.169921875,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年2月27日 下午1:23:00",
+            "level": 85,
             "name": "雪柒",
+            "name_history": [
+                "雪柒"
+            ],
             "registered": "2023年12月14日 上午10:04:52",
             "role_id": 63574105918710,
             "server_region": "time-travel"
@@ -3150,12 +3162,12 @@
             "gender": 1,
             "hp": 1685398.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21825.9296875
+                "map": "city",
+                "x": -1673.623779296875,
+                "y": -26076.78515625,
+                "z": 98395.015625
             },
-            "last_seen": "2026年2月24日 下午4:03:03",
+            "last_seen": "2026年2月27日 下午1:23:00",
             "level": 84,
             "name": "null_",
             "name_history": [
@@ -11205,15 +11217,15 @@
             "crew_name": "星期三",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1308061.875,
+            "hp": 1394977.75,
             "last_known_position": {
                 "map": "city",
-                "x": -22.5,
-                "y": -16482.900390625,
-                "z": 96362.0390625
+                "x": -23.93000030517578,
+                "y": -16566.419921875,
+                "z": 96362.03125
             },
-            "last_seen": "2026年2月14日 下午8:34:56",
-            "level": 83,
+            "last_seen": "2026年2月27日 下午1:23:00",
+            "level": 85,
             "name": "落吖",
             "name_history": [
                 "落吖"
@@ -15308,6 +15320,6 @@
         }
     },
     "accounts_total": 850,
-    "last_updated": "2026年2月27日 下午1:22:00",
+    "last_updated": "2026年2月27日 下午1:23:00",
     "server_region": "time-travel"
 }
