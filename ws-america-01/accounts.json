@@ -10770,15 +10770,15 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1056212.375,
+            "hp": 1081499.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -62452.16015625,
-                "y": 97021.8359375,
-                "z": -7569.02978515625
+                "x": -62123.69921875,
+                "y": 97142.75,
+                "z": -7562.06982421875
             },
-            "last_seen": "Feb 23, 2026, 10:45:26 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 12:15:34 AM",
+            "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
                 "Lorde Sensei"
@@ -22118,17 +22118,17 @@
             ],
             "crew_id": 798872805158,
             "crew_name": "Dreamlight",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;53",
             "gender": 1,
-            "hp": 206675.796875,
+            "hp": 222193.8125,
             "last_known_position": {
-                "map": "city",
-                "x": -2814.08984375,
-                "y": -26555.94921875,
-                "z": 97340.0
+                "map": "QRSL_P",
+                "x": -63848.2421875,
+                "y": 93857.7109375,
+                "z": -8870.96484375
             },
-            "last_seen": "Feb 20, 2026, 11:00:32 PM",
-            "level": 67,
+            "last_seen": "Feb 27, 2026, 12:15:34 AM",
+            "level": 68,
             "name": "KaguraLR",
             "name_history": [
                 "KaguraLR"
@@ -30033,6 +30033,31 @@
             "role_id": 38174107413583594,
             "server_region": "ws-america-01"
         },
+        "38174107413583595": {
+            "crew_history": [
+                "YoRHa"
+            ],
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 168609.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52419.3203125,
+                "y": 104101.4609375,
+                "z": -11858.029296875
+            },
+            "last_seen": "Feb 27, 2026, 12:15:34 AM",
+            "level": 50,
+            "name": "Yohei",
+            "name_history": [
+                "Yohei"
+            ],
+            "registered": "Feb 22, 2026, 5:48:20 AM",
+            "role_id": 38174107413583595,
+            "server_region": "ws-america-01"
+        },
         "38174107413583676": {
             "crew_history": [],
             "crew_id": 0,
@@ -30471,7 +30496,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1684,
-    "last_updated": "Feb 27, 2026, 12:14:34 AM",
+    "accounts_total": 1685,
+    "last_updated": "Feb 27, 2026, 12:15:34 AM",
     "server_region": "ws-america-01"
 }
