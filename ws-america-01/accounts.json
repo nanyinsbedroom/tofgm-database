@@ -6078,17 +6078,17 @@
             ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "None",
+            "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1121120.0,
+            "hp": 1156760.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1296.8199462890625,
-                "y": -29920.318359375,
-                "z": 96723.6484375
+                "x": -1507.3099365234375,
+                "y": -27033.55859375,
+                "z": 96713.4453125
             },
-            "last_seen": "Feb 23, 2026, 12:45:13 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 77,
             "name": "Caprichosita",
             "name_history": [
                 "Caprichosita"
@@ -6912,12 +6912,12 @@
             "gender": 0,
             "hp": 1207701.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -73414.265625,
-                "y": 48817.390625,
-                "z": -12291.75
+                "map": "city",
+                "x": -2206.2099609375,
+                "y": -28584.609375,
+                "z": 97876.53125
             },
-            "last_seen": "Feb 26, 2026, 4:57:23 PM",
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
             "level": 77,
             "name": "Mimo",
             "name_history": [
@@ -19279,15 +19279,15 @@
             "crew_name": "Supernova",
             "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1127273.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 98122.5,
-                "y": -190007.234375,
-                "z": -7924.11962890625
+                "map": "city",
+                "x": 1949.97998046875,
+                "y": -30152.33984375,
+                "z": 96762.796875
             },
-            "last_seen": "Feb 23, 2026, 10:47:47 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 77,
             "name": "Chitose",
             "name_history": [
                 "Chitose"
@@ -21124,13 +21124,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413553694": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 358964.0,
-            "last_seen": "Jan 30, 2026, 10:38:38 PM",
-            "level": 69,
+            "hp": 483301.90625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1042.72998046875,
+                "y": -28274.029296875,
+                "z": 97877.1171875
+            },
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 73,
             "name": "Psionic Red",
             "name_history": [
                 "Psionic Red"
@@ -28279,20 +28288,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413581803": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 67635.0,
+            "hp": 179139.59375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91231.4375,
-                "y": 78262.78125,
-                "z": -7020.1396484375
+                "x": -82395.6953125,
+                "y": 73708.4296875,
+                "z": -8871.853515625
             },
-            "last_seen": "Feb 23, 2026, 10:45:26 PM",
-            "level": 16,
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 54,
             "name": "AlucardBelmont",
             "name_history": [
                 "AlucardBelmont"
@@ -30354,6 +30365,31 @@
             "role_id": 38174107413583816,
             "server_region": "ws-america-01"
         },
+        "38174107413583826": {
+            "crew_history": [
+                "Dreamlight"
+            ],
+            "crew_id": 798872805158,
+            "crew_name": "Dreamlight",
+            "equipping_title": "InsanityFox's Apprentice,0",
+            "gender": 0,
+            "hp": 364479.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98100.390625,
+                "y": 80719.609375,
+                "z": -5259.2998046875
+            },
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 68,
+            "name": "ΛПDЯΣY",
+            "name_history": [
+                "ΛПDЯΣY"
+            ],
+            "registered": "Feb 23, 2026, 9:12:49 PM",
+            "role_id": 38174107413583826,
+            "server_region": "ws-america-01"
+        },
         "38174107413583835": {
             "crew_history": [],
             "crew_id": 0,
@@ -30585,9 +30621,32 @@
             "registered": "Feb 26, 2026, 4:36:55 PM",
             "role_id": 38174107413584156,
             "server_region": "ws-america-01"
+        },
+        "38174107413584311": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 9792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91191.9375,
+                "y": 77538.9375,
+                "z": -7018.6396484375
+            },
+            "last_seen": "Feb 27, 2026, 6:12:48 PM",
+            "level": 3,
+            "name": "Dust546",
+            "name_history": [
+                "Dust546"
+            ],
+            "registered": "Feb 27, 2026, 5:46:55 PM",
+            "role_id": 38174107413584311,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1688,
-    "last_updated": "Feb 27, 2026, 6:11:48 PM",
+    "accounts_total": 1690,
+    "last_updated": "Feb 27, 2026, 6:12:48 PM",
     "server_region": "ws-america-01"
 }
