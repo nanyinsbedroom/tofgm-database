@@ -28648,12 +28648,21 @@
             "server_region": "southeast-asia"
         },
         "68801081155927": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1417544.0,
-            "last_seen": "Nov 07, 2025, 10:32:00 AM",
+            "hp": 5984800.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101865.1484375,
+                "y": -183521.984375,
+                "z": -7853.1083984375
+            },
+            "last_seen": "Feb 27, 2026, 9:20:03 PM",
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -30267,6 +30276,6 @@
         }
     },
     "accounts_total": 2072,
-    "last_updated": "Feb 27, 2026, 9:11:07 PM",
+    "last_updated": "Feb 27, 2026, 9:20:03 PM",
     "server_region": "southeast-asia"
 }
