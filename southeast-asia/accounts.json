@@ -1610,14 +1610,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "RuneStone's Enlightener,1",
             "gender": 1,
-            "hp": 12122798.0,
+            "hp": 6339651.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 106692.8359375,
-                "y": -184363.25,
-                "z": -5439.29541015625
+                "x": 96473.6640625,
+                "y": -188931.4375,
+                "z": -7801.6826171875
             },
-            "last_seen": "Feb 26, 2026, 10:25:40 PM",
+            "last_seen": "Feb 27, 2026, 10:40:38 PM",
             "level": 100,
             "name": "FriK√SweetEyes",
             "name_history": [
@@ -4260,14 +4260,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 6971429.5,
+            "hp": 6337663.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 100656.46875,
-                "y": -182411.375,
-                "z": -7438.83251953125
+                "x": 92386.40625,
+                "y": -187695.015625,
+                "z": -7293.10986328125
             },
-            "last_seen": "Feb 26, 2026, 10:48:41 PM",
+            "last_seen": "Feb 27, 2026, 10:40:38 PM",
             "level": 100,
             "name": "Mirianne",
             "name_history": [
@@ -8280,9 +8280,27 @@
             "server_region": "southeast-asia"
         },
         "68758131475729": {
-            "gender": 1,
-            "last_seen": "Feb 04, 2026, 04:36:33 AM",
+            "crew_history": [
+                "Phantasia "
+            ],
+            "crew_id": 34359754369,
+            "crew_name": "Phantasia ",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 6225784.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 90864.578125,
+                "y": -193637.109375,
+                "z": -4233.9697265625
+            },
+            "last_seen": "Feb 27, 2026, 10:40:38 PM",
+            "level": 100,
             "name": "Wulfstan",
+            "name_history": [
+                "Wulfstan"
+            ],
+            "registered": "Aug 12, 2022, 2:32:48 AM",
             "role_id": 68758131475729,
             "server_region": "southeast-asia"
         },
@@ -24880,14 +24898,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "2_2_0_22",
             "gender": 1,
-            "hp": 2619081.5,
+            "hp": 6271363.0,
             "last_known_position": {
-                "map": "city",
-                "x": -496.42999267578125,
-                "y": -18056.91015625,
-                "z": 96329.53125
+                "map": "Kailo_P_003",
+                "x": 91016.6015625,
+                "y": -187238.609375,
+                "z": -7700.08984375
             },
-            "last_seen": "Feb 27, 2026, 9:58:19 PM",
+            "last_seen": "Feb 27, 2026, 10:40:38 PM",
             "level": 100,
             "name": "Aruf",
             "name_history": [
@@ -30321,6 +30339,6 @@
         }
     },
     "accounts_total": 2072,
-    "last_updated": "Feb 27, 2026, 10:35:38 PM",
+    "last_updated": "Feb 27, 2026, 10:40:38 PM",
     "server_region": "southeast-asia"
 }
