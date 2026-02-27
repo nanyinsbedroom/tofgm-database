@@ -16913,15 +16913,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413530337": {
+            "crew_history": [
+                "Haneul"
+            ],
             "crew_id": 206167318310,
             "crew_name": "Haneul",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_085_world;3",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 852253.75,
-            "last_seen": "Feb 11, 2026, 2:12:30 PM",
-            "level": 75,
-            "name": "​Cyrene",
+            "hp": 967533.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72849.2890625,
+                "y": 49101.828125,
+                "z": -12307.33984375
+            },
+            "last_seen": "Feb 27, 2026, 6:18:48 PM",
+            "level": 77,
+            "name": "​Sheol",
             "name_history": [
+                "​Sheol",
                 "​Cyrene"
             ],
             "registered": "Nov 25, 2025, 10:06:59 PM",
@@ -31135,6 +31145,6 @@
         }
     },
     "accounts_total": 1710,
-    "last_updated": "Feb 27, 2026, 6:16:48 PM",
+    "last_updated": "Feb 27, 2026, 6:18:48 PM",
     "server_region": "ws-america-01"
 }
