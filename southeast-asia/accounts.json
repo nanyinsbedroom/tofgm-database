@@ -3759,12 +3759,21 @@
             "server_region": "southeast-asia"
         },
         "68736656627984": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "1_1_26_1",
             "gender": 0,
-            "hp": 2669862.75,
-            "last_seen": "Feb 12, 2026, 9:58:19 PM",
+            "hp": 2678805.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96382.0390625
+            },
+            "last_seen": "Feb 27, 2026, 8:37:34 PM",
             "level": 100,
             "name": "DraGnEe1",
             "name_history": [
@@ -30199,6 +30208,6 @@
         }
     },
     "accounts_total": 2071,
-    "last_updated": "Feb 27, 2026, 8:36:34 PM",
+    "last_updated": "Feb 27, 2026, 8:37:34 PM",
     "server_region": "southeast-asia"
 }
