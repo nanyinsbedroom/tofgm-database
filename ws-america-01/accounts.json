@@ -1044,15 +1044,15 @@
             "crew_name": "Redux",
             "equipping_title": "1_6_4_27",
             "gender": 1,
-            "hp": 680774.375,
+            "hp": 704332.8125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -89471.640625,
-                "y": 84214.875,
-                "z": -5679.5
+                "x": -65976.5859375,
+                "y": 90536.546875,
+                "z": -7389.22998046875
             },
-            "last_seen": "Feb 23, 2026, 10:44:26 PM",
-            "level": 74,
+            "last_seen": "Feb 27, 2026, 6:15:48 PM",
+            "level": 77,
             "name": "HMS Unicorn",
             "name_history": [
                 "HMS Unicorn"
@@ -23259,13 +23259,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413568422": {
-            "crew_id": 459570388774,
-            "crew_name": "LATAM GOD",
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 455377.59375,
-            "last_seen": "Jan 26, 2026, 07:24:36 PM",
-            "level": 71,
+            "hp": 724849.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63365.96875,
+                "y": 89878.8984375,
+                "z": -8566.7998046875
+            },
+            "last_seen": "Feb 27, 2026, 6:15:48 PM",
+            "level": 75,
             "name": "algo",
             "name_history": [
                 "algo"
@@ -30975,6 +30984,6 @@
         }
     },
     "accounts_total": 1704,
-    "last_updated": "Feb 27, 2026, 6:14:48 PM",
+    "last_updated": "Feb 27, 2026, 6:15:48 PM",
     "server_region": "ws-america-01"
 }
