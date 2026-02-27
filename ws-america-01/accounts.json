@@ -21257,15 +21257,15 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 99346.0,
+            "hp": 100210.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91098.7265625,
-                "y": 79933.40625,
-                "z": -7014.830078125
+                "x": -78101.046875,
+                "y": 77403.625,
+                "z": -9806.837890625
             },
-            "last_seen": "Feb 23, 2026, 10:43:26 PM",
-            "level": 56,
+            "last_seen": "Feb 27, 2026, 12:13:33 AM",
+            "level": 57,
             "name": "Alysaphrena",
             "name_history": [
                 "Alysaphrena"
@@ -22453,20 +22453,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413565427": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 345126.0,
+            "hp": 362079.59375,
             "last_known_position": {
-                "map": "city",
-                "x": 1229.0999755859375,
-                "y": -28477.05859375,
-                "z": 97874.1171875
+                "map": "QRSL_P",
+                "x": -84302.0,
+                "y": 80670.0,
+                "z": -9495.0
             },
-            "last_seen": "Feb 18, 2026, 8:24:36 PM",
-            "level": 66,
+            "last_seen": "Feb 27, 2026, 12:13:33 AM",
+            "level": 73,
             "name": "Kitasan Black",
             "name_history": [
                 "Kitasan Black"
@@ -29418,6 +29420,29 @@
             "role_id": 38174107413583052,
             "server_region": "ws-america-01"
         },
+        "38174107413583070": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 75228.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92781.484375,
+                "y": 83161.4609375,
+                "z": -7044.8212890625
+            },
+            "last_seen": "Feb 27, 2026, 12:13:33 AM",
+            "level": 19,
+            "name": "Nieth",
+            "name_history": [
+                "Nieth"
+            ],
+            "registered": "Feb 17, 2026, 11:13:46 PM",
+            "role_id": 38174107413583070,
+            "server_region": "ws-america-01"
+        },
         "38174107413583075": {
             "crew_history": [],
             "crew_id": 0,
@@ -30364,7 +30389,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1680,
-    "last_updated": "Feb 26, 2026, 4:57:23 PM",
+    "accounts_total": 1681,
+    "last_updated": "Feb 27, 2026, 12:13:33 AM",
     "server_region": "ws-america-01"
 }
