@@ -9817,14 +9817,26 @@
             "server_region": "visser-aida"
         },
         "60653528161602": {
+            "crew_history": [
+                "天空之城"
+            ],
             "crew_id": 833223669626,
             "crew_name": "天空之城",
-            "equipping_title": "1_8_0_35",
+            "equipping_title": "4_2021",
             "gender": 0,
-            "hp": 2243242.0,
-            "last_seen": "2025年10月27日 下午 8:32:53",
+            "hp": 2260152.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 2013.199951171875,
+                "y": -24430.5,
+                "z": 98651.78125
+            },
+            "last_seen": "2026年2月27日 上午8:03:37",
             "level": 100,
             "name": "幽炎凛",
+            "name_history": [
+                "幽炎凛"
+            ],
             "registered": "2021年12月16日 上午9:01:57",
             "role_id": 60653528161602,
             "server_region": "visser-aida"
@@ -20053,6 +20065,6 @@
         }
     },
     "accounts_total": 1221,
-    "last_updated": "2026年2月27日 上午7:59:37",
+    "last_updated": "2026年2月27日 上午8:03:37",
     "server_region": "visser-aida"
 }
