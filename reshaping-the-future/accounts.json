@@ -16912,14 +16912,26 @@
             "server_region": "reshaping-the-future"
         },
         "63148904448996": {
+            "crew_history": [
+                "魅魔茶话会"
+            ],
             "crew_id": 34359753071,
             "crew_name": "魅魔茶话会",
             "equipping_title": "1_6_0_1",
             "gender": 1,
-            "hp": 1691971.0,
-            "last_seen": "2025年10月26日 下午 3:26:58",
+            "hp": 1753510.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53832.12890625,
+                "y": -87900.078125,
+                "z": 21710.859375
+            },
+            "last_seen": "2026年2月27日 下午8:15:20",
             "level": 100,
             "name": "seraph",
+            "name_history": [
+                "seraph"
+            ],
             "registered": "2023年11月8日 上午4:15:00",
             "role_id": 63148904448996,
             "server_region": "reshaping-the-future"
@@ -17103,6 +17115,31 @@
             "name": "老胡#c",
             "registered": "2023年11月19日 下午8:05:02",
             "role_id": 63148904503590,
+            "server_region": "reshaping-the-future"
+        },
+        "63148904503812": {
+            "crew_history": [
+                "五个魂儿呀"
+            ],
+            "crew_id": 9186935060746,
+            "crew_name": "五个魂儿呀",
+            "equipping_title": "1_1_10_2",
+            "gender": 0,
+            "hp": 1655601.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54816.09765625,
+                "y": -86806.546875,
+                "z": 21721.990234375
+            },
+            "last_seen": "2026年2月27日 下午8:15:20",
+            "level": 100,
+            "name": "夏至丶",
+            "name_history": [
+                "夏至丶"
+            ],
+            "registered": "2023年11月19日 下午8:46:19",
+            "role_id": 63148904503812,
             "server_region": "reshaping-the-future"
         },
         "63148904504395": {
@@ -18785,7 +18822,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 870,
-    "last_updated": "2026年2月27日 下午8:14:20",
+    "accounts_total": 871,
+    "last_updated": "2026年2月27日 下午8:15:20",
     "server_region": "reshaping-the-future"
 }
