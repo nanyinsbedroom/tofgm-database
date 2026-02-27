@@ -8527,15 +8527,15 @@
             "crew_name": "异世相遇",
             "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1655949.875,
+            "hp": 1716799.375,
             "last_known_position": {
                 "map": "city",
-                "x": 902.0799560546875,
-                "y": -22903.638671875,
-                "z": 96736.5859375
+                "x": -4165.50830078125,
+                "y": -27718.19921875,
+                "z": 96676.765625
             },
-            "last_seen": "2026年2月23日 下午5:46:42",
-            "level": 84,
+            "last_seen": "2026年2月27日 下午1:27:00",
+            "level": 85,
             "name": "唐伯虎·秋香",
             "name_history": [
                 "唐伯虎·秋香"
@@ -14479,6 +14479,29 @@
             "role_id": 63578402003822,
             "server_region": "time-travel"
         },
+        "63578402003823": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 167613.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -2236.510009765625,
+                "y": -28452.689453125,
+                "z": 97865.515625
+            },
+            "last_seen": "2026年2月27日 下午1:27:00",
+            "level": 55,
+            "name": "奈雪雪",
+            "name_history": [
+                "奈雪雪"
+            ],
+            "registered": "2026年2月22日 下午9:59:06",
+            "role_id": 63578402003823,
+            "server_region": "time-travel"
+        },
         "63578402003846": {
             "crew_history": [
                 "林深不知处"
@@ -15542,7 +15565,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 859,
-    "last_updated": "2026年2月27日 下午1:26:00",
+    "accounts_total": 860,
+    "last_updated": "2026年2月27日 下午1:27:00",
     "server_region": "time-travel"
 }
