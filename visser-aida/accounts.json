@@ -319,12 +319,21 @@
             "server_region": "visser-aida"
         },
         "60567628812562": {
+            "crew_history": [
+                "墨影千秋"
+            ],
             "crew_id": 438086678307,
             "crew_name": "墨影千秋",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1475787.75,
-            "last_seen": "2026年2月9日 下午8:31:01",
+            "hp": 2504651.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324531.90625,
+                "y": 205228.453125,
+                "z": -28279.41015625
+            },
+            "last_seen": "2026年2月27日 下午12:59:18",
             "level": 100,
             "name": "自动氵屏",
             "name_history": [
@@ -9802,6 +9811,31 @@
             "role_id": 60644938269339,
             "server_region": "visser-aida"
         },
+        "60644938270894": {
+            "crew_history": [
+                "九域"
+            ],
+            "crew_id": 150323869473,
+            "crew_name": "九域",
+            "equipping_title": "1_5_1_1",
+            "gender": 1,
+            "hp": 1022051.0625,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325413.03125,
+                "y": 204462.328125,
+                "z": -28327.419921875
+            },
+            "last_seen": "2026年2月27日 下午12:59:18",
+            "level": 80,
+            "name": "饅頭大君主",
+            "name_history": [
+                "饅頭大君主"
+            ],
+            "registered": "2021年12月20日 下午8:28:12",
+            "role_id": 60644938270894,
+            "server_region": "visser-aida"
+        },
         "60644938280405": {
             "crew_id": 12884916007,
             "crew_name": "丨神芸学都丨",
@@ -17569,14 +17603,14 @@
             "crew_name": "神仙",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1654134.75,
+            "hp": 2708480.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21714.048828125
+                "map": "JIUYU_P",
+                "x": -317529.78125,
+                "y": 195404.0,
+                "z": -18218.103515625
             },
-            "last_seen": "2026年2月21日 下午10:05:26",
+            "last_seen": "2026年2月27日 下午12:59:18",
             "level": 100,
             "name": "猩红回响",
             "name_history": [
@@ -19117,6 +19151,31 @@
             "role_id": 62289910717914,
             "server_region": "visser-aida"
         },
+        "62294205696850": {
+            "crew_history": [
+                "魔女的茶会"
+            ],
+            "crew_id": 64424523548,
+            "crew_name": "魔女的茶会",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 3313116.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325347.3125,
+                "y": 204659.46875,
+                "z": -28343.21875
+            },
+            "last_seen": "2026年2月27日 下午12:59:18",
+            "level": 100,
+            "name": "づ平泽唯ど",
+            "name_history": [
+                "づ平泽唯ど"
+            ],
+            "registered": "2021年12月17日 下午11:42:22",
+            "role_id": 62294205696850,
+            "server_region": "visser-aida"
+        },
         "62294205699389": {
             "crew_history": [
                 "喵喵屋"
@@ -20429,7 +20488,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1233,
-    "last_updated": "2026年2月27日 下午12:58:18",
+    "accounts_total": 1235,
+    "last_updated": "2026年2月27日 下午12:59:18",
     "server_region": "visser-aida"
 }
