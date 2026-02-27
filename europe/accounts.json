@@ -5284,12 +5284,21 @@
             "server_region": "europe"
         },
         "55877524527221": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 725849486034,
             "crew_name": "Harmony",
-            "equipping_title": "Allynna的后继者,1",
+            "equipping_title": "Allynna's Successor,1",
             "gender": 0,
-            "hp": 2377057.0,
-            "last_seen": "Nov 18, 2025, 02:37:43 AM",
+            "hp": 2738583.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 49317.83984375,
+                "y": -9062.8896484375,
+                "z": 13110.8701171875
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "AresZ",
             "name_history": [
@@ -6069,14 +6078,14 @@
             "crew_name": "†Ryudara",
             "equipping_title": "Tiberius Sun's Mentor,0",
             "gender": 0,
-            "hp": 6251426.0,
+            "hp": 2313825.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 89856.1953125,
-                "y": -212994.890625,
-                "z": 1184.31494140625
+                "map": "Vera_city",
+                "x": 47676.10546875,
+                "y": -9055.94140625,
+                "z": 13091.1796875
             },
-            "last_seen": "Feb 19, 2026, 10:11:34 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "FrozenPig",
             "name_history": [
@@ -6119,12 +6128,21 @@
             "server_region": "europe"
         },
         "55886114497003": {
+            "crew_history": [
+                "Architects"
+            ],
             "crew_id": 2138893726420,
             "crew_name": "Architects",
             "equipping_title": "Tencent_Sever_70",
             "gender": 1,
-            "hp": 1748368.125,
-            "last_seen": "Nov 23, 2025, 03:08:37 AM",
+            "hp": 2123924.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 49324.48046875,
+                "y": -8995.2001953125,
+                "z": 13117.3701171875
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "Chi-Xiao",
             "name_history": [
@@ -7075,14 +7093,14 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "Allynna's Apprentice,0",
             "gender": 1,
-            "hp": 2808591.25,
+            "hp": 2384141.5,
             "last_known_position": {
-                "map": "Team8P_16_D_II",
-                "x": 80631.5,
-                "y": 69454.359375,
-                "z": 87814.984375
+                "map": "Vera_city",
+                "x": 48234.45703125,
+                "y": -9429.76953125,
+                "z": 13261.33984375
             },
-            "last_seen": "Feb 16, 2026, 9:56:17 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "Erufu",
             "name_history": [
@@ -7420,16 +7438,16 @@
             ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "Allynna's Apprentice,0",
+            "equipping_title": "Zenmau's Mentor,0",
             "gender": 1,
-            "hp": 6266900.5,
+            "hp": 2526748.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 96759.4375,
-                "y": -179460.03125,
-                "z": -7784.39990234375
+                "map": "Vera_city",
+                "x": 44057.0625,
+                "y": -14639.4091796875,
+                "z": 13101.396484375
             },
-            "last_seen": "Feb 20, 2026, 9:50:59 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "Kanatsuki",
             "name_history": [
@@ -7715,6 +7733,31 @@
             "name": "Dayna",
             "registered": "Aug 11, 2022, 9:01:21 AM",
             "role_id": 55911884272327,
+            "server_region": "europe"
+        },
+        "55911884275342": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 3204268.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 47140.703125,
+                "y": -8923.8505859375,
+                "z": 13103.408203125
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "level": 100,
+            "name": "FrozenJas",
+            "name_history": [
+                "FrozenJas"
+            ],
+            "registered": "Aug 11, 2022, 9:27:42 AM",
+            "role_id": 55911884275342,
             "server_region": "europe"
         },
         "55911884276667": {
@@ -9709,11 +9752,26 @@
             "server_region": "europe"
         },
         "55946244014466": {
-            "crew_id": 4814658351820,
-            "crew_name": "New Hope",
+            "crew_history": [
+                "NEVERL∧ND"
+            ],
+            "crew_id": 18163416707814,
+            "crew_name": "NEVERL∧ND",
+            "equipping_title": "1_1_17_1",
             "gender": 1,
-            "last_seen": "Sep 18, 2025, 10:08:36 PM",
+            "hp": 2491800.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 48758.9375,
+                "y": -9269.90625,
+                "z": 13334.2158203125
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "level": 100,
             "name": "∨ ∧ Ν Υ ∧ •",
+            "name_history": [
+                "∨ ∧ Ν Υ ∧ •"
+            ],
             "registered": "Aug 11, 2022, 9:32:05 PM",
             "role_id": 55946244014466,
             "server_region": "europe"
@@ -10881,14 +10939,14 @@
             "crew_name": "†Ryudara",
             "equipping_title": "1_3_1_2",
             "gender": 0,
-            "hp": 5898934.5,
+            "hp": 2152939.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 90995.7421875,
-                "y": -188465.203125,
-                "z": -7665.54833984375
+                "map": "Vera_city",
+                "x": 47583.76953125,
+                "y": -8707.4697265625,
+                "z": 13129.859375
             },
-            "last_seen": "Feb 20, 2026, 9:45:59 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "kanta ♥ ♥ ♥",
             "name_history": [
@@ -12010,12 +12068,12 @@
             "gender": 1,
             "hp": 1257729.5,
             "last_known_position": {
-                "map": "Team8P_16_D_II",
-                "x": 81490.0,
-                "y": 76090.0,
-                "z": 107774.5390625
+                "map": "Vera_city",
+                "x": 48341.16796875,
+                "y": -9403.33984375,
+                "z": 13254.6796875
             },
-            "last_seen": "Feb 16, 2026, 9:56:17 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "★Erufu★",
             "name_history": [
@@ -13593,14 +13651,14 @@
             "crew_name": "melkyway",
             "equipping_title": "Tiberius Sun's Apprentice,0",
             "gender": 1,
-            "hp": 5533308.5,
+            "hp": 287806.59375,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 144125.390625,
-                "y": -178497.609375,
-                "z": 54.33671188354492
+                "map": "Vera_city",
+                "x": 48408.6796875,
+                "y": -9382.689453125,
+                "z": 13254.849609375
             },
-            "last_seen": "Feb 20, 2026, 9:47:59 PM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 37,
             "name": "Wolti7D",
             "name_history": [
@@ -19420,6 +19478,31 @@
             "role_id": 55963424762967,
             "server_region": "europe"
         },
+        "55963424763073": {
+            "crew_history": [
+                "†Ryudara"
+            ],
+            "crew_id": 17755394814694,
+            "crew_name": "†Ryudara",
+            "equipping_title": "Kanatsuki's Apprentice,0",
+            "gender": 1,
+            "hp": 667103.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 43167.03125,
+                "y": -13845.611328125,
+                "z": 13174.1357421875
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "level": 72,
+            "name": "Zenmau",
+            "name_history": [
+                "Zenmau"
+            ],
+            "registered": "Feb 9, 2026, 3:06:11 AM",
+            "role_id": 55963424763073,
+            "server_region": "europe"
+        },
         "55963424763273": {
             "crew_id": 0,
             "crew_name": "",
@@ -21485,16 +21568,16 @@
             ],
             "crew_id": 17755394814694,
             "crew_name": "†Ryudara",
-            "equipping_title": "1_5_1_1",
+            "equipping_title": "kanta ♥ ♥ ♥'s Mentor,0",
             "gender": 0,
-            "hp": 5885763.0,
+            "hp": 2089420.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 93947.03125,
-                "y": -220423.09375,
-                "z": 934.0700073242188
+                "map": "Vera_city",
+                "x": 52442.87109375,
+                "y": -10403.9140625,
+                "z": 13121.224609375
             },
-            "last_seen": "Feb 21, 2026, 3:42:01 AM",
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "Wolti9D",
             "name_history": [
@@ -21630,15 +21713,52 @@
             "role_id": 55976308779580,
             "server_region": "europe"
         },
+        "55976308781803": {
+            "crew_history": [
+                "SOLO LEVELING"
+            ],
+            "crew_id": 16638703317734,
+            "crew_name": "SOLO LEVELING",
+            "equipping_title": "2_10_1_4",
+            "gender": 1,
+            "hp": 1736129.625,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 52251.87890625,
+                "y": -12936.0087890625,
+                "z": 13108.4892578125
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "level": 100,
+            "name": "Yаng Xiаo Long",
+            "name_history": [
+                "Yаng Xiаo Long"
+            ],
+            "registered": "Oct 23, 2022, 1:13:58 AM",
+            "role_id": 55976308781803,
+            "server_region": "europe"
+        },
         "55976308790572": {
+            "crew_history": [
+                "Kindness"
+            ],
             "crew_id": 420906808041,
             "crew_name": "Kindness",
-            "equipping_title": "Tencent_Sever_91",
+            "equipping_title": "Vanellapii's Mentor,0",
             "gender": 0,
-            "hp": 2062253.5,
-            "last_seen": "Oct 16, 2025, 01:53:05 AM",
+            "hp": 2053604.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 49129.5078125,
+                "y": -9838.330078125,
+                "z": 13130.76953125
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "StarAottg",
+            "name_history": [
+                "StarAottg"
+            ],
             "registered": "Oct 25, 2022, 2:21:54 AM",
             "role_id": 55976308790572,
             "server_region": "europe"
@@ -21768,12 +21888,21 @@
             "server_region": "europe"
         },
         "55976308983444": {
+            "crew_history": [
+                "Sleepless Roses"
+            ],
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
-            "equipping_title": "Mia Carmen的导师,0",
+            "equipping_title": "FrozenPig's Apprentice,0",
             "gender": 1,
-            "hp": 1667408.625,
-            "last_seen": "Nov 01, 2025, 10:05:37 PM",
+            "hp": 1621025.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 46490.8125,
+                "y": -10230.154296875,
+                "z": 13114.32421875
+            },
+            "last_seen": "Feb 28, 2026, 12:26:49 AM",
             "level": 100,
             "name": "Tiberius Sun",
             "name_history": [
@@ -21855,7 +21984,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1433,
-    "last_updated": "Feb 28, 2026, 12:24:49 AM",
+    "accounts_total": 1436,
+    "last_updated": "Feb 28, 2026, 12:26:49 AM",
     "server_region": "europe"
 }
