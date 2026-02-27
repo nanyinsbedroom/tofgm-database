@@ -1964,12 +1964,21 @@
             "server_region": "visser-aida"
         },
         "60567630470598": {
+            "crew_history": [
+                "不氪金联盟"
+            ],
             "crew_id": 270582953855,
             "crew_name": "不氪金联盟",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 1260519.625,
-            "last_seen": "2026年2月12日 下午4:00:01",
+            "hp": 1742905.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 548.3399658203125,
+                "y": -17556.0,
+                "z": 96329.53125
+            },
+            "last_seen": "2026年2月27日 上午8:14:38",
             "level": 100,
             "name": "紫鱼学姐",
             "name_history": [
@@ -3918,6 +3927,29 @@
             ],
             "registered": "2026年2月9日 上午11:07:05",
             "role_id": 60567630936336,
+            "server_region": "visser-aida"
+        },
+        "60567630936924": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 382363.53125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71327.7421875,
+                "y": 70284.359375,
+                "z": -9908.9296875
+            },
+            "last_seen": "2026年2月27日 上午8:14:38",
+            "level": 35,
+            "name": "大狐阿",
+            "name_history": [
+                "大狐阿"
+            ],
+            "registered": "2026年2月25日 下午11:44:08",
+            "role_id": 60567630936924,
             "server_region": "visser-aida"
         },
         "60567630936947": {
@@ -20064,7 +20096,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1221,
-    "last_updated": "2026年2月27日 上午8:03:37",
+    "accounts_total": 1222,
+    "last_updated": "2026年2月27日 上午8:14:38",
     "server_region": "visser-aida"
 }
