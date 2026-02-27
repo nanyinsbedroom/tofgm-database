@@ -1222,11 +1222,26 @@
             "server_region": "visser-aida"
         },
         "60567630025562": {
+            "crew_history": [
+                "有个"
+            ],
             "crew_id": 3169685878554,
             "crew_name": "有个",
+            "equipping_title": "2_1_0_2",
             "gender": 1,
-            "last_seen": "2025年10月02日 下午 6:34:23",
+            "hp": 987578.8125,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325582.34375,
+                "y": 205109.4375,
+                "z": -28336.623046875
+            },
+            "last_seen": "2026年2月27日 下午12:54:18",
+            "level": 100,
             "name": "河南热干面",
+            "name_history": [
+                "河南热干面"
+            ],
             "registered": "2023年9月11日 下午8:41:55",
             "role_id": 60567630025562,
             "server_region": "visser-aida"
@@ -14040,6 +14055,31 @@
             "role_id": 61065845060394,
             "server_region": "visser-aida"
         },
+        "61070139983394": {
+            "crew_history": [
+                "星语星愿"
+            ],
+            "crew_id": 481036351254,
+            "crew_name": "星语星愿",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 3355525.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325309.28125,
+                "y": 202141.0,
+                "z": -28336.5390625
+            },
+            "last_seen": "2026年2月27日 下午12:54:18",
+            "level": 100,
+            "name": "AKILA.",
+            "name_history": [
+                "AKILA."
+            ],
+            "registered": "2021年12月16日 上午8:39:52",
+            "role_id": 61070139983394,
+            "server_region": "visser-aida"
+        },
         "61070140005112": {
             "crew_id": 481036351355,
             "crew_name": "清璃一梦",
@@ -20338,7 +20378,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1230,
-    "last_updated": "2026年2月27日 下午12:52:18",
+    "accounts_total": 1231,
+    "last_updated": "2026年2月27日 下午12:54:18",
     "server_region": "visser-aida"
 }
