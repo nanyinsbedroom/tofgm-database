@@ -20062,15 +20062,15 @@
             "crew_name": "Kitten Café",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 884273.375,
+            "hp": 930395.125,
             "last_known_position": {
                 "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
+                "x": -22.5,
+                "y": -16482.900390625,
                 "z": 96375.03125
             },
-            "last_seen": "Feb 23, 2026, 10:54:47 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:42:31 PM",
+            "level": 77,
             "name": "Josiani",
             "name_history": [
                 "Josiani",
@@ -24574,6 +24574,29 @@
             ],
             "registered": "Jan 2, 2026, 9:31:13 PM",
             "role_id": 38174107413575058,
+            "server_region": "ws-america-01"
+        },
+        "38174107413575065": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70004.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1637.768310546875,
+                "y": -27434.748046875,
+                "z": 96719.9453125
+            },
+            "last_seen": "Feb 27, 2026, 7:42:31 PM",
+            "level": 17,
+            "name": "RoseBugsimple",
+            "name_history": [
+                "RoseBugsimple"
+            ],
+            "registered": "Jan 2, 2026, 10:35:57 PM",
+            "role_id": 38174107413575065,
             "server_region": "ws-america-01"
         },
         "38174107413575155": {
@@ -31451,7 +31474,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1722,
-    "last_updated": "Feb 27, 2026, 7:38:30 PM",
+    "accounts_total": 1723,
+    "last_updated": "Feb 27, 2026, 7:42:31 PM",
     "server_region": "ws-america-01"
 }
