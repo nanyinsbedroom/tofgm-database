@@ -5896,15 +5896,15 @@
             "crew_name": "音乐蛋糕坊",
             "equipping_title": "2_2_0_41",
             "gender": 0,
-            "hp": 1481312.5,
+            "hp": 1519477.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1283.27001953125,
-                "y": -28376.25,
-                "z": 97872.6171875
+                "x": 2798.198974609375,
+                "y": -28582.759765625,
+                "z": 97940.484375
             },
-            "last_seen": "2026年2月24日 下午11:52:31",
-            "level": 84,
+            "last_seen": "2026年2月28日 下午8:57:29",
+            "level": 85,
             "name": "甜甜圈",
             "name_history": [
                 "甜甜圈"
@@ -50175,14 +50175,14 @@
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 437870.375,
+            "hp": 595441.1875,
             "last_known_position": {
                 "map": "city",
-                "x": -1547.5999755859375,
-                "y": -28671.19921875,
-                "z": 97876.875
+                "x": -1723.5,
+                "y": -28722.69921875,
+                "z": 97876.6953125
             },
-            "last_seen": "2026年2月21日 上午2:12:20",
+            "last_seen": "2026年2月28日 下午8:57:29",
             "level": 84,
             "name": "MELON",
             "name_history": [
@@ -75476,6 +75476,31 @@
             "role_id": 63582696010259,
             "server_region": "cosmic-fold"
         },
+        "63582696010363": {
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101696.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": 86.61000061035156,
+                "y": -26385.66015625,
+                "z": 96768.640625
+            },
+            "last_seen": "2026年2月28日 下午8:57:29",
+            "level": 32,
+            "name": "我心本无她",
+            "name_history": [
+                "我心本无她"
+            ],
+            "registered": "2026年2月26日 上午10:02:46",
+            "role_id": 63582696010363,
+            "server_region": "cosmic-fold"
+        },
         "63582696010439": {
             "crew_history": [],
             "crew_id": 0,
@@ -75845,7 +75870,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5199,
-    "last_updated": "2026年2月28日 下午8:56:29",
+    "accounts_total": 5200,
+    "last_updated": "2026年2月28日 下午8:57:29",
     "server_region": "cosmic-fold"
 }
