@@ -3793,12 +3793,19 @@
             "server_region": "north-america"
         },
         "51591147164290": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "Tencent_Sever_46",
             "gender": 0,
-            "hp": 2148019.0,
-            "last_seen": "Feb 3, 2026, 1:59:35 PM",
+            "hp": 2432298.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -687.5899658203125,
+                "y": 43056.48046875,
+                "z": 5971.47998046875
+            },
+            "last_seen": "Feb 28, 2026, 5:13:12 PM",
             "level": 100,
             "name": "Atrocus",
             "name_history": [
@@ -7735,6 +7742,31 @@
             "name": "EricJongwonPark",
             "registered": "Jun 26, 2025, 9:28:39 AM",
             "role_id": 51629802321695,
+            "server_region": "north-america"
+        },
+        "51629802322132": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 803158896357,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 662019.6875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": 5044.9599609375,
+                "y": 38974.01953125,
+                "z": 4811.2900390625
+            },
+            "last_seen": "Feb 28, 2026, 5:13:12 PM",
+            "level": 100,
+            "name": " Phantom ",
+            "name_history": [
+                " Phantom "
+            ],
+            "registered": "Jun 30, 2025, 4:02:46 AM",
+            "role_id": 51629802322132,
             "server_region": "north-america"
         },
         "51629802322733": {
@@ -12004,7 +12036,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 850,
-    "last_updated": "Feb 28, 2026, 5:12:12 PM",
+    "accounts_total": 851,
+    "last_updated": "Feb 28, 2026, 5:13:12 PM",
     "server_region": "north-america"
 }
