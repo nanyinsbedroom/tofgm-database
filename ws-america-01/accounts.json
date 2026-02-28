@@ -20313,15 +20313,15 @@
             "crew_name": "Sovereign",
             "equipping_title": "1_9_0_3",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1145864.625,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 105962.296875,
-                "y": -184530.890625,
-                "z": -5567.8798828125
+                "map": "QRSL_P",
+                "x": -44502.23828125,
+                "y": 84684.3671875,
+                "z": -12670.859375
             },
-            "last_seen": "Feb 23, 2026, 10:48:47 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:44:31 PM",
+            "level": 77,
             "name": "guty",
             "name_history": [
                 "guty"
@@ -22163,13 +22163,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413561891": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 252528.59375,
-            "last_seen": "Dec 26, 2025, 07:47:53 PM",
-            "level": 60,
+            "hp": 1005115.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59126.66015625,
+                "y": 105261.0546875,
+                "z": -12903.91015625
+            },
+            "last_seen": "Feb 27, 2026, 7:44:31 PM",
+            "level": 77,
             "name": "EduP",
             "name_history": [
                 "EduP"
@@ -22708,6 +22717,29 @@
             ],
             "registered": "Dec 16, 2025, 1:59:58 PM",
             "role_id": 38174107413565281,
+            "server_region": "ws-america-01"
+        },
+        "38174107413565377": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 13248.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58167.796875,
+                "y": 83667.8984375,
+                "z": -11483.8701171875
+            },
+            "last_seen": "Feb 27, 2026, 7:44:31 PM",
+            "level": 7,
+            "name": "Tenka Katisuk ",
+            "name_history": [
+                "Tenka Katisuk "
+            ],
+            "registered": "Dec 16, 2025, 4:29:29 PM",
+            "role_id": 38174107413565377,
             "server_region": "ws-america-01"
         },
         "38174107413565380": {
@@ -29585,17 +29617,17 @@
             "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 74846.0,
+            "hp": 328733.625,
             "last_known_position": {
-                "map": "city",
-                "x": -94.95999908447266,
-                "y": -21842.87890625,
-                "z": 96744.359375
+                "map": "QRSL_P",
+                "x": -56442.01953125,
+                "y": 63988.4375,
+                "z": -3034.139892578125
             },
-            "last_seen": "Feb 15, 2026, 4:36:18 PM",
-            "level": 18,
+            "last_seen": "Feb 27, 2026, 7:44:31 PM",
+            "level": 71,
             "name": "Jennifer",
             "name_history": [
                 "Jennifer"
@@ -31522,7 +31554,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1725,
-    "last_updated": "Feb 27, 2026, 7:43:31 PM",
+    "accounts_total": 1726,
+    "last_updated": "Feb 27, 2026, 7:44:31 PM",
     "server_region": "ws-america-01"
 }
