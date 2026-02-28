@@ -10872,14 +10872,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1083018.0,
+            "hp": 1087740.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -40724.58984375,
-                "y": 90656.78125,
-                "z": -12629.3193359375
+                "x": -64397.4375,
+                "y": 103978.765625,
+                "z": -7385.7998046875
             },
-            "last_seen": "Feb 27, 2026, 7:26:30 PM",
+            "last_seen": "Feb 28, 2026, 5:32:44 PM",
             "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
@@ -31886,6 +31886,29 @@
             "role_id": 38174107413584418,
             "server_region": "ws-america-01"
         },
+        "38174107413584424": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 14976.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98718.0,
+                "y": 80385.0,
+                "z": -5230.759765625
+            },
+            "last_seen": "Feb 28, 2026, 5:32:44 PM",
+            "level": 9,
+            "name": "Aquamarine",
+            "name_history": [
+                "Aquamarine"
+            ],
+            "registered": "Feb 28, 2026, 3:07:34 PM",
+            "role_id": 38174107413584424,
+            "server_region": "ws-america-01"
+        },
         "38174107413584435": {
             "crew_history": [],
             "crew_id": 0,
@@ -31933,7 +31956,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1741,
-    "last_updated": "Feb 28, 2026, 5:31:44 PM",
+    "accounts_total": 1742,
+    "last_updated": "Feb 28, 2026, 5:32:44 PM",
     "server_region": "ws-america-01"
 }
