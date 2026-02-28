@@ -23663,13 +23663,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695864906": {
+            "crew_history": [
+                "白露之歌"
+            ],
             "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
-            "equipping_title": "彩虹果果的导师,0",
+            "crew_name": "白露之歌",
+            "equipping_title": "多漂亮的导师,0",
             "gender": 1,
-            "hp": 890319.625,
-            "last_seen": "2025年11月22日 下午 8:04:45",
-            "level": 72,
+            "hp": 1315650.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1317.199951171875,
+                "y": -28122.69921875,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月28日 下午10:06:58",
+            "level": 84,
             "name": "尘霜",
             "name_history": [
                 "尘霜"
@@ -24653,11 +24662,11 @@
             "hp": 1639775.5,
             "last_known_position": {
                 "map": "city",
-                "x": 488.3699951171875,
-                "y": -24897.119140625,
-                "z": 97926.1953125
+                "x": -1725.0999755859375,
+                "y": -22056.69921875,
+                "z": 97321.734375
             },
-            "last_seen": "2026年2月28日 下午9:56:44",
+            "last_seen": "2026年2月28日 下午10:06:58",
             "level": 85,
             "name": "SEAS",
             "name_history": [
@@ -54810,6 +54819,29 @@
             "role_id": 63582695946423,
             "server_region": "cosmic-fold"
         },
+        "63582695946562": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 24644.20703125,
+            "last_known_position": {
+                "map": "city",
+                "x": 46.921024322509766,
+                "y": -15822.2998046875,
+                "z": 96358.78125
+            },
+            "last_seen": "2026年2月28日 下午10:06:58",
+            "level": 16,
+            "name": "奇曲子",
+            "name_history": [
+                "奇曲子"
+            ],
+            "registered": "2025年10月29日 下午2:27:54",
+            "role_id": 63582695946562,
+            "server_region": "cosmic-fold"
+        },
         "63582695946786": {
             "crew_id": 25769818580,
             "crew_name": "破晓",
@@ -76706,7 +76738,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5224,
-    "last_updated": "2026年2月28日 下午11:05:58",
+    "accounts_total": 5225,
+    "last_updated": "2026年2月28日 下午10:06:58",
     "server_region": "cosmic-fold"
 }
