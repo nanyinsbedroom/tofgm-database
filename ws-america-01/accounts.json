@@ -14752,6 +14752,31 @@
             "role_id": 38174107413523800,
             "server_region": "ws-america-01"
         },
+        "38174107413523815": {
+            "crew_history": [
+                "Redux"
+            ],
+            "crew_id": 60138430246,
+            "crew_name": "Redux",
+            "equipping_title": "2_10_1_12",
+            "gender": 0,
+            "hp": 293425.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91757.53125,
+                "y": 76632.8515625,
+                "z": -7087.89990234375
+            },
+            "last_seen": "Feb 28, 2026, 5:30:44 PM",
+            "level": 70,
+            "name": "Flagler-O-Matic",
+            "name_history": [
+                "Flagler-O-Matic"
+            ],
+            "registered": "Nov 25, 2025, 3:17:45 PM",
+            "role_id": 38174107413523815,
+            "server_region": "ws-america-01"
+        },
         "38174107413523892": {
             "crew_history": [
                 "Stray"
@@ -31719,6 +31744,29 @@
             "role_id": 38174107413584387,
             "server_region": "ws-america-01"
         },
+        "38174107413584397": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40410.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -83633.4375,
+                "y": 86667.6484375,
+                "z": -4203.81005859375
+            },
+            "last_seen": "Feb 28, 2026, 5:30:44 PM",
+            "level": 10,
+            "name": "Madalyn",
+            "name_history": [
+                "Madalyn"
+            ],
+            "registered": "Feb 28, 2026, 9:56:46 AM",
+            "role_id": 38174107413584397,
+            "server_region": "ws-america-01"
+        },
         "38174107413584418": {
             "crew_history": [],
             "crew_id": 0,
@@ -31740,6 +31788,29 @@
             ],
             "registered": "Feb 28, 2026, 2:11:41 PM",
             "role_id": 38174107413584418,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584435": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79633.640625,
+                "y": 76213.1796875,
+                "z": -10078.248046875
+            },
+            "last_seen": "Feb 28, 2026, 5:30:44 PM",
+            "level": 4,
+            "name": "ODafina",
+            "name_history": [
+                "ODafina"
+            ],
+            "registered": "Feb 28, 2026, 5:00:39 PM",
+            "role_id": 38174107413584435,
             "server_region": "ws-america-01"
         },
         "38174107413584437": {
@@ -31766,7 +31837,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1734,
-    "last_updated": "Feb 28, 2026, 5:28:44 PM",
+    "accounts_total": 1737,
+    "last_updated": "Feb 28, 2026, 5:30:44 PM",
     "server_region": "ws-america-01"
 }
