@@ -9325,14 +9325,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695854800": {
-            "crew_id": 55834589652,
-            "crew_name": "镜花堂",
-            "equipping_title": "听雨朩的导师,0",
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 573443.1875,
-            "last_seen": "2025年10月18日 下午 3:25:38",
-            "level": 61,
+            "hp": 1405458.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77666.0,
+                "y": 61854.0,
+                "z": -8089.58984375
+            },
+            "last_seen": "2026年2月28日 下午8:46:29",
+            "level": 85,
             "name": "薄荷猫猫",
+            "name_history": [
+                "薄荷猫猫"
+            ],
             "registered": "2025年9月25日 下午7:01:40",
             "role_id": 63582695854800,
             "server_region": "cosmic-fold"
@@ -32511,14 +32523,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_7_0_21",
             "gender": 1,
-            "hp": 1588674.0,
+            "hp": 1594433.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -77107.9921875,
-                "y": 73642.5234375,
-                "z": -9511.947265625
+                "x": -82483.46875,
+                "y": 66594.5703125,
+                "z": -8341.8994140625
             },
-            "last_seen": "2026年2月26日 下午11:28:37",
+            "last_seen": "2026年2月28日 下午8:46:29",
             "level": 85,
             "name": "卟卟",
             "name_history": [
@@ -54712,13 +54724,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695950859": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_075_World;77",
             "gender": 1,
-            "hp": 2288357.25,
-            "last_seen": "2026年2月8日 下午8:51:28",
-            "level": 82,
+            "hp": 1514051.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -89793.7578125,
+                "y": 96184.671875,
+                "z": -1380.43994140625
+            },
+            "last_seen": "2026年2月28日 下午8:46:29",
+            "level": 85,
             "name": "乱世佳人.",
             "name_history": [
                 "乱世佳人."
@@ -75559,6 +75580,29 @@
             "role_id": 63582696012057,
             "server_region": "cosmic-fold"
         },
+        "63582696012257": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74812.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93651.109375,
+                "y": 77571.03125,
+                "z": -7067.7099609375
+            },
+            "last_seen": "2026年2月28日 下午8:46:29",
+            "level": 23,
+            "name": "离靈",
+            "name_history": [
+                "离靈"
+            ],
+            "registered": "2026年2月28日 下午4:08:04",
+            "role_id": 63582696012257,
+            "server_region": "cosmic-fold"
+        },
         "63582696012435": {
             "crew_history": [],
             "crew_id": 0,
@@ -75629,7 +75673,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5194,
-    "last_updated": "2026年2月28日 下午8:45:28",
+    "accounts_total": 5195,
+    "last_updated": "2026年2月28日 下午8:46:29",
     "server_region": "cosmic-fold"
 }
