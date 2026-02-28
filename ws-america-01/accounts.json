@@ -29579,20 +29579,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413582928": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;63",
             "gender": 1,
-            "hp": 66838.125,
+            "hp": 298528.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -74079.4375,
-                "y": 48416.19921875,
-                "z": -12292.3896484375
+                "x": -91909.4375,
+                "y": 75609.8046875,
+                "z": -7040.23779296875
             },
-            "last_seen": "Feb 17, 2026, 3:40:16 AM",
-            "level": 20,
+            "last_seen": "Feb 27, 2026, 7:20:30 PM",
+            "level": 73,
             "name": "UncoverDresse",
             "name_history": [
                 "UncoverDresse"
@@ -31097,6 +31099,29 @@
             "role_id": 38174107413584306,
             "server_region": "ws-america-01"
         },
+        "38174107413584309": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91898.09375,
+                "y": 85417.46875,
+                "z": -6887.89990234375
+            },
+            "last_seen": "Feb 27, 2026, 7:20:30 PM",
+            "level": 4,
+            "name": "Julifer",
+            "name_history": [
+                "Julifer"
+            ],
+            "registered": "Feb 27, 2026, 5:29:34 PM",
+            "role_id": 38174107413584309,
+            "server_region": "ws-america-01"
+        },
         "38174107413584310": {
             "crew_history": [],
             "crew_id": 0,
@@ -31142,9 +31167,32 @@
             "registered": "Feb 27, 2026, 5:46:55 PM",
             "role_id": 38174107413584311,
             "server_region": "ws-america-01"
+        },
+        "38174107413584312": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26588.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99490.1015625,
+                "y": 80517.90625,
+                "z": -4991.283203125
+            },
+            "last_seen": "Feb 27, 2026, 7:20:30 PM",
+            "level": 9,
+            "name": "Kapri",
+            "name_history": [
+                "Kapri"
+            ],
+            "registered": "Feb 27, 2026, 6:02:30 PM",
+            "role_id": 38174107413584312,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1710,
-    "last_updated": "Feb 27, 2026, 6:18:48 PM",
+    "accounts_total": 1712,
+    "last_updated": "Feb 27, 2026, 7:20:30 PM",
     "server_region": "ws-america-01"
 }
