@@ -811,17 +811,18 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 1522990.0,
+            "hp": 1583386.375,
             "last_known_position": {
-                "map": "city",
-                "x": 487.05999755859375,
-                "y": -24389.978515625,
-                "z": 96730.875
+                "map": "QRSL_P",
+                "x": -91714.015625,
+                "y": 77249.859375,
+                "z": -7054.65966796875
             },
-            "last_seen": "2026年2月26日 上午2:44:54",
-            "level": 84,
-            "name": "森亚露露卡",
+            "last_seen": "2026年2月28日 下午8:40:28",
+            "level": 85,
+            "name": "爱丽丝克罗蒂亚",
             "name_history": [
+                "爱丽丝克罗蒂亚",
                 "森亚露露卡",
                 "爱丽丝克萝蒂亚",
                 "爱丽丝·利德尔"
@@ -73210,6 +73211,29 @@
             "role_id": 63582696008623,
             "server_region": "cosmic-fold"
         },
+        "63582696008741": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 17123.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77679.3359375,
+                "y": 77252.4609375,
+                "z": -9870.5693359375
+            },
+            "last_seen": "2026年2月28日 下午8:40:28",
+            "level": 8,
+            "name": "炒炒币",
+            "name_history": [
+                "炒炒币"
+            ],
+            "registered": "2026年2月22日 下午6:39:30",
+            "role_id": 63582696008741,
+            "server_region": "cosmic-fold"
+        },
         "63582696008748": {
             "crew_history": [],
             "crew_id": 0,
@@ -75404,9 +75428,55 @@
             "registered": "2026年2月26日 下午11:15:19",
             "role_id": 63582696011001,
             "server_region": "cosmic-fold"
+        },
+        "63582696011127": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 101992.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98315.296875,
+                "y": 80136.296875,
+                "z": -5238.0048828125
+            },
+            "last_seen": "2026年2月28日 下午8:40:28",
+            "level": 39,
+            "name": "离念信安",
+            "name_history": [
+                "离念信安"
+            ],
+            "registered": "2026年2月27日 上午8:54:25",
+            "role_id": 63582696011127,
+            "server_region": "cosmic-fold"
+        },
+        "63582696011826": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 48557.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -68503.328125,
+                "y": 61978.45703125,
+                "z": -5262.64990234375
+            },
+            "last_seen": "2026年2月28日 下午8:40:28",
+            "level": 18,
+            "name": "刀厌",
+            "name_history": [
+                "刀厌"
+            ],
+            "registered": "2026年2月27日 下午10:56:07",
+            "role_id": 63582696011826,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5185,
-    "last_updated": "2026年2月28日 下午8:39:28",
+    "accounts_total": 5188,
+    "last_updated": "2026年2月28日 下午8:40:28",
     "server_region": "cosmic-fold"
 }
