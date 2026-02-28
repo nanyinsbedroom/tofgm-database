@@ -13292,15 +13292,15 @@
             "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1137885.0,
+            "hp": 1171739.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1357.6671142578125,
-                "y": -28250.0390625,
-                "z": 97879.6171875
+                "map": "QRSL_P",
+                "x": -64596.09765625,
+                "y": 105880.5,
+                "z": -7177.27783203125
             },
-            "last_seen": "2026年2月17日 下午9:33:34",
-            "level": 82,
+            "last_seen": "2026年2月28日 下午11:09:58",
+            "level": 83,
             "name": "蔷薇",
             "name_history": [
                 "蔷薇"
@@ -32529,6 +32529,31 @@
             "name": "猫のように",
             "registered": "2025年9月27日 下午12:13:41",
             "role_id": 63582695876931,
+            "server_region": "cosmic-fold"
+        },
+        "63582695876940": {
+            "crew_history": [
+                "暖暖会"
+            ],
+            "crew_id": 25769818580,
+            "crew_name": "暖暖会",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 1142564.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -41771.98828125,
+                "y": 90672.7265625,
+                "z": -13226.76953125
+            },
+            "last_seen": "2026年2月28日 下午11:09:58",
+            "level": 83,
+            "name": "雪写の逆行诗",
+            "name_history": [
+                "雪写の逆行诗"
+            ],
+            "registered": "2025年9月27日 下午12:15:03",
+            "role_id": 63582695876940,
             "server_region": "cosmic-fold"
         },
         "63582695876949": {
@@ -55384,6 +55409,31 @@
             "role_id": 63582695951775,
             "server_region": "cosmic-fold"
         },
+        "63582695951815": {
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "謧詍的学徒,0",
+            "gender": 1,
+            "hp": 812899.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59032.359375,
+                "y": 104677.3359375,
+                "z": -12923.9794921875
+            },
+            "last_seen": "2026年2月28日 下午11:09:58",
+            "level": 84,
+            "name": "謧",
+            "name_history": [
+                "謧"
+            ],
+            "registered": "2025年11月3日 下午1:38:35",
+            "role_id": 63582695951815,
+            "server_region": "cosmic-fold"
+        },
         "63582695952031": {
             "crew_id": 0,
             "crew_name": "",
@@ -71829,14 +71879,14 @@
             "crew_name": "暖暖会",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1714286.0,
+            "hp": 468420.28125,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 98092.78125,
-                "y": -189816.21875,
-                "z": -7924.43994140625
+                "map": "QRSL_P",
+                "x": -43927.6796875,
+                "y": 82989.9765625,
+                "z": -13541.9794921875
             },
-            "last_seen": "2026年2月28日 下午9:28:53",
+            "last_seen": "2026年2月28日 下午11:09:58",
             "level": 85,
             "name": "大圣武",
             "name_history": [
@@ -76323,6 +76373,29 @@
             "role_id": 63582696010985,
             "server_region": "cosmic-fold"
         },
+        "63582696010996": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 108811.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58454.09765625,
+                "y": 104632.296875,
+                "z": -12940.5400390625
+            },
+            "last_seen": "2026年2月28日 下午11:09:58",
+            "level": 43,
+            "name": "星枚",
+            "name_history": [
+                "星枚"
+            ],
+            "registered": "2026年2月26日 下午11:09:20",
+            "role_id": 63582696010996,
+            "server_region": "cosmic-fold"
+        },
         "63582696011000": {
             "crew_history": [],
             "crew_id": 0,
@@ -76898,6 +76971,29 @@
             "role_id": 63582696012620,
             "server_region": "cosmic-fold"
         },
+        "63582696012621": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 23571.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -46083.48046875,
+                "y": 89815.515625,
+                "z": -13440.4794921875
+            },
+            "last_seen": "2026年2月28日 下午11:09:58",
+            "level": 7,
+            "name": "虫君",
+            "name_history": [
+                "虫君"
+            ],
+            "registered": "2026年2月28日 下午10:37:15",
+            "role_id": 63582696012621,
+            "server_region": "cosmic-fold"
+        },
         "63582696012635": {
             "crew_history": [],
             "crew_id": 0,
@@ -76922,7 +77018,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5233,
-    "last_updated": "2026年2月28日 下午11:08:58",
+    "accounts_total": 5237,
+    "last_updated": "2026年2月28日 下午11:09:58",
     "server_region": "cosmic-fold"
 }
