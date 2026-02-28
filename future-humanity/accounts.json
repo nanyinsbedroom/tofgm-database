@@ -11152,14 +11152,14 @@
             "crew_name": "无名录",
             "equipping_title": "3_2025",
             "gender": 1,
-            "hp": 1677022.125,
+            "hp": 1679598.75,
             "last_known_position": {
-                "map": "city",
-                "x": 143.52999877929688,
-                "y": -19595.37890625,
-                "z": 96329.5390625
+                "map": "QRSL_P",
+                "x": -55201.98828125,
+                "y": -86863.9375,
+                "z": 21710.990234375
             },
-            "last_seen": "2026年2月23日 下午4:22:26",
+            "last_seen": "2026年2月28日 下午4:18:50",
             "level": 100,
             "name": "水风凉",
             "name_history": [
@@ -20104,12 +20104,21 @@
             "server_region": "future-humanity"
         },
         "61452392113691": {
+            "crew_history": [
+                "群玉阁"
+            ],
             "crew_id": 317827594005,
             "crew_name": "群玉阁",
-            "equipping_title": "1_6_2_3",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1513609.875,
-            "last_seen": "2025年11月25日 上午 2:52:13",
+            "hp": 1541539.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54032.5703125,
+                "y": -88056.40625,
+                "z": 21839.013671875
+            },
+            "last_seen": "2026年2月28日 下午4:18:50",
             "level": 100,
             "name": "治愈球",
             "name_history": [
@@ -22325,6 +22334,6 @@
         }
     },
     "accounts_total": 1036,
-    "last_updated": "2026年2月28日 下午4:17:50",
+    "last_updated": "2026年2月28日 下午4:18:50",
     "server_region": "future-humanity"
 }
