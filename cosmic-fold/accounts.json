@@ -1624,14 +1624,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1493710.875,
+            "hp": 1641483.5,
             "last_known_position": {
-                "map": "void001_D",
-                "x": -127.55999755859375,
-                "y": -669.8800048828125,
-                "z": 2682.849853515625
+                "map": "FinalTest_D",
+                "x": -532.3829345703125,
+                "y": 404.25006103515625,
+                "z": 1026.8338623046875
             },
-            "last_seen": "2026年2月28日 下午8:41:28",
+            "last_seen": "2026年2月28日 下午9:47:43",
             "level": 85,
             "name": "Sussy",
             "name_history": [
@@ -14748,15 +14748,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695858534": {
+            "crew_history": [
+                "NOVA学院"
+            ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
-            "equipping_title": "WorldBossDamage_3;boss_hum_079_world;11",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 196903.53125,
-            "last_seen": "2025年12月11日 上午 9:01:18",
-            "level": 74,
-            "name": "桜",
+            "hp": 1457524.25,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 131.44668579101563,
+                "y": -323.30194091796875,
+                "z": 944.7899780273438
+            },
+            "last_seen": "2026年2月28日 下午9:47:43",
+            "level": 85,
+            "name": "魔法批风",
             "name_history": [
+                "魔法批风",
                 "桜"
             ],
             "registered": "2025年9月25日 下午8:14:05",
@@ -21752,14 +21762,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2820303.25,
+            "hp": 0.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 95234.2265625,
-                "y": -191641.4375,
-                "z": -7751.69970703125
+                "map": "FinalTest_D",
+                "x": 402.5,
+                "y": 761.8800048828125,
+                "z": 967.699951171875
             },
-            "last_seen": "2026年2月28日 下午9:29:54",
+            "last_seen": "2026年2月28日 下午9:47:43",
             "level": 85,
             "name": "gateoo",
             "name_history": [
@@ -40015,14 +40025,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_10_1_8_1_1",
             "gender": 1,
-            "hp": 1504547.0,
+            "hp": 1514300.5,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -35725.38671875,
-                "y": 3499.35498046875,
-                "z": -13802.83984375
+                "map": "FinalTest_D",
+                "x": 465.3799743652344,
+                "y": -487.3499755859375,
+                "z": 953.1099853515625
             },
-            "last_seen": "2026年2月28日 下午8:31:28",
+            "last_seen": "2026年2月28日 下午9:47:43",
             "level": 84,
             "name": "牧俗",
             "name_history": [
@@ -42527,14 +42537,14 @@
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1489229.625,
+            "hp": 32235.18359375,
             "last_known_position": {
-                "map": "city",
-                "x": 786.16796875,
-                "y": -22521.357421875,
-                "z": 96717.6484375
+                "map": "FinalTest_D",
+                "x": -354.55999755859375,
+                "y": -107.14999389648438,
+                "z": 954.97998046875
             },
-            "last_seen": "2026年2月28日 下午8:54:29",
+            "last_seen": "2026年2月28日 下午9:47:43",
             "level": 84,
             "name": "七丶Fi",
             "name_history": [
@@ -76179,6 +76189,6 @@
         }
     },
     "accounts_total": 5209,
-    "last_updated": "2026年2月28日 下午9:46:43",
+    "last_updated": "2026年2月28日 下午9:47:43",
     "server_region": "cosmic-fold"
 }
