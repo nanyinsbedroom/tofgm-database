@@ -1800,15 +1800,15 @@
             "crew_name": "Sovereign",
             "equipping_title": "Sleepy's Mentor,0",
             "gender": 0,
-            "hp": 1094427.375,
+            "hp": 1152590.5,
             "last_known_position": {
                 "map": "city",
-                "x": 843.2899780273438,
-                "y": -27502.5703125,
-                "z": 96706.9453125
+                "x": 42.89999771118164,
+                "y": -17424.310546875,
+                "z": 96343.78125
             },
-            "last_seen": "Feb 23, 2026, 10:55:48 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:31:30 PM",
+            "level": 77,
             "name": "ⓑⓡⓤⓤⓗ",
             "name_history": [
                 "ⓑⓡⓤⓤⓗ"
@@ -4290,15 +4290,15 @@
             "crew_name": "Sovereign",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1038635.3125,
+            "hp": 1195752.125,
             "last_known_position": {
                 "map": "city",
-                "x": 741.719970703125,
-                "y": -27985.2890625,
-                "z": 97924.6640625
+                "x": -1957.510009765625,
+                "y": -25950.888671875,
+                "z": 96741.3203125
             },
-            "last_seen": "Feb 18, 2026, 10:22:27 PM",
-            "level": 74,
+            "last_seen": "Feb 27, 2026, 7:31:30 PM",
+            "level": 77,
             "name": "Tenebra",
             "name_history": [
                 "Tenebra"
@@ -26078,13 +26078,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413578967": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 988100.4375,
-            "last_seen": "Feb 11, 2026, 2:16:27 PM",
-            "level": 75,
+            "hp": 1136502.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 412.6399841308594,
+                "y": -24638.900390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 27, 2026, 7:31:30 PM",
+            "level": 77,
             "name": "Dark Crow",
             "name_history": [
                 "Dark Crow"
@@ -31344,6 +31353,6 @@
         }
     },
     "accounts_total": 1718,
-    "last_updated": "Feb 27, 2026, 7:29:30 PM",
+    "last_updated": "Feb 27, 2026, 7:31:30 PM",
     "server_region": "ws-america-01"
 }
