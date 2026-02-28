@@ -5734,6 +5734,31 @@
             "role_id": 38174107413515130,
             "server_region": "ws-america-01"
         },
+        "38174107413515143": {
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1135987.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -86638.96875,
+                "y": 74689.4296875,
+                "z": -8020.509765625
+            },
+            "last_seen": "Feb 27, 2026, 7:43:31 PM",
+            "level": 77,
+            "name": "Vinwind.",
+            "name_history": [
+                "Vinwind."
+            ],
+            "registered": "Nov 25, 2025, 5:42:41 AM",
+            "role_id": 38174107413515143,
+            "server_region": "ws-america-01"
+        },
         "38174107413515156": {
             "crew_id": 184692481830,
             "crew_name": "Stray",
@@ -31472,9 +31497,32 @@
             "registered": "Feb 27, 2026, 6:20:58 PM",
             "role_id": 38174107413584316,
             "server_region": "ws-america-01"
+        },
+        "38174107413584319": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97951.328125,
+                "y": 80468.25,
+                "z": -5274.759765625
+            },
+            "last_seen": "Feb 27, 2026, 7:43:31 PM",
+            "level": 2,
+            "name": "Giigii",
+            "name_history": [
+                "Giigii"
+            ],
+            "registered": "Feb 27, 2026, 7:34:53 PM",
+            "role_id": 38174107413584319,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1723,
-    "last_updated": "Feb 27, 2026, 7:42:31 PM",
+    "accounts_total": 1725,
+    "last_updated": "Feb 27, 2026, 7:43:31 PM",
     "server_region": "ws-america-01"
 }
