@@ -829,13 +829,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512382": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 63811.0,
-            "last_seen": "Nov 25, 2025, 05:52:09 PM",
-            "level": 14,
+            "hp": 1033599.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73161.6015625,
+                "y": 46124.91015625,
+                "z": -12790.080078125
+            },
+            "last_seen": "Feb 28, 2026, 5:33:44 PM",
+            "level": 76,
             "name": "SgtLasagna",
             "name_history": [
                 "SgtLasagna"
@@ -17097,14 +17106,14 @@
             "crew_name": "Haneul",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 967533.4375,
+            "hp": 967040.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72849.2890625,
-                "y": 49101.828125,
-                "z": -12307.33984375
+                "x": -72371.5703125,
+                "y": 50173.6796875,
+                "z": -12329.8525390625
             },
-            "last_seen": "Feb 27, 2026, 6:18:48 PM",
+            "last_seen": "Feb 28, 2026, 5:33:44 PM",
             "level": 77,
             "name": "​Sheol",
             "name_history": [
@@ -31957,6 +31966,6 @@
         }
     },
     "accounts_total": 1742,
-    "last_updated": "Feb 28, 2026, 5:32:44 PM",
+    "last_updated": "Feb 28, 2026, 5:33:44 PM",
     "server_region": "ws-america-01"
 }
