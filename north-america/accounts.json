@@ -33,12 +33,21 @@
             "server_region": "north-america"
         },
         "51543902524627": {
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
             "crew_id": 2637109931749,
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "1_4_1_1",
             "gender": 1,
-            "hp": 3020237.25,
-            "last_seen": "Jan 20, 2026, 09:28:52 PM",
+            "hp": 3579524.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7719.94970703125,
+                "y": 61461.62890625,
+                "z": 40605.4609375
+            },
+            "last_seen": "Feb 28, 2026, 5:17:13 PM",
             "level": 100,
             "name": "★SO7SF★Rain.n♡",
             "name_history": [
@@ -725,12 +734,21 @@
             "server_region": "north-america"
         },
         "51552492457637": {
-            "crew_id": 962072686307,
-            "crew_name": "Hololive ES",
-            "equipping_title": "3_2022",
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 6158983114473,
+            "crew_name": "Michi Pizzería",
+            "equipping_title": "Title_Galaxy_os01",
             "gender": 0,
-            "hp": 2598596.0,
-            "last_seen": "Nov 02, 2025, 05:08:33 AM",
+            "hp": 3144393.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -11413.83984375,
+                "y": 54958.16015625,
+                "z": 48821.1875
+            },
+            "last_seen": "Feb 28, 2026, 5:17:13 PM",
             "level": 100,
             "name": "Shadic-UI",
             "name_history": [
@@ -7603,6 +7621,31 @@
             "role_id": 51629802315859,
             "server_region": "north-america"
         },
+        "51629802316562": {
+            "crew_history": [
+                "Tower of Heroes"
+            ],
+            "crew_id": 6227702591201,
+            "crew_name": "Tower of Heroes",
+            "equipping_title": "2_2_0_77",
+            "gender": 1,
+            "hp": 1186831.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": 4036.530029296875,
+                "y": 60216.46875,
+                "z": 39377.828125
+            },
+            "last_seen": "Feb 28, 2026, 5:17:13 PM",
+            "level": 91,
+            "name": "Mama_Snow",
+            "name_history": [
+                "Mama_Snow"
+            ],
+            "registered": "May 12, 2025, 6:25:54 PM",
+            "role_id": 51629802316562,
+            "server_region": "north-america"
+        },
         "51629802318690": {
             "crew_id": 3633542344423,
             "crew_name": "EverꙞgaꙞrꙞden",
@@ -12045,7 +12088,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 851,
-    "last_updated": "Feb 28, 2026, 5:16:12 PM",
+    "accounts_total": 852,
+    "last_updated": "Feb 28, 2026, 5:17:13 PM",
     "server_region": "north-america"
 }
