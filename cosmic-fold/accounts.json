@@ -39637,13 +39637,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695901246": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "2_10_1_10",
+            "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 1210150.5,
-            "last_seen": "2026年2月10日 下午10:01:00",
-            "level": 82,
+            "hp": 2768243.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100109.3046875,
+                "y": -169989.40625,
+                "z": -4088.481689453125
+            },
+            "last_seen": "2026年2月28日 下午9:08:30",
+            "level": 84,
             "name": "㷠",
             "name_history": [
                 "㷠"
@@ -49649,15 +49658,15 @@
             "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2263560.75,
+            "hp": 2833310.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324928.3125,
-                "y": 203781.234375,
-                "z": -28327.3203125
+                "map": "Kailo_P_003",
+                "x": 106985.96875,
+                "y": -183807.21875,
+                "z": -5360.55322265625
             },
-            "last_seen": "2026年2月14日 下午8:43:56",
-            "level": 83,
+            "last_seen": "2026年2月28日 下午9:08:30",
+            "level": 85,
             "name": "小熊丶保安",
             "name_history": [
                 "小熊丶保安"
@@ -75982,6 +75991,6 @@
         }
     },
     "accounts_total": 5203,
-    "last_updated": "2026年2月28日 下午9:02:29",
+    "last_updated": "2026年2月28日 下午9:08:30",
     "server_region": "cosmic-fold"
 }
