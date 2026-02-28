@@ -10354,12 +10354,21 @@
             "server_region": "visser-aida"
         },
         "60657823134609": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 266287986476,
             "crew_name": "星奈海",
             "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 2206562.25,
-            "last_seen": "2026年2月12日 下午10:40:59",
+            "hp": 2216576.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 789.6499633789063,
+                "y": -15708.859375,
+                "z": 96344.5390625
+            },
+            "last_seen": "2026年2月28日 下午11:21:59",
             "level": 100,
             "name": "卷卷鳕",
             "name_history": [
@@ -20617,6 +20626,6 @@
         }
     },
     "accounts_total": 1239,
-    "last_updated": "2026年2月28日 下午11:17:58",
+    "last_updated": "2026年2月28日 下午11:21:59",
     "server_region": "visser-aida"
 }
