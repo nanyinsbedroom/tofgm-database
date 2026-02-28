@@ -3454,12 +3454,21 @@
             "server_region": "ark-calculus"
         },
         "62285617254873": {
-            "crew_id": 128849033286,
-            "crew_name": "推荐",
-            "equipping_title": "2_2_0_18",
+            "crew_history": [
+                "白丝猫耳娘"
+            ],
+            "crew_id": 4294981806,
+            "crew_name": "白丝猫耳娘",
+            "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1815266.375,
-            "last_seen": "2026年02月04日 上午 3:25:24",
+            "hp": 1877396.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21714.048828125
+            },
+            "last_seen": "2026年2月28日 下午8:08:26",
             "level": 100,
             "name": "安莲",
             "name_history": [
@@ -6293,6 +6302,31 @@
             "role_id": 62298500647983,
             "server_region": "ark-calculus"
         },
+        "62298500651481": {
+            "crew_history": [
+                "樱花庄"
+            ],
+            "crew_id": 34359752873,
+            "crew_name": "樱花庄",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1593045.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54352.6171875,
+                "y": -87307.734375,
+                "z": 21933.2890625
+            },
+            "last_seen": "2026年2月28日 下午8:08:26",
+            "level": 100,
+            "name": "幻萌",
+            "name_history": [
+                "幻萌"
+            ],
+            "registered": "2021年12月16日 下午5:32:02",
+            "role_id": 62298500651481,
+            "server_region": "ark-calculus"
+        },
         "62302795599894": {
             "crew_history": [
                 "守望者联盟"
@@ -7938,14 +7972,14 @@
             "crew_name": "花海幼儿园",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1887976.5,
+            "hp": 1827387.625,
             "last_known_position": {
-                "map": "city",
-                "x": 764.9199829101563,
-                "y": -16862.859375,
-                "z": 96350.28125
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
             },
-            "last_seen": "2026年2月22日 下午8:34:41",
+            "last_seen": "2026年2月28日 下午8:08:26",
             "level": 100,
             "name": "适格者001",
             "name_history": [
@@ -15524,14 +15558,14 @@
             "crew_name": "记录の地平线",
             "equipping_title": "4_2023",
             "gender": 0,
-            "hp": 1806163.375,
+            "hp": 1739807.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54157.2578125,
-                "y": -88097.6171875,
-                "z": 21717.548828125
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
             },
-            "last_seen": "2026年2月17日 下午8:08:08",
+            "last_seen": "2026年2月28日 下午8:08:26",
             "level": 100,
             "name": "青龙、篁",
             "name_history": [
@@ -18917,7 +18951,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 917,
-    "last_updated": "2026年2月28日 下午8:07:26",
+    "accounts_total": 918,
+    "last_updated": "2026年2月28日 下午8:08:26",
     "server_region": "ark-calculus"
 }
