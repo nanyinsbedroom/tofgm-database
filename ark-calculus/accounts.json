@@ -2411,12 +2411,21 @@
             "server_region": "ark-calculus"
         },
         "62281320791644": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 1297080137893,
             "crew_name": "七宫",
             "equipping_title": "若叶睦的学徒,0",
             "gender": 1,
-            "hp": 2099683.25,
-            "last_seen": "2025年11月25日 上午 1:28:15",
+            "hp": 2216362.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55436.8671875,
+                "y": -88797.828125,
+                "z": 21730.099609375
+            },
+            "last_seen": "2026年2月28日 下午8:23:27",
             "level": 100,
             "name": "梓娅",
             "name_history": [
@@ -6424,6 +6433,31 @@
             ],
             "registered": "2021年12月19日 上午12:40:17",
             "role_id": 62294205700925,
+            "server_region": "ark-calculus"
+        },
+        "62294205711003": {
+            "crew_history": [
+                "破晓"
+            ],
+            "crew_id": 68719491341,
+            "crew_name": "破晓",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2281175.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53731.609375,
+                "y": -87895.9765625,
+                "z": 21722.8203125
+            },
+            "last_seen": "2026年2月28日 下午8:23:27",
+            "level": 100,
+            "name": "妹妹的大白",
+            "name_history": [
+                "妹妹的大白"
+            ],
+            "registered": "2021年12月31日 上午3:25:08",
+            "role_id": 62294205711003,
             "server_region": "ark-calculus"
         },
         "62294205712204": {
@@ -19544,7 +19578,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 941,
-    "last_updated": "2026年2月28日 下午8:21:27",
+    "accounts_total": 942,
+    "last_updated": "2026年2月28日 下午8:23:27",
     "server_region": "ark-calculus"
 }
