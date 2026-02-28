@@ -1001,11 +1001,26 @@
             "server_region": "visser-aida"
         },
         "60567629882215": {
+            "crew_history": [
+                "星语星愿"
+            ],
             "crew_id": 481036351254,
             "crew_name": "星语星愿",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "2025年10月05日 下午 1:30:10",
+            "hp": 1513755.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 169.6673583984375,
+                "y": -16776.306640625,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年2月28日 下午11:45:29",
+            "level": 100,
             "name": "秦始皇莱蒙",
+            "name_history": [
+                "秦始皇莱蒙"
+            ],
             "registered": "2023年2月7日 上午4:45:47",
             "role_id": 60567629882215,
             "server_region": "visser-aida"
@@ -9046,6 +9061,31 @@
             ],
             "registered": "2021年12月18日 下午2:52:30",
             "role_id": 60623463418066,
+            "server_region": "visser-aida"
+        },
+        "60623463423408": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 266287986476,
+            "crew_name": "星奈海",
+            "equipping_title": "1_2021",
+            "gender": 1,
+            "hp": 1920951.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 284.67999267578125,
+                "y": -16518.98046875,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年2月28日 下午11:45:29",
+            "level": 100,
+            "name": "添财间谍",
+            "name_history": [
+                "添财间谍"
+            ],
+            "registered": "2021年12月20日 下午10:38:32",
+            "role_id": 60623463423408,
             "server_region": "visser-aida"
         },
         "60623463443892": {
@@ -20745,7 +20785,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1242,
-    "last_updated": "2026年2月28日 下午11:43:29",
+    "accounts_total": 1243,
+    "last_updated": "2026年2月28日 下午11:45:29",
     "server_region": "visser-aida"
 }
