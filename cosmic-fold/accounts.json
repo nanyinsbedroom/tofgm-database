@@ -40186,12 +40186,12 @@
             "gender": 1,
             "hp": 1472291.5,
             "last_known_position": {
-                "map": "city",
-                "x": -1961.1099853515625,
-                "y": -24333.330078125,
-                "z": 97865.8359375
+                "map": "QRSL_P",
+                "x": -97909.9375,
+                "y": 80292.8046875,
+                "z": -5281.0498046875
             },
-            "last_seen": "2026年2月28日 下午10:10:03",
+            "last_seen": "2026年2月28日 下午11:07:58",
             "level": 85,
             "name": "菲洛嘉",
             "name_history": [
@@ -76415,6 +76415,29 @@
             "role_id": 63582696011242,
             "server_region": "cosmic-fold"
         },
+        "63582696011384": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26804.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.6640625,
+                "y": 75609.828125,
+                "z": -7046.2275390625
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 9,
+            "name": "镇星",
+            "name_history": [
+                "镇星"
+            ],
+            "registered": "2026年2月27日 下午2:44:58",
+            "role_id": 63582696011384,
+            "server_region": "cosmic-fold"
+        },
         "63582696011556": {
             "crew_history": [],
             "crew_id": 0,
@@ -76736,9 +76759,124 @@
             "registered": "2026年2月28日 下午8:39:52",
             "role_id": 63582696012515,
             "server_region": "cosmic-fold"
+        },
+        "63582696012588": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 34765.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -69942.171875,
+                "y": 53869.890625,
+                "z": -9375.2998046875
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 10,
+            "name": "你好特别",
+            "name_history": [
+                "你好特别"
+            ],
+            "registered": "2026年2月28日 下午9:57:00",
+            "role_id": 63582696012588,
+            "server_region": "cosmic-fold"
+        },
+        "63582696012612": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 22065.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91920.6640625,
+                "y": 75642.3515625,
+                "z": -7032.8076171875
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 7,
+            "name": "一个小馋猫。",
+            "name_history": [
+                "一个小馋猫。"
+            ],
+            "registered": "2026年2月28日 下午10:25:21",
+            "role_id": 63582696012612,
+            "server_region": "cosmic-fold"
+        },
+        "63582696012616": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19668.0859375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82122.6875,
+                "y": 78487.484375,
+                "z": -10033.4794921875
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 5,
+            "name": "兔狲很低调",
+            "name_history": [
+                "兔狲很低调"
+            ],
+            "registered": "2026年2月28日 下午10:32:56",
+            "role_id": 63582696012616,
+            "server_region": "cosmic-fold"
+        },
+        "63582696012620": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90593.078125,
+                "y": 74725.171875,
+                "z": -7186.83984375
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 4,
+            "name": "泉兜部诗人",
+            "name_history": [
+                "泉兜部诗人"
+            ],
+            "registered": "2026年2月28日 下午10:35:50",
+            "role_id": 63582696012620,
+            "server_region": "cosmic-fold"
+        },
+        "63582696012635": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98745.3046875,
+                "y": 83975.8125,
+                "z": -5153.35595703125
+            },
+            "last_seen": "2026年2月28日 下午11:07:58",
+            "level": 2,
+            "name": "渡烟",
+            "name_history": [
+                "渡烟"
+            ],
+            "registered": "2026年2月28日 下午10:58:32",
+            "role_id": 63582696012635,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5225,
-    "last_updated": "2026年2月28日 下午10:06:58",
+    "accounts_total": 5231,
+    "last_updated": "2026年2月28日 下午11:07:58",
     "server_region": "cosmic-fold"
 }
