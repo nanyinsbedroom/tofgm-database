@@ -3556,13 +3556,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851498": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;80",
+            "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 1424157.0,
-            "last_seen": "2026年2月7日 下午5:20:39",
-            "level": 82,
+            "hp": 2811278.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 103170.078125,
+                "y": -193798.234375,
+                "z": -5068.759765625
+            },
+            "last_seen": "2026年2月28日 下午9:29:54",
+            "level": 85,
             "name": "起源35",
             "name_history": [
                 "起源35"
@@ -16441,14 +16450,14 @@
             "crew_name": "白露之歌",
             "equipping_title": "2_7_0_20",
             "gender": 1,
-            "hp": 1377750.5,
+            "hp": 2816438.75,
             "last_known_position": {
-                "map": "city",
-                "x": 1840.0699462890625,
-                "y": -28152.349609375,
-                "z": 96737.3359375
+                "map": "Kailo_P_003",
+                "x": 97129.625,
+                "y": -196702.234375,
+                "z": -2737.06982421875
             },
-            "last_seen": "2026年2月28日 下午8:34:28",
+            "last_seen": "2026年2月28日 下午9:29:54",
             "level": 85,
             "name": "画笔断墨",
             "name_history": [
@@ -21723,14 +21732,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1594762.375,
+            "hp": 2820303.25,
             "last_known_position": {
-                "map": "void001_D",
-                "x": 50.0,
-                "y": 0.0,
-                "z": 148.37998962402344
+                "map": "Kailo_P_003",
+                "x": 95234.2265625,
+                "y": -191641.4375,
+                "z": -7751.69970703125
             },
-            "last_seen": "2026年2月28日 下午8:41:28",
+            "last_seen": "2026年2月28日 下午9:29:54",
             "level": 85,
             "name": "gateoo",
             "name_history": [
@@ -56985,14 +56994,14 @@
             "crew_name": "快乐老家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 450968.84375,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1556.7999267578125,
-                "y": -27972.599609375,
-                "z": 97861.1171875
+                "map": "Kailo_P_003",
+                "x": 102539.140625,
+                "y": -180395.359375,
+                "z": -7737.328125
             },
-            "last_seen": "2026年2月28日 下午8:34:28",
+            "last_seen": "2026年2月28日 下午9:29:54",
             "level": 83,
             "name": "只会哈气",
             "name_history": [
@@ -76028,6 +76037,6 @@
         }
     },
     "accounts_total": 5204,
-    "last_updated": "2026年2月28日 下午9:28:53",
+    "last_updated": "2026年2月28日 下午9:29:54",
     "server_region": "cosmic-fold"
 }
