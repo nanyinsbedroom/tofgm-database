@@ -5011,11 +5011,11 @@
             "hp": 1615725.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1352.0,
-                "y": -28171.599609375,
-                "z": 97866.1171875
+                "x": 446.9100036621094,
+                "y": -22370.98046875,
+                "z": 96738.375
             },
-            "last_seen": "2026年2月28日 下午8:32:28",
+            "last_seen": "2026年2月28日 下午11:05:58",
             "level": 85,
             "name": "霧雨萌音",
             "name_history": [
@@ -59109,13 +59109,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695965361": {
+            "crew_history": [
+                "月歌行"
+            ],
             "crew_id": 128849033684,
             "crew_name": "月歌行",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1081220.0,
-            "last_seen": "2026年02月04日 上午 6:52:55",
-            "level": 79,
+            "hp": 1139957.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97877.1171875
+            },
+            "last_seen": "2026年2月28日 下午11:05:58",
+            "level": 83,
             "name": "难语",
             "name_history": [
                 "难语"
@@ -76698,6 +76707,6 @@
         }
     },
     "accounts_total": 5224,
-    "last_updated": "2026年2月28日 下午11:04:58",
+    "last_updated": "2026年2月28日 下午11:05:58",
     "server_region": "cosmic-fold"
 }
