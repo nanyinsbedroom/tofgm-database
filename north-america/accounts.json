@@ -177,12 +177,21 @@
             "server_region": "north-america"
         },
         "51543902609558": {
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
             "crew_id": 2637109931749,
             "crew_name": "♥︎ Coalition ♡",
-            "equipping_title": "Title_iwshare_os_24",
+            "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 2874169.0,
-            "last_seen": "Jan 02, 2026, 05:18:40 PM",
+            "hp": 3334520.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -7725.4599609375,
+                "y": 61293.0,
+                "z": 40612.4609375
+            },
+            "last_seen": "Feb 28, 2026, 5:16:12 PM",
             "level": 100,
             "name": "glitter",
             "name_history": [
@@ -12037,6 +12046,6 @@
         }
     },
     "accounts_total": 851,
-    "last_updated": "Feb 28, 2026, 5:13:12 PM",
+    "last_updated": "Feb 28, 2026, 5:16:12 PM",
     "server_region": "north-america"
 }
