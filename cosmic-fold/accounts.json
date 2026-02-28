@@ -72266,20 +72266,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696007901": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "2_2_0_48",
             "gender": 1,
-            "hp": 70269.0,
+            "hp": 2834250.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -84712.265625,
-                "y": 72416.2109375,
-                "z": -8428.71875
+                "map": "Kailo_P_003",
+                "x": 93347.8203125,
+                "y": -172372.59375,
+                "z": -4866.48974609375
             },
-            "last_seen": "2026年2月17日 上午2:33:17",
-            "level": 16,
+            "last_seen": "2026年2月28日 下午9:19:31",
+            "level": 73,
             "name": "旋转小火锅",
             "name_history": [
                 "旋转小火锅"
@@ -75991,6 +75993,6 @@
         }
     },
     "accounts_total": 5203,
-    "last_updated": "2026年2月28日 下午9:13:30",
+    "last_updated": "2026年2月28日 下午9:19:31",
     "server_region": "cosmic-fold"
 }
