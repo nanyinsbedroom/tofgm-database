@@ -19930,17 +19930,17 @@
             ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "WorldBossDamage_3;Boss_hum_065_world;17",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_014_world;30",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 1147093.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 100098.515625,
-                "y": -180879.5625,
-                "z": -7467.9697265625
+                "map": "QRSL_P",
+                "x": -78437.8984375,
+                "y": 77495.3671875,
+                "z": -9801.8994140625
             },
-            "last_seen": "Feb 18, 2026, 8:34:37 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 5:26:44 PM",
+            "level": 77,
             "name": "Kurum¥",
             "name_history": [
                 "Kurum¥"
@@ -27160,6 +27160,29 @@
             "role_id": 38174107413579787,
             "server_region": "ws-america-01"
         },
+        "38174107413579811": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 14390.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81347.359375,
+                "y": 79178.1484375,
+                "z": -9856.2998046875
+            },
+            "last_seen": "Feb 28, 2026, 5:26:44 PM",
+            "level": 20,
+            "name": "Izuka",
+            "name_history": [
+                "Izuka"
+            ],
+            "registered": "Jan 26, 2026, 9:28:10 PM",
+            "role_id": 38174107413579811,
+            "server_region": "ws-america-01"
+        },
         "38174107413579826": {
             "crew_id": 0,
             "crew_name": "",
@@ -31186,20 +31209,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413584154": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 22247.501953125,
+            "hp": 75016.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -52326.48828125,
-                "y": 103682.265625,
-                "z": -11895.26953125
+                "x": -80940.1875,
+                "y": 73641.9921875,
+                "z": -9518.5595703125
             },
-            "last_seen": "Feb 27, 2026, 6:14:48 PM",
-            "level": 10,
+            "last_seen": "Feb 28, 2026, 5:26:44 PM",
+            "level": 20,
             "name": "Neena",
             "name_history": [
                 "Neena"
@@ -31552,9 +31577,55 @@
             "registered": "Feb 27, 2026, 7:34:53 PM",
             "role_id": 38174107413584319,
             "server_region": "ws-america-01"
+        },
+        "38174107413584387": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 97817.4453125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81097.0,
+                "y": 81103.546875,
+                "z": -9752.830078125
+            },
+            "last_seen": "Feb 28, 2026, 5:26:44 PM",
+            "level": 21,
+            "name": "Pand0r4",
+            "name_history": [
+                "Pand0r4"
+            ],
+            "registered": "Feb 28, 2026, 7:29:59 AM",
+            "role_id": 38174107413584387,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584418": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 25941.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -76971.703125,
+                "y": 77782.9921875,
+                "z": -9804.853515625
+            },
+            "last_seen": "Feb 28, 2026, 5:26:44 PM",
+            "level": 8,
+            "name": "Luxordas",
+            "name_history": [
+                "Luxordas"
+            ],
+            "registered": "Feb 28, 2026, 2:11:41 PM",
+            "role_id": 38174107413584418,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1726,
-    "last_updated": "Feb 27, 2026, 7:44:31 PM",
+    "accounts_total": 1729,
+    "last_updated": "Feb 28, 2026, 5:26:44 PM",
     "server_region": "ws-america-01"
 }
