@@ -8348,13 +8348,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695853965": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_8_0_7",
             "gender": 1,
-            "hp": 1368645.875,
-            "last_seen": "2026年02月04日 上午 6:05:04",
-            "level": 81,
+            "hp": 2816713.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101176.1953125,
+                "y": -188685.921875,
+                "z": -7813.2822265625
+            },
+            "last_seen": "2026年2月28日 下午9:02:29",
+            "level": 85,
             "name": "伊泽瑞尔",
             "name_history": [
                 "伊泽瑞尔"
@@ -11824,15 +11833,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1531098.25,
+            "hp": 2838121.75,
             "last_known_position": {
-                "map": "city",
-                "x": -56.57999801635742,
-                "y": -23418.2890625,
-                "z": 96705.6953125
+                "map": "Kailo_P_003",
+                "x": 94058.484375,
+                "y": -188778.96875,
+                "z": -7601.39697265625
             },
-            "last_seen": "2026年2月15日 下午11:49:13",
-            "level": 83,
+            "last_seen": "2026年2月28日 下午9:02:29",
+            "level": 85,
             "name": "琉",
             "name_history": [
                 "琉"
@@ -26753,13 +26762,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695868410": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1427574.875,
-            "last_seen": "2026年2月6日 下午11:57:39",
-            "level": 82,
+            "hp": 2809381.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 103426.6953125,
+                "y": -172239.203125,
+                "z": -4646.47509765625
+            },
+            "last_seen": "2026年2月28日 下午9:02:29",
+            "level": 85,
             "name": "琳妮特",
             "name_history": [
                 "琳妮特"
@@ -49765,6 +49783,31 @@
             "name": "猪头在这里",
             "registered": "2025年10月15日 下午10:02:55",
             "role_id": 63582695929688,
+            "server_region": "cosmic-fold"
+        },
+        "63582695929703": {
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2798994.25,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106235.765625,
+                "y": -189107.640625,
+                "z": -5573.65966796875
+            },
+            "last_seen": "2026年2月28日 下午9:02:29",
+            "level": 84,
+            "name": "贝拉米",
+            "name_history": [
+                "贝拉米"
+            ],
+            "registered": "2025年10月15日 下午10:10:40",
+            "role_id": 63582695929703,
             "server_region": "cosmic-fold"
         },
         "63582695929705": {
@@ -73791,6 +73834,31 @@
             "role_id": 63582696009039,
             "server_region": "cosmic-fold"
         },
+        "63582696009058": {
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3431999.75,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 108058.71875,
+                "y": -189568.96875,
+                "z": -5083.35791015625
+            },
+            "last_seen": "2026年2月28日 下午9:02:29",
+            "level": 70,
+            "name": "華丽的冒险",
+            "name_history": [
+                "華丽的冒险"
+            ],
+            "registered": "2026年2月24日 下午4:06:55",
+            "role_id": 63582696009058,
+            "server_region": "cosmic-fold"
+        },
         "63582696009111": {
             "crew_history": [],
             "crew_id": 0,
@@ -75913,7 +75981,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5201,
-    "last_updated": "2026年2月28日 下午9:00:29",
+    "accounts_total": 5203,
+    "last_updated": "2026年2月28日 下午9:02:29",
     "server_region": "cosmic-fold"
 }
