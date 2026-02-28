@@ -25083,15 +25083,15 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_31",
             "gender": 1,
-            "hp": 1567066.25,
+            "hp": 1622864.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1369.949951171875,
-                "y": -28279.798828125,
-                "z": 97866.1171875
+                "x": 260.5400085449219,
+                "y": -22298.029296875,
+                "z": 96738.375
             },
-            "last_seen": "2026年2月20日 下午11:55:14",
-            "level": 84,
+            "last_seen": "2026年2月28日 下午10:22:04",
+            "level": 85,
             "name": "唐喵",
             "name_history": [
                 "唐喵"
@@ -69346,13 +69346,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696002155": {
+            "crew_history": [
+                "音乐蛋糕坊"
+            ],
             "crew_id": 42949687764,
             "crew_name": "音乐蛋糕坊",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 369453.40625,
-            "last_seen": "2026年2月10日 下午10:32:10",
-            "level": 59,
+            "hp": 590890.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97874.1171875
+            },
+            "last_seen": "2026年2月28日 下午10:22:04",
+            "level": 73,
             "name": "黄金词条",
             "name_history": [
                 "黄金词条"
@@ -76541,6 +76550,6 @@
         }
     },
     "accounts_total": 5220,
-    "last_updated": "2026年2月28日 下午10:20:04",
+    "last_updated": "2026年2月28日 下午10:22:04",
     "server_region": "cosmic-fold"
 }
