@@ -11890,12 +11890,21 @@
             "server_region": "ark-calculus"
         },
         "62727998812577": {
+            "crew_history": [
+                "破晓"
+            ],
             "crew_id": 68719491341,
             "crew_name": "破晓",
             "equipping_title": "2_10_1_4",
             "gender": 1,
-            "hp": 1939798.625,
-            "last_seen": "2025年11月25日 上午 1:16:55",
+            "hp": 2015211.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54108.3828125,
+                "y": -87913.65625,
+                "z": 21852.81640625
+            },
+            "last_seen": "2026年2月28日 下午8:07:26",
             "level": 100,
             "name": "飓水炯凤",
             "name_history": [
@@ -18909,6 +18918,6 @@
         }
     },
     "accounts_total": 917,
-    "last_updated": "2026年2月28日 下午8:06:26",
+    "last_updated": "2026年2月28日 下午8:07:26",
     "server_region": "ark-calculus"
 }
