@@ -2427,14 +2427,14 @@
             "crew_name": "梦乡",
             "equipping_title": "3_2023",
             "gender": 0,
-            "hp": 1963194.5,
+            "hp": 2148079.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54109.6484375,
-                "y": -92164.515625,
-                "z": 21730.869140625
+                "x": -53979.12109375,
+                "y": -92329.2265625,
+                "z": 21784.630859375
             },
-            "last_seen": "2026年2月23日 下午9:16:53",
+            "last_seen": "2026年2月28日 下午4:27:50",
             "level": 100,
             "name": "翼霄",
             "name_history": [
@@ -2688,6 +2688,31 @@
             ],
             "registered": "2023年3月20日 上午2:46:33",
             "role_id": 60563335001480,
+            "server_region": "future-humanity"
+        },
+        "60563335002343": {
+            "crew_history": [
+                "雨巷猫"
+            ],
+            "crew_id": 12884915989,
+            "crew_name": "雨巷猫",
+            "equipping_title": "1_2023",
+            "gender": 1,
+            "hp": 2140927.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55129.66796875,
+                "y": -87023.8203125,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年2月28日 下午4:27:50",
+            "level": 100,
+            "name": "吾逃终出",
+            "name_history": [
+                "吾逃终出"
+            ],
+            "registered": "2023年3月24日 上午1:23:47",
+            "role_id": 60563335002343,
             "server_region": "future-humanity"
         },
         "60563335002414": {
@@ -17090,6 +17115,31 @@
             "role_id": 60563336008075,
             "server_region": "future-humanity"
         },
+        "60563336008109": {
+            "crew_history": [
+                "星之海"
+            ],
+            "crew_id": 1627792619285,
+            "crew_name": "星之海",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 202435.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55121.87890625,
+                "y": -87269.84375,
+                "z": 21730.490234375
+            },
+            "last_seen": "2026年2月28日 下午4:27:50",
+            "level": 41,
+            "name": "贪吃的鼠5",
+            "name_history": [
+                "贪吃的鼠5"
+            ],
+            "registered": "2026年2月26日 下午2:54:55",
+            "role_id": 60563336008109,
+            "server_region": "future-humanity"
+        },
         "60563336008110": {
             "crew_history": [],
             "crew_id": 0,
@@ -22433,7 +22483,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1040,
-    "last_updated": "2026年2月28日 下午4:20:50",
+    "accounts_total": 1042,
+    "last_updated": "2026年2月28日 下午4:27:50",
     "server_region": "future-humanity"
 }
