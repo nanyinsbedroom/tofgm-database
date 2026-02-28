@@ -17035,14 +17035,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "Poxy's Mentor,0",
             "gender": 1,
-            "hp": 1046286.5625,
+            "hp": 1039239.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -74162.9296875,
-                "y": 50196.46875,
-                "z": -12252.021484375
+                "x": -72625.625,
+                "y": 49572.2109375,
+                "z": -12320.5634765625
             },
-            "last_seen": "Feb 27, 2026, 6:16:48 PM",
+            "last_seen": "Feb 27, 2026, 7:28:30 PM",
             "level": 76,
             "name": "MillaNoire",
             "name_history": [
@@ -31231,15 +31231,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 10656.0,
+            "hp": 33907.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -76432.6015625,
-                "y": 74049.890625,
-                "z": -9595.8095703125
+                "x": -87837.765625,
+                "y": 73900.03125,
+                "z": -7773.90966796875
             },
-            "last_seen": "Feb 27, 2026, 6:13:48 PM",
-            "level": 4,
+            "last_seen": "Feb 27, 2026, 7:28:30 PM",
+            "level": 11,
             "name": "Aqua-",
             "name_history": [
                 "Aqua-"
@@ -31293,9 +31293,32 @@
             "registered": "Feb 27, 2026, 6:02:30 PM",
             "role_id": 38174107413584312,
             "server_region": "ws-america-01"
+        },
+        "38174107413584316": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 41213.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78550.765625,
+                "y": 81110.4140625,
+                "z": -8523.0048828125
+            },
+            "last_seen": "Feb 27, 2026, 7:28:30 PM",
+            "level": 9,
+            "name": "Offensio",
+            "name_history": [
+                "Offensio"
+            ],
+            "registered": "Feb 27, 2026, 6:20:58 PM",
+            "role_id": 38174107413584316,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1716,
-    "last_updated": "Feb 27, 2026, 7:27:30 PM",
+    "accounts_total": 1717,
+    "last_updated": "Feb 27, 2026, 7:28:30 PM",
     "server_region": "ws-america-01"
 }
