@@ -1615,15 +1615,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1329057.75,
+            "hp": 1493710.875,
             "last_known_position": {
-                "map": "Vera_P",
-                "x": -5576.52978515625,
-                "y": 92319.6484375,
-                "z": 5768.06982421875
+                "map": "void001_D",
+                "x": -127.55999755859375,
+                "y": -669.8800048828125,
+                "z": 2682.849853515625
             },
-            "last_seen": "2026年2月14日 下午8:54:52",
-            "level": 83,
+            "last_seen": "2026年2月28日 下午8:41:28",
+            "level": 85,
             "name": "Sussy",
             "name_history": [
                 "Sussy"
@@ -19240,14 +19240,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695861425": {
-            "crew_id": 253403085268,
-            "crew_name": "解谜者的茶会",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 438912.1875,
-            "last_seen": "2025年10月14日 下午 4:36:41",
-            "level": 59,
-            "name": "恭喜发财666",
+            "hp": 1493710.875,
+            "last_known_position": {
+                "map": "void001_D",
+                "x": 908.3583374023438,
+                "y": -490.201171875,
+                "z": 127.14999389648438
+            },
+            "last_seen": "2026年2月28日 下午8:41:28",
+            "level": 84,
+            "name": "丷小野花丷",
+            "name_history": [
+                "丷小野花丷"
+            ],
             "registered": "2025年9月25日 下午9:40:51",
             "role_id": 63582695861425,
             "server_region": "cosmic-fold"
@@ -21637,15 +21649,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1527794.625,
+            "hp": 1594762.375,
             "last_known_position": {
-                "map": "Vera_P",
-                "x": -42739.41796875,
-                "y": -12893.2294921875,
-                "z": 8030.759765625
+                "map": "void001_D",
+                "x": 50.0,
+                "y": 0.0,
+                "z": 148.37998962402344
             },
-            "last_seen": "2026年2月24日 下午11:33:30",
-            "level": 84,
+            "last_seen": "2026年2月28日 下午8:41:28",
+            "level": 85,
             "name": "gateoo",
             "name_history": [
                 "gateoo"
@@ -56907,21 +56919,22 @@
         },
         "63582695961937": {
             "crew_history": [
+                "快乐老家",
                 "0.7"
             ],
-            "crew_id": 3302829865428,
-            "crew_name": "0.7",
+            "crew_id": 304942692820,
+            "crew_name": "快乐老家",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 854135.25,
+            "hp": 936173.125,
             "last_known_position": {
-                "map": "city",
-                "x": 1116.9599609375,
-                "y": -28300.529296875,
-                "z": 97876.1171875
+                "map": "QRSL_P",
+                "x": -45265.51953125,
+                "y": 65128.40625,
+                "z": -6822.052734375
             },
-            "last_seen": "2026年2月21日 上午1:05:17",
-            "level": 76,
+            "last_seen": "2026年2月28日 下午8:41:28",
+            "level": 83,
             "name": "索伦森",
             "name_history": [
                 "索伦森",
@@ -75474,9 +75487,32 @@
             "registered": "2026年2月27日 下午10:56:07",
             "role_id": 63582696011826,
             "server_region": "cosmic-fold"
+        },
+        "63582696012435": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 28072.76953125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53694.61328125,
+                "y": 81902.890625,
+                "z": -12056.6513671875
+            },
+            "last_seen": "2026年2月28日 下午8:41:28",
+            "level": 8,
+            "name": "婷雁",
+            "name_history": [
+                "婷雁"
+            ],
+            "registered": "2026年2月28日 下午7:22:00",
+            "role_id": 63582696012435,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5188,
-    "last_updated": "2026年2月28日 下午8:40:28",
+    "accounts_total": 5189,
+    "last_updated": "2026年2月28日 下午8:41:28",
     "server_region": "cosmic-fold"
 }
