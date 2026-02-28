@@ -202,15 +202,15 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1169158.625,
+            "hp": 1217416.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -72712.078125,
-                "y": 49450.0703125,
-                "z": -12311.609375
+                "map": "city",
+                "x": 729.1599731445313,
+                "y": -24709.150390625,
+                "z": 97879.6171875
             },
-            "last_seen": "Feb 20, 2026, 11:05:32 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:34:30 PM",
+            "level": 77,
             "name": "Jerod",
             "name_history": [
                 "Jerod"
@@ -18751,6 +18751,31 @@
             "role_id": 38174107413538881,
             "server_region": "ws-america-01"
         },
+        "38174107413538998": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "1_1_7_1",
+            "gender": 0,
+            "hp": 1134357.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1.4199999570846558,
+                "y": -19725.19921875,
+                "z": 95983.984375
+            },
+            "last_seen": "Feb 27, 2026, 7:34:30 PM",
+            "level": 77,
+            "name": "Jharod",
+            "name_history": [
+                "Jharod"
+            ],
+            "registered": "Nov 27, 2025, 11:01:24 AM",
+            "role_id": 38174107413538998,
+            "server_region": "ws-america-01"
+        },
         "38174107413539417": {
             "crew_history": [
                 "Solstice"
@@ -31425,7 +31450,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1721,
-    "last_updated": "Feb 27, 2026, 7:33:30 PM",
+    "accounts_total": 1722,
+    "last_updated": "Feb 27, 2026, 7:34:30 PM",
     "server_region": "ws-america-01"
 }
