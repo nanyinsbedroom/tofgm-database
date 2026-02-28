@@ -5383,13 +5383,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695852360": {
+            "crew_history": [
+                "白露之歌"
+            ],
             "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
-            "equipping_title": "2_10_1_9",
+            "crew_name": "白露之歌",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1154751.625,
-            "last_seen": "2026年02月04日 上午 6:03:03",
-            "level": 79,
+            "hp": 1182968.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36022.77734375,
+                "y": 8378.2099609375,
+                "z": -13732.080078125
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 83,
             "name": "惊鸿照影",
             "name_history": [
                 "惊鸿照影"
@@ -14685,15 +14694,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1402493.5,
+            "hp": 1486161.5,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97866.1171875
+                "map": "norn_city",
+                "x": -35572.80859375,
+                "y": 4120.07666015625,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年2月15日 下午11:49:13",
-            "level": 83,
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 84,
             "name": "卧槽",
             "name_history": [
                 "卧槽"
@@ -30171,6 +30180,31 @@
             "role_id": 63582695873247,
             "server_region": "cosmic-fold"
         },
+        "63582695873278": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_036_world;34",
+            "gender": 1,
+            "hp": 1347086.25,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35760.73828125,
+                "y": 2693.907470703125,
+                "z": -13805.7998046875
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 82,
+            "name": "menma",
+            "name_history": [
+                "menma"
+            ],
+            "registered": "2025年9月26日 下午10:14:21",
+            "role_id": 63582695873278,
+            "server_region": "cosmic-fold"
+        },
         "63582695873294": {
             "crew_id": 0,
             "crew_name": "",
@@ -36838,15 +36872,15 @@
             "crew_name": "NOVA学院",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 715877.375,
+            "hp": 736108.0625,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -35287.21875,
-                "y": 6046.3896484375,
-                "z": -13800.9697265625
+                "x": -33700.30078125,
+                "y": 7436.89990234375,
+                "z": -13177.3701171875
             },
-            "last_seen": "2026年2月20日 下午11:29:12",
-            "level": 82,
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 83,
             "name": "弱小可怜又无助",
             "name_history": [
                 "弱小可怜又无助"
@@ -39653,13 +39687,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695902326": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "2_10_1_8_1_1",
             "gender": 1,
-            "hp": 1414329.5,
-            "last_seen": "2026年2月5日 下午11:51:19",
-            "level": 82,
+            "hp": 1504547.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35725.38671875,
+                "y": 3499.35498046875,
+                "z": -13802.83984375
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 84,
             "name": "牧俗",
             "name_history": [
                 "牧俗"
@@ -45965,6 +46008,29 @@
             "role_id": 63582695922946,
             "server_region": "cosmic-fold"
         },
+        "63582695922948": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 121925.203125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35608.86328125,
+                "y": 2999.201904296875,
+                "z": -13792.830078125
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 70,
+            "name": "idou",
+            "name_history": [
+                "idou"
+            ],
+            "registered": "2025年10月10日 下午11:43:36",
+            "role_id": 63582695922948,
+            "server_region": "cosmic-fold"
+        },
         "63582695922987": {
             "crew_id": 0,
             "crew_name": "",
@@ -50358,14 +50424,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 1219163.375,
+            "hp": 1843701.125,
             "last_known_position": {
-                "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97866.1171875
+                "map": "norn_city",
+                "x": -35740.2578125,
+                "y": 3357.691650390625,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年2月27日 下午11:15:53",
+            "last_seen": "2026年2月28日 下午8:31:28",
             "level": 85,
             "name": "梅普露",
             "name_history": [
@@ -53640,6 +53706,29 @@
             "role_id": 63582695944553,
             "server_region": "cosmic-fold"
         },
+        "63582695944558": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 212175.59375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -33915.91015625,
+                "y": 5946.7900390625,
+                "z": -13471.8896484375
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 78,
+            "name": "圣徒妖主",
+            "name_history": [
+                "圣徒妖主"
+            ],
+            "registered": "2025年10月27日 下午12:10:26",
+            "role_id": 63582695944558,
+            "server_region": "cosmic-fold"
+        },
         "63582695944582": {
             "crew_id": 0,
             "crew_name": "",
@@ -53918,13 +54007,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695945514": {
+            "crew_history": [
+                "月歌行"
+            ],
             "crew_id": 128849033684,
             "crew_name": "月歌行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 373873.375,
-            "last_seen": "2026年01月26日 上午 4:00:52",
-            "level": 78,
+            "hp": 503254.4375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -41449.3984375,
+                "y": -582.7000122070313,
+                "z": -13512.849609375
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 83,
             "name": "天语",
             "name_history": [
                 "天语"
@@ -55730,15 +55828,15 @@
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 927570.3125,
+            "hp": 933821.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97886.1171875
+                "map": "norn_city",
+                "x": -36003.69921875,
+                "y": 1433.4000244140625,
+                "z": -13785.849609375
             },
-            "last_seen": "2026年2月20日 下午11:39:13",
-            "level": 81,
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 82,
             "name": "TheShy",
             "name_history": [
                 "TheShy"
@@ -55958,15 +56056,15 @@
             "crew_name": "天使社",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 1085600.625,
+            "hp": 1097511.875,
             "last_known_position": {
-                "map": "city",
-                "x": 1343.8699951171875,
-                "y": -28250.0390625,
-                "z": 97879.6171875
+                "map": "norn_city",
+                "x": -33200.62890625,
+                "y": 5437.330078125,
+                "z": -13497.759765625
             },
-            "last_seen": "2026年2月20日 上午2:03:27",
-            "level": 81,
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 82,
             "name": "烟雨平生",
             "name_history": [
                 "烟雨平生",
@@ -57640,15 +57738,15 @@
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 944818.4375,
+            "hp": 961562.5,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97871.1171875
+                "map": "norn_city",
+                "x": -35526.5,
+                "y": 2600.300048828125,
+                "z": -13805.2998046875
             },
-            "last_seen": "2026年2月20日 下午11:41:13",
-            "level": 80,
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 83,
             "name": "Rookie.",
             "name_history": [
                 "Rookie."
@@ -59006,14 +59104,14 @@
             "crew_name": "天使社",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 871850.75,
+            "hp": 875690.75,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -42166.828125,
-                "y": 1973.8800048828125,
+                "x": -42169.5,
+                "y": 1958.89990234375,
                 "z": -13482.029296875
             },
-            "last_seen": "2026年2月27日 下午11:17:53",
+            "last_seen": "2026年2月28日 下午8:31:28",
             "level": 81,
             "name": "从雨酱",
             "name_history": [
@@ -62623,6 +62721,56 @@
             ],
             "registered": "2026年1月13日 上午8:47:51",
             "role_id": 63582695988257,
+            "server_region": "cosmic-fold"
+        },
+        "63582695988274": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 638096.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35858.37890625,
+                "y": 2302.929931640625,
+                "z": -13797.6298828125
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 82,
+            "name": "風見",
+            "name_history": [
+                "風見"
+            ],
+            "registered": "2026年1月13日 上午10:43:00",
+            "role_id": 63582695988274,
+            "server_region": "cosmic-fold"
+        },
+        "63582695988280": {
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 633218.75,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35858.1796875,
+                "y": 2359.75,
+                "z": -13791.830078125
+            },
+            "last_seen": "2026年2月28日 下午8:31:28",
+            "level": 82,
+            "name": "米婭",
+            "name_history": [
+                "米婭"
+            ],
+            "registered": "2026年1月13日 上午11:04:34",
+            "role_id": 63582695988280,
             "server_region": "cosmic-fold"
         },
         "63582695988307": {
@@ -75117,7 +75265,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5177,
-    "last_updated": "2026年2月27日 下午11:52:56",
+    "accounts_total": 5182,
+    "last_updated": "2026年2月28日 下午8:31:28",
     "server_region": "cosmic-fold"
 }
