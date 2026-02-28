@@ -6626,17 +6626,17 @@
             ],
             "crew_id": 7322919253781,
             "crew_name": "雾巷猫",
-            "equipping_title": "莱可西丝的36D的学徒,0",
+            "equipping_title": "2_2_0_71",
             "gender": 1,
-            "hp": 801492.3125,
+            "hp": 751956.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53503.890625,
-                "y": -87482.8203125,
-                "z": 21708.330078125
+                "x": -54070.23046875,
+                "y": -88075.5546875,
+                "z": 21717.509765625
             },
-            "last_seen": "2026年2月26日 下午10:05:50",
-            "level": 94,
+            "last_seen": "2026年2月28日 下午2:27:41",
+            "level": 96,
             "name": "柴可猪斯基",
             "name_history": [
                 "柴可猪斯基"
@@ -6821,6 +6821,31 @@
             ],
             "registered": "2024年7月10日 下午9:39:06",
             "role_id": 60563335373956,
+            "server_region": "future-humanity"
+        },
+        "60563335375910": {
+            "crew_history": [
+                "万籁俱灭"
+            ],
+            "crew_id": 17549236385557,
+            "crew_name": "万籁俱灭",
+            "equipping_title": "2_2_0_79",
+            "gender": 1,
+            "hp": 1393854.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55208.37890625,
+                "y": -86795.53125,
+                "z": 21710.958984375
+            },
+            "last_seen": "2026年2月28日 下午2:27:41",
+            "level": 100,
+            "name": "史莱姆生育模块",
+            "name_history": [
+                "史莱姆生育模块"
+            ],
+            "registered": "2024年7月11日 下午9:34:39",
+            "role_id": 60563335375910,
             "server_region": "future-humanity"
         },
         "60563335376151": {
@@ -21422,7 +21447,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1000,
-    "last_updated": "2026年2月28日 下午2:26:41",
+    "accounts_total": 1001,
+    "last_updated": "2026年2月28日 下午2:27:41",
     "server_region": "future-humanity"
 }
