@@ -9800,14 +9800,14 @@
             "crew_name": "NOVA学院",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1642935.125,
+            "hp": 1513374.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
+                "x": 1242.8699951171875,
+                "y": -28222.798828125,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月28日 下午8:54:29",
+            "last_seen": "2026年2月28日 下午9:26:53",
             "level": 85,
             "name": "廖丽",
             "name_history": [
@@ -36603,13 +36603,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695890000": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "2_2_0_31",
+            "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 1486886.625,
-            "last_seen": "2026年2月10日 上午1:01:51",
-            "level": 82,
+            "hp": 1669049.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 2410.27001953125,
+                "y": -28546.169921875,
+                "z": 97946.359375
+            },
+            "last_seen": "2026年2月28日 下午9:26:53",
+            "level": 85,
             "name": "嘉神川克罗艾",
             "name_history": [
                 "嘉神川克罗艾"
@@ -76018,6 +76027,6 @@
         }
     },
     "accounts_total": 5204,
-    "last_updated": "2026年2月28日 下午9:20:31",
+    "last_updated": "2026年2月28日 下午9:26:53",
     "server_region": "cosmic-fold"
 }
