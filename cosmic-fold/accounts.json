@@ -39954,13 +39954,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695902427": {
-            "crew_id": 137438968276,
-            "crew_name": "耳狸窝",
-            "equipping_title": "2_8_0_6",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 1276917.875,
-            "last_seen": "2026年01月21日 上午 6:55:03",
-            "level": 79,
+            "hp": 1621725.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -109.19999694824219,
+                "y": -24653.400390625,
+                "z": 96721.9609375
+            },
+            "last_seen": "2026年2月28日 下午8:59:29",
+            "level": 85,
             "name": "o东方月初o",
             "name_history": [
                 "o东方月初o"
@@ -43998,13 +44007,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695917036": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "None",
+            "equipping_title": "2_7_0_22",
             "gender": 1,
-            "hp": 1303859.0,
-            "last_seen": "2026年02月01日 上午 3:56:24",
-            "level": 81,
+            "hp": 1484441.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1367.5599365234375,
+                "y": -28240.189453125,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年2月28日 下午8:59:29",
+            "level": 85,
             "name": "KKMJ",
             "name_history": [
                 "KKMJ"
@@ -60107,6 +60125,31 @@
             "role_id": 63582695969441,
             "server_region": "cosmic-fold"
         },
+        "63582695969487": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 230796.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -419.1999816894531,
+                "y": -23609.298828125,
+                "z": 97889.21875
+            },
+            "last_seen": "2026年2月28日 下午8:59:29",
+            "level": 83,
+            "name": "0辰龙",
+            "name_history": [
+                "0辰龙"
+            ],
+            "registered": "2025年11月30日 上午10:58:27",
+            "role_id": 63582695969487,
+            "server_region": "cosmic-fold"
+        },
         "63582695969821": {
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
@@ -75870,7 +75913,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5200,
-    "last_updated": "2026年2月28日 下午8:57:29",
+    "accounts_total": 5201,
+    "last_updated": "2026年2月28日 下午8:59:29",
     "server_region": "cosmic-fold"
 }
