@@ -4405,12 +4405,21 @@
             "server_region": "ark-calculus"
         },
         "62285617625819": {
+            "crew_history": [
+                "无上散人"
+            ],
             "crew_id": 197568510221,
             "crew_name": "无上散人",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1444729.375,
-            "last_seen": "2025年11月23日 下午 11:46:47",
+            "hp": 1480932.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月28日 下午8:11:27",
             "level": 100,
             "name": "Dr巧木乐",
             "name_history": [
@@ -4713,6 +4722,31 @@
             "name": "三角篓子爱好者",
             "registered": "2025年7月1日 上午7:30:56",
             "role_id": 62285617716849,
+            "server_region": "ark-calculus"
+        },
+        "62285617717855": {
+            "crew_history": [
+                "丶未來可期"
+            ],
+            "crew_id": 665719945582,
+            "crew_name": "丶未來可期",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 726722.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54185.19921875,
+                "y": -87806.234375,
+                "z": 21724.37890625
+            },
+            "last_seen": "2026年2月28日 下午8:11:27",
+            "level": 100,
+            "name": "Ttthy",
+            "name_history": [
+                "Ttthy"
+            ],
+            "registered": "2025年7月12日 下午7:32:57",
+            "role_id": 62285617717855,
             "server_region": "ark-calculus"
         },
         "62285617718452": {
@@ -8450,14 +8484,14 @@
             "crew_name": "楼兰月影",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2132470.0,
+            "hp": 2265803.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21726.05859375
+                "x": -53764.51953125,
+                "y": -88084.0703125,
+                "z": 21725.990234375
             },
-            "last_seen": "2026年2月24日 下午12:16:50",
+            "last_seen": "2026年2月28日 下午8:11:27",
             "level": 100,
             "name": "张语格TAKO",
             "name_history": [
@@ -8698,14 +8732,14 @@
             "crew_name": "楼兰月影",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1820161.875,
+            "hp": 1812944.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54429.20703125,
-                "y": -87974.15625,
-                "z": 21722.96875
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21723.048828125
             },
-            "last_seen": "2026年2月24日 下午12:04:49",
+            "last_seen": "2026年2月28日 下午8:11:27",
             "level": 100,
             "name": "番茄鱼是费沁源",
             "name_history": [
@@ -19085,7 +19119,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 923,
-    "last_updated": "2026年2月28日 下午8:10:26",
+    "accounts_total": 924,
+    "last_updated": "2026年2月28日 下午8:11:27",
     "server_region": "ark-calculus"
 }
