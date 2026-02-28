@@ -13497,14 +13497,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695857793": {
+            "crew_history": [
+                "白月破晓"
+            ],
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 497663.75,
-            "last_seen": "2025年10月27日 下午 8:54:58",
-            "level": 65,
+            "hp": 1228097.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1428.449951171875,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年2月28日 下午8:39:28",
+            "level": 83,
             "name": "小精灵",
+            "name_history": [
+                "小精灵"
+            ],
             "registered": "2025年9月25日 下午7:56:06",
             "role_id": 63582695857793,
             "server_region": "cosmic-fold"
@@ -75395,6 +75407,6 @@
         }
     },
     "accounts_total": 5185,
-    "last_updated": "2026年2月28日 下午8:36:28",
+    "last_updated": "2026年2月28日 下午8:39:28",
     "server_region": "cosmic-fold"
 }
