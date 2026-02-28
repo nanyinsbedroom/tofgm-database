@@ -1876,11 +1876,11 @@
             "hp": 1584044.125,
             "last_known_position": {
                 "map": "city",
-                "x": 344.0199890136719,
-                "y": -22477.44921875,
-                "z": 96701.2265625
+                "x": 76.83999633789063,
+                "y": -17711.19921875,
+                "z": 96358.796875
             },
-            "last_seen": "2026年2月28日 下午8:54:29",
+            "last_seen": "2026年2月28日 下午10:56:57",
             "level": 85,
             "name": "倾伶",
             "name_history": [
@@ -48059,13 +48059,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695926547": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1436251.375,
-            "last_seen": "2026年2月9日 上午1:52:57",
-            "level": 82,
+            "hp": 1448374.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年2月28日 下午10:56:57",
+            "level": 83,
             "name": "晨曦之星",
             "name_history": [
                 "晨曦之星"
@@ -76360,6 +76369,29 @@
             "role_id": 63582696011826,
             "server_region": "cosmic-fold"
         },
+        "63582696011988": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 32192.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3053.1298828125,
+                "y": -28256.6796875,
+                "z": 97989.1328125
+            },
+            "last_seen": "2026年2月28日 下午10:56:57",
+            "level": 12,
+            "name": "我得了懒癌",
+            "name_history": [
+                "我得了懒癌"
+            ],
+            "registered": "2026年2月28日 上午9:23:30",
+            "role_id": 63582696011988,
+            "server_region": "cosmic-fold"
+        },
         "63582696012048": {
             "crew_history": [],
             "crew_id": 0,
@@ -76568,7 +76600,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5220,
-    "last_updated": "2026年2月28日 下午10:55:57",
+    "accounts_total": 5221,
+    "last_updated": "2026年2月28日 下午10:56:57",
     "server_region": "cosmic-fold"
 }
