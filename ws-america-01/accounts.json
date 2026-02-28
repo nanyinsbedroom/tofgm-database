@@ -1044,14 +1044,14 @@
             "crew_name": "Redux",
             "equipping_title": "1_6_4_27",
             "gender": 1,
-            "hp": 704332.8125,
+            "hp": 739775.9375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -65976.5859375,
-                "y": 90536.546875,
-                "z": -7389.22998046875
+                "x": -69021.5703125,
+                "y": 90942.96875,
+                "z": -7338.009765625
             },
-            "last_seen": "Feb 27, 2026, 6:15:48 PM",
+            "last_seen": "Feb 27, 2026, 7:26:30 PM",
             "level": 77,
             "name": "HMS Unicorn",
             "name_history": [
@@ -10788,14 +10788,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1081499.5,
+            "hp": 1083018.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -62123.69921875,
-                "y": 97142.75,
-                "z": -7562.06982421875
+                "x": -40724.58984375,
+                "y": 90656.78125,
+                "z": -12629.3193359375
             },
-            "last_seen": "Feb 27, 2026, 12:15:34 AM",
+            "last_seen": "Feb 27, 2026, 7:26:30 PM",
             "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
@@ -20074,17 +20074,17 @@
             ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "1_1_13_1",
+            "equipping_title": "2_7_0_16",
             "gender": 0,
-            "hp": 1062028.125,
+            "hp": 1102597.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -61475.4296875,
-                "y": 57867.1796875,
-                "z": -9189.5595703125
+                "x": -40864.80078125,
+                "y": 90983.96875,
+                "z": -12613.5146484375
             },
-            "last_seen": "Feb 23, 2026, 12:41:13 PM",
-            "level": 76,
+            "last_seen": "Feb 27, 2026, 7:26:30 PM",
+            "level": 77,
             "name": "xBreyner",
             "name_history": [
                 "xBreyner"
@@ -29469,6 +29469,29 @@
             "role_id": 38174107413582709,
             "server_region": "ws-america-01"
         },
+        "38174107413582790": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "WorldBossDamage_3;boss_hum_044_world;21",
+            "gender": 1,
+            "hp": 360411.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -61959.67578125,
+                "y": 107474.4453125,
+                "z": -12840.359375
+            },
+            "last_seen": "Feb 27, 2026, 7:26:30 PM",
+            "level": 74,
+            "name": "Alilyan",
+            "name_history": [
+                "Alilyan"
+            ],
+            "registered": "Feb 15, 2026, 10:26:12 PM",
+            "role_id": 38174107413582790,
+            "server_region": "ws-america-01"
+        },
         "38174107413582821": {
             "crew_history": [],
             "crew_id": 0,
@@ -31249,7 +31272,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1714,
-    "last_updated": "Feb 27, 2026, 7:25:30 PM",
+    "accounts_total": 1715,
+    "last_updated": "Feb 27, 2026, 7:26:30 PM",
     "server_region": "ws-america-01"
 }
