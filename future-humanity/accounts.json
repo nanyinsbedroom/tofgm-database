@@ -4417,11 +4417,11 @@
             "hp": 1565268.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21717.548828125
+                "x": -55800.109375,
+                "y": -88543.9765625,
+                "z": 21717.5
             },
-            "last_seen": "2026年2月21日 下午2:04:11",
+            "last_seen": "2026年2月28日 下午4:03:49",
             "level": 100,
             "name": "Seles",
             "name_history": [
@@ -18795,6 +18795,31 @@
             "role_id": 60662118101827,
             "server_region": "future-humanity"
         },
+        "60662118126297": {
+            "crew_history": [
+                "投降喵"
+            ],
+            "crew_id": 14383845488405,
+            "crew_name": "投降喵",
+            "equipping_title": "1_8_0_29",
+            "gender": 1,
+            "hp": 2097500.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54165.94921875,
+                "y": -88112.96875,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年2月28日 下午4:03:49",
+            "level": 100,
+            "name": "伊莱莎",
+            "name_history": [
+                "伊莱莎"
+            ],
+            "registered": "2021年12月16日 下午8:15:37",
+            "role_id": 60662118126297,
+            "server_region": "future-humanity"
+        },
         "60666413065749": {
             "crew_id": 9509057607445,
             "crew_name": "羽落凡尘",
@@ -21941,7 +21966,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1021,
-    "last_updated": "2026年2月28日 下午4:02:49",
+    "accounts_total": 1022,
+    "last_updated": "2026年2月28日 下午4:03:49",
     "server_region": "future-humanity"
 }
