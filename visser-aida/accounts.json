@@ -16724,12 +16724,21 @@
             "server_region": "visser-aida"
         },
         "61448097112472": {
+            "crew_history": [
+                "妖颜"
+            ],
             "crew_id": 34359752475,
             "crew_name": "妖颜",
             "equipping_title": "2_2_0_90",
             "gender": 1,
-            "hp": 2366030.0,
-            "last_seen": "2026年02月01日 上午 2:51:55",
+            "hp": 2231694.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 204.77061462402344,
+                "y": -16796.31640625,
+                "z": 96375.3828125
+            },
+            "last_seen": "2026年2月28日 下午11:53:29",
             "level": 100,
             "name": "秦端雨　",
             "name_history": [
@@ -20811,6 +20820,6 @@
         }
     },
     "accounts_total": 1244,
-    "last_updated": "2026年2月28日 下午11:49:29",
+    "last_updated": "2026年2月28日 下午11:53:29",
     "server_region": "visser-aida"
 }
