@@ -13931,12 +13931,21 @@
             "server_region": "ark-calculus"
         },
         "62736587428808": {
+            "crew_history": [
+                "月汐阁"
+            ],
             "crew_id": 60129556646,
             "crew_name": "月汐阁",
-            "equipping_title": "N1ASIR的启迪人,1",
+            "equipping_title": "2_2_0_58",
             "gender": 1,
-            "hp": 2557945.0,
-            "last_seen": "2025年11月25日 上午 1:34:16",
+            "hp": 2683066.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53722.79296875,
+                "y": -88025.1171875,
+                "z": 21823.076171875
+            },
+            "last_seen": "2026年2月28日 下午8:09:26",
             "level": 100,
             "name": "月亮团子ovo",
             "name_history": [
@@ -14853,6 +14862,31 @@
             ],
             "registered": "2023年2月13日 上午12:22:09",
             "role_id": 62745177265256,
+            "server_region": "ark-calculus"
+        },
+        "62745177268376": {
+            "crew_history": [
+                "楼兰月影"
+            ],
+            "crew_id": 2353642092817,
+            "crew_name": "楼兰月影",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1492032.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55113.31640625,
+                "y": -86788.8984375,
+                "z": 21831.359375
+            },
+            "last_seen": "2026年2月28日 下午8:09:26",
+            "level": 100,
+            "name": "我妻岚",
+            "name_history": [
+                "我妻岚"
+            ],
+            "registered": "2023年2月13日 下午3:33:09",
+            "role_id": 62745177268376,
             "server_region": "ark-calculus"
         },
         "62745177270750": {
@@ -15908,6 +15942,31 @@
             ],
             "registered": "2023年4月14日 下午8:20:39",
             "role_id": 62745177533406,
+            "server_region": "ark-calculus"
+        },
+        "62745177543809": {
+            "crew_history": [
+                "半糖茶馆"
+            ],
+            "crew_id": 68719491345,
+            "crew_name": "半糖茶馆",
+            "equipping_title": "2_3_0_1",
+            "gender": 0,
+            "hp": 1406980.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54787.6171875,
+                "y": -88083.9375,
+                "z": 21727.548828125
+            },
+            "last_seen": "2026年2月28日 下午8:09:26",
+            "level": 100,
+            "name": "八号五天",
+            "name_history": [
+                "八号五天"
+            ],
+            "registered": "2023年4月16日 下午1:50:22",
+            "role_id": 62745177543809,
             "server_region": "ark-calculus"
         },
         "62745177548147": {
@@ -18951,7 +19010,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 918,
-    "last_updated": "2026年2月28日 下午8:08:26",
+    "accounts_total": 920,
+    "last_updated": "2026年2月28日 下午8:09:26",
     "server_region": "ark-calculus"
 }
