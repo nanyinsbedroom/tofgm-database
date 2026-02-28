@@ -3957,11 +3957,11 @@
             "hp": 1116540.5,
             "last_known_position": {
                 "map": "city",
-                "x": 656.7999877929688,
-                "y": -29304.01953125,
-                "z": 98612.15625
+                "x": 1705.2999267578125,
+                "y": -28135.83984375,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 27, 2026, 7:33:30 PM",
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
             "level": 77,
             "name": "bismar",
             "name_history": [
@@ -4502,15 +4502,15 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_7_0_11",
             "gender": 0,
-            "hp": 1107717.0,
+            "hp": 1168723.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
+                "x": 828.4400024414063,
+                "y": -28116.5,
                 "z": 97872.6171875
             },
-            "last_seen": "Feb 23, 2026, 10:55:48 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
+            "level": 77,
             "name": "Sylvian",
             "name_history": [
                 "Sylvian"
@@ -20727,11 +20727,11 @@
             "hp": 1045451.1875,
             "last_known_position": {
                 "map": "city",
-                "x": 1590.5,
-                "y": -28666.19921875,
-                "z": 97865.8359375
+                "x": 1475.25,
+                "y": -28626.51953125,
+                "z": 97865.9609375
             },
-            "last_seen": "Feb 27, 2026, 7:33:30 PM",
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
             "level": 77,
             "name": "Tutuca",
             "name_history": [
@@ -24034,6 +24034,31 @@
             ],
             "registered": "Dec 25, 2025, 8:55:07 PM",
             "role_id": 38174107413570970,
+            "server_region": "ws-america-01"
+        },
+        "38174107413571072": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "Xscorpion24's Apprentice,0",
+            "gender": 1,
+            "hp": 452097.65625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1174.179931640625,
+                "y": -28206.298828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
+            "level": 76,
+            "name": "Francoise",
+            "name_history": [
+                "Francoise"
+            ],
+            "registered": "Dec 26, 2025, 1:01:19 AM",
+            "role_id": 38174107413571072,
             "server_region": "ws-america-01"
         },
         "38174107413571109": {
@@ -31262,6 +31287,29 @@
             "role_id": 38174107413583840,
             "server_region": "ws-america-01"
         },
+        "38174107413583876": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 190715.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1998.2099609375,
+                "y": -27336.94921875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
+            "level": 61,
+            "name": "Menheraplaymakr",
+            "name_history": [
+                "Menheraplaymakr"
+            ],
+            "registered": "Feb 24, 2026, 9:22:14 AM",
+            "role_id": 38174107413583876,
+            "server_region": "ws-america-01"
+        },
         "38174107413584020": {
             "crew_history": [
                 "WingingIt"
@@ -31542,6 +31590,29 @@
             ],
             "registered": "Feb 26, 2026, 4:36:55 PM",
             "role_id": 38174107413584156,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584166": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 105796.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1311.469970703125,
+                "y": -27867.458984375,
+                "z": 97869.1171875
+            },
+            "last_seen": "Feb 28, 2026, 5:36:44 PM",
+            "level": 38,
+            "name": "TTVBr1z4d3x",
+            "name_history": [
+                "TTVBr1z4d3x"
+            ],
+            "registered": "Feb 26, 2026, 5:26:03 PM",
+            "role_id": 38174107413584166,
             "server_region": "ws-america-01"
         },
         "38174107413584216": {
@@ -32007,7 +32078,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1743,
-    "last_updated": "Feb 28, 2026, 5:35:44 PM",
+    "accounts_total": 1746,
+    "last_updated": "Feb 28, 2026, 5:36:44 PM",
     "server_region": "ws-america-01"
 }
