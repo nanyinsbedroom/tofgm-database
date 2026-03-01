@@ -33080,14 +33080,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695878667": {
-            "crew_id": 137438968276,
-            "crew_name": "耳狸窝",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
-            "gender": 1,
-            "hp": 497658.34375,
-            "last_seen": "2025年10月16日 上午 12:58:17",
-            "level": 59,
+            "gender": 0,
+            "hp": 2160744.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -68632.0078125,
+                "y": 71792.8828125,
+                "z": -10146.03515625
+            },
+            "last_seen": "2026年3月2日 上午6:23:38",
+            "level": 84,
             "name": "金色树叶",
+            "name_history": [
+                "金色树叶"
+            ],
             "registered": "2025年9月27日 下午4:36:07",
             "role_id": 63582695878667,
             "server_region": "cosmic-fold"
@@ -76511,6 +76523,31 @@
             "role_id": 63582696011127,
             "server_region": "cosmic-fold"
         },
+        "63582696011200": {
+            "crew_history": [
+                "抵达深空"
+            ],
+            "crew_id": 820338768340,
+            "crew_name": "抵达深空",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 124597.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84313.1953125,
+                "y": 82628.4375,
+                "z": -9250.859375
+            },
+            "last_seen": "2026年3月2日 上午6:23:38",
+            "level": 46,
+            "name": "烙偷",
+            "name_history": [
+                "烙偷"
+            ],
+            "registered": "2026年2月27日 上午10:57:18",
+            "role_id": 63582696011200,
+            "server_region": "cosmic-fold"
+        },
         "63582696011242": {
             "crew_history": [],
             "crew_id": 0,
@@ -77154,9 +77191,32 @@
             "registered": "2026年3月2日 上午2:51:19",
             "role_id": 63582696013516,
             "server_region": "cosmic-fold"
+        },
+        "63582696013529": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26798.103515625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55542.1875,
+                "y": 78785.890625,
+                "z": -11347.53125
+            },
+            "last_seen": "2026年3月2日 上午6:23:38",
+            "level": 6,
+            "name": "Newgate",
+            "name_history": [
+                "Newgate"
+            ],
+            "registered": "2026年3月2日 上午5:48:57",
+            "role_id": 63582696013529,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5243,
-    "last_updated": "2026年3月2日 上午6:22:38",
+    "accounts_total": 5245,
+    "last_updated": "2026年3月2日 上午6:23:38",
     "server_region": "cosmic-fold"
 }
