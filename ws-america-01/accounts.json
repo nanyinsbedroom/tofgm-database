@@ -10374,13 +10374,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413518534": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 919405.125,
-            "last_seen": "Jan 23, 2026, 08:23:47 PM",
-            "level": 72,
+            "hp": 1173786.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1253.8499755859375,
+                "y": -27660.94921875,
+                "z": 96706.9453125
+            },
+            "last_seen": "Feb 28, 2026, 7:38:40 PM",
+            "level": 77,
             "name": "Astraea",
             "name_history": [
                 "Astraea"
@@ -32357,6 +32366,6 @@
         }
     },
     "accounts_total": 1756,
-    "last_updated": "Feb 28, 2026, 7:37:40 PM",
+    "last_updated": "Feb 28, 2026, 7:38:40 PM",
     "server_region": "ws-america-01"
 }
