@@ -838,14 +838,14 @@
             "crew_name": "地狱",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2491947.0,
+            "hp": 2196398.0,
             "last_known_position": {
-                "map": "city",
-                "x": 6476.15966796875,
-                "y": -30215.51953125,
-                "z": 96329.53125
+                "map": "QRSL_P",
+                "x": -51062.1875,
+                "y": -88614.5,
+                "z": 21858.169921875
             },
-            "last_seen": "2026年2月18日 下午10:59:36",
+            "last_seen": "2026年3月1日 下午8:04:15",
             "level": 100,
             "name": "浮华·挽霜",
             "name_history": [
@@ -1772,14 +1772,14 @@
             "crew_name": "爱你",
             "equipping_title": "2_10_3_1",
             "gender": 0,
-            "hp": 2815236.75,
+            "hp": 1925397.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53983.859375,
-                "y": -88229.046875,
-                "z": 21717.099609375
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月18日 下午10:27:35",
+            "last_seen": "2026年3月1日 下午8:04:15",
             "level": 100,
             "name": "嫦羲",
             "name_history": [
@@ -3435,6 +3435,31 @@
             ],
             "registered": "2022年9月25日 下午1:18:03",
             "role_id": 62715113196281,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113223234": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
+            "crew_id": 236223215882,
+            "crew_name": "喵雪冰城",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 1276325.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55025.44921875,
+                "y": -86775.421875,
+                "z": 21725.990234375
+            },
+            "last_seen": "2026年3月1日 下午8:04:15",
+            "level": 100,
+            "name": "荒古凛冽",
+            "name_history": [
+                "荒古凛冽"
+            ],
+            "registered": "2022年10月4日 下午7:36:20",
+            "role_id": 62715113223234,
             "server_region": "reshaping-the-future"
         },
         "62715113234358": {
@@ -12254,6 +12279,31 @@
             "role_id": 62715114595491,
             "server_region": "reshaping-the-future"
         },
+        "62715114595541": {
+            "crew_history": [
+                "世界BCSS"
+            ],
+            "crew_id": 4209067964682,
+            "crew_name": "世界BCSS",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 608733.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55762.76953125,
+                "y": -84224.4375,
+                "z": 22291.650390625
+            },
+            "last_seen": "2026年3月1日 下午8:04:15",
+            "level": 54,
+            "name": "苍小",
+            "name_history": [
+                "苍小"
+            ],
+            "registered": "2026年2月26日 下午8:01:16",
+            "role_id": 62715114595541,
+            "server_region": "reshaping-the-future"
+        },
         "62715114595552": {
             "crew_history": [
                 "杏酒"
@@ -14091,6 +14141,31 @@
             ],
             "registered": "2022年11月22日 上午12:32:54",
             "role_id": 62719408351293,
+            "server_region": "reshaping-the-future"
+        },
+        "62719408355864": {
+            "crew_history": [
+                "烈焰"
+            ],
+            "crew_id": 9109625649419,
+            "crew_name": "烈焰",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 1621843.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54138.7890625,
+                "y": -88075.515625,
+                "z": 21724.98046875
+            },
+            "last_seen": "2026年3月1日 下午8:04:15",
+            "level": 100,
+            "name": "空灵薇薇",
+            "name_history": [
+                "空灵薇薇"
+            ],
+            "registered": "2022年11月23日 下午7:44:01",
+            "role_id": 62719408355864,
             "server_region": "reshaping-the-future"
         },
         "62719408358182": {
@@ -20204,7 +20279,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 926,
-    "last_updated": "2026年3月1日 下午8:03:15",
+    "accounts_total": 929,
+    "last_updated": "2026年3月1日 下午8:04:15",
     "server_region": "reshaping-the-future"
 }
