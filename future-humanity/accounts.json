@@ -4776,14 +4776,14 @@
             "crew_name": "投降喵",
             "equipping_title": "1_7_1_3",
             "gender": 0,
-            "hp": 3153348.75,
+            "hp": 2095311.625,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324843.59375,
-                "y": 204251.390625,
-                "z": -28340.279296875
+                "map": "QRSL_P",
+                "x": -55123.73828125,
+                "y": -88301.1171875,
+                "z": 21725.048828125
             },
-            "last_seen": "2026年2月15日 下午10:55:10",
+            "last_seen": "2026年3月1日 下午6:25:40",
             "level": 100,
             "name": "奥斯特",
             "name_history": [
@@ -5858,6 +5858,31 @@
             ],
             "registered": "2024年5月25日 下午11:18:42",
             "role_id": 60563335266116,
+            "server_region": "future-humanity"
+        },
+        "60563335268817": {
+            "crew_history": [
+                "闲人"
+            ],
+            "crew_id": 14074607843093,
+            "crew_name": "闲人",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 1528206.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54338.859375,
+                "y": -87773.359375,
+                "z": 21725.888671875
+            },
+            "last_seen": "2026年3月1日 下午6:25:40",
+            "level": 100,
+            "name": "希尔薇德",
+            "name_history": [
+                "希尔薇德"
+            ],
+            "registered": "2024年5月26日 下午4:43:06",
+            "role_id": 60563335268817,
             "server_region": "future-humanity"
         },
         "60563335268827": {
@@ -23436,7 +23461,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1079,
-    "last_updated": "2026年3月1日 下午6:24:40",
+    "accounts_total": 1080,
+    "last_updated": "2026年3月1日 下午6:25:40",
     "server_region": "future-humanity"
 }
