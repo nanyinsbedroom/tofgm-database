@@ -24833,15 +24833,15 @@
             "crew_name": "LufusIntegra",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 837880.3125,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -889.989990234375,
-                "y": -27907.439453125,
-                "z": 97911.1796875
+                "map": "Kailo_P_003",
+                "x": 101841.4140625,
+                "y": -183477.09375,
+                "z": -7851.220703125
             },
-            "last_seen": "Feb 24, 2026, 8:56:52 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 8:55:10 PM",
+            "level": 77,
             "name": "skener 3",
             "name_history": [
                 "skener 3"
@@ -56339,13 +56339,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118574092": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 549236.3125,
-            "last_seen": "Feb 8, 2026, 7:11:03 PM",
-            "level": 73,
+            "hp": 2704000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 97687.59375,
+                "y": -189423.640625,
+                "z": -7911.56005859375
+            },
+            "last_seen": "Mar 1, 2026, 8:55:10 PM",
+            "level": 77,
             "name": "ちょこりん",
             "name_history": [
                 "ちょこりん"
@@ -60628,13 +60637,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118577981": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "WorldBossDamage_2;boss_hum_053_world;6",
+            "equipping_title": "1_6_4_5",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 9:15:46 PM",
-            "level": 75,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106133.125,
+                "y": -184235.53125,
+                "z": -5546.4296875
+            },
+            "last_seen": "Mar 1, 2026, 8:55:10 PM",
+            "level": 77,
             "name": "Fanim",
             "name_history": [
                 "Fanim"
@@ -83791,13 +83809,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118602920": {
+            "crew_history": [
+                "りんごあめ"
+            ],
             "crew_id": 304951566117,
             "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1058903.75,
-            "last_seen": "Feb 10, 2026, 8:28:33 PM",
-            "level": 75,
+            "hp": 2704000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101004.9453125,
+                "y": -190942.671875,
+                "z": -7553.73974609375
+            },
+            "last_seen": "Mar 1, 2026, 8:55:10 PM",
+            "level": 77,
             "name": "むぎりん",
             "name_history": [
                 "むぎりん"
@@ -89899,6 +89926,6 @@
         }
     },
     "accounts_total": 5400,
-    "last_updated": "Mar 1, 2026, 8:52:10 PM",
+    "last_updated": "Mar 1, 2026, 8:55:10 PM",
     "server_region": "ws-asia-01"
 }
