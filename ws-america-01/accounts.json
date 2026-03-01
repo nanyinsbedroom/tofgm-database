@@ -29596,17 +29596,17 @@
             ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_015_world;70",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 319103.8125,
+            "hp": 721948.5625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -71187.6953125,
-                "y": 50147.34765625,
-                "z": -12321.4814453125
+                "x": -87392.53125,
+                "y": 81526.3984375,
+                "z": -7073.02001953125
             },
-            "last_seen": "Feb 17, 2026, 3:40:16 AM",
-            "level": 65,
+            "last_seen": "Mar 1, 2026, 5:42:09 PM",
+            "level": 76,
             "name": "HORCRUX",
             "name_history": [
                 "HORCRUX"
@@ -32699,9 +32699,78 @@
             "registered": "Feb 28, 2026, 7:40:15 PM",
             "role_id": 38174107413584450,
             "server_region": "ws-america-01"
+        },
+        "38174107413584552": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 38627.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -86494.359375,
+                "y": 73399.09375,
+                "z": -7287.5224609375
+            },
+            "last_seen": "Mar 1, 2026, 5:42:09 PM",
+            "level": 8,
+            "name": "Jin king",
+            "name_history": [
+                "Jin king"
+            ],
+            "registered": "Mar 1, 2026, 2:46:02 PM",
+            "role_id": 38174107413584552,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584563": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 43366.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81713.984375,
+                "y": 90331.421875,
+                "z": -3692.60986328125
+            },
+            "last_seen": "Mar 1, 2026, 5:42:09 PM",
+            "level": 10,
+            "name": "EtherRise",
+            "name_history": [
+                "EtherRise"
+            ],
+            "registered": "Mar 1, 2026, 4:05:51 PM",
+            "role_id": 38174107413584563,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584570": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 65012.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -94231.1171875,
+                "y": 83081.53125,
+                "z": -6611.75
+            },
+            "last_seen": "Mar 1, 2026, 5:42:09 PM",
+            "level": 47,
+            "name": "giussep cadura",
+            "name_history": [
+                "giussep cadura"
+            ],
+            "registered": "Mar 1, 2026, 4:43:22 PM",
+            "role_id": 38174107413584570,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1770,
-    "last_updated": "Mar 1, 2026, 5:41:09 PM",
+    "accounts_total": 1773,
+    "last_updated": "Mar 1, 2026, 5:42:09 PM",
     "server_region": "ws-america-01"
 }
