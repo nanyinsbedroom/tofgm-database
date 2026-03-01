@@ -3008,14 +3008,14 @@
             "crew_name": "VN-Archon",
             "equipping_title": "1_1_7_1",
             "gender": 1,
-            "hp": 2841755.75,
+            "hp": 6211284.5,
             "last_known_position": {
-                "map": "Team8P_16_D_II",
-                "x": 82289.4609375,
-                "y": 78156.1015625,
-                "z": 107769.6796875
+                "map": "Kailo_P_003",
+                "x": 99040.640625,
+                "y": -180232.765625,
+                "z": -7905.65576171875
             },
-            "last_seen": "Feb 17, 2026, 10:15:51 PM",
+            "last_seen": "Mar 1, 2026, 10:37:06 PM",
             "level": 100,
             "name": "Odin",
             "name_history": [
@@ -3561,12 +3561,21 @@
             "server_region": "southeast-asia"
         },
         "68736656605715": {
+            "crew_history": [
+                "SOVEREIGN"
+            ],
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
-            "equipping_title": "1_1_30_1",
+            "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 2802658.25,
-            "last_seen": "Nov 04, 2025, 11:19:53 PM",
+            "hp": 6120237.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 91725.109375,
+                "y": -185650.640625,
+                "z": -7756.107421875
+            },
+            "last_seen": "Mar 1, 2026, 10:37:06 PM",
             "level": 100,
             "name": "Murnilia",
             "name_history": [
@@ -29871,11 +29880,11 @@
             "hp": 6212618.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 93012.8984375,
-                "y": -199131.359375,
-                "z": -4800.337890625
+                "x": 84408.53125,
+                "y": -166409.5,
+                "z": -3784.562255859375
             },
-            "last_seen": "Feb 28, 2026, 10:48:15 PM",
+            "last_seen": "Mar 1, 2026, 10:37:06 PM",
             "level": 100,
             "name": "ST♥",
             "name_history": [
@@ -30486,6 +30495,6 @@
         }
     },
     "accounts_total": 2074,
-    "last_updated": "Mar 1, 2026, 10:36:06 PM",
+    "last_updated": "Mar 1, 2026, 10:37:06 PM",
     "server_region": "southeast-asia"
 }
