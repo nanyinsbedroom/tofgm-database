@@ -74736,6 +74736,29 @@
             "role_id": 63582696009358,
             "server_region": "cosmic-fold"
         },
+        "63582696009366": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25076.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -88933.1953125,
+                "y": 82933.296875,
+                "z": -7042.9697265625
+            },
+            "last_seen": "2026年3月2日 上午6:22:38",
+            "level": 7,
+            "name": "荒石集",
+            "name_history": [
+                "荒石集"
+            ],
+            "registered": "2026年2月24日 下午10:28:43",
+            "role_id": 63582696009366,
+            "server_region": "cosmic-fold"
+        },
         "63582696009369": {
             "crew_history": [],
             "crew_id": 0,
@@ -77108,9 +77131,32 @@
             "registered": "2026年2月28日 下午11:08:55",
             "role_id": 63582696012639,
             "server_region": "cosmic-fold"
+        },
+        "63582696013516": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99640.3359375,
+                "y": 80583.53125,
+                "z": -4993.27001953125
+            },
+            "last_seen": "2026年3月2日 上午6:22:38",
+            "level": 1,
+            "name": "龘箕",
+            "name_history": [
+                "龘箕"
+            ],
+            "registered": "2026年3月2日 上午2:51:19",
+            "role_id": 63582696013516,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5241,
-    "last_updated": "2026年2月28日 下午11:13:58",
+    "accounts_total": 5243,
+    "last_updated": "2026年3月2日 上午6:22:38",
     "server_region": "cosmic-fold"
 }
