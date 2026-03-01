@@ -4676,14 +4676,14 @@
             "crew_name": "Stray",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1172699.5,
+            "hp": 1914418.0,
             "last_known_position": {
-                "map": "city",
-                "x": -107.54999542236328,
-                "y": -17769.359375,
-                "z": 96329.5390625
+                "map": "Kailo_P_003",
+                "x": 109594.421875,
+                "y": -188809.015625,
+                "z": -4682.84228515625
             },
-            "last_seen": "Feb 27, 2026, 12:16:34 AM",
+            "last_seen": "Feb 28, 2026, 7:33:40 PM",
             "level": 77,
             "name": "Shizuka Kuze",
             "name_history": [
@@ -23859,21 +23859,22 @@
         },
         "38174107413568127": {
             "crew_history": [
+                "Sovereign",
                 "Solstice"
             ],
-            "crew_id": 8598822694,
-            "crew_name": "Solstice",
-            "equipping_title": "2_7_0_13",
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "1_4_6_6",
             "gender": 1,
-            "hp": 1117512.0,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -72940.234375,
-                "y": 48927.58984375,
-                "z": -12317.3193359375
+                "map": "Kailo_P_003",
+                "x": 89812.921875,
+                "y": -192455.765625,
+                "z": -4238.2861328125
             },
-            "last_seen": "Feb 23, 2026, 10:53:47 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 7:33:40 PM",
+            "level": 77,
             "name": "GazelleSkull",
             "name_history": [
                 "GazelleSkull"
@@ -24650,15 +24651,15 @@
             "crew_name": "Mishi-Raymi",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 473683.0625,
+            "hp": 2598504.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 91664.5390625,
-                "y": -219633.03125,
-                "z": 807.5999755859375
+                "x": 96406.9609375,
+                "y": -196383.75,
+                "z": -2875.8798828125
             },
-            "last_seen": "Feb 23, 2026, 10:49:47 PM",
-            "level": 74,
+            "last_seen": "Feb 28, 2026, 7:33:40 PM",
+            "level": 75,
             "name": " Luna ",
             "name_history": [
                 " Luna ",
@@ -32319,6 +32320,6 @@
         }
     },
     "accounts_total": 1755,
-    "last_updated": "Feb 28, 2026, 7:32:40 PM",
+    "last_updated": "Feb 28, 2026, 7:33:40 PM",
     "server_region": "ws-america-01"
 }
