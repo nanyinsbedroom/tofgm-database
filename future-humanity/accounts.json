@@ -11,11 +11,11 @@
             "hp": 2020405.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55048.37890625,
-                "y": -86780.3359375,
-                "z": 21710.96875
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月26日 下午4:23:08",
+            "last_seen": "2026年3月1日 下午6:17:39",
             "level": 100,
             "name": "旅行者.",
             "name_history": [
@@ -13457,6 +13457,31 @@
             "role_id": 60563335922155,
             "server_region": "future-humanity"
         },
+        "60563335924057": {
+            "crew_history": [
+                "投降喵"
+            ],
+            "crew_id": 14383845488405,
+            "crew_name": "投降喵",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1092349.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55540.01953125,
+                "y": -88720.15625,
+                "z": 21706.94921875
+            },
+            "last_seen": "2026年3月1日 下午6:17:39",
+            "level": 100,
+            "name": "哎呦微",
+            "name_history": [
+                "哎呦微"
+            ],
+            "registered": "2025年8月6日 下午8:42:41",
+            "role_id": 60563335924057,
+            "server_region": "future-humanity"
+        },
         "60563335925401": {
             "crew_id": 0,
             "crew_name": "",
@@ -23228,7 +23253,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1071,
-    "last_updated": "2026年3月1日 下午6:16:39",
+    "accounts_total": 1072,
+    "last_updated": "2026年3月1日 下午6:17:39",
     "server_region": "future-humanity"
 }
