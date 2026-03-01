@@ -1311,12 +1311,12 @@
             "gender": 1,
             "hp": 1138054.625,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -54613.62890625,
-                "y": -87091.1015625,
-                "z": 21710.94921875
+                "map": "city",
+                "x": -153.6199951171875,
+                "y": -20237.94921875,
+                "z": 96480.4140625
             },
-            "last_seen": "2026年2月27日 下午4:09:23",
+            "last_seen": "2026年3月1日 下午5:58:38",
             "level": 100,
             "name": "好不",
             "name_history": [
@@ -7129,14 +7129,14 @@
             "crew_name": "万籁俱灭",
             "equipping_title": "2_2_0_79",
             "gender": 1,
-            "hp": 1393854.125,
+            "hp": 1617795.375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55208.37890625,
-                "y": -86795.53125,
-                "z": 21710.958984375
+                "map": "city",
+                "x": -167.14999389648438,
+                "y": -17836.208984375,
+                "z": 96329.53125
             },
-            "last_seen": "2026年2月28日 下午2:27:41",
+            "last_seen": "2026年3月1日 下午5:58:38",
             "level": 100,
             "name": "史莱姆生育模块",
             "name_history": [
@@ -15800,6 +15800,31 @@
             "role_id": 60563335997641,
             "server_region": "future-humanity"
         },
+        "60563335999237": {
+            "crew_history": [
+                "樱高轻音部"
+            ],
+            "crew_id": 957777721109,
+            "crew_name": "樱高轻音部",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 391163.78125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1767.39990234375,
+                "y": -27850.298828125,
+                "z": 97880.1171875
+            },
+            "last_seen": "2026年3月1日 下午5:58:38",
+            "level": 48,
+            "name": "衫斯丝",
+            "name_history": [
+                "衫斯丝"
+            ],
+            "registered": "2026年2月9日 下午9:13:05",
+            "role_id": 60563335999237,
+            "server_region": "future-humanity"
+        },
         "60563336000039": {
             "crew_history": [
                 "极昼"
@@ -21900,6 +21925,31 @@
             "role_id": 62727997444514,
             "server_region": "future-humanity"
         },
+        "62727997523451": {
+            "crew_history": [
+                "魅魔"
+            ],
+            "crew_id": 15079630190357,
+            "crew_name": "魅魔",
+            "equipping_title": "拉菲不甜的导师,0",
+            "gender": 1,
+            "hp": 1906091.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -864.4199829101563,
+                "y": -16374.0595703125,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年3月1日 下午5:58:38",
+            "level": 100,
+            "name": "杨千叶",
+            "name_history": [
+                "杨千叶"
+            ],
+            "registered": "2022年9月26日 下午11:43:34",
+            "role_id": 62727997523451,
+            "server_region": "future-humanity"
+        },
         "62727997611098": {
             "crew_history": [
                 "绘梨猫"
@@ -22604,7 +22654,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1047,
-    "last_updated": "2026年2月28日 下午4:38:51",
+    "accounts_total": 1049,
+    "last_updated": "2026年3月1日 下午5:58:38",
     "server_region": "future-humanity"
 }
