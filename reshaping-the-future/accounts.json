@@ -863,14 +863,14 @@
             "crew_name": "赦免天使",
             "equipping_title": "2_3_0_2",
             "gender": 1,
-            "hp": 2503821.5,
+            "hp": 2505699.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -57006.21875,
-                "y": -80477.6796875,
-                "z": 22505.755859375
+                "x": -56750.078125,
+                "y": -81614.1875,
+                "z": 22506.0390625
             },
-            "last_seen": "2026年2月27日 下午6:42:03",
+            "last_seen": "2026年3月1日 下午8:23:16",
             "level": 100,
             "name": "媞雅",
             "name_history": [
@@ -1494,15 +1494,25 @@
             "server_region": "reshaping-the-future"
         },
         "62281320787001": {
-            "crew_id": 944892819823,
-            "crew_name": "微光",
-            "equipping_title": "魔女敷敷的导师,0",
+            "crew_history": [
+                "喵雪冰城"
+            ],
+            "crew_id": 236223215882,
+            "crew_name": "喵雪冰城",
+            "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2421131.0,
-            "last_seen": "2025年11月25日 上午 1:58:17",
+            "hp": 2533570.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54980.5703125,
+                "y": -88258.890625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月1日 下午8:23:16",
             "level": 100,
-            "name": "草莓味胖次",
+            "name": "玉京丶",
             "name_history": [
+                "玉京丶",
                 "草莓味胖次"
             ],
             "registered": "2021年12月16日 下午6:38:54",
@@ -2174,6 +2184,31 @@
             ],
             "registered": "2022年4月29日 下午4:16:33",
             "role_id": 62715112571411,
+            "server_region": "reshaping-the-future"
+        },
+        "62715112580663": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
+            "crew_id": 236223215882,
+            "crew_name": "喵雪冰城",
+            "equipping_title": "2_2_0_44",
+            "gender": 1,
+            "hp": 2274219.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54930.52734375,
+                "y": -87977.7578125,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年3月1日 下午8:23:16",
+            "level": 100,
+            "name": "皮皮子",
+            "name_history": [
+                "皮皮子"
+            ],
+            "registered": "2022年4月29日 下午11:06:59",
+            "role_id": 62715112580663,
             "server_region": "reshaping-the-future"
         },
         "62715112586203": {
@@ -3177,14 +3212,14 @@
             "crew_name": "微光",
             "equipping_title": "1_8_0_25",
             "gender": 1,
-            "hp": 2224508.5,
+            "hp": 2464324.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55200.1796875,
-                "y": -87065.6171875,
-                "z": 21710.87890625
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月27日 下午8:09:20",
+            "last_seen": "2026年3月1日 下午8:23:16",
             "level": 100,
             "name": "云隙阳光",
             "name_history": [
@@ -17980,6 +18015,29 @@
             "role_id": 63148904302146,
             "server_region": "reshaping-the-future"
         },
+        "63148904304253": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 506847.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53829.84765625,
+                "y": -87881.15625,
+                "z": 21718.96875
+            },
+            "last_seen": "2026年3月1日 下午8:23:16",
+            "level": 100,
+            "name": "但如烟花",
+            "name_history": [
+                "但如烟花"
+            ],
+            "registered": "2023年10月3日 上午8:54:18",
+            "role_id": 63148904304253,
+            "server_region": "reshaping-the-future"
+        },
         "63148904310353": {
             "crew_history": [
                 "挽梦挽星辰"
@@ -20700,7 +20758,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 946,
-    "last_updated": "2026年3月1日 下午8:22:16",
+    "accounts_total": 948,
+    "last_updated": "2026年3月1日 下午8:23:16",
     "server_region": "reshaping-the-future"
 }
