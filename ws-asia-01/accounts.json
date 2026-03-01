@@ -21682,15 +21682,15 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 1197619.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 98451.78125,
-                "y": -188936.421875,
-                "z": -7826.5400390625
+                "map": "city",
+                "x": -207.14186096191406,
+                "y": -27710.91015625,
+                "z": 99019.9140625
             },
-            "last_seen": "Feb 18, 2026, 7:42:51 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 8:46:10 PM",
+            "level": 77,
             "name": "Zephyne",
             "name_history": [
                 "Zephyne"
@@ -46833,15 +46833,15 @@
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 545241.625,
+            "hp": 568817.375,
             "last_known_position": {
                 "map": "city",
-                "x": 628.0199584960938,
-                "y": -28039.048828125,
-                "z": 97915.9765625
+                "x": 146.95999145507813,
+                "y": -28166.259765625,
+                "z": 97898.1640625
             },
-            "last_seen": "Feb 15, 2026, 10:13:53 PM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:46:10 PM",
+            "level": 77,
             "name": "XiFays",
             "name_history": [
                 "XiFays"
@@ -89379,6 +89379,31 @@
             "role_id": 38174103118613862,
             "server_region": "ws-asia-01"
         },
+        "38174103118613894": {
+            "crew_history": [
+                "La Vie en Rose"
+            ],
+            "crew_id": 1322858815269,
+            "crew_name": "La Vie en Rose",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 99434.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1474.7999267578125,
+                "y": -28435.859375,
+                "z": 97879.1171875
+            },
+            "last_seen": "Mar 1, 2026, 8:46:10 PM",
+            "level": 51,
+            "name": "Renako",
+            "name_history": [
+                "Renako"
+            ],
+            "registered": "Feb 22, 2026, 3:44:04 PM",
+            "role_id": 38174103118613894,
+            "server_region": "ws-asia-01"
+        },
         "38174103118613903": {
             "crew_history": [],
             "crew_id": 0,
@@ -89802,7 +89827,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5398,
-    "last_updated": "Mar 1, 2026, 8:45:10 PM",
+    "accounts_total": 5399,
+    "last_updated": "Mar 1, 2026, 8:46:10 PM",
     "server_region": "ws-asia-01"
 }
