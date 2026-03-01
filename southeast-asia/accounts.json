@@ -9969,14 +9969,14 @@
             "crew_name": "OnlyFนN",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 3100425.75,
+            "hp": 3128293.5,
             "last_known_position": {
-                "map": "Team8P_07_D_II",
-                "x": -19126.369140625,
-                "y": 51414.1875,
-                "z": -15470.7099609375
+                "map": "void_SY_11",
+                "x": -3239.0,
+                "y": -3070.949951171875,
+                "z": 127.14999389648438
             },
-            "last_seen": "Feb 27, 2026, 11:00:39 PM",
+            "last_seen": "Mar 1, 2026, 11:00:16 PM",
             "level": 100,
             "name": "VelonicaZ",
             "name_history": [
@@ -22229,13 +22229,22 @@
             "server_region": "southeast-asia"
         },
         "68775311755985": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 928955.125,
-            "last_seen": "Nov 06, 2025, 06:25:21 PM",
-            "level": 82,
+            "hp": 1495054.25,
+            "last_known_position": {
+                "map": "void_SY_11",
+                "x": -4218.73974609375,
+                "y": 66.54999542236328,
+                "z": 127.14999389648438
+            },
+            "last_seen": "Mar 1, 2026, 11:00:16 PM",
+            "level": 100,
             "name": "miaomiao",
             "name_history": [
                 "miaomiao"
@@ -30495,6 +30504,6 @@
         }
     },
     "accounts_total": 2074,
-    "last_updated": "Mar 1, 2026, 10:59:16 PM",
+    "last_updated": "Mar 1, 2026, 11:00:16 PM",
     "server_region": "southeast-asia"
 }
