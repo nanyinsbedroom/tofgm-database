@@ -3969,11 +3969,11 @@
             "hp": 1116540.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1791.260009765625,
-                "y": -28104.44921875,
-                "z": 97872.6171875
+                "x": 2225.929931640625,
+                "y": -29210.8984375,
+                "z": 97882.140625
             },
-            "last_seen": "Feb 28, 2026, 7:30:40 PM",
+            "last_seen": "Mar 1, 2026, 5:52:09 PM",
             "level": 77,
             "name": "bismar",
             "name_history": [
@@ -6308,6 +6308,31 @@
             ],
             "registered": "Nov 25, 2025, 6:15:58 AM",
             "role_id": 38174107413515535,
+            "server_region": "ws-america-01"
+        },
+        "38174107413515567": {
+            "crew_history": [
+                "RedSuns"
+            ],
+            "crew_id": 231937122086,
+            "crew_name": "RedSuns",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;95",
+            "gender": 1,
+            "hp": 684902.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2525.02001953125,
+                "y": -27543.01953125,
+                "z": 97941.3046875
+            },
+            "last_seen": "Mar 1, 2026, 5:52:09 PM",
+            "level": 73,
+            "name": "Imperatriz",
+            "name_history": [
+                "Imperatriz"
+            ],
+            "registered": "Nov 25, 2025, 6:19:07 AM",
+            "role_id": 38174107413515567,
             "server_region": "ws-america-01"
         },
         "38174107413515589": {
@@ -9333,6 +9358,31 @@
             "role_id": 38174107413517831,
             "server_region": "ws-america-01"
         },
+        "38174107413517832": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 967172.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1748.989990234375,
+                "y": -28707.619140625,
+                "z": 97872.1875
+            },
+            "last_seen": "Mar 1, 2026, 5:52:09 PM",
+            "level": 76,
+            "name": "Lari",
+            "name_history": [
+                "Lari"
+            ],
+            "registered": "Nov 25, 2025, 8:40:18 AM",
+            "role_id": 38174107413517832,
+            "server_region": "ws-america-01"
+        },
         "38174107413517844": {
             "crew_id": 0,
             "crew_name": "",
@@ -10511,16 +10561,16 @@
             ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1189026.125,
+            "hp": 1190522.875,
             "last_known_position": {
                 "map": "city",
-                "x": 3067.817138671875,
-                "y": -26033.9453125,
-                "z": 98611.84375
+                "x": 1478.989990234375,
+                "y": -27795.30859375,
+                "z": 97886.1171875
             },
-            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "last_seen": "Mar 1, 2026, 5:52:09 PM",
             "level": 77,
             "name": "PG13",
             "name_history": [
@@ -16545,14 +16595,14 @@
             "crew_name": "Supernova",
             "equipping_title": "2_10_1_8",
             "gender": 0,
-            "hp": 1183585.25,
+            "hp": 1187396.75,
             "last_known_position": {
                 "map": "city",
-                "x": -181.88999938964844,
-                "y": -23928.55859375,
-                "z": 96737.375
+                "x": 234.09999084472656,
+                "y": -24609.298828125,
+                "z": 96713.4453125
             },
-            "last_seen": "Feb 27, 2026, 6:11:48 PM",
+            "last_seen": "Mar 1, 2026, 5:52:09 PM",
             "level": 77,
             "name": "Beans007",
             "name_history": [
@@ -33082,7 +33132,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1785,
-    "last_updated": "Mar 1, 2026, 5:50:09 PM",
+    "accounts_total": 1787,
+    "last_updated": "Mar 1, 2026, 5:52:09 PM",
     "server_region": "ws-america-01"
 }
