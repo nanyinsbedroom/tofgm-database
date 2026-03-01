@@ -3033,7 +3033,7 @@
                 "y": 45700.52734375,
                 "z": -12296.4296875
             },
-            "last_seen": "Feb 28, 2026, 7:50:41 PM",
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
             "level": 75,
             "name": "Barbie",
             "name_history": [
@@ -17762,13 +17762,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413532247": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 895497.375,
-            "last_seen": "Feb 7, 2026, 2:28:09 PM",
-            "level": 74,
+            "hp": 1069111.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73523.609375,
+                "y": 49099.45703125,
+                "z": -12291.3701171875
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 77,
             "name": "PhantomX ",
             "name_history": [
                 "PhantomX "
@@ -23967,6 +23976,31 @@
             "role_id": 38174107413567761,
             "server_region": "ws-america-01"
         },
+        "38174107413567888": {
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 712939.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73505.5390625,
+                "y": 49099.828125,
+                "z": -12307.3701171875
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 73,
+            "name": "Rekka",
+            "name_history": [
+                "Rekka"
+            ],
+            "registered": "Dec 21, 2025, 12:23:44 AM",
+            "role_id": 38174107413567888,
+            "server_region": "ws-america-01"
+        },
         "38174107413567922": {
             "crew_id": 25778691878,
             "crew_name": "Fate",
@@ -25995,14 +26029,14 @@
             "crew_name": "Supernova",
             "equipping_title": "WorldBossDamage_2;boss_hum_061_World;5",
             "gender": 0,
-            "hp": 952056.875,
+            "hp": 966399.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91428.9140625,
-                "y": 75889.546875,
-                "z": -6949.8798828125
+                "x": -84240.7421875,
+                "y": 73272.9921875,
+                "z": -8547.5224609375
             },
-            "last_seen": "Feb 28, 2026, 7:45:40 PM",
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
             "level": 77,
             "name": "Kitsoka Ofc",
             "name_history": [
@@ -27845,15 +27879,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 16486.033203125,
+            "hp": 35336.22265625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -77797.359375,
-                "y": 76994.0703125,
-                "z": -9911.9599609375
+                "x": -81339.0,
+                "y": 82779.0,
+                "z": -9770.0
             },
-            "last_seen": "Feb 28, 2026, 7:49:41 PM",
-            "level": 23,
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 30,
             "name": "Izuka",
             "name_history": [
                 "Izuka"
@@ -31312,15 +31346,15 @@
             "crew_name": "Dreamlight",
             "equipping_title": "AYWOR's Apprentice,0",
             "gender": 0,
-            "hp": 200108.203125,
+            "hp": 201836.203125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72291.0546875,
-                "y": 49240.27734375,
-                "z": -12304.529296875
+                "x": -73432.46875,
+                "y": 49128.0390625,
+                "z": -12303.4892578125
             },
-            "last_seen": "Feb 28, 2026, 7:50:41 PM",
-            "level": 73,
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 75,
             "name": "Ojuara",
             "name_history": [
                 "Ojuara"
@@ -31421,6 +31455,29 @@
             ],
             "registered": "Feb 22, 2026, 5:48:20 AM",
             "role_id": 38174107413583595,
+            "server_region": "ws-america-01"
+        },
+        "38174107413583613": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 34124.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73091.0,
+                "y": 48998.0,
+                "z": -12306.0
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 11,
+            "name": "FrostZP",
+            "name_history": [
+                "FrostZP"
+            ],
+            "registered": "Feb 22, 2026, 9:45:55 AM",
+            "role_id": 38174107413583613,
             "server_region": "ws-america-01"
         },
         "38174107413583676": {
@@ -32083,15 +32140,15 @@
             "crew_name": "",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 105796.796875,
+            "hp": 106219.5703125,
             "last_known_position": {
-                "map": "city",
-                "x": 1311.469970703125,
-                "y": -27867.458984375,
-                "z": 97869.1171875
+                "map": "QRSL_P",
+                "x": -75124.2578125,
+                "y": 53396.83984375,
+                "z": -11310.6796875
             },
-            "last_seen": "Feb 28, 2026, 5:36:44 PM",
-            "level": 38,
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 39,
             "name": "TTVBr1z4d3x",
             "name_history": [
                 "TTVBr1z4d3x"
@@ -32700,6 +32757,29 @@
             "role_id": 38174107413584450,
             "server_region": "ws-america-01"
         },
+        "38174107413584536": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25299.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63806.16015625,
+                "y": 52273.98046875,
+                "z": -9665.9794921875
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 9,
+            "name": "Gimmy",
+            "name_history": [
+                "Gimmy"
+            ],
+            "registered": "Mar 1, 2026, 12:42:42 PM",
+            "role_id": 38174107413584536,
+            "server_region": "ws-america-01"
+        },
         "38174107413584552": {
             "crew_history": [],
             "crew_id": 0,
@@ -32721,6 +32801,52 @@
             ],
             "registered": "Mar 1, 2026, 2:46:02 PM",
             "role_id": 38174107413584552,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584557": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 39716.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73051.78125,
+                "y": 48975.51953125,
+                "z": -12310.45703125
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 11,
+            "name": "JhoowLuz",
+            "name_history": [
+                "JhoowLuz"
+            ],
+            "registered": "Mar 1, 2026, 3:23:20 PM",
+            "role_id": 38174107413584557,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584562": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 27434.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -82565.109375,
+                "y": 72185.53125,
+                "z": -8883.3095703125
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 5,
+            "name": "flinz",
+            "name_history": [
+                "flinz"
+            ],
+            "registered": "Mar 1, 2026, 3:56:23 PM",
+            "role_id": 38174107413584562,
             "server_region": "ws-america-01"
         },
         "38174107413584563": {
@@ -32768,9 +32894,55 @@
             "registered": "Mar 1, 2026, 4:43:22 PM",
             "role_id": 38174107413584570,
             "server_region": "ws-america-01"
+        },
+        "38174107413584574": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -79921.4921875,
+                "y": 82020.359375,
+                "z": -9786.8876953125
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 4,
+            "name": "Bradley",
+            "name_history": [
+                "Bradley"
+            ],
+            "registered": "Mar 1, 2026, 5:17:10 PM",
+            "role_id": 38174107413584574,
+            "server_region": "ws-america-01"
+        },
+        "38174107413584579": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 9792.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93915.1171875,
+                "y": 80648.53125,
+                "z": -6124.009765625
+            },
+            "last_seen": "Mar 1, 2026, 5:43:09 PM",
+            "level": 3,
+            "name": "Daruma",
+            "name_history": [
+                "Daruma"
+            ],
+            "registered": "Mar 1, 2026, 5:23:02 PM",
+            "role_id": 38174107413584579,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1773,
-    "last_updated": "Mar 1, 2026, 5:42:09 PM",
+    "accounts_total": 1780,
+    "last_updated": "Mar 1, 2026, 5:43:09 PM",
     "server_region": "ws-america-01"
 }
