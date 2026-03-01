@@ -6531,12 +6531,21 @@
             "server_region": "future-humanity"
         },
         "60563335338175": {
+            "crew_history": [
+                "星岛EXOF"
+            ],
             "crew_id": 14126147450645,
             "crew_name": "星岛EXOF",
             "equipping_title": "3_2024",
-            "gender": 0,
-            "hp": 1326022.25,
-            "last_seen": "2025年11月25日 上午 2:44:12",
+            "gender": 1,
+            "hp": 1354544.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55008.21875,
+                "y": -87138.140625,
+                "z": 21717.490234375
+            },
+            "last_seen": "2026年3月1日 下午6:02:39",
             "level": 100,
             "name": "冬丶寒宿",
             "name_history": [
@@ -22755,6 +22764,6 @@
         }
     },
     "accounts_total": 1053,
-    "last_updated": "2026年3月1日 下午6:01:39",
+    "last_updated": "2026年3月1日 下午6:02:39",
     "server_region": "future-humanity"
 }
