@@ -6816,12 +6816,12 @@
             "gender": 0,
             "hp": 1147521.875,
             "last_known_position": {
-                "map": "city",
-                "x": -487.8399963378906,
-                "y": -29533.37890625,
-                "z": 96725.6953125
+                "map": "QRSL_P",
+                "x": -55217.1484375,
+                "y": 86154.875,
+                "z": -10833.01953125
             },
-            "last_seen": "Feb 27, 2026, 7:33:30 PM",
+            "last_seen": "Feb 28, 2026, 7:48:41 PM",
             "level": 77,
             "name": "Neaʀ",
             "name_history": [
@@ -16970,14 +16970,14 @@
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1083050.25,
+            "hp": 1088426.25,
             "last_known_position": {
-                "map": "city",
-                "x": -524.969970703125,
-                "y": -22361.400390625,
-                "z": 96869.0078125
+                "map": "QRSL_P",
+                "x": -55231.41015625,
+                "y": 86136.90625,
+                "z": -10848.5498046875
             },
-            "last_seen": "Feb 26, 2026, 4:52:23 PM",
+            "last_seen": "Feb 28, 2026, 7:48:41 PM",
             "level": 77,
             "name": "ʚ ℓαℓα",
             "name_history": [
@@ -32075,6 +32075,29 @@
             "role_id": 38174107413584247,
             "server_region": "ws-america-01"
         },
+        "38174107413584254": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 43579.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91908.9765625,
+                "y": 75609.734375,
+                "z": -7027.2578125
+            },
+            "last_seen": "Feb 28, 2026, 7:48:41 PM",
+            "level": 9,
+            "name": "notaseraf",
+            "name_history": [
+                "notaseraf"
+            ],
+            "registered": "Feb 27, 2026, 12:18:42 PM",
+            "role_id": 38174107413584254,
+            "server_region": "ws-america-01"
+        },
         "38174107413584268": {
             "crew_history": [],
             "crew_id": 0,
@@ -32515,7 +32538,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1762,
-    "last_updated": "Feb 28, 2026, 7:47:40 PM",
+    "accounts_total": 1763,
+    "last_updated": "Feb 28, 2026, 7:48:41 PM",
     "server_region": "ws-america-01"
 }
