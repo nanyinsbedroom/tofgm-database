@@ -11803,6 +11803,31 @@
             "role_id": 63578401975895,
             "server_region": "time-travel"
         },
+        "63578401976464": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "2_10_1_11_1_1",
+            "gender": 1,
+            "hp": 837429.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72942.8984375,
+                "y": 49514.8984375,
+                "z": -12319.009765625
+            },
+            "last_seen": "2026年3月2日 上午6:19:38",
+            "level": 76,
+            "name": "叶带师",
+            "name_history": [
+                "叶带师"
+            ],
+            "registered": "2025年11月6日 上午12:02:00",
+            "role_id": 63578401976464,
+            "server_region": "time-travel"
+        },
         "63578401976533": {
             "crew_id": 201863477714,
             "crew_name": "七宫",
@@ -15613,9 +15638,32 @@
             "registered": "2026年2月27日 下午1:15:36",
             "role_id": 63578402004866,
             "server_region": "time-travel"
+        },
+        "63578402005103": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63630.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63515.95703125,
+                "y": 55395.6484375,
+                "z": -9790.8095703125
+            },
+            "last_seen": "2026年3月2日 上午6:19:38",
+            "level": 23,
+            "name": "估计就15",
+            "name_history": [
+                "估计就15"
+            ],
+            "registered": "2026年2月28日 下午2:52:12",
+            "role_id": 63578402005103,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 862,
-    "last_updated": "2026年3月2日 上午6:17:38",
+    "accounts_total": 864,
+    "last_updated": "2026年3月2日 上午6:19:38",
     "server_region": "time-travel"
 }
