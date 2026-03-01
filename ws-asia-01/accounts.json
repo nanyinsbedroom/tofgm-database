@@ -15352,13 +15352,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118551803": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1019706.0625,
-            "last_seen": "Feb 13, 2026, 3:37:30 AM",
-            "level": 75,
+            "hp": 1153791.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72576.71875,
+                "y": 49263.6875,
+                "z": -12312.279296875
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 77,
             "name": "りらっくす",
             "name_history": [
                 "りらっくす"
@@ -31458,13 +31467,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118558628": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 11, 2026, 7:37:36 PM",
-            "level": 75,
+            "hp": 1190301.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72527.140625,
+                "y": 49244.7578125,
+                "z": -12310.099609375
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 77,
             "name": "KOS",
             "name_history": [
                 "KOS"
@@ -41490,13 +41508,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118562887": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
             "equipping_title": "2_7_0_13",
             "gender": 0,
-            "hp": 0.0,
-            "last_seen": "Feb 8, 2026, 7:15:19 PM",
-            "level": 74,
+            "hp": 1141211.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72523.578125,
+                "y": 49282.80078125,
+                "z": -12320.580078125
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 77,
             "name": "ZerozXPoor",
             "name_history": [
                 "ZerozXPoor"
@@ -48193,6 +48220,31 @@
             "role_id": 38174103118566267,
             "server_region": "ws-asia-01"
         },
+        "38174103118566270": {
+            "crew_history": [
+                "WeWillWin"
+            ],
+            "crew_id": 107383070501,
+            "crew_name": "WeWillWin",
+            "equipping_title": "2_2_0_68",
+            "gender": 1,
+            "hp": 1079636.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72656.1484375,
+                "y": 49267.71875,
+                "z": -12309.6396484375
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 77,
+            "name": "Kali",
+            "name_history": [
+                "Kali"
+            ],
+            "registered": "Nov 26, 2025, 8:30:09 AM",
+            "role_id": 38174103118566270,
+            "server_region": "ws-asia-01"
+        },
         "38174103118566305": {
             "crew_id": 1159650058021,
             "crew_name": "CASTLE",
@@ -48416,15 +48468,15 @@
             "crew_name": "ミスティルテイン",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 520746.78125,
+            "hp": 637026.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -74051.828125,
-                "y": 48557.27734375,
-                "z": -12283.759765625
+                "x": -72654.6484375,
+                "y": 49285.08984375,
+                "z": -12304.259765625
             },
-            "last_seen": "Feb 27, 2026, 7:09:24 AM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 77,
             "name": "幻塔界隈のホルスタイン　",
             "name_history": [
                 "幻塔界隈のホルスタイン　"
@@ -66196,15 +66248,15 @@
             "crew_name": "こなもん",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 515627.375,
+            "hp": 546125.8125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55362.09765625,
-                "y": 86084.1015625,
-                "z": -10841.75
+                "x": -47174.0390625,
+                "y": 78822.3515625,
+                "z": -12378.0693359375
             },
-            "last_seen": "Feb 18, 2026, 1:43:26 AM",
-            "level": 73,
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 75,
             "name": "高嶺朱里",
             "name_history": [
                 "高嶺朱里",
@@ -89412,9 +89464,55 @@
             "registered": "Feb 26, 2026, 5:26:35 PM",
             "role_id": 38174103118614244,
             "server_region": "ws-asia-01"
+        },
+        "38174103118614359": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41198.9921875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56745.8125,
+                "y": 83561.8515625,
+                "z": -10838.7373046875
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 9,
+            "name": "monaxx",
+            "name_history": [
+                "monaxx"
+            ],
+            "registered": "Feb 28, 2026, 2:56:48 AM",
+            "role_id": 38174103118614359,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118614439": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 54142.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -66061.7578125,
+                "y": 57735.234375,
+                "z": -9288.1630859375
+            },
+            "last_seen": "Mar 1, 2026, 8:40:10 PM",
+            "level": 16,
+            "name": "Tiểu Bảo Bối",
+            "name_history": [
+                "Tiểu Bảo Bối"
+            ],
+            "registered": "Feb 28, 2026, 11:17:21 PM",
+            "role_id": 38174103118614439,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5389,
-    "last_updated": "Feb 27, 2026, 7:17:24 AM",
+    "accounts_total": 5392,
+    "last_updated": "Mar 1, 2026, 8:40:10 PM",
     "server_region": "ws-asia-01"
 }
