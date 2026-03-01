@@ -10222,13 +10222,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546755": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 107383070501,
             "crew_name": "WeWillWin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1061605.25,
-            "last_seen": "Feb 10, 2026, 8:24:33 PM",
-            "level": 75,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100198.21875,
+                "y": -185932.140625,
+                "z": -8024.25244140625
+            },
+            "last_seen": "Mar 1, 2026, 8:48:10 PM",
+            "level": 77,
             "name": "Ayana",
             "name_history": [
                 "Ayana"
@@ -24548,13 +24557,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118556332": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
-            "equipping_title": "はる's Apprentice,0",
+            "equipping_title": "❀はる❀'s Apprentice,0",
             "gender": 1,
-            "hp": 630647.6875,
-            "last_seen": "Dec 29, 2025, 04:00:29 AM",
-            "level": 66,
+            "hp": 2618200.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98224.40625,
+                "y": -179846.671875,
+                "z": -7863.0078125
+            },
+            "last_seen": "Mar 1, 2026, 8:48:10 PM",
+            "level": 77,
             "name": "noeLe",
             "name_history": [
                 "noeLe"
@@ -89871,6 +89889,6 @@
         }
     },
     "accounts_total": 5400,
-    "last_updated": "Mar 1, 2026, 8:47:10 PM",
+    "last_updated": "Mar 1, 2026, 8:48:10 PM",
     "server_region": "ws-asia-01"
 }
