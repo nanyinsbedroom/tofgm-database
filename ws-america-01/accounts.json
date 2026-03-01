@@ -10965,11 +10965,11 @@
             "hp": 1087740.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -64397.4375,
-                "y": 103978.765625,
-                "z": -7385.7998046875
+                "x": -99405.765625,
+                "y": 75352.4296875,
+                "z": -4023.760009765625
             },
-            "last_seen": "Feb 28, 2026, 5:32:44 PM",
+            "last_seen": "Feb 28, 2026, 7:45:40 PM",
             "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
@@ -17449,6 +17449,31 @@
             ],
             "registered": "Nov 25, 2025, 11:28:01 PM",
             "role_id": 38174107413531117,
+            "server_region": "ws-america-01"
+        },
+        "38174107413531235": {
+            "crew_history": [
+                "Minor Threat"
+            ],
+            "crew_id": 369376075558,
+            "crew_name": "Minor Threat",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;52",
+            "gender": 1,
+            "hp": 565460.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91098.015625,
+                "y": 77331.5703125,
+                "z": -7018.6396484375
+            },
+            "last_seen": "Feb 28, 2026, 7:45:40 PM",
+            "level": 74,
+            "name": "Boahankok",
+            "name_history": [
+                "Boahankok"
+            ],
+            "registered": "Nov 25, 2025, 11:44:20 PM",
+            "role_id": 38174107413531235,
             "server_region": "ws-america-01"
         },
         "38174107413531276": {
@@ -25860,21 +25885,22 @@
         },
         "38174107413577095": {
             "crew_history": [
+                "Supernova",
                 "Mishi-Raymi"
             ],
-            "crew_id": 502520061734,
-            "crew_name": "Mishi-Raymi",
-            "equipping_title": "WorldBossDamage_4;boss_hum_045_world;41",
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "WorldBossDamage_2;boss_hum_061_World;5",
             "gender": 0,
-            "hp": 737031.75,
+            "hp": 952056.875,
             "last_known_position": {
-                "map": "yaxiahuisu_D",
-                "x": -2429.0,
-                "y": 5538.0,
-                "z": -146.8699951171875
+                "map": "QRSL_P",
+                "x": -91428.9140625,
+                "y": 75889.546875,
+                "z": -6949.8798828125
             },
-            "last_seen": "Feb 18, 2026, 8:30:37 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 7:45:40 PM",
+            "level": 77,
             "name": "Kitsoka Ofc",
             "name_history": [
                 "Kitsoka Ofc"
@@ -32365,7 +32391,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1756,
-    "last_updated": "Feb 28, 2026, 7:39:40 PM",
+    "accounts_total": 1757,
+    "last_updated": "Feb 28, 2026, 7:45:40 PM",
     "server_region": "ws-america-01"
 }
