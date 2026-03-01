@@ -4514,14 +4514,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_7_0_11",
             "gender": 0,
-            "hp": 1168723.875,
+            "hp": 1163521.25,
             "last_known_position": {
-                "map": "city",
-                "x": 828.4400024414063,
-                "y": -28116.5,
-                "z": 97872.6171875
+                "map": "QRSL_P",
+                "x": -88182.03125,
+                "y": 77997.4609375,
+                "z": -9456.439453125
             },
-            "last_seen": "Feb 28, 2026, 5:36:44 PM",
+            "last_seen": "Mar 1, 2026, 5:45:09 PM",
             "level": 77,
             "name": "Sylvian",
             "name_history": [
@@ -32803,6 +32803,29 @@
             "role_id": 38174107413584536,
             "server_region": "ws-america-01"
         },
+        "38174107413584538": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97903.6953125,
+                "y": 80400.234375,
+                "z": -5274.759765625
+            },
+            "last_seen": "Mar 1, 2026, 5:45:09 PM",
+            "level": 2,
+            "name": "uuu",
+            "name_history": [
+                "uuu"
+            ],
+            "registered": "Mar 1, 2026, 12:46:08 PM",
+            "role_id": 38174107413584538,
+            "server_region": "ws-america-01"
+        },
         "38174107413584552": {
             "crew_history": [],
             "crew_id": 0,
@@ -32965,7 +32988,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1781,
-    "last_updated": "Mar 1, 2026, 5:44:09 PM",
+    "accounts_total": 1782,
+    "last_updated": "Mar 1, 2026, 5:45:09 PM",
     "server_region": "ws-america-01"
 }
