@@ -5554,6 +5554,31 @@
             "role_id": 38174107413514963,
             "server_region": "ws-america-01"
         },
+        "38174107413514995": {
+            "crew_history": [
+                "Stray"
+            ],
+            "crew_id": 184692481830,
+            "crew_name": "Stray",
+            "equipping_title": "2_10_1_11",
+            "gender": 0,
+            "hp": 783862.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1495.449951171875,
+                "y": -27957.490234375,
+                "z": 97879.6171875
+            },
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "level": 77,
+            "name": "Emouze",
+            "name_history": [
+                "Emouze"
+            ],
+            "registered": "Nov 25, 2025, 5:32:00 AM",
+            "role_id": 38174107413514995,
+            "server_region": "ws-america-01"
+        },
         "38174107413515009": {
             "crew_id": 68728364838,
             "crew_name": "Soul",
@@ -5927,15 +5952,15 @@
             "crew_name": "RedSuns",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1022061.375,
+            "hp": 1095877.25,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -34124.671875,
-                "y": 8522.9853515625,
-                "z": -13792.349609375
+                "map": "city",
+                "x": 1821.7899169921875,
+                "y": -28875.119140625,
+                "z": 98675.3203125
             },
-            "last_seen": "Feb 23, 2026, 10:56:48 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "level": 77,
             "name": "ElPrincipito",
             "name_history": [
                 "ElPrincipito"
@@ -9266,14 +9291,14 @@
             "crew_name": "Supernova",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1113585.75,
+            "hp": 1161380.375,
             "last_known_position": {
                 "map": "city",
-                "x": -43.78567886352539,
-                "y": -26730.541015625,
-                "z": 96757.2265625
+                "x": -1687.8299560546875,
+                "y": -28352.609375,
+                "z": 97871.046875
             },
-            "last_seen": "Feb 26, 2026, 4:52:23 PM",
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
             "level": 77,
             "name": "Whafle",
             "name_history": [
@@ -10470,15 +10495,15 @@
             "crew_name": "Stray",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1108472.625,
+            "hp": 1189026.125,
             "last_known_position": {
                 "map": "city",
-                "x": -5207.7822265625,
-                "y": -26494.322265625,
-                "z": 97272.9140625
+                "x": 3067.817138671875,
+                "y": -26033.9453125,
+                "z": 98611.84375
             },
-            "last_seen": "Feb 23, 2026, 12:44:13 PM",
-            "level": 76,
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "level": 77,
             "name": "PG13",
             "name_history": [
                 "PG13"
@@ -11478,13 +11503,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413519356": {
-            "crew_id": 34368626470,
-            "crew_name": "YoRHa",
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 559399.5625,
-            "last_seen": "Dec 22, 2025, 08:37:21 PM",
-            "level": 61,
+            "hp": 906503.6875,
+            "last_known_position": {
+                "map": "city",
+                "x": -1769.6199951171875,
+                "y": -28667.80859375,
+                "z": 97865.6953125
+            },
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "level": 76,
             "name": "Pepito",
             "name_history": [
                 "Pepito"
@@ -16713,14 +16747,14 @@
             "crew_name": "Solstice",
             "equipping_title": "2_8_0_2",
             "gender": 0,
-            "hp": 1198389.75,
+            "hp": 1196508.25,
             "last_known_position": {
                 "map": "city",
-                "x": -2577.300048828125,
-                "y": -26421.0,
+                "x": -2700.27001953125,
+                "y": -25915.94921875,
                 "z": 98624.375
             },
-            "last_seen": "Feb 26, 2026, 4:52:23 PM",
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
             "level": 77,
             "name": "Caerali",
             "name_history": [
@@ -20371,19 +20405,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413546199": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
             "equipping_title": "1_9_0_2",
             "gender": 0,
-            "hp": 1029733.875,
+            "hp": 1129225.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1490.5999755859375,
-                "y": -24478.138671875,
-                "z": 98644.765625
+                "x": 1222.739990234375,
+                "y": -28395.26953125,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 13, 2026, 6:25:34 PM",
-            "level": 75,
+            "last_seen": "Feb 28, 2026, 7:34:40 PM",
+            "level": 77,
             "name": "Velick",
             "name_history": [
                 "Velick"
@@ -32319,7 +32356,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1755,
-    "last_updated": "Feb 28, 2026, 7:33:40 PM",
+    "accounts_total": 1756,
+    "last_updated": "Feb 28, 2026, 7:34:40 PM",
     "server_region": "ws-america-01"
 }
