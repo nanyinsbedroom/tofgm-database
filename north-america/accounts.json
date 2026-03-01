@@ -939,14 +939,26 @@
             "server_region": "north-america"
         },
         "51552492489899": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
             "crew_id": 6158983114473,
             "crew_name": "Michi Pizzería",
-            "equipping_title": "1_4_7_2",
+            "equipping_title": "Kurumiㅤ's Mentor,0",
             "gender": 0,
-            "hp": 2658648.5,
-            "last_seen": "Oct 14, 2025, 04:00:15 AM",
+            "hp": 6330451.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 100032.1171875,
+                "y": -181663.203125,
+                "z": -7534.37939453125
+            },
+            "last_seen": "Feb 28, 2026, 7:23:40 PM",
             "level": 100,
             "name": " Sadashi",
+            "name_history": [
+                " Sadashi"
+            ],
             "registered": "Aug 11, 2022, 1:23:14 PM",
             "role_id": 51552492489899,
             "server_region": "north-america"
@@ -12415,6 +12427,6 @@
         }
     },
     "accounts_total": 866,
-    "last_updated": "Feb 28, 2026, 7:21:39 PM",
+    "last_updated": "Feb 28, 2026, 7:23:40 PM",
     "server_region": "north-america"
 }
