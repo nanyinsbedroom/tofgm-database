@@ -10557,11 +10557,11 @@
             "hp": 1438185.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55595.2890625,
-                "y": -88445.265625,
-                "z": 21724.509765625
+                "x": -55284.5078125,
+                "y": -88517.8671875,
+                "z": 21724.548828125
             },
-            "last_seen": "2026年2月25日 下午8:12:41",
+            "last_seen": "2026年3月1日 下午10:24:54",
             "level": 100,
             "name": "柒sept",
             "name_history": [
@@ -10712,16 +10712,16 @@
             ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "1_4_7_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2188846.0,
+            "hp": 2212698.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54455.8671875,
-                "y": -86554.0078125,
-                "z": 21717.46875
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
             },
-            "last_seen": "2026年2月22日 下午6:31:15",
+            "last_seen": "2026年3月1日 下午10:24:54",
             "level": 100,
             "name": "Hikaru",
             "name_history": [
@@ -11597,6 +11597,31 @@
             ],
             "registered": "2022年10月1日 下午5:30:27",
             "role_id": 62727997558047,
+            "server_region": "ark-calculus"
+        },
+        "62727997559302": {
+            "crew_history": [
+                "黎明"
+            ],
+            "crew_id": 137438967992,
+            "crew_name": "黎明",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2416791.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55798.609375,
+                "y": -88528.6171875,
+                "z": 21710.8203125
+            },
+            "last_seen": "2026年3月1日 下午10:24:54",
+            "level": 100,
+            "name": "紫曈",
+            "name_history": [
+                "紫曈"
+            ],
+            "registered": "2022年10月1日 下午7:31:52",
+            "role_id": 62727997559302,
             "server_region": "ark-calculus"
         },
         "62727997597059": {
@@ -20391,7 +20416,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 973,
-    "last_updated": "2026年3月1日 下午10:23:54",
+    "accounts_total": 974,
+    "last_updated": "2026年3月1日 下午10:24:54",
     "server_region": "ark-calculus"
 }
