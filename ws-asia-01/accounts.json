@@ -56401,17 +56401,17 @@
             ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "2_2_0_68",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1060682.75,
+            "hp": 1221085.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1693.0499267578125,
-                "y": -26218.5390625,
-                "z": 96720.4609375
+                "x": 458.3999938964844,
+                "y": -23681.19921875,
+                "z": 96719.1953125
             },
-            "last_seen": "Feb 14, 2026, 7:49:34 PM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:56:10 PM",
+            "level": 77,
             "name": "バックレーン",
             "name_history": [
                 "バックレーン"
@@ -60267,15 +60267,15 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1076530.375,
+            "hp": 1193914.375,
             "last_known_position": {
                 "map": "city",
-                "x": 2653.739990234375,
-                "y": -27398.330078125,
-                "z": 98605.875
+                "x": 141.92999267578125,
+                "y": -23880.369140625,
+                "z": 98601.8046875
             },
-            "last_seen": "Feb 15, 2026, 8:51:59 PM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:56:10 PM",
+            "level": 77,
             "name": "ニセモノ",
             "name_history": [
                 "ニセモノ"
@@ -63468,13 +63468,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118580202": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "2_10_1_8",
             "gender": 1,
-            "hp": 1063915.0,
-            "last_seen": "Feb 10, 2026, 8:31:35 PM",
-            "level": 75,
+            "hp": 1153795.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -768.7899780273438,
+                "y": -27294.1796875,
+                "z": 96706.9453125
+            },
+            "last_seen": "Mar 1, 2026, 8:56:10 PM",
+            "level": 77,
             "name": "唄深あさり",
             "name_history": [
                 "唄深あさり"
@@ -89923,9 +89932,32 @@
             "registered": "Mar 1, 2026, 3:57:11 PM",
             "role_id": 38174103118614516,
             "server_region": "ws-asia-01"
+        },
+        "38174103118614522": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40363.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 115.0,
+                "y": -25714.0,
+                "z": 96757.2734375
+            },
+            "last_seen": "Mar 1, 2026, 8:56:10 PM",
+            "level": 12,
+            "name": "Black Goku",
+            "name_history": [
+                "Black Goku"
+            ],
+            "registered": "Mar 1, 2026, 4:42:49 PM",
+            "role_id": 38174103118614522,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5400,
-    "last_updated": "Mar 1, 2026, 8:55:10 PM",
+    "accounts_total": 5401,
+    "last_updated": "Mar 1, 2026, 8:56:10 PM",
     "server_region": "ws-asia-01"
 }
