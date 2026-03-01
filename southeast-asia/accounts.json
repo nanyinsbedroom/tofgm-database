@@ -28679,12 +28679,21 @@
             "server_region": "southeast-asia"
         },
         "68801081121036": {
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
             "equipping_title": "None",
             "gender": 0,
             "hp": 1966173.75,
-            "last_seen": "Feb 9, 2026, 12:18:47 AM",
+            "last_known_position": {
+                "map": "city",
+                "x": -551.739990234375,
+                "y": -19152.708984375,
+                "z": 96329.53125
+            },
+            "last_seen": "Mar 1, 2026, 11:34:55 PM",
             "level": 100,
             "name": "-aXs-",
             "name_history": [
@@ -30564,6 +30573,6 @@
         }
     },
     "accounts_total": 2076,
-    "last_updated": "Mar 1, 2026, 11:26:55 PM",
+    "last_updated": "Mar 1, 2026, 11:34:55 PM",
     "server_region": "southeast-asia"
 }
