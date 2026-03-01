@@ -1562,15 +1562,15 @@
             "crew_name": "式歌ベリア【本物】",
             "equipping_title": "アークナイツエンドフィールド's Enlightener,1",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 2808000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 99972.390625,
-                "y": -174877.5625,
-                "z": -5046.99658203125
+                "x": 101230.6796875,
+                "y": -174641.515625,
+                "z": -5114.12255859375
             },
-            "last_seen": "Feb 15, 2026, 8:44:59 PM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:47:10 PM",
+            "level": 77,
             "name": "アズールプロミリア",
             "name_history": [
                 "アズールプロミリア"
@@ -2216,13 +2216,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545177": {
-            "crew_id": 141742808869,
-            "crew_name": "NoahArk",
-            "equipping_title": "None",
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
+            "crew_id": 214757252901,
+            "crew_name": "幻塔の星騎士",
+            "equipping_title": "2_7_0_14",
             "gender": 1,
-            "hp": 573512.0,
-            "last_seen": "Dec 23, 2025, 01:58:41 AM",
-            "level": 63,
+            "hp": 3640000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 142674.265625,
+                "y": -176313.890625,
+                "z": 60.83671188354492
+            },
+            "last_seen": "Mar 1, 2026, 8:47:10 PM",
+            "level": 77,
             "name": "しづ",
             "name_history": [
                 "しづ"
@@ -4845,15 +4854,15 @@
             "crew_name": "幻塔の星騎士",
             "equipping_title": "可燃ゴミくん's Mentor,0",
             "gender": 0,
-            "hp": 1024178.875,
+            "hp": 2665000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -72884.6953125,
-                "y": 49655.8984375,
-                "z": -12307.359375
+                "map": "Kailo_P_003",
+                "x": 100659.8828125,
+                "y": -180997.578125,
+                "z": -7562.4794921875
             },
-            "last_seen": "Feb 15, 2026, 8:30:58 PM",
-            "level": 75,
+            "last_seen": "Mar 1, 2026, 8:47:10 PM",
+            "level": 77,
             "name": "ミリラ  ナオ",
             "name_history": [
                 "ミリラ  ナオ"
@@ -63573,13 +63582,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118580317": {
+            "crew_history": [
+                "ブラックムーン海賊団"
+            ],
             "crew_id": 579829473061,
-            "crew_name": "女神の祝福・賊",
-            "equipping_title": "2_10_1_10",
+            "crew_name": "ブラックムーン海賊団",
+            "equipping_title": "2_7_0_15",
             "gender": 1,
-            "hp": 990020.8125,
-            "last_seen": "Feb 12, 2026, 11:10:30 PM",
-            "level": 75,
+            "hp": 2618200.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 139512.71875,
+                "y": -174638.421875,
+                "z": 50.30833053588867
+            },
+            "last_seen": "Mar 1, 2026, 8:47:10 PM",
+            "level": 77,
             "name": "ヘレンネ",
             "name_history": [
                 "ヘレンネ"
@@ -88635,6 +88653,31 @@
             "role_id": 38174103118612562,
             "server_region": "ws-asia-01"
         },
+        "38174103118612566": {
+            "crew_history": [
+                "居酒屋『低スペック桜花めいと』"
+            ],
+            "crew_id": 841822478117,
+            "crew_name": "居酒屋『低スペック桜花めいと』",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106183.65625,
+                "y": -184171.296875,
+                "z": -5533.0
+            },
+            "last_seen": "Mar 1, 2026, 8:47:10 PM",
+            "level": 75,
+            "name": "　Nao",
+            "name_history": [
+                "　Nao"
+            ],
+            "registered": "Feb 8, 2026, 10:25:27 AM",
+            "role_id": 38174103118612566,
+            "server_region": "ws-asia-01"
+        },
         "38174103118612579": {
             "crew_id": 0,
             "crew_name": "",
@@ -89827,7 +89870,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5399,
-    "last_updated": "Mar 1, 2026, 8:46:10 PM",
+    "accounts_total": 5400,
+    "last_updated": "Mar 1, 2026, 8:47:10 PM",
     "server_region": "ws-asia-01"
 }
