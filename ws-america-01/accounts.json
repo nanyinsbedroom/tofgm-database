@@ -1941,19 +1941,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413512793": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 792626.5,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -91909.296875,
-                "y": 75609.7578125,
-                "z": -7035.24755859375
+                "map": "Kailo_P_003",
+                "x": 107287.3984375,
+                "y": -184113.390625,
+                "z": -5375.43017578125
             },
-            "last_seen": "Feb 13, 2026, 6:23:34 PM",
-            "level": 75,
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
+            "level": 77,
             "name": "Jazviel",
             "name_history": [
                 "Jazviel"
@@ -4358,14 +4361,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "Aslakali's Mentor,0",
             "gender": 0,
-            "hp": 1118032.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 2181.219970703125,
-                "y": -27367.580078125,
-                "z": 97862.2265625
+                "map": "Kailo_P_003",
+                "x": 100410.359375,
+                "y": -181049.953125,
+                "z": -7467.77978515625
             },
-            "last_seen": "Feb 26, 2026, 4:52:23 PM",
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
             "level": 77,
             "name": "ShaqOatmeal",
             "name_history": [
@@ -7471,6 +7474,31 @@
             ],
             "registered": "Nov 25, 2025, 7:22:20 AM",
             "role_id": 38174107413516496,
+            "server_region": "ws-america-01"
+        },
+        "38174107413516508": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95486.921875,
+                "y": -171998.296875,
+                "z": -4556.9130859375
+            },
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
+            "level": 77,
+            "name": "elkami",
+            "name_history": [
+                "elkami"
+            ],
+            "registered": "Nov 25, 2025, 7:22:47 AM",
+            "role_id": 38174107413516508,
             "server_region": "ws-america-01"
         },
         "38174107413516516": {
@@ -17002,16 +17030,16 @@
             ],
             "crew_id": 369376075558,
             "crew_name": "Minor Threat",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 1138841.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -152.3199920654297,
-                "y": -24741.75,
-                "z": 96713.4453125
+                "map": "Kailo_P_003",
+                "x": 102980.765625,
+                "y": -184910.59375,
+                "z": -7907.1884765625
             },
-            "last_seen": "Feb 26, 2026, 4:52:23 PM",
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
             "level": 77,
             "name": "Ekaaksha-w",
             "name_history": [
@@ -18444,14 +18472,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_6_4_2",
             "gender": 1,
-            "hp": 1031283.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1656.5999755859375,
-                "y": -25719.400390625,
-                "z": 96713.4453125
+                "map": "Kailo_P_003",
+                "x": 109952.828125,
+                "y": -191628.28125,
+                "z": -4590.29931640625
             },
-            "last_seen": "Feb 28, 2026, 5:35:44 PM",
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
             "level": 77,
             "name": "MissMal",
             "name_history": [
@@ -20583,6 +20611,31 @@
             "role_id": 38174107413546911,
             "server_region": "ws-america-01"
         },
+        "38174107413546997": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 2574445.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96962.3046875,
+                "y": -176164.65625,
+                "z": -5925.9384765625
+            },
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
+            "level": 74,
+            "name": "anestesia",
+            "name_history": [
+                "anestesia"
+            ],
+            "registered": "Nov 29, 2025, 7:09:26 PM",
+            "role_id": 38174107413546997,
+            "server_region": "ws-america-01"
+        },
         "38174107413547061": {
             "crew_id": 532584832806,
             "crew_name": "Brasil",
@@ -21169,21 +21222,22 @@
         },
         "38174107413550998": {
             "crew_history": [
+                "YoRHa",
                 "STARSEEDS"
             ],
-            "crew_id": 919131889446,
-            "crew_name": "STARSEEDS",
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 936592.8125,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -1298.47412109375,
-                "y": -26631.64453125,
-                "z": 96813.4765625
+                "map": "Kailo_P_003",
+                "x": 93166.96875,
+                "y": -188363.4375,
+                "z": -7337.89892578125
             },
-            "last_seen": "Feb 15, 2026, 4:16:17 PM",
-            "level": 75,
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
+            "level": 77,
             "name": "Pao D Queijo",
             "name_history": [
                 "Pao D Queijo"
@@ -23159,14 +23213,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 1206147.0,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "city",
-                "x": -10.15999984741211,
-                "y": -24779.259765625,
-                "z": 96706.9453125
+                "map": "Kailo_P_003",
+                "x": 92999.6640625,
+                "y": -190609.671875,
+                "z": -7799.32275390625
             },
-            "last_seen": "Feb 28, 2026, 5:35:44 PM",
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
             "level": 77,
             "name": "Sini",
             "name_history": [
@@ -24570,14 +24624,14 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 2446790.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96421.4453125,
-                "y": -196182.15625,
-                "z": -2908.369873046875
+                "x": 106344.4296875,
+                "y": -184350.3125,
+                "z": -5507.97998046875
             },
-            "last_seen": "Feb 20, 2026, 10:56:32 PM",
+            "last_seen": "Feb 28, 2026, 7:32:40 PM",
             "level": 76,
             "name": " Haru ",
             "name_history": [
@@ -32264,7 +32318,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1753,
-    "last_updated": "Feb 28, 2026, 7:30:40 PM",
+    "accounts_total": 1755,
+    "last_updated": "Feb 28, 2026, 7:32:40 PM",
     "server_region": "ws-america-01"
 }
