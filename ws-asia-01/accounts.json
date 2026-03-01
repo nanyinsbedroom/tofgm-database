@@ -18138,15 +18138,25 @@
             "server_region": "ws-asia-01"
         },
         "38174103118554255": {
-            "crew_id": 55843462949,
-            "crew_name": "Fractsidus",
-            "equipping_title": "None",
+            "crew_history": [
+                "EROGE"
+            ],
+            "crew_id": 4303855397,
+            "crew_name": "EROGE",
+            "equipping_title": "2_10_1_9",
             "gender": 1,
-            "hp": 260847.0,
-            "last_seen": "Dec 04, 2025, 04:42:17 AM",
-            "level": 48,
-            "name": "Admiralty",
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 125612.3984375,
+                "y": -182719.125,
+                "z": -2978.559326171875
+            },
+            "last_seen": "Mar 1, 2026, 8:49:10 PM",
+            "level": 77,
+            "name": "RtasVadum",
             "name_history": [
+                "RtasVadum",
                 "Admiralty"
             ],
             "registered": "Nov 25, 2025, 6:04:55 PM",
@@ -89889,6 +89899,6 @@
         }
     },
     "accounts_total": 5400,
-    "last_updated": "Mar 1, 2026, 8:48:10 PM",
+    "last_updated": "Mar 1, 2026, 8:49:10 PM",
     "server_region": "ws-asia-01"
 }
