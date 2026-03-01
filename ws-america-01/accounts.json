@@ -26149,6 +26149,29 @@
             "role_id": 38174107413577329,
             "server_region": "ws-america-01"
         },
+        "38174107413577383": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30451.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56340.80859375,
+                "y": 64323.2578125,
+                "z": -3060.260009765625
+            },
+            "last_seen": "Mar 1, 2026, 5:41:09 PM",
+            "level": 7,
+            "name": "Nowaru",
+            "name_history": [
+                "Nowaru"
+            ],
+            "registered": "Jan 13, 2026, 12:09:22 AM",
+            "role_id": 38174107413577383,
+            "server_region": "ws-america-01"
+        },
         "38174107413577523": {
             "crew_id": 0,
             "crew_name": "",
@@ -30463,17 +30486,17 @@
             ],
             "crew_id": 622779146022,
             "crew_name": "BR Battle Storm",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 193516.609375,
+            "hp": 370936.8125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -62028.44921875,
-                "y": 107145.4296875,
-                "z": -12911.01953125
+                "x": -63440.98828125,
+                "y": 106315.296875,
+                "z": -12044.4892578125
             },
-            "last_seen": "Feb 23, 2026, 12:42:13 PM",
-            "level": 66,
+            "last_seen": "Mar 1, 2026, 5:41:09 PM",
+            "level": 73,
             "name": "Spawnzera",
             "name_history": [
                 "Spawnzera"
@@ -32678,7 +32701,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1769,
-    "last_updated": "Feb 28, 2026, 7:51:33 PM",
+    "accounts_total": 1770,
+    "last_updated": "Mar 1, 2026, 5:41:09 PM",
     "server_region": "ws-america-01"
 }
