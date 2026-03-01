@@ -19072,12 +19072,21 @@
             "server_region": "future-humanity"
         },
         "60610578498285": {
+            "crew_history": [
+                "風紀委員会"
+            ],
             "crew_id": 14023068235541,
             "crew_name": "風紀委員会",
             "equipping_title": "3_2021",
             "gender": 1,
-            "hp": 2025088.375,
-            "last_seen": "2025年11月25日 上午 3:21:14",
+            "hp": 2144026.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54266.69921875,
+                "y": -88107.5703125,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月1日 下午6:22:40",
             "level": 100,
             "name": "FREEZINGb",
             "name_history": [
@@ -23355,6 +23364,6 @@
         }
     },
     "accounts_total": 1076,
-    "last_updated": "2026年3月1日 下午6:21:39",
+    "last_updated": "2026年3月1日 下午6:22:40",
     "server_region": "future-humanity"
 }
