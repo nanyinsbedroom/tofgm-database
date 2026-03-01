@@ -1014,16 +1014,16 @@
             ],
             "crew_id": 5312874559654,
             "crew_name": "记录の地平线",
-            "equipping_title": "荧惑夤夜的导师,0",
+            "equipping_title": "1_6_0_1",
             "gender": 1,
-            "hp": 2150531.5,
+            "hp": 2144020.25,
             "last_known_position": {
-                "map": "city",
-                "x": 262.8800048828125,
-                "y": -18332.810546875,
-                "z": 96329.53125
+                "map": "QRSL_P",
+                "x": -55906.09765625,
+                "y": -86279.6015625,
+                "z": 21798.1796875
             },
-            "last_seen": "2026年2月17日 下午8:01:08",
+            "last_seen": "2026年3月1日 下午10:08:53",
             "level": 100,
             "name": "杏仁ミル",
             "name_history": [
@@ -2814,6 +2814,31 @@
             ],
             "registered": "2021年12月16日 上午9:26:41",
             "role_id": 62285615738721,
+            "server_region": "ark-calculus"
+        },
+        "62285615750093": {
+            "crew_history": [
+                "镜花堂"
+            ],
+            "crew_id": 21474851181,
+            "crew_name": "镜花堂",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1564881.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54112.66796875,
+                "y": -87938.6953125,
+                "z": 21717.4296875
+            },
+            "last_seen": "2026年3月1日 下午10:08:53",
+            "level": 100,
+            "name": "艾蕾西亚",
+            "name_history": [
+                "艾蕾西亚"
+            ],
+            "registered": "2021年12月16日 下午1:56:21",
+            "role_id": 62285615750093,
             "server_region": "ark-calculus"
         },
         "62285615751492": {
@@ -16776,6 +16801,31 @@
             "role_id": 62745177592398,
             "server_region": "ark-calculus"
         },
+        "62745177594584": {
+            "crew_history": [
+                "山水云间"
+            ],
+            "crew_id": 77309425937,
+            "crew_name": "山水云间",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1471640.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54199.6484375,
+                "y": -88118.921875,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年3月1日 下午10:08:53",
+            "level": 100,
+            "name": "爱吃大白兔",
+            "name_history": [
+                "爱吃大白兔"
+            ],
+            "registered": "2023年7月10日 上午9:25:57",
+            "role_id": 62745177594584,
+            "server_region": "ark-calculus"
+        },
         "63140314219773": {
             "crew_id": 6657199323302,
             "crew_name": "诏书所述",
@@ -17832,11 +17882,26 @@
             "server_region": "ark-calculus"
         },
         "63140314466040": {
+            "crew_history": [
+                "域垣魔宗"
+            ],
             "crew_id": 115964131693,
             "crew_name": "域垣魔宗",
+            "equipping_title": "人初的导师,0",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 10:22:08",
-            "name": "祈·白枝",
+            "hp": 2383892.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55166.2890625,
+                "y": -92531.8359375,
+                "z": 21755.1796875
+            },
+            "last_seen": "2026年3月1日 下午10:08:53",
+            "level": 100,
+            "name": "酒清酒",
+            "name_history": [
+                "酒清酒"
+            ],
             "registered": "2023年6月7日 上午10:17:05",
             "role_id": 63140314466040,
             "server_region": "ark-calculus"
@@ -19785,7 +19850,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 950,
-    "last_updated": "2026年2月28日 下午8:27:27",
+    "accounts_total": 952,
+    "last_updated": "2026年3月1日 下午10:08:53",
     "server_region": "ark-calculus"
 }
