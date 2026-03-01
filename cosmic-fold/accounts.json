@@ -38943,6 +38943,29 @@
             "role_id": 63582695897418,
             "server_region": "cosmic-fold"
         },
+        "63582695897512": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 114211.3984375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54661.0,
+                "y": 94521.0,
+                "z": -12777.8798828125
+            },
+            "last_seen": "2026年3月2日 上午6:24:38",
+            "level": 43,
+            "name": "小东",
+            "name_history": [
+                "小东"
+            ],
+            "registered": "2025年10月2日 上午12:14:12",
+            "role_id": 63582695897512,
+            "server_region": "cosmic-fold"
+        },
         "63582695897518": {
             "crew_id": 317827594708,
             "crew_name": "不氪金联盟",
@@ -66062,13 +66085,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695996092": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 38646.0,
-            "last_seen": "2026年01月26日 上午 4:13:51",
-            "level": 13,
+            "hp": 246909.03125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59520.87890625,
+                "y": 104548.5546875,
+                "z": -12938.6396484375
+            },
+            "last_seen": "2026年3月2日 上午6:24:38",
+            "level": 66,
             "name": "龙神阿弟",
             "name_history": [
                 "龙神阿弟"
@@ -73528,6 +73560,31 @@
             "role_id": 63582696008354,
             "server_region": "cosmic-fold"
         },
+        "63582696008357": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "萌萌爱的学徒,0",
+            "gender": 1,
+            "hp": 477284.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59539.23828125,
+                "y": 105724.578125,
+                "z": -12937.8193359375
+            },
+            "last_seen": "2026年3月2日 上午6:24:38",
+            "level": 76,
+            "name": "伊芙琳朵朵",
+            "name_history": [
+                "伊芙琳朵朵"
+            ],
+            "registered": "2026年2月19日 下午7:59:12",
+            "role_id": 63582696008357,
+            "server_region": "cosmic-fold"
+        },
         "63582696008378": {
             "crew_history": [
                 "天使社"
@@ -77216,7 +77273,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5245,
-    "last_updated": "2026年3月2日 上午6:23:38",
+    "accounts_total": 5247,
+    "last_updated": "2026年3月2日 上午6:24:38",
     "server_region": "cosmic-fold"
 }
