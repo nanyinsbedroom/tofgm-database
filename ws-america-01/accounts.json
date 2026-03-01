@@ -3227,15 +3227,15 @@
             "crew_name": "Supernova",
             "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 909684.125,
+            "hp": 934845.8125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -68388.859375,
-                "y": 57599.23046875,
-                "z": -5906.60986328125
+                "map": "norn_city",
+                "x": -36135.0390625,
+                "y": 5216.81982421875,
+                "z": -12164.33984375
             },
-            "last_seen": "Feb 23, 2026, 10:44:26 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 77,
             "name": "NezukoChaNN",
             "name_history": [
                 "NezukoChaNN"
@@ -5105,17 +5105,17 @@
             ],
             "crew_id": 115973005094,
             "crew_name": "Kitten Café",
-            "equipping_title": "2_7_0_12",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1157676.125,
+            "hp": 1273123.125,
             "last_known_position": {
-                "map": "city",
-                "x": 220.239990234375,
-                "y": -22588.71875,
-                "z": 96705.6953125
+                "map": "norn_city",
+                "x": -38297.5,
+                "y": 9794.5400390625,
+                "z": -14032.5693359375
             },
-            "last_seen": "Feb 18, 2026, 11:15:53 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 77,
             "name": "LuneVespera",
             "name_history": [
                 "LuneVespera"
@@ -12875,15 +12875,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413520764": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "2_4_0_4",
             "gender": 1,
-            "hp": 922806.4375,
-            "last_seen": "Jan 26, 2026, 07:25:36 PM",
-            "level": 72,
-            "name": "--xerapo--",
+            "hp": 981750.625,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -37773.05078125,
+                "y": 9926.26953125,
+                "z": -14030.419921875
+            },
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 74,
+            "name": "火火",
             "name_history": [
+                "火火",
                 "--xerapo--"
             ],
             "registered": "Nov 25, 2025, 11:32:35 AM",
@@ -13840,15 +13850,15 @@
             "crew_name": "Mishi-Raymi",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 557996.75,
+            "hp": 386017.375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -71124.4921875,
-                "y": 47400.640625,
-                "z": -13507.69921875
+                "map": "norn_city",
+                "x": -33938.48046875,
+                "y": 3409.280029296875,
+                "z": -13507.1494140625
             },
-            "last_seen": "Feb 28, 2026, 7:50:41 PM",
-            "level": 69,
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 71,
             "name": "Sin Nombre",
             "name_history": [
                 "Sin Nombre"
@@ -18005,6 +18015,31 @@
             "role_id": 38174107413533574,
             "server_region": "ws-america-01"
         },
+        "38174107413533612": {
+            "crew_history": [
+                "Supernova"
+            ],
+            "crew_id": 240527056678,
+            "crew_name": "Supernova",
+            "equipping_title": "2_7_0_13",
+            "gender": 0,
+            "hp": 1101276.375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -37339.34765625,
+                "y": 2930.5,
+                "z": -12696.7392578125
+            },
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 77,
+            "name": "Coringa",
+            "name_history": [
+                "Coringa"
+            ],
+            "registered": "Nov 26, 2025, 10:33:25 AM",
+            "role_id": 38174107413533612,
+            "server_region": "ws-america-01"
+        },
         "38174107413533621": {
             "crew_id": 34368626470,
             "crew_name": "YoRHa",
@@ -22134,13 +22169,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413555027": {
-            "crew_id": 674318753574,
-            "crew_name": "Maid Café",
-            "equipping_title": "None",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 843876.1875,
-            "last_seen": "Jan 30, 2026, 03:17:46 PM",
-            "level": 73,
+            "hp": 1042785.3125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -38372.3203125,
+                "y": 9775.359375,
+                "z": -14025.91015625
+            },
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 77,
             "name": "LunaBlossom",
             "name_history": [
                 "LunaBlossom"
@@ -25164,15 +25208,15 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 142104.21875,
+            "hp": 150794.140625,
             "last_known_position": {
-                "map": "city",
-                "x": 222.52999877929688,
-                "y": -22639.91015625,
-                "z": 96705.6953125
+                "map": "norn_city",
+                "x": -38065.81640625,
+                "y": 9848.197265625,
+                "z": -14028.248046875
             },
-            "last_seen": "Feb 18, 2026, 11:10:53 PM",
-            "level": 72,
+            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "level": 74,
             "name": "LunaStarGuardia",
             "name_history": [
                 "LunaStarGuardia"
@@ -33038,7 +33082,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1784,
-    "last_updated": "Mar 1, 2026, 5:49:09 PM",
+    "accounts_total": 1785,
+    "last_updated": "Mar 1, 2026, 5:50:09 PM",
     "server_region": "ws-america-01"
 }
