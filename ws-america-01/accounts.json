@@ -6970,13 +6970,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413516025": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 223347187494,
             "crew_name": "Sovereign",
             "equipping_title": "2_2_0_31",
             "gender": 0,
-            "hp": 911753.5625,
-            "last_seen": "Jan 25, 2026, 10:42:28 PM",
-            "level": 72,
+            "hp": 1152105.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73019.59375,
+                "y": 49180.875,
+                "z": -12300.34375
+            },
+            "last_seen": "Feb 28, 2026, 7:46:41 PM",
+            "level": 77,
             "name": "Enzomniak",
             "name_history": [
                 "Enzomniak"
@@ -29617,6 +29626,29 @@
             "role_id": 38174107413582248,
             "server_region": "ws-america-01"
         },
+        "38174107413582262": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 29384.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71724.8984375,
+                "y": 51878.5,
+                "z": -9894.9296875
+            },
+            "last_seen": "Feb 28, 2026, 7:46:41 PM",
+            "level": 9,
+            "name": "Mooday",
+            "name_history": [
+                "Mooday"
+            ],
+            "registered": "Feb 11, 2026, 11:11:26 PM",
+            "role_id": 38174107413582262,
+            "server_region": "ws-america-01"
+        },
         "38174107413582297": {
             "crew_id": 0,
             "crew_name": "",
@@ -32252,6 +32284,29 @@
             "role_id": 38174107413584319,
             "server_region": "ws-america-01"
         },
+        "38174107413584366": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 26804.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99490.1015625,
+                "y": 80517.90625,
+                "z": -4985.27001953125
+            },
+            "last_seen": "Feb 28, 2026, 7:46:41 PM",
+            "level": 9,
+            "name": "Toroi",
+            "name_history": [
+                "Toroi"
+            ],
+            "registered": "Feb 28, 2026, 1:44:47 AM",
+            "role_id": 38174107413584366,
+            "server_region": "ws-america-01"
+        },
         "38174107413584387": {
             "crew_history": [],
             "crew_id": 0,
@@ -32350,15 +32405,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 10656.0,
+            "hp": 25521.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -79633.640625,
-                "y": 76213.1796875,
-                "z": -10078.248046875
+                "x": -76854.984375,
+                "y": 86555.0625,
+                "z": -9553.099609375
             },
-            "last_seen": "Feb 28, 2026, 5:30:44 PM",
-            "level": 4,
+            "last_seen": "Feb 28, 2026, 7:46:41 PM",
+            "level": 11,
             "name": "ODafina",
             "name_history": [
                 "ODafina"
@@ -32391,7 +32446,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1757,
-    "last_updated": "Feb 28, 2026, 7:45:40 PM",
+    "accounts_total": 1759,
+    "last_updated": "Feb 28, 2026, 7:46:41 PM",
     "server_region": "ws-america-01"
 }
