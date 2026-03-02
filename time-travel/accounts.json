@@ -5166,14 +5166,14 @@
             "crew_name": "EVA",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1727536.375,
+            "hp": 1744426.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1320.469970703125,
-                "y": -28193.21875,
-                "z": 97866.1171875
+                "x": -2972.800048828125,
+                "y": -27010.609375,
+                "z": 98624.375
             },
-            "last_seen": "2026年2月27日 下午1:24:00",
+            "last_seen": "2026年3月2日 下午3:56:59",
             "level": 85,
             "name": "一坨石这游戏",
             "name_history": [
@@ -9516,6 +9516,31 @@
             "role_id": 63578401785049,
             "server_region": "time-travel"
         },
+        "63578401785164": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "0_8_0_59",
+            "gender": 1,
+            "hp": 1516488.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1392.929931640625,
+                "y": -27771.96875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午3:56:59",
+            "level": 85,
+            "name": "BBSKear",
+            "name_history": [
+                "BBSKear"
+            ],
+            "registered": "2025年1月12日 下午11:48:00",
+            "role_id": 63578401785164,
+            "server_region": "time-travel"
+        },
         "63578401786832": {
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
@@ -9596,6 +9621,31 @@
             ],
             "registered": "2025年1月24日 下午2:21:04",
             "role_id": 63578401794942,
+            "server_region": "time-travel"
+        },
+        "63578401801348": {
+            "crew_history": [
+                "喵喵喵"
+            ],
+            "crew_id": 781684062674,
+            "crew_name": "喵喵喵",
+            "equipping_title": "寻醷的学徒,0",
+            "gender": 1,
+            "hp": 1524047.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1801.97998046875,
+                "y": -24390.650390625,
+                "z": 97865.734375
+            },
+            "last_seen": "2026年3月2日 下午3:56:59",
+            "level": 85,
+            "name": "！琉璃！",
+            "name_history": [
+                "！琉璃！"
+            ],
+            "registered": "2025年1月30日 上午12:15:55",
+            "role_id": 63578401801348,
             "server_region": "time-travel"
         },
         "63578401802100": {
@@ -16966,7 +17016,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 915,
-    "last_updated": "2026年3月2日 下午3:55:59",
+    "accounts_total": 917,
+    "last_updated": "2026年3月2日 下午3:56:59",
     "server_region": "time-travel"
 }
