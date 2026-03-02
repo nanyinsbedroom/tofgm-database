@@ -5352,12 +5352,21 @@
             "server_region": "north-america"
         },
         "51616916975045": {
+            "crew_history": [
+                "SH✪✪OOTING ST☆R"
+            ],
             "crew_id": 7524782714613,
             "crew_name": "SH✪✪OOTING ST☆R",
             "equipping_title": "1_3_1_2",
             "gender": 0,
-            "hp": 2510027.5,
-            "last_seen": "Jan 02, 2026, 05:18:40 PM",
+            "hp": 6161418.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 102627.140625,
+                "y": -175034.78125,
+                "z": -5225.44970703125
+            },
+            "last_seen": "Mar 1, 2026, 10:15:37 PM",
             "level": 100,
             "name": "❀ Вlast ❀",
             "name_history": [
@@ -12736,6 +12745,6 @@
         }
     },
     "accounts_total": 879,
-    "last_updated": "Mar 1, 2026, 10:14:37 PM",
+    "last_updated": "Mar 1, 2026, 10:15:37 PM",
     "server_region": "north-america"
 }
