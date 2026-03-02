@@ -10600,11 +10600,11 @@
             "hp": 1190522.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1478.989990234375,
-                "y": -27795.30859375,
-                "z": 97886.1171875
+                "x": 4876.6796875,
+                "y": -27134.259765625,
+                "z": 97293.8984375
             },
-            "last_seen": "Mar 1, 2026, 5:52:09 PM",
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
             "level": 77,
             "name": "PG13",
             "name_history": [
@@ -12291,11 +12291,11 @@
             "hp": 1145833.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1010.5999755859375,
-                "y": -28250.0,
-                "z": 97879.1171875
+                "x": 2271.679931640625,
+                "y": -27364.62890625,
+                "z": 97909.7578125
             },
-            "last_seen": "Feb 27, 2026, 7:33:30 PM",
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
             "level": 77,
             "name": "Exceed",
             "name_history": [
@@ -18012,13 +18012,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413532508": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 990053.5,
-            "last_seen": "Feb 7, 2026, 2:29:07 PM",
-            "level": 74,
+            "hp": 1097821.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -633.4599609375,
+                "y": -24743.75,
+                "z": 97879.6171875
+            },
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
+            "level": 76,
             "name": "Lightkan",
             "name_history": [
                 "Lightkan"
@@ -18256,15 +18265,15 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1107406.5,
+            "hp": 1145559.375,
             "last_known_position": {
                 "map": "city",
-                "x": 3679.9599609375,
-                "y": -26509.69921875,
-                "z": 96908.6171875
+                "x": -178.4199981689453,
+                "y": -24374.71875,
+                "z": 97853.109375
             },
-            "last_seen": "Feb 20, 2026, 10:56:32 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
+            "level": 77,
             "name": "NobreLinx",
             "name_history": [
                 "NobreLinx"
@@ -18803,14 +18812,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_10_0_5",
             "gender": 1,
-            "hp": 1031283.75,
+            "hp": 1031554.25,
             "last_known_position": {
                 "map": "city",
-                "x": -3006.369873046875,
-                "y": -26505.1484375,
+                "x": -3248.27001953125,
+                "y": -26517.83984375,
                 "z": 98630.875
             },
-            "last_seen": "Mar 1, 2026, 5:48:09 PM",
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
             "level": 77,
             "name": "MissMal",
             "name_history": [
@@ -21241,14 +21250,14 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1027856.875,
+            "hp": 1033154.4375,
             "last_known_position": {
                 "map": "city",
-                "x": 1821.7999267578125,
-                "y": -29109.298828125,
+                "x": 2003.89990234375,
+                "y": -29088.21875,
                 "z": 97865.5
             },
-            "last_seen": "Mar 1, 2026, 5:47:09 PM",
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
             "level": 77,
             "name": "Tutuca",
             "name_history": [
@@ -26161,15 +26170,15 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "ӈotaru's Apprentice,0",
             "gender": 0,
-            "hp": 986843.4375,
+            "hp": 961627.6875,
             "last_known_position": {
                 "map": "city",
-                "x": -429.94000244140625,
-                "y": -24809.0703125,
-                "z": 97891.90625
+                "x": 301.7200012207031,
+                "y": -28217.798828125,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 23, 2026, 10:55:48 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 9:57:07 PM",
+            "level": 77,
             "name": "Sone",
             "name_history": [
                 "Sone"
@@ -33295,6 +33304,6 @@
         }
     },
     "accounts_total": 1793,
-    "last_updated": "Mar 1, 2026, 9:56:07 PM",
+    "last_updated": "Mar 1, 2026, 9:57:07 PM",
     "server_region": "ws-america-01"
 }
