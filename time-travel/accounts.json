@@ -1042,17 +1042,26 @@
             "server_region": "time-travel"
         },
         "63574105933217": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "2_2_0_70",
             "gender": 0,
-            "hp": 1477006.875,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 82,
+            "hp": 1703242.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 479.1399841308594,
+                "y": -25193.779296875,
+                "z": 96706.9453125
+            },
+            "last_seen": "2026年3月2日 下午6:47:16",
+            "level": 85,
             "name": "御樱稟",
             "name_history": [
-                "奚圆",
-                "御樱稟"
+                "御樱稟",
+                "奚圆"
             ],
             "registered": "2023年12月14日 上午10:25:50",
             "role_id": 63574105933217,
@@ -1805,11 +1814,11 @@
             "hp": 1704390.125,
             "last_known_position": {
                 "map": "city",
-                "x": -96.2699966430664,
-                "y": -22464.330078125,
-                "z": 96729.2265625
+                "x": 909.510009765625,
+                "y": -22572.37890625,
+                "z": 96732.375
             },
-            "last_seen": "2026年3月2日 下午3:58:59",
+            "last_seen": "2026年3月2日 下午6:47:16",
             "level": 85,
             "name": "白皑皑",
             "name_history": [
@@ -12706,6 +12715,31 @@
             "role_id": 63578401969381,
             "server_region": "time-travel"
         },
+        "63578401969435": {
+            "crew_history": [
+                "★千年魔法使"
+            ],
+            "crew_id": 798863931858,
+            "crew_name": "★千年魔法使",
+            "equipping_title": "1_2021",
+            "gender": 1,
+            "hp": 1039948.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午6:47:16",
+            "level": 84,
+            "name": "一只小船",
+            "name_history": [
+                "一只小船"
+            ],
+            "registered": "2021年12月22日 下午12:44:53",
+            "role_id": 63578401969435,
+            "server_region": "time-travel"
+        },
         "63578401969467": {
             "crew_id": 73014458834,
             "crew_name": "爱意",
@@ -18488,7 +18522,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 974,
-    "last_updated": "2026年3月2日 下午6:45:16",
+    "accounts_total": 975,
+    "last_updated": "2026年3月2日 下午6:47:16",
     "server_region": "time-travel"
 }
