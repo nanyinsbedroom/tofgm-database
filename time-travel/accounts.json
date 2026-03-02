@@ -7803,13 +7803,22 @@
             "server_region": "time-travel"
         },
         "63578401505968": {
+            "crew_history": [
+                "樱花荘"
+            ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1554536.375,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 82,
+            "hp": 1793445.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55300.828125,
+                "y": -88521.1171875,
+                "z": 21725.91015625
+            },
+            "last_seen": "2026年3月2日 下午4:29:01",
+            "level": 85,
             "name": "新鲜的小灯",
             "name_history": [
                 "新鲜的小灯"
@@ -17660,6 +17669,6 @@
         }
     },
     "accounts_total": 943,
-    "last_updated": "2026年3月2日 下午4:27:00",
+    "last_updated": "2026年3月2日 下午4:29:01",
     "server_region": "time-travel"
 }
