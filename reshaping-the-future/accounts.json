@@ -3873,6 +3873,29 @@
             "role_id": 62715113341866,
             "server_region": "reshaping-the-future"
         },
+        "62715113357201": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_5_1_1",
+            "gender": 1,
+            "hp": 1621500.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.45703125,
+                "y": -88115.4765625,
+                "z": 21711.0390625
+            },
+            "last_seen": "2026年3月2日 下午12:07:27",
+            "level": 100,
+            "name": "水晶蓝",
+            "name_history": [
+                "水晶蓝"
+            ],
+            "registered": "2022年11月18日 下午9:47:53",
+            "role_id": 62715113357201,
+            "server_region": "reshaping-the-future"
+        },
         "62715113359731": {
             "crew_history": [
                 "守林人"
@@ -4704,12 +4727,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715113622531": {
+            "crew_history": [
+                "世界BQSS"
+            ],
             "crew_id": 3749506464010,
             "crew_name": "世界BQSS",
             "equipping_title": "2_2_0_75",
             "gender": 0,
-            "hp": 1672601.875,
-            "last_seen": "2026年2月12日 下午6:23:31",
+            "hp": 1693788.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.453125,
+                "y": -88115.4765625,
+                "z": 21722.037109375
+            },
+            "last_seen": "2026年3月2日 下午12:07:27",
             "level": 100,
             "name": "路丅",
             "name_history": [
@@ -8661,6 +8693,31 @@
             ],
             "registered": "2025年8月7日 下午3:48:03",
             "role_id": 62715114505376,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114505636": {
+            "crew_history": [
+                "可可"
+            ],
+            "crew_id": 23742579226890,
+            "crew_name": "可可",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1070105.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54525.5,
+                "y": -88064.0390625,
+                "z": 21726.048828125
+            },
+            "last_seen": "2026年3月2日 下午12:07:27",
+            "level": 100,
+            "name": "漩光絮语",
+            "name_history": [
+                "漩光絮语"
+            ],
+            "registered": "2025年8月8日 上午2:57:55",
+            "role_id": 62715114505636,
             "server_region": "reshaping-the-future"
         },
         "62715114505998": {
@@ -17431,14 +17488,14 @@
             "crew_name": "莉可丽丝",
             "equipping_title": "4_2023",
             "gender": 0,
-            "hp": 1730726.125,
+            "hp": 1734763.375,
             "last_known_position": {
                 "map": "QRSL_P",
                 "x": -54757.44921875,
                 "y": -88115.4765625,
-                "z": 21776.095703125
+                "z": 21724.048828125
             },
-            "last_seen": "2026年2月21日 下午8:02:03",
+            "last_seen": "2026年3月2日 下午12:07:27",
             "level": 100,
             "name": "幽岩第一C佬",
             "name_history": [
@@ -21177,7 +21234,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 965,
-    "last_updated": "2026年3月2日 下午12:05:27",
+    "accounts_total": 967,
+    "last_updated": "2026年3月2日 下午12:07:27",
     "server_region": "reshaping-the-future"
 }
