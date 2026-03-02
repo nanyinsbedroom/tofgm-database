@@ -21801,14 +21801,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1624308.625,
+            "hp": 1563423.875,
             "last_known_position": {
-                "map": "FB_Team06_D_V",
-                "x": -1487.02001953125,
-                "y": 15253.4169921875,
-                "z": 3264.033935546875
+                "map": "city",
+                "x": 1259.280029296875,
+                "y": -28383.4296875,
+                "z": 97885.1171875
             },
-            "last_seen": "2026年2月28日 下午10:51:57",
+            "last_seen": "2026年3月2日 下午12:42:22",
             "level": 85,
             "name": "gateoo",
             "name_history": [
@@ -30627,14 +30627,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_7_0_17",
             "gender": 1,
-            "hp": 1611439.25,
+            "hp": 1612975.125,
             "last_known_position": {
                 "map": "city",
-                "x": -113.18000030517578,
-                "y": -25827.939453125,
-                "z": 96765.40625
+                "x": 2104.43994140625,
+                "y": -24629.888671875,
+                "z": 98612.15625
             },
-            "last_seen": "2026年2月28日 下午10:20:04",
+            "last_seen": "2026年3月2日 下午12:42:22",
             "level": 85,
             "name": "紗月",
             "name_history": [
@@ -77501,6 +77501,29 @@
             "role_id": 63582696012792,
             "server_region": "cosmic-fold"
         },
+        "63582696012867": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 105082.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": 252.5699920654297,
+                "y": -29036.75,
+                "z": 97900.390625
+            },
+            "last_seen": "2026年3月2日 下午12:42:22",
+            "level": 36,
+            "name": "白子王",
+            "name_history": [
+                "白子王"
+            ],
+            "registered": "2026年3月1日 上午11:22:13",
+            "role_id": 63582696012867,
+            "server_region": "cosmic-fold"
+        },
         "63582696012902": {
             "crew_history": [],
             "crew_id": 0,
@@ -77640,7 +77663,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5260,
-    "last_updated": "2026年3月2日 下午12:41:22",
+    "accounts_total": 5261,
+    "last_updated": "2026年3月2日 下午12:42:22",
     "server_region": "cosmic-fold"
 }
