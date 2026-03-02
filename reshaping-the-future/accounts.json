@@ -913,14 +913,14 @@
             "crew_name": "地狱",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2196398.0,
+            "hp": 2194366.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -51062.1875,
-                "y": -88614.5,
-                "z": 21858.169921875
+                "x": -55394.55859375,
+                "y": -88522.65625,
+                "z": 21711.01953125
             },
-            "last_seen": "2026年3月1日 下午8:04:15",
+            "last_seen": "2026年3月2日 下午10:27:14",
             "level": 100,
             "name": "浮华·挽霜",
             "name_history": [
@@ -6523,6 +6523,29 @@
             "role_id": 62715114112687,
             "server_region": "reshaping-the-future"
         },
+        "62715114113276": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1090409.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53847.3984375,
+                "y": -87911.375,
+                "z": 21721.849609375
+            },
+            "last_seen": "2026年3月2日 下午10:27:14",
+            "level": 100,
+            "name": "烨囡囡",
+            "name_history": [
+                "烨囡囡"
+            ],
+            "registered": "2024年9月7日 下午8:02:56",
+            "role_id": 62715114113276,
+            "server_region": "reshaping-the-future"
+        },
         "62715114131089": {
             "crew_history": [
                 "云海之上、"
@@ -9604,6 +9627,31 @@
             ],
             "registered": "2025年8月25日 上午1:19:50",
             "role_id": 62715114548277,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114548815": {
+            "crew_history": [
+                "兑州十大奇观"
+            ],
+            "crew_id": 20486994016522,
+            "crew_name": "兑州十大奇观",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1354130.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55604.83984375,
+                "y": -88814.0546875,
+                "z": 21725.0
+            },
+            "last_seen": "2026年3月2日 下午10:27:14",
+            "level": 100,
+            "name": "机动都市",
+            "name_history": [
+                "机动都市"
+            ],
+            "registered": "2025年8月27日 下午11:11:22",
+            "role_id": 62715114548815,
             "server_region": "reshaping-the-future"
         },
         "62715114548993": {
@@ -22595,7 +22643,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1020,
-    "last_updated": "2026年3月2日 下午10:25:14",
+    "accounts_total": 1022,
+    "last_updated": "2026年3月2日 下午10:27:14",
     "server_region": "reshaping-the-future"
 }
