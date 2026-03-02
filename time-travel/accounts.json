@@ -731,13 +731,22 @@
             "server_region": "time-travel"
         },
         "63574105918403": {
+            "crew_history": [
+                "EVA"
+            ],
             "crew_id": 55834589650,
             "crew_name": "EVA",
-            "equipping_title": "2_2_0_79",
+            "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1466859.625,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1641050.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2545.39990234375,
+                "y": -27335.21875,
+                "z": 98619.375
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
             "name": "栗悟饭龟波功",
             "name_history": [
                 "栗悟饭龟波功"
@@ -945,11 +954,26 @@
             "server_region": "time-travel"
         },
         "63574105925608": {
-            "crew_id": 150323870162,
-            "crew_name": "星奈海",
+            "crew_history": [
+                "EVA"
+            ],
+            "crew_id": 55834589650,
+            "crew_name": "EVA",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "last_seen": "2025年09月24日 下午 11:14:30",
+            "hp": 1619009.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1208.5599365234375,
+                "y": -24809.58984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
             "name": "─╄OvЁ☆",
+            "name_history": [
+                "─╄OvЁ☆"
+            ],
             "registered": "2023年12月14日 上午10:17:18",
             "role_id": 63574105925608,
             "server_region": "time-travel"
@@ -1294,15 +1318,15 @@
             "crew_name": "星期三",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1646758.125,
+            "hp": 1818630.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97879.6171875
+                "x": -1743.3599853515625,
+                "y": -28712.169921875,
+                "z": 97879.1953125
             },
-            "last_seen": "2026年2月15日 下午11:34:12",
-            "level": 83,
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
             "name": "你超甜呀丶",
             "name_history": [
                 "你超甜呀丶"
@@ -1523,7 +1547,7 @@
                 "y": -28199.19921875,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年3月2日 下午2:32:37",
+            "last_seen": "2026年3月2日 下午6:45:16",
             "level": 85,
             "name": "三月兔",
             "name_history": [
@@ -2204,6 +2228,31 @@
             "name": "新建文件夹2",
             "registered": "2023年12月14日 下午5:58:42",
             "role_id": 63574105956942,
+            "server_region": "time-travel"
+        },
+        "63574105957077": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1354063.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
+            "name": "妃妃",
+            "name_history": [
+                "妃妃"
+            ],
+            "registered": "2023年12月14日 下午6:03:49",
+            "role_id": 63574105957077,
             "server_region": "time-travel"
         },
         "63574105957115": {
@@ -3256,6 +3305,31 @@
             "role_id": 63574105977109,
             "server_region": "time-travel"
         },
+        "63574105977321": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1268271.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 620.5999755859375,
+                "y": -28186.12890625,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 84,
+            "name": "Aims正在路上",
+            "name_history": [
+                "Aims正在路上"
+            ],
+            "registered": "2023年12月15日 下午5:55:27",
+            "role_id": 63574105977321,
+            "server_region": "time-travel"
+        },
         "63574105978410": {
             "crew_history": [
                 "七宫"
@@ -3508,14 +3582,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_10_2_5",
             "gender": 1,
-            "hp": 1844962.5,
+            "hp": 1844963.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1136.5999755859375,
-                "y": -28699.099609375,
-                "z": 97907.0546875
+                "x": 1481.5,
+                "y": -28619.8984375,
+                "z": 97865.9609375
             },
-            "last_seen": "2026年3月2日 下午3:55:59",
+            "last_seen": "2026年3月2日 下午6:45:16",
             "level": 85,
             "name": "媎妹",
             "name_history": [
@@ -5950,13 +6024,22 @@
             "server_region": "time-travel"
         },
         "63574106366641": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 2920577776082,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1488219.0,
-            "last_seen": "2026年02月01日 上午 12:53:40",
-            "level": 81,
+            "hp": 1778094.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -958.5,
+                "y": -16519.439453125,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
             "name": "米狐",
             "name_history": [
                 "米狐"
@@ -7601,15 +7684,15 @@
             "crew_name": "樱花荘",
             "equipping_title": "涛天巨浪大汤圆的启迪人,1",
             "gender": 1,
-            "hp": 1670815.0,
+            "hp": 1762001.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1557.0,
-                "y": -23703.298828125,
-                "z": 97225.15625
+                "x": 769.3999633789063,
+                "y": -28117.798828125,
+                "z": 96720.4609375
             },
-            "last_seen": "2026年2月15日 下午11:28:12",
-            "level": 83,
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 85,
             "name": "　阿巴阿巴　",
             "name_history": [
                 "　阿巴阿巴　"
@@ -14173,6 +14256,31 @@
             "role_id": 63578401983423,
             "server_region": "time-travel"
         },
+        "63578401983636": {
+            "crew_history": [
+                "心焰"
+            ],
+            "crew_id": 4552665348563,
+            "crew_name": "心焰",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 390979.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1693.5,
+                "y": -28278.3984375,
+                "z": 97866.0859375
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 83,
+            "name": "包菜bc0x27I3",
+            "name_history": [
+                "包菜bc0x27I3"
+            ],
+            "registered": "2025年11月26日 下午8:21:00",
+            "role_id": 63578401983636,
+            "server_region": "time-travel"
+        },
         "63578401983820": {
             "crew_id": 4552665348563,
             "crew_name": "心焰",
@@ -14556,6 +14664,31 @@
             ],
             "registered": "2025年12月13日 下午9:46:20",
             "role_id": 63578401988738,
+            "server_region": "time-travel"
+        },
+        "63578401989172": {
+            "crew_history": [
+                "EVA"
+            ],
+            "crew_id": 55834589650,
+            "crew_name": "EVA",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 1317734.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1291.719970703125,
+                "y": -27824.189453125,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月2日 下午6:45:16",
+            "level": 84,
+            "name": "★小浅丶",
+            "name_history": [
+                "★小浅丶"
+            ],
+            "registered": "2025年12月15日 上午12:02:30",
+            "role_id": 63578401989172,
             "server_region": "time-travel"
         },
         "63578401989714": {
@@ -18355,7 +18488,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 970,
-    "last_updated": "2026年3月2日 下午6:43:16",
+    "accounts_total": 974,
+    "last_updated": "2026年3月2日 下午6:45:16",
     "server_region": "time-travel"
 }
