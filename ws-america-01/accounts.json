@@ -8764,13 +8764,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413517513": {
+            "crew_history": [
+                "Stray"
+            ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "nhentai.net的导师,0",
+            "equipping_title": "nhentai.net's Mentor,0",
             "gender": 1,
-            "hp": 815502.75,
-            "last_seen": "Jan 25, 2026, 10:49:28 PM",
-            "level": 72,
+            "hp": 1105145.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -889.9099731445313,
+                "y": -23398.708984375,
+                "z": 96705.6953125
+            },
+            "last_seen": "Mar 1, 2026, 9:54:07 PM",
+            "level": 77,
             "name": "Shirase ",
             "name_history": [
                 "Shirase "
@@ -17717,6 +17726,31 @@
             "role_id": 38174107413531535,
             "server_region": "ws-america-01"
         },
+        "38174107413531576": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 767000.5625,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -76230.4453125,
+                "y": 126104.984375,
+                "z": -9988.9501953125
+            },
+            "last_seen": "Mar 1, 2026, 9:54:07 PM",
+            "level": 71,
+            "name": "Eduard104",
+            "name_history": [
+                "Eduard104"
+            ],
+            "registered": "Nov 26, 2025, 12:34:11 AM",
+            "role_id": 38174107413531576,
+            "server_region": "ws-america-01"
+        },
         "38174107413531656": {
             "crew_history": [
                 "Supernova"
@@ -18566,14 +18600,14 @@
             "crew_name": "Stray",
             "equipping_title": "hinode's Mentor,0",
             "gender": 0,
-            "hp": 1159110.25,
+            "hp": 1134686.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1827.25,
-                "y": -24725.548828125,
-                "z": 96744.375
+                "x": 56.36000061035156,
+                "y": -23500.83984375,
+                "z": 96719.1953125
             },
-            "last_seen": "Feb 28, 2026, 7:30:40 PM",
+            "last_seen": "Mar 1, 2026, 9:54:07 PM",
             "level": 77,
             "name": "Kenmah",
             "name_history": [
@@ -20147,17 +20181,17 @@
             ],
             "crew_id": 897657052966,
             "crew_name": "SHOOTING ST☆R",
-            "equipping_title": "None",
+            "equipping_title": "Sone's Mentor,0",
             "gender": 0,
-            "hp": 1124901.375,
+            "hp": 1118249.375,
             "last_known_position": {
-                "map": "city",
-                "x": 1197.8199462890625,
-                "y": -28284.37890625,
-                "z": 97877.1171875
+                "map": "Norn_P",
+                "x": -76293.4453125,
+                "y": 126152.4140625,
+                "z": -9984.4501953125
             },
-            "last_seen": "Feb 23, 2026, 10:55:48 PM",
-            "level": 76,
+            "last_seen": "Mar 1, 2026, 9:54:07 PM",
+            "level": 77,
             "name": "nitrox",
             "name_history": [
                 "nitrox"
@@ -22681,6 +22715,31 @@
             ],
             "registered": "Dec 9, 2025, 3:01:12 PM",
             "role_id": 38174107413560600,
+            "server_region": "ws-america-01"
+        },
+        "38174107413560714": {
+            "crew_history": [
+                "Vanguard"
+            ],
+            "crew_id": 2714428219174,
+            "crew_name": "Vanguard",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 544057.8125,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -76421.0859375,
+                "y": 124985.234375,
+                "z": -10023.8994140625
+            },
+            "last_seen": "Mar 1, 2026, 9:54:07 PM",
+            "level": 73,
+            "name": "vuruk",
+            "name_history": [
+                "vuruk"
+            ],
+            "registered": "Dec 9, 2025, 6:13:13 PM",
+            "role_id": 38174107413560714,
             "server_region": "ws-america-01"
         },
         "38174107413560730": {
@@ -33133,7 +33192,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1787,
-    "last_updated": "Mar 1, 2026, 9:53:07 PM",
+    "accounts_total": 1789,
+    "last_updated": "Mar 1, 2026, 9:54:07 PM",
     "server_region": "ws-america-01"
 }
