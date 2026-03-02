@@ -4601,13 +4601,22 @@
             "server_region": "time-travel"
         },
         "63574106044849": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 2920577776082,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 1499525.25,
-            "last_seen": "2026年2月6日 上午2:17:58",
-            "level": 82,
+            "hp": 1704566.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53765.76953125,
+                "y": -88107.9375,
+                "z": 21710.94921875
+            },
+            "last_seen": "2026年3月2日 下午6:12:14",
+            "level": 85,
             "name": "霜叶小千代",
             "name_history": [
                 "霜叶小千代"
@@ -18012,6 +18021,6 @@
         }
     },
     "accounts_total": 957,
-    "last_updated": "2026年3月2日 下午6:10:14",
+    "last_updated": "2026年3月2日 下午6:12:14",
     "server_region": "time-travel"
 }
