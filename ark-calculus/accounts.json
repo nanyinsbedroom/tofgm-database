@@ -633,14 +633,14 @@
             "crew_name": "白月破晓",
             "equipping_title": "2_1_0_2",
             "gender": 1,
-            "hp": 1545255.75,
+            "hp": 1615118.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.47265625,
-                "y": -88115.46875,
-                "z": 21711.0390625
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月22日 下午8:05:40",
+            "last_seen": "2026年3月2日 下午8:05:48",
             "level": 100,
             "name": "紫宫露娜",
             "name_history": [
@@ -1711,6 +1711,31 @@
             ],
             "registered": "2021年12月21日 下午11:33:23",
             "role_id": 61860414019199,
+            "server_region": "ark-calculus"
+        },
+        "61860414020985": {
+            "crew_history": [
+                "蓝桉与槐"
+            ],
+            "crew_id": 2186138368265,
+            "crew_name": "蓝桉与槐",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 1399927.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55184.22265625,
+                "y": -88225.0078125,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月2日 下午8:05:48",
+            "level": 100,
+            "name": "樱木真乃",
+            "name_history": [
+                "樱木真乃"
+            ],
+            "registered": "2021年12月23日 下午9:46:02",
+            "role_id": 61860414020985,
             "server_region": "ark-calculus"
         },
         "61860414025923": {
@@ -17329,11 +17354,11 @@
             "hp": 1607665.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53790.859375,
-                "y": -88053.8359375,
-                "z": 21724.958984375
+                "x": -54104.046875,
+                "y": -88137.125,
+                "z": 21725.048828125
             },
-            "last_seen": "2026年2月28日 下午8:03:26",
+            "last_seen": "2026年3月2日 下午8:05:48",
             "level": 100,
             "name": "水冰灵",
             "name_history": [
@@ -20548,6 +20573,29 @@
             "role_id": 63144609396642,
             "server_region": "ark-calculus"
         },
+        "63144609396760": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 1349685.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55062.8203125,
+                "y": -86908.8125,
+                "z": 21876.658203125
+            },
+            "last_seen": "2026年3月2日 下午8:05:48",
+            "level": 100,
+            "name": "修迦旃檀",
+            "name_history": [
+                "修迦旃檀"
+            ],
+            "registered": "2024年1月13日 下午11:01:01",
+            "role_id": 63144609396760,
+            "server_region": "ark-calculus"
+        },
         "63144609402779": {
             "crew_history": [
                 "东方幻想乡"
@@ -20806,7 +20854,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 989,
-    "last_updated": "2026年3月2日 下午8:04:48",
+    "accounts_total": 991,
+    "last_updated": "2026年3月2日 下午8:05:48",
     "server_region": "ark-calculus"
 }
