@@ -806,11 +806,26 @@
             "server_region": "time-travel"
         },
         "63574105918666": {
-            "crew_id": 996432427474,
-            "crew_name": "幻策司梦阁",
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "2_3_0_2",
             "gender": 1,
-            "last_seen": "2025年09月24日 下午 11:14:30",
+            "hp": 1506071.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 2721.18994140625,
+                "y": -27451.58984375,
+                "z": 96705.6953125
+            },
+            "last_seen": "2026年3月2日 下午7:13:36",
+            "level": 85,
             "name": "佐岛庆伊",
+            "name_history": [
+                "佐岛庆伊"
+            ],
             "registered": "2023年12月14日 上午10:04:45",
             "role_id": 63574105918666,
             "server_region": "time-travel"
@@ -3850,7 +3865,7 @@
                 "y": -22219.80859375,
                 "z": 96744.46875
             },
-            "last_seen": "2026年3月2日 下午7:00:16",
+            "last_seen": "2026年3月2日 下午7:13:36",
             "level": 85,
             "name": "zp",
             "name_history": [
@@ -14477,6 +14492,31 @@
             "role_id": 63578401979930,
             "server_region": "time-travel"
         },
+        "63578401980129": {
+            "crew_history": [
+                "异世相遇"
+            ],
+            "crew_id": 283467856338,
+            "crew_name": "异世相遇",
+            "equipping_title": "唐伯虎·秋香的学徒,0",
+            "gender": 1,
+            "hp": 1349082.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月2日 下午7:13:36",
+            "level": 83,
+            "name": "IFCamile",
+            "name_history": [
+                "IFCamile"
+            ],
+            "registered": "2025年11月16日 下午7:54:04",
+            "role_id": 63578401980129,
+            "server_region": "time-travel"
+        },
         "63578401980232": {
             "crew_history": [
                 "魔女之旅"
@@ -16464,16 +16504,16 @@
             ],
             "crew_id": 270582954450,
             "crew_name": "绝幻",
-            "equipping_title": "2_8_0_8",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_030_world;29",
             "gender": 1,
             "hp": 681505.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1606.0599365234375,
-                "y": -26223.240234375,
-                "z": 96721.9609375
+                "x": 1246.0999755859375,
+                "y": -24813.69921875,
+                "z": 96745.875
             },
-            "last_seen": "2026年3月2日 下午6:54:16",
+            "last_seen": "2026年3月2日 下午7:13:36",
             "level": 83,
             "name": "樱花佬被我炸死",
             "name_history": [
@@ -19109,7 +19149,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 998,
-    "last_updated": "2026年3月2日 下午7:01:17",
+    "accounts_total": 999,
+    "last_updated": "2026年3月2日 下午7:13:36",
     "server_region": "time-travel"
 }
