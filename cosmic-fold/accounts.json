@@ -55318,13 +55318,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695949699": {
-            "crew_id": 395137006036,
-            "crew_name": "塔学之家",
-            "equipping_title": "北拧的学徒,0",
+            "crew_history": [
+                "少女祈祷中"
+            ],
+            "crew_id": 2856153266644,
+            "crew_name": "少女祈祷中",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 516310.75,
-            "last_seen": "2025年11月18日 下午 11:24:42",
-            "level": 70,
+            "hp": 1108149.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1895.7999267578125,
+                "y": -24272.298828125,
+                "z": 97886.578125
+            },
+            "last_seen": "2026年3月2日 下午12:49:23",
+            "level": 83,
             "name": "柠檬派",
             "name_history": [
                 "柠檬派"
@@ -77839,6 +77848,6 @@
         }
     },
     "accounts_total": 5267,
-    "last_updated": "2026年3月2日 下午12:48:23",
+    "last_updated": "2026年3月2日 下午12:49:23",
     "server_region": "cosmic-fold"
 }
