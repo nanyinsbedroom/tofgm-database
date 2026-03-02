@@ -1680,14 +1680,26 @@
             "server_region": "reshaping-the-future"
         },
         "62324270441099": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
             "crew_id": 236223215882,
             "crew_name": "喵雪冰城",
-            "equipping_title": "2_2_0_11",
+            "equipping_title": "2_2_0_28",
             "gender": 1,
-            "hp": 2362969.0,
-            "last_seen": "2025年10月14日 下午 10:19:45",
+            "hp": 2542226.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55704.6796875,
+                "y": -88360.421875,
+                "z": 21731.8203125
+            },
+            "last_seen": "2026年3月2日 下午12:24:28",
             "level": 100,
             "name": "功名#a",
+            "name_history": [
+                "功名#a"
+            ],
             "registered": "2021年12月16日 上午8:30:42",
             "role_id": 62324270441099,
             "server_region": "reshaping-the-future"
@@ -17706,6 +17718,31 @@
             "role_id": 62740883546799,
             "server_region": "reshaping-the-future"
         },
+        "62740883550043": {
+            "crew_history": [
+                "地狱"
+            ],
+            "crew_id": 21474851082,
+            "crew_name": "地狱",
+            "equipping_title": "3_2023",
+            "gender": 1,
+            "hp": 1164366.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年3月2日 下午12:24:28",
+            "level": 100,
+            "name": "八局徐",
+            "name_history": [
+                "八局徐"
+            ],
+            "registered": "2023年10月9日 下午11:05:32",
+            "role_id": 62740883550043,
+            "server_region": "reshaping-the-future"
+        },
         "62740883550118": {
             "crew_history": [
                 "莉可丽丝"
@@ -19095,6 +19132,31 @@
             "name": "烟霭",
             "registered": "2023年10月27日 上午10:37:18",
             "role_id": 63148904394367,
+            "server_region": "reshaping-the-future"
+        },
+        "63148904395096": {
+            "crew_history": [
+                "九域"
+            ],
+            "crew_id": 4294981904,
+            "crew_name": "九域",
+            "equipping_title": "2_1_0_2",
+            "gender": 1,
+            "hp": 1575689.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55265.46875,
+                "y": -88712.53125,
+                "z": 21724.439453125
+            },
+            "last_seen": "2026年3月2日 下午12:24:28",
+            "level": 100,
+            "name": "血沫花",
+            "name_history": [
+                "血沫花"
+            ],
+            "registered": "2023年10月27日 下午3:30:55",
+            "role_id": 63148904395096,
             "server_region": "reshaping-the-future"
         },
         "63148904397246": {
@@ -21585,7 +21647,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 981,
-    "last_updated": "2026年3月2日 下午12:21:27",
+    "accounts_total": 983,
+    "last_updated": "2026年3月2日 下午12:24:28",
     "server_region": "reshaping-the-future"
 }
