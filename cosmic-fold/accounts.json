@@ -1165,13 +1165,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695850361": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_41",
             "gender": 1,
-            "hp": 1416510.375,
-            "last_seen": "2026年2月8日 下午9:21:23",
-            "level": 82,
+            "hp": 1456937.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1580.4000244140625,
+                "y": -27572.099609375,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午12:56:23",
+            "level": 84,
             "name": "碗碗",
             "name_history": [
                 "碗碗"
@@ -17392,6 +17401,31 @@
             "role_id": 63582695859982,
             "server_region": "cosmic-fold"
         },
+        "63582695859995": {
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1477359.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1205.8900146484375,
+                "y": -28313.669921875,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月2日 下午12:56:23",
+            "level": 85,
+            "name": "暗黑大堡戟",
+            "name_history": [
+                "暗黑大堡戟"
+            ],
+            "registered": "2025年9月25日 下午8:54:55",
+            "role_id": 63582695859995,
+            "server_region": "cosmic-fold"
+        },
         "63582695860000": {
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
@@ -26458,13 +26492,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695867868": {
-            "crew_id": 85899360724,
-            "crew_name": "樱花庄",
-            "equipping_title": "1_9_0_2",
+            "crew_history": [
+                "白月破晓"
+            ],
+            "crew_id": 433791711700,
+            "crew_name": "白月破晓",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 731671.625,
-            "last_seen": "2025年11月25日 上午 6:19:33",
-            "level": 72,
+            "hp": 1174458.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1943.699951171875,
+                "y": -24350.478515625,
+                "z": 97865.828125
+            },
+            "last_seen": "2026年3月2日 下午12:56:23",
+            "level": 84,
             "name": "穷",
             "name_history": [
                 "穷"
@@ -55544,6 +55587,31 @@
             "role_id": 63582695951139,
             "server_region": "cosmic-fold"
         },
+        "63582695951229": {
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "o东方月初o的学徒,0",
+            "gender": 1,
+            "hp": 894717.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1811.260009765625,
+                "y": -28205.990234375,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月2日 下午12:56:23",
+            "level": 82,
+            "name": "有智慧",
+            "name_history": [
+                "有智慧"
+            ],
+            "registered": "2025年11月2日 下午3:54:02",
+            "role_id": 63582695951229,
+            "server_region": "cosmic-fold"
+        },
         "63582695951262": {
             "crew_id": 425201777108,
             "crew_name": "星期三",
@@ -77849,6 +77917,29 @@
             "role_id": 63582696013034,
             "server_region": "cosmic-fold"
         },
+        "63582696013184": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 51511.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -11.59999942779541,
+                "y": -24089.798828125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午12:56:23",
+            "level": 17,
+            "name": "小小金不金",
+            "name_history": [
+                "小小金不金"
+            ],
+            "registered": "2026年3月1日 下午5:48:41",
+            "role_id": 63582696013184,
+            "server_region": "cosmic-fold"
+        },
         "63582696013200": {
             "crew_history": [],
             "crew_id": 0,
@@ -77965,7 +78056,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5272,
-    "last_updated": "2026年3月2日 下午12:55:23",
+    "accounts_total": 5275,
+    "last_updated": "2026年3月2日 下午12:56:23",
     "server_region": "cosmic-fold"
 }
