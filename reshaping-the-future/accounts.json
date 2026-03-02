@@ -15290,14 +15290,14 @@
             "crew_name": "彩虹海",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2172388.25,
+            "hp": 2232872.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
+                "x": -54242.33984375,
+                "y": -88011.015625,
                 "z": 21711.048828125
             },
-            "last_seen": "2026年2月27日 下午8:24:20",
+            "last_seen": "2026年3月2日 下午10:16:14",
             "level": 100,
             "name": "济春",
             "name_history": [
@@ -22134,6 +22134,31 @@
             "role_id": 63148904730080,
             "server_region": "reshaping-the-future"
         },
+        "63148904732445": {
+            "crew_history": [
+                "花园乐土"
+            ],
+            "crew_id": 1705102031215,
+            "crew_name": "花园乐土",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 1523000.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54093.36328125,
+                "y": -88126.921875,
+                "z": 21717.62890625
+            },
+            "last_seen": "2026年3月2日 下午10:16:14",
+            "level": 100,
+            "name": "SS-27",
+            "name_history": [
+                "SS-27"
+            ],
+            "registered": "2024年6月9日 下午10:31:52",
+            "role_id": 63148904732445,
+            "server_region": "reshaping-the-future"
+        },
         "63148904737582": {
             "crew_id": 10209137277194,
             "crew_name": "心愿岛",
@@ -22272,7 +22297,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1007,
-    "last_updated": "2026年3月2日 下午10:14:13",
+    "accounts_total": 1008,
+    "last_updated": "2026年3月2日 下午10:16:14",
     "server_region": "reshaping-the-future"
 }
