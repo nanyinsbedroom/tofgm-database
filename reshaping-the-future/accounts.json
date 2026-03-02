@@ -8605,17 +8605,17 @@
             ],
             "crew_id": 3577707772171,
             "crew_name": "心动",
-            "equipping_title": "1_3_1_5",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 826302.375,
+            "hp": 1143356.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91527.6015625,
-                "y": 76542.3203125,
-                "z": -7076.9697265625
+                "x": -54718.26953125,
+                "y": -87061.3671875,
+                "z": 21724.87890625
             },
-            "last_seen": "2026年2月21日 下午7:57:03",
-            "level": 69,
+            "last_seen": "2026年3月2日 下午10:07:13",
+            "level": 91,
             "name": "殇凪悔",
             "name_history": [
                 "殇凪悔"
@@ -12212,6 +12212,29 @@
             ],
             "registered": "2026年2月19日 下午10:09:43",
             "role_id": 62715114591651,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114591679": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 751331.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55210.52734375,
+                "y": -87049.921875,
+                "z": 21723.990234375
+            },
+            "last_seen": "2026年3月2日 下午10:07:13",
+            "level": 69,
+            "name": "寄闻与",
+            "name_history": [
+                "寄闻与"
+            ],
+            "registered": "2026年2月19日 下午11:02:15",
+            "role_id": 62715114591679,
             "server_region": "reshaping-the-future"
         },
         "62715114591811": {
@@ -16249,6 +16272,31 @@
             "name": "LPFLS",
             "registered": "2022年12月18日 上午12:47:38",
             "role_id": 62740882410793,
+            "server_region": "reshaping-the-future"
+        },
+        "62740882412529": {
+            "crew_history": [
+                "微陵"
+            ],
+            "crew_id": 23210003282186,
+            "crew_name": "微陵",
+            "equipping_title": "1_1_26_1",
+            "gender": 1,
+            "hp": 1097727.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54221.328125,
+                "y": -88277.0390625,
+                "z": 21806.75
+            },
+            "last_seen": "2026年3月2日 下午10:07:13",
+            "level": 100,
+            "name": "凤舞年华",
+            "name_history": [
+                "凤舞年华"
+            ],
+            "registered": "2022年12月18日 上午7:42:04",
+            "role_id": 62740882412529,
             "server_region": "reshaping-the-future"
         },
         "62740882492955": {
@@ -21406,14 +21454,14 @@
             "crew_name": "清幽阁",
             "equipping_title": "2_10_1_6",
             "gender": 1,
-            "hp": 1558330.25,
+            "hp": 1598818.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55069.91796875,
-                "y": -87072.3359375,
-                "z": 21710.96875
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
             },
-            "last_seen": "2026年2月24日 下午8:22:20",
+            "last_seen": "2026年3月2日 下午10:07:13",
             "level": 100,
             "name": "䲜䨻",
             "name_history": [
@@ -22103,7 +22151,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1000,
-    "last_updated": "2026年3月2日 下午10:06:13",
+    "accounts_total": 1002,
+    "last_updated": "2026年3月2日 下午10:07:13",
     "server_region": "reshaping-the-future"
 }
