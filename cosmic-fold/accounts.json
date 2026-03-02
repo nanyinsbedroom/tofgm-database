@@ -50208,13 +50208,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695929705": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1137727.625,
-            "last_seen": "2026年2月9日 下午8:02:30",
-            "level": 80,
+            "hp": 1158981.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97886.1171875
+            },
+            "last_seen": "2026年3月2日 下午12:39:22",
+            "level": 83,
             "name": "白吃饭的",
             "name_history": [
                 "白吃饭的"
@@ -77561,6 +77570,6 @@
         }
     },
     "accounts_total": 5257,
-    "last_updated": "2026年3月2日 下午12:38:22",
+    "last_updated": "2026年3月2日 下午12:39:22",
     "server_region": "cosmic-fold"
 }
