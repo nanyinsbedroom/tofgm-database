@@ -747,13 +747,22 @@
             "server_region": "time-travel"
         },
         "63574105918641": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1446449.125,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1709672.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54762.19921875,
+                "y": -86846.9609375,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年3月2日 下午6:08:14",
+            "level": 85,
             "name": "大厦壁三条",
             "name_history": [
                 "大厦壁三条"
@@ -6220,15 +6229,15 @@
             "crew_name": "喵喵喵",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1676740.25,
+            "hp": 1715378.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54615.83984375,
-                "y": -87813.234375,
-                "z": 21710.94921875
+                "x": -53782.328125,
+                "y": -87957.546875,
+                "z": 21825.66015625
             },
-            "last_seen": "2026年2月25日 下午6:12:55",
-            "level": 84,
+            "last_seen": "2026年3月2日 下午6:08:14",
+            "level": 85,
             "name": "大西娘",
             "name_history": [
                 "大西娘"
@@ -13070,6 +13079,29 @@
             "role_id": 63578401972871,
             "server_region": "time-travel"
         },
+        "63578401973110": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 118142.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21716.048828125
+            },
+            "last_seen": "2026年3月2日 下午6:08:14",
+            "level": 79,
+            "name": "源影#a",
+            "name_history": [
+                "源影#a"
+            ],
+            "registered": "2021年12月16日 上午8:06:40",
+            "role_id": 63578401973110,
+            "server_region": "time-travel"
+        },
         "63578401974046": {
             "crew_history": [
                 "暖暖六课"
@@ -17929,7 +17961,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 954,
-    "last_updated": "2026年3月2日 下午6:06:14",
+    "accounts_total": 955,
+    "last_updated": "2026年3月2日 下午6:08:14",
     "server_region": "time-travel"
 }
