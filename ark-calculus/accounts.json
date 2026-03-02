@@ -3114,6 +3114,31 @@
             "role_id": 62285615759096,
             "server_region": "ark-calculus"
         },
+        "62285615762099": {
+            "crew_history": [
+                "幻塔陪伴中心"
+            ],
+            "crew_id": 94489295023,
+            "crew_name": "幻塔陪伴中心",
+            "equipping_title": "4_2021",
+            "gender": 0,
+            "hp": 1463451.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54649.3984375,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月2日 下午8:14:41",
+            "level": 100,
+            "name": "Javelin",
+            "name_history": [
+                "Javelin"
+            ],
+            "registered": "2021年12月16日 下午10:59:54",
+            "role_id": 62285615762099,
+            "server_region": "ark-calculus"
+        },
         "62285615762249": {
             "crew_history": [],
             "crew_id": 0,
@@ -3904,12 +3929,21 @@
             "server_region": "ark-calculus"
         },
         "62285617246063": {
+            "crew_history": [
+                "Heart"
+            ],
             "crew_id": 4294981900,
             "crew_name": "Heart",
             "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2135761.0,
-            "last_seen": "2026年02月04日 上午 3:28:25",
+            "hp": 2138661.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55816.3984375,
+                "y": -88388.3515625,
+                "z": 21733.51953125
+            },
+            "last_seen": "2026年3月2日 下午8:14:41",
             "level": 100,
             "name": "清壶邀风饮浊酒",
             "name_history": [
@@ -9409,14 +9443,14 @@
             "crew_name": "魅魔恬心",
             "equipping_title": "1_1_29_1",
             "gender": 1,
-            "hp": 1632103.375,
+            "hp": 1786481.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55305.84765625,
-                "y": -87902.640625,
-                "z": 21865.69140625
+                "x": -55129.125,
+                "y": -87268.625,
+                "z": 21721.919921875
             },
-            "last_seen": "2026年2月22日 下午8:06:40",
+            "last_seen": "2026年3月2日 下午8:14:41",
             "level": 100,
             "name": "孤舟泛月",
             "name_history": [
@@ -21052,7 +21086,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 999,
-    "last_updated": "2026年3月2日 下午8:13:41",
+    "accounts_total": 1000,
+    "last_updated": "2026年3月2日 下午8:14:41",
     "server_region": "ark-calculus"
 }
