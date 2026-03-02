@@ -7599,16 +7599,16 @@
             ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
-            "equipping_title": "1_6_4_26",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1601870.25,
+            "hp": 1675067.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1287.68994140625,
-                "y": -22606.548828125,
-                "z": 96738.1171875
+                "x": 531.97998046875,
+                "y": -22430.37890625,
+                "z": 96738.140625
             },
-            "last_seen": "2026年2月28日 下午10:51:57",
+            "last_seen": "2026年3月2日 下午12:47:23",
             "level": 85,
             "name": "新跃迁者",
             "name_history": [
@@ -63118,13 +63118,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695983755": {
-            "crew_id": 820338768340,
-            "crew_name": "抵达深空",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 1080031.5,
-            "last_seen": "2026年02月04日 上午 6:43:54",
-            "level": 81,
+            "hp": 1311415.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1696.419921875,
+                "y": -28775.19921875,
+                "z": 97876.6796875
+            },
+            "last_seen": "2026年3月2日 下午12:47:23",
+            "level": 84,
             "name": "奥义√牧了个苏",
             "name_history": [
                 "奥义√牧了个苏"
@@ -72098,6 +72107,31 @@
             "role_id": 63582696006459,
             "server_region": "cosmic-fold"
         },
+        "63582696006530": {
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_017_world;34",
+            "gender": 1,
+            "hp": 389723.84375,
+            "last_known_position": {
+                "map": "city",
+                "x": -1467.22998046875,
+                "y": -28355.939453125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月2日 下午12:47:23",
+            "level": 71,
+            "name": "彭余晏",
+            "name_history": [
+                "彭余晏"
+            ],
+            "registered": "2026年2月10日 上午7:44:45",
+            "role_id": 63582696006530,
+            "server_region": "cosmic-fold"
+        },
         "63582696006609": {
             "crew_id": 0,
             "crew_name": "",
@@ -76577,6 +76611,29 @@
             "role_id": 63582696010439,
             "server_region": "cosmic-fold"
         },
+        "63582696010466": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 70012.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 299.5099792480469,
+                "y": -20989.21875,
+                "z": 96755.859375
+            },
+            "last_seen": "2026年3月2日 下午12:47:23",
+            "level": 19,
+            "name": "拓荒者゛",
+            "name_history": [
+                "拓荒者゛"
+            ],
+            "registered": "2026年2月26日 下午12:22:40",
+            "role_id": 63582696010466,
+            "server_region": "cosmic-fold"
+        },
         "63582696010580": {
             "crew_history": [],
             "crew_id": 0,
@@ -77755,7 +77812,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5264,
-    "last_updated": "2026年3月2日 下午12:46:23",
+    "accounts_total": 5266,
+    "last_updated": "2026年3月2日 下午12:47:23",
     "server_region": "cosmic-fold"
 }
