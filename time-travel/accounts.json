@@ -181,15 +181,15 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1696380.25,
+            "hp": 1748964.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1659.5999755859375,
-                "y": -29105.298828125,
-                "z": 96751.3515625
+                "x": 932.949951171875,
+                "y": -22858.740234375,
+                "z": 96733.0390625
             },
-            "last_seen": "2026年2月23日 下午5:46:42",
-            "level": 84,
+            "last_seen": "2026年3月2日 下午6:58:16",
+            "level": 85,
             "name": "白蓝帝",
             "name_history": [
                 "白蓝帝"
@@ -2050,6 +2050,31 @@
             ],
             "registered": "2023年12月14日 下午2:21:44",
             "role_id": 63574105950277,
+            "server_region": "time-travel"
+        },
+        "63574105951141": {
+            "crew_history": [
+                "异世相遇"
+            ],
+            "crew_id": 283467856338,
+            "crew_name": "异世相遇",
+            "equipping_title": "2_7_0_18",
+            "gender": 1,
+            "hp": 1469811.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 193.1999969482422,
+                "y": -28315.330078125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午6:58:16",
+            "level": 85,
+            "name": "月亮代表谁的心",
+            "name_history": [
+                "月亮代表谁的心"
+            ],
+            "registered": "2023年12月14日 下午2:45:41",
+            "role_id": 63574105951141,
             "server_region": "time-travel"
         },
         "63574105951314": {
@@ -13482,6 +13507,31 @@
             "role_id": 63578401970493,
             "server_region": "time-travel"
         },
+        "63578401970576": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1243619.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1374.219970703125,
+                "y": -28608.3203125,
+                "z": 97872.53125
+            },
+            "last_seen": "2026年3月2日 下午6:58:16",
+            "level": 84,
+            "name": "疯行乱世",
+            "name_history": [
+                "疯行乱世"
+            ],
+            "registered": "2021年12月16日 上午8:45:42",
+            "role_id": 63578401970576,
+            "server_region": "time-travel"
+        },
         "63578401970936": {
             "crew_history": [
                 "绝幻"
@@ -18884,7 +18934,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 989,
-    "last_updated": "2026年3月2日 下午6:57:16",
+    "accounts_total": 991,
+    "last_updated": "2026年3月2日 下午6:58:16",
     "server_region": "time-travel"
 }
