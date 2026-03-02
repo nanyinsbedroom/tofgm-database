@@ -435,13 +435,22 @@
             "server_region": "time-travel"
         },
         "63574105916562": {
+            "crew_history": [
+                "樱花荘"
+            ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
             "equipping_title": "2_7_0_17",
             "gender": 1,
-            "hp": 1390696.75,
-            "last_seen": "2026年2月6日 上午2:17:01",
-            "level": 81,
+            "hp": 1169977.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 129.3300018310547,
+                "y": -25299.830078125,
+                "z": 96713.4453125
+            },
+            "last_seen": "2026年3月2日 下午7:15:36",
+            "level": 85,
             "name": "幻梦薇",
             "name_history": [
                 "幻梦薇"
@@ -1089,14 +1098,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_70",
             "gender": 0,
-            "hp": 1703242.0,
+            "hp": 1706767.25,
             "last_known_position": {
                 "map": "city",
-                "x": 479.1399841308594,
-                "y": -25193.779296875,
-                "z": 96706.9453125
+                "x": -1683.0999755859375,
+                "y": -25309.62890625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月2日 下午6:47:16",
+            "last_seen": "2026年3月2日 下午7:15:36",
             "level": 85,
             "name": "御樱稟",
             "name_history": [
@@ -2250,14 +2259,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "1_2023",
             "gender": 1,
-            "hp": 1564261.375,
+            "hp": 1566143.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1180.260009765625,
-                "y": -28316.80859375,
+                "x": -1548.2999267578125,
+                "y": -25501.798828125,
                 "z": 97874.1171875
             },
-            "last_seen": "2026年3月2日 下午6:53:16",
+            "last_seen": "2026年3月2日 下午7:15:36",
             "level": 85,
             "name": "Elaina.",
             "name_history": [
@@ -2351,14 +2360,14 @@
             "crew_name": "星奈海",
             "equipping_title": "2_3_0_1",
             "gender": 1,
-            "hp": 1564724.375,
+            "hp": 1565223.625,
             "last_known_position": {
                 "map": "city",
-                "x": 576.4500122070313,
-                "y": -28284.25,
+                "x": 56.28999710083008,
+                "y": -28448.869140625,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年3月2日 下午6:50:16",
+            "last_seen": "2026年3月2日 下午7:15:36",
             "level": 85,
             "name": "閃刀姫カメリア",
             "name_history": [
@@ -4777,6 +4786,31 @@
             "role_id": 63574106034397,
             "server_region": "time-travel"
         },
+        "63574106034614": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
+            "crew_id": 416611842514,
+            "crew_name": "雪绒白巧",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1706738.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 3652.5498046875,
+                "y": -26001.728515625,
+                "z": 96753.28125
+            },
+            "last_seen": "2026年3月2日 下午7:15:36",
+            "level": 85,
+            "name": "受莉儿",
+            "name_history": [
+                "受莉儿"
+            ],
+            "registered": "2023年12月20日 下午9:55:00",
+            "role_id": 63574106034614,
+            "server_region": "time-travel"
+        },
         "63574106038062": {
             "crew_history": [
                 "樱花荘"
@@ -5236,6 +5270,31 @@
             ],
             "registered": "2023年12月28日 下午10:20:06",
             "role_id": 63574106078114,
+            "server_region": "time-travel"
+        },
+        "63574106079770": {
+            "crew_history": [
+                "樱花荘"
+            ],
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
+            "equipping_title": "2_2_0_32",
+            "gender": 0,
+            "hp": 1808558.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 877.8399658203125,
+                "y": -24507.478515625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月2日 下午7:15:36",
+            "level": 85,
+            "name": "终结de炽天使",
+            "name_history": [
+                "终结de炽天使"
+            ],
+            "registered": "2023年12月29日 下午2:37:28",
+            "role_id": 63574106079770,
             "server_region": "time-travel"
         },
         "63574106081675": {
@@ -6745,11 +6804,11 @@
             "hp": 1616221.125,
             "last_known_position": {
                 "map": "city",
-                "x": -91.86000061035156,
-                "y": -20809.349609375,
-                "z": 97800.375
+                "x": 2.3999998569488525,
+                "y": -20508.69921875,
+                "z": 97812.4375
             },
-            "last_seen": "2026年3月2日 下午6:52:16",
+            "last_seen": "2026年3月2日 下午7:15:36",
             "level": 85,
             "name": "刹那S清英",
             "name_history": [
@@ -11496,6 +11555,31 @@
             "role_id": 63578401909378,
             "server_region": "time-travel"
         },
+        "63578401911450": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "1_9_0_4",
+            "gender": 1,
+            "hp": 1163147.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 598.5999755859375,
+                "y": -24253.5,
+                "z": 97881.140625
+            },
+            "last_seen": "2026年3月2日 下午7:15:36",
+            "level": 81,
+            "name": "暴力型",
+            "name_history": [
+                "暴力型"
+            ],
+            "registered": "2025年7月7日 下午7:40:58",
+            "role_id": 63578401911450,
+            "server_region": "time-travel"
+        },
         "63578401912148": {
             "crew_id": 1138166348243,
             "crew_name": "桃花海",
@@ -15197,6 +15281,31 @@
             "role_id": 63578401985398,
             "server_region": "time-travel"
         },
+        "63578401985621": {
+            "crew_history": [
+                "暖暖六课"
+            ],
+            "crew_id": 1473173797330,
+            "crew_name": "暖暖六课",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 208462.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": 8282.75,
+                "y": -31244.490234375,
+                "z": 96375.0234375
+            },
+            "last_seen": "2026年3月2日 下午7:15:36",
+            "level": 60,
+            "name": "魔神皇枫秀1",
+            "name_history": [
+                "魔神皇枫秀1"
+            ],
+            "registered": "2025年12月3日 下午6:53:55",
+            "role_id": 63578401985621,
+            "server_region": "time-travel"
+        },
         "63578401985640": {
             "crew_id": 150323870162,
             "crew_name": "星奈海",
@@ -15363,11 +15472,11 @@
             "hp": 1317734.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1291.719970703125,
-                "y": -27824.189453125,
+                "x": 1188.8599853515625,
+                "y": -27838.599609375,
                 "z": 97872.6171875
             },
-            "last_seen": "2026年3月2日 下午6:45:16",
+            "last_seen": "2026年3月2日 下午7:15:36",
             "level": 84,
             "name": "★小浅丶",
             "name_history": [
@@ -19197,7 +19306,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1001,
-    "last_updated": "2026年3月2日 下午7:14:36",
+    "accounts_total": 1005,
+    "last_updated": "2026年3月2日 下午7:15:36",
     "server_region": "time-travel"
 }
