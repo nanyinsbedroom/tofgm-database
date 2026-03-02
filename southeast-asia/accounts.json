@@ -1635,14 +1635,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "RuneStone's Enlightener,1",
             "gender": 1,
-            "hp": 6339651.5,
+            "hp": 2995805.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101212.796875,
-                "y": -185816.859375,
-                "z": -7737.64453125
+                "map": "city",
+                "x": -523.7999877929688,
+                "y": -17964.048828125,
+                "z": 96336.03125
             },
-            "last_seen": "Mar 2, 2026, 10:46:31 PM",
+            "last_seen": "Mar 2, 2026, 10:58:41 PM",
             "level": 100,
             "name": "FriK√SweetEyes",
             "name_history": [
@@ -9767,14 +9767,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2815200.75,
+            "hp": 2798256.25,
             "last_known_position": {
                 "map": "city",
-                "x": -540.489990234375,
-                "y": -18767.080078125,
+                "x": -306.6300048828125,
+                "y": -19374.98046875,
                 "z": 96322.78125
             },
-            "last_seen": "Mar 1, 2026, 11:22:54 PM",
+            "last_seen": "Mar 2, 2026, 10:58:41 PM",
             "level": 100,
             "name": "พาราเซตามอน",
             "name_history": [
@@ -10676,14 +10676,26 @@
             "server_region": "southeast-asia"
         },
         "68762426542147": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1628591.875,
-            "last_seen": "Oct 15, 2025, 08:10:48 PM",
+            "hp": 1606206.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -306.6300048828125,
+                "y": -19374.98046875,
+                "z": 96329.53125
+            },
+            "last_seen": "Mar 2, 2026, 10:58:41 PM",
             "level": 100,
             "name": "พารามีเซียม",
+            "name_history": [
+                "พารามีเซียม"
+            ],
             "registered": "Dec 5, 2022, 3:47:12 AM",
             "role_id": 68762426542147,
             "server_region": "southeast-asia"
@@ -30676,6 +30688,6 @@
         }
     },
     "accounts_total": 2078,
-    "last_updated": "Mar 2, 2026, 10:57:41 PM",
+    "last_updated": "Mar 2, 2026, 10:58:41 PM",
     "server_region": "southeast-asia"
 }
