@@ -46563,6 +46563,31 @@
             "role_id": 63582695922889,
             "server_region": "cosmic-fold"
         },
+        "63582695922912": {
+            "crew_history": [
+                "陌上人如玉"
+            ],
+            "crew_id": 2439541438932,
+            "crew_name": "陌上人如玉",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 175280.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1725.0699462890625,
+                "y": -28729.279296875,
+                "z": 97878.6875
+            },
+            "last_seen": "2026年3月2日 下午12:36:22",
+            "level": 67,
+            "name": "邪王真眼",
+            "name_history": [
+                "邪王真眼"
+            ],
+            "registered": "2025年10月10日 下午11:22:47",
+            "role_id": 63582695922912,
+            "server_region": "cosmic-fold"
+        },
         "63582695922943": {
             "crew_id": 0,
             "crew_name": "",
@@ -52627,13 +52652,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695937366": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1454293.625,
-            "last_seen": "2026年2月10日 下午9:53:00",
-            "level": 82,
+            "hp": 1640680.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96375.03125
+            },
+            "last_seen": "2026年3月2日 下午12:36:22",
+            "level": 85,
             "name": "淇之道",
             "name_history": [
                 "淇之道"
@@ -73677,16 +73711,16 @@
             ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "萌萌爱的学徒,0",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
             "hp": 477284.4375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -59539.23828125,
-                "y": 105724.578125,
-                "z": -12937.8193359375
+                "map": "city",
+                "x": 2111.889892578125,
+                "y": -27144.76953125,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月2日 上午6:24:38",
+            "last_seen": "2026年3月2日 下午12:36:22",
             "level": 76,
             "name": "伊芙琳朵朵",
             "name_history": [
@@ -76808,6 +76842,29 @@
             "role_id": 63582696011781,
             "server_region": "cosmic-fold"
         },
+        "63582696011820": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 15292.943359375,
+            "last_known_position": {
+                "map": "city",
+                "x": 931.0,
+                "y": -28825.798828125,
+                "z": 97901.9140625
+            },
+            "last_seen": "2026年3月2日 下午12:36:22",
+            "level": 12,
+            "name": "元因",
+            "name_history": [
+                "元因"
+            ],
+            "registered": "2026年2月27日 下午10:48:14",
+            "role_id": 63582696011820,
+            "server_region": "cosmic-fold"
+        },
         "63582696011826": {
             "crew_history": [],
             "crew_id": 0,
@@ -77407,7 +77464,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5251,
-    "last_updated": "2026年3月2日 下午12:35:22",
+    "accounts_total": 5253,
+    "last_updated": "2026年3月2日 下午12:36:22",
     "server_region": "cosmic-fold"
 }
