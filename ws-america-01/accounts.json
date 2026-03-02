@@ -7543,14 +7543,14 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 1190878.625,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 95486.921875,
-                "y": -171998.296875,
-                "z": -4556.9130859375
+                "map": "Norn_P",
+                "x": -76430.96875,
+                "y": 126393.84375,
+                "z": -9980.439453125
             },
-            "last_seen": "Feb 28, 2026, 7:32:40 PM",
+            "last_seen": "Mar 1, 2026, 9:55:07 PM",
             "level": 77,
             "name": "elkami",
             "name_history": [
@@ -19167,6 +19167,31 @@
             ],
             "registered": "Nov 27, 2025, 12:06:15 AM",
             "role_id": 38174107413537689,
+            "server_region": "ws-america-01"
+        },
+        "38174107413537994": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1158844.0,
+            "last_known_position": {
+                "map": "Norn_P",
+                "x": -76142.921875,
+                "y": 126055.6328125,
+                "z": -9992.0576171875
+            },
+            "last_seen": "Mar 1, 2026, 9:55:07 PM",
+            "level": 77,
+            "name": "Akemi Homura",
+            "name_history": [
+                "Akemi Homura"
+            ],
+            "registered": "Nov 27, 2025, 1:52:38 AM",
+            "role_id": 38174107413537994,
             "server_region": "ws-america-01"
         },
         "38174107413537995": {
@@ -33192,7 +33217,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1789,
-    "last_updated": "Mar 1, 2026, 9:54:07 PM",
+    "accounts_total": 1790,
+    "last_updated": "Mar 1, 2026, 9:55:07 PM",
     "server_region": "ws-america-01"
 }
