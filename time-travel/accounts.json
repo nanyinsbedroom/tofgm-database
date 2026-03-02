@@ -3670,15 +3670,15 @@
             "crew_name": "雪绒白巧",
             "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 1458665.25,
+            "hp": 1625557.75,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -89214.0859375,
-                "y": 84117.3359375,
-                "z": -6892.759765625
+                "map": "city",
+                "x": 1313.2999267578125,
+                "y": -28152.2890625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月23日 下午5:49:42",
-            "level": 84,
+            "last_seen": "2026年3月2日 下午6:57:16",
+            "level": 85,
             "name": "爱莉儿",
             "name_history": [
                 "爱莉儿"
@@ -6074,6 +6074,31 @@
             ],
             "registered": "2024年2月20日 下午5:10:48",
             "role_id": 63574106323937,
+            "server_region": "time-travel"
+        },
+        "63574106345111": {
+            "crew_history": [
+                "樱花荘"
+            ],
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 1768061.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1568.5,
+                "y": -28294.099609375,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月2日 下午6:57:16",
+            "level": 85,
+            "name": "快把娜姐端上来",
+            "name_history": [
+                "快把娜姐端上来"
+            ],
+            "registered": "2024年2月29日 上午8:02:57",
+            "role_id": 63574106345111,
             "server_region": "time-travel"
         },
         "63574106353615": {
@@ -18859,7 +18884,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 988,
-    "last_updated": "2026年3月2日 下午6:56:16",
+    "accounts_total": 989,
+    "last_updated": "2026年3月2日 下午6:57:16",
     "server_region": "time-travel"
 }
