@@ -5555,14 +5555,14 @@
             "crew_name": "陀螺村",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 1723394.25,
+            "hp": 2314130.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54022.41015625,
-                "y": -87870.2578125,
+                "x": -54180.95703125,
+                "y": -88005.1953125,
                 "z": 21721.048828125
             },
-            "last_seen": "2026年2月24日 下午2:27:52",
+            "last_seen": "2026年3月2日 下午10:14:13",
             "level": 100,
             "name": "芈芈殇月",
             "name_history": [
@@ -20001,6 +20001,31 @@
             "role_id": 63148904481173,
             "server_region": "reshaping-the-future"
         },
+        "63148904482421": {
+            "crew_history": [
+                "世界BOSS"
+            ],
+            "crew_id": 30064785674,
+            "crew_name": "世界BOSS",
+            "equipping_title": "氵哈的后继者,1",
+            "gender": 0,
+            "hp": 1072732.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54885.24609375,
+                "y": -87628.5625,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年3月2日 下午10:14:13",
+            "level": 100,
+            "name": "氵瓶",
+            "name_history": [
+                "氵瓶"
+            ],
+            "registered": "2023年11月15日 下午9:08:46",
+            "role_id": 63148904482421,
+            "server_region": "reshaping-the-future"
+        },
         "63148904482497": {
             "crew_id": 0,
             "crew_name": "",
@@ -22247,7 +22272,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1006,
-    "last_updated": "2026年3月2日 下午10:13:13",
+    "accounts_total": 1007,
+    "last_updated": "2026年3月2日 下午10:14:13",
     "server_region": "reshaping-the-future"
 }
