@@ -1675,20 +1675,22 @@
             "server_region": "time-travel"
         },
         "63574105946243": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_075_World;2",
+            "crew_history": [
+                "绝幻"
+            ],
+            "crew_id": 270582954450,
+            "crew_name": "绝幻",
+            "equipping_title": "1_9_0_4",
             "gender": 1,
-            "hp": 1501618.75,
+            "hp": 1610114.875,
             "last_known_position": {
                 "map": "city",
-                "x": 1237.969970703125,
-                "y": -28406.669921875,
-                "z": 97866.1171875
+                "x": 799.3999633789063,
+                "y": -22821.798828125,
+                "z": 96705.15625
             },
-            "last_seen": "2026年2月15日 下午11:30:12",
-            "level": 83,
+            "last_seen": "2026年3月2日 下午6:48:16",
+            "level": 85,
             "name": "黑利·佩茵特",
             "name_history": [
                 "黑利·佩茵特",
@@ -4263,15 +4265,15 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1613271.75,
+            "hp": 1664866.75,
             "last_known_position": {
                 "map": "city",
-                "x": -533.47998046875,
-                "y": -15778.9599609375,
-                "z": 96350.28125
+                "x": 1428.1400146484375,
+                "y": -23748.1796875,
+                "z": 96743.8046875
             },
-            "last_seen": "2026年2月23日 下午5:46:42",
-            "level": 84,
+            "last_seen": "2026年3月2日 下午6:48:16",
+            "level": 85,
             "name": "希塑",
             "name_history": [
                 "希塑"
@@ -18523,6 +18525,6 @@
         }
     },
     "accounts_total": 975,
-    "last_updated": "2026年3月2日 下午6:47:16",
+    "last_updated": "2026年3月2日 下午6:48:16",
     "server_region": "time-travel"
 }
