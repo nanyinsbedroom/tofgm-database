@@ -705,6 +705,31 @@
             "role_id": 63574105917938,
             "server_region": "time-travel"
         },
+        "63574105918380": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "4_2023",
+            "gender": 1,
+            "hp": 1381243.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54344.70703125,
+                "y": -88033.578125,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月2日 下午4:15:00",
+            "level": 84,
+            "name": "暗夜灵",
+            "name_history": [
+                "暗夜灵"
+            ],
+            "registered": "2023年12月14日 上午10:03:48",
+            "role_id": 63574105918380,
+            "server_region": "time-travel"
+        },
         "63574105918403": {
             "crew_id": 55834589650,
             "crew_name": "EVA",
@@ -9644,15 +9669,15 @@
             "crew_name": "七宫",
             "equipping_title": "4_2024",
             "gender": 1,
-            "hp": 1479187.375,
+            "hp": 1565126.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91943.8984375,
-                "y": 76718.8984375,
-                "z": -7074.9296875
+                "x": -55902.08984375,
+                "y": -88905.0,
+                "z": 21721.869140625
             },
-            "last_seen": "2026年2月25日 下午6:46:57",
-            "level": 84,
+            "last_seen": "2026年3月2日 下午4:15:00",
+            "level": 85,
             "name": "慕I影织",
             "name_history": [
                 "慕I影织"
@@ -12310,6 +12335,31 @@
             ],
             "registered": "2022年4月23日 下午1:36:58",
             "role_id": 63578401969634,
+            "server_region": "time-travel"
+        },
+        "63578401969711": {
+            "crew_history": [
+                "EVA"
+            ],
+            "crew_id": 55834589650,
+            "crew_name": "EVA",
+            "equipping_title": "2_7_0_19",
+            "gender": 1,
+            "hp": 1259874.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54894.77734375,
+                "y": -87061.5390625,
+                "z": 21725.98046875
+            },
+            "last_seen": "2026年3月2日 下午4:15:00",
+            "level": 85,
+            "name": "空元行者",
+            "name_history": [
+                "空元行者"
+            ],
+            "registered": "2022年8月4日 上午11:57:57",
+            "role_id": 63578401969711,
             "server_region": "time-travel"
         },
         "63578401969735": {
@@ -17434,7 +17484,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 934,
-    "last_updated": "2026年3月2日 下午4:14:00",
+    "accounts_total": 936,
+    "last_updated": "2026年3月2日 下午4:15:00",
     "server_region": "time-travel"
 }
