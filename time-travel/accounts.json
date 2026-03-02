@@ -4241,14 +4241,14 @@
             "crew_name": "异世相遇",
             "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1633708.875,
+            "hp": 1628332.875,
             "last_known_position": {
-                "map": "city",
-                "x": -3715.886474609375,
-                "y": -28178.873046875,
-                "z": 96705.5390625
+                "map": "QRSL_P",
+                "x": -55830.796875,
+                "y": -88550.359375,
+                "z": 21724.33984375
             },
-            "last_seen": "2026年2月27日 下午1:24:00",
+            "last_seen": "2026年3月2日 下午4:07:59",
             "level": 85,
             "name": "一只懒羊",
             "name_history": [
@@ -7161,6 +7161,31 @@
             "name": "最喜欢爱莉了",
             "registered": "2024年5月16日 上午12:49:02",
             "role_id": 63578401156027,
+            "server_region": "time-travel"
+        },
+        "63578401448815": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1386303.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54353.83984375,
+                "y": -87996.859375,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月2日 下午4:07:59",
+            "level": 83,
+            "name": ".",
+            "name_history": [
+                "."
+            ],
+            "registered": "2024年5月18日 下午1:16:38",
+            "role_id": 63578401448815,
             "server_region": "time-travel"
         },
         "63578401455749": {
@@ -15402,6 +15427,31 @@
             "role_id": 63578402002872,
             "server_region": "time-travel"
         },
+        "63578402002893": {
+            "crew_history": [
+                "星下樱园"
+            ],
+            "crew_id": 5673651812819,
+            "crew_name": "星下樱园",
+            "equipping_title": "2_2_0_48",
+            "gender": 1,
+            "hp": 200221.015625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54460.109375,
+                "y": -88098.65625,
+                "z": 21713.94921875
+            },
+            "last_seen": "2026年3月2日 下午4:07:59",
+            "level": 60,
+            "name": "佑伍",
+            "name_history": [
+                "佑伍"
+            ],
+            "registered": "2026年2月18日 上午10:49:10",
+            "role_id": 63578402002893,
+            "server_region": "time-travel"
+        },
         "63578402002913": {
             "crew_history": [],
             "crew_id": 0,
@@ -17286,7 +17336,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 928,
-    "last_updated": "2026年3月2日 下午4:06:59",
+    "accounts_total": 930,
+    "last_updated": "2026年3月2日 下午4:07:59",
     "server_region": "time-travel"
 }
