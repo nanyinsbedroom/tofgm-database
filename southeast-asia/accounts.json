@@ -6369,12 +6369,21 @@
             "server_region": "southeast-asia"
         },
         "68745246554077": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
-            "equipping_title": "3_2022",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2307388.25,
-            "last_seen": "Nov 21, 2025, 04:03:19 PM",
+            "hp": 6291651.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 91371.0703125,
+                "y": -186936.6875,
+                "z": -7670.54345703125
+            },
+            "last_seen": "Mar 3, 2026, 10:30:28 PM",
             "level": 100,
             "name": "LiBoNa",
             "name_history": [
@@ -11498,11 +11507,11 @@
             "hp": 6310051.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 106888.09375,
-                "y": -185312.21875,
-                "z": -4889.0458984375
+                "x": 96748.953125,
+                "y": -196367.6875,
+                "z": -2913.13916015625
             },
-            "last_seen": "Mar 3, 2026, 9:48:38 PM",
+            "last_seen": "Mar 3, 2026, 10:30:28 PM",
             "level": 100,
             "name": "Jazzberry",
             "name_history": [
@@ -25859,11 +25868,26 @@
             "server_region": "southeast-asia"
         },
         "68783901248467": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "Oct 07, 2025, 09:44:43 PM",
+            "hp": 6150562.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95977.875,
+                "y": -192282.8125,
+                "z": -7545.0498046875
+            },
+            "last_seen": "Mar 3, 2026, 10:30:28 PM",
+            "level": 100,
             "name": "Topaz トパーズ",
+            "name_history": [
+                "Topaz トパーズ"
+            ],
             "registered": "Aug 11, 2022, 8:08:38 AM",
             "role_id": 68783901248467,
             "server_region": "southeast-asia"
@@ -26377,6 +26401,31 @@
             ],
             "registered": "Aug 13, 2022, 12:49:48 AM",
             "role_id": 68783901296935,
+            "server_region": "southeast-asia"
+        },
+        "68783901304940": {
+            "crew_history": [
+                "Luminous"
+            ],
+            "crew_id": 1662152359567,
+            "crew_name": "Luminous",
+            "equipping_title": "2_3_0_2",
+            "gender": 1,
+            "hp": 6243500.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95922.65625,
+                "y": -192336.875,
+                "z": -7576.69970703125
+            },
+            "last_seen": "Mar 3, 2026, 10:30:28 PM",
+            "level": 100,
+            "name": "KazeMuto",
+            "name_history": [
+                "KazeMuto"
+            ],
+            "registered": "Aug 13, 2022, 10:05:13 PM",
+            "role_id": 68783901304940,
             "server_region": "southeast-asia"
         },
         "68783901305883": {
@@ -30832,7 +30881,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2082,
-    "last_updated": "Mar 3, 2026, 10:28:28 PM",
+    "accounts_total": 2083,
+    "last_updated": "Mar 3, 2026, 10:30:28 PM",
     "server_region": "southeast-asia"
 }
