@@ -61796,15 +61796,15 @@
             "crew_name": "幻塔",
             "equipping_title": "2_10_1_8_1_1",
             "gender": 1,
-            "hp": 1203294.875,
+            "hp": 1178572.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91202.71875,
-                "y": 73516.890625,
-                "z": -7059.56982421875
+                "x": -41377.0,
+                "y": 76002.0,
+                "z": -13990.7197265625
             },
-            "last_seen": "2026年2月25日 上午1:50:38",
-            "level": 82,
+            "last_seen": "2026年3月3日 下午11:12:49",
+            "level": 83,
             "name": "霧雨葉音",
             "name_history": [
                 "霧雨葉音"
@@ -73063,6 +73063,31 @@
             "role_id": 63582696007680,
             "server_region": "cosmic-fold"
         },
+        "63582696007690": {
+            "crew_history": [
+                "十月天宫"
+            ],
+            "crew_id": 154618837460,
+            "crew_name": "十月天宫",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 318558.21875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -48154.69140625,
+                "y": 89413.78125,
+                "z": -13647.9970703125
+            },
+            "last_seen": "2026年3月3日 下午11:12:49",
+            "level": 66,
+            "name": "过期子",
+            "name_history": [
+                "过期子"
+            ],
+            "registered": "2026年2月14日 上午8:01:09",
+            "role_id": 63582696007690,
+            "server_region": "cosmic-fold"
+        },
         "63582696007715": {
             "crew_history": [
                 "快乐老家"
@@ -77260,15 +77285,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 54139.5546875,
+            "hp": 120300.3984375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -57212.578125,
-                "y": 63623.73828125,
-                "z": -6919.7783203125
+                "x": -56442.0,
+                "y": 63988.3984375,
+                "z": -3028.139892578125
             },
-            "last_seen": "2026年2月28日 下午11:08:58",
-            "level": 38,
+            "last_seen": "2026年3月3日 下午11:12:49",
+            "level": 45,
             "name": "筱牧",
             "name_history": [
                 "筱牧"
@@ -78226,6 +78251,29 @@
             "role_id": 63582696013034,
             "server_region": "cosmic-fold"
         },
+        "63582696013114": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 57775.73046875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -37371.75,
+                "y": 74610.546875,
+                "z": -14670.6201171875
+            },
+            "last_seen": "2026年3月3日 下午11:12:49",
+            "level": 27,
+            "name": "小瑜最无敌",
+            "name_history": [
+                "小瑜最无敌"
+            ],
+            "registered": "2026年3月1日 下午4:28:45",
+            "role_id": 63582696013114,
+            "server_region": "cosmic-fold"
+        },
         "63582696013184": {
             "crew_history": [],
             "crew_id": 0,
@@ -78572,7 +78620,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5297,
-    "last_updated": "2026年3月3日 下午11:11:49",
+    "accounts_total": 5299,
+    "last_updated": "2026年3月3日 下午11:12:49",
     "server_region": "cosmic-fold"
 }
