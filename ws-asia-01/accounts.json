@@ -40548,13 +40548,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118562228": {
+            "crew_history": [
+                "こなもん"
+            ],
             "crew_id": 270591827749,
             "crew_name": "こなもん",
-            "equipping_title": "None",
+            "equipping_title": "WorldBossDamage_3;boss_hum_082_world;27",
             "gender": 1,
-            "hp": 647357.8125,
-            "last_seen": "Dec 29, 2025, 09:12:59 AM",
-            "level": 66,
+            "hp": 1146744.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.3671875,
+                "y": 75609.8046875,
+                "z": -7038.24755859375
+            },
+            "last_seen": "Mar 3, 2026, 4:20:44 PM",
+            "level": 77,
             "name": "きゃらめる",
             "name_history": [
                 "きゃらめる"
@@ -89474,6 +89483,31 @@
             "role_id": 38174103118613458,
             "server_region": "ws-asia-01"
         },
+        "38174103118613468": {
+            "crew_history": [
+                "Fantasia"
+            ],
+            "crew_id": 133152874277,
+            "crew_name": "Fantasia",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 158239.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1230.530029296875,
+                "y": -28465.708984375,
+                "z": 97879.1171875
+            },
+            "last_seen": "Mar 3, 2026, 4:20:44 PM",
+            "level": 63,
+            "name": "Yoriko",
+            "name_history": [
+                "Yoriko"
+            ],
+            "registered": "Feb 18, 2026, 3:28:29 PM",
+            "role_id": 38174103118613468,
+            "server_region": "ws-asia-01"
+        },
         "38174103118613537": {
             "crew_history": [
                 "居酒屋『低スペック桜花めいと』"
@@ -89991,9 +90025,32 @@
             "registered": "Mar 1, 2026, 4:42:49 PM",
             "role_id": 38174103118614522,
             "server_region": "ws-asia-01"
+        },
+        "38174103118614660": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -97903.6953125,
+                "y": 80400.234375,
+                "z": -5274.759765625
+            },
+            "last_seen": "Mar 3, 2026, 4:20:44 PM",
+            "level": 2,
+            "name": "Dyx",
+            "name_history": [
+                "Dyx"
+            ],
+            "registered": "Mar 3, 2026, 4:08:31 PM",
+            "role_id": 38174103118614660,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5401,
-    "last_updated": "Mar 3, 2026, 4:19:44 PM",
+    "accounts_total": 5403,
+    "last_updated": "Mar 3, 2026, 4:20:44 PM",
     "server_region": "ws-asia-01"
 }
