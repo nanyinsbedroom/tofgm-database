@@ -4484,14 +4484,14 @@
             "crew_name": "星语星愿",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2518494.75,
+            "hp": 2065661.125,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -10114.0859375,
-                "y": 56391.44921875,
-                "z": 41434.99609375
+                "map": "city",
+                "x": -109.02999877929688,
+                "y": -16971.3203125,
+                "z": 96362.03125
             },
-            "last_seen": "2026年2月27日 下午1:06:19",
+            "last_seen": "2026年3月3日 下午8:54:26",
             "level": 100,
             "name": "螃蟹一只爪就七",
             "name_history": [
@@ -11703,12 +11703,21 @@
             "server_region": "visser-aida"
         },
         "60997125546556": {
+            "crew_history": [
+                "天空之城"
+            ],
             "crew_id": 833223669626,
             "crew_name": "天空之城",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 2768158.25,
-            "last_seen": "2026年2月6日 上午2:11:56",
+            "hp": 2750789.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 363.8599853515625,
+                "y": -16665.66015625,
+                "z": 96362.0390625
+            },
+            "last_seen": "2026年3月3日 下午8:54:26",
             "level": 100,
             "name": "娇气的小奶包",
             "name_history": [
@@ -15181,12 +15190,21 @@
             "server_region": "visser-aida"
         },
         "61095909799733": {
+            "crew_history": [
+                "清璃一梦"
+            ],
             "crew_id": 481036351355,
             "crew_name": "清璃一梦",
-            "equipping_title": "4_2021",
+            "equipping_title": "2_2_0_12",
             "gender": 1,
-            "hp": 1591968.75,
-            "last_seen": "2026年2月9日 下午8:32:00",
+            "hp": 1601223.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 380.0799865722656,
+                "y": -19323.490234375,
+                "z": 96156.3515625
+            },
+            "last_seen": "2026年3月3日 下午8:54:26",
             "level": 100,
             "name": "苍痕#a",
             "name_history": [
@@ -20420,12 +20438,21 @@
             "server_region": "visser-aida"
         },
         "62727997710572": {
+            "crew_history": [
+                "天空之城"
+            ],
             "crew_id": 833223669626,
             "crew_name": "天空之城",
-            "equipping_title": "坚毅形态の鱼鱼的学徒,0",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 2284917.75,
-            "last_seen": "2026年01月25日 上午 7:14:07",
+            "hp": 2363751.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 386.2200012207031,
+                "y": -16612.75,
+                "z": 96375.5390625
+            },
+            "last_seen": "2026年3月3日 下午8:54:26",
             "level": 100,
             "name": "夏兮念",
             "name_history": [
@@ -20855,6 +20882,6 @@
         }
     },
     "accounts_total": 1245,
-    "last_updated": "2026年3月2日 上午6:12:38",
+    "last_updated": "2026年3月3日 下午8:54:26",
     "server_region": "visser-aida"
 }
