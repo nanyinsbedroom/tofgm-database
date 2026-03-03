@@ -10353,12 +10353,21 @@
             "server_region": "visser-aida"
         },
         "60653528176771": {
+            "crew_history": [
+                "白晝梦"
+            ],
             "crew_id": 25769817880,
             "crew_name": "白晝梦",
             "equipping_title": "2_11_1_1",
             "gender": 1,
-            "hp": 1981878.0,
-            "last_seen": "2026年01月03日 上午 5:42:57",
+            "hp": 1847331.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年3月3日 下午8:58:27",
             "level": 100,
             "name": "捣蛋鬼QAQ",
             "name_history": [
@@ -20891,6 +20900,6 @@
         }
     },
     "accounts_total": 1245,
-    "last_updated": "2026年3月3日 下午8:56:26",
+    "last_updated": "2026年3月3日 下午8:58:27",
     "server_region": "visser-aida"
 }
