@@ -86378,13 +86378,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118608893": {
+            "crew_history": [
+                "Scarface"
+            ],
             "crew_id": 163217645349,
             "crew_name": "Scarface",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 153483.0,
-            "last_seen": "Jan 25, 2026, 01:15:58 PM",
-            "level": 70,
+            "hp": 361747.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72741.6953125,
+                "y": 46023.09765625,
+                "z": -14325.7392578125
+            },
+            "last_seen": "Mar 3, 2026, 4:25:44 PM",
+            "level": 76,
             "name": "琉璃璀璨欢♡见",
             "name_history": [
                 "琉璃璀璨欢♡见"
@@ -90222,6 +90231,6 @@
         }
     },
     "accounts_total": 5409,
-    "last_updated": "Mar 3, 2026, 4:23:44 PM",
+    "last_updated": "Mar 3, 2026, 4:25:44 PM",
     "server_region": "ws-asia-01"
 }
