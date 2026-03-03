@@ -12955,12 +12955,21 @@
             "server_region": "ark-calculus"
         },
         "62727997727804": {
+            "crew_history": [
+                "破晓"
+            ],
             "crew_id": 68719491341,
             "crew_name": "破晓",
             "equipping_title": "1_9_0_5",
             "gender": 1,
-            "hp": 2705983.25,
-            "last_seen": "2025年11月04日 上午 2:12:26",
+            "hp": 2332923.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55608.140625,
+                "y": -88669.46875,
+                "z": 21724.9296875
+            },
+            "last_seen": "2026年3月3日 下午4:20:06",
             "level": 100,
             "name": "幻影·解放之羽",
             "name_history": [
@@ -21732,6 +21741,6 @@
         }
     },
     "accounts_total": 1025,
-    "last_updated": "2026年3月3日 下午4:17:06",
+    "last_updated": "2026年3月3日 下午4:20:06",
     "server_region": "ark-calculus"
 }
