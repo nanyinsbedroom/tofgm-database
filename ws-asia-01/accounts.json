@@ -81187,13 +81187,20 @@
             "server_region": "ws-asia-01"
         },
         "38174103118598478": {
-            "crew_id": 1322858815269,
-            "crew_name": "La Vie en Rose",
-            "equipping_title": "None",
-            "gender": 1,
-            "hp": 549372.375,
-            "last_seen": "Jan 10, 2026, 01:43:14 AM",
-            "level": 69,
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_3_1",
+            "gender": 0,
+            "hp": 998947.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56695.1796875,
+                "y": 63851.98828125,
+                "z": -3071.699951171875
+            },
+            "last_seen": "Mar 3, 2026, 4:23:44 PM",
+            "level": 77,
             "name": "ユーノ",
             "name_history": [
                 "ユーノ"
@@ -90215,6 +90222,6 @@
         }
     },
     "accounts_total": 5409,
-    "last_updated": "Mar 3, 2026, 4:22:44 PM",
+    "last_updated": "Mar 3, 2026, 4:23:44 PM",
     "server_region": "ws-asia-01"
 }
