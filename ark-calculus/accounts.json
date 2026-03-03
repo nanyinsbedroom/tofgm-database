@@ -2062,12 +2062,21 @@
             "server_region": "ark-calculus"
         },
         "61869003912277": {
+            "crew_history": [
+                "神"
+            ],
             "crew_id": 120259098693,
             "crew_name": "神",
-            "equipping_title": "1_6_1_8",
+            "equipping_title": "HuntingRank_2;imitation_73;5",
             "gender": 1,
-            "hp": 2564660.0,
-            "last_seen": "2025年11月25日 上午 1:29:15",
+            "hp": 2612460.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53865.7578125,
+                "y": -88105.9375,
+                "z": 21710.990234375
+            },
+            "last_seen": "2026年3月3日 下午8:19:23",
             "level": 100,
             "name": "sakuno",
             "name_history": [
@@ -4178,6 +4187,31 @@
             "role_id": 62285617251094,
             "server_region": "ark-calculus"
         },
+        "62285617252096": {
+            "crew_history": [
+                "蓝桉与槐"
+            ],
+            "crew_id": 2186138368265,
+            "crew_name": "蓝桉与槐",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 1472671.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55411.2890625,
+                "y": -88541.2890625,
+                "z": 21711.080078125
+            },
+            "last_seen": "2026年3月3日 下午8:19:23",
+            "level": 100,
+            "name": "月银雪",
+            "name_history": [
+                "月银雪"
+            ],
+            "registered": "2024年8月2日 下午11:02:51",
+            "role_id": 62285617252096,
+            "server_region": "ark-calculus"
+        },
         "62285617252563": {
             "crew_id": 120259098693,
             "crew_name": "神",
@@ -6192,6 +6226,31 @@
             ],
             "registered": "2025年11月10日 下午10:10:16",
             "role_id": 62285617836162,
+            "server_region": "ark-calculus"
+        },
+        "62285617836362": {
+            "crew_history": [
+                "花海幼儿园"
+            ],
+            "crew_id": 485331318964,
+            "crew_name": "花海幼儿园",
+            "equipping_title": "1_1_18_1",
+            "gender": 1,
+            "hp": 1148054.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54750.1875,
+                "y": -86703.578125,
+                "z": 21710.958984375
+            },
+            "last_seen": "2026年3月3日 下午8:19:23",
+            "level": 100,
+            "name": "道友请留步11",
+            "name_history": [
+                "道友请留步11"
+            ],
+            "registered": "2025年11月13日 上午7:16:17",
+            "role_id": 62285617836362,
             "server_region": "ark-calculus"
         },
         "62285617836444": {
@@ -18464,6 +18523,31 @@
             "role_id": 62745177428938,
             "server_region": "ark-calculus"
         },
+        "62745177431093": {
+            "crew_history": [
+                "山水云间"
+            ],
+            "crew_id": 77309425937,
+            "crew_name": "山水云间",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 1666967.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55515.828125,
+                "y": -89149.6484375,
+                "z": 21740.91796875
+            },
+            "last_seen": "2026年3月3日 下午8:19:23",
+            "level": 100,
+            "name": "机智的卡卡",
+            "name_history": [
+                "机智的卡卡"
+            ],
+            "registered": "2023年3月23日 下午10:55:48",
+            "role_id": 62745177431093,
+            "server_region": "ark-calculus"
+        },
         "62745177432098": {
             "crew_history": [
                 "记录の地平线"
@@ -22649,7 +22733,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 1061,
-    "last_updated": "2026年3月3日 下午8:18:23",
+    "accounts_total": 1064,
+    "last_updated": "2026年3月3日 下午8:19:23",
     "server_region": "ark-calculus"
 }
