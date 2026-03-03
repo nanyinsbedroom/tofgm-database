@@ -45306,15 +45306,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1463141.375,
+            "hp": 1607018.75,
             "last_known_position": {
                 "map": "city",
-                "x": 505.29998779296875,
-                "y": -28291.5,
+                "x": 1208.669921875,
+                "y": -28131.279296875,
                 "z": 97872.6171875
             },
-            "last_seen": "2026年2月15日 下午11:49:13",
-            "level": 83,
+            "last_seen": "2026年3月3日 下午11:16:49",
+            "level": 85,
             "name": "纸鸽",
             "name_history": [
                 "纸鸽"
@@ -78506,6 +78506,31 @@
             "role_id": 63582696013850,
             "server_region": "cosmic-fold"
         },
+        "63582696013961": {
+            "crew_history": [
+                "MH"
+            ],
+            "crew_id": 3461743655380,
+            "crew_name": "MH",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 84892.796875,
+            "last_known_position": {
+                "map": "city",
+                "x": -96.02205657958984,
+                "y": -24230.564453125,
+                "z": 97874.1015625
+            },
+            "last_seen": "2026年3月3日 下午11:16:49",
+            "level": 34,
+            "name": "就是数控技术",
+            "name_history": [
+                "就是数控技术"
+            ],
+            "registered": "2026年3月2日 下午8:07:45",
+            "role_id": 63582696013961,
+            "server_region": "cosmic-fold"
+        },
         "63582696014608": {
             "crew_history": [],
             "crew_id": 0,
@@ -78668,7 +78693,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5301,
-    "last_updated": "2026年3月3日 下午11:15:49",
+    "accounts_total": 5302,
+    "last_updated": "2026年3月3日 下午11:16:49",
     "server_region": "cosmic-fold"
 }
