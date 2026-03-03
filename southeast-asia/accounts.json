@@ -2775,14 +2775,14 @@
             "crew_name": "ExilesMY",
             "equipping_title": "ChinoHikari's Successor,1",
             "gender": 0,
-            "hp": 6207324.5,
+            "hp": 2091049.125,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 105761.7265625,
-                "y": -184803.015625,
-                "z": -5587.68994140625
+                "map": "city",
+                "x": 102.02999877929688,
+                "y": -16300.5595703125,
+                "z": 96362.03125
             },
-            "last_seen": "Mar 2, 2026, 10:51:41 PM",
+            "last_seen": "Mar 3, 2026, 11:01:30 PM",
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -14200,11 +14200,24 @@
             "server_region": "southeast-asia"
         },
         "68775311607668": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "Sep 30, 2025, 06:37:25 PM",
+            "hp": 278892.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -2129.599853515625,
+                "y": -24262.900390625,
+                "z": 97872.015625
+            },
+            "last_seen": "Mar 3, 2026, 11:01:30 PM",
+            "level": 97,
             "name": "烟渺",
+            "name_history": [
+                "烟渺"
+            ],
             "registered": "Dec 26, 2023, 4:32:28 AM",
             "role_id": 68775311607668,
             "server_region": "southeast-asia"
@@ -30907,6 +30920,6 @@
         }
     },
     "accounts_total": 2084,
-    "last_updated": "Mar 3, 2026, 11:00:30 PM",
+    "last_updated": "Mar 3, 2026, 11:01:30 PM",
     "server_region": "southeast-asia"
 }
