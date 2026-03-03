@@ -26226,12 +26226,21 @@
             "server_region": "southeast-asia"
         },
         "68783901278711": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "hp": 2087877.0,
-            "last_seen": "Nov 12, 2025, 09:34:28 PM",
+            "hp": 6067639.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98991.4765625,
+                "y": -189245.078125,
+                "z": -7853.0498046875
+            },
+            "last_seen": "Mar 3, 2026, 9:46:38 PM",
             "level": 100,
             "name": "Siaaa",
             "name_history": [
@@ -30824,6 +30833,6 @@
         }
     },
     "accounts_total": 2082,
-    "last_updated": "Mar 3, 2026, 9:39:33 PM",
+    "last_updated": "Mar 3, 2026, 9:46:38 PM",
     "server_region": "southeast-asia"
 }
