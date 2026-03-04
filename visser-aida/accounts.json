@@ -4479,12 +4479,21 @@
             "server_region": "visser-aida"
         },
         "60571923800923": {
+            "crew_history": [
+                "一堆大佬"
+            ],
             "crew_id": 416611841916,
             "crew_name": "一堆大佬",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1431122.125,
-            "last_seen": "2026年2月14日 上午12:14:10",
+            "hp": 1630182.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54321.56640625,
+                "y": -87508.8203125,
+                "z": 21722.51953125
+            },
+            "last_seen": "2026年3月4日 下午8:10:19",
             "level": 100,
             "name": "青莲居士",
             "name_history": [
@@ -21508,6 +21517,6 @@
         }
     },
     "accounts_total": 1265,
-    "last_updated": "2026年3月4日 下午8:09:19",
+    "last_updated": "2026年3月4日 下午8:10:19",
     "server_region": "visser-aida"
 }
