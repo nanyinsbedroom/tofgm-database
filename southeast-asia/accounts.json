@@ -200,12 +200,21 @@
             "server_region": "southeast-asia"
         },
         "68723771710628": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 2523608.0,
-            "last_seen": "Feb 11, 2026, 7:04:24 PM",
+            "hp": 2453201.0,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -64988.484375,
+                "y": -107331.15625,
+                "z": -11263.5771484375
+            },
+            "last_seen": "Mar 4, 2026, 7:33:45 PM",
             "level": 100,
             "name": "Yue#j",
             "name_history": [
@@ -7329,12 +7338,21 @@
             "server_region": "southeast-asia"
         },
         "68749541573350": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "2_2_0_84",
+            "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 6329750.0,
-            "last_seen": "Jan 03, 2026, 03:47:07 AM",
+            "hp": 2576685.25,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -65264.21484375,
+                "y": -106656.7421875,
+                "z": -11789.5595703125
+            },
+            "last_seen": "Mar 4, 2026, 7:33:45 PM",
             "level": 100,
             "name": "Yumico",
             "name_history": [
@@ -22455,14 +22473,14 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1495054.25,
+            "hp": 1253544.5,
             "last_known_position": {
-                "map": "void_SY_11",
-                "x": -4218.73974609375,
-                "y": 66.54999542236328,
-                "z": 127.14999389648438
+                "map": "Team8P_15_D_II",
+                "x": -70727.9609375,
+                "y": -102170.0390625,
+                "z": -10983.2001953125
             },
-            "last_seen": "Mar 1, 2026, 11:00:16 PM",
+            "last_seen": "Mar 4, 2026, 7:33:45 PM",
             "level": 100,
             "name": "miaomiao",
             "name_history": [
@@ -24187,6 +24205,31 @@
             ],
             "registered": "Dec 29, 2025, 1:13:10 PM",
             "role_id": 68775311759862,
+            "server_region": "southeast-asia"
+        },
+        "68775311759979": {
+            "crew_history": [
+                "Origin"
+            ],
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "◄ Hinata ►'s Apprentice,0",
+            "gender": 1,
+            "hp": 1200741.0,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -66996.234375,
+                "y": -104997.0625,
+                "z": -10968.0498046875
+            },
+            "last_seen": "Mar 4, 2026, 7:33:45 PM",
+            "level": 100,
+            "name": "Mulgokizaryy",
+            "name_history": [
+                "Mulgokizaryy"
+            ],
+            "registered": "Jan 2, 2026, 3:32:17 AM",
+            "role_id": 68775311759979,
             "server_region": "southeast-asia"
         },
         "68775311760079": {
@@ -30928,7 +30971,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2084,
-    "last_updated": "Mar 4, 2026, 7:29:44 PM",
+    "accounts_total": 2085,
+    "last_updated": "Mar 4, 2026, 7:33:45 PM",
     "server_region": "southeast-asia"
 }
