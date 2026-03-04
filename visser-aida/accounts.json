@@ -5348,11 +5348,26 @@
             "server_region": "visser-aida"
         },
         "60580513725960": {
+            "crew_history": [
+                "ASOUL"
+            ],
             "crew_id": 674309879577,
             "crew_name": "ASOUL",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "last_seen": "2025年10月05日 下午 1:22:10",
+            "hp": 1936549.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55218.7890625,
+                "y": -87102.640625,
+                "z": 21717.490234375
+            },
+            "last_seen": "2026年3月4日 下午8:02:19",
+            "level": 100,
             "name": "bol",
+            "name_history": [
+                "bol"
+            ],
             "registered": "2021年12月16日 上午11:48:36",
             "role_id": 60580513725960,
             "server_region": "visser-aida"
@@ -10648,6 +10663,31 @@
             "role_id": 60657823139730,
             "server_region": "visser-aida"
         },
+        "60657823141539": {
+            "crew_history": [
+                "黎明守卫"
+            ],
+            "crew_id": 511101122347,
+            "crew_name": "黎明守卫",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1701811.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53992.4296875,
+                "y": -87258.75,
+                "z": 21781.71875
+            },
+            "last_seen": "2026年3月4日 下午8:02:19",
+            "level": 100,
+            "name": "★抓根宝★",
+            "name_history": [
+                "★抓根宝★"
+            ],
+            "registered": "2021年12月16日 上午11:48:49",
+            "role_id": 60657823141539,
+            "server_region": "visser-aida"
+        },
         "60657823142644": {
             "crew_history": [
                 "繁星四月"
@@ -11789,14 +11829,14 @@
             "crew_name": "天空之城",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 2750789.0,
+            "hp": 2839970.5,
             "last_known_position": {
-                "map": "city",
-                "x": 363.8599853515625,
-                "y": -16665.66015625,
-                "z": 96362.0390625
+                "map": "QRSL_P",
+                "x": -57405.359375,
+                "y": -79439.8046875,
+                "z": 22502.58984375
             },
-            "last_seen": "2026年3月3日 下午8:54:26",
+            "last_seen": "2026年3月4日 下午8:02:19",
             "level": 100,
             "name": "娇气的小奶包",
             "name_history": [
@@ -21094,7 +21134,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1251,
-    "last_updated": "2026年3月4日 下午8:01:19",
+    "accounts_total": 1252,
+    "last_updated": "2026年3月4日 下午8:02:19",
     "server_region": "visser-aida"
 }
