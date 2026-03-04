@@ -645,14 +645,26 @@
             "server_region": "visser-aida"
         },
         "60567628845559": {
+            "crew_history": [
+                "漂移猫车驾校"
+            ],
             "crew_id": 2044404447000,
             "crew_name": "漂移猫车驾校",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1828059.125,
-            "last_seen": "2025年10月27日 下午 8:04:50",
+            "hp": 2026986.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53927.46875,
+                "y": -87602.484375,
+                "z": 21724.279296875
+            },
+            "last_seen": "2026年3月4日 下午8:04:19",
             "level": 100,
             "name": "ku",
+            "name_history": [
+                "ku"
+            ],
             "registered": "2021年12月17日 上午8:47:33",
             "role_id": 60567628845559,
             "server_region": "visser-aida"
@@ -1252,6 +1264,31 @@
             "name": "暗流之风",
             "registered": "2023年8月12日 下午5:31:53",
             "role_id": 60567630012774,
+            "server_region": "visser-aida"
+        },
+        "60567630013253": {
+            "crew_history": [
+                "奥林匹斯"
+            ],
+            "crew_id": 2486786078600,
+            "crew_name": "奥林匹斯",
+            "equipping_title": "2_3_0_1",
+            "gender": 1,
+            "hp": 1924191.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55279.59765625,
+                "y": -87140.6015625,
+                "z": 21724.94921875
+            },
+            "last_seen": "2026年3月4日 下午8:04:19",
+            "level": 100,
+            "name": "Angel奏",
+            "name_history": [
+                "Angel奏"
+            ],
+            "registered": "2023年8月29日 上午10:34:35",
+            "role_id": 60567630013253,
             "server_region": "visser-aida"
         },
         "60567630025562": {
@@ -2303,12 +2340,21 @@
             "server_region": "visser-aida"
         },
         "60567630538030": {
+            "crew_history": [
+                "魔法少女"
+            ],
             "crew_id": 219043346204,
             "crew_name": "魔法少女",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 1917265.5,
-            "last_seen": "2026年2月9日 下午8:31:01",
+            "hp": 2139259.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54834.97265625,
+                "y": -87043.8828125,
+                "z": 21726.099609375
+            },
+            "last_seen": "2026年3月4日 下午8:04:19",
             "level": 100,
             "name": "星飞翔",
             "name_history": [
@@ -4925,12 +4971,21 @@
             "server_region": "visser-aida"
         },
         "60576218760831": {
+            "crew_history": [
+                "晨曦"
+            ],
             "crew_id": 974957590501,
             "crew_name": "晨曦",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1286051.375,
-            "last_seen": "2025年11月22日 下午 9:11:17",
+            "hp": 1344316.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:04:19",
             "level": 100,
             "name": "墨鱼大人",
             "name_history": [
@@ -6235,6 +6290,31 @@
             ],
             "registered": "2021年12月16日 下午5:02:29",
             "role_id": 60589103673429,
+            "server_region": "visser-aida"
+        },
+        "60589103674347": {
+            "crew_history": [
+                "花涧"
+            ],
+            "crew_id": 1039382099740,
+            "crew_name": "花涧",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1879677.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54853.40625,
+                "y": -87098.0703125,
+                "z": 21724.451171875
+            },
+            "last_seen": "2026年3月4日 下午8:04:19",
+            "level": 100,
+            "name": "小香批",
+            "name_history": [
+                "小香批"
+            ],
+            "registered": "2021年12月16日 下午5:43:08",
+            "role_id": 60589103674347,
             "server_region": "visser-aida"
         },
         "60589103675003": {
@@ -21159,7 +21239,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1253,
-    "last_updated": "2026年3月4日 下午8:03:19",
+    "accounts_total": 1255,
+    "last_updated": "2026年3月4日 下午8:04:19",
     "server_region": "visser-aida"
 }
