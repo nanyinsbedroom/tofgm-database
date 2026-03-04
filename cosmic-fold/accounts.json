@@ -80616,20 +80616,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696015033": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "百合姬"
+            ],
+            "crew_id": 1099511642580,
+            "crew_name": "百合姬",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 36703.0,
+            "hp": 56956.0,
             "last_known_position": {
-                "map": "city",
-                "x": 115.0,
-                "y": -25714.0,
-                "z": 96762.28125
+                "map": "QRSL_P",
+                "x": -91049.6171875,
+                "y": 78480.8984375,
+                "z": -7015.25
             },
-            "last_seen": "2026年3月4日 下午11:20:39",
-            "level": 11,
+            "last_seen": "2026年3月5日 上午1:20:46",
+            "level": 21,
             "name": "魔女咩咩",
             "name_history": [
                 "魔女咩咩"
@@ -81376,6 +81378,6 @@
         }
     },
     "accounts_total": 5411,
-    "last_updated": "2026年3月5日 上午1:17:45",
+    "last_updated": "2026年3月5日 上午1:20:46",
     "server_region": "cosmic-fold"
 }
