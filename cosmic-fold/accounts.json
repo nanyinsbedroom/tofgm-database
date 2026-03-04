@@ -13807,14 +13807,14 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "你就是歌姬吧的导师,0",
             "gender": 1,
-            "hp": 2778556.25,
+            "hp": 1211339.875,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101751.25,
-                "y": -183642.203125,
-                "z": -7853.6396484375
+                "map": "city",
+                "x": -3023.099853515625,
+                "y": -28157.798828125,
+                "z": 96705.6953125
             },
-            "last_seen": "2026年2月28日 下午9:27:53",
+            "last_seen": "2026年3月4日 下午11:27:39",
             "level": 85,
             "name": "江雪乃",
             "name_history": [
@@ -25159,13 +25159,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695865992": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1166111.875,
-            "last_seen": "2026年2月10日 下午10:27:07",
-            "level": 80,
+            "hp": 1246106.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1723.413330078125,
+                "y": -28737.015625,
+                "z": 97864.4453125
+            },
+            "last_seen": "2026年3月4日 下午11:27:39",
+            "level": 83,
             "name": "无语",
             "name_history": [
                 "无语"
@@ -80502,6 +80511,6 @@
         }
     },
     "accounts_total": 5374,
-    "last_updated": "2026年3月4日 下午11:25:39",
+    "last_updated": "2026年3月4日 下午11:27:39",
     "server_region": "cosmic-fold"
 }
