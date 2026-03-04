@@ -39426,13 +39426,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695897772": {
-            "crew_id": 425201777108,
-            "crew_name": "星期三",
+            "crew_history": [
+                "暖暖会"
+            ],
+            "crew_id": 25769818580,
+            "crew_name": "暖暖会",
             "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 880341.8125,
-            "last_seen": "2026年2月5日 下午11:46:56",
-            "level": 81,
+            "hp": 1026631.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91428.796875,
+                "y": 75554.7890625,
+                "z": -7087.44873046875
+            },
+            "last_seen": "2026年3月4日 下午11:50:41",
+            "level": 84,
             "name": "白羽～",
             "name_history": [
                 "白羽～"
@@ -80744,6 +80753,6 @@
         }
     },
     "accounts_total": 5384,
-    "last_updated": "2026年3月4日 下午11:49:41",
+    "last_updated": "2026年3月4日 下午11:50:41",
     "server_region": "cosmic-fold"
 }
