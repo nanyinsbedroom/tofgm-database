@@ -4662,15 +4662,15 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 600886.8125,
+            "hp": 1644843.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1737.8399658203125,
-                "y": -23110.759765625,
-                "z": 96737.8359375
+                "map": "QRSL_P",
+                "x": -54336.44921875,
+                "y": -87953.78125,
+                "z": 21727.048828125
             },
-            "last_seen": "2026年2月24日 下午4:02:03",
-            "level": 84,
+            "last_seen": "2026年3月4日 下午4:28:58",
+            "level": 85,
             "name": "数荷",
             "name_history": [
                 "数荷"
@@ -12562,6 +12562,29 @@
             "role_id": 63578401949167,
             "server_region": "time-travel"
         },
+        "63578401949550": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 214813.796875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55473.828125,
+                "y": -88090.234375,
+                "z": 21740.5390625
+            },
+            "last_seen": "2026年3月4日 下午4:28:58",
+            "level": 70,
+            "name": "海原娜依",
+            "name_history": [
+                "海原娜依"
+            ],
+            "registered": "2025年9月6日 上午8:57:22",
+            "role_id": 63578401949550,
+            "server_region": "time-travel"
+        },
         "63578401950567": {
             "crew_history": [],
             "crew_id": 0,
@@ -19952,7 +19975,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1030,
-    "last_updated": "2026年3月4日 下午4:25:58",
+    "accounts_total": 1031,
+    "last_updated": "2026年3月4日 下午4:28:58",
     "server_region": "time-travel"
 }
