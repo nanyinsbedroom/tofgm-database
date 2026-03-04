@@ -1067,12 +1067,21 @@
             "server_region": "visser-aida"
         },
         "60567629969734": {
+            "crew_history": [
+                "晓"
+            ],
             "crew_id": 468151449372,
             "crew_name": "晓",
             "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 1500413.625,
-            "last_seen": "2026年01月25日 上午 7:27:08",
+            "hp": 1503067.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53514.828125,
+                "y": -88171.78125,
+                "z": 21724.5
+            },
+            "last_seen": "2026年3月4日 下午8:01:19",
             "level": 100,
             "name": "花月曦",
             "name_history": [
@@ -5362,6 +5371,31 @@
             ],
             "registered": "2021年12月16日 下午3:00:27",
             "role_id": 60580513729208,
+            "server_region": "visser-aida"
+        },
+        "60580513731263": {
+            "crew_history": [
+                "白晝梦"
+            ],
+            "crew_id": 25769817880,
+            "crew_name": "白晝梦",
+            "equipping_title": "HuntingRank_1;imitation_34;3",
+            "gender": 1,
+            "hp": 2576251.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53809.83984375,
+                "y": -88043.921875,
+                "z": 21723.94921875
+            },
+            "last_seen": "2026年3月4日 下午8:01:19",
+            "level": 100,
+            "name": "AHRI",
+            "name_history": [
+                "AHRI"
+            ],
+            "registered": "2021年12月16日 下午6:06:16",
+            "role_id": 60580513731263,
             "server_region": "visser-aida"
         },
         "60580513743092": {
@@ -17977,6 +18011,31 @@
             "role_id": 61482456901538,
             "server_region": "visser-aida"
         },
+        "61486751820570": {
+            "crew_history": [
+                "律"
+            ],
+            "crew_id": 25769818092,
+            "crew_name": "律",
+            "equipping_title": "1_2021",
+            "gender": 1,
+            "hp": 1768492.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53786.3671875,
+                "y": -88078.65625,
+                "z": 21724.490234375
+            },
+            "last_seen": "2026年3月4日 下午8:01:19",
+            "level": 100,
+            "name": "火锅哈哈哈",
+            "name_history": [
+                "火锅哈哈哈"
+            ],
+            "registered": "2021年12月16日 上午9:53:29",
+            "role_id": 61486751820570,
+            "server_region": "visser-aida"
+        },
         "61486751837294": {
             "crew_id": 193273542637,
             "crew_name": "幻塔之巅",
@@ -21035,7 +21094,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1249,
-    "last_updated": "2026年3月4日 下午8:00:19",
+    "accounts_total": 1251,
+    "last_updated": "2026年3月4日 下午8:01:19",
     "server_region": "visser-aida"
 }
