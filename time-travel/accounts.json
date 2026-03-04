@@ -1278,13 +1278,22 @@
             "server_region": "time-travel"
         },
         "63574105940076": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 881195.8125,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1748317.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3195.93994140625,
+                "y": -26698.958984375,
+                "z": 98605.7890625
+            },
+            "last_seen": "2026年3月4日 下午4:00:56",
+            "level": 85,
             "name": "张指导",
             "name_history": [
                 "张指导"
@@ -3345,15 +3354,15 @@
             "crew_name": "异世相遇",
             "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 1074468.125,
+            "hp": 1638131.5,
             "last_known_position": {
                 "map": "city",
-                "x": -466.3999938964844,
-                "y": -16549.900390625,
-                "z": 96374.1015625
+                "x": -183.39999389648438,
+                "y": -17636.900390625,
+                "z": 96350.28125
             },
-            "last_seen": "2026年2月24日 下午4:02:03",
-            "level": 84,
+            "last_seen": "2026年3月4日 下午4:00:56",
+            "level": 85,
             "name": "幸运风车",
             "name_history": [
                 "幸运风车"
@@ -5510,6 +5519,31 @@
             "role_id": 63574106126747,
             "server_region": "time-travel"
         },
+        "63574106129128": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "2_8_0_12",
+            "gender": 1,
+            "hp": 1788166.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1164.9599609375,
+                "y": -28312.08984375,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月4日 下午4:00:56",
+            "level": 85,
+            "name": "天廻",
+            "name_history": [
+                "天廻"
+            ],
+            "registered": "2024年1月7日 下午12:25:34",
+            "role_id": 63574106129128,
+            "server_region": "time-travel"
+        },
         "63574106133305": {
             "crew_id": 1473173797330,
             "crew_name": "暖暖六课",
@@ -5919,14 +5953,14 @@
             "crew_name": "",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1475321.875,
+            "hp": 1476359.25,
             "last_known_position": {
                 "map": "city",
-                "x": -441.4100036621094,
-                "y": -18518.41015625,
-                "z": 96339.53125
+                "x": 367.9700012207031,
+                "y": -20884.869140625,
+                "z": 96747.859375
             },
-            "last_seen": "2026年3月2日 下午2:31:37",
+            "last_seen": "2026年3月4日 下午4:00:56",
             "level": 85,
             "name": "星野濑",
             "name_history": [
@@ -13770,14 +13804,14 @@
             "crew_name": "小怪兽",
             "equipping_title": "1_9_0_2",
             "gender": 0,
-            "hp": 1376477.625,
+            "hp": 1422985.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1069.5999755859375,
-                "y": -28413.05859375,
-                "z": 97879.1171875
+                "x": 1357.6671142578125,
+                "y": -28250.0390625,
+                "z": 97866.109375
             },
-            "last_seen": "2026年2月27日 下午1:24:00",
+            "last_seen": "2026年3月4日 下午4:00:56",
             "level": 85,
             "name": "越堕落越快乐",
             "name_history": [
@@ -14387,14 +14421,14 @@
             "crew_name": "挽梦挽星辰",
             "equipping_title": "1_3_2_1",
             "gender": 1,
-            "hp": 1416460.0,
+            "hp": 1422796.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -40922.80078125,
-                "y": 90944.1875,
-                "z": -12620.0146484375
+                "map": "city",
+                "x": 1029.7099609375,
+                "y": -28309.0703125,
+                "z": 97876.1171875
             },
-            "last_seen": "2026年3月2日 下午2:35:37",
+            "last_seen": "2026年3月4日 下午4:00:56",
             "level": 85,
             "name": "清羽-墨安笙",
             "name_history": [
@@ -19426,9 +19460,32 @@
             "registered": "2026年3月2日 下午6:21:32",
             "role_id": 63578402005600,
             "server_region": "time-travel"
+        },
+        "63578402005865": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 38640.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 103.73999786376953,
+                "y": -20040.4296875,
+                "z": 96401.515625
+            },
+            "last_seen": "2026年3月4日 下午4:00:56",
+            "level": 11,
+            "name": "的话天文台和我",
+            "name_history": [
+                "的话天文台和我"
+            ],
+            "registered": "2026年3月4日 上午10:11:11",
+            "role_id": 63578402005865,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 1009,
-    "last_updated": "2026年3月2日 下午7:18:36",
+    "accounts_total": 1011,
+    "last_updated": "2026年3月4日 下午4:00:56",
     "server_region": "time-travel"
 }
