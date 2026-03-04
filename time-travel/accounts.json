@@ -16550,6 +16550,31 @@
             "role_id": 63578401994580,
             "server_region": "time-travel"
         },
+        "63578401995182": {
+            "crew_history": [
+                "东方幻想乡"
+            ],
+            "crew_id": 223338314194,
+            "crew_name": "东方幻想乡",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 120423.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92256.59375,
+                "y": 73603.875,
+                "z": -7046.47705078125
+            },
+            "last_seen": "2026年3月4日 下午6:54:00",
+            "level": 39,
+            "name": "神判者",
+            "name_history": [
+                "神判者"
+            ],
+            "registered": "2026年1月10日 下午4:15:27",
+            "role_id": 63578401995182,
+            "server_region": "time-travel"
+        },
         "63578401995460": {
             "crew_history": [],
             "crew_id": 0,
@@ -18456,20 +18481,22 @@
             "server_region": "time-travel"
         },
         "63578402003970": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "渡樱社"
+            ],
+            "crew_id": 6369436514771,
+            "crew_name": "渡樱社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 52030.0,
+            "hp": 241585.796875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -87591.3203125,
-                "y": 73839.5,
-                "z": -7826.609375
+                "x": -88665.078125,
+                "y": 72910.9609375,
+                "z": -7527.8017578125
             },
-            "last_seen": "2026年2月23日 下午7:19:47",
-            "level": 12,
+            "last_seen": "2026年3月4日 下午6:54:00",
+            "level": 60,
             "name": "络达西",
             "name_history": [
                 "络达西"
@@ -20168,9 +20195,32 @@
             "registered": "2026年3月4日 下午4:55:23",
             "role_id": 63578402005927,
             "server_region": "time-travel"
+        },
+        "63578402005935": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 20974.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92439.5546875,
+                "y": 85473.6796875,
+                "z": -6948.15966796875
+            },
+            "last_seen": "2026年3月4日 下午6:54:00",
+            "level": 3,
+            "name": "露薇莉娅",
+            "name_history": [
+                "露薇莉娅"
+            ],
+            "registered": "2026年3月4日 下午5:40:18",
+            "role_id": 63578402005935,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 1039,
-    "last_updated": "2026年3月4日 下午6:51:00",
+    "accounts_total": 1041,
+    "last_updated": "2026年3月4日 下午6:54:00",
     "server_region": "time-travel"
 }
