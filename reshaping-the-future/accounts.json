@@ -7232,12 +7232,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715114195178": {
+            "crew_history": [
+                "千镜"
+            ],
             "crew_id": 4294981898,
             "crew_name": "千镜",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 965524.375,
-            "last_seen": "2025年11月25日 上午 2:26:18",
+            "hp": 989098.5625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55064.91015625,
+                "y": -87329.3046875,
+                "z": 21721.990234375
+            },
+            "last_seen": "2026年3月4日 下午12:28:58",
             "level": 100,
             "name": "暗黑大堡戟",
             "name_history": [
@@ -7286,6 +7295,31 @@
             ],
             "registered": "2024年11月6日 下午9:57:53",
             "role_id": 62715114196509,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114196709": {
+            "crew_history": [
+                "世界之树"
+            ],
+            "crew_id": 300647725423,
+            "crew_name": "世界之树",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 1458875.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55120.44921875,
+                "y": -87626.859375,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年3月4日 下午12:28:58",
+            "level": 100,
+            "name": "口语易",
+            "name_history": [
+                "口语易"
+            ],
+            "registered": "2024年11月7日 下午11:26:33",
+            "role_id": 62715114196709,
             "server_region": "reshaping-the-future"
         },
         "62715114214862": {
@@ -14310,6 +14344,31 @@
             ],
             "registered": "2022年4月30日 下午2:00:13",
             "role_id": 62719407433356,
+            "server_region": "reshaping-the-future"
+        },
+        "62719407456242": {
+            "crew_history": [
+                "银岸"
+            ],
+            "crew_id": 4294981899,
+            "crew_name": "银岸",
+            "equipping_title": "4_2022",
+            "gender": 0,
+            "hp": 1668877.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54033.50390625,
+                "y": -88009.0546875,
+                "z": 21874.611328125
+            },
+            "last_seen": "2026年3月4日 下午12:28:58",
+            "level": 100,
+            "name": "07Smile.",
+            "name_history": [
+                "07Smile."
+            ],
+            "registered": "2022年5月1日 上午1:10:59",
+            "role_id": 62719407456242,
             "server_region": "reshaping-the-future"
         },
         "62719407458363": {
@@ -23460,7 +23519,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1054,
-    "last_updated": "2026年3月4日 下午12:27:58",
+    "accounts_total": 1056,
+    "last_updated": "2026年3月4日 下午12:28:58",
     "server_region": "reshaping-the-future"
 }
