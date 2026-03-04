@@ -1650,14 +1650,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "RuneStone's Enlightener,1",
             "gender": 1,
-            "hp": 6339651.5,
+            "hp": 2655928.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 93117.921875,
-                "y": -188178.625,
-                "z": -7213.69189453125
+                "map": "city",
+                "x": -512.7099609375,
+                "y": -17964.62890625,
+                "z": 96336.03125
             },
-            "last_seen": "Mar 3, 2026, 10:45:29 PM",
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
             "level": 100,
             "name": "FriK√SweetEyes",
             "name_history": [
@@ -2656,7 +2656,7 @@
                 "y": -16992.900390625,
                 "z": 93984.7890625
             },
-            "last_seen": "Mar 3, 2026, 10:12:28 PM",
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
             "level": 100,
             "name": "IcyRain-V3.Bene",
             "name_history": [
@@ -9799,11 +9799,11 @@
             "hp": 3030551.25,
             "last_known_position": {
                 "map": "city",
-                "x": -2.627473831176758,
-                "y": -18250.3046875,
-                "z": 96334.84375
+                "x": -10.800000190734863,
+                "y": -18727.599609375,
+                "z": 96336.03125
             },
-            "last_seen": "Mar 3, 2026, 10:11:27 PM",
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
             "level": 100,
             "name": "AnemoneEldraine",
             "name_history": [
@@ -24645,17 +24645,17 @@
             ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
-            "equipping_title": "1_6_3_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 517369.375,
+            "hp": 566023.625,
             "last_known_position": {
                 "map": "city",
-                "x": -898.0,
-                "y": -23033.099609375,
-                "z": 97891.1796875
+                "x": -1102.0799560546875,
+                "y": -23084.958984375,
+                "z": 97891.15625
             },
-            "last_seen": "Mar 1, 2026, 11:42:56 PM",
-            "level": 67,
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
+            "level": 72,
             "name": "Ai Astin",
             "name_history": [
                 "Ai Astin"
@@ -25296,12 +25296,21 @@
             "server_region": "southeast-asia"
         },
         "68779606301122": {
-            "crew_id": 184683609733,
-            "crew_name": "Guardian",
+            "crew_history": [
+                "Tea Party"
+            ],
+            "crew_id": 386547072645,
+            "crew_name": "Tea Party",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 0,
-            "hp": 2467164.75,
-            "last_seen": "Dec 08, 2025, 03:37:07 AM",
+            "hp": 2528188.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1225.780029296875,
+                "y": -16137.599609375,
+                "z": 96322.40625
+            },
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
             "level": 100,
             "name": "Sukuna",
             "name_history": [
@@ -28776,14 +28785,14 @@
             "crew_name": "Lunar Exclaire",
             "equipping_title": "pla ulti's Apprentice,0",
             "gender": 0,
-            "hp": 2834913.75,
+            "hp": 2808992.75,
             "last_known_position": {
                 "map": "city",
-                "x": -489.16998291015625,
-                "y": -23343.08984375,
-                "z": 97876.5078125
+                "x": -528.9500122070313,
+                "y": -18084.71875,
+                "z": 96340.5390625
             },
-            "last_seen": "Mar 3, 2026, 10:11:27 PM",
+            "last_seen": "Mar 4, 2026, 7:28:44 PM",
             "level": 100,
             "name": "Kizuna N",
             "name_history": [
@@ -30920,6 +30929,6 @@
         }
     },
     "accounts_total": 2084,
-    "last_updated": "Mar 3, 2026, 11:02:30 PM",
+    "last_updated": "Mar 4, 2026, 7:28:44 PM",
     "server_region": "southeast-asia"
 }
