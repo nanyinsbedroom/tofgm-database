@@ -4098,14 +4098,14 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 1089284.875,
+            "hp": 1108249.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -75227.2890625,
-                "y": 92867.9453125,
-                "z": -3759.030029296875
+                "x": -73198.921875,
+                "y": 96146.71875,
+                "z": -3726.619873046875
             },
-            "last_seen": "Feb 26, 2026, 4:56:23 PM",
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
             "level": 77,
             "name": "Bennett",
             "name_history": [
@@ -5041,13 +5041,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514461": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
             "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 145930.0,
-            "last_seen": "Jan 30, 2026, 11:13:41 PM",
-            "level": 64,
+            "hp": 359694.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73204.921875,
+                "y": 97195.5546875,
+                "z": -3701.309814453125
+            },
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
+            "level": 76,
             "name": "Npex",
             "name_history": [
                 "Npex"
@@ -18417,14 +18426,14 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1145559.375,
+            "hp": 1146097.0,
             "last_known_position": {
-                "map": "city",
-                "x": -178.4199981689453,
-                "y": -24374.71875,
-                "z": 97853.109375
+                "map": "QRSL_P",
+                "x": -74003.28125,
+                "y": 50129.4375,
+                "z": -11935.5
             },
-            "last_seen": "Mar 1, 2026, 9:57:07 PM",
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
             "level": 77,
             "name": "NobreLinx",
             "name_history": [
@@ -19128,13 +19137,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413536848": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
-            "crew_name": "Dreamlight",
+            "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 43461.0,
-            "last_seen": "Nov 30, 2025, 01:50:50 PM",
-            "level": 35,
+            "hp": 539547.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73205.0,
+                "y": 97195.0,
+                "z": -3697.0
+            },
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
+            "level": 76,
             "name": "Khas",
             "name_history": [
                 "Khas"
@@ -19144,13 +19162,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413536879": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
             "crew_name": "Nyne Lives",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 494758.6875,
-            "last_seen": "Feb 11, 2026, 2:12:30 PM",
-            "level": 73,
+            "hp": 579717.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73207.6953125,
+                "y": 97169.296875,
+                "z": -3697.72998046875
+            },
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
+            "level": 76,
             "name": "Trisdale",
             "name_history": [
                 "Trisdale"
@@ -31387,6 +31414,31 @@
             "role_id": 38174107413582944,
             "server_region": "ws-america-01"
         },
+        "38174107413582956": {
+            "crew_history": [
+                "Solstice"
+            ],
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 181720.609375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54937.23046875,
+                "y": 92034.4765625,
+                "z": -12552.4892578125
+            },
+            "last_seen": "Mar 3, 2026, 9:05:43 PM",
+            "level": 58,
+            "name": "M.Mouse",
+            "name_history": [
+                "M.Mouse"
+            ],
+            "registered": "Feb 17, 2026, 7:33:33 AM",
+            "role_id": 38174107413582956,
+            "server_region": "ws-america-01"
+        },
         "38174107413582963": {
             "crew_history": [],
             "crew_id": 0,
@@ -33693,7 +33745,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1806,
-    "last_updated": "Mar 3, 2026, 9:00:42 PM",
+    "accounts_total": 1807,
+    "last_updated": "Mar 3, 2026, 9:05:43 PM",
     "server_region": "ws-america-01"
 }
