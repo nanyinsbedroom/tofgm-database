@@ -16890,17 +16890,26 @@
             "server_region": "visser-aida"
         },
         "61422327339963": {
+            "crew_history": [
+                "星海旅人"
+            ],
             "crew_id": 1958505101084,
             "crew_name": "星海旅人",
-            "equipping_title": "2_2_0_92",
+            "equipping_title": "1_2021",
             "gender": 1,
-            "hp": 3086528.5,
-            "last_seen": "2026年2月14日 上午12:01:39",
+            "hp": 2091204.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 215.00999450683594,
+                "y": -16896.01953125,
+                "z": 96368.53125
+            },
+            "last_seen": "2026年3月4日 下午8:57:22",
             "level": 100,
             "name": "奶油泡芙无忧酱",
             "name_history": [
-                "公交奶无忧",
-                "奶油泡芙无忧酱"
+                "奶油泡芙无忧酱",
+                "公交奶无忧"
             ],
             "registered": "2021年12月19日 上午1:25:37",
             "role_id": 61422327339963,
@@ -22584,6 +22593,6 @@
         }
     },
     "accounts_total": 1301,
-    "last_updated": "2026年3月4日 下午8:52:22",
+    "last_updated": "2026年3月4日 下午8:57:22",
     "server_region": "visser-aida"
 }
