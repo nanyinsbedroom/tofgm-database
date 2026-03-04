@@ -12515,12 +12515,21 @@
             "server_region": "visser-aida"
         },
         "60992830783555": {
+            "crew_history": [
+                "猫猫乐园"
+            ],
             "crew_id": 34359752575,
             "crew_name": "猫猫乐园",
-            "equipping_title": "4_2022",
+            "equipping_title": "1_10_0_3",
             "gender": 1,
-            "hp": 33267746.0,
-            "last_seen": "2025年12月15日 上午 4:47:53",
+            "hp": 1832542.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": 22869.099609375,
+                "y": -99307.734375,
+                "z": 32883.83984375
+            },
+            "last_seen": "2026年3月4日 下午8:34:21",
             "level": 100,
             "name": "乙咲玲",
             "name_history": [
@@ -22416,6 +22425,6 @@
         }
     },
     "accounts_total": 1296,
-    "last_updated": "2026年3月4日 下午8:33:21",
+    "last_updated": "2026年3月4日 下午8:34:21",
     "server_region": "visser-aida"
 }
