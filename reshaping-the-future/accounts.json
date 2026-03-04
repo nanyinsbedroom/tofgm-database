@@ -6720,14 +6720,14 @@
             "crew_name": "银岸",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 3110542.75,
+            "hp": 2247240.0,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325850.375,
-                "y": 204771.140625,
-                "z": -28335.240234375
+                "map": "QRSL_P",
+                "x": -53915.9140625,
+                "y": -88285.6328125,
+                "z": 21740.0390625
             },
-            "last_seen": "2026年2月14日 下午8:05:06",
+            "last_seen": "2026年3月4日 下午2:06:14",
             "level": 100,
             "name": "要我做T得加钱",
             "name_history": [
@@ -14204,6 +14204,31 @@
             "role_id": 62715114595422,
             "server_region": "reshaping-the-future"
         },
+        "62715114595455": {
+            "crew_history": [
+                "魔女茶会"
+            ],
+            "crew_id": 6824703047946,
+            "crew_name": "魔女茶会",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 754678.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55591.4375,
+                "y": -88490.6953125,
+                "z": 21725.048828125
+            },
+            "last_seen": "2026年3月4日 下午2:06:14",
+            "level": 60,
+            "name": "吃口泡芙吧",
+            "name_history": [
+                "吃口泡芙吧"
+            ],
+            "registered": "2026年2月25日 下午10:55:15",
+            "role_id": 62715114595455,
+            "server_region": "reshaping-the-future"
+        },
         "62715114595491": {
             "crew_history": [],
             "crew_id": 0,
@@ -14373,6 +14398,29 @@
             ],
             "registered": "2026年3月1日 下午7:00:00",
             "role_id": 62715114595796,
+            "server_region": "reshaping-the-future"
+        },
+        "62715114595897": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 565784.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52986.4921875,
+                "y": -83632.484375,
+                "z": 15210.8583984375
+            },
+            "last_seen": "2026年3月4日 下午2:06:14",
+            "level": 49,
+            "name": "雷霆粉碎",
+            "name_history": [
+                "雷霆粉碎"
+            ],
+            "registered": "2026年3月3日 上午9:34:28",
+            "role_id": 62715114595897,
             "server_region": "reshaping-the-future"
         },
         "62719407423874": {
@@ -21025,6 +21073,29 @@
             "role_id": 63148904385511,
             "server_region": "reshaping-the-future"
         },
+        "63148904391601": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1238199.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
+            },
+            "last_seen": "2026年3月4日 下午2:06:14",
+            "level": 100,
+            "name": "依豆豆",
+            "name_history": [
+                "依豆豆"
+            ],
+            "registered": "2023年10月26日 下午2:17:07",
+            "role_id": 63148904391601,
+            "server_region": "reshaping-the-future"
+        },
         "63148904391821": {
             "crew_id": 14096082680075,
             "crew_name": "赦免天使",
@@ -23811,7 +23882,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1068,
-    "last_updated": "2026年3月4日 下午2:05:14",
+    "accounts_total": 1071,
+    "last_updated": "2026年3月4日 下午2:06:14",
     "server_region": "reshaping-the-future"
 }
