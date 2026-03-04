@@ -10053,14 +10053,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1667463.75,
+            "hp": 1675950.125,
             "last_known_position": {
-                "map": "city",
-                "x": 1320.1099853515625,
-                "y": -28350.349609375,
-                "z": 97879.6171875
+                "map": "QRSL_P",
+                "x": -55648.52734375,
+                "y": -88912.9453125,
+                "z": 21724.458984375
             },
-            "last_seen": "2026年3月2日 下午2:32:37",
+            "last_seen": "2026年3月4日 下午4:14:57",
             "level": 85,
             "name": "零五壹贰",
             "name_history": [
@@ -17208,6 +17208,29 @@
             "role_id": 63578402001670,
             "server_region": "time-travel"
         },
+        "63578402001702": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 96247.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54031.6640625,
+                "y": -88140.3203125,
+                "z": 21725.939453125
+            },
+            "last_seen": "2026年3月4日 下午4:14:57",
+            "level": 43,
+            "name": "珏曦",
+            "name_history": [
+                "珏曦"
+            ],
+            "registered": "2026年2月12日 上午9:56:08",
+            "role_id": 63578402001702,
+            "server_region": "time-travel"
+        },
         "63578402002017": {
             "crew_history": [
                 "林深不知处"
@@ -19710,7 +19733,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1020,
-    "last_updated": "2026年3月4日 下午4:12:57",
+    "accounts_total": 1021,
+    "last_updated": "2026年3月4日 下午4:14:57",
     "server_region": "time-travel"
 }
