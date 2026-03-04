@@ -1752,14 +1752,14 @@
             "crew_name": "不氪金联盟",
             "equipping_title": "2_11_1_2",
             "gender": 1,
-            "hp": 2723110.5,
+            "hp": 1720054.375,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -323785.28125,
-                "y": 203491.859375,
-                "z": -28333.80859375
+                "map": "city",
+                "x": 494.72998046875,
+                "y": -16546.2890625,
+                "z": 96343.796875
             },
-            "last_seen": "2026年2月27日 下午12:52:18",
+            "last_seen": "2026年3月4日 下午8:48:21",
             "level": 100,
             "name": "烽火裁决",
             "name_history": [
@@ -4487,12 +4487,21 @@
             "server_region": "visser-aida"
         },
         "60571923791730": {
+            "crew_history": [
+                "茶馆"
+            ],
             "crew_id": 120259098390,
             "crew_name": "茶馆",
-            "equipping_title": "4_2021",
+            "equipping_title": "2_2_0_38",
             "gender": 0,
-            "hp": 1702058.25,
-            "last_seen": "2026年2月12日 下午4:00:01",
+            "hp": 2164177.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -259.6099853515625,
+                "y": -16309.919921875,
+                "z": 96373.5859375
+            },
+            "last_seen": "2026年3月4日 下午8:48:21",
             "level": 100,
             "name": "一直很安静",
             "name_history": [
@@ -6058,14 +6067,14 @@
             "crew_name": "",
             "equipping_title": "蕾茉妮雅的学徒,0",
             "gender": 1,
-            "hp": 1617728.0,
+            "hp": 1735780.5,
             "last_known_position": {
                 "map": "city",
-                "x": 31.260000228881836,
-                "y": -16803.740234375,
-                "z": 96362.03125
+                "x": 238.239990234375,
+                "y": -16526.119140625,
+                "z": 96361.9765625
             },
-            "last_seen": "2026年2月28日 下午11:40:29",
+            "last_seen": "2026年3月4日 下午8:48:21",
             "level": 100,
             "name": "笨蛋希莎",
             "name_history": [
@@ -18749,12 +18758,21 @@
             "server_region": "visser-aida"
         },
         "61469571947875": {
+            "crew_history": [
+                "白晝梦"
+            ],
             "crew_id": 25769817880,
             "crew_name": "白晝梦",
-            "equipping_title": "2_2_0_89",
+            "equipping_title": "1_6_4_27",
             "gender": 1,
-            "hp": 1810216.125,
-            "last_seen": "",
+            "hp": 1847137.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -229.7899932861328,
+                "y": -16502.638671875,
+                "z": 96368.53125
+            },
+            "last_seen": "2026年3月4日 下午8:48:21",
             "level": 100,
             "name": "mowu",
             "name_history": [
@@ -22498,6 +22516,6 @@
         }
     },
     "accounts_total": 1299,
-    "last_updated": "2026年3月4日 下午8:46:21",
+    "last_updated": "2026年3月4日 下午8:48:21",
     "server_region": "visser-aida"
 }
