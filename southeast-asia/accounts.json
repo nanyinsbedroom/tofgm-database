@@ -10713,12 +10713,21 @@
             "server_region": "southeast-asia"
         },
         "68762426521613": {
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
             "equipping_title": "1_4_6_1",
             "gender": 1,
-            "hp": 2700610.0,
-            "last_seen": "Feb 7, 2026, 8:10:15 PM",
+            "hp": 6340851.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98106.4609375,
+                "y": -206343.84375,
+                "z": -476.8499755859375
+            },
+            "last_seen": "Mar 4, 2026, 9:29:32 PM",
             "level": 100,
             "name": "Junko",
             "name_history": [
@@ -25775,14 +25784,14 @@
             "crew_name": "鬼滅の刃",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 5920029.5,
+            "hp": 6080018.5,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96826.6796875,
-                "y": -195896.625,
-                "z": -3020.43310546875
+                "x": 96635.1171875,
+                "y": -196948.890625,
+                "z": -2774.47998046875
             },
-            "last_seen": "Mar 3, 2026, 10:22:28 PM",
+            "last_seen": "Mar 4, 2026, 9:29:32 PM",
             "level": 100,
             "name": "Michi",
             "name_history": [
@@ -30997,6 +31006,6 @@
         }
     },
     "accounts_total": 2086,
-    "last_updated": "Mar 4, 2026, 9:22:32 PM",
+    "last_updated": "Mar 4, 2026, 9:29:32 PM",
     "server_region": "southeast-asia"
 }
