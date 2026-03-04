@@ -7922,13 +7922,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695853718": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
-            "equipping_title": "None",
+            "equipping_title": "1_10_0_1",
             "gender": 1,
-            "hp": 1245372.125,
-            "last_seen": "2026年01月29日 上午 1:28:40",
-            "level": 80,
+            "hp": 1593701.625,
+            "last_known_position": {
+                "map": "city",
+                "x": -307.0,
+                "y": -24168.708984375,
+                "z": 96737.375
+            },
+            "last_seen": "2026年3月4日 下午1:38:13",
+            "level": 85,
             "name": "抛瓦超人",
             "name_history": [
                 "抛瓦超人"
@@ -12326,14 +12335,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1586019.625,
+            "hp": 1656169.625,
             "last_known_position": {
                 "map": "city",
-                "x": -1547.6500244140625,
-                "y": -28671.19921875,
-                "z": 97865.8671875
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97881.1171875
             },
-            "last_seen": "2026年2月27日 下午11:15:53",
+            "last_seen": "2026年3月4日 下午1:38:13",
             "level": 85,
             "name": "Honey☆Spaaa",
             "name_history": [
@@ -37639,14 +37648,14 @@
             "crew_name": "樱花庄",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1646190.375,
+            "hp": 1654283.625,
             "last_known_position": {
                 "map": "city",
-                "x": 2760.1298828125,
-                "y": -29412.759765625,
-                "z": 96732.96875
+                "x": 1755.4599609375,
+                "y": -21790.109375,
+                "z": 97297.03125
             },
-            "last_seen": "2026年2月26日 下午11:31:37",
+            "last_seen": "2026年3月4日 下午1:38:13",
             "level": 85,
             "name": "白喰若璃",
             "name_history": [
@@ -53027,11 +53036,11 @@
             "hp": 1569212.5,
             "last_known_position": {
                 "map": "city",
-                "x": 921.5700073242188,
-                "y": -28143.30859375,
-                "z": 97866.1171875
+                "x": 1094.1199951171875,
+                "y": -29170.33984375,
+                "z": 98605.65625
             },
-            "last_seen": "2026年3月3日 下午11:17:49",
+            "last_seen": "2026年3月4日 下午1:38:13",
             "level": 85,
             "name": "芙圻",
             "name_history": [
@@ -67515,15 +67524,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695997337": {
-            "crew_id": 146028902868,
-            "crew_name": "NOVA学院",
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 309705.625,
-            "last_seen": "2026年2月5日 下午11:50:57",
-            "level": 58,
-            "name": "莱拉",
+            "hp": 327426.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 2302.579833984375,
+                "y": -28179.669921875,
+                "z": 97959.859375
+            },
+            "last_seen": "2026年3月4日 下午1:38:13",
+            "level": 65,
+            "name": "鱿小鱼",
             "name_history": [
+                "鱿小鱼",
                 "莱拉"
             ],
             "registered": "2026年1月28日 上午1:12:54",
@@ -78903,6 +78922,29 @@
             "role_id": 63582696013200,
             "server_region": "cosmic-fold"
         },
+        "63582696013212": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 52414.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1928.577392578125,
+                "y": -27407.015625,
+                "z": 97871.3984375
+            },
+            "last_seen": "2026年3月4日 下午1:38:13",
+            "level": 14,
+            "name": "债市我能",
+            "name_history": [
+                "债市我能"
+            ],
+            "registered": "2026年3月1日 下午6:29:24",
+            "role_id": 63582696013212,
+            "server_region": "cosmic-fold"
+        },
         "63582696013301": {
             "crew_history": [],
             "crew_id": 0,
@@ -79736,7 +79778,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5345,
-    "last_updated": "2026年3月4日 下午1:36:13",
+    "accounts_total": 5346,
+    "last_updated": "2026年3月4日 下午1:38:13",
     "server_region": "cosmic-fold"
 }
