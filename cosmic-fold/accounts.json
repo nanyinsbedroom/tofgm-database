@@ -75949,20 +75949,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696009111": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 38412.0,
+            "hp": 124765.203125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -83222.3671875,
-                "y": 76671.5390625,
-                "z": -8518.953125
+                "x": -87057.6953125,
+                "y": 84960.296875,
+                "z": -6803.40966796875
             },
-            "last_seen": "2026年2月25日 上午12:57:35",
-            "level": 8,
+            "last_seen": "2026年3月5日 上午1:37:46",
+            "level": 46,
             "name": "捡托大的",
             "name_history": [
                 "捡托大的"
@@ -81474,6 +81476,6 @@
         }
     },
     "accounts_total": 5415,
-    "last_updated": "2026年3月5日 上午1:35:46",
+    "last_updated": "2026年3月5日 上午1:37:46",
     "server_region": "cosmic-fold"
 }
