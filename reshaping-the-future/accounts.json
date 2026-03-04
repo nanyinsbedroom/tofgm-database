@@ -4963,14 +4963,14 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1702006.375,
+            "hp": 1704418.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55409.37890625,
-                "y": -88729.03125,
-                "z": 21711.0
+                "x": -55322.55859375,
+                "y": -86845.375,
+                "z": 21710.94921875
             },
-            "last_seen": "2026年2月26日 下午2:21:16",
+            "last_seen": "2026年3月4日 下午2:14:15",
             "level": 100,
             "name": "电子海",
             "name_history": [
@@ -6306,6 +6306,31 @@
             ],
             "registered": "2024年2月13日 上午11:21:35",
             "role_id": 62715113759365,
+            "server_region": "reshaping-the-future"
+        },
+        "62715113762225": {
+            "crew_history": [
+                "爱你"
+            ],
+            "crew_id": 3100966402314,
+            "crew_name": "爱你",
+            "equipping_title": "月爽爽的学徒,0",
+            "gender": 0,
+            "hp": 1723590.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54143.828125,
+                "y": -87935.8984375,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年3月4日 下午2:14:15",
+            "level": 100,
+            "name": "草寒一",
+            "name_history": [
+                "草寒一"
+            ],
+            "registered": "2024年2月26日 上午2:06:00",
+            "role_id": 62715113762225,
             "server_region": "reshaping-the-future"
         },
         "62715113805083": {
@@ -23947,7 +23972,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1073,
-    "last_updated": "2026年3月4日 下午2:13:15",
+    "accounts_total": 1074,
+    "last_updated": "2026年3月4日 下午2:14:15",
     "server_region": "reshaping-the-future"
 }
