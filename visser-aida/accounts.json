@@ -10437,12 +10437,21 @@
             "server_region": "visser-aida"
         },
         "60653528185936": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 266287986476,
             "crew_name": "星奈海",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1460250.875,
-            "last_seen": "2026年01月03日 上午 5:53:58",
+            "hp": 1144920.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53603.7578125,
+                "y": -85784.5703125,
+                "z": 21717.44921875
+            },
+            "last_seen": "2026年3月4日 下午8:00:19",
             "level": 100,
             "name": "星空RS",
             "name_history": [
@@ -14201,6 +14210,31 @@
             ],
             "registered": "2021年12月16日 下午1:04:28",
             "role_id": 61052960130946,
+            "server_region": "visser-aida"
+        },
+        "61052960144317": {
+            "crew_history": [
+                "奥林匹斯"
+            ],
+            "crew_id": 2486786078600,
+            "crew_name": "奥林匹斯",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1168406.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:00:19",
+            "level": 100,
+            "name": "琉金云间草",
+            "name_history": [
+                "琉金云间草"
+            ],
+            "registered": "2021年12月17日 下午7:28:12",
+            "role_id": 61052960144317,
             "server_region": "visser-aida"
         },
         "61057255082457": {
@@ -21001,7 +21035,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1248,
-    "last_updated": "2026年3月4日 下午7:59:19",
+    "accounts_total": 1249,
+    "last_updated": "2026年3月4日 下午8:00:19",
     "server_region": "visser-aida"
 }
