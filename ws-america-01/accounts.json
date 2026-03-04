@@ -7586,14 +7586,14 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1190878.625,
+            "hp": 3952000.0,
             "last_known_position": {
-                "map": "Norn_P",
-                "x": -76430.96875,
-                "y": 126393.84375,
-                "z": -9980.439453125
+                "map": "Kailo_P_003",
+                "x": 96032.5078125,
+                "y": -181594.203125,
+                "z": -7531.6396484375
             },
-            "last_seen": "Mar 1, 2026, 9:55:07 PM",
+            "last_seen": "Mar 3, 2026, 8:36:41 PM",
             "level": 77,
             "name": "elkami",
             "name_history": [
@@ -13683,17 +13683,17 @@
             ],
             "crew_id": 897657052966,
             "crew_name": "SHOOTING ST☆R",
-            "equipping_title": "Rhea ripley's Mentor,0",
+            "equipping_title": "2_2_0_63",
             "gender": 1,
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 93221.71875,
-                "y": -188721.703125,
-                "z": -7376.21728515625
+                "x": 91653.4140625,
+                "y": -187299.703125,
+                "z": -7576.36962890625
             },
-            "last_seen": "Feb 18, 2026, 9:57:26 PM",
-            "level": 76,
+            "last_seen": "Mar 3, 2026, 8:36:41 PM",
+            "level": 77,
             "name": "Xscorpion24",
             "name_history": [
                 "Xscorpion24"
@@ -20349,14 +20349,14 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "Sone's Mentor,0",
             "gender": 0,
-            "hp": 1118249.375,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "Norn_P",
-                "x": -76293.4453125,
-                "y": 126152.4140625,
-                "z": -9984.4501953125
+                "map": "Kailo_P_003",
+                "x": 100660.46875,
+                "y": -182644.015625,
+                "z": -7396.8408203125
             },
-            "last_seen": "Mar 1, 2026, 9:54:07 PM",
+            "last_seen": "Mar 3, 2026, 8:36:41 PM",
             "level": 77,
             "name": "nitrox",
             "name_history": [
@@ -26328,14 +26328,14 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "ӈotaru's Apprentice,0",
             "gender": 0,
-            "hp": 961627.6875,
+            "hp": 2704000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 301.7200012207031,
-                "y": -28217.798828125,
-                "z": 97872.6171875
+                "map": "Kailo_P_003",
+                "x": 100111.8046875,
+                "y": -182095.203125,
+                "z": -7539.14990234375
             },
-            "last_seen": "Mar 1, 2026, 9:57:07 PM",
+            "last_seen": "Mar 3, 2026, 8:36:41 PM",
             "level": 77,
             "name": "Sone",
             "name_history": [
@@ -30301,6 +30301,31 @@
             "role_id": 38174107413582300,
             "server_region": "ws-america-01"
         },
+        "38174107413582314": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 102053.2890625,
+                "y": -183643.09375,
+                "z": -7875.45849609375
+            },
+            "last_seen": "Mar 3, 2026, 8:36:41 PM",
+            "level": 60,
+            "name": "wirli",
+            "name_history": [
+                "wirli"
+            ],
+            "registered": "Feb 12, 2026, 3:04:37 PM",
+            "role_id": 38174107413582314,
+            "server_region": "ws-america-01"
+        },
         "38174107413582330": {
             "crew_id": 0,
             "crew_name": "",
@@ -33509,7 +33534,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1800,
-    "last_updated": "Mar 3, 2026, 8:35:41 PM",
+    "accounts_total": 1801,
+    "last_updated": "Mar 3, 2026, 8:36:41 PM",
     "server_region": "ws-america-01"
 }
