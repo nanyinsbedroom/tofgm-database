@@ -20914,15 +20914,15 @@
             "crew_name": "白月破晓",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1576696.0,
+            "hp": 1575930.0,
             "last_known_position": {
-                "map": "city",
-                "x": -22.549999237060547,
-                "y": -16482.919921875,
-                "z": 96362.03125
+                "map": "Vera_P",
+                "x": -3910.0,
+                "y": -59175.0,
+                "z": 10192.5400390625
             },
-            "last_seen": "2026年2月24日 下午11:06:32",
-            "level": 84,
+            "last_seen": "2026年3月4日 下午12:55:10",
+            "level": 85,
             "name": "桪",
             "name_history": [
                 "桪"
@@ -66204,6 +66204,29 @@
             "role_id": 63582695994801,
             "server_region": "cosmic-fold"
         },
+        "63582695994808": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 80688.0,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -7369.45068359375,
+                "y": -76795.4375,
+                "z": 8780.0341796875
+            },
+            "last_seen": "2026年3月4日 下午12:55:10",
+            "level": 29,
+            "name": "可口可乐姐姐",
+            "name_history": [
+                "可口可乐姐姐"
+            ],
+            "registered": "2026年1月24日 下午1:57:13",
+            "role_id": 63582695994808,
+            "server_region": "cosmic-fold"
+        },
         "63582695994887": {
             "crew_id": 0,
             "crew_name": "",
@@ -78894,6 +78917,29 @@
             "role_id": 63582696014173,
             "server_region": "cosmic-fold"
         },
+        "63582696014205": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 50282.66796875,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -21186.056640625,
+                "y": -72868.34375,
+                "z": 10737.455078125
+            },
+            "last_seen": "2026年3月4日 下午12:55:10",
+            "level": 25,
+            "name": "表爷",
+            "name_history": [
+                "表爷"
+            ],
+            "registered": "2026年3月3日 上午9:56:26",
+            "role_id": 63582696014205,
+            "server_region": "cosmic-fold"
+        },
         "63582696014401": {
             "crew_history": [],
             "crew_id": 0,
@@ -79240,7 +79286,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5324,
-    "last_updated": "2026年3月4日 下午12:54:10",
+    "accounts_total": 5326,
+    "last_updated": "2026年3月4日 下午12:55:10",
     "server_region": "cosmic-fold"
 }
