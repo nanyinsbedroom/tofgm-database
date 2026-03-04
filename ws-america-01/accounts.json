@@ -478,14 +478,14 @@
             "crew_name": "Sovereign",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1168527.75,
+            "hp": 1173378.5,
             "last_known_position": {
                 "map": "city",
-                "x": 2288.08984375,
-                "y": -28836.46875,
-                "z": 96700.6953125
+                "x": -31.92999839782715,
+                "y": -16578.759765625,
+                "z": 96357.03125
             },
-            "last_seen": "Feb 27, 2026, 7:32:30 PM",
+            "last_seen": "Mar 3, 2026, 9:00:42 PM",
             "level": 77,
             "name": "Milk",
             "name_history": [
@@ -3325,17 +3325,17 @@
             ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "2_2_0_44",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1106170.75,
+            "hp": 1152094.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1939.0299072265625,
-                "y": -28359.94921875,
-                "z": 96729.6796875
+                "x": 13.479999542236328,
+                "y": -18168.138671875,
+                "z": 96343.0390625
             },
-            "last_seen": "Feb 23, 2026, 12:45:13 PM",
-            "level": 76,
+            "last_seen": "Mar 3, 2026, 9:00:42 PM",
+            "level": 77,
             "name": "Ori",
             "name_history": [
                 "Ori"
@@ -14766,6 +14766,31 @@
             ],
             "registered": "Nov 25, 2025, 2:43:03 PM",
             "role_id": 38174107413523355,
+            "server_region": "ws-america-01"
+        },
+        "38174107413523358": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "Micali's Enlightener,1",
+            "gender": 1,
+            "hp": 1161066.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91271.6015625,
+                "y": 76246.3046875,
+                "z": -7085.1298828125
+            },
+            "last_seen": "Mar 3, 2026, 9:00:42 PM",
+            "level": 77,
+            "name": "panquecito",
+            "name_history": [
+                "panquecito"
+            ],
+            "registered": "Nov 25, 2025, 2:43:08 PM",
+            "role_id": 38174107413523358,
             "server_region": "ws-america-01"
         },
         "38174107413523378": {
@@ -33643,9 +33668,32 @@
             "registered": "Mar 1, 2026, 5:23:02 PM",
             "role_id": 38174107413584579,
             "server_region": "ws-america-01"
+        },
+        "38174107413584832": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 23559.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78667.3984375,
+                "y": 65678.3046875,
+                "z": -6916.7001953125
+            },
+            "last_seen": "Mar 3, 2026, 9:00:42 PM",
+            "level": 4,
+            "name": "NightDcrim",
+            "name_history": [
+                "NightDcrim"
+            ],
+            "registered": "Mar 3, 2026, 8:06:37 PM",
+            "role_id": 38174107413584832,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1804,
-    "last_updated": "Mar 3, 2026, 8:59:42 PM",
+    "accounts_total": 1806,
+    "last_updated": "Mar 3, 2026, 9:00:42 PM",
     "server_region": "ws-america-01"
 }
