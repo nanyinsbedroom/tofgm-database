@@ -70549,15 +70549,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 103132.0,
+            "hp": 109180.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -78471.6484375,
-                "y": 49985.45703125,
-                "z": -11516.7099609375
+                "x": -79645.28125,
+                "y": 72642.2734375,
+                "z": -9622.15625
             },
-            "last_seen": "2026年2月24日 上午3:11:44",
-            "level": 48,
+            "last_seen": "2026年3月5日 上午4:53:56",
+            "level": 55,
             "name": "慎独",
             "name_history": [
                 "慎独"
@@ -80970,6 +80970,29 @@
             "role_id": 63582696015073,
             "server_region": "cosmic-fold"
         },
+        "63582696015084": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92280.5546875,
+                "y": 76335.5546875,
+                "z": -7061.5
+            },
+            "last_seen": "2026年3月5日 上午4:53:56",
+            "level": 4,
+            "name": "胡萝卜和小嗷嗷",
+            "name_history": [
+                "胡萝卜和小嗷嗷"
+            ],
+            "registered": "2026年3月4日 下午10:17:36",
+            "role_id": 63582696015084,
+            "server_region": "cosmic-fold"
+        },
         "63582696015093": {
             "crew_history": [],
             "crew_id": 0,
@@ -81613,9 +81636,32 @@
             "registered": "2026年3月5日 上午1:55:08",
             "role_id": 63582696015157,
             "server_region": "cosmic-fold"
+        },
+        "63582696015163": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81290.328125,
+                "y": 78690.53125,
+                "z": -9906.609375
+            },
+            "last_seen": "2026年3月5日 上午4:53:56",
+            "level": 4,
+            "name": "安琪.",
+            "name_history": [
+                "安琪."
+            ],
+            "registered": "2026年3月5日 上午4:20:21",
+            "role_id": 63582696015163,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5421,
-    "last_updated": "2026年3月5日 上午2:11:48",
+    "accounts_total": 5423,
+    "last_updated": "2026年3月5日 上午4:53:56",
     "server_region": "cosmic-fold"
 }
