@@ -22159,15 +22159,15 @@
             "crew_name": "幻塔",
             "equipping_title": "WorldBossDamage_1;Boss_hum_030_world;1",
             "gender": 1,
-            "hp": 1504910.0,
+            "hp": 1603239.0,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -34838.41796875,
-                "y": 7070.08984375,
-                "z": -13787.349609375
+                "map": "Vera_P",
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
             },
-            "last_seen": "2026年2月26日 上午2:46:54",
-            "level": 84,
+            "last_seen": "2026年3月4日 下午12:59:11",
+            "level": 85,
             "name": "坤坤",
             "name_history": [
                 "坤坤"
@@ -61158,13 +61158,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695969410": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 612524.4375,
-            "last_seen": "2026年01月25日 上午 4:19:33",
-            "level": 77,
+            "hp": 771813.875,
+            "last_known_position": {
+                "map": "Vera_P",
+                "x": -80591.6953125,
+                "y": 107945.5,
+                "z": 375.5799865722656
+            },
+            "last_seen": "2026年3月4日 下午12:59:11",
+            "level": 83,
             "name": "媛媛oO",
             "name_history": [
                 "媛媛oO"
@@ -79310,6 +79319,6 @@
         }
     },
     "accounts_total": 5327,
-    "last_updated": "2026年3月4日 下午12:57:11",
+    "last_updated": "2026年3月4日 下午12:59:11",
     "server_region": "cosmic-fold"
 }
