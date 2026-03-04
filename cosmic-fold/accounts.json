@@ -4228,15 +4228,15 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1445702.25,
+            "hp": 1454447.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1447.489990234375,
-                "y": -28293.369140625,
-                "z": 97866.1171875
+                "x": -155.3300018310547,
+                "y": -17457.240234375,
+                "z": 96343.78125
             },
-            "last_seen": "2026年2月25日 上午12:20:33",
-            "level": 83,
+            "last_seen": "2026年3月4日 下午11:21:39",
+            "level": 84,
             "name": "珂朵莉GO",
             "name_history": [
                 "珂朵莉GO"
@@ -19163,13 +19163,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695861248": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_8_1_1",
             "gender": 1,
-            "hp": 1424239.625,
-            "last_seen": "2026年2月9日 下午8:02:30",
-            "level": 82,
+            "hp": 1521157.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1259.5499267578125,
+                "y": -28303.228515625,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月4日 下午11:21:39",
+            "level": 84,
             "name": "一缸石榴",
             "name_history": [
                 "一缸石榴"
@@ -34488,11 +34497,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695882021": {
-            "crew_id": 455266548180,
-            "crew_name": "东北银窝",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "last_seen": "2025年10月09日 上午 3:16:28",
-            "name": "4k123",
+            "hp": 1616665.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1311.7999267578125,
+                "y": -28237.5,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月4日 下午11:21:39",
+            "level": 85,
+            "name": "村姑",
+            "name_history": [
+                "村姑"
+            ],
             "registered": "2025年9月28日 上午12:42:11",
             "role_id": 63582695882021,
             "server_region": "cosmic-fold"
@@ -80354,6 +80378,6 @@
         }
     },
     "accounts_total": 5369,
-    "last_updated": "2026年3月4日 下午11:20:39",
+    "last_updated": "2026年3月4日 下午11:21:39",
     "server_region": "cosmic-fold"
 }
