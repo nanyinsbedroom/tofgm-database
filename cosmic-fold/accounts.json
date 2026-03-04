@@ -79511,15 +79511,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 48551.84375,
+            "hp": 52859.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -90401.1015625,
-                "y": 82490.7109375,
-                "z": -7052.0400390625
+                "x": -91909.1875,
+                "y": 75609.7734375,
+                "z": -7033.24755859375
             },
-            "last_seen": "2026年3月4日 下午11:25:39",
-            "level": 16,
+            "last_seen": "2026年3月5日 上午12:17:42",
+            "level": 18,
             "name": "特维拉",
             "name_history": [
                 "特维拉"
@@ -79618,6 +79618,29 @@
             ],
             "registered": "2026年3月2日 下午5:10:27",
             "role_id": 63582696013850,
+            "server_region": "cosmic-fold"
+        },
+        "63582696013879": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4997.77001953125
+            },
+            "last_seen": "2026年3月5日 上午12:17:42",
+            "level": 1,
+            "name": "西伯利亚悍匪",
+            "name_history": [
+                "西伯利亚悍匪"
+            ],
+            "registered": "2026年3月2日 下午5:56:20",
+            "role_id": 63582696013879,
             "server_region": "cosmic-fold"
         },
         "63582696013892": {
@@ -80890,7 +80913,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5390,
-    "last_updated": "2026年3月5日 上午12:15:42",
+    "accounts_total": 5391,
+    "last_updated": "2026年3月5日 上午12:17:42",
     "server_region": "cosmic-fold"
 }
