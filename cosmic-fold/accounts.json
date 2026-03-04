@@ -70592,15 +70592,15 @@
             "crew_name": "暖暖会",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 365722.8125,
+            "hp": 306631.40625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -71486.5,
-                "y": 49627.20703125,
-                "z": -12316.669921875
+                "x": -91908.296875,
+                "y": 76728.0,
+                "z": -7073.9697265625
             },
-            "last_seen": "2026年2月20日 上午2:01:27",
-            "level": 72,
+            "last_seen": "2026年3月5日 上午12:27:43",
+            "level": 73,
             "name": "小魔女的花",
             "name_history": [
                 "小魔女的花"
@@ -80957,9 +80957,32 @@
             "registered": "2026年3月5日 上午12:20:16",
             "role_id": 63582696015141,
             "server_region": "cosmic-fold"
+        },
+        "63582696015143": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.8359375,
+                "y": 80533.2265625,
+                "z": -4993.27001953125
+            },
+            "last_seen": "2026年3月5日 上午12:27:43",
+            "level": 1,
+            "name": "佑护这晚风",
+            "name_history": [
+                "佑护这晚风"
+            ],
+            "registered": "2026年3月5日 上午12:26:45",
+            "role_id": 63582696015143,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5393,
-    "last_updated": "2026年3月5日 上午12:22:43",
+    "accounts_total": 5394,
+    "last_updated": "2026年3月5日 上午12:27:43",
     "server_region": "cosmic-fold"
 }
