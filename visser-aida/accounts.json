@@ -6698,6 +6698,31 @@
             "role_id": 60589103689937,
             "server_region": "visser-aida"
         },
+        "60589103690597": {
+            "crew_history": [
+                "幻月之境"
+            ],
+            "crew_id": 154618836860,
+            "crew_name": "幻月之境",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 2256719.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53819.359375,
+                "y": -88049.921875,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:22:20",
+            "level": 100,
+            "name": "黒色–羽翼",
+            "name_history": [
+                "黒色–羽翼"
+            ],
+            "registered": "2021年12月18日 上午1:47:51",
+            "role_id": 60589103690597,
+            "server_region": "visser-aida"
+        },
         "60589103693052": {
             "crew_history": [
                 "花涧"
@@ -13296,12 +13321,21 @@
             "server_region": "visser-aida"
         },
         "61001420530779": {
+            "crew_history": [
+                "奥林匹斯"
+            ],
             "crew_id": 2486786078600,
             "crew_name": "奥林匹斯",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1440087.75,
-            "last_seen": "2025年11月25日 上午 4:47:19",
+            "hp": 1492433.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.484375,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:22:20",
             "level": 100,
             "name": "塔塔洛斯",
             "name_history": [
@@ -22033,7 +22067,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1283,
-    "last_updated": "2026年3月4日 下午8:20:20",
+    "accounts_total": 1284,
+    "last_updated": "2026年3月4日 下午8:22:20",
     "server_region": "visser-aida"
 }
