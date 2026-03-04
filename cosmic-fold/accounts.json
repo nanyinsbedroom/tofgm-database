@@ -50699,14 +50699,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 960167.0,
+            "hp": 1094273.0,
             "last_known_position": {
                 "map": "city",
-                "x": -127.23999786376953,
-                "y": -31074.119140625,
-                "z": 96851.2265625
+                "x": 1801.679931640625,
+                "y": -27147.1796875,
+                "z": 97853.1171875
             },
-            "last_seen": "2026年2月26日 下午11:32:37",
+            "last_seen": "2026年3月4日 下午1:39:13",
             "level": 83,
             "name": "打篮球",
             "name_history": [
@@ -51142,15 +51142,15 @@
             "crew_name": "天使社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1158687.75,
+            "hp": 1379499.375,
             "last_known_position": {
                 "map": "city",
                 "x": 1357.0,
                 "y": -28250.0,
                 "z": 97879.1171875
             },
-            "last_seen": "2026年2月14日 下午8:40:56",
-            "level": 82,
+            "last_seen": "2026年3月4日 下午1:39:13",
+            "level": 85,
             "name": "姬啵香",
             "name_history": [
                 "姬啵香"
@@ -57814,13 +57814,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695961057": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1088047.25,
-            "last_seen": "",
-            "level": 81,
+            "hp": 1254455.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月4日 下午1:39:13",
+            "level": 85,
             "name": "姬啵妲",
             "name_history": [
                 "姬啵妲"
@@ -62374,13 +62383,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695975523": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 964007.875,
-            "last_seen": "2026年01月28日 上午 5:44:24",
-            "level": 79,
+            "hp": 1118632.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月4日 下午1:39:13",
+            "level": 83,
             "name": "姬啵嫦",
             "name_history": [
                 "姬啵嫦"
@@ -79779,6 +79797,6 @@
         }
     },
     "accounts_total": 5346,
-    "last_updated": "2026年3月4日 下午1:38:13",
+    "last_updated": "2026年3月4日 下午1:39:13",
     "server_region": "cosmic-fold"
 }
