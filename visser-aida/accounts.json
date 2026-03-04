@@ -506,14 +506,26 @@
             "server_region": "visser-aida"
         },
         "60567628827891": {
-            "crew_id": 120259098390,
-            "crew_name": "茶馆",
-            "equipping_title": "1_2021",
+            "crew_history": [
+                "天空之城"
+            ],
+            "crew_id": 833223669626,
+            "crew_name": "天空之城",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2546428.25,
-            "last_seen": "2025年10月27日 下午 7:30:56",
+            "hp": 2629701.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:17:20",
             "level": 100,
             "name": "狩猎神明的猎人",
+            "name_history": [
+                "狩猎神明的猎人"
+            ],
             "registered": "2021年12月16日 下午12:10:57",
             "role_id": 60567628827891,
             "server_region": "visser-aida"
@@ -11327,12 +11339,21 @@
             "server_region": "visser-aida"
         },
         "60657823178704": {
+            "crew_history": [
+                "楠梦璃"
+            ],
             "crew_id": 377957136172,
             "crew_name": "楠梦璃",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1795376.75,
-            "last_seen": "2026年01月20日 下午 11:42:36",
+            "hp": 1812818.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54728.02734375,
+                "y": -87177.296875,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月4日 下午8:17:20",
             "level": 100,
             "name": ".莹",
             "name_history": [
@@ -21853,6 +21874,6 @@
         }
     },
     "accounts_total": 1277,
-    "last_updated": "2026年3月4日 下午8:16:20",
+    "last_updated": "2026年3月4日 下午8:17:20",
     "server_region": "visser-aida"
 }
