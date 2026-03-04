@@ -52312,15 +52312,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695935257": {
-            "crew_id": 98784262612,
-            "crew_name": "命运石之门",
-            "equipping_title": "None",
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 398461.125,
-            "last_seen": "2025年11月22日 下午 8:25:46",
-            "level": 71,
-            "name": "1小1好",
+            "hp": 1033056.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77356.0,
+                "y": 60894.26953125,
+                "z": -8104.1796875
+            },
+            "last_seen": "2026年3月4日 下午12:44:10",
+            "level": 83,
+            "name": "三次分身",
             "name_history": [
+                "三次分身",
                 "1小1好"
             ],
             "registered": "2025年10月19日 下午12:43:35",
@@ -60300,6 +60310,81 @@
             ],
             "registered": "2025年11月25日 下午4:31:34",
             "role_id": 63582695966243,
+            "server_region": "cosmic-fold"
+        },
+        "63582695966287": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 194235.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72270.1484375,
+                "y": 50094.45703125,
+                "z": -12338.5693359375
+            },
+            "last_seen": "2026年3月4日 下午12:44:10",
+            "level": 80,
+            "name": "大毕业我",
+            "name_history": [
+                "大毕业我"
+            ],
+            "registered": "2025年11月25日 下午5:48:11",
+            "role_id": 63582695966287,
+            "server_region": "cosmic-fold"
+        },
+        "63582695966288": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 195233.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73542.28125,
+                "y": 49368.66796875,
+                "z": -12306.1396484375
+            },
+            "last_seen": "2026年3月4日 下午12:44:10",
+            "level": 80,
+            "name": "还叫我",
+            "name_history": [
+                "还叫我"
+            ],
+            "registered": "2025年11月25日 下午5:50:20",
+            "role_id": 63582695966288,
+            "server_region": "cosmic-fold"
+        },
+        "63582695966290": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 196097.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73173.0546875,
+                "y": 49348.390625,
+                "z": -12302.689453125
+            },
+            "last_seen": "2026年3月4日 下午12:44:10",
+            "level": 81,
+            "name": "大王是我",
+            "name_history": [
+                "大王是我"
+            ],
+            "registered": "2025年11月25日 下午5:52:40",
+            "role_id": 63582695966290,
             "server_region": "cosmic-fold"
         },
         "63582695966310": {
@@ -78848,7 +78933,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5308,
-    "last_updated": "2026年3月4日 下午12:43:10",
+    "accounts_total": 5311,
+    "last_updated": "2026年3月4日 下午12:44:10",
     "server_region": "cosmic-fold"
 }
