@@ -6635,11 +6635,26 @@
             "server_region": "visser-aida"
         },
         "60589103705542": {
+            "crew_history": [
+                "酒馆"
+            ],
             "crew_id": 953482753819,
             "crew_name": "酒馆",
+            "equipping_title": "3_2021",
             "gender": 1,
-            "last_seen": "2025年09月28日 下午 10:09:10",
+            "hp": 1573280.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月4日 下午8:13:20",
+            "level": 100,
             "name": "草薙Z素子",
+            "name_history": [
+                "草薙Z素子"
+            ],
             "registered": "2021年12月21日 上午11:47:02",
             "role_id": 60589103705542,
             "server_region": "visser-aida"
@@ -7535,6 +7550,31 @@
             ],
             "registered": "2022年11月26日 上午2:22:14",
             "role_id": 60597694082034,
+            "server_region": "visser-aida"
+        },
+        "60597694524219": {
+            "crew_history": [
+                "修仙茶会"
+            ],
+            "crew_id": 47244654365,
+            "crew_name": "修仙茶会",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 1391350.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55774.296875,
+                "y": -88560.921875,
+                "z": 21724.849609375
+            },
+            "last_seen": "2026年3月4日 下午8:13:20",
+            "level": 100,
+            "name": "怎能沉沦",
+            "name_history": [
+                "怎能沉沦"
+            ],
+            "registered": "2022年12月17日 上午10:05:07",
+            "role_id": 60597694524219,
             "server_region": "visser-aida"
         },
         "60597694525036": {
@@ -21612,7 +21652,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1268,
-    "last_updated": "2026年3月4日 下午8:12:19",
+    "accounts_total": 1269,
+    "last_updated": "2026年3月4日 下午8:13:20",
     "server_region": "visser-aida"
 }
