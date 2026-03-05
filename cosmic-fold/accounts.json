@@ -33532,17 +33532,17 @@
             ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "Toveovo的后继者,1",
+            "equipping_title": "2_2_0_68",
             "gender": 1,
-            "hp": 1432385.0,
+            "hp": 1617677.0,
             "last_known_position": {
-                "map": "city",
-                "x": 20.6299991607666,
-                "y": -22416.779296875,
-                "z": 96732.6015625
+                "map": "QRSL_P",
+                "x": -91946.484375,
+                "y": 76471.03125,
+                "z": -7079.0
             },
-            "last_seen": "2026年2月24日 下午11:05:32",
-            "level": 84,
+            "last_seen": "2026年3月5日 下午6:48:17",
+            "level": 85,
             "name": "西行寺喵喵子",
             "name_history": [
                 "西行寺喵喵子"
@@ -75131,6 +75131,29 @@
             "role_id": 63582696008332,
             "server_region": "cosmic-fold"
         },
+        "63582696008351": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 96270.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91413.6953125,
+                "y": 77967.3984375,
+                "z": -7019.1396484375
+            },
+            "last_seen": "2026年3月5日 下午6:48:17",
+            "level": 29,
+            "name": "王隼基",
+            "name_history": [
+                "王隼基"
+            ],
+            "registered": "2026年2月19日 下午6:23:58",
+            "role_id": 63582696008351,
+            "server_region": "cosmic-fold"
+        },
         "63582696008354": {
             "crew_history": [],
             "crew_id": 0,
@@ -82067,7 +82090,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5440,
-    "last_updated": "2026年3月5日 下午6:47:17",
+    "accounts_total": 5441,
+    "last_updated": "2026年3月5日 下午6:48:17",
     "server_region": "cosmic-fold"
 }
