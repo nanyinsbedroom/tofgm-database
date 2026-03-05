@@ -4834,13 +4834,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481759": {
+            "crew_history": [
+                "Wonderland"
+            ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 845372.6875,
-            "last_seen": "Jan 25, 2026, 03:42:34 AM",
-            "level": 72,
+            "hp": 1121523.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 2254.599853515625,
+                "y": -27299.1796875,
+                "z": 97866.1171875
+            },
+            "last_seen": "Mar 5, 2026, 7:05:48 PM",
+            "level": 77,
             "name": "Lilln",
             "name_history": [
                 "Lilln"
@@ -6309,13 +6318,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482733": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "2_7_0_12",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "Feb 9, 2026, 7:50:58 PM",
-            "level": 74,
+            "hp": 1176601.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -480.2099914550781,
+                "y": -22941.490234375,
+                "z": 96728.7578125
+            },
+            "last_seen": "Mar 5, 2026, 7:05:48 PM",
+            "level": 77,
             "name": "GuanXin",
             "name_history": [
                 "GuanXin"
@@ -8726,15 +8744,15 @@
             "crew_name": "Asylum",
             "equipping_title": "Orehnjacha's Mentor,0",
             "gender": 1,
-            "hp": 1037500.25,
+            "hp": 1122578.375,
             "last_known_position": {
                 "map": "city",
-                "x": -386.0,
-                "y": -23498.109375,
-                "z": 96720.1953125
+                "x": -1561.0699462890625,
+                "y": -28774.009765625,
+                "z": 97880.1953125
             },
-            "last_seen": "Feb 15, 2026, 8:58:13 PM",
-            "level": 75,
+            "last_seen": "Mar 5, 2026, 7:05:48 PM",
+            "level": 77,
             "name": "Mahiru Shiina ",
             "name_history": [
                 "Mahiru Shiina "
@@ -9978,15 +9996,15 @@
             "crew_name": "Asylum",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1103980.375,
+            "hp": 1162332.75,
             "last_known_position": {
                 "map": "city",
-                "x": -1295.5699462890625,
-                "y": -28697.369140625,
-                "z": 97868.765625
+                "x": -592.0700073242188,
+                "y": -28269.4296875,
+                "z": 97872.6171875
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
-            "level": 76,
+            "last_seen": "Mar 5, 2026, 7:05:48 PM",
+            "level": 77,
             "name": "Zionsfai",
             "name_history": [
                 "Zionsfai"
@@ -19494,17 +19512,17 @@
             ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "None",
+            "equipping_title": "Idria's Mentor,0",
             "gender": 1,
-            "hp": 1027249.6875,
+            "hp": 1104602.875,
             "last_known_position": {
                 "map": "city",
-                "x": 124.19999694824219,
-                "y": -21788.19921875,
-                "z": 96751.359375
+                "x": -1837.39990234375,
+                "y": -24255.798828125,
+                "z": 97879.1171875
             },
-            "last_seen": "Feb 23, 2026, 6:56:13 PM",
-            "level": 76,
+            "last_seen": "Mar 5, 2026, 7:05:48 PM",
+            "level": 77,
             "name": "Queenpatrycja",
             "name_history": [
                 "Queenpatrycja"
@@ -23561,6 +23579,6 @@
         }
     },
     "accounts_total": 1272,
-    "last_updated": "Mar 5, 2026, 7:04:48 PM",
+    "last_updated": "Mar 5, 2026, 7:05:48 PM",
     "server_region": "ws-europe-01"
 }
