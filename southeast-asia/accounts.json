@@ -29836,12 +29836,21 @@
             "server_region": "southeast-asia"
         },
         "68805376086515": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_10_0_2",
+            "equipping_title": "1_10_0_1",
             "gender": 0,
-            "hp": 2649569.0,
-            "last_seen": "Nov 24, 2025, 05:03:00 AM",
+            "hp": 3079823.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -5871.509765625,
+                "y": 61314.16015625,
+                "z": 40858.4609375
+            },
+            "last_seen": "Mar 6, 2026, 1:17:45 AM",
             "level": 100,
             "name": "NOELLE♥",
             "name_history": [
@@ -31131,6 +31140,6 @@
         }
     },
     "accounts_total": 2089,
-    "last_updated": "Mar 6, 2026, 1:11:45 AM",
+    "last_updated": "Mar 6, 2026, 1:17:45 AM",
     "server_region": "southeast-asia"
 }
