@@ -6246,14 +6246,14 @@
             "crew_name": "Supernova",
             "equipping_title": "2_7_0_13",
             "gender": 1,
-            "hp": 1156490.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -41736.98046875,
-                "y": 87874.53125,
-                "z": -14006.5400390625
+                "map": "Kailo_P_003",
+                "x": 92385.515625,
+                "y": -188178.390625,
+                "z": -7166.6796875
             },
-            "last_seen": "Feb 28, 2026, 7:50:41 PM",
+            "last_seen": "Mar 4, 2026, 7:55:46 PM",
             "level": 77,
             "name": "Caprichosita",
             "name_history": [
@@ -19596,21 +19596,22 @@
         },
         "38174107413539417": {
             "crew_history": [
+                "SHOOTING ST☆R",
                 "Solstice"
             ],
-            "crew_id": 8598822694,
-            "crew_name": "Solstice",
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
             "equipping_title": "2_10_1_11",
             "gender": 0,
-            "hp": 851786.75,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "map": "Kailo_P_003",
+                "x": 96301.71875,
+                "y": -195656.21875,
+                "z": -2956.679931640625
             },
-            "last_seen": "Feb 20, 2026, 11:06:32 PM",
-            "level": 74,
+            "last_seen": "Mar 4, 2026, 7:55:46 PM",
+            "level": 76,
             "name": "Andros Leo",
             "name_history": [
                 "Andros Leo"
@@ -30354,6 +30355,31 @@
             "role_id": 38174107413582074,
             "server_region": "ws-america-01"
         },
+        "38174107413582086": {
+            "crew_history": [
+                "Sovereign"
+            ],
+            "crew_id": 223347187494,
+            "crew_name": "Sovereign",
+            "equipping_title": "WorldBossDamage_3;Boss_hum_025_world;15",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 92514.84375,
+                "y": -179664.1875,
+                "z": -7616.56396484375
+            },
+            "last_seen": "Mar 4, 2026, 7:55:46 PM",
+            "level": 75,
+            "name": "W_SINISTRO_W ",
+            "name_history": [
+                "W_SINISTRO_W "
+            ],
+            "registered": "Feb 10, 2026, 6:51:00 PM",
+            "role_id": 38174107413582086,
+            "server_region": "ws-america-01"
+        },
         "38174107413582165": {
             "crew_history": [],
             "crew_id": 0,
@@ -34102,7 +34128,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1822,
-    "last_updated": "Mar 4, 2026, 7:54:46 PM",
+    "accounts_total": 1823,
+    "last_updated": "Mar 4, 2026, 7:55:46 PM",
     "server_region": "ws-america-01"
 }
