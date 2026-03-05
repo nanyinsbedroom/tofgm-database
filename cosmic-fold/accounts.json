@@ -16149,20 +16149,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695859127": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "辞"
+            ],
+            "crew_id": 3444563786196,
+            "crew_name": "辞",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 552038.0,
+            "hp": 622406.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1264.3946533203125,
-                "y": -27944.896484375,
-                "z": 97871.8828125
+                "map": "QRSL_P",
+                "x": -69451.84375,
+                "y": 51900.23046875,
+                "z": -9884.6015625
             },
-            "last_seen": "2026年2月17日 上午1:44:42",
-            "level": 79,
+            "last_seen": "2026年3月5日 下午6:33:17",
+            "level": 82,
             "name": "EatingKebab",
             "name_history": [
                 "EatingKebab"
@@ -81733,6 +81735,6 @@
         }
     },
     "accounts_total": 5426,
-    "last_updated": "2026年3月5日 下午6:32:17",
+    "last_updated": "2026年3月5日 下午6:33:17",
     "server_region": "cosmic-fold"
 }
