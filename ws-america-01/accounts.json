@@ -4896,6 +4896,31 @@
             "role_id": 38174107413514373,
             "server_region": "ws-america-01"
         },
+        "38174107413514388": {
+            "crew_history": [
+                "BR Battle Storm"
+            ],
+            "crew_id": 622779146022,
+            "crew_name": "BR Battle Storm",
+            "equipping_title": "Uni00's Apprentice,0",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 90619.2265625,
+                "y": -193216.140625,
+                "z": -4131.17529296875
+            },
+            "last_seen": "Mar 4, 2026, 7:56:46 PM",
+            "level": 74,
+            "name": "zSerenz",
+            "name_history": [
+                "zSerenz"
+            ],
+            "registered": "Nov 25, 2025, 4:42:41 AM",
+            "role_id": 38174107413514388,
+            "server_region": "ws-america-01"
+        },
         "38174107413514394": {
             "crew_id": 0,
             "crew_name": "",
@@ -7620,14 +7645,14 @@
             "crew_name": "SHOOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 3952000.0,
+            "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 96032.5078125,
-                "y": -181594.203125,
-                "z": -7531.6396484375
+                "x": 89906.4453125,
+                "y": -192530.828125,
+                "z": -4209.009765625
             },
-            "last_seen": "Mar 3, 2026, 8:36:41 PM",
+            "last_seen": "Mar 4, 2026, 7:56:46 PM",
             "level": 77,
             "name": "elkami",
             "name_history": [
@@ -34128,7 +34153,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1823,
-    "last_updated": "Mar 4, 2026, 7:55:46 PM",
+    "accounts_total": 1824,
+    "last_updated": "Mar 4, 2026, 7:56:46 PM",
     "server_region": "ws-america-01"
 }
