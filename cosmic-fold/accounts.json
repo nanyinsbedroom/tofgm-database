@@ -12811,15 +12811,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695857241": {
-            "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1429130.375,
-            "last_seen": "2026年2月9日 下午8:40:03",
-            "level": 82,
-            "name": "诀别诗",
+            "hp": 1557508.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35924.3203125,
+                "y": 2198.800048828125,
+                "z": -13792.259765625
+            },
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 84,
+            "name": "万千芒·一瞬逝",
             "name_history": [
+                "万千芒·一瞬逝",
                 "诀别诗"
             ],
             "registered": "2025年9月25日 下午7:43:46",
@@ -30559,13 +30569,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695873077": {
+            "crew_history": [
+                "快乐老家"
+            ],
             "crew_id": 304942692820,
             "crew_name": "快乐老家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 332545.0625,
-            "last_seen": "2026年2月10日 下午10:32:10",
-            "level": 80,
+            "hp": 341455.4375,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42331.8984375,
+                "y": 1590.0999755859375,
+                "z": -13482.029296875
+            },
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 84,
             "name": "勇敢牛马",
             "name_history": [
                 "勇敢牛马"
@@ -33778,6 +33797,31 @@
             "name": "大鸣欧皇",
             "registered": "2025年9月27日 下午7:32:56",
             "role_id": 63582695879861,
+            "server_region": "cosmic-fold"
+        },
+        "63582695880012": {
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "1_6_2_1",
+            "gender": 0,
+            "hp": 821472.0,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -35818.55078125,
+                "y": 2284.699951171875,
+                "z": -13794.94921875
+            },
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 80,
+            "name": "岛风",
+            "name_history": [
+                "岛风"
+            ],
+            "registered": "2025年9月27日 下午7:54:17",
+            "role_id": 63582695880012,
             "server_region": "cosmic-fold"
         },
         "63582695880063": {
@@ -51532,14 +51576,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_19",
             "gender": 1,
-            "hp": 1843701.125,
+            "hp": 1849138.375,
             "last_known_position": {
                 "map": "norn_city",
-                "x": -35679.390625,
-                "y": 1875.0599365234375,
-                "z": -13810.2998046875
+                "x": -35962.2890625,
+                "y": 2160.989990234375,
+                "z": -13805.849609375
             },
-            "last_seen": "2026年3月2日 上午6:25:38",
+            "last_seen": "2026年3月5日 下午6:51:18",
             "level": 85,
             "name": "梅普露",
             "name_history": [
@@ -54571,6 +54615,31 @@
             ],
             "registered": "2025年10月26日 下午2:36:28",
             "role_id": 63582695943622,
+            "server_region": "cosmic-fold"
+        },
+        "63582695943624": {
+            "crew_history": [
+                "快乐老家"
+            ],
+            "crew_id": 304942692820,
+            "crew_name": "快乐老家",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 113972.203125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -42425.0,
+                "y": 2075.0,
+                "z": -13480.529296875
+            },
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 83,
+            "name": "1dadadwdw",
+            "name_history": [
+                "1dadadwdw"
+            ],
+            "registered": "2025年10月26日 下午2:36:28",
+            "role_id": 63582695943624,
             "server_region": "cosmic-fold"
         },
         "63582695943708": {
@@ -68663,6 +68732,31 @@
             "role_id": 63582695999265,
             "server_region": "cosmic-fold"
         },
+        "63582695999277": {
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;93",
+            "gender": 1,
+            "hp": 722515.3125,
+            "last_known_position": {
+                "map": "norn_city",
+                "x": -36013.16796875,
+                "y": 2087.159912109375,
+                "z": -13805.689453125
+            },
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 84,
+            "name": "三三三1",
+            "name_history": [
+                "三三三1"
+            ],
+            "registered": "2026年1月31日 上午4:00:34",
+            "role_id": 63582695999277,
+            "server_region": "cosmic-fold"
+        },
         "63582695999328": {
             "crew_id": 0,
             "crew_name": "",
@@ -71013,15 +71107,15 @@
             "crew_name": "音乐蛋糕坊",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 590890.8125,
+            "hp": 731503.8125,
             "last_known_position": {
-                "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97874.1171875
+                "map": "norn_city",
+                "x": -35964.48828125,
+                "y": 2173.58984375,
+                "z": -13799.849609375
             },
-            "last_seen": "2026年2月28日 下午10:51:57",
-            "level": 73,
+            "last_seen": "2026年3月5日 下午6:51:18",
+            "level": 81,
             "name": "黄金词条",
             "name_history": [
                 "黄金词条"
@@ -82136,7 +82230,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5443,
-    "last_updated": "2026年3月5日 下午6:50:18",
+    "accounts_total": 5446,
+    "last_updated": "2026年3月5日 下午6:51:18",
     "server_region": "cosmic-fold"
 }
