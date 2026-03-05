@@ -1674,14 +1674,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1426089.0,
+            "hp": 1371239.5,
             "last_known_position": {
-                "map": "Vera_P",
-                "x": -7346.97998046875,
-                "y": 41587.6171875,
-                "z": 6316.390625
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月4日 下午10:52:37",
+            "last_seen": "2026年3月5日 下午7:13:18",
             "level": 85,
             "name": "Sussy",
             "name_history": [
@@ -42180,14 +42180,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695907743": {
+            "crew_history": [
+                "白月破晓"
+            ],
             "crew_id": 433791711700,
             "crew_name": "白月破晓",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 580342.625,
-            "last_seen": "2025年10月27日 下午 2:09:15",
-            "level": 65,
+            "hp": 1322469.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1723.6400146484375,
+                "y": -28716.599609375,
+                "z": 97872.3671875
+            },
+            "last_seen": "2026年3月5日 下午7:13:18",
+            "level": 83,
             "name": "Raybow",
+            "name_history": [
+                "Raybow"
+            ],
             "registered": "2025年10月4日 下午10:26:10",
             "role_id": 63582695907743,
             "server_region": "cosmic-fold"
@@ -82591,6 +82603,6 @@
         }
     },
     "accounts_total": 5460,
-    "last_updated": "2026年3月5日 下午7:11:18",
+    "last_updated": "2026年3月5日 下午7:13:18",
     "server_region": "cosmic-fold"
 }
