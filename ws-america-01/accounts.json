@@ -4922,13 +4922,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514394": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Wuthering Waves"
+            ],
+            "crew_id": 3178284687142,
+            "crew_name": "Wuthering Waves",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 46080.0,
-            "last_seen": "Jan 30, 2026, 03:03:10 PM",
-            "level": 45,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105344.0,
+                "y": -184845.0,
+                "z": -5694.72314453125
+            },
+            "last_seen": "Mar 4, 2026, 8:00:46 PM",
+            "level": 58,
             "name": "BeefKebab",
             "name_history": [
                 "BeefKebab"
@@ -34154,6 +34163,6 @@
         }
     },
     "accounts_total": 1824,
-    "last_updated": "Mar 4, 2026, 7:58:46 PM",
+    "last_updated": "Mar 4, 2026, 8:00:46 PM",
     "server_region": "ws-america-01"
 }
