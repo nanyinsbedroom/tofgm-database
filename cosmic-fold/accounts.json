@@ -41382,13 +41382,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695905921": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 2600000.0,
-            "last_seen": "2026年2月8日 下午8:34:27",
-            "level": 82,
+            "hp": 1704207.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -64566.1796875,
+                "y": 101261.296875,
+                "z": -4995.06982421875
+            },
+            "last_seen": "2026年3月5日 下午6:35:17",
+            "level": 85,
             "name": "信仰即可得救",
             "name_history": [
                 "信仰即可得救"
@@ -81918,9 +81927,32 @@
             "registered": "2026年3月5日 下午5:57:11",
             "role_id": 63582696015295,
             "server_region": "cosmic-fold"
+        },
+        "63582696015297": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91686.140625,
+                "y": 75575.4140625,
+                "z": -7048.5478515625
+            },
+            "last_seen": "2026年3月5日 下午6:35:17",
+            "level": 4,
+            "name": "左人间",
+            "name_history": [
+                "左人间"
+            ],
+            "registered": "2026年3月5日 下午6:03:51",
+            "role_id": 63582696015297,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5434,
-    "last_updated": "2026年3月5日 下午6:34:17",
+    "accounts_total": 5435,
+    "last_updated": "2026年3月5日 下午6:35:17",
     "server_region": "cosmic-fold"
 }
