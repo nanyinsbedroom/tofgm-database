@@ -74035,15 +74035,15 @@
             "crew_name": "塔学之家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 91486.0,
+            "hp": 139351.59375,
             "last_known_position": {
                 "map": "city",
-                "x": 2374.739990234375,
-                "y": -27006.62890625,
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月21日 上午12:25:15",
-            "level": 67,
+            "last_seen": "2026年3月5日 下午6:59:18",
+            "level": 72,
             "name": "月有盈缺",
             "name_history": [
                 "月有盈缺"
@@ -76544,6 +76544,31 @@
             ],
             "registered": "2026年2月24日 下午6:45:06",
             "role_id": 63582696009188,
+            "server_region": "cosmic-fold"
+        },
+        "63582696009213": {
+            "crew_history": [
+                "梦言阁"
+            ],
+            "crew_id": 3496103393748,
+            "crew_name": "梦言阁",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 47917.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1348.530029296875,
+                "y": -28003.26953125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月5日 下午6:59:18",
+            "level": 19,
+            "name": "骆灵竹",
+            "name_history": [
+                "骆灵竹"
+            ],
+            "registered": "2026年2月24日 下午7:13:30",
+            "role_id": 63582696009213,
             "server_region": "cosmic-fold"
         },
         "63582696009231": {
@@ -82418,7 +82443,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5453,
-    "last_updated": "2026年3月5日 下午6:58:18",
+    "accounts_total": 5454,
+    "last_updated": "2026年3月5日 下午6:59:18",
     "server_region": "cosmic-fold"
 }
