@@ -9316,15 +9316,15 @@
             "crew_name": "Stray",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 949972.5625,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 84582.15625,
-                "y": -188062.703125,
-                "z": -4279.31005859375
+                "map": "QRSL_P",
+                "x": -80876.1796875,
+                "y": 75317.7265625,
+                "z": -9940.2294921875
             },
-            "last_seen": "Feb 18, 2026, 10:01:26 PM",
-            "level": 75,
+            "last_seen": "Mar 4, 2026, 7:40:46 PM",
+            "level": 76,
             "name": "Tuba739",
             "name_history": [
                 "Tuba739"
@@ -30227,6 +30227,29 @@
             "role_id": 38174107413582034,
             "server_region": "ws-america-01"
         },
+        "38174107413582036": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 293845.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80975.625,
+                "y": 80692.984375,
+                "z": -9759.7998046875
+            },
+            "last_seen": "Mar 4, 2026, 7:40:46 PM",
+            "level": 67,
+            "name": "Denis_Mad",
+            "name_history": [
+                "Denis_Mad"
+            ],
+            "registered": "Feb 10, 2026, 11:43:07 AM",
+            "role_id": 38174107413582036,
+            "server_region": "ws-america-01"
+        },
         "38174107413582074": {
             "crew_history": [
                 "Stray"
@@ -33743,9 +33766,32 @@
             "registered": "Mar 3, 2026, 8:06:37 PM",
             "role_id": 38174107413584832,
             "server_region": "ws-america-01"
+        },
+        "38174107413584943": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92874.546875,
+                "y": 76474.2890625,
+                "z": -7067.3896484375
+            },
+            "last_seen": "Mar 4, 2026, 7:40:46 PM",
+            "level": 4,
+            "name": "AgentOrange",
+            "name_history": [
+                "AgentOrange"
+            ],
+            "registered": "Mar 4, 2026, 5:06:48 PM",
+            "role_id": 38174107413584943,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1807,
-    "last_updated": "Mar 3, 2026, 9:05:43 PM",
+    "accounts_total": 1809,
+    "last_updated": "Mar 4, 2026, 7:40:46 PM",
     "server_region": "ws-america-01"
 }
