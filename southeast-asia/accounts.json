@@ -15190,11 +15190,26 @@
             "server_region": "southeast-asia"
         },
         "68775311679839": {
+            "crew_history": [
+                "SHUTINS"
+            ],
             "crew_id": 4544075415181,
             "crew_name": "SHUTINS",
+            "equipping_title": "3_2024",
             "gender": 1,
-            "last_seen": "Aug 09, 2025, 11:49:52 PM",
+            "hp": 6016261.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 96436.5859375,
+                "y": -150378.984375,
+                "z": -2295.75146484375
+            },
+            "last_seen": "Mar 5, 2026, 10:53:30 PM",
+            "level": 100,
             "name": "Alyssa-00",
+            "name_history": [
+                "Alyssa-00"
+            ],
             "registered": "Jun 25, 2024, 1:37:49 AM",
             "role_id": 68775311679839,
             "server_region": "southeast-asia"
@@ -31113,6 +31128,6 @@
         }
     },
     "accounts_total": 2089,
-    "last_updated": "Mar 5, 2026, 10:49:30 PM",
+    "last_updated": "Mar 5, 2026, 10:53:30 PM",
     "server_region": "southeast-asia"
 }
