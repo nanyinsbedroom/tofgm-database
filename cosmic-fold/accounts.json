@@ -24839,11 +24839,11 @@
             "hp": 1680973.875,
             "last_known_position": {
                 "map": "city",
-                "x": -1977.0198974609375,
-                "y": -22845.228515625,
-                "z": 96780.734375
+                "x": 712.9199829101563,
+                "y": -28416.3203125,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月3日 下午11:15:49",
+            "last_seen": "2026年3月5日 下午7:00:18",
             "level": 85,
             "name": "SEAS",
             "name_history": [
@@ -53294,14 +53294,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1569212.5,
+            "hp": 1573916.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1094.1199951171875,
-                "y": -29170.33984375,
-                "z": 98605.65625
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月4日 下午1:38:13",
+            "last_seen": "2026年3月5日 下午7:00:18",
             "level": 85,
             "name": "芙圻",
             "name_history": [
@@ -56395,6 +56395,31 @@
             ],
             "registered": "2025年11月5日 上午9:40:05",
             "role_id": 63582695952873,
+            "server_region": "cosmic-fold"
+        },
+        "63582695953144": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1032915.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1065.510009765625,
+                "y": -28442.138671875,
+                "z": 97861.1171875
+            },
+            "last_seen": "2026年3月5日 下午7:00:18",
+            "level": 83,
+            "name": "二次分身",
+            "name_history": [
+                "二次分身"
+            ],
+            "registered": "2025年11月5日 下午9:04:50",
+            "role_id": 63582695953144,
             "server_region": "cosmic-fold"
         },
         "63582695953237": {
@@ -80598,6 +80623,29 @@
             "role_id": 63582696014388,
             "server_region": "cosmic-fold"
         },
+        "63582696014394": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 51551.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3048.699951171875,
+                "y": -28257.69921875,
+                "z": 97994.140625
+            },
+            "last_seen": "2026年3月5日 下午7:00:18",
+            "level": 13,
+            "name": "化九",
+            "name_history": [
+                "化九"
+            ],
+            "registered": "2026年3月3日 下午4:18:30",
+            "role_id": 63582696014394,
+            "server_region": "cosmic-fold"
+        },
         "63582696014401": {
             "crew_history": [],
             "crew_id": 0,
@@ -82443,7 +82491,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5454,
-    "last_updated": "2026年3月5日 下午6:59:18",
+    "accounts_total": 5456,
+    "last_updated": "2026年3月5日 下午7:00:18",
     "server_region": "cosmic-fold"
 }
