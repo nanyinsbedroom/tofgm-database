@@ -3538,13 +3538,22 @@
             "server_region": "time-travel"
         },
         "63574105969726": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
             "equipping_title": "1_2023",
             "gender": 1,
-            "hp": 1098996.375,
-            "last_seen": "2026年01月26日 上午 4:47:53",
-            "level": 79,
+            "hp": 1321159.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55812.19921875,
+                "y": -88530.65625,
+                "z": 21720.830078125
+            },
+            "last_seen": "2026年3月5日 下午10:17:06",
+            "level": 84,
             "name": "米卡桑·",
             "name_history": [
                 "米卡桑·"
@@ -20919,6 +20928,6 @@
         }
     },
     "accounts_total": 1069,
-    "last_updated": "2026年3月5日 下午10:15:06",
+    "last_updated": "2026年3月5日 下午10:17:06",
     "server_region": "time-travel"
 }
