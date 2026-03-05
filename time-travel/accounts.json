@@ -4364,15 +4364,15 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_87",
             "gender": 1,
-            "hp": 2659779.25,
+            "hp": 1740418.25,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324369.8125,
-                "y": 201969.296875,
-                "z": -28340.458984375
+                "map": "QRSL_P",
+                "x": -56227.140625,
+                "y": -93635.9296875,
+                "z": 21786.349609375
             },
-            "last_seen": "2026年2月25日 下午6:10:55",
-            "level": 84,
+            "last_seen": "2026年3月5日 下午10:05:05",
+            "level": 85,
             "name": "花蔓",
             "name_history": [
                 "花蔓"
@@ -4751,6 +4751,29 @@
             "name": "雨谣",
             "registered": "2023年12月19日 下午3:36:26",
             "role_id": 63574106024806,
+            "server_region": "time-travel"
+        },
+        "63574106025924": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 322729.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -84940.328125,
+                "y": 73426.203125,
+                "z": -8405.1201171875
+            },
+            "last_seen": "2026年3月5日 下午10:05:05",
+            "level": 77,
+            "name": "逆天丨馨儿",
+            "name_history": [
+                "逆天丨馨儿"
+            ],
+            "registered": "2023年12月19日 下午6:41:20",
+            "role_id": 63574106025924,
             "server_region": "time-travel"
         },
         "63574106026752": {
@@ -6116,6 +6139,31 @@
             "name": "蓝龙使魔冰月月",
             "registered": "2024年1月21日 上午3:08:24",
             "role_id": 63574106191055,
+            "server_region": "time-travel"
+        },
+        "63574106195546": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "2_2_0_12",
+            "gender": 1,
+            "hp": 1189526.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55226.828125,
+                "y": -87050.875,
+                "z": 21710.98046875
+            },
+            "last_seen": "2026年3月5日 下午10:05:05",
+            "level": 84,
+            "name": "糖果藤蔓",
+            "name_history": [
+                "糖果藤蔓"
+            ],
+            "registered": "2024年1月21日 下午8:35:13",
+            "role_id": 63574106195546,
             "server_region": "time-travel"
         },
         "63574106208224": {
@@ -20406,9 +20454,32 @@
             "registered": "2026年3月4日 下午6:54:00",
             "role_id": 63578402005942,
             "server_region": "time-travel"
+        },
+        "63578402006064": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29816.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54395.03515625,
+                "y": -88022.6796875,
+                "z": 21714.98046875
+            },
+            "last_seen": "2026年3月5日 下午10:05:05",
+            "level": 9,
+            "name": "屮木子同",
+            "name_history": [
+                "屮木子同"
+            ],
+            "registered": "2026年3月5日 下午8:11:15",
+            "role_id": 63578402006064,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 1049,
-    "last_updated": "2026年3月4日 下午7:04:01",
+    "accounts_total": 1052,
+    "last_updated": "2026年3月5日 下午10:05:05",
     "server_region": "time-travel"
 }
