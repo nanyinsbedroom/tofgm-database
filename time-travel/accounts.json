@@ -27,13 +27,22 @@
             "server_region": "time-travel"
         },
         "63574105915466": {
+            "crew_history": [
+                "挽梦挽星辰"
+            ],
             "crew_id": 502511188434,
             "crew_name": "挽梦挽星辰",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1347692.5,
-            "last_seen": "2026年02月01日 上午 12:54:33",
-            "level": 81,
+            "hp": 1771119.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54107.6875,
+                "y": -87853.796875,
+                "z": 21829.9296875
+            },
+            "last_seen": "2026年3月5日 下午10:06:05",
+            "level": 85,
             "name": "亦知橘",
             "name_history": [
                 "亦知橘"
@@ -558,6 +567,31 @@
             ],
             "registered": "2023年12月14日 上午10:00:54",
             "role_id": 63574105916900,
+            "server_region": "time-travel"
+        },
+        "63574105916988": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 2920577776082,
+            "crew_name": "魔女之旅",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1811490.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54717.8984375,
+                "y": -87958.6953125,
+                "z": 21717.44921875
+            },
+            "last_seen": "2026年3月5日 下午10:06:05",
+            "level": 85,
+            "name": "未闻喵名",
+            "name_history": [
+                "未闻喵名"
+            ],
+            "registered": "2023年12月14日 上午10:01:00",
+            "role_id": 63574105916988,
             "server_region": "time-travel"
         },
         "63574105917052": {
@@ -3483,6 +3517,31 @@
             "role_id": 63574105970935,
             "server_region": "time-travel"
         },
+        "63574105971151": {
+            "crew_history": [
+                "暖暖六课"
+            ],
+            "crew_id": 1473173797330,
+            "crew_name": "暖暖六课",
+            "equipping_title": "1_2023",
+            "gender": 1,
+            "hp": 1564546.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55855.87890625,
+                "y": -88911.90625,
+                "z": 21710.91015625
+            },
+            "last_seen": "2026年3月5日 下午10:06:05",
+            "level": 85,
+            "name": "仓雨月",
+            "name_history": [
+                "仓雨月"
+            ],
+            "registered": "2023年12月15日 上午8:23:42",
+            "role_id": 63574105971151,
+            "server_region": "time-travel"
+        },
         "63574105971508": {
             "crew_history": [
                 "星奈海"
@@ -4665,11 +4724,11 @@
             "hp": 1644843.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54336.44921875,
-                "y": -87953.78125,
-                "z": 21727.048828125
+                "x": -55063.53515625,
+                "y": -88721.484375,
+                "z": 21740.361328125
             },
-            "last_seen": "2026年3月4日 下午4:28:58",
+            "last_seen": "2026年3月5日 下午10:06:05",
             "level": 85,
             "name": "数荷",
             "name_history": [
@@ -19809,6 +19868,31 @@
             "role_id": 63578402005246,
             "server_region": "time-travel"
         },
+        "63578402005349": {
+            "crew_history": [
+                "星下樱园"
+            ],
+            "crew_id": 5673651812819,
+            "crew_name": "星下樱园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 53502.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59118.09375,
+                "y": -96374.6875,
+                "z": 22600.51953125
+            },
+            "last_seen": "2026年3月5日 下午10:06:05",
+            "level": 17,
+            "name": "十六夜丶",
+            "name_history": [
+                "十六夜丶"
+            ],
+            "registered": "2026年3月1日 下午4:15:59",
+            "role_id": 63578402005349,
+            "server_region": "time-travel"
+        },
         "63578402005444": {
             "crew_history": [],
             "crew_id": 0,
@@ -20479,7 +20563,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1052,
-    "last_updated": "2026年3月5日 下午10:05:05",
+    "accounts_total": 1055,
+    "last_updated": "2026年3月5日 下午10:06:05",
     "server_region": "time-travel"
 }
