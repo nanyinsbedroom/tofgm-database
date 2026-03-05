@@ -27148,14 +27148,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_7_0_17",
             "gender": 1,
-            "hp": 1609471.875,
+            "hp": 1644684.75,
             "last_known_position": {
                 "map": "city",
-                "x": 892.949951171875,
-                "y": -25874.228515625,
-                "z": 96713.4453125
+                "x": 1365.4599609375,
+                "y": -28397.388671875,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年2月28日 下午10:07:03",
+            "last_seen": "2026年3月5日 下午7:18:19",
             "level": 85,
             "name": "攸冉",
             "name_history": [
@@ -66202,6 +66202,29 @@
             "role_id": 63582695992640,
             "server_region": "cosmic-fold"
         },
+        "63582695992703": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 175675.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 253.0399932861328,
+                "y": -21058.779296875,
+                "z": 96750.859375
+            },
+            "last_seen": "2026年3月5日 下午7:18:19",
+            "level": 68,
+            "name": "Loisea_",
+            "name_history": [
+                "Loisea_"
+            ],
+            "registered": "2026年1月20日 下午6:57:19",
+            "role_id": 63582695992703,
+            "server_region": "cosmic-fold"
+        },
         "63582695992722": {
             "crew_id": 0,
             "crew_name": "",
@@ -82732,7 +82755,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5465,
-    "last_updated": "2026年3月5日 下午7:15:19",
+    "accounts_total": 5466,
+    "last_updated": "2026年3月5日 下午7:18:19",
     "server_region": "cosmic-fold"
 }
