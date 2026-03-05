@@ -15551,15 +15551,15 @@
             "crew_name": "Asylum",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 748271.8125,
+            "hp": 644618.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -72230.5390625,
-                "y": 49191.66796875,
-                "z": -12310.1796875
+                "x": -71770.0078125,
+                "y": 50028.70703125,
+                "z": -12328.0
             },
-            "last_seen": "Feb 19, 2026, 9:21:32 PM",
-            "level": 74,
+            "last_seen": "Mar 5, 2026, 6:56:48 PM",
+            "level": 76,
             "name": "OrigamiTobiichi",
             "name_history": [
                 "OrigamiTobiichi"
@@ -15772,13 +15772,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708508489": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "Heiliger's Apprentice,0",
             "gender": 0,
-            "hp": 51987.0,
-            "last_seen": "Feb 8, 2026, 9:52:58 PM",
-            "level": 15,
+            "hp": 606999.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -75738.375,
+                "y": 57919.7578125,
+                "z": -10028.91015625
+            },
+            "last_seen": "Mar 5, 2026, 6:56:48 PM",
+            "level": 75,
             "name": "HelixStorm",
             "name_history": [
                 "HelixStorm"
@@ -22649,15 +22658,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 333640.8125,
+            "hp": 428208.21875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -71465.5,
-                "y": 69317.1015625,
-                "z": -9841.779296875
+                "x": -76091.390625,
+                "y": 58044.328125,
+                "z": -9893.3798828125
             },
-            "last_seen": "Feb 27, 2026, 11:48:55 PM",
-            "level": 71,
+            "last_seen": "Mar 5, 2026, 6:56:48 PM",
+            "level": 72,
             "name": "HelixStorm3",
             "name_history": [
                 "HelixStorm3"
@@ -23199,6 +23208,29 @@
             "role_id": 38174111708527186,
             "server_region": "ws-europe-01"
         },
+        "38174111708527187": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 69425.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -66176.375,
+                "y": 64685.828125,
+                "z": -9806.83984375
+            },
+            "last_seen": "Mar 5, 2026, 6:56:48 PM",
+            "level": 20,
+            "name": "NEHA1I",
+            "name_history": [
+                "NEHA1I"
+            ],
+            "registered": "Mar 4, 2026, 8:14:57 PM",
+            "role_id": 38174111708527187,
+            "server_region": "ws-europe-01"
+        },
         "38174111708527190": {
             "crew_history": [],
             "crew_id": 0,
@@ -23292,7 +23324,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1263,
-    "last_updated": "Mar 5, 2026, 6:55:48 PM",
+    "accounts_total": 1264,
+    "last_updated": "Mar 5, 2026, 6:56:48 PM",
     "server_region": "ws-europe-01"
 }
