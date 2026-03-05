@@ -75140,15 +75140,15 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 83905.0,
+            "hp": 119571.40625,
             "last_known_position": {
                 "map": "city",
-                "x": 2292.179931640625,
-                "y": -27091.830078125,
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
                 "z": 97879.1171875
             },
-            "last_seen": "2026年2月20日 下午11:48:13",
-            "level": 53,
+            "last_seen": "2026年3月5日 下午7:09:18",
+            "level": 67,
             "name": "小水二号",
             "name_history": [
                 "小水二号"
@@ -81228,6 +81228,29 @@
             "role_id": 63582696014820,
             "server_region": "cosmic-fold"
         },
+        "63582696014821": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 33044.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -52.41999816894531,
+                "y": -21972.900390625,
+                "z": 96748.875
+            },
+            "last_seen": "2026年3月5日 下午7:09:18",
+            "level": 10,
+            "name": "在竹声中不上班",
+            "name_history": [
+                "在竹声中不上班"
+            ],
+            "registered": "2026年3月4日 下午12:07:15",
+            "role_id": 63582696014821,
+            "server_region": "cosmic-fold"
+        },
         "63582696014827": {
             "crew_history": [],
             "crew_id": 0,
@@ -82542,7 +82565,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5458,
-    "last_updated": "2026年3月5日 下午7:08:18",
+    "accounts_total": 5459,
+    "last_updated": "2026年3月5日 下午7:09:18",
     "server_region": "cosmic-fold"
 }
