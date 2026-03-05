@@ -9310,12 +9310,21 @@
             "server_region": "ark-calculus"
         },
         "62350040245987": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 1297080137893,
             "crew_name": "七宫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2072250.125,
-            "last_seen": "2025年11月25日 上午 1:00:26",
+            "hp": 2658097.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54981.140625,
+                "y": -87177.3203125,
+                "z": 21724.96875
+            },
+            "last_seen": "2026年3月5日 下午8:21:23",
             "level": 100,
             "name": "手巧的皇后宝宝",
             "name_history": [
@@ -23437,6 +23446,6 @@
         }
     },
     "accounts_total": 1092,
-    "last_updated": "2026年3月5日 下午8:18:23",
+    "last_updated": "2026年3月5日 下午8:21:23",
     "server_region": "ark-calculus"
 }
