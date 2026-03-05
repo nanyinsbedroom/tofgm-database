@@ -6134,13 +6134,22 @@
             "server_region": "southeast-asia"
         },
         "68740951742334": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 238727.75,
-            "last_seen": [],
-            "level": 96,
+            "hp": 238944.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 599.0999755859375,
+                "y": -23778.298828125,
+                "z": 97892.859375
+            },
+            "last_seen": "Mar 5, 2026, 8:41:12 PM",
+            "level": 97,
             "name": "amoeeba",
             "name_history": [
                 "amoeeba"
@@ -31056,6 +31065,6 @@
         }
     },
     "accounts_total": 2087,
-    "last_updated": "Mar 5, 2026, 8:38:12 PM",
+    "last_updated": "Mar 5, 2026, 8:41:12 PM",
     "server_region": "southeast-asia"
 }
