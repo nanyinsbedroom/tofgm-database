@@ -5123,6 +5123,31 @@
             "role_id": 38174111708481899,
             "server_region": "ws-europe-01"
         },
+        "38174111708481906": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "2_8_0_7",
+            "gender": 0,
+            "hp": 2600000.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 106711.53125,
+                "y": -184302.609375,
+                "z": -5428.4296875
+            },
+            "last_seen": "Mar 5, 2026, 7:04:48 PM",
+            "level": 77,
+            "name": "inSaneBrain",
+            "name_history": [
+                "inSaneBrain"
+            ],
+            "registered": "Nov 25, 2025, 11:33:57 AM",
+            "role_id": 38174111708481906,
+            "server_region": "ws-europe-01"
+        },
         "38174111708481909": {
             "crew_id": 0,
             "crew_name": "",
@@ -14109,13 +14134,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708497580": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "1_1_22_1",
             "gender": 1,
             "hp": 2600000.0,
-            "last_seen": "Feb 8, 2026, 7:27:36 PM",
-            "level": 74,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 101771.40625,
+                "y": -184394.640625,
+                "z": -7957.759765625
+            },
+            "last_seen": "Mar 5, 2026, 7:04:48 PM",
+            "level": 77,
             "name": "Namie",
             "name_history": [
                 "Namie"
@@ -17414,20 +17448,21 @@
         },
         "38174111708517195": {
             "crew_history": [
+                "Asylum",
                 "Rebirth"
             ],
-            "crew_id": 171807579943,
-            "crew_name": "Rebirth",
-            "equipping_title": "None",
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "2_7_0_15",
             "gender": 0,
-            "hp": 1120319.875,
+            "hp": 3224000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 909.7747192382813,
-                "y": -27897.765625,
-                "z": 97888.1796875
+                "map": "Kailo_P_003",
+                "x": 92385.609375,
+                "y": -187945.53125,
+                "z": -7220.330078125
             },
-            "last_seen": "Feb 24, 2026, 10:58:15 PM",
+            "last_seen": "Mar 5, 2026, 7:04:48 PM",
             "level": 77,
             "name": "Deathshot",
             "name_history": [
@@ -23525,7 +23560,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1271,
-    "last_updated": "Mar 5, 2026, 7:02:48 PM",
+    "accounts_total": 1272,
+    "last_updated": "Mar 5, 2026, 7:04:48 PM",
     "server_region": "ws-europe-01"
 }
