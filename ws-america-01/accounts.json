@@ -8216,14 +8216,14 @@
             "crew_name": "Supernova",
             "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 1134854.25,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -68700.4453125,
-                "y": 51533.33984375,
-                "z": -9817.7001953125
+                "map": "Kailo_P_003",
+                "x": 131520.671875,
+                "y": -202838.453125,
+                "z": 3677.010009765625
             },
-            "last_seen": "Feb 28, 2026, 5:27:44 PM",
+            "last_seen": "Mar 4, 2026, 7:54:46 PM",
             "level": 77,
             "name": "Joey_V",
             "name_history": [
@@ -10631,16 +10631,16 @@
             ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "2_8_0_3",
+            "equipping_title": "2_8_0_9",
             "gender": 1,
-            "hp": 988839.5625,
+            "hp": 2600000.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97879.6171875
+                "map": "Kailo_P_003",
+                "x": 97935.84375,
+                "y": -189638.171875,
+                "z": -7916.9794921875
             },
-            "last_seen": "Feb 28, 2026, 5:40:44 PM",
+            "last_seen": "Mar 4, 2026, 7:54:46 PM",
             "level": 77,
             "name": "Restrex",
             "name_history": [
@@ -17418,11 +17418,11 @@
             "hp": 2600000.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 92545.1953125,
-                "y": -181690.234375,
-                "z": -7698.58984375
+                "x": 100264.1875,
+                "y": -180721.65625,
+                "z": -7491.52001953125
             },
-            "last_seen": "Mar 3, 2026, 8:44:42 PM",
+            "last_seen": "Mar 4, 2026, 7:54:46 PM",
             "level": 77,
             "name": "Ekaaksha-w",
             "name_history": [
@@ -33938,6 +33938,29 @@
             "role_id": 38174107413584851,
             "server_region": "ws-america-01"
         },
+        "38174107413584884": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 60193.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -205.2534637451172,
+                "y": -22995.533203125,
+                "z": 96710.6875
+            },
+            "last_seen": "Mar 4, 2026, 7:54:46 PM",
+            "level": 24,
+            "name": "davicx",
+            "name_history": [
+                "davicx"
+            ],
+            "registered": "Mar 4, 2026, 8:21:55 AM",
+            "role_id": 38174107413584884,
+            "server_region": "ws-america-01"
+        },
         "38174107413584905": {
             "crew_history": [],
             "crew_id": 0,
@@ -34079,7 +34102,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1821,
-    "last_updated": "Mar 4, 2026, 7:53:46 PM",
+    "accounts_total": 1822,
+    "last_updated": "Mar 4, 2026, 7:54:46 PM",
     "server_region": "ws-america-01"
 }
