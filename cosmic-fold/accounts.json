@@ -35837,13 +35837,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695885340": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_10_1_9_1_1",
             "gender": 0,
-            "hp": 1476158.875,
-            "last_seen": "2026年2月9日 下午8:01:25",
-            "level": 82,
+            "hp": 1675793.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 518.0899658203125,
+                "y": -28566.849609375,
+                "z": 97880.1171875
+            },
+            "last_seen": "2026年3月5日 下午7:14:19",
+            "level": 85,
             "name": "溟",
             "name_history": [
                 "溟"
@@ -60099,6 +60108,31 @@
             "role_id": 63582695964766,
             "server_region": "cosmic-fold"
         },
+        "63582695964815": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "2_10_1_11_1_1",
+            "gender": 1,
+            "hp": 1430065.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 173.6999969482422,
+                "y": -28264.599609375,
+                "z": 97872.6171875
+            },
+            "last_seen": "2026年3月5日 下午7:14:19",
+            "level": 85,
+            "name": "斯逆蝶",
+            "name_history": [
+                "斯逆蝶"
+            ],
+            "registered": "2025年11月23日 上午6:36:54",
+            "role_id": 63582695964815,
+            "server_region": "cosmic-fold"
+        },
         "63582695965076": {
             "crew_id": 0,
             "crew_name": "",
@@ -72797,6 +72831,29 @@
             "role_id": 63582696004578,
             "server_region": "cosmic-fold"
         },
+        "63582696004583": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 32618.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -13.5,
+                "y": -22040.298828125,
+                "z": 96751.359375
+            },
+            "last_seen": "2026年3月5日 下午7:14:19",
+            "level": 11,
+            "name": "大天",
+            "name_history": [
+                "大天"
+            ],
+            "registered": "2026年2月7日 下午3:47:40",
+            "role_id": 63582696004583,
+            "server_region": "cosmic-fold"
+        },
         "63582696004593": {
             "crew_id": 0,
             "crew_name": "",
@@ -74257,6 +74314,29 @@
             ],
             "registered": "2026年2月13日 下午10:06:47",
             "role_id": 63582696007662,
+            "server_region": "cosmic-fold"
+        },
+        "63582696007677": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 170141.40625,
+            "last_known_position": {
+                "map": "city",
+                "x": -1507.632080078125,
+                "y": -26303.49609375,
+                "z": 96966.375
+            },
+            "last_seen": "2026年3月5日 下午7:14:19",
+            "level": 65,
+            "name": "达芙蒂尔",
+            "name_history": [
+                "达芙蒂尔"
+            ],
+            "registered": "2026年2月13日 下午11:47:11",
+            "role_id": 63582696007677,
             "server_region": "cosmic-fold"
         },
         "63582696007680": {
@@ -82602,7 +82682,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5460,
-    "last_updated": "2026年3月5日 下午7:13:18",
+    "accounts_total": 5463,
+    "last_updated": "2026年3月5日 下午7:14:19",
     "server_region": "cosmic-fold"
 }
