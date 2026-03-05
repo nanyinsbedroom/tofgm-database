@@ -9448,13 +9448,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708485885": {
+            "crew_history": [
+                "Asylum"
+            ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
             "equipping_title": "Outlaw's Successor,1",
             "gender": 1,
-            "hp": 953461.9375,
-            "last_seen": "Feb 7, 2026, 8:22:03 PM",
-            "level": 74,
+            "hp": 1101985.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80093.3984375,
+                "y": 59762.296875,
+                "z": -8146.2900390625
+            },
+            "last_seen": "Mar 5, 2026, 6:53:47 PM",
+            "level": 77,
             "name": "Eryka",
             "name_history": [
                 "Eryka"
@@ -23165,6 +23174,6 @@
         }
     },
     "accounts_total": 1258,
-    "last_updated": "Mar 5, 2026, 6:52:47 PM",
+    "last_updated": "Mar 5, 2026, 6:53:47 PM",
     "server_region": "ws-europe-01"
 }
