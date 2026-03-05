@@ -13053,11 +13053,26 @@
             "server_region": "europe"
         },
         "55963424648215": {
-            "crew_id": 133143999181,
-            "crew_name": "New Era",
+            "crew_history": [
+                "Strohhut-Bande"
+            ],
+            "crew_id": 5626407170767,
+            "crew_name": "Strohhut-Bande",
+            "equipping_title": "Title_Overseas_11",
             "gender": 1,
-            "last_seen": "Sep 07, 2025, 03:06:18 AM",
+            "hp": 1074196.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90301.296875,
+                "y": 86250.546875,
+                "z": -6345.9697265625
+            },
+            "last_seen": "Mar 5, 2026, 9:04:57 PM",
+            "level": 95,
             "name": "Dodikk228",
+            "name_history": [
+                "Dodikk228"
+            ],
             "registered": "Dec 21, 2024, 11:22:13 AM",
             "role_id": 55963424648215,
             "server_region": "europe"
@@ -22762,6 +22777,6 @@
         }
     },
     "accounts_total": 1469,
-    "last_updated": "Mar 5, 2026, 9:03:57 PM",
+    "last_updated": "Mar 5, 2026, 9:04:57 PM",
     "server_region": "europe"
 }
