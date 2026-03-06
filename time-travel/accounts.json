@@ -13553,14 +13553,26 @@
             "server_region": "time-travel"
         },
         "63578401941492": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 2920577776082,
             "crew_name": "魔女之旅",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "2_2_0_73",
             "gender": 0,
-            "hp": 489711.0625,
-            "last_seen": "2025年10月17日 下午 1:53:55",
-            "level": 60,
+            "hp": 1437868.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53673.171875,
+                "y": -88162.859375,
+                "z": 21769.9453125
+            },
+            "last_seen": "2026年3月6日 下午8:18:16",
+            "level": 85,
             "name": "陸辰",
+            "name_history": [
+                "陸辰"
+            ],
             "registered": "2025年8月20日 下午4:47:23",
             "role_id": 63578401941492,
             "server_region": "time-travel"
@@ -20918,15 +20930,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 80019.40625,
+            "hp": 128540.8046875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -87383.53125,
-                "y": 63775.78125,
-                "z": -7529.650390625
+                "x": -54664.609375,
+                "y": -88017.078125,
+                "z": 21717.548828125
             },
-            "last_seen": "2026年3月2日 下午6:38:15",
-            "level": 27,
+            "last_seen": "2026年3月6日 下午8:18:16",
+            "level": 47,
             "name": "LvXIANSen",
             "name_history": [
                 "LvXIANSen"
@@ -21608,6 +21620,6 @@
         }
     },
     "accounts_total": 1096,
-    "last_updated": "2026年3月6日 下午8:15:16",
+    "last_updated": "2026年3月6日 下午8:18:16",
     "server_region": "time-travel"
 }
