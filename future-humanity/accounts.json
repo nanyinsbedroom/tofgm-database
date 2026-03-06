@@ -17412,6 +17412,31 @@
             "role_id": 60563336003268,
             "server_region": "future-humanity"
         },
+        "60563336003338": {
+            "crew_history": [
+                "坐忘道"
+            ],
+            "crew_id": 17519171614485,
+            "crew_name": "坐忘道",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 536063.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54230.859375,
+                "y": -87790.0859375,
+                "z": 21719.048828125
+            },
+            "last_seen": "2026年3月6日 下午6:12:10",
+            "level": 45,
+            "name": "人如蛊",
+            "name_history": [
+                "人如蛊"
+            ],
+            "registered": "2026年2月19日 下午8:57:55",
+            "role_id": 60563336003338,
+            "server_region": "future-humanity"
+        },
         "60563336003361": {
             "crew_history": [
                 "神待少女"
@@ -22224,11 +22249,26 @@
             "server_region": "future-humanity"
         },
         "61869003920929": {
+            "crew_history": [
+                "烧鸡"
+            ],
             "crew_id": 674309879573,
             "crew_name": "烧鸡",
+            "equipping_title": "2_2_0_28",
             "gender": 1,
-            "last_seen": "2025年10月07日 下午 11:19:11",
+            "hp": 2026797.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53847.48828125,
+                "y": -87895.15625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月6日 下午6:12:10",
+            "level": 100,
             "name": "写在风中的信",
+            "name_history": [
+                "写在风中的信"
+            ],
             "registered": "2021年12月16日 下午5:55:13",
             "role_id": 61869003920929,
             "server_region": "future-humanity"
@@ -24044,7 +24084,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1103,
-    "last_updated": "2026年3月6日 下午6:11:10",
+    "accounts_total": 1104,
+    "last_updated": "2026年3月6日 下午6:12:10",
     "server_region": "future-humanity"
 }
