@@ -1,5 +1,5 @@
 {
-    "last_updated": "Mar 6, 2026, 12:35:18 AM",
+    "last_updated": "Mar 6, 2026, 12:42:39 AM",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -915,9 +915,9 @@
             "display_name": "PS America",
             "gender": {
                 "female": 245,
-                "male": 174
+                "male": 175
             },
-            "last_updated": "Mar 1, 2026, 10:51:20 PM",
+            "last_updated": "Mar 6, 2026, 12:42:39 AM",
             "server_information": {
                 "address_type": "Anycast",
                 "ads_category": "IAB19-11",
@@ -1038,7 +1038,7 @@
                 "weather_station_name": "Kansas City",
                 "zip_code": "64106"
             },
-            "total_accounts": 419,
+            "total_accounts": 420,
             "total_crews": 51
         },
         "ps-east-asia": {
@@ -2472,10 +2472,10 @@
             "total_crews": 73
         }
     },
-    "total_accounts": 28316,
+    "total_accounts": 28317,
     "total_crews": 2233,
     "total_genders": {
         "female": 20922,
-        "male": 7394
+        "male": 7395
     }
 }
