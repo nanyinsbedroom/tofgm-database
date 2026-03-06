@@ -5201,14 +5201,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_11",
             "gender": 1,
-            "hp": 1644843.0,
+            "hp": 1369356.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55063.53515625,
-                "y": -88721.484375,
-                "z": 21740.361328125
+                "map": "city",
+                "x": 3319.10986328125,
+                "y": -22860.7890625,
+                "z": 97273.8984375
             },
-            "last_seen": "2026年3月5日 下午10:06:05",
+            "last_seen": "2026年3月6日 下午8:36:18",
             "level": 85,
             "name": "数荷",
             "name_history": [
@@ -5226,6 +5226,31 @@
             "name": "江迎枫",
             "registered": "2023年12月18日 下午4:38:35",
             "role_id": 63574106017715,
+            "server_region": "time-travel"
+        },
+        "63574106017864": {
+            "crew_history": [
+                "七宫"
+            ],
+            "crew_id": 201863477714,
+            "crew_name": "七宫",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1408867.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 4119.02978515625,
+                "y": -23474.228515625,
+                "z": 97273.8984375
+            },
+            "last_seen": "2026年3月6日 下午8:36:18",
+            "level": 85,
+            "name": "艾妮丝菲娅",
+            "name_history": [
+                "艾妮丝菲娅"
+            ],
+            "registered": "2023年12月18日 下午4:59:38",
+            "role_id": 63574106017864,
             "server_region": "time-travel"
         },
         "63574106019578": {
@@ -6149,15 +6174,15 @@
             "crew_name": "Mujica",
             "equipping_title": "苍门空的学徒,0",
             "gender": 1,
-            "hp": 1409934.25,
+            "hp": 1508692.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1701.39990234375,
-                "y": -27973.599609375,
-                "z": 97866.1171875
+                "x": -921.0999755859375,
+                "y": -16258.6201171875,
+                "z": 96343.71875
             },
-            "last_seen": "2026年2月23日 下午7:44:48",
-            "level": 84,
+            "last_seen": "2026年3月6日 下午8:36:18",
+            "level": 85,
             "name": "欢都情樱",
             "name_history": [
                 "欢都情樱"
@@ -22366,7 +22391,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1125,
-    "last_updated": "2026年3月6日 下午8:35:17",
+    "accounts_total": 1126,
+    "last_updated": "2026年3月6日 下午8:36:18",
     "server_region": "time-travel"
 }
