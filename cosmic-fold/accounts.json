@@ -4710,19 +4710,19 @@
             "crew_history": [
                 "天使社"
             ],
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 179432.609375,
+            "hp": 502870.0,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -36399.390625,
-                "y": 1634.919921875,
-                "z": -13802.849609375
+                "map": "city",
+                "x": 1213.5399169921875,
+                "y": -28383.71875,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年2月20日 下午11:27:12",
-            "level": 70,
+            "last_seen": "2026年3月7日 上午12:55:22",
+            "level": 83,
             "name": "妥协的妻子",
             "name_history": [
                 "妥协的妻子"
@@ -9228,11 +9228,11 @@
             "hp": 1582286.5,
             "last_known_position": {
                 "map": "city",
-                "x": -3167.7177734375,
-                "y": -27193.115234375,
-                "z": 96728.6953125
+                "x": 1608.82763671875,
+                "y": -27918.771484375,
+                "z": 97860.859375
             },
-            "last_seen": "2026年3月6日 下午8:21:44",
+            "last_seen": "2026年3月7日 上午12:55:22",
             "level": 85,
             "name": "小雨酱",
             "name_history": [
@@ -33595,15 +33595,15 @@
             "crew_name": "幻塔",
             "equipping_title": "景清l的导师,0",
             "gender": 1,
-            "hp": 1558067.25,
+            "hp": 1628979.375,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -37380.73046875,
-                "y": 9266.259765625,
-                "z": -14006.580078125
+                "map": "city",
+                "x": -2360.89990234375,
+                "y": -25384.30859375,
+                "z": 98637.859375
             },
-            "last_seen": "2026年2月26日 下午11:34:37",
-            "level": 84,
+            "last_seen": "2026年3月7日 上午12:55:22",
+            "level": 85,
             "name": "暖树",
             "name_history": [
                 "暖树"
@@ -70844,15 +70844,15 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 141652.0,
+            "hp": 151600.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -91553.46875,
-                "y": 77411.0859375,
-                "z": -7021.1396484375
+                "map": "city",
+                "x": -3228.36376953125,
+                "y": -27886.48046875,
+                "z": 97666.3125
             },
-            "last_seen": "2026年3月5日 上午1:01:45",
-            "level": 61,
+            "last_seen": "2026年3月7日 上午12:55:22",
+            "level": 62,
             "name": "芙洛伦",
             "name_history": [
                 "芙洛伦"
@@ -77335,6 +77335,29 @@
             ],
             "registered": "2026年2月24日 下午9:24:31",
             "role_id": 63582696009322,
+            "server_region": "cosmic-fold"
+        },
+        "63582696009344": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55229.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 542.2999877929688,
+                "y": -23747.298828125,
+                "z": 97903.859375
+            },
+            "last_seen": "2026年3月7日 上午12:55:22",
+            "level": 19,
+            "name": "第七元素",
+            "name_history": [
+                "第七元素"
+            ],
+            "registered": "2026年2月24日 下午10:05:28",
+            "role_id": 63582696009344,
             "server_region": "cosmic-fold"
         },
         "63582696009348": {
@@ -83975,7 +83998,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5514,
-    "last_updated": "2026年3月6日 下午11:03:57",
+    "accounts_total": 5515,
+    "last_updated": "2026年3月7日 上午12:55:22",
     "server_region": "cosmic-fold"
 }
