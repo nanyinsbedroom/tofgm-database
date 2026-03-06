@@ -22207,17 +22207,17 @@
             ],
             "crew_id": 206167318310,
             "crew_name": "Haneul",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 257140.59375,
+            "hp": 289090.8125,
             "last_known_position": {
-                "map": "city",
-                "x": 1369.969970703125,
-                "y": -28133.66015625,
-                "z": 97880.1171875
+                "map": "QRSL_P",
+                "x": -93607.7265625,
+                "y": 83940.9453125,
+                "z": -7035.0400390625
             },
-            "last_seen": "Mar 1, 2026, 10:06:08 PM",
-            "level": 71,
+            "last_seen": "Mar 6, 2026, 12:33:17 AM",
+            "level": 73,
             "name": "フレア",
             "name_history": [
                 "フレア"
@@ -34151,15 +34151,15 @@
             "crew_name": "Mishi-Raymi",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 194407.109375,
+            "hp": 206617.828125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -71005.9296875,
-                "y": 50490.94140625,
-                "z": -12289.2431640625
+                "x": -72868.875,
+                "y": 49281.875,
+                "z": -12310.017578125
             },
-            "last_seen": "Mar 4, 2026, 7:41:46 PM",
-            "level": 59,
+            "last_seen": "Mar 6, 2026, 12:33:17 AM",
+            "level": 69,
             "name": "Fernir",
             "name_history": [
                 "Fernir"
@@ -34283,6 +34283,29 @@
             "role_id": 38174107413584950,
             "server_region": "ws-america-01"
         },
+        "38174107413584994": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 14112.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77552.171875,
+                "y": 77218.9375,
+                "z": -9862.6845703125
+            },
+            "last_seen": "Mar 6, 2026, 12:33:17 AM",
+            "level": 8,
+            "name": "Flashlocke",
+            "name_history": [
+                "Flashlocke"
+            ],
+            "registered": "Mar 5, 2026, 1:33:58 AM",
+            "role_id": 38174107413584994,
+            "server_region": "ws-america-01"
+        },
         "38174107413585090": {
             "crew_history": [],
             "crew_id": 0,
@@ -34305,9 +34328,32 @@
             "registered": "Mar 5, 2026, 9:35:05 PM",
             "role_id": 38174107413585090,
             "server_region": "ws-america-01"
+        },
+        "38174107413585092": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 66334.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -69847.0,
+                "y": 55103.73046875,
+                "z": -6619.6796875
+            },
+            "last_seen": "Mar 6, 2026, 12:33:17 AM",
+            "level": 13,
+            "name": "Katyh",
+            "name_history": [
+                "Katyh"
+            ],
+            "registered": "Mar 5, 2026, 9:45:27 PM",
+            "role_id": 38174107413585092,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1829,
-    "last_updated": "Mar 6, 2026, 12:32:17 AM",
+    "accounts_total": 1831,
+    "last_updated": "Mar 6, 2026, 12:33:17 AM",
     "server_region": "ws-america-01"
 }
