@@ -11150,14 +11150,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1087740.25,
+            "hp": 1081712.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -99405.765625,
-                "y": 75352.4296875,
-                "z": -4023.760009765625
+                "x": -34507.33984375,
+                "y": 79917.78125,
+                "z": -14196.2197265625
             },
-            "last_seen": "Feb 28, 2026, 7:45:40 PM",
+            "last_seen": "Mar 6, 2026, 12:34:18 AM",
             "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
@@ -32918,6 +32918,29 @@
             "role_id": 38174107413584020,
             "server_region": "ws-america-01"
         },
+        "38174107413584028": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 106465.1328125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -59122.8203125,
+                "y": 104819.515625,
+                "z": -12894.935546875
+            },
+            "last_seen": "Mar 6, 2026, 12:34:18 AM",
+            "level": 38,
+            "name": "urgent-wake03",
+            "name_history": [
+                "urgent-wake03"
+            ],
+            "registered": "Feb 25, 2026, 11:29:05 AM",
+            "role_id": 38174107413584028,
+            "server_region": "ws-america-01"
+        },
         "38174107413584037": {
             "crew_history": [],
             "crew_id": 0,
@@ -34306,6 +34329,29 @@
             "role_id": 38174107413584994,
             "server_region": "ws-america-01"
         },
+        "38174107413585039": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 25299.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -74330.8671875,
+                "y": 92796.1875,
+                "z": -3763.03662109375
+            },
+            "last_seen": "Mar 6, 2026, 12:34:18 AM",
+            "level": 9,
+            "name": "DeathXV",
+            "name_history": [
+                "DeathXV"
+            ],
+            "registered": "Mar 5, 2026, 2:30:25 PM",
+            "role_id": 38174107413585039,
+            "server_region": "ws-america-01"
+        },
         "38174107413585090": {
             "crew_history": [],
             "crew_id": 0,
@@ -34353,7 +34399,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1831,
-    "last_updated": "Mar 6, 2026, 12:33:17 AM",
+    "accounts_total": 1833,
+    "last_updated": "Mar 6, 2026, 12:34:18 AM",
     "server_region": "ws-america-01"
 }
