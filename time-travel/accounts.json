@@ -5793,6 +5793,31 @@
             "role_id": 63574106071709,
             "server_region": "time-travel"
         },
+        "63574106072746": {
+            "crew_history": [
+                "Mujica"
+            ],
+            "crew_id": 2117418891731,
+            "crew_name": "Mujica",
+            "equipping_title": "2_7_0_19",
+            "gender": 1,
+            "hp": 1504439.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55265.5078125,
+                "y": -88487.546875,
+                "z": 21710.939453125
+            },
+            "last_seen": "2026年3月6日 下午8:15:16",
+            "level": 85,
+            "name": "结城友奈是勇者",
+            "name_history": [
+                "结城友奈是勇者"
+            ],
+            "registered": "2023年12月27日 上午11:42:01",
+            "role_id": 63574106072746,
+            "server_region": "time-travel"
+        },
         "63574106077835": {
             "crew_history": [
                 "崩坏"
@@ -15184,13 +15209,22 @@
             "server_region": "time-travel"
         },
         "63578401970325": {
+            "crew_history": [
+                "樱花荘"
+            ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 1327169.625,
-            "last_seen": "2026年02月01日 上午 12:54:33",
-            "level": 81,
+            "hp": 1534677.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55018.23828125,
+                "y": -86704.8203125,
+                "z": 21724.58984375
+            },
+            "last_seen": "2026年3月6日 下午8:15:16",
+            "level": 85,
             "name": "大声笑怎么了",
             "name_history": [
                 "大声笑怎么了"
@@ -21573,7 +21607,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1095,
-    "last_updated": "2026年3月6日 下午8:14:16",
+    "accounts_total": 1096,
+    "last_updated": "2026年3月6日 下午8:15:16",
     "server_region": "time-travel"
 }
