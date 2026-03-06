@@ -8998,12 +8998,21 @@
             "server_region": "southeast-asia"
         },
         "68758131555760": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_5",
             "gender": 1,
-            "hp": 2835447.5,
-            "last_seen": "Jan 02, 2026, 04:09:53 AM",
+            "hp": 2948255.5,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -63307.5546875,
+                "y": -108957.140625,
+                "z": -11792.64453125
+            },
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Kuz",
             "name_history": [
@@ -15174,14 +15183,14 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "2_10_1_1",
             "gender": 0,
-            "hp": 6168665.0,
+            "hp": 2591886.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 91239.734375,
-                "y": -187560.59375,
-                "z": -7465.599609375
+                "map": "Team8P_15_D_II",
+                "x": -60949.94921875,
+                "y": -111670.8828125,
+                "z": -11772.6533203125
             },
-            "last_seen": "Feb 26, 2026, 9:28:19 PM",
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Invisica",
             "name_history": [
@@ -27459,12 +27468,21 @@
             "server_region": "southeast-asia"
         },
         "68788196297016": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2544546.5,
-            "last_seen": "Jan 01, 2026, 11:40:10 PM",
+            "hp": 2570374.75,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -61642.90234375,
+                "y": -110430.1484375,
+                "z": -11772.8896484375
+            },
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Estioo",
             "name_history": [
@@ -27492,14 +27510,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2684964.0,
+            "hp": 2683745.75,
             "last_known_position": {
-                "map": "Team8P_07_D_II",
-                "x": -9136.8193359375,
-                "y": 53472.1484375,
-                "z": -15051.359375
+                "map": "Team8P_15_D_II",
+                "x": -61099.484375,
+                "y": -110846.296875,
+                "z": -11786.3896484375
             },
-            "last_seen": "Feb 26, 2026, 8:43:43 PM",
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Gabrielzzzz",
             "name_history": [
@@ -28207,14 +28225,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_5_0_4",
             "gender": 0,
-            "hp": 3173128.25,
+            "hp": 2385355.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -7119.2900390625,
-                "y": 61530.0,
-                "z": 40606.9609375
+                "map": "Team8P_15_D_II",
+                "x": -61148.56640625,
+                "y": -111646.21875,
+                "z": -11779.6396484375
             },
-            "last_seen": "Feb 23, 2026, 12:32:41 AM",
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Tonarisu",
             "name_history": [
@@ -28634,12 +28652,21 @@
             "server_region": "southeast-asia"
         },
         "68796786195192": {
+            "crew_history": [
+                "IRREGULARS"
+            ],
             "crew_id": 8589950610,
             "crew_name": "IRREGULARS",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 2253015.25,
-            "last_seen": "Nov 16, 2025, 10:01:51 PM",
+            "hp": 2304160.0,
+            "last_known_position": {
+                "map": "Team8P_15_D_II",
+                "x": -61948.95703125,
+                "y": -110116.2265625,
+                "z": -11779.8896484375
+            },
+            "last_seen": "Mar 6, 2026, 8:43:22 PM",
             "level": 100,
             "name": "Ikusaki",
             "name_history": [
@@ -31166,6 +31193,6 @@
         }
     },
     "accounts_total": 2090,
-    "last_updated": "Mar 6, 2026, 8:42:22 PM",
+    "last_updated": "Mar 6, 2026, 8:43:22 PM",
     "server_region": "southeast-asia"
 }
