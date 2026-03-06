@@ -1905,14 +1905,14 @@
             "crew_name": "Horizon",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2019031.25,
+            "hp": 2034452.875,
             "last_known_position": {
                 "map": "city",
-                "x": -18.399999618530273,
-                "y": -20427.798828125,
-                "z": 97850.0546875
+                "x": 105.89999389648438,
+                "y": -20472.900390625,
+                "z": 97838.5
             },
-            "last_seen": "Feb 15, 2026, 12:22:38 AM",
+            "last_seen": "Mar 7, 2026, 12:23:35 AM",
             "level": 100,
             "name": "Zamri ",
             "name_history": [
@@ -6283,16 +6283,16 @@
             ],
             "crew_id": 970662619904,
             "crew_name": "Nazarick",
-            "equipping_title": "2_2_0_70",
+            "equipping_title": "2_2_0_68",
             "gender": 1,
-            "hp": 6003918.0,
+            "hp": 2354595.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 145318.78125,
-                "y": -173560.296875,
-                "z": 60.849998474121094
+                "map": "city",
+                "x": 110.06999969482422,
+                "y": -18482.740234375,
+                "z": 96336.0390625
             },
-            "last_seen": "Feb 16, 2026, 9:44:35 PM",
+            "last_seen": "Mar 7, 2026, 12:23:35 AM",
             "level": 100,
             "name": "Vermiliøn",
             "name_history": [
@@ -19311,14 +19311,26 @@
             "server_region": "asia-pacific"
         },
         "47343427658073": {
-            "crew_id": 575525628667,
-            "crew_name": "女神の祝福",
-            "equipping_title": "2_10_3_1",
+            "crew_history": [
+                "COLORS"
+            ],
+            "crew_id": 3324304698115,
+            "crew_name": "COLORS",
+            "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 1561999.75,
-            "last_seen": "Oct 29, 2025, 01:54:42 AM",
+            "hp": 1610970.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1027.739990234375,
+                "y": -17067.01953125,
+                "z": 96350.28125
+            },
+            "last_seen": "Mar 7, 2026, 12:23:35 AM",
             "level": 100,
             "name": "アキナ･権ｷｭ･ｱﾘｱ",
+            "name_history": [
+                "アキナ･権ｷｭ･ｱﾘｱ"
+            ],
             "registered": "Sep 3, 2024, 9:13:31 PM",
             "role_id": 47343427658073,
             "server_region": "asia-pacific"
@@ -19960,12 +19972,21 @@
             "server_region": "asia-pacific"
         },
         "47343427808614": {
+            "crew_history": [
+                "はらぺこっ"
+            ],
             "crew_id": 21474847495,
             "crew_name": "はらぺこっ",
-            "equipping_title": "Overseas2_7",
+            "equipping_title": "1_6_4_22",
             "gender": 1,
-            "hp": 2018610.0,
-            "last_seen": "Jan 03, 2026, 07:53:46 AM",
+            "hp": 2301539.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -548.1699829101563,
+                "y": -18204.958984375,
+                "z": 96329.53125
+            },
+            "last_seen": "Mar 7, 2026, 12:23:35 AM",
             "level": 100,
             "name": "Novasolis",
             "name_history": [
@@ -36713,6 +36734,6 @@
         }
     },
     "accounts_total": 2584,
-    "last_updated": "Mar 7, 2026, 12:22:35 AM",
+    "last_updated": "Mar 7, 2026, 12:23:35 AM",
     "server_region": "asia-pacific"
 }
