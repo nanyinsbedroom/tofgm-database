@@ -63826,14 +63826,14 @@
             "crew_name": "塔学之家",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2676820.0,
+            "hp": 1247187.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 74001.0,
-                "y": -163364.0,
-                "z": -3037.85986328125
+                "map": "QRSL_P",
+                "x": -58485.83984375,
+                "y": 105267.6953125,
+                "z": -12929.8798828125
             },
-            "last_seen": "2026年2月28日 下午9:27:53",
+            "last_seen": "2026年3月6日 下午9:14:12",
             "level": 85,
             "name": "Nick-Aloo",
             "name_history": [
@@ -68801,6 +68801,29 @@
             "role_id": 63582695998498,
             "server_region": "cosmic-fold"
         },
+        "63582695998499": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 25763.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -36968.2890625,
+                "y": 81848.5703125,
+                "z": -14859.8896484375
+            },
+            "last_seen": "2026年3月6日 下午9:14:12",
+            "level": 18,
+            "name": "夜幕不黑",
+            "name_history": [
+                "夜幕不黑"
+            ],
+            "registered": "2026年1月29日 下午10:09:49",
+            "role_id": 63582695998499,
+            "server_region": "cosmic-fold"
+        },
         "63582695998531": {
             "crew_id": 0,
             "crew_name": "",
@@ -70645,6 +70668,31 @@
             ],
             "registered": "2026年2月1日 下午8:56:46",
             "role_id": 63582696000724,
+            "server_region": "cosmic-fold"
+        },
+        "63582696000725": {
+            "crew_history": [
+                "休闲"
+            ],
+            "crew_id": 3384434244052,
+            "crew_name": "休闲",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 118415.203125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -48587.80859375,
+                "y": 94966.6015625,
+                "z": -11937.419921875
+            },
+            "last_seen": "2026年3月6日 下午9:14:12",
+            "level": 48,
+            "name": "不玩游戏的玩家",
+            "name_history": [
+                "不玩游戏的玩家"
+            ],
+            "registered": "2026年2月1日 下午8:56:57",
+            "role_id": 63582696000725,
             "server_region": "cosmic-fold"
         },
         "63582696000765": {
@@ -79930,6 +79978,29 @@
             "role_id": 63582696012612,
             "server_region": "cosmic-fold"
         },
+        "63582696012615": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93936.1796875,
+                "y": 76338.8984375,
+                "z": -6904.7197265625
+            },
+            "last_seen": "2026年3月6日 下午9:14:12",
+            "level": 4,
+            "name": "orovhi",
+            "name_history": [
+                "orovhi"
+            ],
+            "registered": "2026年2月28日 下午10:32:48",
+            "role_id": 63582696012615,
+            "server_region": "cosmic-fold"
+        },
         "63582696012616": {
             "crew_history": [],
             "crew_id": 0,
@@ -83116,6 +83187,52 @@
             "role_id": 63582696015603,
             "server_region": "cosmic-fold"
         },
+        "63582696015635": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 32479.068359375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62715.8046875,
+                "y": 65575.4296875,
+                "z": -9816.037109375
+            },
+            "last_seen": "2026年3月6日 下午9:14:12",
+            "level": 11,
+            "name": "清莲园冶",
+            "name_history": [
+                "清莲园冶"
+            ],
+            "registered": "2026年3月6日 下午7:31:18",
+            "role_id": 63582696015635,
+            "server_region": "cosmic-fold"
+        },
+        "63582696015648": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 34206.671875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -45082.47265625,
+                "y": 92572.6328125,
+                "z": -13507.8046875
+            },
+            "last_seen": "2026年3月6日 下午9:14:12",
+            "level": 9,
+            "name": "墨亡",
+            "name_history": [
+                "墨亡"
+            ],
+            "registered": "2026年3月6日 下午7:47:51",
+            "role_id": 63582696015648,
+            "server_region": "cosmic-fold"
+        },
         "63582696015676": {
             "crew_history": [],
             "crew_id": 0,
@@ -83255,7 +83372,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5487,
-    "last_updated": "2026年3月6日 下午9:13:12",
+    "accounts_total": 5492,
+    "last_updated": "2026年3月6日 下午9:14:12",
     "server_region": "cosmic-fold"
 }
