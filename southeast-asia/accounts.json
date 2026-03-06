@@ -2784,14 +2784,14 @@
             "crew_name": "ExilesMY",
             "equipping_title": "ChinoHikari's Successor,1",
             "gender": 0,
-            "hp": 2391381.5,
+            "hp": 6049217.5,
             "last_known_position": {
-                "map": "city",
-                "x": 537.5,
-                "y": -18318.419921875,
-                "z": 96329.53125
+                "map": "Kailo_P_003",
+                "x": 105334.265625,
+                "y": -185813.453125,
+                "z": -5572.5498046875
             },
-            "last_seen": "Mar 6, 2026, 12:45:45 AM",
+            "last_seen": "Mar 6, 2026, 10:39:00 PM",
             "level": 100,
             "name": "Exy.",
             "name_history": [
@@ -25556,14 +25556,14 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "1_4_8_4",
             "gender": 0,
-            "hp": 6146390.5,
+            "hp": 6343057.0,
             "last_known_position": {
                 "map": "Kailo_P_003",
-                "x": 104872.15625,
-                "y": -187190.71875,
-                "z": -5377.90966796875
+                "x": 105895.1328125,
+                "y": -183113.671875,
+                "z": -5250.7001953125
             },
-            "last_seen": "Feb 24, 2026, 10:55:11 PM",
+            "last_seen": "Mar 6, 2026, 10:39:00 PM",
             "level": 100,
             "name": "Ikarusx",
             "name_history": [
@@ -27731,12 +27731,21 @@
             "server_region": "southeast-asia"
         },
         "68788196375889": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "UmbraFallen's Apprentice,0",
+            "equipping_title": "UmbraFallen's Successor,1",
             "gender": 1,
-            "hp": 1367992.125,
-            "last_seen": "Feb 9, 2026, 1:21:18 AM",
+            "hp": 5724367.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 105395.78125,
+                "y": -185641.8125,
+                "z": -5563.56005859375
+            },
+            "last_seen": "Mar 6, 2026, 10:39:00 PM",
             "level": 100,
             "name": "Umbra Whale",
             "name_history": [
@@ -31193,6 +31202,6 @@
         }
     },
     "accounts_total": 2090,
-    "last_updated": "Mar 6, 2026, 10:32:13 PM",
+    "last_updated": "Mar 6, 2026, 10:39:00 PM",
     "server_region": "southeast-asia"
 }
