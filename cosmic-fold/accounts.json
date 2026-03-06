@@ -66672,13 +66672,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695993885": {
-            "crew_id": 3165390911956,
-            "crew_name": "死亡之界",
-            "equipping_title": "2_2_0_48",
+            "crew_history": [
+                "白露之歌"
+            ],
+            "crew_id": 4294982100,
+            "crew_name": "白露之歌",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 221129.0,
-            "last_seen": "2026年02月03日 上午 5:53:29",
-            "level": 59,
+            "hp": 523382.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91899.796875,
+                "y": 76866.2109375,
+                "z": -7085.56005859375
+            },
+            "last_seen": "2026年3月6日 下午9:09:12",
+            "level": 75,
             "name": "しや",
             "name_history": [
                 "しや"
@@ -82940,6 +82949,29 @@
             "role_id": 63582696015318,
             "server_region": "cosmic-fold"
         },
+        "63582696015349": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 45090.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91444.3203125,
+                "y": 78287.4609375,
+                "z": -7018.6396484375
+            },
+            "last_seen": "2026年3月6日 下午9:09:12",
+            "level": 11,
+            "name": "告急",
+            "name_history": [
+                "告急"
+            ],
+            "registered": "2026年3月5日 下午8:57:02",
+            "role_id": 63582696015349,
+            "server_region": "cosmic-fold"
+        },
         "63582696015703": {
             "crew_history": [],
             "crew_id": 0,
@@ -82964,7 +82996,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5475,
-    "last_updated": "2026年3月6日 下午9:08:12",
+    "accounts_total": 5476,
+    "last_updated": "2026年3月6日 下午9:09:12",
     "server_region": "cosmic-fold"
 }
