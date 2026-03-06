@@ -3954,15 +3954,15 @@
             "crew_name": "★千年魔法使",
             "equipping_title": "1_2023",
             "gender": 0,
-            "hp": 1593205.25,
+            "hp": 1641773.375,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97881.1171875
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
             },
-            "last_seen": "2026年2月23日 下午7:44:48",
-            "level": 84,
+            "last_seen": "2026年3月6日 下午8:04:16",
+            "level": 85,
             "name": "魔想",
             "name_history": [
                 "魔想"
@@ -6781,6 +6781,31 @@
             ],
             "registered": "2024年2月4日 下午5:39:21",
             "role_id": 63574106288853,
+            "server_region": "time-travel"
+        },
+        "63574106289932": {
+            "crew_history": [
+                "Mujica"
+            ],
+            "crew_id": 2117418891731,
+            "crew_name": "Mujica",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 681802.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54680.55859375,
+                "y": -86858.0546875,
+                "z": 21713.958984375
+            },
+            "last_seen": "2026年3月6日 下午8:04:16",
+            "level": 82,
+            "name": "2005乐乐",
+            "name_history": [
+                "2005乐乐"
+            ],
+            "registered": "2024年2月4日 下午7:24:03",
+            "role_id": 63574106289932,
             "server_region": "time-travel"
         },
         "63574106294424": {
@@ -21223,7 +21248,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1081,
-    "last_updated": "2026年3月6日 下午8:01:15",
+    "accounts_total": 1082,
+    "last_updated": "2026年3月6日 下午8:04:16",
     "server_region": "time-travel"
 }
