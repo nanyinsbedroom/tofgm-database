@@ -44589,19 +44589,19 @@
             "crew_history": [
                 "IG"
             ],
-            "crew_id": 3388729211348,
+            "crew_id": 3547643001300,
             "crew_name": "IG",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 916309.0,
+            "hp": 922910.6875,
             "last_known_position": {
                 "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97877.1171875
+                "x": 1428.5,
+                "y": -23747.5,
+                "z": 96747.796875
             },
-            "last_seen": "2026年2月20日 下午11:22:12",
-            "level": 82,
+            "last_seen": "2026年3月7日 上午1:04:23",
+            "level": 83,
             "name": "UZI",
             "name_history": [
                 "UZI"
@@ -81668,6 +81668,31 @@
             "role_id": 63582696014457,
             "server_region": "cosmic-fold"
         },
+        "63582696014537": {
+            "crew_history": [
+                "奇怪"
+            ],
+            "crew_id": 3513283262932,
+            "crew_name": "奇怪",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 76718.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96381.5234375
+            },
+            "last_seen": "2026年3月7日 上午1:04:23",
+            "level": 22,
+            "name": "应该不会",
+            "name_history": [
+                "应该不会"
+            ],
+            "registered": "2026年3月3日 下午7:46:27",
+            "role_id": 63582696014537,
+            "server_region": "cosmic-fold"
+        },
         "63582696014538": {
             "crew_history": [],
             "crew_id": 0,
@@ -84091,6 +84116,29 @@
             "role_id": 63582696015710,
             "server_region": "cosmic-fold"
         },
+        "63582696015755": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 35647.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16483.626953125,
+                "z": 96362.0234375
+            },
+            "last_seen": "2026年3月7日 上午1:04:23",
+            "level": 16,
+            "name": "紫衣花蝶",
+            "name_history": [
+                "紫衣花蝶"
+            ],
+            "registered": "2026年3月6日 下午10:28:46",
+            "role_id": 63582696015755,
+            "server_region": "cosmic-fold"
+        },
         "63582696015787": {
             "crew_history": [],
             "crew_id": 0,
@@ -84115,7 +84163,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5520,
-    "last_updated": "2026年3月7日 上午1:02:23",
+    "accounts_total": 5522,
+    "last_updated": "2026年3月7日 上午1:04:23",
     "server_region": "cosmic-fold"
 }
