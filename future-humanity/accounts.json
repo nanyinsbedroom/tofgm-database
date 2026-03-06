@@ -4068,12 +4068,21 @@
             "server_region": "future-humanity"
         },
         "60563335134975": {
+            "crew_history": [
+                "天使社"
+            ],
             "crew_id": 14164802156309,
             "crew_name": "天使社",
-            "equipping_title": "3_2023",
+            "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 1529959.75,
-            "last_seen": "2025年11月25日 上午 2:48:13",
+            "hp": 1635640.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55098.73046875,
+                "y": -87057.6953125,
+                "z": 21724.98046875
+            },
+            "last_seen": "2026年3月6日 下午6:07:10",
             "level": 100,
             "name": "小羊失绵了",
             "name_history": [
@@ -13618,6 +13627,31 @@
             ],
             "registered": "2025年7月3日 下午12:33:45",
             "role_id": 60563335889570,
+            "server_region": "future-humanity"
+        },
+        "60563335893314": {
+            "crew_history": [
+                "妖精仓库"
+            ],
+            "crew_id": 17231408805653,
+            "crew_name": "妖精仓库",
+            "equipping_title": "洲宮沙絵的学徒,0",
+            "gender": 1,
+            "hp": 1821621.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55326.41015625,
+                "y": -88519.4375,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月6日 下午6:07:10",
+            "level": 100,
+            "name": "晨曦细雨",
+            "name_history": [
+                "晨曦细雨"
+            ],
+            "registered": "2025年7月6日 下午11:44:11",
+            "role_id": 60563335893314,
             "server_region": "future-humanity"
         },
         "60563335894976": {
@@ -23887,7 +23921,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1097,
-    "last_updated": "2026年3月6日 下午6:06:10",
+    "accounts_total": 1098,
+    "last_updated": "2026年3月6日 下午6:07:10",
     "server_region": "future-humanity"
 }
