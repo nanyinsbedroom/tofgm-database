@@ -20866,14 +20866,26 @@
             "server_region": "asia-pacific"
         },
         "47343427891973": {
+            "crew_history": [
+                "ぽんぽん☆ぺいん"
+            ],
             "crew_id": 798863928080,
             "crew_name": "ぽんぽん☆ぺいん",
-            "equipping_title": "3_2025",
+            "equipping_title": "2_2_0_89",
             "gender": 1,
-            "hp": 865269.8125,
-            "last_seen": "Oct 24, 2025, 08:01:01 PM",
+            "hp": 982922.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": -556.0999755859375,
+                "y": -17708.900390625,
+                "z": 96329.53125
+            },
+            "last_seen": "Mar 7, 2026, 12:24:35 AM",
             "level": 100,
             "name": "秋桜めろ＠VTuber",
+            "name_history": [
+                "秋桜めろ＠VTuber"
+            ],
             "registered": "Mar 27, 2025, 12:04:36 PM",
             "role_id": 47343427891973,
             "server_region": "asia-pacific"
@@ -36734,6 +36746,6 @@
         }
     },
     "accounts_total": 2584,
-    "last_updated": "Mar 7, 2026, 12:23:35 AM",
+    "last_updated": "Mar 7, 2026, 12:24:35 AM",
     "server_region": "asia-pacific"
 }
