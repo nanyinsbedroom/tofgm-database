@@ -9504,15 +9504,15 @@
             "crew_name": "山海阁",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1011382.5,
+            "hp": 1029820.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54645.296875,
-                "y": -87003.015625,
-                "z": 21710.94921875
+                "x": -53979.6484375,
+                "y": -87805.3515625,
+                "z": 21812.015625
             },
-            "last_seen": "2026年2月24日 下午4:27:04",
-            "level": 81,
+            "last_seen": "2026年3月6日 下午10:24:50",
+            "level": 82,
             "name": "绯.",
             "name_history": [
                 "绯."
@@ -20195,6 +20195,31 @@
             "role_id": 63578402003353,
             "server_region": "time-travel"
         },
+        "63578402003424": {
+            "crew_history": [
+                "星下樱园"
+            ],
+            "crew_id": 5673651812819,
+            "crew_name": "星下樱园",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 102786.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55404.20703125,
+                "y": -88291.640625,
+                "z": 21717.5
+            },
+            "last_seen": "2026年3月6日 下午10:24:50",
+            "level": 44,
+            "name": "madra铠袖一触",
+            "name_history": [
+                "madra铠袖一触"
+            ],
+            "registered": "2026年2月21日 上午12:10:54",
+            "role_id": 63578402003424,
+            "server_region": "time-travel"
+        },
         "63578402003434": {
             "crew_history": [],
             "crew_id": 0,
@@ -22718,7 +22743,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1138,
-    "last_updated": "2026年3月6日 下午10:23:50",
+    "accounts_total": 1139,
+    "last_updated": "2026年3月6日 下午10:24:50",
     "server_region": "time-travel"
 }
