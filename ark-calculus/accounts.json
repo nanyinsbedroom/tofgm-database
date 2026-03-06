@@ -5418,12 +5418,21 @@
             "server_region": "ark-calculus"
         },
         "62285617612916": {
+            "crew_history": [
+                "破晓"
+            ],
             "crew_id": 68719491341,
             "crew_name": "破晓",
             "equipping_title": "None",
             "gender": 1,
             "hp": 591286.0625,
-            "last_seen": "2026年02月04日 上午 3:16:22",
+            "last_known_position": {
+                "map": "city",
+                "x": -123.5,
+                "y": -16925.798828125,
+                "z": 96368.53125
+            },
+            "last_seen": "2026年3月6日 下午12:34:32",
             "level": 100,
             "name": "未老师",
             "name_history": [
@@ -9262,11 +9271,11 @@
             "hp": 2303830.25,
             "last_known_position": {
                 "map": "city",
-                "x": -429.41998291015625,
-                "y": -18176.279296875,
+                "x": 104.58999633789063,
+                "y": -17910.310546875,
                 "z": 96329.5390625
             },
-            "last_seen": "2026年2月24日 下午12:03:49",
+            "last_seen": "2026年3月6日 下午12:34:32",
             "level": 100,
             "name": "血老板",
             "name_history": [
@@ -24601,6 +24610,6 @@
         }
     },
     "accounts_total": 1138,
-    "last_updated": "2026年3月6日 下午12:30:32",
+    "last_updated": "2026年3月6日 下午12:34:32",
     "server_region": "ark-calculus"
 }
