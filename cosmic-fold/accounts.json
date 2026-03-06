@@ -35917,13 +35917,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695885274": {
+            "crew_history": [
+                "幻塔"
+            ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1423353.375,
-            "last_seen": "2026年2月7日 下午4:48:37",
-            "level": 82,
+            "hp": 1615123.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -16.53999900817871,
+                "y": -16133.9794921875,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年3月6日 下午9:34:47",
+            "level": 85,
             "name": "嗨皮",
             "name_history": [
                 "嗨皮"
@@ -83466,6 +83475,29 @@
             "role_id": 63582696015349,
             "server_region": "cosmic-fold"
         },
+        "63582696015400": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 52211.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 202.18052673339844,
+                "y": -22791.392578125,
+                "z": 96713.6953125
+            },
+            "last_seen": "2026年3月6日 下午9:34:47",
+            "level": 17,
+            "name": "【三玖】",
+            "name_history": [
+                "【三玖】"
+            ],
+            "registered": "2026年3月5日 下午11:09:37",
+            "role_id": 63582696015400,
+            "server_region": "cosmic-fold"
+        },
         "63582696015547": {
             "crew_history": [],
             "crew_id": 0,
@@ -83743,7 +83775,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5506,
-    "last_updated": "2026年3月6日 下午9:29:47",
+    "accounts_total": 5507,
+    "last_updated": "2026年3月6日 下午9:34:47",
     "server_region": "cosmic-fold"
 }
