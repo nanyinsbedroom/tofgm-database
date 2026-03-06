@@ -17823,16 +17823,16 @@
             ],
             "crew_id": 4294982100,
             "crew_name": "白露之歌",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_064_world;1",
+            "equipping_title": "1_1_20_1",
             "gender": 0,
-            "hp": 2842360.75,
+            "hp": 1671465.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101457.296875,
-                "y": -174859.53125,
-                "z": -5168.23974609375
+                "map": "city",
+                "x": 1247.5699462890625,
+                "y": -23813.16015625,
+                "z": 97868.515625
             },
-            "last_seen": "2026年2月28日 下午9:27:53",
+            "last_seen": "2026年3月7日 上午1:02:23",
             "level": 85,
             "name": "Jacky",
             "name_history": [
@@ -53083,15 +53083,15 @@
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 241164.796875,
+            "hp": 444461.0,
             "last_known_position": {
                 "map": "city",
-                "x": -1547.5999755859375,
-                "y": -28671.19921875,
-                "z": 97878.875
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96375.0390625
             },
-            "last_seen": "2026年2月21日 上午2:15:20",
-            "level": 82,
+            "last_seen": "2026年3月7日 上午1:02:23",
+            "level": 84,
             "name": "安卓幻塔",
             "name_history": [
                 "安卓幻塔"
@@ -82479,6 +82479,29 @@
             "role_id": 63582696015053,
             "server_region": "cosmic-fold"
         },
+        "63582696015054": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 65566.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1455.0748291015625,
+                "y": -25861.83203125,
+                "z": 96710.9375
+            },
+            "last_seen": "2026年3月7日 上午1:02:23",
+            "level": 23,
+            "name": "千崭",
+            "name_history": [
+                "千崭"
+            ],
+            "registered": "2026年3月4日 下午9:36:57",
+            "role_id": 63582696015054,
+            "server_region": "cosmic-fold"
+        },
         "63582696015056": {
             "crew_history": [],
             "crew_id": 0,
@@ -84092,7 +84115,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5519,
-    "last_updated": "2026年3月7日 上午1:01:23",
+    "accounts_total": 5520,
+    "last_updated": "2026年3月7日 上午1:02:23",
     "server_region": "cosmic-fold"
 }
