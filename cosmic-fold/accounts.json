@@ -1600,14 +1600,14 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1664283.25,
+            "hp": 1665408.875,
             "last_known_position": {
                 "map": "city",
-                "x": 407.01068115234375,
-                "y": -22579.224609375,
-                "z": 96710.375
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96362.0390625
             },
-            "last_seen": "2026年2月28日 下午11:02:58",
+            "last_seen": "2026年3月6日 下午9:29:47",
             "level": 85,
             "name": "怀夕",
             "name_history": [
@@ -83420,6 +83420,29 @@
             "role_id": 63582696015318,
             "server_region": "cosmic-fold"
         },
+        "63582696015343": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 61392.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 88.3499984741211,
+                "y": -23915.490234375,
+                "z": 96742.875
+            },
+            "last_seen": "2026年3月6日 下午9:29:47",
+            "level": 14,
+            "name": "雏草姬喵",
+            "name_history": [
+                "雏草姬喵"
+            ],
+            "registered": "2026年3月5日 下午8:37:27",
+            "role_id": 63582696015343,
+            "server_region": "cosmic-fold"
+        },
         "63582696015349": {
             "crew_history": [],
             "crew_id": 0,
@@ -83720,7 +83743,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5505,
-    "last_updated": "2026年3月6日 下午9:27:47",
+    "accounts_total": 5506,
+    "last_updated": "2026年3月6日 下午9:29:47",
     "server_region": "cosmic-fold"
 }
