@@ -3335,14 +3335,26 @@
             "server_region": "reshaping-the-future"
         },
         "62715112904497": {
+            "crew_history": [
+                "妖猫之宿"
+            ],
             "crew_id": 90194327818,
             "crew_name": "妖猫之宿",
-            "equipping_title": "1_5_1_1",
+            "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 326454.5,
-            "last_seen": "2025年10月14日 下午 10:23:45",
+            "hp": 310107.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
+            },
+            "last_seen": "2026年3月6日 下午4:15:42",
             "level": 100,
             "name": "Ayyun",
+            "name_history": [
+                "Ayyun"
+            ],
             "registered": "2022年6月29日 上午9:30:23",
             "role_id": 62715112904497,
             "server_region": "reshaping-the-future"
@@ -24468,6 +24480,6 @@
         }
     },
     "accounts_total": 1093,
-    "last_updated": "2026年3月6日 下午4:13:42",
+    "last_updated": "2026年3月6日 下午4:15:42",
     "server_region": "reshaping-the-future"
 }
