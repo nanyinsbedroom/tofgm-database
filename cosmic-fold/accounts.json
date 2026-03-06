@@ -74888,17 +74888,17 @@
             ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_014_world;87",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 632634.875,
+            "hp": 1155633.0,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -42152.5078125,
-                "y": 2934.679931640625,
-                "z": -13802.8994140625
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96376.03125
             },
-            "last_seen": "2026年2月24日 下午10:07:32",
-            "level": 84,
+            "last_seen": "2026年3月6日 下午9:37:47",
+            "level": 85,
             "name": "大白龙庚辰",
             "name_history": [
                 "大白龙庚辰"
@@ -83521,6 +83521,29 @@
             "role_id": 63582696015547,
             "server_region": "cosmic-fold"
         },
+        "63582696015551": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63892.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 53.369873046875,
+                "y": -24085.935546875,
+                "z": 97879.9140625
+            },
+            "last_seen": "2026年3月6日 下午9:37:47",
+            "level": 21,
+            "name": "本心欲绝",
+            "name_history": [
+                "本心欲绝"
+            ],
+            "registered": "2026年3月6日 下午3:36:20",
+            "role_id": 63582696015551,
+            "server_region": "cosmic-fold"
+        },
         "63582696015603": {
             "crew_history": [],
             "crew_id": 0,
@@ -83775,7 +83798,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5507,
-    "last_updated": "2026年3月6日 下午9:34:47",
+    "accounts_total": 5508,
+    "last_updated": "2026年3月6日 下午9:37:47",
     "server_region": "cosmic-fold"
 }
