@@ -6318,12 +6318,21 @@
             "server_region": "reshaping-the-future"
         },
         "62715113757211": {
+            "crew_history": [
+                "微光"
+            ],
             "crew_id": 944892819823,
             "crew_name": "微光",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 2308628.5,
-            "last_seen": "2025年11月25日 上午 1:48:17",
+            "hp": 2258918.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.0390625
+            },
+            "last_seen": "2026年3月6日 下午4:08:42",
             "level": 100,
             "name": "香草奶油泡芙",
             "name_history": [
@@ -6480,14 +6489,14 @@
             "crew_name": "花海",
             "equipping_title": "1_6_1_5",
             "gender": 1,
-            "hp": 1132475.75,
+            "hp": 1126781.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
+                "x": -54367.21875,
+                "y": -88132.546875,
                 "z": 21722.048828125
             },
-            "last_seen": "2026年2月27日 下午8:09:20",
+            "last_seen": "2026年3月6日 下午4:08:42",
             "level": 100,
             "name": "時之旅人",
             "name_history": [
@@ -24286,6 +24295,6 @@
         }
     },
     "accounts_total": 1086,
-    "last_updated": "2026年3月6日 下午4:07:42",
+    "last_updated": "2026年3月6日 下午4:08:42",
     "server_region": "reshaping-the-future"
 }
