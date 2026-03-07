@@ -5594,14 +5594,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1688267.75,
+            "hp": 1686385.75,
             "last_known_position": {
                 "map": "city",
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": -38.61000061035156,
+                "y": -28464.6484375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月6日 下午8:21:44",
+            "last_seen": "2026年3月7日 下午9:15:05",
             "level": 85,
             "name": "星星偶有怯场",
             "name_history": [
@@ -22623,13 +22623,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695863676": {
-            "crew_id": 184683608532,
-            "crew_name": "天月之境",
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1051801.0,
-            "last_seen": "2026年01月27日 上午 7:43:21",
-            "level": 80,
+            "hp": 1689339.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -1733.39990234375,
+                "y": -28718.5,
+                "z": 97885.6953125
+            },
+            "last_seen": "2026年3月7日 下午9:15:05",
+            "level": 85,
             "name": "唱跳有没有搞头",
             "name_history": [
                 "唱跳有没有搞头"
@@ -26678,14 +26687,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695867643": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
-            "equipping_title": "None",
+            "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 322444.1875,
-            "last_seen": "2025年10月14日 下午 8:40:08",
-            "level": 59,
+            "hp": 1410511.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 477.4700012207031,
+                "y": -28239.8203125,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:15:05",
+            "level": 85,
             "name": "下班吃火锅",
+            "name_history": [
+                "下班吃火锅"
+            ],
             "registered": "2025年9月26日 上午9:32:18",
             "role_id": 63582695867643,
             "server_region": "cosmic-fold"
@@ -84850,6 +84871,6 @@
         }
     },
     "accounts_total": 5545,
-    "last_updated": "2026年3月7日 下午9:14:05",
+    "last_updated": "2026年3月7日 下午9:15:05",
     "server_region": "cosmic-fold"
 }
