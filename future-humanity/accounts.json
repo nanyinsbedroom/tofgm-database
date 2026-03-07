@@ -24396,14 +24396,26 @@
             "server_region": "future-humanity"
         },
         "62745177365032": {
+            "crew_history": [
+                "榴火大学堂"
+            ],
             "crew_id": 14160507189013,
             "crew_name": "榴火大学堂",
-            "equipping_title": "1_4_4_7",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 1827734.0,
-            "last_seen": "2025年10月26日 下午 5:04:28",
+            "hp": 1710206.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55336.484375,
+                "y": -87953.9140625,
+                "z": 21950.3125
+            },
+            "last_seen": "2026年3月7日 下午6:26:23",
             "level": 100,
             "name": "承影幽明",
+            "name_history": [
+                "承影幽明"
+            ],
             "registered": "2023年3月5日 下午6:25:34",
             "role_id": 62745177365032,
             "server_region": "future-humanity"
@@ -24967,6 +24979,6 @@
         }
     },
     "accounts_total": 1139,
-    "last_updated": "2026年3月7日 下午6:25:23",
+    "last_updated": "2026年3月7日 下午6:26:23",
     "server_region": "future-humanity"
 }
