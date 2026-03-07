@@ -10518,15 +10518,15 @@
             "crew_name": "幻塔",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1361650.0,
+            "hp": 1510066.125,
             "last_known_position": {
                 "map": "city",
-                "x": -491.3999938964844,
-                "y": -23998.150390625,
-                "z": 96745.890625
+                "x": 1510.77001953125,
+                "y": -26663.138671875,
+                "z": 96706.7265625
             },
-            "last_seen": "2026年2月15日 下午11:49:13",
-            "level": 83,
+            "last_seen": "2026年3月7日 下午9:17:05",
+            "level": 85,
             "name": "钢脊兽",
             "name_history": [
                 "钢脊兽"
@@ -15951,15 +15951,15 @@
             "crew_name": "NOVA学院",
             "equipping_title": "4_2025",
             "gender": 1,
-            "hp": 1544515.375,
+            "hp": 1460257.125,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -41645.91015625,
-                "y": 1514.419921875,
-                "z": -13803.7998046875
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年2月19日 上午12:39:39",
-            "level": 83,
+            "last_seen": "2026年3月7日 下午9:17:05",
+            "level": 85,
             "name": "温雅",
             "name_history": [
                 "温雅"
@@ -50993,6 +50993,31 @@
             "role_id": 63582695929249,
             "server_region": "cosmic-fold"
         },
+        "63582695929255": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1170324.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1239.3499755859375,
+                "y": -28416.728515625,
+                "z": 97886.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:17:05",
+            "level": 83,
+            "name": "艾坤哥",
+            "name_history": [
+                "艾坤哥"
+            ],
+            "registered": "2025年10月15日 下午4:38:14",
+            "role_id": 63582695929255,
+            "server_region": "cosmic-fold"
+        },
         "63582695929281": {
             "crew_id": 0,
             "crew_name": "",
@@ -51581,15 +51606,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695930193": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "4_2025",
             "gender": 0,
-            "hp": 384750.71875,
-            "last_seen": "2025年11月24日 上午 6:08:12",
-            "level": 65,
-            "name": "律政先锋sneak",
+            "hp": 936401.1875,
+            "last_known_position": {
+                "map": "city",
+                "x": -947.3999633789063,
+                "y": -28550.69921875,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:17:05",
+            "level": 81,
+            "name": "布隆迪最速传说",
             "name_history": [
+                "布隆迪最速传说",
                 "律政先锋sneak"
             ],
             "registered": "2025年10月16日 上午11:11:07",
@@ -84879,7 +84914,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5545,
-    "last_updated": "2026年3月7日 下午9:16:05",
+    "accounts_total": 5546,
+    "last_updated": "2026年3月7日 下午9:17:05",
     "server_region": "cosmic-fold"
 }
