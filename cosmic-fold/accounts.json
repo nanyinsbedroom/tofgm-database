@@ -12812,13 +12812,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695857206": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1081087.25,
-            "last_seen": "2026年2月10日 下午10:29:07",
-            "level": 78,
+            "hp": 1092423.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1275.0999755859375,
+                "y": -28312.599609375,
+                "z": 97874.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:21:05",
+            "level": 79,
             "name": "一维EW",
             "name_history": [
                 "一维EW"
@@ -58681,6 +58690,31 @@
             "role_id": 63582695960569,
             "server_region": "cosmic-fold"
         },
+        "63582695960574": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "1_1_13_1",
+            "gender": 1,
+            "hp": 1366861.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -2274.669921875,
+                "y": -25750.869140625,
+                "z": 96744.375
+            },
+            "last_seen": "2026年3月7日 下午9:21:05",
+            "level": 84,
+            "name": "最爱萌小琪",
+            "name_history": [
+                "最爱萌小琪"
+            ],
+            "registered": "2025年11月16日 上午11:25:43",
+            "role_id": 63582695960574,
+            "server_region": "cosmic-fold"
+        },
         "63582695960578": {
             "crew_id": 0,
             "crew_name": "",
@@ -77255,6 +77289,29 @@
             "role_id": 63582696008815,
             "server_region": "cosmic-fold"
         },
+        "63582696008868": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 137672.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 679.2000122070313,
+                "y": -28735.0,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:21:05",
+            "level": 49,
+            "name": "笛笛博",
+            "name_history": [
+                "笛笛博"
+            ],
+            "registered": "2026年2月23日 下午3:37:49",
+            "role_id": 63582696008868,
+            "server_region": "cosmic-fold"
+        },
         "63582696008874": {
             "crew_history": [
                 "白露之歌",
@@ -84923,7 +84980,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5546,
-    "last_updated": "2026年3月7日 下午9:19:05",
+    "accounts_total": 5548,
+    "last_updated": "2026年3月7日 下午9:21:05",
     "server_region": "cosmic-fold"
 }
