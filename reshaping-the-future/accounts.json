@@ -21889,12 +21889,21 @@
             "server_region": "reshaping-the-future"
         },
         "63148904174159": {
-            "crew_id": 283467856239,
-            "crew_name": "养老摸鱼社",
+            "crew_history": [
+                "千镜"
+            ],
+            "crew_id": 4294981898,
+            "crew_name": "千镜",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1130664.875,
-            "last_seen": "2025年11月25日 上午 1:44:16",
+            "hp": 1324615.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55106.2578125,
+                "y": -87046.1953125,
+                "z": 21724.48046875
+            },
+            "last_seen": "2026年3月7日 下午10:23:58",
             "level": 100,
             "name": "二三两",
             "name_history": [
@@ -26078,6 +26087,6 @@
         }
     },
     "accounts_total": 1157,
-    "last_updated": "2026年3月7日 下午10:20:58",
+    "last_updated": "2026年3月7日 下午10:23:58",
     "server_region": "reshaping-the-future"
 }
