@@ -23136,12 +23136,21 @@
             "server_region": "reshaping-the-future"
         },
         "63148904374426": {
+            "crew_history": [
+                "花海"
+            ],
             "crew_id": 25769818378,
             "crew_name": "花海",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 1318906.125,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 1371751.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96370.03125
+            },
+            "last_seen": "2026年3月7日 下午10:34:59",
             "level": 100,
             "name": "爻姊",
             "name_history": [
@@ -26243,6 +26252,6 @@
         }
     },
     "accounts_total": 1163,
-    "last_updated": "2026年3月7日 下午10:33:59",
+    "last_updated": "2026年3月7日 下午10:34:59",
     "server_region": "reshaping-the-future"
 }
