@@ -22756,17 +22756,17 @@
             ],
             "crew_id": 146028902868,
             "crew_name": "NOVA学院",
-            "equipping_title": "4_2025",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1437367.25,
+            "hp": 1614748.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1527.3800048828125,
-                "y": -27557.55859375,
+                "x": 1119.7999267578125,
+                "y": -28410.69921875,
                 "z": 97872.6171875
             },
-            "last_seen": "2026年2月14日 下午9:47:56",
-            "level": 83,
+            "last_seen": "2026年3月7日 下午9:22:05",
+            "level": 85,
             "name": "汐兮兮",
             "name_history": [
                 "汐兮兮"
@@ -42468,14 +42468,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695907386": {
-            "crew_id": 244813150676,
-            "crew_name": "原神",
-            "equipping_title": "1_6_2_1",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 378397.84375,
-            "last_seen": "2025年10月18日 下午 9:10:42",
-            "level": 61,
+            "hp": 1468535.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -75.83000183105469,
+                "y": -28175.740234375,
+                "z": 97911.1640625
+            },
+            "last_seen": "2026年3月7日 下午9:22:05",
+            "level": 83,
             "name": "划痕节",
+            "name_history": [
+                "划痕节"
+            ],
             "registered": "2025年10月4日 下午8:35:46",
             "role_id": 63582695907386,
             "server_region": "cosmic-fold"
@@ -84981,6 +84993,6 @@
         }
     },
     "accounts_total": 5548,
-    "last_updated": "2026年3月7日 下午9:21:05",
+    "last_updated": "2026年3月7日 下午9:22:05",
     "server_region": "cosmic-fold"
 }
