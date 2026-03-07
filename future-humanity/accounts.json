@@ -11752,14 +11752,14 @@
             "crew_name": "天使社",
             "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 1645938.375,
+            "hp": 1518834.125,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -282725.21875,
-                "y": 176617.015625,
-                "z": -31559.169921875
+                "map": "QRSL_P",
+                "x": -54808.859375,
+                "y": -87865.7265625,
+                "z": 21726.048828125
             },
-            "last_seen": "2026年2月26日 下午8:07:40",
+            "last_seen": "2026年3月7日 下午8:23:36",
             "level": 100,
             "name": "Miga",
             "name_history": [
@@ -12905,12 +12905,21 @@
             "server_region": "future-humanity"
         },
         "60563335735595": {
+            "crew_history": [
+                "小奈碎碎念"
+            ],
             "crew_id": 15277198685973,
             "crew_name": "小奈碎碎念",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1256076.75,
-            "last_seen": "2025年11月25日 上午 3:11:14",
+            "hp": 1377681.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55750.296875,
+                "y": -88549.40625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月7日 下午8:23:36",
             "level": 100,
             "name": "夜咏星",
             "name_history": [
@@ -25414,6 +25423,6 @@
         }
     },
     "accounts_total": 1156,
-    "last_updated": "2026年3月7日 下午8:22:36",
+    "last_updated": "2026年3月7日 下午8:23:36",
     "server_region": "future-humanity"
 }
