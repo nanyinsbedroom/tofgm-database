@@ -1697,14 +1697,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1371239.5,
+            "hp": 1493710.875,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97866.1171875
+                "map": "void001_D",
+                "x": 62.94613265991211,
+                "y": 195.75296020507813,
+                "z": 129.37998962402344
             },
-            "last_seen": "2026年3月5日 下午7:13:18",
+            "last_seen": "2026年3月7日 下午8:53:04",
             "level": 85,
             "name": "Sussy",
             "name_history": [
@@ -8224,11 +8224,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695853836": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "1_9_0_1",
             "gender": 1,
-            "last_seen": "2025年09月25日 下午 11:48:43",
+            "hp": 1493710.875,
+            "last_known_position": {
+                "map": "void001_D",
+                "x": -41.210384368896484,
+                "y": -28.672718048095703,
+                "z": 129.37998962402344
+            },
+            "last_seen": "2026年3月7日 下午8:53:04",
+            "level": 80,
             "name": "kolihank",
+            "name_history": [
+                "kolihank"
+            ],
             "registered": "2025年9月25日 下午6:50:10",
             "role_id": 63582695853836,
             "server_region": "cosmic-fold"
@@ -41255,13 +41270,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695904259": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_86",
             "gender": 0,
-            "hp": 1429109.625,
-            "last_seen": "2026年2月8日 下午10:12:03",
-            "level": 82,
+            "hp": 1596087.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1521.77001953125,
+                "y": -27399.1484375,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月7日 下午8:53:04",
+            "level": 85,
             "name": "momon",
             "name_history": [
                 "momon"
@@ -84427,6 +84451,6 @@
         }
     },
     "accounts_total": 5531,
-    "last_updated": "2026年3月7日 下午8:51:04",
+    "last_updated": "2026年3月7日 下午8:53:04",
     "server_region": "cosmic-fold"
 }
