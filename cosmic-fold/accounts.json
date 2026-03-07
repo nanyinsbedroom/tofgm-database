@@ -61156,13 +61156,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695965851": {
-            "crew_id": 3148211042772,
+            "crew_history": [
+                "可爱"
+            ],
+            "crew_id": 3483218491860,
             "crew_name": "可爱",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 746711.9375,
-            "last_seen": "2026年01月26日 上午 4:38:53",
-            "level": 77,
+            "hp": 848327.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2694.10986328125,
+                "y": -28000.080078125,
+                "z": 96720.6953125
+            },
+            "last_seen": "2026年3月7日 下午9:09:05",
+            "level": 82,
             "name": "瓦莱丽·V",
             "name_history": [
                 "瓦莱丽·V"
@@ -67316,15 +67325,15 @@
             "crew_name": "NOVA学院",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 963366.625,
+            "hp": 1153522.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
+                "x": 1125.3599853515625,
+                "y": -28488.71875,
                 "z": 97874.1171875
             },
-            "last_seen": "2026年2月25日 上午12:20:33",
-            "level": 84,
+            "last_seen": "2026年3月7日 下午9:09:05",
+            "level": 85,
             "name": "yokio",
             "name_history": [
                 "yokio"
@@ -84590,6 +84599,6 @@
         }
     },
     "accounts_total": 5535,
-    "last_updated": "2026年3月7日 下午9:08:05",
+    "last_updated": "2026年3月7日 下午9:09:05",
     "server_region": "cosmic-fold"
 }
