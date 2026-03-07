@@ -714,21 +714,22 @@
         },
         "63582695850199": {
             "crew_history": [
+                "白露之歌",
                 "紫微星垣"
             ],
             "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
-            "equipping_title": "4_2025",
+            "crew_name": "白露之歌",
+            "equipping_title": "柚歌的后继者,1",
             "gender": 1,
-            "hp": 1315775.625,
+            "hp": 1484867.125,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -36113.87890625,
-                "y": 2768.800048828125,
-                "z": -13805.849609375
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96368.0390625
             },
-            "last_seen": "2026年2月18日 上午12:30:22",
-            "level": 82,
+            "last_seen": "2026年3月7日 下午8:57:04",
+            "level": 85,
             "name": "乌米",
             "name_history": [
                 "乌米"
@@ -22802,14 +22803,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1638804.25,
+            "hp": 1645391.5,
             "last_known_position": {
                 "map": "city",
-                "x": 257.6499938964844,
-                "y": -22309.26953125,
-                "z": 96753.3984375
+                "x": -162.09999084472656,
+                "y": -22126.099609375,
+                "z": 96752.875
             },
-            "last_seen": "2026年3月6日 下午9:20:47",
+            "last_seen": "2026年3月7日 下午8:57:04",
             "level": 85,
             "name": "GT",
             "name_history": [
@@ -33340,14 +33341,15 @@
             "hp": 1775085.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1706.7999267578125,
-                "y": -23494.96875,
-                "z": 97021.3359375
+                "x": 1497.8599853515625,
+                "y": -24176.6796875,
+                "z": 98644.765625
             },
-            "last_seen": "2026年3月4日 下午11:34:40",
+            "last_seen": "2026年3月7日 下午8:57:04",
             "level": 85,
-            "name": "卡洛斯·织命者",
+            "name": "Sekka",
             "name_history": [
+                "Sekka",
                 "卡洛斯·织命者",
                 "落雨天",
                 "落雨天空"
@@ -49599,7 +49601,7 @@
                 "y": -28732.3984375,
                 "z": 97878.71875
             },
-            "last_seen": "2026年3月7日 上午1:25:49",
+            "last_seen": "2026年3月7日 下午8:57:04",
             "level": 82,
             "name": "家人们谁懂啊",
             "name_history": [
@@ -84219,6 +84221,29 @@
             "role_id": 63582696015676,
             "server_region": "cosmic-fold"
         },
+        "63582696015680": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41443.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2998.309814453125,
+                "y": -28196.62890625,
+                "z": 97987.640625
+            },
+            "last_seen": "2026年3月7日 下午8:57:04",
+            "level": 13,
+            "name": "154554",
+            "name_history": [
+                "154554"
+            ],
+            "registered": "2026年3月6日 下午8:20:48",
+            "role_id": 63582696015680,
+            "server_region": "cosmic-fold"
+        },
         "63582696015698": {
             "crew_history": [],
             "crew_id": 0,
@@ -84448,9 +84473,55 @@
             "registered": "2026年3月6日 下午10:59:30",
             "role_id": 63582696015787,
             "server_region": "cosmic-fold"
+        },
+        "63582696016228": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 75512.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 459.16998291015625,
+                "y": -24053.150390625,
+                "z": 97877.875
+            },
+            "last_seen": "2026年3月7日 下午8:57:04",
+            "level": 23,
+            "name": "小飞乖奶酪",
+            "name_history": [
+                "小飞乖奶酪"
+            ],
+            "registered": "2026年3月7日 下午4:06:54",
+            "role_id": 63582696016228,
+            "server_region": "cosmic-fold"
+        },
+        "63582696016406": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 55839.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96370.03125
+            },
+            "last_seen": "2026年3月7日 下午8:57:04",
+            "level": 10,
+            "name": "阿斯顿1",
+            "name_history": [
+                "阿斯顿1"
+            ],
+            "registered": "2026年3月7日 下午7:31:49",
+            "role_id": 63582696016406,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5531,
-    "last_updated": "2026年3月7日 下午8:56:04",
+    "accounts_total": 5534,
+    "last_updated": "2026年3月7日 下午8:57:04",
     "server_region": "cosmic-fold"
 }
