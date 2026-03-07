@@ -9630,12 +9630,21 @@
             "server_region": "southeast-asia"
         },
         "68758131635932": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
-            "equipping_title": "3_2023",
+            "equipping_title": "2_2_0_67",
             "gender": 0,
-            "hp": 2254466.0,
-            "last_seen": "Nov 16, 2025, 10:02:51 PM",
+            "hp": 6094178.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 135805.9375,
+                "y": -177308.734375,
+                "z": -1322.052490234375
+            },
+            "last_seen": "Mar 7, 2026, 9:39:49 PM",
             "level": 100,
             "name": "MacKenzee",
             "name_history": [
@@ -31244,6 +31253,6 @@
         }
     },
     "accounts_total": 2091,
-    "last_updated": "Mar 7, 2026, 9:33:49 PM",
+    "last_updated": "Mar 7, 2026, 9:39:49 PM",
     "server_region": "southeast-asia"
 }
