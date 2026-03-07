@@ -4732,21 +4732,22 @@
         },
         "63582695851963": {
             "crew_history": [
+                "魔女之旅",
                 "天使社"
             ],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 502870.0,
+            "hp": 571202.5,
             "last_known_position": {
                 "map": "city",
-                "x": 1213.5399169921875,
-                "y": -28383.71875,
-                "z": 97872.6171875
+                "x": 1660.8062744140625,
+                "y": -28179.134765625,
+                "z": 97872.609375
             },
-            "last_seen": "2026年3月7日 上午12:55:22",
-            "level": 83,
+            "last_seen": "2026年3月7日 下午9:23:05",
+            "level": 84,
             "name": "妥协的妻子",
             "name_history": [
                 "妥协的妻子"
@@ -84554,6 +84555,29 @@
             "role_id": 63582696015680,
             "server_region": "cosmic-fold"
         },
+        "63582696015690": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 37399.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -41.099998474121094,
+                "y": -21804.900390625,
+                "z": 96756.859375
+            },
+            "last_seen": "2026年3月7日 下午9:23:05",
+            "level": 10,
+            "name": "仙鹤",
+            "name_history": [
+                "仙鹤"
+            ],
+            "registered": "2026年3月6日 下午8:36:34",
+            "role_id": 63582696015690,
+            "server_region": "cosmic-fold"
+        },
         "63582696015698": {
             "crew_history": [],
             "crew_id": 0,
@@ -84992,7 +85016,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5548,
-    "last_updated": "2026年3月7日 下午9:22:05",
+    "accounts_total": 5549,
+    "last_updated": "2026年3月7日 下午9:23:05",
     "server_region": "cosmic-fold"
 }
