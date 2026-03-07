@@ -1382,7 +1382,7 @@
                 "y": -28685.19921875,
                 "z": 97872.1796875
             },
-            "last_seen": "2026年3月2日 下午12:58:23",
+            "last_seen": "2026年3月7日 下午9:11:05",
             "level": 83,
             "name": "月亮下的伤心",
             "name_history": [
@@ -3805,15 +3805,15 @@
             "crew_name": "NOVA学院",
             "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 1250661.75,
+            "hp": 1320630.75,
             "last_known_position": {
                 "map": "city",
-                "x": 590.1699829101563,
-                "y": -28171.5390625,
+                "x": 1357.0,
+                "y": -28250.0,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月21日 上午12:24:15",
-            "level": 83,
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 85,
             "name": "Violet",
             "name_history": [
                 "Violet"
@@ -17502,13 +17502,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695859928": {
+            "crew_history": [
+                "少女终末旅行"
+            ],
             "crew_id": 38654720468,
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1139640.5,
-            "last_seen": "2025年12月29日 上午 5:52:19",
-            "level": 77,
+            "hp": 1642301.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1290.699951171875,
+                "y": -28317.859375,
+                "z": 97877.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 85,
             "name": "和风随你意",
             "name_history": [
                 "和风随你意"
@@ -23223,6 +23232,31 @@
             "name": "是晓晓晓晓晓五",
             "registered": "2025年9月25日 下午11:28:13",
             "role_id": 63582695864158,
+            "server_region": "cosmic-fold"
+        },
+        "63582695864161": {
+            "crew_history": [
+                "魔女之旅"
+            ],
+            "crew_id": 30064785876,
+            "crew_name": "魔女之旅",
+            "equipping_title": "2_7_0_22",
+            "gender": 1,
+            "hp": 1492278.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1373.929931640625,
+                "y": -27996.1484375,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 85,
+            "name": "月后无疑",
+            "name_history": [
+                "月后无疑"
+            ],
+            "registered": "2025年9月25日 下午11:28:23",
+            "role_id": 63582695864161,
             "server_region": "cosmic-fold"
         },
         "63582695864171": {
@@ -58986,13 +59020,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695961995": {
-            "crew_id": 42949687764,
-            "crew_name": "群星",
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 133144000980,
+            "crew_name": "芬璃尔应援会",
             "equipping_title": "2_2_0_48",
             "gender": 1,
-            "hp": 468661.6875,
-            "last_seen": "2025年12月29日 上午 5:56:19",
-            "level": 75,
+            "hp": 738118.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 516.5700073242188,
+                "y": -28497.37890625,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 83,
             "name": "我是牢六",
             "name_history": [
                 "我是牢六"
@@ -84483,6 +84526,29 @@
             "role_id": 63582696015710,
             "server_region": "cosmic-fold"
         },
+        "63582696015720": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 23545.228515625,
+            "last_known_position": {
+                "map": "city",
+                "x": -2883.89990234375,
+                "y": -23545.0,
+                "z": 96749.3828125
+            },
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 15,
+            "name": "忘不",
+            "name_history": [
+                "忘不"
+            ],
+            "registered": "2026年3月6日 下午9:26:13",
+            "role_id": 63582696015720,
+            "server_region": "cosmic-fold"
+        },
         "63582696015755": {
             "crew_history": [],
             "crew_id": 0,
@@ -84621,6 +84687,29 @@
             "role_id": 63582696016253,
             "server_region": "cosmic-fold"
         },
+        "63582696016313": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33704.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -6423.94091796875,
+                "y": -30429.83203125,
+                "z": 96348.53125
+            },
+            "last_seen": "2026年3月7日 下午9:11:05",
+            "level": 14,
+            "name": "泄泄火",
+            "name_history": [
+                "泄泄火"
+            ],
+            "registered": "2026年3月7日 下午5:23:13",
+            "role_id": 63582696016313,
+            "server_region": "cosmic-fold"
+        },
         "63582696016406": {
             "crew_history": [],
             "crew_id": 0,
@@ -84645,7 +84734,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5537,
-    "last_updated": "2026年3月7日 下午9:10:05",
+    "accounts_total": 5540,
+    "last_updated": "2026年3月7日 下午9:11:05",
     "server_region": "cosmic-fold"
 }
