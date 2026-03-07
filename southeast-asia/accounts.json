@@ -1969,12 +1969,21 @@
             "server_region": "southeast-asia"
         },
         "68728066747781": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "Overseas2_10",
             "gender": 1,
-            "hp": 6195017.5,
-            "last_seen": "Jan 03, 2026, 03:47:07 AM",
+            "hp": 6203918.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 98633.9609375,
+                "y": -189431.953125,
+                "z": -7891.2197265625
+            },
+            "last_seen": "Mar 7, 2026, 10:01:51 PM",
             "level": 100,
             "name": "Leucosia337",
             "name_history": [
@@ -31253,6 +31262,6 @@
         }
     },
     "accounts_total": 2091,
-    "last_updated": "Mar 7, 2026, 9:58:51 PM",
+    "last_updated": "Mar 7, 2026, 10:01:51 PM",
     "server_region": "southeast-asia"
 }
