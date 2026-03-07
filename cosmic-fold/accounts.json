@@ -46038,13 +46038,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695920007": {
-            "crew_id": 193273543124,
-            "crew_name": "天使社",
-            "equipping_title": "None",
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_7_0_22",
             "gender": 1,
-            "hp": 1155351.625,
-            "last_seen": "2026年2月10日 下午9:56:59",
-            "level": 82,
+            "hp": 1267896.375,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
+            },
+            "last_seen": "2026年3月7日 下午8:59:04",
+            "level": 85,
             "name": "魔法少女梦醒酱",
             "name_history": [
                 "魔法少女梦醒酱"
@@ -84522,6 +84531,6 @@
         }
     },
     "accounts_total": 5534,
-    "last_updated": "2026年3月7日 下午8:57:04",
+    "last_updated": "2026年3月7日 下午8:59:04",
     "server_region": "cosmic-fold"
 }
