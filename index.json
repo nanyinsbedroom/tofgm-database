@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026年3月7日 下午6:29:23",
+    "last_updated": "2026年3月7日 下午5:36:25",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -1951,6 +1951,15 @@
             "total_accounts": 1142,
             "total_crews": 68
         },
+        "unknown": {
+            "gender": {
+                "female": 1,
+                "male": 0
+            },
+            "last_updated": "2026年3月7日 下午5:36:25",
+            "total_accounts": 1,
+            "total_crews": 0
+        },
         "visser-aida": {
             "display_name": "蔚色艾达",
             "gender": {
@@ -2472,10 +2481,10 @@
             "total_crews": 73
         }
     },
-    "total_accounts": 28573,
+    "total_accounts": 28574,
     "total_crews": 2244,
     "total_genders": {
-        "female": 21118,
+        "female": 21119,
         "male": 7455
     }
 }
