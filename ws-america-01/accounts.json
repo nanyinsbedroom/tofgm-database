@@ -15204,11 +15204,11 @@
             "hp": 1140343.5,
             "last_known_position": {
                 "map": "city",
-                "x": -3566.429931640625,
-                "y": -28822.599609375,
-                "z": 96744.875
+                "x": -2486.81982421875,
+                "y": -22179.55859375,
+                "z": 97280.3984375
             },
-            "last_seen": "Mar 6, 2026, 12:31:17 AM",
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
             "level": 77,
             "name": "Keyd",
             "name_history": [
@@ -15250,16 +15250,16 @@
             ],
             "crew_id": 184692481830,
             "crew_name": "Stray",
-            "equipping_title": "火火's Mentor,0",
+            "equipping_title": "2_4_0_2",
             "gender": 1,
             "hp": 1132975.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1889.0799560546875,
-                "y": -26667.919921875,
-                "z": 97866.1171875
+                "x": 2194.320068359375,
+                "y": -22344.458984375,
+                "z": 96860.296875
             },
-            "last_seen": "Mar 6, 2026, 12:30:17 AM",
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
             "level": 77,
             "name": "--Makaku--",
             "name_history": [
@@ -20983,14 +20983,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 930395.125,
+            "hp": 960373.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1111.8099365234375,
-                "y": -24444.859375,
-                "z": 94767.8515625
+                "x": -1555.3699951171875,
+                "y": -23206.548828125,
+                "z": 96744.3359375
             },
-            "last_seen": "Mar 3, 2026, 8:32:41 PM",
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
             "level": 77,
             "name": "Josiani",
             "name_history": [
@@ -24874,11 +24874,11 @@
             "hp": 1162803.5,
             "last_known_position": {
                 "map": "city",
-                "x": -4232.759765625,
-                "y": -26810.619140625,
-                "z": 96738.375
+                "x": 1759.68994140625,
+                "y": -22164.859375,
+                "z": 96869.2890625
             },
-            "last_seen": "Mar 6, 2026, 12:30:17 AM",
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
             "level": 77,
             "name": "navi♡",
             "name_history": [
@@ -26726,6 +26726,31 @@
             ],
             "registered": "Jan 10, 2026, 4:23:09 PM",
             "role_id": 38174107413576889,
+            "server_region": "ws-america-01"
+        },
+        "38174107413576973": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "2_10_1_11",
+            "gender": 1,
+            "hp": 223365.765625,
+            "last_known_position": {
+                "map": "city",
+                "x": 3429.257568359375,
+                "y": -25579.005859375,
+                "z": 96732.484375
+            },
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
+            "level": 68,
+            "name": "Altara Glacia",
+            "name_history": [
+                "Altara Glacia"
+            ],
+            "registered": "Jan 11, 2026, 1:01:18 AM",
+            "role_id": 38174107413576973,
             "server_region": "ws-america-01"
         },
         "38174107413577095": {
@@ -34545,6 +34570,29 @@
             "role_id": 38174107413585099,
             "server_region": "ws-america-01"
         },
+        "38174107413585126": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 86597.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1890.5499267578125,
+                "y": -23508.5703125,
+                "z": 97902.875
+            },
+            "last_seen": "Mar 7, 2026, 1:47:02 AM",
+            "level": 26,
+            "name": "Giya",
+            "name_history": [
+                "Giya"
+            ],
+            "registered": "Mar 6, 2026, 7:40:17 AM",
+            "role_id": 38174107413585126,
+            "server_region": "ws-america-01"
+        },
         "38174107413585176": {
             "crew_history": [],
             "crew_id": 0,
@@ -34592,7 +34640,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1841,
-    "last_updated": "Mar 7, 2026, 1:45:01 AM",
+    "accounts_total": 1843,
+    "last_updated": "Mar 7, 2026, 1:47:02 AM",
     "server_region": "ws-america-01"
 }
