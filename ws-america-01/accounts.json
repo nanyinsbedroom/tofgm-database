@@ -2918,13 +2918,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413513393": {
+            "crew_history": [
+                "煉獄薔薇地獄"
+            ],
             "crew_id": 901952020262,
             "crew_name": "煉獄薔薇地獄",
             "equipping_title": "2_8_0_12",
             "gender": 0,
-            "hp": 898428.75,
-            "last_seen": "Feb 7, 2026, 2:28:09 PM",
-            "level": 74,
+            "hp": 480548.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50727.2578125,
+                "y": 106030.0546875,
+                "z": -11637.7294921875
+            },
+            "last_seen": "Mar 7, 2026, 1:45:01 AM",
+            "level": 77,
             "name": "隼翔",
             "name_history": [
                 "隼翔"
@@ -3270,14 +3279,14 @@
             "crew_name": "Supernova",
             "equipping_title": "1_9_0_1",
             "gender": 1,
-            "hp": 934845.8125,
+            "hp": 983684.4375,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -36135.0390625,
-                "y": 5216.81982421875,
-                "z": -12164.33984375
+                "map": "QRSL_P",
+                "x": -64207.328125,
+                "y": 101168.859375,
+                "z": -4975.2998046875
             },
-            "last_seen": "Mar 1, 2026, 5:50:09 PM",
+            "last_seen": "Mar 7, 2026, 1:45:01 AM",
             "level": 77,
             "name": "NezukoChaNN",
             "name_history": [
@@ -11150,14 +11159,14 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1081712.0,
+            "hp": 1096856.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -34507.33984375,
-                "y": 79917.78125,
-                "z": -14196.2197265625
+                "x": -34247.6796875,
+                "y": 79355.0546875,
+                "z": -14190.6494140625
             },
-            "last_seen": "Mar 6, 2026, 12:34:18 AM",
+            "last_seen": "Mar 7, 2026, 1:45:01 AM",
             "level": 77,
             "name": "Lorde Sensei",
             "name_history": [
@@ -34166,6 +34175,29 @@
             "role_id": 38174107413584851,
             "server_region": "ws-america-01"
         },
+        "38174107413584871": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 236948.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63154.4375,
+                "y": 107774.03125,
+                "z": -11658.6298828125
+            },
+            "last_seen": "Mar 7, 2026, 1:45:01 AM",
+            "level": 53,
+            "name": "Okichloe",
+            "name_history": [
+                "Okichloe"
+            ],
+            "registered": "Mar 4, 2026, 3:04:39 AM",
+            "role_id": 38174107413584871,
+            "server_region": "ws-america-01"
+        },
         "38174107413584884": {
             "crew_history": [],
             "crew_id": 0,
@@ -34513,6 +34545,29 @@
             "role_id": 38174107413585099,
             "server_region": "ws-america-01"
         },
+        "38174107413585176": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 76052.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -28372.12109375,
+                "y": 88754.25,
+                "z": -14791.8720703125
+            },
+            "last_seen": "Mar 7, 2026, 1:45:01 AM",
+            "level": 24,
+            "name": "Mawile",
+            "name_history": [
+                "Mawile"
+            ],
+            "registered": "Mar 6, 2026, 4:37:31 PM",
+            "role_id": 38174107413585176,
+            "server_region": "ws-america-01"
+        },
         "38174107413585245": {
             "crew_history": [],
             "crew_id": 0,
@@ -34537,7 +34592,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1839,
-    "last_updated": "Mar 7, 2026, 1:44:01 AM",
+    "accounts_total": 1841,
+    "last_updated": "Mar 7, 2026, 1:45:01 AM",
     "server_region": "ws-america-01"
 }
