@@ -19442,16 +19442,16 @@
             ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_075_World;66",
             "gender": 1,
-            "hp": 1489169.5,
+            "hp": 1508851.75,
             "last_known_position": {
                 "map": "city",
-                "x": 2237.7900390625,
-                "y": -28690.259765625,
-                "z": 97952.8203125
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年2月28日 下午10:07:03",
+            "last_seen": "2026年3月7日 下午9:01:04",
             "level": 84,
             "name": "尼古§我嘞个豆",
             "name_history": [
@@ -59025,13 +59025,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695962018": {
+            "crew_history": [
+                "塔学之家"
+            ],
             "crew_id": 395137006036,
             "crew_name": "塔学之家",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 665802.875,
-            "last_seen": "2026年01月26日 上午 4:19:52",
-            "level": 79,
+            "hp": 658095.25,
+            "last_known_position": {
+                "map": "city",
+                "x": -835.219970703125,
+                "y": -28384.939453125,
+                "z": 97876.9375
+            },
+            "last_seen": "2026年3月7日 下午9:01:04",
+            "level": 83,
             "name": "烧鸡牢六",
             "name_history": [
                 "烧鸡牢六"
@@ -66649,17 +66658,17 @@
             ],
             "crew_id": 193273543124,
             "crew_name": "天使社",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_006_world;37",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 838421.625,
+            "hp": 963877.375,
             "last_known_position": {
                 "map": "city",
-                "x": -1768.409912109375,
-                "y": -28696.80859375,
-                "z": 97865.546875
+                "x": -1803.760009765625,
+                "y": -28660.689453125,
+                "z": 97865.8359375
             },
-            "last_seen": "2026年2月21日 上午12:25:15",
-            "level": 84,
+            "last_seen": "2026年3月7日 下午9:01:04",
+            "level": 85,
             "name": "演绎乄孓涩",
             "name_history": [
                 "演绎乄孓涩"
@@ -84563,6 +84572,6 @@
         }
     },
     "accounts_total": 5535,
-    "last_updated": "2026年3月7日 下午9:00:04",
+    "last_updated": "2026年3月7日 下午9:01:04",
     "server_region": "cosmic-fold"
 }
