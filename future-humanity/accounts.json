@@ -5114,14 +5114,26 @@
             "server_region": "future-humanity"
         },
         "60563335202345": {
+            "crew_history": [
+                "幻塔公会"
+            ],
             "crew_id": 13460427519765,
             "crew_name": "幻塔公会",
-            "equipping_title": "2_10_1_6",
+            "equipping_title": "2_2_0_39",
             "gender": 1,
-            "hp": 1771583.0,
-            "last_seen": "2025年10月26日 下午 5:15:30",
+            "hp": 1993245.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21714.048828125
+            },
+            "last_seen": "2026年3月7日 下午8:22:36",
             "level": 100,
             "name": "深空星火",
+            "name_history": [
+                "深空星火"
+            ],
             "registered": "2024年4月22日 上午11:00:14",
             "role_id": 60563335202345,
             "server_region": "future-humanity"
@@ -25402,6 +25414,6 @@
         }
     },
     "accounts_total": 1156,
-    "last_updated": "2026年3月7日 下午8:21:36",
+    "last_updated": "2026年3月7日 下午8:22:36",
     "server_region": "future-humanity"
 }
