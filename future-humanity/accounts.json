@@ -11373,6 +11373,29 @@
             "role_id": 60563335609605,
             "server_region": "future-humanity"
         },
+        "60563335610011": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 466793.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -88721.796875,
+                "y": 82917.65625,
+                "z": -7037.40087890625
+            },
+            "last_seen": "2026年3月8日 下午2:26:56",
+            "level": 69,
+            "name": "幽丶軔",
+            "name_history": [
+                "幽丶軔"
+            ],
+            "registered": "2024年11月13日 下午11:12:15",
+            "role_id": 60563335610011,
+            "server_region": "future-humanity"
+        },
         "60563335610050": {
             "crew_id": 19576460949269,
             "crew_name": "源书の黑兔",
@@ -20387,12 +20410,21 @@
             "server_region": "future-humanity"
         },
         "60580513777330": {
+            "crew_history": [
+                "星岛"
+            ],
             "crew_id": 25769817877,
             "crew_name": "星岛",
-            "equipping_title": "2_10_1_5",
+            "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 1707509.125,
-            "last_seen": "2025年11月25日 上午 3:17:14",
+            "hp": 1757869.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91553.46875,
+                "y": 77411.1015625,
+                "z": -6917.2900390625
+            },
+            "last_seen": "2026年3月8日 下午2:26:56",
             "level": 100,
             "name": "跃入人生",
             "name_history": [
@@ -25941,7 +25973,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1177,
-    "last_updated": "2026年3月8日 下午2:25:56",
+    "accounts_total": 1178,
+    "last_updated": "2026年3月8日 下午2:26:56",
     "server_region": "future-humanity"
 }
