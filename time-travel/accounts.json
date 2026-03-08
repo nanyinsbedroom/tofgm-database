@@ -8214,13 +8214,22 @@
             "server_region": "time-travel"
         },
         "63574106431639": {
+            "crew_history": [
+                "小怪兽"
+            ],
             "crew_id": 824633735634,
             "crew_name": "小怪兽",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1259055.25,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1443631.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55169.3671875,
+                "y": -87171.4375,
+                "z": 21710.888671875
+            },
+            "last_seen": "2026年3月8日 下午8:04:58",
+            "level": 85,
             "name": "孤独王座",
             "name_history": [
                 "孤独王座"
@@ -22936,6 +22945,6 @@
         }
     },
     "accounts_total": 1146,
-    "last_updated": "2026年3月8日 下午8:03:58",
+    "last_updated": "2026年3月8日 下午8:04:58",
     "server_region": "time-travel"
 }
