@@ -10165,12 +10165,21 @@
             "server_region": "visser-aida"
         },
         "60623463384416": {
+            "crew_history": [
+                "墨影千秋"
+            ],
             "crew_id": 438086678307,
             "crew_name": "墨影千秋",
-            "equipping_title": "3_2021",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2364813.0,
-            "last_seen": "2025年11月25日 上午 4:31:18",
+            "hp": 2364906.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54465.61328125,
+                "y": -88011.3515625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月8日 下午10:19:18",
             "level": 100,
             "name": "奇诺キノ",
             "name_history": [
@@ -11604,6 +11613,31 @@
             "role_id": 60649233252831,
             "server_region": "visser-aida"
         },
+        "60649233254132": {
+            "crew_history": [
+                "提瓦特料理"
+            ],
+            "crew_id": 68719491049,
+            "crew_name": "提瓦特料理",
+            "equipping_title": "4_2022",
+            "gender": 1,
+            "hp": 1507075.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55190.08984375,
+                "y": -86924.65625,
+                "z": 21725.87890625
+            },
+            "last_seen": "2026年3月8日 下午10:19:18",
+            "level": 100,
+            "name": "廖辰星",
+            "name_history": [
+                "廖辰星"
+            ],
+            "registered": "2022年1月3日 上午7:57:31",
+            "role_id": 60649233254132,
+            "server_region": "visser-aida"
+        },
         "60653528157902": {
             "crew_id": 47244654378,
             "crew_name": "绯月",
@@ -12215,6 +12249,31 @@
             ],
             "registered": "2021年12月16日 上午8:43:10",
             "role_id": 60662118092042,
+            "server_region": "visser-aida"
+        },
+        "60662118102106": {
+            "crew_history": [
+                "丨神芸学都丨"
+            ],
+            "crew_id": 12884916007,
+            "crew_name": "丨神芸学都丨",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1606322.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54825.96875,
+                "y": -87770.1796875,
+                "z": 21710.888671875
+            },
+            "last_seen": "2026年3月8日 下午10:19:18",
+            "level": 100,
+            "name": "黛爷",
+            "name_history": [
+                "黛爷"
+            ],
+            "registered": "2021年12月16日 上午10:01:45",
+            "role_id": 60662118102106,
             "server_region": "visser-aida"
         },
         "60662118102722": {
@@ -20665,12 +20724,21 @@
             "server_region": "visser-aida"
         },
         "61508226682659": {
+            "crew_history": [
+                "星海旅人"
+            ],
             "crew_id": 1958505101084,
             "crew_name": "星海旅人",
-            "equipping_title": "1_4_6_6",
+            "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2229842.5,
-            "last_seen": "2026年2月9日 下午8:10:35",
+            "hp": 2325854.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53826.12890625,
+                "y": -87835.65625,
+                "z": 21710.859375
+            },
+            "last_seen": "2026年3月8日 下午10:19:18",
             "level": 100,
             "name": "高尔基",
             "name_history": [
@@ -23393,7 +23461,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1329,
-    "last_updated": "2026年3月8日 下午10:18:18",
+    "accounts_total": 1331,
+    "last_updated": "2026年3月8日 下午10:19:18",
     "server_region": "visser-aida"
 }
