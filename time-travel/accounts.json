@@ -2523,11 +2523,11 @@
             "hp": 1222596.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55591.0078125,
-                "y": -88405.640625,
-                "z": 21716.9296875
+                "x": -55079.95703125,
+                "y": -86880.046875,
+                "z": 21716.990234375
             },
-            "last_seen": "2026年3月4日 下午4:17:57",
+            "last_seen": "2026年3月8日 下午8:01:58",
             "level": 85,
             "name": "知中行發财",
             "name_history": [
@@ -5049,14 +5049,26 @@
             "server_region": "time-travel"
         },
         "63574106006793": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
-            "equipping_title": "1_7_1_2",
+            "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 709602.375,
-            "last_seen": "2025年10月26日 下午 2:08:13",
-            "level": 65,
+            "hp": 1697274.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53628.0,
+                "y": -88152.1796875,
+                "z": 21710.939453125
+            },
+            "last_seen": "2026年3月8日 下午8:01:58",
+            "level": 85,
             "name": "认真一刀",
+            "name_history": [
+                "认真一刀"
+            ],
             "registered": "2023年12月17日 下午3:58:24",
             "role_id": 63574106006793,
             "server_region": "time-travel"
@@ -8062,11 +8074,11 @@
             "hp": 1621804.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54233.1796875,
-                "y": -88094.6015625,
-                "z": 21710.958984375
+                "x": -54132.96875,
+                "y": -87783.640625,
+                "z": 21711.01953125
             },
-            "last_seen": "2026年3月6日 下午8:01:15",
+            "last_seen": "2026年3月8日 下午8:01:58",
             "level": 85,
             "name": "任雨瑶",
             "name_history": [
@@ -16158,14 +16170,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1435197.75,
+            "hp": 1441725.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55725.796875,
-                "y": -88523.5,
-                "z": 21717.359375
+                "x": -55679.609375,
+                "y": -88297.1796875,
+                "z": 21726.779296875
             },
-            "last_seen": "2026年3月4日 下午6:19:59",
+            "last_seen": "2026年3月8日 下午8:01:58",
             "level": 85,
             "name": "是依然呀",
             "name_history": [
@@ -22814,9 +22826,32 @@
             "registered": "2026年3月6日 下午7:51:41",
             "role_id": 63578402006195,
             "server_region": "time-travel"
+        },
+        "63578402006519": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41435.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54219.46875,
+                "y": -88198.375,
+                "z": 21825.1796875
+            },
+            "last_seen": "2026年3月8日 下午8:01:58",
+            "level": 11,
+            "name": "权谋",
+            "name_history": [
+                "权谋"
+            ],
+            "registered": "2026年3月8日 上午10:33:05",
+            "role_id": 63578402006519,
+            "server_region": "time-travel"
         }
     },
-    "accounts_total": 1142,
-    "last_updated": "2026年3月6日 下午10:29:51",
+    "accounts_total": 1143,
+    "last_updated": "2026年3月8日 下午8:01:58",
     "server_region": "time-travel"
 }
