@@ -13592,11 +13592,26 @@
             "server_region": "southeast-asia"
         },
         "68775311528934": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "2_10_1_3",
             "gender": 0,
-            "last_seen": "Oct 12, 2025, 04:16:44 AM",
+            "hp": 1394598.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -467.9100036621094,
+                "y": -22311.71875,
+                "z": 96748.375
+            },
+            "last_seen": "Mar 8, 2026, 9:17:13 PM",
+            "level": 100,
             "name": "Baptisia",
+            "name_history": [
+                "Baptisia"
+            ],
             "registered": "Aug 14, 2023, 7:31:01 PM",
             "role_id": 68775311528934,
             "server_region": "southeast-asia"
@@ -31262,6 +31277,6 @@
         }
     },
     "accounts_total": 2091,
-    "last_updated": "Mar 8, 2026, 9:13:13 PM",
+    "last_updated": "Mar 8, 2026, 9:17:13 PM",
     "server_region": "southeast-asia"
 }
