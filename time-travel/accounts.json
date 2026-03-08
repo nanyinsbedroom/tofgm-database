@@ -4784,11 +4784,11 @@
             "hp": 1704315.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55150.8671875,
-                "y": -88299.84375,
-                "z": 21717.369140625
+                "x": -54996.37890625,
+                "y": -86775.796875,
+                "z": 21717.37890625
             },
-            "last_seen": "2026年3月6日 下午8:10:16",
+            "last_seen": "2026年3月8日 下午8:06:58",
             "level": 85,
             "name": "Ao",
             "name_history": [
@@ -5358,13 +5358,22 @@
             "server_region": "time-travel"
         },
         "63574106017428": {
+            "crew_history": [
+                "绝幻"
+            ],
             "crew_id": 270582954450,
             "crew_name": "绝幻",
             "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1266395.25,
-            "last_seen": "2026年01月28日 上午 7:01:02",
-            "level": 80,
+            "hp": 1558820.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54580.94921875,
+                "y": -87734.7578125,
+                "z": 21723.91015625
+            },
+            "last_seen": "2026年3月8日 下午8:06:58",
+            "level": 85,
             "name": "void",
             "name_history": [
                 "void"
@@ -8420,20 +8429,21 @@
         },
         "63574106437016": {
             "crew_history": [
+                "樱花荘",
                 "星期三"
             ],
-            "crew_id": 8589949395,
-            "crew_name": "星期三",
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1616221.125,
+            "hp": 1617296.375,
             "last_known_position": {
-                "map": "city",
-                "x": 2.3999998569488525,
-                "y": -20508.69921875,
-                "z": 97812.4375
+                "map": "QRSL_P",
+                "x": -55199.12890625,
+                "y": -86878.5546875,
+                "z": 21717.490234375
             },
-            "last_seen": "2026年3月2日 下午7:15:36",
+            "last_seen": "2026年3月8日 下午8:06:58",
             "level": 85,
             "name": "刹那S清英",
             "name_history": [
@@ -21992,6 +22002,29 @@
             "role_id": 63578402004951,
             "server_region": "time-travel"
         },
+        "63578402005032": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "啊哦额呀耶的学徒,0",
+            "gender": 1,
+            "hp": 91778.3984375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55054.23828125,
+                "y": -87274.2265625,
+                "z": 21722.869140625
+            },
+            "last_seen": "2026年3月8日 下午8:06:58",
+            "level": 37,
+            "name": "哈哈哈接接接）",
+            "name_history": [
+                "哈哈哈接接接）"
+            ],
+            "registered": "2026年2月28日 上午8:19:09",
+            "role_id": 63578402005032,
+            "server_region": "time-travel"
+        },
         "63578402005103": {
             "crew_history": [],
             "crew_id": 0,
@@ -22994,7 +23027,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1148,
-    "last_updated": "2026年3月8日 下午8:05:58",
+    "accounts_total": 1149,
+    "last_updated": "2026年3月8日 下午8:06:58",
     "server_region": "time-travel"
 }
