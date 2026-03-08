@@ -7063,6 +7063,31 @@
             "role_id": 60589103679545,
             "server_region": "visser-aida"
         },
+        "60589103680602": {
+            "crew_history": [
+                "大饭堂"
+            ],
+            "crew_id": 77309425433,
+            "crew_name": "大饭堂",
+            "equipping_title": "3_2021",
+            "gender": 1,
+            "hp": 1484232.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55434.52734375,
+                "y": -88677.765625,
+                "z": 21725.958984375
+            },
+            "last_seen": "2026年3月8日 下午10:14:17",
+            "level": 100,
+            "name": "无口无心",
+            "name_history": [
+                "无口无心"
+            ],
+            "registered": "2021年12月16日 下午10:59:57",
+            "role_id": 60589103680602,
+            "server_region": "visser-aida"
+        },
         "60589103689937": {
             "crew_history": [
                 "大饭堂"
@@ -10656,12 +10681,21 @@
             "server_region": "visser-aida"
         },
         "60632053369256": {
+            "crew_history": [
+                "星陨阁"
+            ],
             "crew_id": 103079229226,
             "crew_name": "星陨阁",
             "equipping_title": "1_8_0_26",
             "gender": 1,
-            "hp": 1202052.0,
-            "last_seen": "2026年2月14日 上午12:09:09",
+            "hp": 1268463.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53742.8984375,
+                "y": -88104.5546875,
+                "z": 21717.46875
+            },
+            "last_seen": "2026年3月8日 下午10:14:17",
             "level": 100,
             "name": "49317",
             "name_history": [
@@ -23209,7 +23243,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1322,
-    "last_updated": "2026年3月8日 下午10:13:17",
+    "accounts_total": 1323,
+    "last_updated": "2026年3月8日 下午10:14:17",
     "server_region": "visser-aida"
 }
