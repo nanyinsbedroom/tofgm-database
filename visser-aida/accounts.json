@@ -1159,12 +1159,21 @@
             "server_region": "visser-aida"
         },
         "60567629753680": {
+            "crew_history": [
+                "茶馆"
+            ],
             "crew_id": 120259098390,
             "crew_name": "茶馆",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 1837237.0,
-            "last_seen": "2025年11月25日 上午 4:46:19",
+            "hp": 1895345.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54843.609375,
+                "y": -87558.3046875,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月8日 下午10:27:18",
             "level": 100,
             "name": "い拾荒少女",
             "name_history": [
@@ -23550,6 +23559,6 @@
         }
     },
     "accounts_total": 1334,
-    "last_updated": "2026年3月8日 下午10:25:18",
+    "last_updated": "2026年3月8日 下午10:27:18",
     "server_region": "visser-aida"
 }
