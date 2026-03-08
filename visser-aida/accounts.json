@@ -19223,12 +19223,21 @@
             "server_region": "visser-aida"
         },
         "61465276990882": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 12884916190,
             "crew_name": "命运石之门",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1160535.125,
-            "last_seen": "2025年12月22日 上午 5:15:07",
+            "hp": 1172191.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55119.37890625,
+                "y": -86906.3203125,
+                "z": 21717.48046875
+            },
+            "last_seen": "2026年3月8日 下午10:12:17",
             "level": 100,
             "name": "列克星敦-cv2",
             "name_history": [
@@ -23176,6 +23185,6 @@
         }
     },
     "accounts_total": 1321,
-    "last_updated": "2026年3月8日 下午10:11:17",
+    "last_updated": "2026年3月8日 下午10:12:17",
     "server_region": "visser-aida"
 }
