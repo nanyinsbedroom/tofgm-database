@@ -9989,11 +9989,26 @@
             "server_region": "visser-aida"
         },
         "60619168417496": {
+            "crew_history": [
+                "世界樹之葉"
+            ],
             "crew_id": 68719490851,
             "crew_name": "世界樹之葉",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": "2025年09月17日 下午 8:51:50",
+            "hp": 919694.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54715.546875,
+                "y": -87068.9375,
+                "z": 21710.87890625
+            },
+            "last_seen": "2026年3月8日 下午10:21:18",
+            "level": 100,
             "name": "冰封b",
+            "name_history": [
+                "冰封b"
+            ],
             "registered": "2021年12月16日 上午8:08:08",
             "role_id": 60619168417496,
             "server_region": "visser-aida"
@@ -23487,6 +23502,6 @@
         }
     },
     "accounts_total": 1332,
-    "last_updated": "2026年3月8日 下午10:20:18",
+    "last_updated": "2026年3月8日 下午10:21:18",
     "server_region": "visser-aida"
 }
