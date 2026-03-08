@@ -22192,12 +22192,21 @@
             "server_region": "visser-aida"
         },
         "62715114439329": {
+            "crew_history": [
+                "完美的一天"
+            ],
             "crew_id": 4672924432349,
             "crew_name": "完美的一天",
             "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 1648693.875,
-            "last_seen": "2026年2月9日 下午8:10:35",
+            "hp": 1676813.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54833.2578125,
+                "y": -86637.796875,
+                "z": 21710.990234375
+            },
+            "last_seen": "2026年3月8日 下午10:08:17",
             "level": 100,
             "name": "小笼包喵",
             "name_history": [
@@ -23028,6 +23037,6 @@
         }
     },
     "accounts_total": 1317,
-    "last_updated": "2026年3月8日 下午10:07:17",
+    "last_updated": "2026年3月8日 下午10:08:17",
     "server_region": "visser-aida"
 }
