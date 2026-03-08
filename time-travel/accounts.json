@@ -4186,15 +4186,15 @@
             "crew_name": "喵喵喵",
             "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 1204658.0,
+            "hp": 1239244.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -60257.44921875,
-                "y": 106711.2265625,
-                "z": -12914.7998046875
+                "x": -54096.0078125,
+                "y": -87621.0859375,
+                "z": 21722.41015625
             },
-            "last_seen": "2026年2月23日 下午7:43:48",
-            "level": 83,
+            "last_seen": "2026年3月8日 下午8:09:59",
+            "level": 84,
             "name": "泠夜",
             "name_history": [
                 "泠夜"
@@ -12599,15 +12599,15 @@
             "crew_name": "星奈海",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 1393582.375,
+            "hp": 1476918.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -89133.1953125,
-                "y": 84094.9375,
-                "z": -6894.39990234375
+                "x": -55287.44921875,
+                "y": -88511.9375,
+                "z": 21711.0
             },
-            "last_seen": "2026年2月23日 下午6:08:43",
-            "level": 84,
+            "last_seen": "2026年3月8日 下午8:09:59",
+            "level": 85,
             "name": "world.miku",
             "name_history": [
                 "world.miku"
@@ -16438,6 +16438,31 @@
             ],
             "registered": "2021年12月20日 上午1:39:04",
             "role_id": 63578401971941,
+            "server_region": "time-travel"
+        },
+        "63578401972017": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1290254.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53801.1171875,
+                "y": -87926.0390625,
+                "z": 21710.87890625
+            },
+            "last_seen": "2026年3月8日 下午8:09:59",
+            "level": 85,
+            "name": "乌米乌米乌！？！",
+            "name_history": [
+                "乌米乌米乌！？！"
+            ],
+            "registered": "2021年12月18日 上午4:25:38",
+            "role_id": 63578401972017,
             "server_region": "time-travel"
         },
         "63578401972092": {
@@ -23052,7 +23077,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1150,
-    "last_updated": "2026年3月8日 下午8:07:58",
+    "accounts_total": 1151,
+    "last_updated": "2026年3月8日 下午8:09:59",
     "server_region": "time-travel"
 }
