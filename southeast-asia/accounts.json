@@ -12147,14 +12147,26 @@
             "server_region": "southeast-asia"
         },
         "68771016363612": {
+            "crew_history": [
+                "Guardians"
+            ],
             "crew_id": 395137007241,
             "crew_name": "Guardians",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 1977033.125,
-            "last_seen": "Oct 22, 2025, 06:58:34 PM",
+            "hp": 1960705.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -66.08999633789063,
+                "y": -18115.2890625,
+                "z": 96343.0390625
+            },
+            "last_seen": "Mar 8, 2026, 9:37:14 PM",
             "level": 100,
             "name": "Shinsヅ",
+            "name_history": [
+                "Shinsヅ"
+            ],
             "registered": "Aug 11, 2022, 12:45:20 PM",
             "role_id": 68771016363612,
             "server_region": "southeast-asia"
@@ -31327,6 +31339,6 @@
         }
     },
     "accounts_total": 2093,
-    "last_updated": "Mar 8, 2026, 9:31:14 PM",
+    "last_updated": "Mar 8, 2026, 9:37:14 PM",
     "server_region": "southeast-asia"
 }
