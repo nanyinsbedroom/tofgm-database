@@ -6322,14 +6322,14 @@
             "crew_name": "樱花荘",
             "equipping_title": "4_2023",
             "gender": 1,
-            "hp": 1436452.625,
+            "hp": 1436953.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54672.296875,
-                "y": -87427.1015625,
-                "z": 21710.900390625
+                "x": -54204.0,
+                "y": -87872.140625,
+                "z": 21710.990234375
             },
-            "last_seen": "2026年3月6日 下午8:09:16",
+            "last_seen": "2026年3月8日 下午8:15:59",
             "level": 85,
             "name": "蝙蝠侠来抓我呀",
             "name_history": [
@@ -20360,6 +20360,31 @@
             "role_id": 63578402002913,
             "server_region": "time-travel"
         },
+        "63578402003159": {
+            "crew_history": [
+                "合欢宗"
+            ],
+            "crew_id": 3182570781138,
+            "crew_name": "合欢宗",
+            "equipping_title": "1_1_22_1",
+            "gender": 1,
+            "hp": 363687.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54664.47265625,
+                "y": -87997.8359375,
+                "z": 21724.3203125
+            },
+            "last_seen": "2026年3月8日 下午8:15:59",
+            "level": 75,
+            "name": "相好的",
+            "name_history": [
+                "相好的"
+            ],
+            "registered": "2026年2月19日 下午7:07:08",
+            "role_id": 63578402003159,
+            "server_region": "time-travel"
+        },
         "63578402003174": {
             "crew_history": [
                 "念"
@@ -23125,7 +23150,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1153,
-    "last_updated": "2026年3月8日 下午8:13:59",
+    "accounts_total": 1154,
+    "last_updated": "2026年3月8日 下午8:15:59",
     "server_region": "time-travel"
 }
