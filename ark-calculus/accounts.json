@@ -5890,14 +5890,14 @@
             "crew_name": "十月天宫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1089574.0,
+            "hp": 1022273.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55017.0390625,
-                "y": -87162.265625,
-                "z": 21726.048828125
+                "x": -55399.359375,
+                "y": -88736.71875,
+                "z": 21726.0
             },
-            "last_seen": "2026年3月3日 下午8:06:23",
+            "last_seen": "2026年3月9日 下午6:20:55",
             "level": 100,
             "name": "袁修仙",
             "name_history": [
@@ -5984,6 +5984,31 @@
             ],
             "registered": "2025年4月17日 下午11:41:12",
             "role_id": 62285617626830,
+            "server_region": "ark-calculus"
+        },
+        "62285617686226": {
+            "crew_history": [
+                "魔女茶话会"
+            ],
+            "crew_id": 296352758025,
+            "crew_name": "魔女茶话会",
+            "equipping_title": "1_1_29_1",
+            "gender": 0,
+            "hp": 1814708.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55190.5390625,
+                "y": -86844.8359375,
+                "z": 21717.5
+            },
+            "last_seen": "2026年3月9日 下午6:20:55",
+            "level": 100,
+            "name": "洛希亚",
+            "name_history": [
+                "洛希亚"
+            ],
+            "registered": "2025年4月20日 下午7:24:49",
+            "role_id": 62285617686226,
             "server_region": "ark-calculus"
         },
         "62285617686249": {
@@ -6968,6 +6993,31 @@
             ],
             "registered": "2025年11月15日 上午3:05:36",
             "role_id": 62285617836509,
+            "server_region": "ark-calculus"
+        },
+        "62285617836779": {
+            "crew_history": [
+                "梦染江山"
+            ],
+            "crew_id": 68719491245,
+            "crew_name": "梦染江山",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 814871.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55326.171875,
+                "y": -88447.7734375,
+                "z": 21726.009765625
+            },
+            "last_seen": "2026年3月9日 下午6:20:55",
+            "level": 95,
+            "name": "猗窝座.",
+            "name_history": [
+                "猗窝座."
+            ],
+            "registered": "2025年11月17日 下午12:58:23",
+            "role_id": 62285617836779,
             "server_region": "ark-calculus"
         },
         "62285617837207": {
@@ -26071,7 +26121,7 @@
             "server_region": "ark-calculus"
         }
     },
-    "accounts_total": 1196,
-    "last_updated": "2026年3月9日 下午6:19:55",
+    "accounts_total": 1198,
+    "last_updated": "2026年3月9日 下午6:20:55",
     "server_region": "ark-calculus"
 }
