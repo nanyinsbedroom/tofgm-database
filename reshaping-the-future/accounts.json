@@ -15814,20 +15814,22 @@
             "server_region": "reshaping-the-future"
         },
         "62715114595897": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "银岸"
+            ],
+            "crew_id": 4294981899,
+            "crew_name": "银岸",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 565784.5,
+            "hp": 842686.4375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -52986.4921875,
-                "y": -83632.484375,
-                "z": 15210.8583984375
+                "x": -55634.359375,
+                "y": -88861.859375,
+                "z": 21724.98046875
             },
-            "last_seen": "2026年3月4日 下午2:06:14",
-            "level": 49,
+            "last_seen": "2026年3月9日 下午8:03:31",
+            "level": 66,
             "name": "雷霆粉碎",
             "name_history": [
                 "雷霆粉碎"
@@ -26655,6 +26657,6 @@
         }
     },
     "accounts_total": 1178,
-    "last_updated": "2026年3月9日 下午8:02:31",
+    "last_updated": "2026年3月9日 下午8:03:31",
     "server_region": "reshaping-the-future"
 }
