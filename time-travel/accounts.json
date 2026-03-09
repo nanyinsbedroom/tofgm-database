@@ -3701,14 +3701,14 @@
             "crew_name": "樱花荘",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1599610.5,
+            "hp": 1609777.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54064.44140625,
-                "y": -88075.3828125,
-                "z": 21821.9296875
+                "x": -90597.984375,
+                "y": 83564.578125,
+                "z": -6890.19970703125
             },
-            "last_seen": "2026年3月8日 下午8:13:59",
+            "last_seen": "2026年3月9日 下午11:13:48",
             "level": 85,
             "name": "是云樱公主呀",
             "name_history": [
@@ -5036,16 +5036,16 @@
             ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "2_2_0_93",
             "gender": 1,
-            "hp": 1700617.0,
+            "hp": 1730502.125,
             "last_known_position": {
-                "map": "city",
-                "x": 2402.599853515625,
-                "y": -28413.708984375,
-                "z": 97952.8359375
+                "map": "QRSL_P",
+                "x": -90473.6171875,
+                "y": 83105.171875,
+                "z": -7051.4296875
             },
-            "last_seen": "2026年3月6日 下午10:08:50",
+            "last_seen": "2026年3月9日 下午11:13:48",
             "level": 85,
             "name": "JUN君",
             "name_history": [
@@ -22974,6 +22974,29 @@
             "role_id": 63578402005349,
             "server_region": "time-travel"
         },
+        "63578402005412": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 110184.796875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93740.21875,
+                "y": 83373.6796875,
+                "z": -7063.56005859375
+            },
+            "last_seen": "2026年3月9日 下午11:13:48",
+            "level": 49,
+            "name": "荷氏",
+            "name_history": [
+                "荷氏"
+            ],
+            "registered": "2026年3月1日 下午8:05:39",
+            "role_id": 63578402005412,
+            "server_region": "time-travel"
+        },
         "63578402005444": {
             "crew_history": [],
             "crew_id": 0,
@@ -23951,7 +23974,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1184,
-    "last_updated": "2026年3月9日 下午11:12:48",
+    "accounts_total": 1185,
+    "last_updated": "2026年3月9日 下午11:13:48",
     "server_region": "time-travel"
 }
