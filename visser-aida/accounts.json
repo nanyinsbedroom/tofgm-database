@@ -1526,12 +1526,21 @@
             "server_region": "visser-aida"
         },
         "60567630028224": {
+            "crew_history": [
+                "午夜茶会"
+            ],
             "crew_id": 442381645590,
             "crew_name": "午夜茶会",
             "equipping_title": "None",
             "gender": 1,
             "hp": 218000.625,
-            "last_seen": "2025年12月25日 上午 2:52:51",
+            "last_known_position": {
+                "map": "city",
+                "x": 0.03999999910593033,
+                "y": -25742.12890625,
+                "z": 100172.1875
+            },
+            "last_seen": "2026年3月9日 下午8:47:29",
             "level": 100,
             "name": "青柠晶石水晶糖",
             "name_history": [
@@ -23783,6 +23792,6 @@
         }
     },
     "accounts_total": 1341,
-    "last_updated": "2026年3月9日 下午8:42:28",
+    "last_updated": "2026年3月9日 下午8:47:29",
     "server_region": "visser-aida"
 }
