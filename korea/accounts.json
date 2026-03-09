@@ -17,12 +17,21 @@
             "server_region": "korea"
         },
         "42945811784404000": {
+            "crew_history": [
+                "별"
+            ],
             "crew_id": 867593392893,
             "crew_name": "별",
-            "equipping_title": "1_1_30_1",
+            "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2802325.75,
-            "last_seen": "Nov 13, 2025, 08:21:33 PM",
+            "hp": 2863676.0,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 81219.0,
+                "y": -229557.0,
+                "z": 5901.384765625
+            },
+            "last_seen": "Mar 10, 2026, 3:26:47 AM",
             "level": 100,
             "name": "라플라스",
             "name_history": [
@@ -403,12 +412,21 @@
             "server_region": "korea"
         },
         "42945811784487338": {
+            "crew_history": [
+                "별"
+            ],
             "crew_id": 867593392893,
             "crew_name": "별",
-            "equipping_title": "1_1_30_1",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2665487.25,
-            "last_seen": "Nov 17, 2025, 04:49:30 PM",
+            "hp": 2825931.75,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 81219.0,
+                "y": -229557.0,
+                "z": 5901.384765625
+            },
+            "last_seen": "Mar 10, 2026, 3:26:47 AM",
             "level": 100,
             "name": " 라플라스",
             "name_history": [
@@ -2184,6 +2202,31 @@
             "role_id": 42945824669352689,
             "server_region": "korea"
         },
+        "42945824669368260": {
+            "crew_history": [
+                "크라운산도"
+            ],
+            "crew_id": 17189868288,
+            "crew_name": "크라운산도",
+            "equipping_title": "2_10_1_2",
+            "gender": 1,
+            "hp": 1900524.0,
+            "last_known_position": {
+                "map": "Kailo_P",
+                "x": 81353.2109375,
+                "y": -229816.234375,
+                "z": 5901.40966796875
+            },
+            "last_seen": "Mar 10, 2026, 3:26:47 AM",
+            "level": 100,
+            "name": "시오링",
+            "name_history": [
+                "시오링"
+            ],
+            "registered": "Dec 13, 2022, 3:56:21 AM",
+            "role_id": 42945824669368260,
+            "server_region": "korea"
+        },
         "42945828964270547": {
             "crew_id": 605600387841,
             "crew_name": "Chaos",
@@ -2677,7 +2720,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 177,
-    "last_updated": "Mar 10, 2026, 3:24:46 AM",
+    "accounts_total": 178,
+    "last_updated": "Mar 10, 2026, 3:26:47 AM",
     "server_region": "korea"
 }
