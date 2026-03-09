@@ -42,12 +42,21 @@
             "server_region": "korea"
         },
         "42945811784416758": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2899566.75,
-            "last_seen": "Nov 20, 2025, 05:35:50 PM",
+            "hp": 3714738.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -8319.259765625,
+                "y": 53838.27734375,
+                "z": 41069.890625
+            },
+            "last_seen": "Mar 10, 2026, 3:27:47 AM",
             "level": 100,
             "name": "a.e",
             "name_history": [
@@ -2721,6 +2730,6 @@
         }
     },
     "accounts_total": 178,
-    "last_updated": "Mar 10, 2026, 3:26:47 AM",
+    "last_updated": "Mar 10, 2026, 3:27:47 AM",
     "server_region": "korea"
 }
