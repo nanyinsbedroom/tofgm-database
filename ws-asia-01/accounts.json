@@ -2289,13 +2289,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118545184": {
+            "crew_history": [
+                "式歌ベリア【本物】"
+            ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "2_10_1_8",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1061340.375,
-            "last_seen": "Feb 11, 2026, 9:42:43 PM",
-            "level": 75,
+            "hp": 1171477.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -1968.68994140625,
+                "y": -25233.41015625,
+                "z": 97904.71875
+            },
+            "last_seen": "Mar 10, 2026, 3:15:56 AM",
+            "level": 77,
             "name": "Yueying",
             "name_history": [
                 "Yueying"
@@ -7245,14 +7254,14 @@
             "crew_name": "じゃぱたま",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1185214.625,
+            "hp": 1160994.0,
             "last_known_position": {
                 "map": "city",
-                "x": 2622.06982421875,
-                "y": -26991.849609375,
-                "z": 96727.5078125
+                "x": -4946.830078125,
+                "y": -25930.6796875,
+                "z": 97285.8984375
             },
-            "last_seen": "Feb 24, 2026, 8:56:52 PM",
+            "last_seen": "Mar 10, 2026, 3:15:56 AM",
             "level": 77,
             "name": "クラリス",
             "name_history": [
@@ -16745,21 +16754,22 @@
         },
         "38174103118553529": {
             "crew_history": [
+                "LufusIntegra",
                 "WeWillWin"
             ],
-            "crew_id": 107383070501,
-            "crew_name": "WeWillWin",
-            "equipping_title": "1_9_0_1",
+            "crew_id": 399440846629,
+            "crew_name": "LufusIntegra",
+            "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1108689.5,
+            "hp": 1049439.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1057.5399169921875,
-                "y": -28324.9296875,
-                "z": 97866.1171875
+                "x": 350.19000244140625,
+                "y": -22149.798828125,
+                "z": 96731.2890625
             },
-            "last_seen": "Feb 18, 2026, 1:50:27 AM",
-            "level": 76,
+            "last_seen": "Mar 10, 2026, 3:15:56 AM",
+            "level": 77,
             "name": "IcarusX",
             "name_history": [
                 "IcarusX"
@@ -21291,14 +21301,14 @@
             "crew_name": "宿屋享楽",
             "equipping_title": "1_1_19_1",
             "gender": 1,
-            "hp": 1162352.5,
+            "hp": 1195399.5,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -38569.55078125,
-                "y": 9956.26953125,
-                "z": -18300.919921875
+                "map": "city",
+                "x": 302.8699951171875,
+                "y": -21324.958984375,
+                "z": 96742.859375
             },
-            "last_seen": "Feb 24, 2026, 8:52:52 PM",
+            "last_seen": "Mar 10, 2026, 3:15:56 AM",
             "level": 77,
             "name": "ngo",
             "name_history": [
@@ -22502,14 +22512,14 @@
             "crew_name": "居酒屋『低スペック桜花めいと』",
             "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1187657.25,
+            "hp": 1187657.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1830.2999267578125,
-                "y": -23630.900390625,
-                "z": 98644.78125
+                "x": 1395.7999267578125,
+                "y": -24186.19921875,
+                "z": 98638.28125
             },
-            "last_seen": "Mar 1, 2026, 8:43:10 PM",
+            "last_seen": "Mar 10, 2026, 3:15:56 AM",
             "level": 77,
             "name": "ぁぃころ",
             "name_history": [
@@ -90464,6 +90474,6 @@
         }
     },
     "accounts_total": 5416,
-    "last_updated": "Mar 10, 2026, 3:14:56 AM",
+    "last_updated": "Mar 10, 2026, 3:15:56 AM",
     "server_region": "ws-asia-01"
 }
