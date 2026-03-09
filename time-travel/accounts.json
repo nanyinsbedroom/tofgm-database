@@ -1220,6 +1220,31 @@
             "role_id": 63574105922416,
             "server_region": "time-travel"
         },
+        "63574105922666": {
+            "crew_history": [
+                "幻塔"
+            ],
+            "crew_id": 60129556946,
+            "crew_name": "幻塔",
+            "equipping_title": "WorldBossDamage_4;Boss_hum_078_world;85",
+            "gender": 0,
+            "hp": 1617204.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55869.0,
+                "y": -88503.296875,
+                "z": 21710.8203125
+            },
+            "last_seen": "2026年3月9日 下午10:23:23",
+            "level": 85,
+            "name": "雾临",
+            "name_history": [
+                "雾临"
+            ],
+            "registered": "2023年12月14日 上午10:12:40",
+            "role_id": 63574105922666,
+            "server_region": "time-travel"
+        },
         "63574105924521": {
             "crew_history": [],
             "crew_id": 0,
@@ -10186,13 +10211,22 @@
             "server_region": "time-travel"
         },
         "63578401475588": {
+            "crew_history": [
+                "星奈海"
+            ],
             "crew_id": 150323870162,
             "crew_name": "星奈海",
             "equipping_title": "1_1_10_2",
             "gender": 1,
-            "hp": 1352537.75,
-            "last_seen": "2026年2月5日 下午11:53:00",
-            "level": 82,
+            "hp": 1583845.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54215.140625,
+                "y": -88194.6953125,
+                "z": 21818.75
+            },
+            "last_seen": "2026年3月9日 下午10:23:23",
+            "level": 85,
             "name": "晓时候1",
             "name_history": [
                 "晓时候1"
@@ -23409,7 +23443,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1164,
-    "last_updated": "2026年3月9日 下午10:22:23",
+    "accounts_total": 1165,
+    "last_updated": "2026年3月9日 下午10:23:23",
     "server_region": "time-travel"
 }
