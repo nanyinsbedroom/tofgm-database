@@ -3434,12 +3434,21 @@
             "server_region": "ark-calculus"
         },
         "62285615736804": {
+            "crew_history": [
+                "月汐阁"
+            ],
             "crew_id": 60129556646,
             "crew_name": "月汐阁",
-            "equipping_title": "1_8_0_36",
+            "equipping_title": "1_8_0_30",
             "gender": 1,
-            "hp": 2825144.0,
-            "last_seen": "2026年01月31日 下午 11:39:32",
+            "hp": 2480910.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55267.828125,
+                "y": -87065.4609375,
+                "z": 21711.009765625
+            },
+            "last_seen": "2026年3月9日 下午4:01:15",
             "level": 100,
             "name": "王心凌男孩",
             "name_history": [
@@ -25319,6 +25328,6 @@
         }
     },
     "accounts_total": 1167,
-    "last_updated": "2026年3月9日 下午4:00:15",
+    "last_updated": "2026年3月9日 下午4:01:15",
     "server_region": "ark-calculus"
 }
