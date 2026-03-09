@@ -10343,13 +10343,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546796": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 793532.75,
-            "last_seen": "Feb 11, 2026, 9:11:50 PM",
-            "level": 75,
+            "hp": 1134159.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -72676.9296875,
+                "y": 48641.19921875,
+                "z": -12307.1201171875
+            },
+            "last_seen": "Mar 10, 2026, 3:09:56 AM",
+            "level": 77,
             "name": "めろん",
             "name_history": [
                 "めろん"
@@ -47874,13 +47883,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118565812": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 120267972389,
             "crew_name": "Eclipse Kitchen",
-            "equipping_title": "2_7_0_13",
+            "equipping_title": "WorldBossDamage_2;Boss_hum_064_world;6",
             "gender": 1,
-            "hp": 968822.25,
-            "last_seen": "Feb 9, 2026, 12:23:53 AM",
-            "level": 74,
+            "hp": 1112637.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73021.578125,
+                "y": 49750.56640625,
+                "z": -12314.7626953125
+            },
+            "last_seen": "Mar 10, 2026, 3:09:56 AM",
+            "level": 77,
             "name": "ULTRAFAELX",
             "name_history": [
                 "ULTRAFAELX"
@@ -60322,14 +60340,14 @@
             "crew_name": "こなもん",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1193914.375,
+            "hp": 1193916.0,
             "last_known_position": {
-                "map": "city",
-                "x": 141.92999267578125,
-                "y": -23880.369140625,
-                "z": 98601.8046875
+                "map": "QRSL_P",
+                "x": -72800.75,
+                "y": 46011.98046875,
+                "z": -14322.529296875
             },
-            "last_seen": "Mar 1, 2026, 8:56:10 PM",
+            "last_seen": "Mar 10, 2026, 3:09:56 AM",
             "level": 77,
             "name": "ニセモノ",
             "name_history": [
@@ -82290,16 +82308,16 @@
             ],
             "crew_id": 64433397541,
             "crew_name": "式歌ベリア【本物】",
-            "equipping_title": "2_2_0_32",
+            "equipping_title": "1_1_17_1",
             "gender": 1,
-            "hp": 1242301.125,
+            "hp": 1494978.5,
             "last_known_position": {
-                "map": "city",
-                "x": 442.5999755859375,
-                "y": -22319.359375,
-                "z": 96744.875
+                "map": "QRSL_P",
+                "x": -72801.9140625,
+                "y": 49829.7265625,
+                "z": -12323.2392578125
             },
-            "last_seen": "Mar 1, 2026, 8:45:10 PM",
+            "last_seen": "Mar 10, 2026, 3:09:56 AM",
             "level": 77,
             "name": "ナミポン",
             "name_history": [
@@ -90122,6 +90140,31 @@
             "role_id": 38174103118614359,
             "server_region": "ws-asia-01"
         },
+        "38174103118614386": {
+            "crew_history": [
+                "Eternal Sky"
+            ],
+            "crew_id": 283476729637,
+            "crew_name": "Eternal Sky",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 252446.171875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73165.0703125,
+                "y": 49696.08984375,
+                "z": -12315.8994140625
+            },
+            "last_seen": "Mar 10, 2026, 3:09:56 AM",
+            "level": 73,
+            "name": "Preset",
+            "name_history": [
+                "Preset"
+            ],
+            "registered": "Feb 28, 2026, 12:46:34 PM",
+            "role_id": 38174103118614386,
+            "server_region": "ws-asia-01"
+        },
         "38174103118614439": {
             "crew_history": [],
             "crew_id": 0,
@@ -90263,7 +90306,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5410,
-    "last_updated": "Mar 10, 2026, 3:07:51 AM",
+    "accounts_total": 5411,
+    "last_updated": "Mar 10, 2026, 3:09:56 AM",
     "server_region": "ws-asia-01"
 }
