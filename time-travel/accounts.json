@@ -10380,16 +10380,16 @@
             ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
-            "equipping_title": "2_7_0_22",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1693893.75,
+            "hp": 1723159.125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21717.548828125
+                "map": "city",
+                "x": 829.7999877929688,
+                "y": -28305.580078125,
+                "z": 97872.6171875
             },
-            "last_seen": "2026年3月6日 下午8:06:16",
+            "last_seen": "2026年3月9日 下午11:09:48",
             "level": 85,
             "name": "兄弟变女便宜我",
             "name_history": [
@@ -17300,6 +17300,31 @@
             "role_id": 63578401973125,
             "server_region": "time-travel"
         },
+        "63578401973421": {
+            "crew_history": [
+                "星奈海"
+            ],
+            "crew_id": 150323870162,
+            "crew_name": "星奈海",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1411823.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 107.0199966430664,
+                "y": -25139.978515625,
+                "z": 96706.9453125
+            },
+            "last_seen": "2026年3月9日 下午11:09:48",
+            "level": 85,
+            "name": "蕾米莉亚　",
+            "name_history": [
+                "蕾米莉亚　"
+            ],
+            "registered": "2021年12月16日 上午8:04:38",
+            "role_id": 63578401973421,
+            "server_region": "time-travel"
+        },
         "63578401973938": {
             "crew_history": [
                 "绝幻"
@@ -23784,7 +23809,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1177,
-    "last_updated": "2026年3月9日 下午11:08:48",
+    "accounts_total": 1178,
+    "last_updated": "2026年3月9日 下午11:09:48",
     "server_region": "time-travel"
 }
