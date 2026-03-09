@@ -1879,12 +1879,21 @@
             "server_region": "korea"
         },
         "42945820374339995": {
+            "crew_history": [
+                "쿵야"
+            ],
             "crew_id": 17189868286,
             "crew_name": "쿵야",
-            "equipping_title": "혼자여행的启迪人,1",
+            "equipping_title": "혼자여행's Enlightener,1",
             "gender": 1,
-            "hp": 1855420.25,
-            "last_seen": "Nov 24, 2025, 02:43:08 AM",
+            "hp": 1948169.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -1527.5540771484375,
+                "y": 40539.265625,
+                "z": 7351.26513671875
+            },
+            "last_seen": "Mar 10, 2026, 3:29:46 AM",
             "level": 100,
             "name": "VI00IV",
             "name_history": [
@@ -2730,6 +2739,6 @@
         }
     },
     "accounts_total": 178,
-    "last_updated": "Mar 10, 2026, 3:27:47 AM",
+    "last_updated": "Mar 10, 2026, 3:29:46 AM",
     "server_region": "korea"
 }
