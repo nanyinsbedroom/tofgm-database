@@ -20200,14 +20200,26 @@
             "server_region": "asia-pacific"
         },
         "47343427863610": {
+            "crew_history": [
+                "MoonmaidenS"
+            ],
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1047315.125,
-            "last_seen": "Oct 29, 2025, 11:41:54 PM",
+            "hp": 1317999.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -80275.6875,
+                "y": 60671.95703125,
+                "z": -8220.1796875
+            },
+            "last_seen": "Mar 10, 2026, 4:05:18 AM",
             "level": 100,
             "name": "Illeada",
+            "name_history": [
+                "Illeada"
+            ],
             "registered": "Feb 13, 2025, 7:09:47 PM",
             "role_id": 47343427863610,
             "server_region": "asia-pacific"
@@ -30102,6 +30114,29 @@
             "role_id": 47343427981177,
             "server_region": "asia-pacific"
         },
+        "47343427982240": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 704068.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.1796875,
+                "y": 75609.734375,
+                "z": -7031.24755859375
+            },
+            "last_seen": "Mar 10, 2026, 4:05:18 AM",
+            "level": 81,
+            "name": "Tsuma-sempai",
+            "name_history": [
+                "Tsuma-sempai"
+            ],
+            "registered": "Feb 2, 2026, 3:29:14 AM",
+            "role_id": 47343427982240,
+            "server_region": "asia-pacific"
+        },
         "47343427982264": {
             "crew_id": 0,
             "crew_name": "",
@@ -30194,6 +30229,29 @@
             ],
             "registered": "Feb 7, 2026, 10:25:39 AM",
             "role_id": 47343427984878,
+            "server_region": "asia-pacific"
+        },
+        "47343427986660": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2366.7099609375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -90935.0390625,
+                "y": 76676.140625,
+                "z": -7018.3896484375
+            },
+            "last_seen": "Mar 10, 2026, 4:05:18 AM",
+            "level": 6,
+            "name": "Unbo",
+            "name_history": [
+                "Unbo"
+            ],
+            "registered": "Feb 10, 2026, 4:01:59 PM",
+            "role_id": 47343427986660,
             "server_region": "asia-pacific"
         },
         "47343427986885": {
@@ -36843,7 +36901,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2588,
-    "last_updated": "Mar 10, 2026, 4:04:18 AM",
+    "accounts_total": 2590,
+    "last_updated": "Mar 10, 2026, 4:05:18 AM",
     "server_region": "asia-pacific"
 }
