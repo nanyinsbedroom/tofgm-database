@@ -7505,13 +7505,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118546131": {
+            "crew_history": [
+                "Eternal"
+            ],
             "crew_id": 107383070501,
-            "crew_name": "WeWillWin",
-            "equipping_title": "1_3_2_1",
+            "crew_name": "Eternal",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 999052.375,
-            "last_seen": "Feb 9, 2026, 12:19:59 AM",
-            "level": 74,
+            "hp": 1193123.375,
+            "last_known_position": {
+                "map": "city",
+                "x": 261.2200012207031,
+                "y": -22965.609375,
+                "z": 96717.6953125
+            },
+            "last_seen": "Mar 10, 2026, 3:12:56 AM",
+            "level": 77,
             "name": "洛斯琳",
             "name_history": [
                 "洛斯琳"
@@ -15770,13 +15779,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118552080": {
+            "crew_history": [
+                "幻塔の星騎士"
+            ],
             "crew_id": 214757252901,
             "crew_name": "幻塔の星騎士",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 618047.125,
-            "last_seen": "Jan 12, 2026, 10:43:17 AM",
-            "level": 70,
+            "hp": 982941.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -524.9500122070313,
+                "y": -28696.529296875,
+                "z": 97872.6171875
+            },
+            "last_seen": "Mar 10, 2026, 3:12:56 AM",
+            "level": 77,
             "name": "非公式いぬぅぅぅ！！",
             "name_history": [
                 "非公式いぬぅぅぅ！！"
@@ -89880,6 +89898,31 @@
             "role_id": 38174103118613957,
             "server_region": "ws-asia-01"
         },
+        "38174103118613969": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 901952020261,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 308701.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
+            },
+            "last_seen": "Mar 10, 2026, 3:12:56 AM",
+            "level": 70,
+            "name": "Oda",
+            "name_history": [
+                "Oda"
+            ],
+            "registered": "Feb 23, 2026, 3:37:08 AM",
+            "role_id": 38174103118613969,
+            "server_region": "ws-asia-01"
+        },
         "38174103118613999": {
             "crew_history": [],
             "crew_id": 0,
@@ -90395,7 +90438,7 @@
             "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5414,
-    "last_updated": "Mar 10, 2026, 3:10:56 AM",
+    "accounts_total": 5415,
+    "last_updated": "Mar 10, 2026, 3:12:56 AM",
     "server_region": "ws-asia-01"
 }
