@@ -17909,17 +17909,17 @@
             ],
             "crew_id": 369376075558,
             "crew_name": "Minor Threat",
-            "equipping_title": "WorldBossDamage_4;Boss_hum_020_world;52",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 565460.25,
+            "hp": 497302.6875,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -91098.015625,
-                "y": 77331.5703125,
-                "z": -7018.6396484375
+                "map": "city",
+                "x": -171.88442993164063,
+                "y": -28489.828125,
+                "z": 97879.4765625
             },
-            "last_seen": "Feb 28, 2026, 7:45:40 PM",
-            "level": 74,
+            "last_seen": "Mar 9, 2026, 4:57:55 PM",
+            "level": 75,
             "name": "Boahankok",
             "name_history": [
                 "Boahankok"
@@ -26010,14 +26010,14 @@
             "crew_name": "Supernova",
             "equipping_title": " Velick's Mentor,0",
             "gender": 1,
-            "hp": 1113532.75,
+            "hp": 1124015.875,
             "last_known_position": {
                 "map": "city",
-                "x": 2287.419921875,
-                "y": -27148.6796875,
-                "z": 97872.6171875
+                "x": 12.84000015258789,
+                "y": -16794.189453125,
+                "z": 96357.03125
             },
-            "last_seen": "Mar 7, 2026, 1:49:02 AM",
+            "last_seen": "Mar 9, 2026, 4:57:55 PM",
             "level": 77,
             "name": " Elysea",
             "name_history": [
@@ -34352,20 +34352,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413584871": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "Kitten Café"
+            ],
+            "crew_id": 115973005094,
+            "crew_name": "Kitten Café",
+            "equipping_title": "2_10_1_11",
             "gender": 1,
-            "hp": 236948.1875,
+            "hp": 332213.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -63154.4375,
-                "y": 107774.03125,
-                "z": -11658.6298828125
+                "map": "city",
+                "x": 1357.6671142578125,
+                "y": -28250.0390625,
+                "z": 97874.109375
             },
-            "last_seen": "Mar 7, 2026, 1:45:01 AM",
-            "level": 53,
+            "last_seen": "Mar 9, 2026, 4:57:55 PM",
+            "level": 63,
             "name": "Okichloe",
             "name_history": [
                 "Okichloe"
@@ -34838,6 +34840,6 @@
         }
     },
     "accounts_total": 1850,
-    "last_updated": "Mar 9, 2026, 4:56:55 PM",
+    "last_updated": "Mar 9, 2026, 4:57:55 PM",
     "server_region": "ws-america-01"
 }
