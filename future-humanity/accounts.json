@@ -1995,14 +1995,14 @@
             "crew_name": "周末少女旅行",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 1523892.875,
+            "hp": 1548784.75,
             "last_known_position": {
-                "map": "city",
-                "x": 13.960000038146973,
-                "y": -20986.349609375,
-                "z": 96737.859375
+                "map": "QRSL_P",
+                "x": -55487.109375,
+                "y": -88378.1796875,
+                "z": 21756.5234375
             },
-            "last_seen": "2026年2月28日 下午4:38:51",
+            "last_seen": "2026年3月9日 下午12:08:23",
             "level": 100,
             "name": "落吖",
             "name_history": [
@@ -8163,6 +8163,31 @@
             "role_id": 60563335363599,
             "server_region": "future-humanity"
         },
+        "60563335363959": {
+            "crew_history": [
+                "玲珑"
+            ],
+            "crew_id": 7597797160725,
+            "crew_name": "玲珑",
+            "equipping_title": "2_2_0_39",
+            "gender": 1,
+            "hp": 1770016.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55247.53125,
+                "y": -88547.0,
+                "z": 21725.009765625
+            },
+            "last_seen": "2026年3月9日 下午12:08:23",
+            "level": 100,
+            "name": "Eternally·",
+            "name_history": [
+                "Eternally·"
+            ],
+            "registered": "2024年6月29日 下午5:46:30",
+            "role_id": 60563335363959,
+            "server_region": "future-humanity"
+        },
         "60563335364250": {
             "crew_id": 13490492290837,
             "crew_name": "NPC",
@@ -10498,6 +10523,31 @@
             ],
             "registered": "2024年10月5日 下午11:51:21",
             "role_id": 60563335556299,
+            "server_region": "future-humanity"
+        },
+        "60563335556920": {
+            "crew_history": [
+                "源书の黑兔"
+            ],
+            "crew_id": 19576460949269,
+            "crew_name": "源书の黑兔",
+            "equipping_title": "2_10_1_1",
+            "gender": 1,
+            "hp": 1368750.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54754.859375,
+                "y": -87541.7265625,
+                "z": 21716.888671875
+            },
+            "last_seen": "2026年3月9日 下午12:08:23",
+            "level": 100,
+            "name": "咕哒子-alter",
+            "name_history": [
+                "咕哒子-alter"
+            ],
+            "registered": "2024年10月6日 上午11:51:35",
+            "role_id": 60563335556920,
             "server_region": "future-humanity"
         },
         "60563335564854": {
@@ -26605,7 +26655,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1204,
-    "last_updated": "2026年3月9日 下午12:07:23",
+    "accounts_total": 1206,
+    "last_updated": "2026年3月9日 下午12:08:23",
     "server_region": "future-humanity"
 }
