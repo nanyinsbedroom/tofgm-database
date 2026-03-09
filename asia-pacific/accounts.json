@@ -705,6 +705,29 @@
             "role_id": 47248935537642,
             "server_region": "asia-pacific"
         },
+        "47248935620387": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2286388.5,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 69517.546875,
+                "y": 33742.5390625,
+                "z": 6720.7197265625
+            },
+            "last_seen": "Mar 10, 2026, 4:22:45 AM",
+            "level": 100,
+            "name": "‧₊˚凪.Lnxɞ˚₊‧",
+            "name_history": [
+                "‧₊˚凪.Lnxɞ˚₊‧"
+            ],
+            "registered": "Dec 7, 2022, 4:24:15 AM",
+            "role_id": 47248935620387,
+            "server_region": "asia-pacific"
+        },
         "47248935621397": {
             "crew_id": 970662619904,
             "crew_name": "Nazarick",
@@ -16324,12 +16347,21 @@
             "server_region": "asia-pacific"
         },
         "47343426119290": {
+            "crew_history": [
+                "Dahlia"
+            ],
             "crew_id": 15444702407439,
             "crew_name": "Dahlia",
-            "equipping_title": "2_2_0_25",
+            "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 1163837.75,
-            "last_seen": "Nov 19, 2025, 06:32:15 PM",
+            "hp": 1811410.5,
+            "last_known_position": {
+                "map": "kailocity_P",
+                "x": 66563.90625,
+                "y": 32901.80078125,
+                "z": 6930.77001953125
+            },
+            "last_seen": "Mar 10, 2026, 4:22:45 AM",
             "level": 100,
             "name": "HOTTOL",
             "name_history": [
@@ -37056,7 +37088,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2596,
-    "last_updated": "Mar 10, 2026, 4:20:45 AM",
+    "accounts_total": 2597,
+    "last_updated": "Mar 10, 2026, 4:22:45 AM",
     "server_region": "asia-pacific"
 }
