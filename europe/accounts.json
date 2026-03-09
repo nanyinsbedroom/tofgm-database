@@ -5900,12 +5900,21 @@
             "server_region": "europe"
         },
         "55886114465663": {
+            "crew_history": [
+                "Architects"
+            ],
             "crew_id": 2138893726420,
             "crew_name": "Architects",
-            "equipping_title": "1_1_29_1",
+            "equipping_title": "2_2_0_39",
             "gender": 0,
-            "hp": 2024782.875,
-            "last_seen": "Nov 18, 2025, 01:33:07 AM",
+            "hp": 2077963.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58336.84765625,
+                "y": 102996.875,
+                "z": -12944.099609375
+            },
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
             "level": 100,
             "name": "Solkingx1",
             "name_history": [
@@ -6072,20 +6081,21 @@
         },
         "55886114490805": {
             "crew_history": [
+                "⏾Lumina",
                 "†Ryudara"
             ],
-            "crew_id": 17755394814694,
-            "crew_name": "†Ryudara",
+            "crew_id": 18283675792102,
+            "crew_name": "⏾Lumina",
             "equipping_title": "Tiberius Sun's Mentor,0",
             "gender": 0,
-            "hp": 2313825.0,
+            "hp": 2298581.0,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": 47676.10546875,
-                "y": -9055.94140625,
-                "z": 13091.1796875
+                "map": "QRSL_P",
+                "x": -39769.99609375,
+                "y": 90279.9921875,
+                "z": -13430.1396484375
             },
-            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
             "level": 100,
             "name": "FrozenPig",
             "name_history": [
@@ -21369,6 +21379,31 @@
             "role_id": 55963424770426,
             "server_region": "europe"
         },
+        "55963424770490": {
+            "crew_history": [
+                "Чёрная лагуна"
+            ],
+            "crew_id": 1335734842086,
+            "crew_name": "Чёрная лагуна",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 939205.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60241.796875,
+                "y": 106724.0859375,
+                "z": -12906.6494140625
+            },
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
+            "level": 77,
+            "name": "Xx_ZER0_xX",
+            "name_history": [
+                "Xx_ZER0_xX"
+            ],
+            "registered": "Feb 26, 2026, 1:21:58 AM",
+            "role_id": 55963424770490,
+            "server_region": "europe"
+        },
         "55963424771086": {
             "crew_history": [],
             "crew_id": 0,
@@ -21551,6 +21586,54 @@
             ],
             "registered": "Feb 28, 2026, 12:07:12 AM",
             "role_id": 55963424771248,
+            "server_region": "europe"
+        },
+        "55963424771617": {
+            "crew_history": [
+                "No Game No Life"
+            ],
+            "crew_id": 1683627193046,
+            "crew_name": "No Game No Life",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 760532.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60938.578125,
+                "y": 107960.15625,
+                "z": -12965.4794921875
+            },
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
+            "level": 66,
+            "name": "zackfairy",
+            "name_history": [
+                "zackfairy"
+            ],
+            "registered": "Feb 28, 2026, 7:32:30 PM",
+            "role_id": 55963424771617,
+            "server_region": "europe"
+        },
+        "55963424771967": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 953921.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -69997.125,
+                "y": 86439.7265625,
+                "z": -9846.6796875
+            },
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
+            "level": 80,
+            "name": "常夏",
+            "name_history": [
+                "常夏"
+            ],
+            "registered": "Mar 1, 2026, 11:02:14 AM",
+            "role_id": 55963424771967,
             "server_region": "europe"
         },
         "55963424772859": {
@@ -22036,6 +22119,29 @@
             ],
             "registered": "Mar 9, 2026, 6:40:57 PM",
             "role_id": 55963424775667,
+            "server_region": "europe"
+        },
+        "55963424775672": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3949.2236328125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57597.296875,
+                "y": 83616.8984375,
+                "z": -11494.099609375
+            },
+            "last_seen": "Mar 9, 2026, 7:48:18 PM",
+            "level": 7,
+            "name": "Booform",
+            "name_history": [
+                "Booform"
+            ],
+            "registered": "Mar 9, 2026, 6:46:50 PM",
+            "role_id": 55963424775672,
             "server_region": "europe"
         },
         "55963424775691": {
@@ -22847,7 +22953,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1472,
-    "last_updated": "Mar 9, 2026, 7:47:17 PM",
+    "accounts_total": 1476,
+    "last_updated": "Mar 9, 2026, 7:48:18 PM",
     "server_region": "europe"
 }
