@@ -3237,12 +3237,21 @@
             "server_region": "southeast-asia"
         },
         "68732361722341": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2609815.75,
-            "last_seen": "Feb 9, 2026, 12:42:49 AM",
+            "hp": 2653333.25,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 309568.5625,
+                "y": 113626.9140625,
+                "z": 42858.52734375
+            },
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
             "level": 100,
             "name": "NenekSado",
             "name_history": [
@@ -5401,12 +5410,21 @@
             "server_region": "southeast-asia"
         },
         "68740951585318": {
-            "crew_id": 184683609733,
-            "crew_name": "Guardian",
+            "crew_history": [
+                "Tea Party"
+            ],
+            "crew_id": 386547072645,
+            "crew_name": "Tea Party",
             "equipping_title": "2_2_0_29",
             "gender": 1,
-            "hp": 6274851.5,
-            "last_seen": "Feb 8, 2026, 7:09:51 PM",
+            "hp": 2021787.125,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 310093.75,
+                "y": 113967.515625,
+                "z": 42830.25
+            },
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
             "level": 100,
             "name": "Ａｒｔｇｕｎ",
             "name_history": [
@@ -9828,12 +9846,21 @@
             "server_region": "southeast-asia"
         },
         "68762426409478": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
             "equipping_title": "Title_tencentshare_os_15",
             "gender": 0,
-            "hp": 2069784.0,
-            "last_seen": "Nov 10, 2025, 06:35:21 PM",
+            "hp": 2274669.75,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 311079.125,
+                "y": 113617.9609375,
+                "z": 42835.25
+            },
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
             "level": 100,
             "name": "Alter",
             "name_history": [
@@ -24338,6 +24365,31 @@
             "role_id": 68775311758872,
             "server_region": "southeast-asia"
         },
+        "68775311759206": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
+            "crew_id": 1421634190994,
+            "crew_name": "Lunar Exclaire",
+            "equipping_title": "2_2_0_90",
+            "gender": 0,
+            "hp": 1292078.75,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 311182.6875,
+                "y": 113617.15625,
+                "z": 42842.23828125
+            },
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
+            "level": 100,
+            "name": "Nandi",
+            "name_history": [
+                "Nandi"
+            ],
+            "registered": "Dec 8, 2025, 9:54:38 PM",
+            "role_id": 68775311759206,
+            "server_region": "southeast-asia"
+        },
         "68775311759491": {
             "crew_id": 0,
             "crew_name": "",
@@ -28830,12 +28882,21 @@
             "server_region": "southeast-asia"
         },
         "68796786193644": {
+            "crew_history": [
+                "AVALANCHE"
+            ],
             "crew_id": 717259554436,
             "crew_name": "AVALANCHE",
-            "equipping_title": "2_10_1_1",
+            "equipping_title": "2_2_0_76",
             "gender": 0,
-            "hp": 2602987.0,
-            "last_seen": "Nov 30, 2025, 02:57:29 AM",
+            "hp": 2597266.25,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 308811.40625,
+                "y": 113349.7890625,
+                "z": 42841.48828125
+            },
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
             "level": 100,
             "name": "NongBook",
             "name_history": [
@@ -28853,14 +28914,14 @@
             "crew_name": "IRREGULARS",
             "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 2304160.0,
+            "hp": 2302847.0,
             "last_known_position": {
-                "map": "FinalTest_D",
-                "x": 708.5214233398438,
-                "y": -14.587394714355469,
-                "z": 963.1099853515625
+                "map": "Team8P_08_D_II",
+                "x": 309076.25,
+                "y": 113785.3515625,
+                "z": 42848.49609375
             },
-            "last_seen": "Mar 7, 2026, 9:28:49 PM",
+            "last_seen": "Mar 9, 2026, 8:00:17 PM",
             "level": 100,
             "name": "Ikusaki",
             "name_history": [
@@ -31395,7 +31456,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2095,
-    "last_updated": "Mar 9, 2026, 7:56:17 PM",
+    "accounts_total": 2096,
+    "last_updated": "Mar 9, 2026, 8:00:17 PM",
     "server_region": "southeast-asia"
 }
