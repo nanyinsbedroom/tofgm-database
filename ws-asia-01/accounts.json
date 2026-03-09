@@ -25304,21 +25304,22 @@
         },
         "38174103118556598": {
             "crew_history": [
+                "ミスティルテイン",
                 "じゃぱたま"
             ],
-            "crew_id": 47253528357,
-            "crew_name": "じゃぱたま",
-            "equipping_title": "1_3_2_1",
+            "crew_id": 30073659173,
+            "crew_name": "ミスティルテイン",
+            "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 979277.0625,
+            "hp": 1120519.625,
             "last_known_position": {
-                "map": "city",
-                "x": 3575.510009765625,
-                "y": -28740.330078125,
-                "z": 96738.375
+                "map": "QRSL_P",
+                "x": -91379.6171875,
+                "y": 73613.7109375,
+                "z": -6942.27978515625
             },
-            "last_seen": "Feb 15, 2026, 9:06:00 PM",
-            "level": 75,
+            "last_seen": "Mar 10, 2026, 3:07:51 AM",
+            "level": 77,
             "name": "りゅーん",
             "name_history": [
                 "りゅーん"
@@ -90237,9 +90238,32 @@
             "registered": "Mar 3, 2026, 4:08:31 PM",
             "role_id": 38174103118614660,
             "server_region": "ws-asia-01"
+        },
+        "38174103118615123": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 29384.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -77140.0078125,
+                "y": 77923.296875,
+                "z": -9797.2431640625
+            },
+            "last_seen": "Mar 10, 2026, 3:07:51 AM",
+            "level": 9,
+            "name": "HAMZAAYACH I",
+            "name_history": [
+                "HAMZAAYACH I"
+            ],
+            "registered": "Mar 8, 2026, 10:14:03 AM",
+            "role_id": 38174103118615123,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5409,
-    "last_updated": "Mar 3, 2026, 4:45:45 PM",
+    "accounts_total": 5410,
+    "last_updated": "Mar 10, 2026, 3:07:51 AM",
     "server_region": "ws-asia-01"
 }
