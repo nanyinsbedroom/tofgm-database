@@ -16658,12 +16658,21 @@
             "server_region": "asia-pacific"
         },
         "47343426311532": {
+            "crew_history": [
+                "Elysium "
+            ],
             "crew_id": 7692286438137,
             "crew_name": "Elysium ",
-            "equipping_title": "1_4_4_5",
+            "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1530260.25,
-            "last_seen": "Nov 18, 2025, 07:37:10 PM",
+            "hp": 1574609.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -60186.21875,
+                "y": 106769.6953125,
+                "z": -12908.1494140625
+            },
+            "last_seen": "Mar 10, 2026, 4:08:19 AM",
             "level": 100,
             "name": "Zhisa",
             "name_history": [
@@ -36925,6 +36934,6 @@
         }
     },
     "accounts_total": 2591,
-    "last_updated": "Mar 10, 2026, 4:07:19 AM",
+    "last_updated": "Mar 10, 2026, 4:08:19 AM",
     "server_region": "asia-pacific"
 }
