@@ -21098,14 +21098,14 @@
             "crew_name": "白月破晓",
             "equipping_title": "2_2_0_88",
             "gender": 1,
-            "hp": 1575930.0,
+            "hp": 1665319.375,
             "last_known_position": {
-                "map": "Vera_P",
-                "x": -3910.0,
-                "y": -59175.0,
-                "z": 10192.5400390625
+                "map": "city",
+                "x": -2757.56982421875,
+                "y": -26835.619140625,
+                "z": 98637.7890625
             },
-            "last_seen": "2026年3月4日 下午12:55:10",
+            "last_seen": "2026年3月10日 上午5:03:02",
             "level": 85,
             "name": "桪",
             "name_history": [
@@ -36114,20 +36114,21 @@
         },
         "63582695885274": {
             "crew_history": [
+                "命运石之门",
                 "幻塔"
             ],
-            "crew_id": 107374197204,
-            "crew_name": "幻塔",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1615123.75,
+            "hp": 1609402.125,
             "last_known_position": {
                 "map": "city",
-                "x": -16.53999900817871,
-                "y": -16133.9794921875,
-                "z": 96362.03125
+                "x": 1685.5699462890625,
+                "y": -28032.5390625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月6日 下午9:34:47",
+            "last_seen": "2026年3月10日 上午5:03:02",
             "level": 85,
             "name": "嗨皮",
             "name_history": [
@@ -83930,6 +83931,31 @@
             "role_id": 63582696015157,
             "server_region": "cosmic-fold"
         },
+        "63582696015158": {
+            "crew_history": [
+                "兰白波楚"
+            ],
+            "crew_id": 3539053066708,
+            "crew_name": "兰白波楚",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 197729.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 768.2999877929688,
+                "y": -27134.298828125,
+                "z": 96708.6015625
+            },
+            "last_seen": "2026年3月10日 上午5:03:02",
+            "level": 57,
+            "name": "墨雪.",
+            "name_history": [
+                "墨雪."
+            ],
+            "registered": "2026年3月5日 上午2:40:54",
+            "role_id": 63582696015158,
+            "server_region": "cosmic-fold"
+        },
         "63582696015163": {
             "crew_history": [],
             "crew_id": 0,
@@ -84160,6 +84186,29 @@
             ],
             "registered": "2026年3月5日 下午6:03:51",
             "role_id": 63582696015297,
+            "server_region": "cosmic-fold"
+        },
+        "63582696015303": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 96716.3984375,
+            "last_known_position": {
+                "map": "city",
+                "x": -6880.52001953125,
+                "y": -30148.904296875,
+                "z": 96329.5390625
+            },
+            "last_seen": "2026年3月10日 上午5:03:02",
+            "level": 49,
+            "name": "Gardenia",
+            "name_history": [
+                "Gardenia"
+            ],
+            "registered": "2026年3月5日 下午6:34:39",
+            "role_id": 63582696015303,
             "server_region": "cosmic-fold"
         },
         "63582696015304": {
@@ -85014,9 +85063,55 @@
             "registered": "2026年3月7日 下午7:31:49",
             "role_id": 63582696016406,
             "server_region": "cosmic-fold"
+        },
+        "63582696017527": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 40579.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3048.659912109375,
+                "y": -28257.6796875,
+                "z": 97989.140625
+            },
+            "last_seen": "2026年3月10日 上午5:03:02",
+            "level": 12,
+            "name": "星晚H",
+            "name_history": [
+                "星晚H"
+            ],
+            "registered": "2026年3月9日 下午9:27:48",
+            "role_id": 63582696017527,
+            "server_region": "cosmic-fold"
+        },
+        "63582696017538": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 41869.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 5065.56005859375,
+                "y": -25921.728515625,
+                "z": 97281.8984375
+            },
+            "last_seen": "2026年3月10日 上午5:03:02",
+            "level": 12,
+            "name": "ml柯",
+            "name_history": [
+                "ml柯"
+            ],
+            "registered": "2026年3月9日 下午9:51:54",
+            "role_id": 63582696017538,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5549,
-    "last_updated": "2026年3月7日 下午9:23:05",
+    "accounts_total": 5553,
+    "last_updated": "2026年3月10日 上午5:03:02",
     "server_region": "cosmic-fold"
 }
