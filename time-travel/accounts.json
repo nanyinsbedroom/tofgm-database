@@ -15428,14 +15428,14 @@
             "crew_name": "魔女之旅",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1627657.625,
+            "hp": 1635584.875,
             "last_known_position": {
-                "map": "city",
-                "x": -1958.0899658203125,
-                "y": -25772.779296875,
-                "z": 99800.609375
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21722.548828125
             },
-            "last_seen": "2026年3月2日 下午7:16:36",
+            "last_seen": "2026年3月9日 下午10:18:23",
             "level": 85,
             "name": "丶羽川翼丶",
             "name_history": [
@@ -18413,6 +18413,31 @@
             "role_id": 63578401986336,
             "server_region": "time-travel"
         },
+        "63578401986501": {
+            "crew_history": [
+                "烧鸡"
+            ],
+            "crew_id": 3131031173587,
+            "crew_name": "烧鸡",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 861680.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54752.296875,
+                "y": -87066.6875,
+                "z": 21721.048828125
+            },
+            "last_seen": "2026年3月9日 下午10:18:23",
+            "level": 85,
+            "name": "棒打蛙蛙",
+            "name_history": [
+                "棒打蛙蛙"
+            ],
+            "registered": "2025年1月10日 上午8:06:25",
+            "role_id": 63578401986501,
+            "server_region": "time-travel"
+        },
         "63578401986795": {
             "crew_history": [],
             "crew_id": 0,
@@ -20018,6 +20043,31 @@
             ],
             "registered": "2026年2月10日 上午10:52:55",
             "role_id": 63578402001307,
+            "server_region": "time-travel"
+        },
+        "63578402001348": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 104589.796875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57182.02734375,
+                "y": -80032.5859375,
+                "z": 22515.658203125
+            },
+            "last_seen": "2026年3月9日 下午10:18:23",
+            "level": 46,
+            "name": "qqaza",
+            "name_history": [
+                "qqaza"
+            ],
+            "registered": "2026年2月10日 下午3:16:19",
+            "role_id": 63578402001348,
             "server_region": "time-travel"
         },
         "63578402001414": {
@@ -23309,7 +23359,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1160,
-    "last_updated": "2026年3月9日 下午10:16:23",
+    "accounts_total": 1162,
+    "last_updated": "2026年3月9日 下午10:18:23",
     "server_region": "time-travel"
 }
