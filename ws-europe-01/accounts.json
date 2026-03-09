@@ -655,16 +655,16 @@
             ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "2_10_1_8",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1166968.5,
+            "hp": 1199472.875,
             "last_known_position": {
-                "map": "city",
-                "x": -1997.7698974609375,
-                "y": -24389.919921875,
-                "z": 97872.1015625
+                "map": "QRSL_P",
+                "x": -91167.0859375,
+                "y": 73417.890625,
+                "z": -7058.06982421875
             },
-            "last_seen": "Feb 27, 2026, 11:46:55 PM",
+            "last_seen": "Mar 9, 2026, 7:34:47 PM",
             "level": 77,
             "name": "Koritora",
             "name_history": [
@@ -23729,9 +23729,55 @@
             "registered": "Mar 6, 2026, 12:52:45 PM",
             "role_id": 38174111708527308,
             "server_region": "ws-europe-01"
+        },
+        "38174111708527525": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 101089.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93445.21875,
+                "y": 83874.1875,
+                "z": -7036.19970703125
+            },
+            "last_seen": "Mar 9, 2026, 7:34:47 PM",
+            "level": 32,
+            "name": "mifodyus",
+            "name_history": [
+                "mifodyus"
+            ],
+            "registered": "Mar 8, 2026, 5:23:32 PM",
+            "role_id": 38174111708527525,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708527585": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 10656.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -92488.8203125,
+                "y": 76096.4296875,
+                "z": -7050.85986328125
+            },
+            "last_seen": "Mar 9, 2026, 7:34:47 PM",
+            "level": 4,
+            "name": "Krieg",
+            "name_history": [
+                "Krieg"
+            ],
+            "registered": "Mar 9, 2026, 10:52:26 AM",
+            "role_id": 38174111708527585,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1277,
-    "last_updated": "Mar 9, 2026, 7:33:47 PM",
+    "accounts_total": 1279,
+    "last_updated": "Mar 9, 2026, 7:34:47 PM",
     "server_region": "ws-europe-01"
 }
