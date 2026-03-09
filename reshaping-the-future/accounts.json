@@ -16651,12 +16651,21 @@
             "server_region": "reshaping-the-future"
         },
         "62719407638056": {
+            "crew_history": [
+                "银月"
+            ],
             "crew_id": 42949687563,
             "crew_name": "银月",
-            "equipping_title": "2_2_0_63",
+            "equipping_title": "2_9_0_2",
             "gender": 1,
-            "hp": 2307020.25,
-            "last_seen": "2026年2月12日 下午7:02:08",
+            "hp": 2302103.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月9日 下午8:18:32",
             "level": 100,
             "name": "乐乐酱",
             "name_history": [
@@ -27053,6 +27062,6 @@
         }
     },
     "accounts_total": 1194,
-    "last_updated": "2026年3月9日 下午8:17:32",
+    "last_updated": "2026年3月9日 下午8:18:32",
     "server_region": "reshaping-the-future"
 }
