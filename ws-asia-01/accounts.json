@@ -25327,7 +25327,7 @@
                 "y": 73613.7109375,
                 "z": -6942.27978515625
             },
-            "last_seen": "Mar 10, 2026, 3:07:51 AM",
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
             "level": 77,
             "name": "りゅーん",
             "name_history": [
@@ -50773,13 +50773,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118568481": {
+            "crew_history": [
+                "Fantasia"
+            ],
             "crew_id": 133152874277,
             "crew_name": "Fantasia",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 164255.203125,
-            "last_seen": "Dec 28, 2025, 12:36:51 AM",
-            "level": 62,
+            "hp": 321093.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -61621.59765625,
+                "y": 108531.09375,
+                "z": -11436.359375
+            },
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 75,
             "name": "Mo",
             "name_history": [
                 "Mo"
@@ -55866,13 +55875,22 @@
             "server_region": "ws-asia-01"
         },
         "38174103118573508": {
-            "crew_id": 2400895606565,
-            "crew_name": "アシスト商店",
+            "crew_history": [
+                "りんごあめ"
+            ],
+            "crew_id": 304951566117,
+            "crew_name": "りんごあめ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 301464.59375,
-            "last_seen": "Jan 11, 2026, 01:01:04 AM",
-            "level": 68,
+            "hp": 525343.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56442.01953125,
+                "y": 63988.4375,
+                "z": -3041.139892578125
+            },
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 76,
             "name": "ちょこれいと",
             "name_history": [
                 "ちょこれいと"
@@ -66087,20 +66105,21 @@
         },
         "38174103118582036": {
             "crew_history": [
+                "らい☆ぶら",
                 "Library"
             ],
-            "crew_id": 1198304763685,
-            "crew_name": "Library",
+            "crew_id": 579829473061,
+            "crew_name": "らい☆ぶら",
             "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1125119.875,
+            "hp": 1253328.875,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -37327.85546875,
-                "y": 9895.9384765625,
-                "z": -14037.970703125
+                "map": "QRSL_P",
+                "x": -71491.0390625,
+                "y": 66758.890625,
+                "z": -9863.9296875
             },
-            "last_seen": "Feb 27, 2026, 7:06:24 AM",
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
             "level": 77,
             "name": "Rikoris",
             "name_history": [
@@ -86477,19 +86496,20 @@
             ],
             "crew_id": 68728364837,
             "crew_name": "StarDust Saints",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 1009476.375,
+            "hp": 1137636.125,
             "last_known_position": {
-                "map": "city",
-                "x": -22.5,
-                "y": -16482.900390625,
-                "z": 96375.5390625
+                "map": "QRSL_P",
+                "x": -64596.09765625,
+                "y": 105880.5,
+                "z": -7177.27783203125
             },
-            "last_seen": "Feb 18, 2026, 7:33:50 PM",
-            "level": 76,
-            "name": "Art3",
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 77,
+            "name": "ART3MISS",
             "name_history": [
+                "ART3MISS",
                 "Art3"
             ],
             "registered": "Jan 5, 2026, 10:58:16 AM",
@@ -90304,9 +90324,78 @@
             "registered": "Mar 8, 2026, 10:14:03 AM",
             "role_id": 38174103118615123,
             "server_region": "ws-asia-01"
+        },
+        "38174103118615278": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 31112.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -81054.3984375,
+                "y": 70447.65625,
+                "z": -8547.9599609375
+            },
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 11,
+            "name": "ぺいこん",
+            "name_history": [
+                "ぺいこん"
+            ],
+            "registered": "Mar 10, 2026, 1:02:34 AM",
+            "role_id": 38174103118615278,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118615284": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 45510.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57704.0703125,
+                "y": 83515.1875,
+                "z": -11500.599609375
+            },
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 8,
+            "name": "かぜたけ",
+            "name_history": [
+                "かぜたけ"
+            ],
+            "registered": "Mar 10, 2026, 2:30:23 AM",
+            "role_id": 38174103118615284,
+            "server_region": "ws-asia-01"
+        },
+        "38174103118615285": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16900.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -57519.7890625,
+                "y": 83032.234375,
+                "z": -11497.919921875
+            },
+            "last_seen": "Mar 10, 2026, 3:10:56 AM",
+            "level": 6,
+            "name": "CuteElisa",
+            "name_history": [
+                "CuteElisa"
+            ],
+            "registered": "Mar 10, 2026, 2:49:42 AM",
+            "role_id": 38174103118615285,
+            "server_region": "ws-asia-01"
         }
     },
-    "accounts_total": 5411,
-    "last_updated": "Mar 10, 2026, 3:09:56 AM",
+    "accounts_total": 5414,
+    "last_updated": "Mar 10, 2026, 3:10:56 AM",
     "server_region": "ws-asia-01"
 }
