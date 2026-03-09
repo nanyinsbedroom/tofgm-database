@@ -83909,20 +83909,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696015157": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "月歌行"
+            ],
+            "crew_id": 128849033684,
+            "crew_name": "月歌行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 8064.0,
+            "hp": 140713.59375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -97812.359375,
-                "y": 80791.328125,
-                "z": -5264.56982421875
+                "x": -69210.4921875,
+                "y": 106324.1171875,
+                "z": -6802.96875
             },
-            "last_seen": "2026年3月5日 上午1:56:47",
-            "level": 1,
+            "last_seen": "2026年3月10日 上午5:17:03",
+            "level": 45,
             "name": "孙怡",
             "name_history": [
                 "孙怡"
@@ -84880,6 +84882,29 @@
             "role_id": 63582696015787,
             "server_region": "cosmic-fold"
         },
+        "63582696015805": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 88712.546875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62897.0078125,
+                "y": 101278.46875,
+                "z": -9061.0302734375
+            },
+            "last_seen": "2026年3月10日 上午5:17:03",
+            "level": 50,
+            "name": "叫我江就行",
+            "name_history": [
+                "叫我江就行"
+            ],
+            "registered": "2026年3月6日 下午11:17:04",
+            "role_id": 63582696015805,
+            "server_region": "cosmic-fold"
+        },
         "63582696015943": {
             "crew_history": [],
             "crew_id": 0,
@@ -85134,7 +85159,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5554,
-    "last_updated": "2026年3月10日 上午5:15:03",
+    "accounts_total": 5555,
+    "last_updated": "2026年3月10日 上午5:17:03",
     "server_region": "cosmic-fold"
 }
