@@ -1444,11 +1444,26 @@
             "server_region": "south-america"
         },
         "64445984315876": {
+            "crew_history": [
+                "YoRHa"
+            ],
             "crew_id": 777389095578,
             "crew_name": "YoRHa",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "last_seen": "Sep 07, 2025, 04:28:52 AM",
+            "hp": 2818897.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326620.5625,
+                "y": 200502.953125,
+                "z": -28339.0390625
+            },
+            "last_seen": "Mar 10, 2026, 6:29:01 PM",
+            "level": 100,
             "name": "TakaKoruja",
+            "name_history": [
+                "TakaKoruja"
+            ],
             "registered": "Aug 12, 2022, 7:54:02 AM",
             "role_id": 64445984315876,
             "server_region": "south-america"
@@ -6040,6 +6055,6 @@
         }
     },
     "accounts_total": 377,
-    "last_updated": "Mar 10, 2026, 6:28:01 PM",
+    "last_updated": "Mar 10, 2026, 6:29:01 PM",
     "server_region": "south-america"
 }
