@@ -275,12 +275,21 @@
             "server_region": "south-america"
         },
         "64433099387661": {
+            "crew_history": [
+                "YoRHa"
+            ],
             "crew_id": 777389095578,
             "crew_name": "YoRHa",
             "equipping_title": "1_1_27_1",
             "gender": 1,
-            "hp": 2637484.5,
-            "last_seen": "Nov 19, 2025, 03:12:31 AM",
+            "hp": 2573040.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56011.7578125,
+                "y": -88865.0859375,
+                "z": 21710.80859375
+            },
+            "last_seen": "Mar 10, 2026, 6:04:00 PM",
             "level": 100,
             "name": "Meretrix®",
             "name_history": [
@@ -1931,6 +1940,31 @@
             "role_id": 64463164175392,
             "server_region": "south-america"
         },
+        "64463164239905": {
+            "crew_history": [
+                "Nightfall "
+            ],
+            "crew_id": 1331439876775,
+            "crew_name": "Nightfall ",
+            "equipping_title": "HuntingRank_1;imitation_55;2",
+            "gender": 0,
+            "hp": 2106440.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56022.21875,
+                "y": -89409.390625,
+                "z": 21724.3203125
+            },
+            "last_seen": "Mar 10, 2026, 6:04:00 PM",
+            "level": 100,
+            "name": "•Noir〆",
+            "name_history": [
+                "•Noir〆"
+            ],
+            "registered": "Sep 10, 2022, 12:42:45 AM",
+            "role_id": 64463164239905,
+            "server_region": "south-america"
+        },
         "64463164265780": {
             "crew_id": 21474851498,
             "crew_name": "Ragnarock ",
@@ -2417,12 +2451,21 @@
             "server_region": "south-america"
         },
         "64476049119195": {
+            "crew_history": [
+                "Lotus Blossoms"
+            ],
             "crew_id": 511101123236,
             "crew_name": "Lotus Blossoms",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2001720.125,
-            "last_seen": "Nov 23, 2025, 10:03:13 PM",
+            "hp": 2060903.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55592.55859375,
+                "y": -88085.015625,
+                "z": 21732.30859375
+            },
+            "last_seen": "Mar 10, 2026, 6:04:00 PM",
             "level": 100,
             "name": "Kuza",
             "name_history": [
@@ -5132,6 +5175,29 @@
             "role_id": 64493229283171,
             "server_region": "south-america"
         },
+        "64493229283542": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 828395.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54406.80859375,
+                "y": -88092.2578125,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 10, 2026, 6:04:00 PM",
+            "level": 72,
+            "name": "Nonoe",
+            "name_history": [
+                "Nonoe"
+            ],
+            "registered": "Feb 21, 2026, 9:19:18 PM",
+            "role_id": 64493229283542,
+            "server_region": "south-america"
+        },
         "64497523888165": {
             "crew_id": 3676492020378,
             "crew_name": "TENGU",
@@ -5283,6 +5349,31 @@
             "role_id": 64501818862840,
             "server_region": "south-america"
         },
+        "64501818864963": {
+            "crew_history": [
+                "Ragnarock "
+            ],
+            "crew_id": 21474851498,
+            "crew_name": "Ragnarock ",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 2549957.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54715.77734375,
+                "y": -87040.9765625,
+                "z": 21710.87890625
+            },
+            "last_seen": "Mar 10, 2026, 6:04:00 PM",
+            "level": 100,
+            "name": "Tachuelah",
+            "name_history": [
+                "Tachuelah"
+            ],
+            "registered": "Aug 11, 2022, 5:12:04 AM",
+            "role_id": 64501818864963,
+            "server_region": "south-america"
+        },
         "64501818882449": {
             "crew_id": 3796751104672,
             "crew_name": "Stray",
@@ -5400,7 +5491,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 356,
-    "last_updated": "Mar 3, 2026, 8:27:41 PM",
+    "accounts_total": 359,
+    "last_updated": "Mar 10, 2026, 6:04:00 PM",
     "server_region": "south-america"
 }
