@@ -1483,12 +1483,21 @@
             "server_region": "north-america"
         },
         "51561082388754": {
+            "crew_history": [
+                "Grand Order"
+            ],
             "crew_id": 1056561966818,
             "crew_name": "Grand Order",
             "equipping_title": "Tencent_Sever_39",
             "gender": 0,
-            "hp": 1806527.625,
-            "last_seen": "Nov 02, 2025, 05:09:34 AM",
+            "hp": 1839513.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55191.87890625,
+                "y": -88039.6484375,
+                "z": 21717.51953125
+            },
+            "last_seen": "Mar 10, 2026, 12:47:15 PM",
             "level": 100,
             "name": "VigiI",
             "name_history": [
@@ -14380,6 +14389,6 @@
         }
     },
     "accounts_total": 939,
-    "last_updated": "Mar 10, 2026, 12:40:15 PM",
+    "last_updated": "Mar 10, 2026, 12:47:15 PM",
     "server_region": "north-america"
 }
