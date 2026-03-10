@@ -660,16 +660,16 @@
             ],
             "crew_id": 416611842514,
             "crew_name": "雪绒白巧",
-            "equipping_title": "2_7_0_18",
+            "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1698930.625,
+            "hp": 1703455.125,
             "last_known_position": {
-                "map": "city",
-                "x": -2264.93994140625,
-                "y": -24581.3203125,
-                "z": 97872.015625
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21825.9296875
             },
-            "last_seen": "2026年3月9日 下午11:06:48",
+            "last_seen": "2026年3月10日 下午6:05:36",
             "level": 85,
             "name": "爱莉子",
             "name_history": [
@@ -9318,6 +9318,31 @@
             ],
             "registered": "2024年2月8日 上午2:31:10",
             "role_id": 63578400894376,
+            "server_region": "time-travel"
+        },
+        "63578400895849": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
+            "crew_id": 416611842514,
+            "crew_name": "雪绒白巧",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1582364.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54265.46875,
+                "y": -87777.9609375,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月10日 下午6:05:36",
+            "level": 85,
+            "name": "梨花院落溶溶月",
+            "name_history": [
+                "梨花院落溶溶月"
+            ],
+            "registered": "2024年2月8日 上午10:48:19",
+            "role_id": 63578400895849,
             "server_region": "time-travel"
         },
         "63578400918061": {
@@ -18916,11 +18941,11 @@
             "hp": 1250322.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54134.95703125,
-                "y": -88046.8984375,
-                "z": 21724.548828125
+                "x": -55025.3359375,
+                "y": -86859.5625,
+                "z": 21789.880859375
             },
-            "last_seen": "2026年3月8日 下午8:02:58",
+            "last_seen": "2026年3月10日 下午6:05:36",
             "level": 85,
             "name": "无双超好梦圆",
             "name_history": [
@@ -24557,7 +24582,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1208,
-    "last_updated": "2026年3月10日 下午6:04:36",
+    "accounts_total": 1209,
+    "last_updated": "2026年3月10日 下午6:05:36",
     "server_region": "time-travel"
 }
