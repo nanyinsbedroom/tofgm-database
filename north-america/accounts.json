@@ -4993,12 +4993,21 @@
             "server_region": "north-america"
         },
         "51599737166592": {
-            "crew_id": 803158896357,
-            "crew_name": "Solstice",
+            "crew_history": [
+                "Michi Pizzería"
+            ],
+            "crew_id": 6158983114473,
+            "crew_name": "Michi Pizzería",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 1827303.375,
-            "last_seen": "Nov 22, 2025, 01:38:03 PM",
+            "hp": 1799093.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54815.5703125,
+                "y": -87729.890625,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 10, 2026, 1:31:18 PM",
             "level": 100,
             "name": "Rinoa♥Heartilly",
             "name_history": [
@@ -14495,6 +14504,6 @@
         }
     },
     "accounts_total": 941,
-    "last_updated": "Mar 10, 2026, 1:26:17 PM",
+    "last_updated": "Mar 10, 2026, 1:31:18 PM",
     "server_region": "north-america"
 }
