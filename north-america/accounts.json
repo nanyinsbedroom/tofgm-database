@@ -268,12 +268,21 @@
             "server_region": "north-america"
         },
         "51543902671425": {
+            "crew_history": [
+                "Tower of Heroes"
+            ],
             "crew_id": 6227702591201,
             "crew_name": "Tower of Heroes",
             "equipping_title": "3_2023",
             "gender": 0,
-            "hp": 2805310.75,
-            "last_seen": "Jan 20, 2026, 09:28:52 PM",
+            "hp": 2782615.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55704.62890625,
+                "y": -78517.75,
+                "z": 22177.505859375
+            },
+            "last_seen": "Mar 10, 2026, 2:47:21 PM",
             "level": 100,
             "name": "-Pantheon-",
             "name_history": [
@@ -14985,6 +14994,6 @@
         }
     },
     "accounts_total": 958,
-    "last_updated": "Mar 10, 2026, 2:23:20 PM",
+    "last_updated": "Mar 10, 2026, 2:47:21 PM",
     "server_region": "north-america"
 }
