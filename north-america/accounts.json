@@ -13312,11 +13312,26 @@
             "server_region": "north-america"
         },
         "51634096836669": {
-            "crew_id": 0,
-            "crew_name": "",
-            "gender": 1,
-            "last_seen": "Sep 22, 2025, 12:06:00 PM",
+            "crew_history": [
+                "Grand Order"
+            ],
+            "crew_id": 1056561966818,
+            "crew_name": "Grand Order",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2004729.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53423.21875,
+                "y": -92199.796875,
+                "z": 21724.46875
+            },
+            "last_seen": "Mar 10, 2026, 12:54:16 PM",
+            "level": 100,
             "name": " Ayda",
+            "name_history": [
+                " Ayda"
+            ],
             "registered": "Aug 15, 2022, 5:24:03 PM",
             "role_id": 51634096836669,
             "server_region": "north-america"
@@ -14389,6 +14404,6 @@
         }
     },
     "accounts_total": 939,
-    "last_updated": "Mar 10, 2026, 12:47:15 PM",
+    "last_updated": "Mar 10, 2026, 12:54:16 PM",
     "server_region": "north-america"
 }
