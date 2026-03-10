@@ -1228,14 +1228,26 @@
             "server_region": "south-america"
         },
         "64445984300721": {
+            "crew_history": [
+                "幻塔騎士団"
+            ],
             "crew_id": 51539622570,
             "crew_name": "幻塔騎士団",
-            "equipping_title": "Pezlin的导师,0",
+            "equipping_title": "1_4_8_7",
             "gender": 1,
-            "hp": 2420213.0,
-            "last_seen": "Oct 30, 2025, 01:36:31 AM",
+            "hp": 2439732.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 10, 2026, 6:07:00 PM",
             "level": 100,
             "name": "Shion_St",
+            "name_history": [
+                "Shion_St"
+            ],
             "registered": "Aug 11, 2022, 1:46:08 AM",
             "role_id": 64445984300721,
             "server_region": "south-america"
@@ -3738,6 +3750,29 @@
             "role_id": 64493229258113,
             "server_region": "south-america"
         },
+        "64493229258453": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_9_0_2",
+            "gender": 1,
+            "hp": 574007.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53942.859375,
+                "y": -87805.7265625,
+                "z": 21717.349609375
+            },
+            "last_seen": "Mar 10, 2026, 6:07:00 PM",
+            "level": 90,
+            "name": "MayGamess",
+            "name_history": [
+                "MayGamess"
+            ],
+            "registered": "May 12, 2025, 7:45:04 PM",
+            "role_id": 64493229258453,
+            "server_region": "south-america"
+        },
         "64493229258691": {
             "crew_id": 103079230106,
             "crew_name": "InterStellar",
@@ -5516,7 +5551,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 360,
-    "last_updated": "Mar 10, 2026, 6:06:00 PM",
+    "accounts_total": 361,
+    "last_updated": "Mar 10, 2026, 6:07:00 PM",
     "server_region": "south-america"
 }
