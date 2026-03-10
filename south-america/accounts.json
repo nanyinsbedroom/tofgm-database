@@ -3878,6 +3878,31 @@
             "role_id": 64493229262931,
             "server_region": "south-america"
         },
+        "64493229263069": {
+            "crew_history": [
+                "InterStellar"
+            ],
+            "crew_id": 103079230106,
+            "crew_name": "InterStellar",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 955818.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54172.21875,
+                "y": -87855.3359375,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 6:14:00 PM",
+            "level": 100,
+            "name": "Claire",
+            "name_history": [
+                "Claire"
+            ],
+            "registered": "Jun 21, 2025, 11:37:43 PM",
+            "role_id": 64493229263069,
+            "server_region": "south-america"
+        },
         "64493229263273": {
             "crew_id": 0,
             "crew_name": "",
@@ -5273,12 +5298,21 @@
             "server_region": "south-america"
         },
         "64497523888165": {
+            "crew_history": [
+                "TENGU"
+            ],
             "crew_id": 3676492020378,
             "crew_name": "TENGU",
             "equipping_title": "2_10_1_4",
             "gender": 0,
-            "hp": 2368814.5,
-            "last_seen": "Nov 01, 2025, 08:35:05 PM",
+            "hp": 2325831.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55600.48046875,
+                "y": -88437.640625,
+                "z": 21730.900390625
+            },
+            "last_seen": "Mar 10, 2026, 6:14:00 PM",
             "level": 100,
             "name": "Frethr",
             "name_history": [
@@ -5590,7 +5624,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 362,
-    "last_updated": "Mar 10, 2026, 6:13:00 PM",
+    "accounts_total": 363,
+    "last_updated": "Mar 10, 2026, 6:14:00 PM",
     "server_region": "south-america"
 }
