@@ -630,14 +630,26 @@
             "server_region": "time-travel"
         },
         "63574105916628": {
+            "crew_history": [
+                "星期三"
+            ],
             "crew_id": 8589949395,
             "crew_name": "星期三",
-            "equipping_title": "0_8_0_36",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 627437.8125,
-            "last_seen": "2025年10月17日 下午 3:49:06",
-            "level": 60,
+            "hp": 1614158.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54265.62890625,
+                "y": -88171.71875,
+                "z": 21711.009765625
+            },
+            "last_seen": "2026年3月10日 下午12:23:10",
+            "level": 85,
             "name": "尘梦",
+            "name_history": [
+                "尘梦"
+            ],
             "registered": "2023年12月14日 上午10:00:37",
             "role_id": 63574105916628,
             "server_region": "time-travel"
@@ -24399,6 +24411,6 @@
         }
     },
     "accounts_total": 1202,
-    "last_updated": "2026年3月10日 下午12:22:10",
+    "last_updated": "2026年3月10日 下午12:23:10",
     "server_region": "time-travel"
 }
