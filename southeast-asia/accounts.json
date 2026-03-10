@@ -3972,12 +3972,21 @@
             "server_region": "southeast-asia"
         },
         "68736656628423": {
+            "crew_history": [
+                "OnlyFนN"
+            ],
             "crew_id": 519691058826,
             "crew_name": "OnlyFนN",
-            "equipping_title": "1_2022",
+            "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2429599.5,
-            "last_seen": "Nov 04, 2025, 07:33:10 PM",
+            "hp": 3463909.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28325.458984375
+            },
+            "last_seen": "Mar 10, 2026, 9:40:40 PM",
             "level": 100,
             "name": "SkyeWalkerz",
             "name_history": [
@@ -5637,7 +5646,7 @@
                 "y": 204090.953125,
                 "z": -28341.279296875
             },
-            "last_seen": "Mar 10, 2026, 9:38:28 PM",
+            "last_seen": "Mar 10, 2026, 9:40:40 PM",
             "level": 100,
             "name": "Haruhiro#h",
             "name_history": [
@@ -31549,6 +31558,6 @@
         }
     },
     "accounts_total": 2097,
-    "last_updated": "Mar 10, 2026, 9:38:28 PM",
+    "last_updated": "Mar 10, 2026, 9:40:40 PM",
     "server_region": "southeast-asia"
 }
