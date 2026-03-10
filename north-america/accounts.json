@@ -5870,12 +5870,21 @@
             "server_region": "north-america"
         },
         "51616917002874": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 631360204520,
             "crew_name": "Harmony",
             "equipping_title": "Overseas2_7",
             "gender": 0,
-            "hp": 2119472.25,
-            "last_seen": "Nov 14, 2025, 02:32:30 AM",
+            "hp": 2209632.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55712.6484375,
+                "y": -88568.015625,
+                "z": 21862.439453125
+            },
+            "last_seen": "Mar 10, 2026, 12:27:14 PM",
             "level": 100,
             "name": "Vandicus",
             "name_history": [
@@ -14323,6 +14332,6 @@
         }
     },
     "accounts_total": 937,
-    "last_updated": "Mar 10, 2026, 12:25:14 PM",
+    "last_updated": "Mar 10, 2026, 12:27:14 PM",
     "server_region": "north-america"
 }
