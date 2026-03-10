@@ -2054,6 +2054,29 @@
             "role_id": 64463164157387,
             "server_region": "south-america"
         },
+        "64463164158371": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2065327.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323753.1875,
+                "y": 203196.15625,
+                "z": -28340.779296875
+            },
+            "last_seen": "Mar 10, 2026, 6:27:01 PM",
+            "level": 100,
+            "name": "Mifuyo Yukino",
+            "name_history": [
+                "Mifuyo Yukino"
+            ],
+            "registered": "Aug 10, 2022, 10:21:34 PM",
+            "role_id": 64463164158371,
+            "server_region": "south-america"
+        },
         "64463164169546": {
             "crew_id": 6433861024424,
             "crew_name": "POwer RangerS",
@@ -3304,11 +3327,26 @@
             "server_region": "south-america"
         },
         "64493229123902": {
-            "crew_id": 352187333280,
-            "crew_name": "Ragnarok",
+            "crew_history": [
+                "YoRHa"
+            ],
+            "crew_id": 777389095578,
+            "crew_name": "YoRHa",
+            "equipping_title": "Slime的后继者,1",
             "gender": 1,
-            "last_seen": "Sep 23, 2025, 11:18:17 PM",
-            "name": "Luna Meiying",
+            "hp": 2779203.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323445.875,
+                "y": 203062.09375,
+                "z": -28325.96875
+            },
+            "last_seen": "Mar 10, 2026, 6:27:01 PM",
+            "level": 100,
+            "name": "ZeroTwo666",
+            "name_history": [
+                "ZeroTwo666"
+            ],
             "registered": "Oct 17, 2023, 1:00:29 AM",
             "role_id": 64493229123902,
             "server_region": "south-america"
@@ -5942,7 +5980,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 374,
-    "last_updated": "Mar 10, 2026, 6:26:01 PM",
+    "accounts_total": 375,
+    "last_updated": "Mar 10, 2026, 6:27:01 PM",
     "server_region": "south-america"
 }
