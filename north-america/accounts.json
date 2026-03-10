@@ -3084,11 +3084,26 @@
             "server_region": "north-america"
         },
         "51578262258242": {
-            "crew_id": 2551210585833,
-            "crew_name": "Nova Corps",
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
+            "crew_id": 2637109931749,
+            "crew_name": "♥︎ Coalition ♡",
+            "equipping_title": "Fercucho的学徒,0",
             "gender": 1,
-            "last_seen": "Sep 13, 2025, 12:03:55 AM",
+            "hp": 1987624.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53879.45703125,
+                "y": -88043.046875,
+                "z": 21724.98046875
+            },
+            "last_seen": "Mar 10, 2026, 2:05:19 PM",
+            "level": 100,
             "name": "AdaAlberto",
+            "name_history": [
+                "AdaAlberto"
+            ],
             "registered": "Aug 10, 2022, 7:34:02 PM",
             "role_id": 51578262258242,
             "server_region": "north-america"
@@ -7864,6 +7879,31 @@
             "name": "Isabelle 23",
             "registered": "Aug 18, 2024, 5:42:59 PM",
             "role_id": 51629802263046,
+            "server_region": "north-america"
+        },
+        "51629802268751": {
+            "crew_history": [
+                "Echo Vision"
+            ],
+            "crew_id": 4294979317,
+            "crew_name": "Echo Vision",
+            "equipping_title": "1_1_19_1",
+            "gender": 1,
+            "hp": 2136163.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54003.4375,
+                "y": -87761.6875,
+                "z": 21724.5390625
+            },
+            "last_seen": "Mar 10, 2026, 2:05:19 PM",
+            "level": 100,
+            "name": "Diara",
+            "name_history": [
+                "Diara"
+            ],
+            "registered": "Sep 8, 2024, 5:50:48 PM",
+            "role_id": 51629802268751,
             "server_region": "north-america"
         },
         "51629802272530": {
@@ -14644,7 +14684,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 946,
-    "last_updated": "Mar 10, 2026, 2:04:19 PM",
+    "accounts_total": 947,
+    "last_updated": "Mar 10, 2026, 2:05:19 PM",
     "server_region": "north-america"
 }
