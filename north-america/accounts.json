@@ -5813,12 +5813,21 @@
             "server_region": "north-america"
         },
         "51608327098250": {
+            "crew_history": [
+                "Potato"
+            ],
             "crew_id": 1481763729130,
             "crew_name": "Potato",
             "equipping_title": "1_7_1_2",
             "gender": 1,
-            "hp": 2502861.0,
-            "last_seen": "Nov 24, 2025, 07:08:07 PM",
+            "hp": 2607622.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 10, 2026, 4:35:27 PM",
             "level": 100,
             "name": "ekusukariba_",
             "name_history": [
@@ -15456,6 +15465,6 @@
         }
     },
     "accounts_total": 972,
-    "last_updated": "Mar 10, 2026, 4:29:27 PM",
+    "last_updated": "Mar 10, 2026, 4:35:27 PM",
     "server_region": "north-america"
 }
