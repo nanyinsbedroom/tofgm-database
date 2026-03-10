@@ -27121,9 +27121,27 @@
             "server_region": "southeast-asia"
         },
         "68783901263738": {
+            "crew_history": [
+                "Luminous"
+            ],
+            "crew_id": 1662152359567,
+            "crew_name": "Luminous",
+            "equipping_title": "2_3_0_2",
             "gender": 1,
-            "last_seen": "Feb 01, 2026, 02:28:18 AM",
+            "hp": 6255018.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 91456.6953125,
+                "y": -187292.09375,
+                "z": -7623.90625
+            },
+            "last_seen": "Mar 10, 2026, 10:34:26 PM",
+            "level": 100,
             "name": "  Qiqi  ",
+            "name_history": [
+                "  Qiqi  "
+            ],
+            "registered": "Aug 11, 2022, 12:31:24 PM",
             "role_id": 68783901263738,
             "server_region": "southeast-asia"
         },
@@ -32102,6 +32120,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 10, 2026, 10:33:26 PM",
+    "last_updated": "Mar 10, 2026, 10:34:26 PM",
     "server_region": "southeast-asia"
 }
