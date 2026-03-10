@@ -9656,12 +9656,21 @@
             "server_region": "southeast-asia"
         },
         "68758131608445": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Luminous"
+            ],
+            "crew_id": 1662152359567,
+            "crew_name": "Luminous",
             "equipping_title": "Jazzberry的后继者,1",
-            "gender": 1,
-            "hp": 25165.048828125,
-            "last_seen": "Jan 29, 2026, 06:29:17 AM",
+            "gender": 0,
+            "hp": 6086449.0,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 95795.1328125,
+                "y": -168586.8125,
+                "z": -2839.10205078125
+            },
+            "last_seen": "Mar 10, 2026, 10:32:26 PM",
             "level": 100,
             "name": "Morticus",
             "name_history": [
@@ -32093,6 +32102,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 10, 2026, 10:30:26 PM",
+    "last_updated": "Mar 10, 2026, 10:32:26 PM",
     "server_region": "southeast-asia"
 }
