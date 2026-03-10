@@ -2600,6 +2600,29 @@
             "role_id": 51569672420999,
             "server_region": "north-america"
         },
+        "51569672422549": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1714129.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21732.048828125
+            },
+            "last_seen": "Mar 10, 2026, 12:23:14 PM",
+            "level": 100,
+            "name": " crowy$",
+            "name_history": [
+                " crowy$"
+            ],
+            "registered": "Dec 24, 2022, 6:32:04 AM",
+            "role_id": 51569672422549,
+            "server_region": "north-america"
+        },
         "51573967290892": {
             "crew_history": [
                 "Nyne Lives"
@@ -7280,12 +7303,21 @@
             "server_region": "north-america"
         },
         "51629802205565": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
             "crew_id": 6158983114473,
             "crew_name": "Michi Pizzería",
-            "equipping_title": "1_1_30_1",
-            "gender": 1,
-            "hp": 2173660.75,
-            "last_seen": "Nov 02, 2025, 01:01:35 AM",
+            "equipping_title": "2_2_0_92",
+            "gender": 0,
+            "hp": 2314768.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 10, 2026, 12:23:14 PM",
             "level": 100,
             "name": "Nox117",
             "name_history": [
@@ -14256,7 +14288,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 935,
-    "last_updated": "Mar 10, 2026, 12:19:14 PM",
+    "accounts_total": 936,
+    "last_updated": "Mar 10, 2026, 12:23:14 PM",
     "server_region": "north-america"
 }
