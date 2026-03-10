@@ -10998,14 +10998,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 1135269.875,
+            "hp": 1123072.0,
             "last_known_position": {
-                "map": "city",
-                "x": 376.6999816894531,
-                "y": -16714.298828125,
-                "z": 96365.0390625
+                "map": "QRSL_P",
+                "x": -54820.09765625,
+                "y": -87889.796875,
+                "z": 21713.98046875
             },
-            "last_seen": "Feb 26, 2026, 8:35:43 PM",
+            "last_seen": "Mar 10, 2026, 10:18:25 PM",
             "level": 100,
             "name": "☆ﾟInҺωα☆ﾟ",
             "name_history": [
@@ -14480,14 +14480,26 @@
             "server_region": "southeast-asia"
         },
         "68775311588624": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1146798.125,
-            "last_seen": "Oct 18, 2025, 11:07:13 PM",
+            "hp": 1146898.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 10, 2026, 10:18:25 PM",
             "level": 100,
             "name": "Richiezzz",
+            "name_history": [
+                "Richiezzz"
+            ],
             "registered": "Nov 18, 2023, 3:28:04 PM",
             "role_id": 68775311588624,
             "server_region": "southeast-asia"
@@ -24795,6 +24807,31 @@
             "role_id": 68775311759618,
             "server_region": "southeast-asia"
         },
+        "68775311759655": {
+            "crew_history": [
+                "Origin"
+            ],
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 1289082.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54958.7890625,
+                "y": -86842.421875,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 10, 2026, 10:18:25 PM",
+            "level": 100,
+            "name": "Huaka",
+            "name_history": [
+                "Huaka"
+            ],
+            "registered": "Dec 22, 2025, 6:57:35 PM",
+            "role_id": 68775311759655,
+            "server_region": "southeast-asia"
+        },
         "68775311759676": {
             "crew_id": 532575960705,
             "crew_name": "Origin",
@@ -31966,7 +32003,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2104,
-    "last_updated": "Mar 10, 2026, 10:17:25 PM",
+    "accounts_total": 2105,
+    "last_updated": "Mar 10, 2026, 10:18:25 PM",
     "server_region": "southeast-asia"
 }
