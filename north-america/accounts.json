@@ -7557,12 +7557,21 @@
             "server_region": "north-america"
         },
         "51629802232774": {
+            "crew_history": [
+                "Star☆Crusaders"
+            ],
             "crew_id": 47244652263,
-            "crew_name": "Crusaders",
+            "crew_name": "Star☆Crusaders",
             "equipping_title": "2_2_0_25",
             "gender": 1,
-            "hp": 2187618.0,
-            "last_seen": "Nov 16, 2025, 12:05:30 AM",
+            "hp": 2267304.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 1:12:17 PM",
             "level": 100,
             "name": "Yzhelle",
             "name_history": [
@@ -8760,6 +8769,29 @@
             "name": "ashers",
             "registered": "Aug 10, 2025, 10:30:18 PM",
             "role_id": 51629802327097,
+            "server_region": "north-america"
+        },
+        "51629802327463": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 410980.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52408.16015625,
+                "y": -89072.078125,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 10, 2026, 1:12:17 PM",
+            "level": 37,
+            "name": "Fides",
+            "name_history": [
+                "Fides"
+            ],
+            "registered": "Aug 13, 2025, 5:26:36 AM",
+            "role_id": 51629802327463,
             "server_region": "north-america"
         },
         "51629802327731": {
@@ -14415,7 +14447,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 939,
-    "last_updated": "Mar 10, 2026, 1:09:17 PM",
+    "accounts_total": 940,
+    "last_updated": "Mar 10, 2026, 1:12:17 PM",
     "server_region": "north-america"
 }
