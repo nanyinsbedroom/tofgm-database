@@ -3176,14 +3176,14 @@
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 6750331.5,
+            "hp": 2411198.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101221.09375,
-                "y": -182160.921875,
-                "z": -7570.3173828125
+                "map": "QRSL_P",
+                "x": -55170.34765625,
+                "y": -88707.9609375,
+                "z": 21719.373046875
             },
-            "last_seen": "Mar 5, 2026, 8:58:58 PM",
+            "last_seen": "Mar 10, 2026, 10:04:25 PM",
             "level": 100,
             "name": "◄ Hinata ►",
             "name_history": [
@@ -4069,12 +4069,21 @@
             "server_region": "southeast-asia"
         },
         "68736656635454": {
+            "crew_history": [
+                "ELYSIUM"
+            ],
             "crew_id": 12884917892,
             "crew_name": "ELYSIUM",
             "equipping_title": "1_5_1_1",
             "gender": 1,
-            "hp": 2049761.625,
-            "last_seen": "Nov 03, 2025, 04:34:26 AM",
+            "hp": 2135948.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91287.640625,
+                "y": 77627.0546875,
+                "z": -7012.7998046875
+            },
+            "last_seen": "Mar 10, 2026, 10:04:25 PM",
             "level": 100,
             "name": "xanite",
             "name_history": [
@@ -31808,6 +31817,6 @@
         }
     },
     "accounts_total": 2101,
-    "last_updated": "Mar 10, 2026, 10:03:25 PM",
+    "last_updated": "Mar 10, 2026, 10:04:25 PM",
     "server_region": "southeast-asia"
 }
