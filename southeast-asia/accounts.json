@@ -8058,14 +8058,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "2_8_0_10",
             "gender": 1,
-            "hp": 3406715.25,
+            "hp": 2632975.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -13995.1201171875,
-                "y": 4113.0,
-                "z": 25734.7890625
+                "x": -54862.828125,
+                "y": -87175.609375,
+                "z": 21710.990234375
             },
-            "last_seen": "Feb 16, 2026, 8:04:20 PM",
+            "last_seen": "Mar 10, 2026, 10:12:25 PM",
             "level": 100,
             "name": "Shigeki",
             "name_history": [
@@ -14751,14 +14751,26 @@
             "server_region": "southeast-asia"
         },
         "68775311610686": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "HuntingRank_2;imitation_56;9",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 1638342.5,
-            "last_seen": "Oct 28, 2025, 08:50:26 PM",
+            "hp": 1821321.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 10, 2026, 10:12:25 PM",
             "level": 100,
             "name": "NotPawis93",
+            "name_history": [
+                "NotPawis93"
+            ],
             "registered": "Jan 1, 2024, 4:42:11 PM",
             "role_id": 68775311610686,
             "server_region": "southeast-asia"
@@ -31901,6 +31913,6 @@
         }
     },
     "accounts_total": 2104,
-    "last_updated": "Mar 10, 2026, 10:11:25 PM",
+    "last_updated": "Mar 10, 2026, 10:12:25 PM",
     "server_region": "southeast-asia"
 }
