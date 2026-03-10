@@ -1222,12 +1222,21 @@
             "server_region": "korea"
         },
         "42945816079396413": {
+            "crew_history": [
+                "쿵야"
+            ],
             "crew_id": 17189868286,
             "crew_name": "쿵야",
             "equipping_title": "Title_Korea34_os12",
             "gender": 1,
-            "hp": 2985185.25,
-            "last_seen": "Nov 24, 2025, 02:40:06 AM",
+            "hp": 4173457.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325214.4375,
+                "y": 204714.25,
+                "z": -28331.21875
+            },
+            "last_seen": "Mar 11, 2026, 12:21:11 AM",
             "level": 100,
             "name": "Denen",
             "name_history": [
@@ -2746,6 +2755,6 @@
         }
     },
     "accounts_total": 178,
-    "last_updated": "Mar 11, 2026, 12:20:11 AM",
+    "last_updated": "Mar 11, 2026, 12:21:11 AM",
     "server_region": "korea"
 }
