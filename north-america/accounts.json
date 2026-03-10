@@ -873,12 +873,21 @@
             "server_region": "north-america"
         },
         "51552492458448": {
+            "crew_history": [
+                "Void Knights"
+            ],
             "crew_id": 6034429062889,
             "crew_name": "Void Knights",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2586851.5,
-            "last_seen": "Nov 19, 2025, 03:33:31 AM",
+            "hp": 2862710.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55611.12890625,
+                "y": -88449.15625,
+                "z": 21724.3203125
+            },
+            "last_seen": "Mar 10, 2026, 4:07:26 PM",
             "level": 100,
             "name": "Zazil",
             "name_history": [
@@ -15228,6 +15237,6 @@
         }
     },
     "accounts_total": 966,
-    "last_updated": "Mar 10, 2026, 4:06:25 PM",
+    "last_updated": "Mar 10, 2026, 4:07:26 PM",
     "server_region": "north-america"
 }
