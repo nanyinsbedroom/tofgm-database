@@ -3825,12 +3825,21 @@
             "server_region": "north-america"
         },
         "51582557242096": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
             "equipping_title": "2_8_0_6",
             "gender": 0,
-            "hp": 2216366.0,
-            "last_seen": "Nov 19, 2025, 03:58:06 AM",
+            "hp": 2490795.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54799.48828125,
+                "y": -87909.65625,
+                "z": 21721.990234375
+            },
+            "last_seen": "Mar 10, 2026, 1:26:17 PM",
             "level": 100,
             "name": "Two_kijan$",
             "name_history": [
@@ -14486,6 +14495,6 @@
         }
     },
     "accounts_total": 941,
-    "last_updated": "Mar 10, 2026, 1:23:17 PM",
+    "last_updated": "Mar 10, 2026, 1:26:17 PM",
     "server_region": "north-america"
 }
