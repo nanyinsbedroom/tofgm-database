@@ -1344,11 +1344,26 @@
             "server_region": "north-america"
         },
         "51556787485318": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Echo Vision"
+            ],
+            "crew_id": 4294979317,
+            "crew_name": "Echo Vision",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": "Sep 17, 2025, 02:54:58 AM",
+            "hp": 2210403.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55057.87109375,
+                "y": -87389.71875,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 12:03:13 PM",
+            "level": 100,
             "name": "GreenestLizard",
+            "name_history": [
+                "GreenestLizard"
+            ],
             "registered": "Aug 14, 2022, 2:35:03 PM",
             "role_id": 51556787485318,
             "server_region": "north-america"
@@ -3076,6 +3091,31 @@
             ],
             "registered": "Aug 10, 2022, 8:47:07 PM",
             "role_id": 51578262267850,
+            "server_region": "north-america"
+        },
+        "51578262269284": {
+            "crew_history": [
+                "SwaG"
+            ],
+            "crew_id": 7803955588853,
+            "crew_name": "SwaG",
+            "equipping_title": "Title_tencentshare_os_21",
+            "gender": 0,
+            "hp": 1837669.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 12:03:13 PM",
+            "level": 100,
+            "name": "Rowan Ryoku",
+            "name_history": [
+                "Rowan Ryoku"
+            ],
+            "registered": "Aug 10, 2022, 9:27:51 PM",
+            "role_id": 51578262269284,
             "server_region": "north-america"
         },
         "51578262269390": {
@@ -13947,7 +13987,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 925,
-    "last_updated": "Mar 10, 2026, 12:02:13 PM",
+    "accounts_total": 926,
+    "last_updated": "Mar 10, 2026, 12:03:13 PM",
     "server_region": "north-america"
 }
