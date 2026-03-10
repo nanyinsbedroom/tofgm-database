@@ -1652,14 +1652,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "2_2_0_28",
             "gender": 0,
-            "hp": 2760119.5,
+            "hp": 2638969.0,
             "last_known_position": {
-                "map": "city",
-                "x": 67.95999908447266,
-                "y": -18371.19921875,
-                "z": 96343.0390625
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
             },
-            "last_seen": "Mar 9, 2026, 9:47:58 PM",
+            "last_seen": "Mar 10, 2026, 10:03:25 PM",
             "level": 100,
             "name": "Park Nami",
             "name_history": [
@@ -17603,11 +17603,26 @@
             "server_region": "southeast-asia"
         },
         "68775311735119": {
+            "crew_history": [
+                "REBIRTH"
+            ],
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
+            "equipping_title": "1_1_27_1",
             "gender": 1,
-            "last_seen": "Aug 05, 2025, 03:03:27 AM",
+            "hp": 1622152.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55263.83984375,
+                "y": -88148.015625,
+                "z": 21719.048828125
+            },
+            "last_seen": "Mar 10, 2026, 10:03:25 PM",
+            "level": 100,
             "name": "SaBoo",
+            "name_history": [
+                "SaBoo"
+            ],
             "registered": "May 9, 2025, 11:32:24 AM",
             "role_id": 68775311735119,
             "server_region": "southeast-asia"
@@ -25540,6 +25555,29 @@
             "role_id": 68775311762447,
             "server_region": "southeast-asia"
         },
+        "68775311762517": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 291415.65625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55404.5390625,
+                "y": -88516.2578125,
+                "z": 21721.048828125
+            },
+            "last_seen": "Mar 10, 2026, 10:03:25 PM",
+            "level": 30,
+            "name": "S.E.L.I.E",
+            "name_history": [
+                "S.E.L.I.E"
+            ],
+            "registered": "Mar 9, 2026, 5:29:24 AM",
+            "role_id": 68775311762517,
+            "server_region": "southeast-asia"
+        },
         "68779606278904": {
             "crew_id": 68719492750,
             "crew_name": "NIGHTBORN",
@@ -31769,7 +31807,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2100,
-    "last_updated": "Mar 10, 2026, 10:02:25 PM",
+    "accounts_total": 2101,
+    "last_updated": "Mar 10, 2026, 10:03:25 PM",
     "server_region": "southeast-asia"
 }
