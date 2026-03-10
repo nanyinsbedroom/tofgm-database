@@ -4297,12 +4297,19 @@
             "server_region": "south-america"
         },
         "64493229271988": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 1003535.5625,
-            "last_seen": "Nov 03, 2025, 03:11:48 AM",
+            "hp": 1215485.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53863.6171875,
+                "y": -88250.296875,
+                "z": 21734.609375
+            },
+            "last_seen": "Mar 10, 2026, 6:11:00 PM",
             "level": 100,
             "name": "jalan-bipal",
             "name_history": [
@@ -5575,6 +5582,6 @@
         }
     },
     "accounts_total": 362,
-    "last_updated": "Mar 10, 2026, 6:10:00 PM",
+    "last_updated": "Mar 10, 2026, 6:11:00 PM",
     "server_region": "south-america"
 }
