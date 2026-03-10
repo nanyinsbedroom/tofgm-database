@@ -6988,11 +6988,26 @@
             "server_region": "north-america"
         },
         "51625506987315": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 4294979298,
             "crew_name": "Sovereign",
+            "equipping_title": "1_2022",
             "gender": 0,
-            "last_seen": "Oct 01, 2025, 11:19:09 PM",
+            "hp": 2339390.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 10, 2026, 4:11:26 PM",
+            "level": 100,
             "name": "Sillybutt",
+            "name_history": [
+                "Sillybutt"
+            ],
             "registered": "Aug 20, 2022, 3:53:18 PM",
             "role_id": 51625506987315,
             "server_region": "north-america"
@@ -15260,6 +15275,6 @@
         }
     },
     "accounts_total": 967,
-    "last_updated": "Mar 10, 2026, 4:10:26 PM",
+    "last_updated": "Mar 10, 2026, 4:11:26 PM",
     "server_region": "north-america"
 }
