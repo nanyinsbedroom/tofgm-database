@@ -4131,6 +4131,29 @@
             "role_id": 51582557331516,
             "server_region": "north-america"
         },
+        "51586852194603": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_37",
+            "gender": 0,
+            "hp": 2121303.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55378.16796875,
+                "y": -88539.78125,
+                "z": 21710.87890625
+            },
+            "last_seen": "Mar 10, 2026, 2:10:19 PM",
+            "level": 100,
+            "name": "LYONSAN",
+            "name_history": [
+                "LYONSAN"
+            ],
+            "registered": "Aug 10, 2022, 7:49:48 PM",
+            "role_id": 51586852194603,
+            "server_region": "north-america"
+        },
         "51586852197300": {
             "crew_id": 2976412348130,
             "crew_name": "Waifu",
@@ -11293,13 +11316,22 @@
             "server_region": "north-america"
         },
         "51629802365226": {
+            "crew_history": [
+                "Dreamlight"
+            ],
             "crew_id": 38654717676,
             "crew_name": "Dreamlight",
-            "equipping_title": "2_2_0_38",
+            "equipping_title": "2_2_0_68",
             "gender": 1,
-            "hp": 562804.25,
-            "last_seen": "Jan 25, 2026, 07:36:40 PM",
-            "level": 49,
+            "hp": 1401471.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55865.0078125,
+                "y": -88503.21875,
+                "z": 21717.388671875
+            },
+            "last_seen": "Mar 10, 2026, 2:10:19 PM",
+            "level": 99,
             "name": "Aximin",
             "name_history": [
                 "Aximin"
@@ -14756,7 +14788,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 949,
-    "last_updated": "Mar 10, 2026, 2:09:19 PM",
+    "accounts_total": 950,
+    "last_updated": "Mar 10, 2026, 2:10:19 PM",
     "server_region": "north-america"
 }
