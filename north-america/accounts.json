@@ -6462,11 +6462,26 @@
             "server_region": "north-america"
         },
         "51621211964812": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
+            "equipping_title": "2_2_0_69",
             "gender": 1,
-            "last_seen": "Sep 17, 2025, 09:08:37 PM",
+            "hp": 2878494.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21731.048828125
+            },
+            "last_seen": "Mar 10, 2026, 4:15:26 PM",
+            "level": 100,
             "name": "ユキ／yuki",
+            "name_history": [
+                "ユキ／yuki"
+            ],
             "registered": "Aug 11, 2022, 6:27:14 PM",
             "role_id": 51621211964812,
             "server_region": "north-america"
@@ -12184,6 +12199,31 @@
             "role_id": 51629802367157,
             "server_region": "north-america"
         },
+        "51629802368817": {
+            "crew_history": [
+                "Love"
+            ],
+            "crew_id": 867583405806,
+            "crew_name": "Love",
+            "equipping_title": "2_2_0_84",
+            "gender": 1,
+            "hp": 604779.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55904.34765625,
+                "y": -89499.3125,
+                "z": 21720.888671875
+            },
+            "last_seen": "Mar 10, 2026, 4:15:26 PM",
+            "level": 60,
+            "name": "Courtany",
+            "name_history": [
+                "Courtany"
+            ],
+            "registered": "Jan 28, 2026, 5:24:42 PM",
+            "role_id": 51629802368817,
+            "server_region": "north-america"
+        },
         "51629802369507": {
             "crew_id": 631360204520,
             "crew_name": "Harmony",
@@ -15315,7 +15355,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 968,
-    "last_updated": "Mar 10, 2026, 4:14:26 PM",
+    "accounts_total": 969,
+    "last_updated": "Mar 10, 2026, 4:15:26 PM",
     "server_region": "north-america"
 }
