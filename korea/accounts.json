@@ -787,13 +787,20 @@
             "server_region": "korea"
         },
         "42945811784596326": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 275609.59375,
-            "last_seen": "Nov 24, 2025, 01:36:45 AM",
-            "level": 81,
+            "hp": 278245.125,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -288955.6875,
+                "y": 177602.140625,
+                "z": -28890.771484375
+            },
+            "last_seen": "Mar 11, 2026, 12:20:11 AM",
+            "level": 90,
             "name": "BeefKebab",
             "name_history": [
                 "BeefKebab"
@@ -2739,6 +2746,6 @@
         }
     },
     "accounts_total": 178,
-    "last_updated": "Mar 10, 2026, 3:29:46 AM",
+    "last_updated": "Mar 11, 2026, 12:20:11 AM",
     "server_region": "korea"
 }
