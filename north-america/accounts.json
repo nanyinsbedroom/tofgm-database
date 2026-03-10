@@ -4947,11 +4947,26 @@
             "server_region": "north-america"
         },
         "51599737120740": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
+            "equipping_title": "2_2_0_81",
             "gender": 1,
-            "last_seen": "Jul 29, 2025, 11:03:00 PM",
+            "hp": 2051870.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54138.75,
+                "y": -87861.375,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 2:08:19 PM",
+            "level": 100,
             "name": "l_Jazz_l",
+            "name_history": [
+                "l_Jazz_l"
+            ],
             "registered": "Aug 11, 2022, 2:58:14 AM",
             "role_id": 51599737120740,
             "server_region": "north-america"
@@ -14710,6 +14725,6 @@
         }
     },
     "accounts_total": 948,
-    "last_updated": "Mar 10, 2026, 2:07:19 PM",
+    "last_updated": "Mar 10, 2026, 2:08:19 PM",
     "server_region": "north-america"
 }
