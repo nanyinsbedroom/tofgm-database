@@ -499,14 +499,26 @@
             "server_region": "north-america"
         },
         "51548197551203": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2976412348130,
             "crew_name": "Waifu",
-            "equipping_title": "2_3_0_1",
+            "equipping_title": "2_10_1_5",
             "gender": 1,
-            "hp": 2294277.25,
-            "last_seen": "Oct 14, 2025, 02:45:00 AM",
+            "hp": 2232486.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55336.59765625,
+                "y": -87037.390625,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 10, 2026, 12:07:13 PM",
             "level": 100,
             "name": "Jaeus",
+            "name_history": [
+                "Jaeus"
+            ],
             "registered": "Aug 13, 2022, 12:56:12 AM",
             "role_id": 51548197551203,
             "server_region": "north-america"
@@ -14029,6 +14041,6 @@
         }
     },
     "accounts_total": 927,
-    "last_updated": "Mar 10, 2026, 12:05:13 PM",
+    "last_updated": "Mar 10, 2026, 12:07:13 PM",
     "server_region": "north-america"
 }
