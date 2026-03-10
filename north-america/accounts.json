@@ -2755,12 +2755,21 @@
             "server_region": "north-america"
         },
         "51569672393727": {
+            "crew_history": [
+                "EverꙞgaꙞrꙞden"
+            ],
             "crew_id": 3633542344423,
             "crew_name": "EverꙞgaꙞrꙞden",
-            "equipping_title": "Title_iwshare_os_8",
+            "equipping_title": "2_2_0_30",
             "gender": 0,
-            "hp": 2741505.75,
-            "last_seen": "Nov 22, 2025, 02:36:36 AM",
+            "hp": 2903839.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54766.5390625,
+                "y": -87398.296875,
+                "z": 21730.94921875
+            },
+            "last_seen": "Mar 10, 2026, 3:57:25 PM",
             "level": 100,
             "name": "Sirjgamer",
             "name_history": [
@@ -15076,6 +15085,6 @@
         }
     },
     "accounts_total": 961,
-    "last_updated": "Mar 10, 2026, 3:52:25 PM",
+    "last_updated": "Mar 10, 2026, 3:57:25 PM",
     "server_region": "north-america"
 }
