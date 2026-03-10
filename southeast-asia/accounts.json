@@ -1357,12 +1357,21 @@
             "server_region": "southeast-asia"
         },
         "68728066671056": {
+            "crew_history": [
+                "♣️HOSHI星"
+            ],
             "crew_id": 1146756284034,
             "crew_name": "♣️HOSHI星",
             "equipping_title": "1_8_0_37",
             "gender": 1,
-            "hp": 2667804.25,
-            "last_seen": "Feb 11, 2026, 7:04:24 PM",
+            "hp": 2683764.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54184.1875,
+                "y": -88116.140625,
+                "z": 21717.5
+            },
+            "last_seen": "Mar 10, 2026, 10:14:25 PM",
             "level": 100,
             "name": "PolitanCatto",
             "name_history": [
@@ -27374,14 +27383,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 3094264.75,
+            "hp": 3087676.5,
             "last_known_position": {
-                "map": "city",
-                "x": -448.29998779296875,
-                "y": -22369.298828125,
-                "z": 96738.375
+                "map": "QRSL_P",
+                "x": -55649.140625,
+                "y": -88540.375,
+                "z": 21710.87890625
             },
-            "last_seen": "Feb 28, 2026, 10:25:45 PM",
+            "last_seen": "Mar 10, 2026, 10:14:25 PM",
             "level": 100,
             "name": "Lilycoris",
             "name_history": [
@@ -29033,11 +29042,26 @@
             "server_region": "southeast-asia"
         },
         "68796786156365": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "last_seen": "Sep 03, 2025, 06:16:15 PM",
+            "hp": 1880660.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54217.609375,
+                "y": -88263.578125,
+                "z": 21972.59375
+            },
+            "last_seen": "Mar 10, 2026, 10:14:25 PM",
+            "level": 100,
             "name": "Waifu Suppört",
+            "name_history": [
+                "Waifu Suppört"
+            ],
             "registered": "Aug 11, 2022, 3:15:19 PM",
             "role_id": 68796786156365,
             "server_region": "southeast-asia"
@@ -31913,6 +31937,6 @@
         }
     },
     "accounts_total": 2104,
-    "last_updated": "Mar 10, 2026, 10:12:25 PM",
+    "last_updated": "Mar 10, 2026, 10:14:25 PM",
     "server_region": "southeast-asia"
 }
