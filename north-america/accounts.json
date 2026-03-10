@@ -6201,6 +6201,31 @@
             "role_id": 51625506898465,
             "server_region": "north-america"
         },
+        "51625506900079": {
+            "crew_history": [
+                "RedSuns"
+            ],
+            "crew_id": 14087492742901,
+            "crew_name": "RedSuns",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2476864.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54141.16015625,
+                "y": -87895.9765625,
+                "z": 21724.3203125
+            },
+            "last_seen": "Mar 10, 2026, 12:16:14 PM",
+            "level": 100,
+            "name": "ElPrincipito",
+            "name_history": [
+                "ElPrincipito"
+            ],
+            "registered": "Aug 10, 2022, 10:24:21 PM",
+            "role_id": 51625506900079,
+            "server_region": "north-america"
+        },
         "51625506901318": {
             "crew_id": 4294979298,
             "crew_name": "Sovereign",
@@ -8228,6 +8253,29 @@
             ],
             "registered": "Jun 5, 2025, 2:21:56 AM",
             "role_id": 51629802319607,
+            "server_region": "north-america"
+        },
+        "51629802319675": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 1030488.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.048828125
+            },
+            "last_seen": "Mar 10, 2026, 12:16:14 PM",
+            "level": 97,
+            "name": "ALUKARDK",
+            "name_history": [
+                "ALUKARDK"
+            ],
+            "registered": "Jun 5, 2025, 7:15:33 PM",
+            "role_id": 51629802319675,
             "server_region": "north-america"
         },
         "51629802319734": {
@@ -14140,7 +14188,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 931,
-    "last_updated": "Mar 10, 2026, 12:15:14 PM",
+    "accounts_total": 933,
+    "last_updated": "Mar 10, 2026, 12:16:14 PM",
     "server_region": "north-america"
 }
