@@ -3115,12 +3115,21 @@
             "server_region": "north-america"
         },
         "51578262267491": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
             "crew_id": 6158983114473,
             "crew_name": "Michi Pizzería",
-            "equipping_title": "3_2022",
+            "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 1865721.625,
-            "last_seen": "Nov 20, 2025, 02:05:36 AM",
+            "hp": 1863775.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53795.51953125,
+                "y": -87877.0078125,
+                "z": 21724.830078125
+            },
+            "last_seen": "Mar 10, 2026, 12:18:14 PM",
             "level": 100,
             "name": "King-Premier",
             "name_history": [
@@ -13746,6 +13755,31 @@
             "role_id": 51672751601724,
             "server_region": "north-america"
         },
+        "51672751604111": {
+            "crew_history": [
+                "StrawHats"
+            ],
+            "crew_id": 81604390655,
+            "crew_name": "StrawHats",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1519373.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54380.8671875,
+                "y": -88025.65625,
+                "z": 21721.900390625
+            },
+            "last_seen": "Mar 10, 2026, 12:18:14 PM",
+            "level": 100,
+            "name": "Ириша",
+            "name_history": [
+                "Ириша"
+            ],
+            "registered": "Jun 12, 2025, 10:00:45 AM",
+            "role_id": 51672751604111,
+            "server_region": "north-america"
+        },
         "51672751607680": {
             "crew_id": 81604390655,
             "crew_name": "StrawHats",
@@ -14213,7 +14247,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 934,
-    "last_updated": "Mar 10, 2026, 12:17:14 PM",
+    "accounts_total": 935,
+    "last_updated": "Mar 10, 2026, 12:18:14 PM",
     "server_region": "north-america"
 }
