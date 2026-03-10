@@ -3642,12 +3642,21 @@
             "server_region": "north-america"
         },
         "51578262301268": {
+            "crew_history": [
+                "Kemono Cast"
+            ],
             "crew_id": 10874857205493,
             "crew_name": "Kemono Cast",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 1539042.875,
-            "last_seen": "Nov 19, 2025, 03:58:06 AM",
+            "hp": 1627048.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54395.55859375,
+                "y": -88152.125,
+                "z": 21717.5
+            },
+            "last_seen": "Mar 10, 2026, 4:29:27 PM",
             "level": 100,
             "name": "raidloss",
             "name_history": [
@@ -15447,6 +15456,6 @@
         }
     },
     "accounts_total": 972,
-    "last_updated": "Mar 10, 2026, 4:28:26 PM",
+    "last_updated": "Mar 10, 2026, 4:29:27 PM",
     "server_region": "north-america"
 }
