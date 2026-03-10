@@ -7467,12 +7467,21 @@
             "server_region": "southeast-asia"
         },
         "68749541549559": {
+            "crew_history": [
+                "REBIRTH"
+            ],
             "crew_id": 3719441694345,
             "crew_name": "REBIRTH",
-            "equipping_title": "2_10_1_2",
+            "equipping_title": "2_2_0_46",
             "gender": 1,
-            "hp": 2138386.5,
-            "last_seen": "Nov 30, 2025, 04:13:21 AM",
+            "hp": 3028049.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324696.75,
+                "y": 203080.953125,
+                "z": -28363.0703125
+            },
+            "last_seen": "Mar 10, 2026, 11:03:19 PM",
             "level": 100,
             "name": "MuiMui",
             "name_history": [
@@ -10335,12 +10344,21 @@
             "server_region": "southeast-asia"
         },
         "68762426424362": {
+            "crew_history": [
+                "VN-Archon"
+            ],
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
-            "equipping_title": "Tencent_Sever_120",
+            "equipping_title": "2_2_0_38",
             "gender": 0,
-            "hp": 2819675.25,
-            "last_seen": "Nov 13, 2025, 08:34:36 PM",
+            "hp": 3920011.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323936.5625,
+                "y": 203865.390625,
+                "z": -28363.0703125
+            },
+            "last_seen": "Mar 10, 2026, 11:03:19 PM",
             "level": 100,
             "name": "Sugar Rush",
             "name_history": [
@@ -12566,14 +12584,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2367216.75,
+            "hp": 3581147.75,
             "last_known_position": {
-                "map": "Team8P_07_D_II",
-                "x": -9163.240234375,
-                "y": 53816.80859375,
-                "z": -15224.1796875
+                "map": "JIUYU_P",
+                "x": -324782.9375,
+                "y": 203621.03125,
+                "z": -28327.478515625
             },
-            "last_seen": "Feb 27, 2026, 9:11:07 PM",
+            "last_seen": "Mar 10, 2026, 11:03:19 PM",
             "level": 100,
             "name": "MizushiRin",
             "name_history": [
@@ -32129,6 +32147,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 10, 2026, 11:01:19 PM",
+    "last_updated": "Mar 10, 2026, 11:03:19 PM",
     "server_region": "southeast-asia"
 }
