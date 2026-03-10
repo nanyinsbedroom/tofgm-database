@@ -3468,14 +3468,26 @@
             "server_region": "southeast-asia"
         },
         "68732361746047": {
+            "crew_history": [
+                "VN-Archon"
+            ],
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
             "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 2191771.25,
-            "last_seen": "Oct 16, 2025, 09:49:23 PM",
+            "hp": 2129088.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53799.62890625,
+                "y": -88018.1171875,
+                "z": 21894.109375
+            },
+            "last_seen": "Mar 10, 2026, 10:17:25 PM",
             "level": 100,
             "name": "g4m3r2",
+            "name_history": [
+                "g4m3r2"
+            ],
             "registered": "Aug 24, 2022, 8:50:13 PM",
             "role_id": 68732361746047,
             "server_region": "southeast-asia"
@@ -4727,12 +4739,21 @@
             "server_region": "southeast-asia"
         },
         "68736656731680": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
             "equipping_title": "Overseas2_10",
             "gender": 0,
-            "hp": 2289069.25,
-            "last_seen": "Jan 26, 2026, 03:38:30 AM",
+            "hp": 2318994.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55773.66796875,
+                "y": -88628.296875,
+                "z": 21710.8203125
+            },
+            "last_seen": "Mar 10, 2026, 10:17:25 PM",
             "level": 100,
             "name": "xY2x",
             "name_history": [
@@ -31946,6 +31967,6 @@
         }
     },
     "accounts_total": 2104,
-    "last_updated": "Mar 10, 2026, 10:16:25 PM",
+    "last_updated": "Mar 10, 2026, 10:17:25 PM",
     "server_region": "southeast-asia"
 }
