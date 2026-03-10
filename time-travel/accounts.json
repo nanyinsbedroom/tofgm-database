@@ -1996,13 +1996,22 @@
             "server_region": "time-travel"
         },
         "63574105942539": {
+            "crew_history": [
+                "七宫"
+            ],
             "crew_id": 201863477714,
             "crew_name": "七宫",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_7_0_19",
             "gender": 1,
-            "hp": 1407042.5,
-            "last_seen": "2026年01月26日 上午 4:48:31",
-            "level": 80,
+            "hp": 1578660.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21722.048828125
+            },
+            "last_seen": "2026年3月10日 下午6:15:36",
+            "level": 85,
             "name": "窗外的大雨",
             "name_history": [
                 "窗外的大雨"
@@ -4224,11 +4233,26 @@
             "server_region": "time-travel"
         },
         "63574105969192": {
-            "crew_id": 4518305610195,
-            "crew_name": "JK玉足妹",
+            "crew_history": [
+                "雪绒白巧"
+            ],
+            "crew_id": 416611842514,
+            "crew_name": "雪绒白巧",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "last_seen": "2025年09月24日 下午 9:53:05",
-            "name": "脚妹吖",
+            "hp": 1312541.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -51477.69921875,
+                "y": -85920.2578125,
+                "z": 21825.919921875
+            },
+            "last_seen": "2026年3月10日 下午6:15:36",
+            "level": 85,
+            "name": "臭脚妹",
+            "name_history": [
+                "臭脚妹"
+            ],
             "registered": "2023年12月15日 上午1:12:36",
             "role_id": 63574105969192,
             "server_region": "time-travel"
@@ -6607,14 +6631,14 @@
             "crew_name": "星期三",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1655954.125,
+            "hp": 1656488.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55587.87890625,
-                "y": -88479.8984375,
-                "z": 21724.400390625
+                "x": -55183.23828125,
+                "y": -86851.140625,
+                "z": 21724.41015625
             },
-            "last_seen": "2026年3月4日 下午4:22:57",
+            "last_seen": "2026年3月10日 下午6:15:36",
             "level": 85,
             "name": "时空-",
             "name_history": [
@@ -8714,14 +8738,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_83",
             "gender": 1,
-            "hp": 1532598.375,
+            "hp": 1534710.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91537.6953125,
-                "y": 77436.90625,
-                "z": -7018.6396484375
+                "x": -55346.3203125,
+                "y": -88583.5390625,
+                "z": 21724.548828125
             },
-            "last_seen": "2026年3月6日 下午8:33:17",
+            "last_seen": "2026年3月10日 下午6:15:36",
             "level": 85,
             "name": "苏坡爱豆",
             "name_history": [
@@ -16852,14 +16876,14 @@
             "crew_name": "爱意",
             "equipping_title": "3_2021",
             "gender": 1,
-            "hp": 1164941.125,
+            "hp": 1192086.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54982.48828125,
-                "y": -87085.078125,
-                "z": 21725.9296875
+                "x": -54976.828125,
+                "y": -86796.8984375,
+                "z": 21726.0
             },
-            "last_seen": "2026年3月8日 下午8:03:58",
+            "last_seen": "2026年3月10日 下午6:15:36",
             "level": 85,
             "name": "未来祝福我",
             "name_history": [
@@ -24731,6 +24755,6 @@
         }
     },
     "accounts_total": 1215,
-    "last_updated": "2026年3月10日 下午6:14:36",
+    "last_updated": "2026年3月10日 下午6:15:36",
     "server_region": "time-travel"
 }
