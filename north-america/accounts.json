@@ -7682,12 +7682,21 @@
             "server_region": "north-america"
         },
         "51629802186174": {
+            "crew_history": [
+                "MellowMelody"
+            ],
             "crew_id": 11308648902389,
             "crew_name": "MellowMelody",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1981613.75,
-            "last_seen": "Jan 20, 2026, 09:30:53 PM",
+            "hp": 2067515.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55385.5390625,
+                "y": -88522.46875,
+                "z": 21724.51953125
+            },
+            "last_seen": "Mar 10, 2026, 4:04:25 PM",
             "level": 100,
             "name": "Mellodious",
             "name_history": [
@@ -15185,6 +15194,6 @@
         }
     },
     "accounts_total": 965,
-    "last_updated": "Mar 10, 2026, 4:01:25 PM",
+    "last_updated": "Mar 10, 2026, 4:04:25 PM",
     "server_region": "north-america"
 }
