@@ -6535,14 +6535,14 @@
             "crew_name": "Nekomimi",
             "equipping_title": "1_8_2_1",
             "gender": 1,
-            "hp": 1156945.625,
+            "hp": 2516313.25,
             "last_known_position": {
-                "map": "Team8P_08_D_II",
-                "x": 310416.21875,
-                "y": 114923.2109375,
-                "z": 42833.25
+                "map": "JIUYU_P",
+                "x": -325208.03125,
+                "y": 204377.796875,
+                "z": -28322.80859375
             },
-            "last_seen": "Mar 10, 2026, 9:55:24 PM",
+            "last_seen": "Mar 10, 2026, 10:56:18 PM",
             "level": 100,
             "name": "シズル",
             "name_history": [
@@ -26360,12 +26360,21 @@
             "server_region": "southeast-asia"
         },
         "68779606315879": {
-            "crew_id": 184683609733,
-            "crew_name": "Guardian",
+            "crew_history": [
+                "Tea Party"
+            ],
+            "crew_id": 386547072645,
+            "crew_name": "Tea Party",
             "equipping_title": "1_8_0_7",
             "gender": 1,
-            "hp": 2337811.5,
-            "last_seen": "Feb 03, 2026, 04:29:46 AM",
+            "hp": 3416218.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324927.125,
+                "y": 204030.296875,
+                "z": -28340.779296875
+            },
+            "last_seen": "Mar 10, 2026, 10:56:18 PM",
             "level": 100,
             "name": "YuukoKuuki",
             "name_history": [
@@ -32120,6 +32129,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 10, 2026, 10:54:18 PM",
+    "last_updated": "Mar 10, 2026, 10:56:18 PM",
     "server_region": "southeast-asia"
 }
