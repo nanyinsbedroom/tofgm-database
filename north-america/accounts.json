@@ -7636,12 +7636,21 @@
             "server_region": "north-america"
         },
         "51629802272530": {
-            "crew_id": 219043344101,
-            "crew_name": "Skill Issue",
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
+            "crew_id": 2637109931749,
+            "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2441722.0,
-            "last_seen": "Nov 09, 2025, 02:32:21 AM",
+            "hp": 2588100.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55769.9296875,
+                "y": -88717.546875,
+                "z": 21730.8203125
+            },
+            "last_seen": "Mar 10, 2026, 12:19:14 PM",
             "level": 100,
             "name": "Kujakux",
             "name_history": [
@@ -14248,6 +14257,6 @@
         }
     },
     "accounts_total": 935,
-    "last_updated": "Mar 10, 2026, 12:18:14 PM",
+    "last_updated": "Mar 10, 2026, 12:19:14 PM",
     "server_region": "north-america"
 }
