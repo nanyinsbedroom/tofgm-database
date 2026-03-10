@@ -294,12 +294,21 @@
             "server_region": "north-america"
         },
         "51548197487285": {
+            "crew_history": [
+                "Cute and Funny"
+            ],
             "crew_id": 266287984354,
             "crew_name": "Cute and Funny",
             "equipping_title": "2_10_2_3",
             "gender": 1,
-            "hp": 2496511.5,
-            "last_seen": "Nov 22, 2025, 02:33:36 AM",
+            "hp": 2591918.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.45703125,
+                "y": -88115.46875,
+                "z": 21711.0390625
+            },
+            "last_seen": "Mar 10, 2026, 2:09:19 PM",
             "level": 100,
             "name": "Serval",
             "name_history": [
@@ -9578,6 +9587,29 @@
             "role_id": 51629802337185,
             "server_region": "north-america"
         },
+        "51629802337270": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 951691.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53835.2578125,
+                "y": -88090.1015625,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 10, 2026, 2:09:19 PM",
+            "level": 100,
+            "name": "シェリーメイ",
+            "name_history": [
+                "シェリーメイ"
+            ],
+            "registered": "Oct 9, 2025, 7:33:06 AM",
+            "role_id": 51629802337270,
+            "server_region": "north-america"
+        },
         "51629802337420": {
             "crew_id": 55834586853,
             "crew_name": "F2PAnonymous",
@@ -14724,7 +14756,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 948,
-    "last_updated": "Mar 10, 2026, 2:08:19 PM",
+    "accounts_total": 949,
+    "last_updated": "Mar 10, 2026, 2:09:19 PM",
     "server_region": "north-america"
 }
