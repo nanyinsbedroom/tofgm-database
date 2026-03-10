@@ -17782,12 +17782,21 @@
             "server_region": "southeast-asia"
         },
         "68775311735922": {
+            "crew_history": [
+                "Nekomimi"
+            ],
             "crew_id": 51539623557,
             "crew_name": "Nekomimi",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 50155.0,
-            "last_seen": "Jan 20, 2026, 05:36:47 AM",
+            "hp": 511000.90625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 10, 2026, 10:16:25 PM",
             "level": 100,
             "name": "ImCarlotta",
             "name_history": [
@@ -31937,6 +31946,6 @@
         }
     },
     "accounts_total": 2104,
-    "last_updated": "Mar 10, 2026, 10:15:25 PM",
+    "last_updated": "Mar 10, 2026, 10:16:25 PM",
     "server_region": "southeast-asia"
 }
