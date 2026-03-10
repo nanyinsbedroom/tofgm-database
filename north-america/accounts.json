@@ -7730,11 +7730,26 @@
             "server_region": "north-america"
         },
         "51629802258407": {
+            "crew_history": [
+                "Star☆Crusaders"
+            ],
             "crew_id": 47244652263,
-            "crew_name": "Crusaders",
+            "crew_name": "Star☆Crusaders",
+            "equipping_title": "1_6_2_1",
             "gender": 1,
-            "last_seen": "Sep 09, 2025, 11:03:50 PM",
+            "hp": 1894351.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53984.12890625,
+                "y": -88033.859375,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 10, 2026, 1:13:17 PM",
+            "level": 100,
             "name": "Mia Blaze",
+            "name_history": [
+                "Mia Blaze"
+            ],
             "registered": "Aug 5, 2024, 11:59:05 AM",
             "role_id": 51629802258407,
             "server_region": "north-america"
@@ -14448,6 +14463,6 @@
         }
     },
     "accounts_total": 940,
-    "last_updated": "Mar 10, 2026, 1:12:17 PM",
+    "last_updated": "Mar 10, 2026, 1:13:17 PM",
     "server_region": "north-america"
 }
