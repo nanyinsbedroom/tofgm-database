@@ -16679,12 +16679,21 @@
             "server_region": "southeast-asia"
         },
         "68775311724329": {
+            "crew_history": [
+                "WeWillWin"
+            ],
             "crew_id": 360777268884,
             "crew_name": "WeWillWin",
             "equipping_title": "1_1_29_1",
             "gender": 0,
-            "hp": 1574751.5,
-            "last_seen": "Nov 01, 2025, 07:14:54 PM",
+            "hp": 2691336.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326691.875,
+                "y": 206480.71875,
+                "z": -27398.669921875
+            },
+            "last_seen": "Mar 11, 2026, 5:52:33 AM",
             "level": 100,
             "name": "Ryuu",
             "name_history": [
@@ -32174,6 +32183,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 11, 2026, 5:49:32 AM",
+    "last_updated": "Mar 11, 2026, 5:52:33 AM",
     "server_region": "southeast-asia"
 }
