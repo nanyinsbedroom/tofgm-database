@@ -6571,12 +6571,21 @@
             "server_region": "north-america"
         },
         "51616917058205": {
+            "crew_history": [
+                "Love"
+            ],
             "crew_id": 867583405806,
             "crew_name": "Love",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 1892615.75,
-            "last_seen": "Nov 14, 2025, 02:33:30 AM",
+            "hp": 2964170.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324062.125,
+                "y": 204012.578125,
+                "z": -28349.0703125
+            },
+            "last_seen": "Mar 10, 2026, 6:34:01 PM",
             "level": 100,
             "name": "certs",
             "name_history": [
@@ -8695,12 +8704,21 @@
             "server_region": "north-america"
         },
         "51629802292784": {
+            "crew_history": [
+                "EverꙞgaꙞrꙞden"
+            ],
             "crew_id": 3633542344423,
             "crew_name": "EverꙞgaꙞrꙞden",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1916254.75,
-            "last_seen": "Nov 16, 2025, 11:30:23 AM",
+            "hp": 3230067.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324308.84375,
+                "y": 201886.734375,
+                "z": -28340.458984375
+            },
+            "last_seen": "Mar 10, 2026, 6:34:01 PM",
             "level": 100,
             "name": "MissThang",
             "name_history": [
@@ -15654,6 +15672,6 @@
         }
     },
     "accounts_total": 978,
-    "last_updated": "Mar 10, 2026, 6:32:01 PM",
+    "last_updated": "Mar 10, 2026, 6:34:01 PM",
     "server_region": "north-america"
 }
