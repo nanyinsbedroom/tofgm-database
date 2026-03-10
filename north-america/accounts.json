@@ -3992,12 +3992,21 @@
             "server_region": "north-america"
         },
         "51582557232141": {
+            "crew_history": [
+                "Echo Vision"
+            ],
             "crew_id": 4294979317,
             "crew_name": "Echo Vision",
             "equipping_title": "1_4_4_7",
             "gender": 1,
-            "hp": 2772022.5,
-            "last_seen": "Nov 24, 2025, 07:08:07 PM",
+            "hp": 2924232.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54147.46875,
+                "y": -87924.5703125,
+                "z": 21724.400390625
+            },
+            "last_seen": "Mar 10, 2026, 4:26:26 PM",
             "level": 100,
             "name": "AltairAguilar",
             "name_history": [
@@ -15406,6 +15415,6 @@
         }
     },
     "accounts_total": 971,
-    "last_updated": "Mar 10, 2026, 4:23:26 PM",
+    "last_updated": "Mar 10, 2026, 4:26:26 PM",
     "server_region": "north-america"
 }
