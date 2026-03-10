@@ -6879,12 +6879,21 @@
             "server_region": "north-america"
         },
         "51629801973049": {
+            "crew_history": [
+                "Dreamlight"
+            ],
             "crew_id": 38654717676,
             "crew_name": "Dreamlight",
             "equipping_title": "1_1_22_1",
             "gender": 0,
-            "hp": 2093551.875,
-            "last_seen": "Feb 3, 2026, 10:41:39 PM",
+            "hp": 2350047.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54234.66015625,
+                "y": -87752.25,
+                "z": 21730.849609375
+            },
+            "last_seen": "Mar 10, 2026, 2:01:19 PM",
             "level": 100,
             "name": "Wal",
             "name_history": [
@@ -7180,12 +7189,21 @@
             "server_region": "north-america"
         },
         "51629802151934": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Tower of Heroes"
+            ],
+            "crew_id": 6227702591201,
+            "crew_name": "Tower of Heroes",
             "equipping_title": "1_1_21_1",
             "gender": 1,
-            "hp": 2168642.0,
-            "last_seen": "Nov 02, 2025, 12:58:35 AM",
+            "hp": 2284821.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55479.45703125,
+                "y": -88596.4453125,
+                "z": 21826.150390625
+            },
+            "last_seen": "Mar 10, 2026, 2:01:19 PM",
             "level": 100,
             "name": "-AYU-",
             "name_history": [
@@ -14552,6 +14570,6 @@
         }
     },
     "accounts_total": 943,
-    "last_updated": "Mar 10, 2026, 1:51:19 PM",
+    "last_updated": "Mar 10, 2026, 2:01:19 PM",
     "server_region": "north-america"
 }
