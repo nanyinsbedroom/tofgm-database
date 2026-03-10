@@ -5304,14 +5304,26 @@
             "server_region": "north-america"
         },
         "51608327035127": {
+            "crew_history": [
+                "Tax Evaders"
+            ],
             "crew_id": 124554063603,
             "crew_name": "Tax Evaders",
             "equipping_title": "2_3_0_3",
             "gender": 0,
-            "hp": 1704938.875,
-            "last_seen": "Oct 26, 2025, 02:11:44 AM",
+            "hp": 1735500.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 10, 2026, 1:09:17 PM",
             "level": 100,
             "name": "Chiquilin#a",
+            "name_history": [
+                "Chiquilin#a"
+            ],
             "registered": "Aug 10, 2022, 11:00:14 PM",
             "role_id": 51608327035127,
             "server_region": "north-america"
@@ -14404,6 +14416,6 @@
         }
     },
     "accounts_total": 939,
-    "last_updated": "Mar 10, 2026, 12:54:16 PM",
+    "last_updated": "Mar 10, 2026, 1:09:17 PM",
     "server_region": "north-america"
 }
