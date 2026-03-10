@@ -1798,12 +1798,21 @@
             "server_region": "north-america"
         },
         "51561082403244": {
+            "crew_history": [
+                "Love"
+            ],
             "crew_id": 867583405806,
             "crew_name": "Love",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2178589.75,
-            "last_seen": "Nov 14, 2025, 02:00:49 AM",
+            "hp": 2218181.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55061.55859375,
+                "y": -87874.3359375,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 10, 2026, 3:12:23 PM",
             "level": 100,
             "name": "SnackMuncher",
             "name_history": [
@@ -15019,6 +15028,6 @@
         }
     },
     "accounts_total": 959,
-    "last_updated": "Mar 10, 2026, 2:52:22 PM",
+    "last_updated": "Mar 10, 2026, 3:12:23 PM",
     "server_region": "north-america"
 }
