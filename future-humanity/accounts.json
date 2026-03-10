@@ -1684,14 +1684,14 @@
             "crew_name": "浪漫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1143461.75,
+            "hp": 1144792.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21711.048828125
+                "x": -54993.34765625,
+                "y": -86766.4765625,
+                "z": 21710.990234375
             },
-            "last_seen": "2026年3月7日 下午5:57:22",
+            "last_seen": "2026年3月10日 下午4:20:19",
             "level": 100,
             "name": "好不",
             "name_history": [
@@ -7721,6 +7721,29 @@
             ],
             "registered": "2024年6月9日 上午10:39:10",
             "role_id": 60563335315482,
+            "server_region": "future-humanity"
+        },
+        "60563335315870": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 696002.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54368.078125,
+                "y": -85074.875,
+                "z": 21747.638671875
+            },
+            "last_seen": "2026年3月10日 下午4:20:19",
+            "level": 56,
+            "name": "特辣刀削面",
+            "name_history": [
+                "特辣刀削面"
+            ],
+            "registered": "2024年6月9日 下午12:58:33",
+            "role_id": 60563335315870,
             "server_region": "future-humanity"
         },
         "60563335317929": {
@@ -24825,6 +24848,31 @@
             "role_id": 61491046825588,
             "server_region": "future-humanity"
         },
+        "61495341749403": {
+            "crew_history": [
+                "云中歌"
+            ],
+            "crew_id": 7670811604757,
+            "crew_name": "云中歌",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 2151215.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55281.34765625,
+                "y": -87865.0546875,
+                "z": 21730.080078125
+            },
+            "last_seen": "2026年3月10日 下午4:20:19",
+            "level": 100,
+            "name": "元气幻想喵",
+            "name_history": [
+                "元气幻想喵"
+            ],
+            "registered": "2021年12月16日 上午9:23:33",
+            "role_id": 61495341749403,
+            "server_region": "future-humanity"
+        },
         "61495341752433": {
             "crew_history": [
                 "梦乡"
@@ -27425,7 +27473,7 @@
             "server_region": "future-humanity"
         }
     },
-    "accounts_total": 1236,
-    "last_updated": "2026年3月10日 下午4:18:19",
+    "accounts_total": 1238,
+    "last_updated": "2026年3月10日 下午4:20:19",
     "server_region": "future-humanity"
 }
