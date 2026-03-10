@@ -6793,12 +6793,21 @@
             "server_region": "north-america"
         },
         "51625506926775": {
+            "crew_history": [
+                "KFCㅤ Prominence"
+            ],
             "crew_id": 146028900084,
             "crew_name": "KFCㅤ Prominence",
             "equipping_title": "Nicrode的学徒,0",
             "gender": 1,
-            "hp": 1835346.125,
-            "last_seen": "Nov 02, 2025, 01:01:35 AM",
+            "hp": 1906360.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55334.19921875,
+                "y": -88387.6015625,
+                "z": 21783.298828125
+            },
+            "last_seen": "Mar 10, 2026, 4:14:26 PM",
             "level": 100,
             "name": "Arceey",
             "name_history": [
@@ -8974,12 +8983,21 @@
             "server_region": "north-america"
         },
         "51629802320315": {
+            "crew_history": [
+                "Love"
+            ],
             "crew_id": 867583405806,
             "crew_name": "Love",
-            "equipping_title": "2_2_0_63",
+            "equipping_title": "1_4_4_5",
             "gender": 1,
-            "hp": 1422212.375,
-            "last_seen": "Feb 3, 2026, 1:52:34 PM",
+            "hp": 1448376.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53713.4609375,
+                "y": -87890.0234375,
+                "z": 21724.3203125
+            },
+            "last_seen": "Mar 10, 2026, 4:14:26 PM",
             "level": 100,
             "name": "ArcticMonikaVT",
             "name_history": [
@@ -15298,6 +15316,6 @@
         }
     },
     "accounts_total": 968,
-    "last_updated": "Mar 10, 2026, 4:12:26 PM",
+    "last_updated": "Mar 10, 2026, 4:14:26 PM",
     "server_region": "north-america"
 }
