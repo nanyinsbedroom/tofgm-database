@@ -2954,12 +2954,21 @@
             "server_region": "north-america"
         },
         "51578262265494": {
+            "crew_history": [
+                "SH✪✪OOTING ST☆R"
+            ],
             "crew_id": 7524782714613,
             "crew_name": "SH✪✪OOTING ST☆R",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 1997452.75,
-            "last_seen": "Nov 16, 2025, 11:30:23 AM",
+            "hp": 3085808.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324120.15625,
+                "y": 202187.703125,
+                "z": -28352.0703125
+            },
+            "last_seen": "Mar 10, 2026, 11:52:12 AM",
             "level": 100,
             "name": "Sayanara",
             "name_history": [
@@ -3763,12 +3772,21 @@
             "server_region": "north-america"
         },
         "51582557302792": {
+            "crew_history": [
+                "Requiem"
+            ],
             "crew_id": 12884913898,
             "crew_name": "Requiem",
-            "equipping_title": "Title_tencentshare_os_15",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 2462556.5,
-            "last_seen": "Nov 02, 2025, 03:12:59 PM",
+            "hp": 3874371.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323843.4375,
+                "y": 202861.375,
+                "z": -28344.279296875
+            },
+            "last_seen": "Mar 10, 2026, 11:52:12 AM",
             "level": 100,
             "name": "⁺ Kieru ₊",
             "name_history": [
@@ -13815,6 +13833,6 @@
         }
     },
     "accounts_total": 922,
-    "last_updated": "Mar 10, 2026, 11:43:12 AM",
+    "last_updated": "Mar 10, 2026, 11:52:12 AM",
     "server_region": "north-america"
 }
