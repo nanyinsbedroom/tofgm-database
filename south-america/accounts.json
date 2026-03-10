@@ -2856,12 +2856,21 @@
             "server_region": "south-america"
         },
         "64488934001506": {
+            "crew_history": [
+                "TENGU"
+            ],
             "crew_id": 3676492020378,
             "crew_name": "TENGU",
             "equipping_title": "1_4_3_28",
             "gender": 0,
-            "hp": 2296691.25,
-            "last_seen": "Nov 03, 2025, 03:09:48 AM",
+            "hp": 2261595.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55273.45703125,
+                "y": -88508.6796875,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 10, 2026, 6:13:00 PM",
             "level": 100,
             "name": "ArcsXx",
             "name_history": [
@@ -5582,6 +5591,6 @@
         }
     },
     "accounts_total": 362,
-    "last_updated": "Mar 10, 2026, 6:11:00 PM",
+    "last_updated": "Mar 10, 2026, 6:13:00 PM",
     "server_region": "south-america"
 }
