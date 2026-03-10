@@ -5645,12 +5645,21 @@
             "server_region": "southeast-asia"
         },
         "68740951596926": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2023280.0,
-            "last_seen": "Nov 03, 2025, 05:31:50 PM",
+            "hp": 2057898.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 10, 2026, 10:08:25 PM",
             "level": 100,
             "name": "RexCaelestis",
             "name_history": [
@@ -31867,6 +31876,6 @@
         }
     },
     "accounts_total": 2103,
-    "last_updated": "Mar 10, 2026, 10:07:25 PM",
+    "last_updated": "Mar 10, 2026, 10:08:25 PM",
     "server_region": "southeast-asia"
 }
