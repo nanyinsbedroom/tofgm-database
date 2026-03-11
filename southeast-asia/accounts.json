@@ -17246,11 +17246,26 @@
             "server_region": "southeast-asia"
         },
         "68775311724436": {
+            "crew_history": [
+                "Guardian"
+            ],
             "crew_id": 184683609733,
             "crew_name": "Guardian",
+            "equipping_title": "3_2025",
             "gender": 1,
-            "last_seen": "Sep 15, 2025, 02:19:13 PM",
+            "hp": 2601862.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325410.71875,
+                "y": 200933.875,
+                "z": -28343.529296875
+            },
+            "last_seen": "Mar 11, 2026, 8:12:55 PM",
+            "level": 100,
             "name": "冰鱼",
+            "name_history": [
+                "冰鱼"
+            ],
             "registered": "Feb 26, 2025, 1:50:41 PM",
             "role_id": 68775311724436,
             "server_region": "southeast-asia"
@@ -33004,6 +33019,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:11:54 PM",
+    "last_updated": "Mar 11, 2026, 8:12:55 PM",
     "server_region": "southeast-asia"
 }
