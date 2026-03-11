@@ -24870,13 +24870,22 @@
             "server_region": "southeast-asia"
         },
         "68775311756978": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "REBIRTH"
+            ],
+            "crew_id": 3719441694345,
+            "crew_name": "REBIRTH",
+            "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 1019675.625,
-            "last_seen": "Nov 20, 2025, 07:05:19 PM",
-            "level": 83,
+            "hp": 2373692.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325342.0,
+                "y": 204733.609375,
+                "z": -28328.0703125
+            },
+            "last_seen": "Mar 11, 2026, 3:54:33 PM",
+            "level": 100,
             "name": "Roberthesley",
             "name_history": [
                 "Roberthesley"
@@ -32867,6 +32876,6 @@
         }
     },
     "accounts_total": 2124,
-    "last_updated": "Mar 11, 2026, 3:51:33 PM",
+    "last_updated": "Mar 11, 2026, 3:54:33 PM",
     "server_region": "southeast-asia"
 }
