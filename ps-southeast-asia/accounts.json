@@ -62,12 +62,21 @@
             "server_region": "ps-southeast-asia"
         },
         "8607118756156597": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
             "crew_id": 8591938593,
             "crew_name": "★★彩色小屋★★",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 1692688.5,
-            "last_seen": "Nov 03, 2025, 09:33:50 PM",
+            "hp": 1718155.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54134.8984375,
+                "y": -92155.5859375,
+                "z": 21734.638671875
+            },
+            "last_seen": "Mar 11, 2026, 4:14:22 PM",
             "level": 100,
             "name": "紫澪月",
             "name_history": [
@@ -406,11 +415,11 @@
             "hp": 2364554.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54732.8984375,
-                "y": -88121.796875,
-                "z": 21726.05859375
+                "x": -54719.33984375,
+                "y": -88106.78125,
+                "z": 21725.990234375
             },
-            "last_seen": "Mar 11, 2026, 12:01:17 PM",
+            "last_seen": "Mar 11, 2026, 4:14:22 PM",
             "level": 100,
             "name": "小天",
             "name_history": [
@@ -943,11 +952,11 @@
             "hp": 1093402.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21726.048828125
+                "x": -54749.55859375,
+                "y": -88133.8359375,
+                "z": 21725.94921875
             },
-            "last_seen": "Mar 11, 2026, 12:01:17 PM",
+            "last_seen": "Mar 11, 2026, 4:14:22 PM",
             "level": 91,
             "name": "完美執行者",
             "name_history": [
@@ -1639,6 +1648,6 @@
         }
     },
     "accounts_total": 108,
-    "last_updated": "Mar 11, 2026, 4:13:21 PM",
+    "last_updated": "Mar 11, 2026, 4:14:22 PM",
     "server_region": "ps-southeast-asia"
 }
