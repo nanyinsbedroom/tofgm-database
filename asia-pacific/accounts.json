@@ -10051,12 +10051,21 @@
             "server_region": "asia-pacific"
         },
         "47300474913394": {
+            "crew_history": [
+                "月が綺麗ですね。"
+            ],
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 2129321.0,
-            "last_seen": "Nov 14, 2025, 05:05:42 PM",
+            "hp": 2561644.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54202.4375,
+                "y": -88134.2265625,
+                "z": 21718.990234375
+            },
+            "last_seen": "Mar 11, 2026, 4:07:37 PM",
             "level": 100,
             "name": " 白星",
             "name_history": [
@@ -12704,11 +12713,26 @@
             "server_region": "asia-pacific"
         },
         "47317654779090": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "フェアリーテイル"
+            ],
+            "crew_id": 283467852553,
+            "crew_name": "フェアリーテイル",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "last_seen": "Oct 02, 2025, 05:58:03 PM",
+            "hp": 2483261.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55110.48046875,
+                "y": -86818.8515625,
+                "z": 21723.990234375
+            },
+            "last_seen": "Mar 11, 2026, 4:07:37 PM",
+            "level": 100,
             "name": "雪月花＊",
+            "name_history": [
+                "雪月花＊"
+            ],
             "registered": "Aug 17, 2022, 5:39:12 AM",
             "role_id": 47317654779090,
             "server_region": "asia-pacific"
@@ -32788,14 +32812,26 @@
             "server_region": "asia-pacific"
         },
         "47369194342929": {
+            "crew_history": [
+                "かるーあみるく"
+            ],
             "crew_id": 4191888091903,
             "crew_name": "かるーあみるく",
-            "equipping_title": "1_5_1_1",
+            "equipping_title": "1_3_1_4",
             "gender": 0,
-            "hp": 2720899.5,
-            "last_seen": "Oct 22, 2025, 04:29:06 PM",
+            "hp": 2612865.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54128.41015625,
+                "y": -87977.9921875,
+                "z": 21724.94921875
+            },
+            "last_seen": "Mar 11, 2026, 4:07:37 PM",
             "level": 100,
             "name": "タタリウンカミ",
+            "name_history": [
+                "タタリウンカミ"
+            ],
             "registered": "Aug 15, 2022, 7:51:27 AM",
             "role_id": 47369194342929,
             "server_region": "asia-pacific"
@@ -32827,12 +32863,21 @@
             "server_region": "asia-pacific"
         },
         "47369194350550": {
+            "crew_history": [
+                "クロスギルド"
+            ],
             "crew_id": 4294978319,
             "crew_name": "クロスギルド",
             "equipping_title": "★スロ子★的导师,0",
             "gender": 1,
-            "hp": 2639135.5,
-            "last_seen": "Nov 05, 2025, 06:22:34 PM",
+            "hp": 2829311.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53669.640625,
+                "y": -87875.0859375,
+                "z": 21710.8203125
+            },
+            "last_seen": "Mar 11, 2026, 4:07:37 PM",
             "level": 100,
             "name": "★パチ子★",
             "name_history": [
@@ -37406,6 +37451,6 @@
         }
     },
     "accounts_total": 2609,
-    "last_updated": "Mar 11, 2026, 4:06:37 PM",
+    "last_updated": "Mar 11, 2026, 4:07:37 PM",
     "server_region": "asia-pacific"
 }
