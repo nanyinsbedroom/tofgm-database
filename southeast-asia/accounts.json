@@ -15271,12 +15271,21 @@
             "server_region": "southeast-asia"
         },
         "68775311604081": {
+            "crew_history": [
+                "VN-Archon"
+            ],
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
             "equipping_title": "3_2023",
             "gender": 1,
-            "hp": 2206284.5,
-            "last_seen": "Nov 13, 2025, 08:34:36 PM",
+            "hp": 2401541.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28333.958984375
+            },
+            "last_seen": "Mar 11, 2026, 9:39:25 PM",
             "level": 100,
             "name": ".Sinon.",
             "name_history": [
@@ -33168,6 +33177,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:36:25 PM",
+    "last_updated": "Mar 11, 2026, 9:39:25 PM",
     "server_region": "southeast-asia"
 }
