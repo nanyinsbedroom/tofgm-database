@@ -8433,11 +8433,26 @@
             "server_region": "southeast-asia"
         },
         "68753836507969": {
+            "crew_history": [
+                "PHONG ƯUNG BANG"
+            ],
             "crew_id": 944892821123,
             "crew_name": "PHONG ƯUNG BANG",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": "Sep 28, 2025, 01:46:03 PM",
+            "hp": 3690722.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325321.71875,
+                "y": 204730.109375,
+                "z": -28335.619140625
+            },
+            "last_seen": "Mar 11, 2026, 3:32:38 PM",
+            "level": 100,
             "name": "Renkawa Cherino",
+            "name_history": [
+                "Renkawa Cherino"
+            ],
             "registered": "Aug 11, 2022, 11:42:54 PM",
             "role_id": 68753836507969,
             "server_region": "southeast-asia"
@@ -32770,6 +32785,6 @@
         }
     },
     "accounts_total": 2123,
-    "last_updated": "Mar 11, 2026, 2:55:36 PM",
+    "last_updated": "Mar 11, 2026, 3:32:38 PM",
     "server_region": "southeast-asia"
 }
