@@ -10319,14 +10319,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 6151945.0,
+            "hp": 3303525.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 136793.546875,
-                "y": -179847.65625,
-                "z": 94.0199966430664
+                "map": "JIUYU_P",
+                "x": -325585.5,
+                "y": 204912.203125,
+                "z": -28325.830078125
             },
-            "last_seen": "Mar 3, 2026, 10:57:30 PM",
+            "last_seen": "Mar 11, 2026, 2:52:36 PM",
             "level": 100,
             "name": "Natsfluw",
             "name_history": [
@@ -13742,11 +13742,26 @@
             "server_region": "southeast-asia"
         },
         "68775311362156": {
+            "crew_history": [
+                "Aspen"
+            ],
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
+            "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "last_seen": "Sep 28, 2025, 10:45:11 PM",
+            "hp": 6465651.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325277.75,
+                "y": 201913.0,
+                "z": -28343.529296875
+            },
+            "last_seen": "Mar 11, 2026, 2:52:36 PM",
+            "level": 100,
             "name": "Ｚａ",
+            "name_history": [
+                "Ｚａ"
+            ],
             "registered": "Aug 14, 2022, 12:15:10 AM",
             "role_id": 68775311362156,
             "server_region": "southeast-asia"
@@ -32730,6 +32745,6 @@
         }
     },
     "accounts_total": 2122,
-    "last_updated": "Mar 11, 2026, 2:51:36 PM",
+    "last_updated": "Mar 11, 2026, 2:52:36 PM",
     "server_region": "southeast-asia"
 }
