@@ -1412,12 +1412,21 @@
             "server_region": "north-america"
         },
         "51556787427124": {
+            "crew_history": [
+                "CDG"
+            ],
             "crew_id": 425201774327,
             "crew_name": "CDG",
             "equipping_title": "2_2_0_18",
             "gender": 0,
-            "hp": 2399922.75,
-            "last_seen": "Nov 14, 2025, 02:24:29 AM",
+            "hp": 3629109.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323573.53125,
+                "y": 202968.78125,
+                "z": -28339.279296875
+            },
+            "last_seen": "Mar 11, 2026, 7:57:50 PM",
             "level": 100,
             "name": "Asouldin",
             "name_history": [
@@ -1894,11 +1903,11 @@
             "hp": 3384823.0,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325625.75,
-                "y": 204871.890625,
-                "z": -28328.228515625
+                "x": -325313.125,
+                "y": 204940.9375,
+                "z": -28328.240234375
             },
-            "last_seen": "Mar 11, 2026, 6:53:45 PM",
+            "last_seen": "Mar 11, 2026, 7:57:50 PM",
             "level": 100,
             "name": "apac",
             "name_history": [
@@ -5606,6 +5615,31 @@
             "name": "Ravenwraith ",
             "registered": "Aug 11, 2022, 12:05:40 PM",
             "role_id": 51599737128082,
+            "server_region": "north-america"
+        },
+        "51599737136667": {
+            "crew_history": [
+                "Love"
+            ],
+            "crew_id": 867583405806,
+            "crew_name": "Love",
+            "equipping_title": "2_10_1_6",
+            "gender": 0,
+            "hp": 3867466.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325226.625,
+                "y": 205182.359375,
+                "z": -28337.1796875
+            },
+            "last_seen": "Mar 11, 2026, 7:57:50 PM",
+            "level": 100,
+            "name": "HOLIDAY SALE",
+            "name_history": [
+                "HOLIDAY SALE"
+            ],
+            "registered": "Aug 11, 2022, 9:26:49 PM",
+            "role_id": 51599737136667,
             "server_region": "north-america"
         },
         "51599737139243": {
@@ -15971,7 +16005,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 989,
-    "last_updated": "Mar 11, 2026, 6:56:45 PM",
+    "accounts_total": 990,
+    "last_updated": "Mar 11, 2026, 7:57:50 PM",
     "server_region": "north-america"
 }
