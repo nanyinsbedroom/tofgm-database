@@ -3969,11 +3969,11 @@
             "hp": 3433820.25,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324513.4375,
-                "y": 204452.015625,
-                "z": -28356.55859375
+                "x": -324933.71875,
+                "y": 204577.796875,
+                "z": -28312.080078125
             },
-            "last_seen": "Mar 11, 2026, 12:09:37 PM",
+            "last_seen": "Mar 11, 2026, 12:18:58 PM",
             "level": 100,
             "name": "ElderTayan",
             "name_history": [
@@ -6750,12 +6750,21 @@
             "server_region": "southeast-asia"
         },
         "68745246554820": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
-            "equipping_title": "1_6_4_2",
+            "equipping_title": "2_2_0_2",
             "gender": 0,
-            "hp": 2352677.5,
-            "last_seen": "Nov 09, 2025, 05:05:09 PM",
+            "hp": 3359140.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324918.3125,
+                "y": 204778.140625,
+                "z": -28316.0390625
+            },
+            "last_seen": "Mar 11, 2026, 12:18:58 PM",
             "level": 100,
             "name": "Ruyao",
             "name_history": [
@@ -32334,6 +32343,6 @@
         }
     },
     "accounts_total": 2109,
-    "last_updated": "Mar 11, 2026, 12:17:58 PM",
+    "last_updated": "Mar 11, 2026, 12:18:58 PM",
     "server_region": "southeast-asia"
 }
