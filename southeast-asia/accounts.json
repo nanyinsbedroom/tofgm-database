@@ -1309,12 +1309,21 @@
             "server_region": "southeast-asia"
         },
         "68728066670634": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 6108527.0,
-            "last_seen": "Jan 02, 2026, 05:09:27 AM",
+            "hp": 2301526.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55549.75,
+                "y": -88450.5390625,
+                "z": 21724.388671875
+            },
+            "last_seen": "Mar 11, 2026, 12:13:58 PM",
             "level": 100,
             "name": "Isana",
             "name_history": [
@@ -8280,6 +8289,31 @@
             "role_id": 68753836515863,
             "server_region": "southeast-asia"
         },
+        "68753836519382": {
+            "crew_history": [
+                "Blanc Et Noir"
+            ],
+            "crew_id": 8589950601,
+            "crew_name": "Blanc Et Noir",
+            "equipping_title": "Overseas2_10",
+            "gender": 1,
+            "hp": 1909906.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55459.546875,
+                "y": -85475.4375,
+                "z": 22492.900390625
+            },
+            "last_seen": "Mar 11, 2026, 12:13:58 PM",
+            "level": 100,
+            "name": "Rozenburg Engel",
+            "name_history": [
+                "Rozenburg Engel"
+            ],
+            "registered": "Aug 12, 2022, 10:22:36 PM",
+            "role_id": 68753836519382,
+            "server_region": "southeast-asia"
+        },
         "68753836522338": {
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
@@ -10481,12 +10515,21 @@
             "server_region": "southeast-asia"
         },
         "68762426433034": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
-            "equipping_title": "2_2_0_84",
+            "equipping_title": "HuntingRank_1;imitation_69;1",
             "gender": 0,
-            "hp": 2755091.5,
-            "last_seen": "Feb 03, 2026, 01:06:31 AM",
+            "hp": 2735663.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54259.7890625,
+                "y": -86336.6171875,
+                "z": 21721.900390625
+            },
+            "last_seen": "Mar 11, 2026, 12:13:58 PM",
             "level": 100,
             "name": "Aliceline",
             "name_history": [
@@ -28798,12 +28841,21 @@
             "server_region": "southeast-asia"
         },
         "68792491213657": {
+            "crew_history": [
+                "Fantasy"
+            ],
             "crew_id": 4294983307,
             "crew_name": "Fantasy",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 1,
-            "hp": 2051415.75,
-            "last_seen": "Jan 22, 2026, 10:16:51 AM",
+            "hp": 2069473.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53795.30859375,
+                "y": -88114.4765625,
+                "z": 21717.580078125
+            },
+            "last_seen": "Mar 11, 2026, 12:13:58 PM",
             "level": 100,
             "name": "Saunts",
             "name_history": [
@@ -32191,7 +32243,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2106,
-    "last_updated": "Mar 11, 2026, 12:10:37 PM",
+    "accounts_total": 2107,
+    "last_updated": "Mar 11, 2026, 12:13:58 PM",
     "server_region": "southeast-asia"
 }
