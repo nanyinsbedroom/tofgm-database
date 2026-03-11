@@ -9855,15 +9855,25 @@
             "server_region": "southeast-asia"
         },
         "68758131600305": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "hp": 1792351.5,
-            "last_seen": "Nov 24, 2025, 05:04:00 AM",
+            "hp": 3259998.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324055.5625,
+                "y": 202849.21875,
+                "z": -28320.80859375
+            },
+            "last_seen": "Mar 11, 2026, 2:47:36 PM",
             "level": 100,
-            "name": "Susu Penguin",
+            "name": "祷り",
             "name_history": [
+                "祷り",
                 "Susu Penguin"
             ],
             "registered": "Oct 16, 2022, 5:08:50 PM",
@@ -32711,6 +32721,6 @@
         }
     },
     "accounts_total": 2122,
-    "last_updated": "Mar 11, 2026, 2:42:36 PM",
+    "last_updated": "Mar 11, 2026, 2:47:36 PM",
     "server_region": "southeast-asia"
 }
