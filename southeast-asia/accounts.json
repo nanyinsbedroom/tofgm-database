@@ -2165,12 +2165,21 @@
             "server_region": "southeast-asia"
         },
         "68728066758710": {
+            "crew_history": [
+                "♣️HOSHI星"
+            ],
             "crew_id": 1146756284034,
             "crew_name": "♣️HOSHI星",
             "equipping_title": "2_8_0_8",
             "gender": 1,
-            "hp": 2139434.25,
-            "last_seen": "Nov 08, 2025, 07:05:21 PM",
+            "hp": 3109678.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -27681.888671875
+            },
+            "last_seen": "Mar 11, 2026, 8:57:22 PM",
             "level": 100,
             "name": "花月",
             "name_history": [
@@ -33101,6 +33110,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:54:22 PM",
+    "last_updated": "Mar 11, 2026, 8:57:22 PM",
     "server_region": "southeast-asia"
 }
