@@ -1638,14 +1638,14 @@
             "crew_name": "Rex Incognito",
             "equipping_title": "1_1_1_1",
             "gender": 0,
-            "hp": 2264997.0,
+            "hp": 2907758.75,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -8971.9755859375,
-                "y": 5318.82861328125,
-                "z": 25638.48046875
+                "map": "Team8P_08_D_II",
+                "x": 309742.03125,
+                "y": 113682.5078125,
+                "z": 42833.25
             },
-            "last_seen": "Feb 16, 2026, 8:22:21 PM",
+            "last_seen": "Mar 11, 2026, 12:20:58 PM",
             "level": 100,
             "name": "Aces#c",
             "name_history": [
@@ -2666,14 +2666,14 @@
             "crew_name": "Origin",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2742374.0,
+            "hp": 3016611.25,
             "last_known_position": {
-                "map": "city",
-                "x": -24.5,
-                "y": -16882.798828125,
-                "z": 96373.0390625
+                "map": "Team8P_08_D_II",
+                "x": 308597.125,
+                "y": 113875.4609375,
+                "z": 42844.48046875
             },
-            "last_seen": "Mar 9, 2026, 8:56:15 PM",
+            "last_seen": "Mar 11, 2026, 12:20:58 PM",
             "level": 100,
             "name": "Lavetta",
             "name_history": [
@@ -6084,12 +6084,21 @@
             "server_region": "southeast-asia"
         },
         "68740951626852": {
-            "crew_id": 184683609733,
-            "crew_name": "Guardian",
+            "crew_history": [
+                "Tea Party"
+            ],
+            "crew_id": 386547072645,
+            "crew_name": "Tea Party",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "hp": 2589423.0,
-            "last_seen": "Jan 26, 2026, 03:38:30 AM",
+            "hp": 2621368.0,
+            "last_known_position": {
+                "map": "Team8P_08_D_II",
+                "x": 316931.40625,
+                "y": 113856.15625,
+                "z": 43018.7109375
+            },
+            "last_seen": "Mar 11, 2026, 12:20:58 PM",
             "level": 100,
             "name": "MysticSky",
             "name_history": [
@@ -10282,14 +10291,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 4057471.25,
+            "hp": 3363218.5,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324369.8125,
-                "y": 201969.296875,
-                "z": -28326.458984375
+                "map": "Team8P_08_D_II",
+                "x": 309879.0,
+                "y": 113775.1484375,
+                "z": 42834.33984375
             },
-            "last_seen": "Mar 10, 2026, 10:53:18 PM",
+            "last_seen": "Mar 11, 2026, 12:20:58 PM",
             "level": 100,
             "name": "AnemoneEldraine",
             "name_history": [
@@ -32343,6 +32352,6 @@
         }
     },
     "accounts_total": 2109,
-    "last_updated": "Mar 11, 2026, 12:19:58 PM",
+    "last_updated": "Mar 11, 2026, 12:20:58 PM",
     "server_region": "southeast-asia"
 }
