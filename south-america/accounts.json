@@ -1,11 +1,26 @@
 {
     "accounts": {
         "64428804407772": {
+            "crew_history": [
+                "Strange Grief"
+            ],
             "crew_id": 3663607118489,
             "crew_name": "Strange Grief",
+            "equipping_title": "2_2_0_74",
             "gender": 0,
-            "last_seen": "Sep 07, 2025, 03:49:03 AM",
+            "hp": 3906157.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325060.03125,
+                "y": 203673.5,
+                "z": -28327.30859375
+            },
+            "last_seen": "Mar 11, 2026, 7:03:46 PM",
+            "level": 100,
             "name": "Kalixto",
+            "name_history": [
+                "Kalixto"
+            ],
             "registered": "Aug 10, 2022, 7:36:43 PM",
             "role_id": 64428804407772,
             "server_region": "south-america"
@@ -512,6 +527,31 @@
             ],
             "registered": "Aug 11, 2022, 11:30:19 PM",
             "role_id": 64433099413488,
+            "server_region": "south-america"
+        },
+        "64433099413984": {
+            "crew_history": [
+                "YoRHa"
+            ],
+            "crew_id": 777389095578,
+            "crew_name": "YoRHa",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 3382341.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323819.875,
+                "y": 204289.75,
+                "z": -28352.0703125
+            },
+            "last_seen": "Mar 11, 2026, 7:03:46 PM",
+            "level": 100,
+            "name": "Rudá",
+            "name_history": [
+                "Rudá"
+            ],
+            "registered": "Aug 12, 2022, 12:25:35 AM",
+            "role_id": 64433099413984,
             "server_region": "south-america"
         },
         "64433099422339": {
@@ -6113,7 +6153,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 379,
-    "last_updated": "Mar 11, 2026, 7:02:46 PM",
+    "accounts_total": 380,
+    "last_updated": "Mar 11, 2026, 7:03:46 PM",
     "server_region": "south-america"
 }
