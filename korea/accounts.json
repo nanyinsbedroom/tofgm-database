@@ -2894,12 +2894,21 @@
             "server_region": "korea"
         },
         "42945833259340603": {
+            "crew_history": [
+                "ʚɞ"
+            ],
             "crew_id": 55844573950,
             "crew_name": "ʚɞ",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 1986640.125,
-            "last_seen": "Nov 02, 2025, 04:16:10 PM",
+            "hp": 2093883.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -70915.46875,
+                "y": -28683.849609375,
+                "z": 11411.2197265625
+            },
+            "last_seen": "Mar 11, 2026, 8:18:59 PM",
             "level": 100,
             "name": "꿍야룽",
             "name_history": [
@@ -3079,6 +3088,6 @@
         }
     },
     "accounts_total": 187,
-    "last_updated": "Mar 11, 2026, 8:16:59 PM",
+    "last_updated": "Mar 11, 2026, 8:18:59 PM",
     "server_region": "korea"
 }
