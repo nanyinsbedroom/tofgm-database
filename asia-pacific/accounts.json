@@ -2319,6 +2319,31 @@
             "role_id": 47257525179163,
             "server_region": "asia-pacific"
         },
+        "47257525184474": {
+            "crew_history": [
+                "CyberAngel"
+            ],
+            "crew_id": 545460857595,
+            "crew_name": "CyberAngel",
+            "equipping_title": "1_2022",
+            "gender": 0,
+            "hp": 1790859.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54006.58984375,
+                "y": -88272.78125,
+                "z": 21738.0390625
+            },
+            "last_seen": "Mar 11, 2026, 8:27:55 PM",
+            "level": 100,
+            "name": "※Delacroix※",
+            "name_history": [
+                "※Delacroix※"
+            ],
+            "registered": "Aug 11, 2022, 4:56:04 PM",
+            "role_id": 47257525184474,
+            "server_region": "asia-pacific"
+        },
         "47257525184515": {
             "crew_history": [
                 "CoCo"
@@ -10655,12 +10680,19 @@
             "server_region": "asia-pacific"
         },
         "47300474959355": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_1_10_3",
+            "equipping_title": "2_2_0_45",
             "gender": 1,
-            "hp": 2582401.5,
-            "last_seen": "Nov 18, 2025, 12:02:11 PM",
+            "hp": 2662818.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55117.83984375,
+                "y": -88736.5859375,
+                "z": 21724.36328125
+            },
+            "last_seen": "Mar 11, 2026, 8:27:55 PM",
             "level": 100,
             "name": "フェール",
             "name_history": [
@@ -12800,11 +12832,26 @@
             "server_region": "asia-pacific"
         },
         "47317654716640": {
+            "crew_history": [
+                "低スペックチーム"
+            ],
             "crew_id": 7340099119872,
             "crew_name": "低スペックチーム",
+            "equipping_title": "1_7_1_3",
             "gender": 1,
-            "last_seen": "Sep 06, 2025, 07:08:40 PM",
+            "hp": 2873594.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55071.37890625,
+                "y": -87660.4296875,
+                "z": 21710.958984375
+            },
+            "last_seen": "Mar 11, 2026, 8:27:55 PM",
+            "level": 100,
             "name": "パスツール",
+            "name_history": [
+                "パスツール"
+            ],
             "registered": "Aug 11, 2022, 1:39:43 PM",
             "role_id": 47317654716640,
             "server_region": "asia-pacific"
@@ -38661,7 +38708,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2650,
-    "last_updated": "Mar 11, 2026, 8:26:55 PM",
+    "accounts_total": 2651,
+    "last_updated": "Mar 11, 2026, 8:27:55 PM",
     "server_region": "asia-pacific"
 }
