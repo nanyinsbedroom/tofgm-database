@@ -21145,12 +21145,21 @@
             "server_region": "southeast-asia"
         },
         "68775311750914": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1476555.0,
-            "last_seen": "Nov 05, 2025, 11:04:42 PM",
+            "hp": 2483678.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324634.75,
+                "y": 204286.328125,
+                "z": -28320.349609375
+            },
+            "last_seen": "Mar 11, 2026, 4:08:34 PM",
             "level": 100,
             "name": "Secchanº",
             "name_history": [
@@ -32888,6 +32897,6 @@
         }
     },
     "accounts_total": 2124,
-    "last_updated": "Mar 11, 2026, 4:07:34 PM",
+    "last_updated": "Mar 11, 2026, 4:08:34 PM",
     "server_region": "southeast-asia"
 }
