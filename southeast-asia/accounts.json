@@ -13840,12 +13840,19 @@
             "server_region": "southeast-asia"
         },
         "68775311356624": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1590587.125,
-            "last_seen": "Nov 08, 2025, 07:04:21 PM",
+            "hp": 2453212.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324751.28125,
+                "y": 204291.234375,
+                "z": -28347.779296875
+            },
+            "last_seen": "Mar 11, 2026, 8:22:55 PM",
             "level": 100,
             "name": "xAix",
             "name_history": [
@@ -33052,6 +33059,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:20:55 PM",
+    "last_updated": "Mar 11, 2026, 8:22:55 PM",
     "server_region": "southeast-asia"
 }
