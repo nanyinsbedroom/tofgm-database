@@ -9172,14 +9172,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 0.0,
+            "hp": 3522537.0,
             "last_known_position": {
-                "map": "Team8P_15_D_II",
-                "x": -61939.70703125,
-                "y": -109231.765625,
-                "z": -11782.8896484375
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28330.458984375
             },
-            "last_seen": "Mar 2, 2026, 7:34:55 PM",
+            "last_seen": "Mar 11, 2026, 8:15:55 PM",
             "level": 100,
             "name": "Lyzana",
             "name_history": [
@@ -28191,12 +28191,21 @@
             "server_region": "southeast-asia"
         },
         "68783901296935": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 50155.0,
-            "last_seen": "Feb 04, 2026, 05:17:36 AM",
+            "hp": 2240255.5,
+            "last_known_position": {
+                "map": "OriginWar_D",
+                "x": -1186.030029296875,
+                "y": -428.75,
+                "z": -26.889999389648438
+            },
+            "last_seen": "Mar 11, 2026, 8:15:55 PM",
             "level": 100,
             "name": "Acrux+",
             "name_history": [
@@ -29442,11 +29451,26 @@
             "server_region": "southeast-asia"
         },
         "68792491195429": {
+            "crew_history": [
+                "Sakura✿Clan"
+            ],
             "crew_id": 313532628620,
             "crew_name": "Sakura✿Clan",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": "Sep 15, 2025, 07:58:33 PM",
+            "hp": 2179005.0,
+            "last_known_position": {
+                "map": "OriginWar_D",
+                "x": 1600.0,
+                "y": -300.0,
+                "z": -35.38999938964844
+            },
+            "last_seen": "Mar 11, 2026, 8:15:55 PM",
+            "level": 100,
             "name": "N4M1",
+            "name_history": [
+                "N4M1"
+            ],
             "registered": "Aug 11, 2022, 11:52:13 AM",
             "role_id": 68792491195429,
             "server_region": "southeast-asia"
@@ -30273,14 +30297,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "1_7_1_3",
             "gender": 0,
-            "hp": 3418852.25,
+            "hp": 2405323.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324253.6875,
-                "y": 204387.859375,
-                "z": -28343.05859375
+                "map": "OriginWar_D",
+                "x": 1600.0,
+                "y": -100.0,
+                "z": -21.889999389648438
             },
-            "last_seen": "Mar 11, 2026, 7:44:34 PM",
+            "last_seen": "Mar 11, 2026, 8:15:55 PM",
             "level": 100,
             "name": "Viddie A.",
             "name_history": [
@@ -33019,6 +33043,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:14:55 PM",
+    "last_updated": "Mar 11, 2026, 8:15:55 PM",
     "server_region": "southeast-asia"
 }
