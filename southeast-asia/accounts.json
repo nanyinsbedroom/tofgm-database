@@ -27620,12 +27620,21 @@
             "server_region": "southeast-asia"
         },
         "68783901327064": {
+            "crew_history": [
+                "Aspen"
+            ],
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2683068.25,
-            "last_seen": "Nov 07, 2025, 07:20:05 PM",
+            "hp": 3892712.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324661.625,
+                "y": 203843.46875,
+                "z": -28349.279296875
+            },
+            "last_seen": "Mar 11, 2026, 12:10:37 PM",
             "level": 100,
             "name": "RICH Penguin",
             "name_history": [
@@ -32183,6 +32192,6 @@
         }
     },
     "accounts_total": 2106,
-    "last_updated": "Mar 11, 2026, 12:09:37 PM",
+    "last_updated": "Mar 11, 2026, 12:10:37 PM",
     "server_region": "southeast-asia"
 }
