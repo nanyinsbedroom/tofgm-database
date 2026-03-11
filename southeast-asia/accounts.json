@@ -31925,14 +31925,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "2_2_0_21",
             "gender": 1,
-            "hp": 3978949.5,
+            "hp": 3954498.25,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324470.53125,
-                "y": 204286.390625,
-                "z": -28327.30859375
+                "x": -325604.03125,
+                "y": 204863.234375,
+                "z": -28341.728515625
             },
-            "last_seen": "Mar 10, 2026, 10:26:26 PM",
+            "last_seen": "Mar 11, 2026, 9:36:25 PM",
             "level": 100,
             "name": "Arckeis",
             "name_history": [
@@ -32147,12 +32147,21 @@
             "server_region": "southeast-asia"
         },
         "68805376135612": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2481148.75,
-            "last_seen": "Nov 05, 2025, 04:02:18 PM",
+            "hp": 3829616.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325301.40625,
+                "y": 204534.171875,
+                "z": -28318.33984375
+            },
+            "last_seen": "Mar 11, 2026, 9:36:25 PM",
             "level": 100,
             "name": "Snotra",
             "name_history": [
@@ -33159,6 +33168,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:33:25 PM",
+    "last_updated": "Mar 11, 2026, 9:36:25 PM",
     "server_region": "southeast-asia"
 }
