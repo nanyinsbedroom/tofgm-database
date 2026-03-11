@@ -6708,14 +6708,24 @@
             "server_region": "asia-pacific"
         },
         "47279000113042": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 459161.25,
-            "last_seen": "Nov 01, 2025, 04:05:37 PM",
+            "hp": 1446356.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54102.46875,
+                "y": -87607.6171875,
+                "z": 21736.7890625
+            },
+            "last_seen": "Mar 11, 2026, 8:28:55 PM",
             "level": 100,
             "name": "rasuta#c$",
+            "name_history": [
+                "rasuta#c$"
+            ],
             "registered": "Sep 12, 2022, 12:10:34 AM",
             "role_id": 47279000113042,
             "server_region": "asia-pacific"
@@ -34341,12 +34351,21 @@
             "server_region": "asia-pacific"
         },
         "47373489324742": {
+            "crew_history": [
+                "団欒の笑う門"
+            ],
             "crew_id": 2491081042710,
             "crew_name": "団欒の笑う門",
-            "equipping_title": "2_2_0_21",
+            "equipping_title": "2_2_0_46",
             "gender": 1,
-            "hp": 2744186.0,
-            "last_seen": "Nov 09, 2025, 06:03:20 PM",
+            "hp": 3041618.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54555.7578125,
+                "y": -88126.6796875,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 11, 2026, 8:28:55 PM",
             "level": 100,
             "name": "めるてぃー",
             "name_history": [
@@ -38709,6 +38728,6 @@
         }
     },
     "accounts_total": 2651,
-    "last_updated": "Mar 11, 2026, 8:27:55 PM",
+    "last_updated": "Mar 11, 2026, 8:28:55 PM",
     "server_region": "asia-pacific"
 }
