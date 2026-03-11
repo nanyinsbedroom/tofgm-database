@@ -7573,11 +7573,11 @@
             "hp": 1403066.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55015.30859375,
-                "y": -87117.4375,
-                "z": 21710.9296875
+                "x": -54583.59765625,
+                "y": -87232.078125,
+                "z": 21724.830078125
             },
-            "last_seen": "2026年3月1日 下午6:28:40",
+            "last_seen": "2026年3月11日 下午2:27:14",
             "level": 100,
             "name": "电雌刃好小",
             "name_history": [
@@ -13606,12 +13606,21 @@
             "server_region": "future-humanity"
         },
         "60563335702298": {
+            "crew_history": [
+                "逢君"
+            ],
             "crew_id": 14212046796565,
             "crew_name": "逢君",
             "equipping_title": "3_2025",
             "gender": 0,
-            "hp": 1535970.375,
-            "last_seen": "2026年2月6日 上午12:50:39",
+            "hp": 1308055.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52909.0,
+                "y": -88591.3984375,
+                "z": 21723.962890625
+            },
+            "last_seen": "2026年3月11日 下午2:27:14",
             "level": 100,
             "name": "黑笑",
             "name_history": [
@@ -27841,6 +27850,6 @@
         }
     },
     "accounts_total": 1253,
-    "last_updated": "2026年3月11日 下午2:26:14",
+    "last_updated": "2026年3月11日 下午2:27:14",
     "server_region": "future-humanity"
 }
