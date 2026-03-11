@@ -5933,12 +5933,21 @@
             "server_region": "ps-europe"
         },
         "8598537411656734": {
+            "crew_history": [
+                "Dystopia"
+            ],
             "crew_id": 2469608197201,
             "crew_name": "Dystopia",
-            "equipping_title": "Yomi 的导师,0",
+            "equipping_title": "Tya Lionheart 的导师,0",
             "gender": 0,
-            "hp": 2607091.5,
-            "last_seen": "Nov 20, 2025, 04:35:54 AM",
+            "hp": 3777378.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -319129.90625,
+                "y": 210410.953125,
+                "z": -28074.0
+            },
+            "last_seen": "Mar 12, 2026, 12:22:47 AM",
             "level": 100,
             "name": "マリMakinami ",
             "name_history": [
@@ -6617,6 +6626,6 @@
         }
     },
     "accounts_total": 404,
-    "last_updated": "Mar 12, 2026, 12:13:47 AM",
+    "last_updated": "Mar 12, 2026, 12:22:47 AM",
     "server_region": "ps-europe"
 }
