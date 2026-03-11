@@ -27759,12 +27759,21 @@
             "server_region": "southeast-asia"
         },
         "68783901269565": {
+            "crew_history": [
+                "UQHolderTH"
+            ],
             "crew_id": 1129576414858,
             "crew_name": "UQHolderTH",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2366484.5,
-            "last_seen": "Nov 08, 2025, 07:12:22 PM",
+            "hp": 3608886.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325943.4375,
+                "y": 204039.140625,
+                "z": -28333.228515625
+            },
+            "last_seen": "Mar 11, 2026, 2:49:36 PM",
             "level": 100,
             "name": "Mobillius",
             "name_history": [
@@ -32721,6 +32730,6 @@
         }
     },
     "accounts_total": 2122,
-    "last_updated": "Mar 11, 2026, 2:48:36 PM",
+    "last_updated": "Mar 11, 2026, 2:49:36 PM",
     "server_region": "southeast-asia"
 }
