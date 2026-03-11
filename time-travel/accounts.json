@@ -21078,13 +21078,20 @@
             "server_region": "time-travel"
         },
         "63578401998946": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_48",
             "gender": 1,
-            "hp": 95625.796875,
-            "last_seen": "2026年02月01日 上午 12:47:31",
-            "level": 33,
+            "hp": 177706.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54420.328125,
+                "y": -87928.4609375,
+                "z": 21730.548828125
+            },
+            "last_seen": "2026年3月11日 下午6:40:39",
+            "level": 59,
             "name": "只负责躺赢",
             "name_history": [
                 "只负责躺赢"
@@ -25471,6 +25478,6 @@
         }
     },
     "accounts_total": 1243,
-    "last_updated": "2026年3月11日 下午6:30:38",
+    "last_updated": "2026年3月11日 下午6:40:39",
     "server_region": "time-travel"
 }
