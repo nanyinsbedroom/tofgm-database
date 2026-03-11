@@ -11403,12 +11403,21 @@
             "server_region": "southeast-asia"
         },
         "68762426597068": {
+            "crew_history": [
+                "Oncilla"
+            ],
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
             "equipping_title": "2_3_0_1",
             "gender": 1,
-            "hp": 1719686.0,
-            "last_seen": "Nov 07, 2025, 06:32:59 PM",
+            "hp": 1684270.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71023.328125,
+                "y": -29130.25,
+                "z": 11411.2197265625
+            },
+            "last_seen": "Mar 11, 2026, 12:16:58 PM",
             "level": 100,
             "name": "ปลาร้าน้อย",
             "name_history": [
@@ -32310,6 +32319,6 @@
         }
     },
     "accounts_total": 2109,
-    "last_updated": "Mar 11, 2026, 12:15:58 PM",
+    "last_updated": "Mar 11, 2026, 12:16:58 PM",
     "server_region": "southeast-asia"
 }
