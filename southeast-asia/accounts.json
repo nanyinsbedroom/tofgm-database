@@ -8112,12 +8112,21 @@
             "server_region": "southeast-asia"
         },
         "68749541597986": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 2500597.0,
-            "last_seen": "Feb 8, 2026, 7:40:02 PM",
+            "hp": 3495477.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28340.458984375
+            },
+            "last_seen": "Mar 11, 2026, 3:51:33 PM",
             "level": 100,
             "name": "Kanade音",
             "name_history": [
@@ -32858,6 +32867,6 @@
         }
     },
     "accounts_total": 2124,
-    "last_updated": "Mar 11, 2026, 3:49:33 PM",
+    "last_updated": "Mar 11, 2026, 3:51:33 PM",
     "server_region": "southeast-asia"
 }
