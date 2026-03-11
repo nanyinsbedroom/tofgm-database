@@ -1850,12 +1850,21 @@
             "server_region": "north-america"
         },
         "51561082401912": {
-            "crew_id": 2070174248677,
-            "crew_name": "Fate",
+            "crew_history": [
+                "♥︎ Coalition ♡"
+            ],
+            "crew_id": 2637109931749,
+            "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "2_2_0_28",
             "gender": 0,
-            "hp": 2542807.75,
-            "last_seen": "Nov 02, 2025, 05:09:34 AM",
+            "hp": 3653020.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325661.9375,
+                "y": 201695.578125,
+                "z": -28345.798828125
+            },
+            "last_seen": "Mar 11, 2026, 6:52:45 PM",
             "level": 100,
             "name": "leveler",
             "name_history": [
@@ -4118,6 +4127,31 @@
             "role_id": 51582557227119,
             "server_region": "north-america"
         },
+        "51582557228426": {
+            "crew_history": [
+                "Revolution"
+            ],
+            "crew_id": 794568961770,
+            "crew_name": "Revolution",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 3686607.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325692.34375,
+                "y": 201420.203125,
+                "z": -28331.75
+            },
+            "last_seen": "Mar 11, 2026, 6:52:45 PM",
+            "level": 100,
+            "name": " Sheila",
+            "name_history": [
+                " Sheila"
+            ],
+            "registered": "Aug 10, 2022, 7:46:27 PM",
+            "role_id": 51582557228426,
+            "server_region": "north-america"
+        },
         "51582557232141": {
             "crew_history": [
                 "Echo Vision"
@@ -4698,6 +4732,31 @@
             ],
             "registered": "Aug 10, 2022, 7:43:20 PM",
             "role_id": 51591147162418,
+            "server_region": "north-america"
+        },
+        "51591147162834": {
+            "crew_history": [
+                "Void Knights"
+            ],
+            "crew_id": 6034429062889,
+            "crew_name": "Void Knights",
+            "equipping_title": "Title_iwshare_os_8",
+            "gender": 1,
+            "hp": 6481931.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324927.625,
+                "y": 202102.3125,
+                "z": -28339.841796875
+            },
+            "last_seen": "Mar 11, 2026, 6:52:45 PM",
+            "level": 100,
+            "name": "xlMORRIGANlx",
+            "name_history": [
+                "xlMORRIGANlx"
+            ],
+            "registered": "Aug 10, 2022, 7:45:05 PM",
+            "role_id": 51591147162834,
             "server_region": "north-america"
         },
         "51591147164290": {
@@ -8538,14 +8597,14 @@
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 2588100.0,
+            "hp": 7182556.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55769.9296875,
-                "y": -88717.546875,
-                "z": 21730.8203125
+                "map": "JIUYU_P",
+                "x": -325231.40625,
+                "y": 202243.890625,
+                "z": -28320.0703125
             },
-            "last_seen": "Mar 10, 2026, 12:19:14 PM",
+            "last_seen": "Mar 11, 2026, 6:52:45 PM",
             "level": 100,
             "name": "Kujakux",
             "name_history": [
@@ -15671,7 +15730,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 978,
-    "last_updated": "Mar 10, 2026, 6:34:01 PM",
+    "accounts_total": 980,
+    "last_updated": "Mar 11, 2026, 6:52:45 PM",
     "server_region": "north-america"
 }
