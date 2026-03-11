@@ -12553,16 +12553,16 @@
             ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
-            "equipping_title": "2_2_0_37",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "hp": 2579388.25,
+            "hp": 3596768.0,
             "last_known_position": {
-                "map": "FinalTest_D",
-                "x": 173.26998901367188,
-                "y": -107.75999450683594,
-                "z": 957.1300048828125
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28329.458984375
             },
-            "last_seen": "Mar 7, 2026, 9:28:49 PM",
+            "last_seen": "Mar 11, 2026, 3:45:52 PM",
             "level": 100,
             "name": "BadLucky#d",
             "name_history": [
@@ -16134,14 +16134,26 @@
             "server_region": "southeast-asia"
         },
         "68775311664792": {
-            "crew_id": 365072236176,
-            "crew_name": "Fairy Tail",
+            "crew_history": [
+                "Solo Play PH"
+            ],
+            "crew_id": 201863478913,
+            "crew_name": "Solo Play PH",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 1669208.375,
-            "last_seen": "Oct 28, 2025, 09:43:48 PM",
+            "hp": 2774000.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325318.25,
+                "y": 204425.390625,
+                "z": -28328.99609375
+            },
+            "last_seen": "Mar 11, 2026, 3:45:52 PM",
             "level": 100,
             "name": "ÒrÇhïÐ",
+            "name_history": [
+                "ÒrÇhïÐ"
+            ],
             "registered": "May 2, 2024, 6:24:29 PM",
             "role_id": 68775311664792,
             "server_region": "southeast-asia"
@@ -32846,6 +32858,6 @@
         }
     },
     "accounts_total": 2124,
-    "last_updated": "Mar 11, 2026, 3:44:52 PM",
+    "last_updated": "Mar 11, 2026, 3:45:52 PM",
     "server_region": "southeast-asia"
 }
