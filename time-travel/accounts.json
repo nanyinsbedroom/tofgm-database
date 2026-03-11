@@ -5641,14 +5641,14 @@
             "crew_name": "清雨鸣泠",
             "equipping_title": "4_2023",
             "gender": 0,
-            "hp": 1027200.125,
+            "hp": 1108109.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21725.048828125
+                "x": -55791.52734375,
+                "y": -88564.7578125,
+                "z": 21725.080078125
             },
-            "last_seen": "2026年3月6日 下午8:06:16",
+            "last_seen": "2026年3月11日 下午6:10:37",
             "level": 85,
             "name": "忆悲凉",
             "name_history": [
@@ -8105,13 +8105,22 @@
             "server_region": "time-travel"
         },
         "63574106258114": {
+            "crew_history": [
+                "樱花荘"
+            ],
             "crew_id": 98784262610,
             "crew_name": "樱花荘",
-            "equipping_title": "2_8_0_9",
+            "equipping_title": "4_2024",
             "gender": 1,
-            "hp": 1172481.0,
-            "last_seen": "2026年01月28日 上午 7:03:02",
-            "level": 80,
+            "hp": 1434650.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
+            },
+            "last_seen": "2026年3月11日 下午6:10:37",
+            "level": 85,
             "name": "悠悠然然",
             "name_history": [
                 "悠悠然然"
@@ -25361,6 +25370,6 @@
         }
     },
     "accounts_total": 1239,
-    "last_updated": "2026年3月11日 下午6:09:37",
+    "last_updated": "2026年3月11日 下午6:10:37",
     "server_region": "time-travel"
 }
