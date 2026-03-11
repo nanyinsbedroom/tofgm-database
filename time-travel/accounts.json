@@ -3455,15 +3455,15 @@
             "crew_name": "樱花荘",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1472595.25,
+            "hp": 1649875.5,
             "last_known_position": {
-                "map": "city",
-                "x": 982.25,
-                "y": -28385.19921875,
-                "z": 97866.1171875
+                "map": "QRSL_P",
+                "x": -54163.13671875,
+                "y": -88023.765625,
+                "z": 21725.328125
             },
-            "last_seen": "2026年2月24日 下午4:02:03",
-            "level": 84,
+            "last_seen": "2026年3月11日 下午6:14:37",
+            "level": 85,
             "name": "云樱uya",
             "name_history": [
                 "云樱uya"
@@ -20209,6 +20209,31 @@
             "role_id": 63578401992544,
             "server_region": "time-travel"
         },
+        "63578401993005": {
+            "crew_history": [
+                "雪绒白巧"
+            ],
+            "crew_id": 416611842514,
+            "crew_name": "雪绒白巧",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1044941.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54115.078125,
+                "y": -87852.71875,
+                "z": 21849.162109375
+            },
+            "last_seen": "2026年3月11日 下午6:14:37",
+            "level": 85,
+            "name": "小柚柚",
+            "name_history": [
+                "小柚柚"
+            ],
+            "registered": "2025年12月31日 下午10:38:20",
+            "role_id": 63578401993005,
+            "server_region": "time-travel"
+        },
         "63578401993263": {
             "crew_history": [],
             "crew_id": 0,
@@ -25419,7 +25444,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1241,
-    "last_updated": "2026年3月11日 下午6:13:37",
+    "accounts_total": 1242,
+    "last_updated": "2026年3月11日 下午6:14:37",
     "server_region": "time-travel"
 }
