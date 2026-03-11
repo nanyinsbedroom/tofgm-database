@@ -29904,6 +29904,31 @@
             "role_id": 47343427955735,
             "server_region": "asia-pacific"
         },
+        "47343427960168": {
+            "crew_history": [
+                "アイダの惑星"
+            ],
+            "crew_id": 4294978315,
+            "crew_name": "アイダの惑星",
+            "equipping_title": "2_2_0_74",
+            "gender": 1,
+            "hp": 1111666.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55154.37890625,
+                "y": -86860.5546875,
+                "z": 21710.990234375
+            },
+            "last_seen": "Mar 11, 2026, 4:16:38 PM",
+            "level": 93,
+            "name": "早瀬ユウカ",
+            "name_history": [
+                "早瀬ユウカ"
+            ],
+            "registered": "Dec 13, 2025, 7:05:38 PM",
+            "role_id": 47343427960168,
+            "server_region": "asia-pacific"
+        },
         "47343427960643": {
             "crew_id": 8589945594,
             "crew_name": "迦勒底",
@@ -34751,11 +34776,26 @@
             "server_region": "asia-pacific"
         },
         "47382079358875": {
+            "crew_history": [
+                "COLORS"
+            ],
             "crew_id": 3324304698115,
             "crew_name": "COLORS",
+            "equipping_title": "None",
             "gender": 1,
-            "last_seen": "Sep 15, 2025, 04:45:39 PM",
+            "hp": 2103670.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53893.48828125,
+                "y": -87888.8984375,
+                "z": 21710.87890625
+            },
+            "last_seen": "Mar 11, 2026, 4:16:38 PM",
+            "level": 100,
             "name": "K.a.z",
+            "name_history": [
+                "K.a.z"
+            ],
             "registered": "Sep 30, 2022, 7:32:28 PM",
             "role_id": 47382079358875,
             "server_region": "asia-pacific"
@@ -37827,7 +37867,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2622,
-    "last_updated": "Mar 11, 2026, 4:15:38 PM",
+    "accounts_total": 2623,
+    "last_updated": "Mar 11, 2026, 4:16:38 PM",
     "server_region": "asia-pacific"
 }
