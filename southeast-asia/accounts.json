@@ -9073,12 +9073,21 @@
             "server_region": "southeast-asia"
         },
         "68758131465287": {
-            "crew_id": 115964133001,
-            "crew_name": "ARCHIVE",
+            "crew_history": [
+                "FridayKnight"
+            ],
+            "crew_id": 562640731778,
+            "crew_name": "FridayKnight",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 2272217.0,
-            "last_seen": "Dec 27, 2025, 11:20:50 PM",
+            "hp": 3386704.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324966.03125,
+                "y": 204251.46875,
+                "z": -28354.279296875
+            },
+            "last_seen": "Mar 11, 2026, 8:20:55 PM",
             "level": 100,
             "name": "Zenxlay",
             "name_history": [
@@ -31274,14 +31283,14 @@
             "crew_name": "Court Of Cats",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 2734746.5,
+            "hp": 2734745.75,
             "last_known_position": {
                 "map": "JIUYU_P",
                 "x": -325579.40625,
                 "y": 204926.75,
                 "z": -28306.71875
             },
-            "last_seen": "Mar 11, 2026, 7:44:34 PM",
+            "last_seen": "Mar 11, 2026, 8:20:55 PM",
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -33043,6 +33052,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:15:55 PM",
+    "last_updated": "Mar 11, 2026, 8:20:55 PM",
     "server_region": "southeast-asia"
 }
