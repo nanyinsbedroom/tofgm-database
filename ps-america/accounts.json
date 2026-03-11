@@ -291,6 +291,31 @@
             "role_id": 8594233854274267,
             "server_region": "ps-america"
         },
+        "8594233854275205": {
+            "crew_history": [
+                "Rédux"
+            ],
+            "crew_id": 4296968304,
+            "crew_name": "Rédux",
+            "equipping_title": "1_6_0_1",
+            "gender": 0,
+            "hp": 2368502.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -327120.75,
+                "y": 199772.59375,
+                "z": -27433.099609375
+            },
+            "last_seen": "Mar 11, 2026, 6:37:58 PM",
+            "level": 100,
+            "name": "Syr",
+            "name_history": [
+                "Syr"
+            ],
+            "registered": "Aug 9, 2023, 2:30:43 AM",
+            "role_id": 8594233854275205,
+            "server_region": "ps-america"
+        },
         "8594233854283131": {
             "crew_id": 901945133161,
             "crew_name": "Redux",
@@ -4902,12 +4927,21 @@
             "server_region": "ps-america"
         },
         "8594246739175609": {
+            "crew_history": [
+                "Legion"
+            ],
             "crew_id": 4296968299,
             "crew_name": "Legion",
             "equipping_title": "1_6_0_1",
             "gender": 0,
-            "hp": 1594016.625,
-            "last_seen": "Nov 21, 2025, 01:03:51 AM",
+            "hp": 2800169.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325926.15625,
+                "y": 203532.453125,
+                "z": -28345.25
+            },
+            "last_seen": "Mar 11, 2026, 6:37:58 PM",
             "level": 100,
             "name": "Naoshi Nao",
             "name_history": [
@@ -7249,7 +7283,7 @@
             "server_region": "ps-america"
         }
     },
-    "accounts_total": 433,
-    "last_updated": "Mar 11, 2026, 6:36:58 PM",
+    "accounts_total": 434,
+    "last_updated": "Mar 11, 2026, 6:37:58 PM",
     "server_region": "ps-america"
 }
