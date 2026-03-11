@@ -3113,12 +3113,21 @@
             "server_region": "north-america"
         },
         "51573967300880": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
             "equipping_title": "2_10_0_3",
             "gender": 0,
-            "hp": 2309826.25,
-            "last_seen": "Nov 07, 2025, 11:03:03 AM",
+            "hp": 3813356.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325200.9375,
+                "y": 204290.171875,
+                "z": -28327.30859375
+            },
+            "last_seen": "Mar 11, 2026, 6:56:45 PM",
             "level": 100,
             "name": "WhoIsFa",
             "name_history": [
@@ -4463,6 +4472,31 @@
             "role_id": 51582557295493,
             "server_region": "north-america"
         },
+        "51582557296916": {
+            "crew_history": [
+                "Maid Cafe"
+            ],
+            "crew_id": 700079681261,
+            "crew_name": "Maid Cafe",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 3888874.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325860.09375,
+                "y": 204844.953125,
+                "z": -28334.740234375
+            },
+            "last_seen": "Mar 11, 2026, 6:56:45 PM",
+            "level": 100,
+            "name": "Vinwind",
+            "name_history": [
+                "Vinwind"
+            ],
+            "registered": "Aug 14, 2022, 5:16:32 PM",
+            "role_id": 51582557296916,
+            "server_region": "north-america"
+        },
         "51582557297633": {
             "crew_id": 12884913898,
             "crew_name": "Requiem",
@@ -5118,6 +5152,31 @@
             "name": "jams​",
             "registered": "Aug 18, 2022, 1:51:02 AM",
             "role_id": 51591147233762,
+            "server_region": "north-america"
+        },
+        "51591147253489": {
+            "crew_history": [
+                "Love"
+            ],
+            "crew_id": 867583405806,
+            "crew_name": "Love",
+            "equipping_title": "1_7_1_3",
+            "gender": 1,
+            "hp": 2934693.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325404.8125,
+                "y": 204919.78125,
+                "z": -28334.240234375
+            },
+            "last_seen": "Mar 11, 2026, 6:56:45 PM",
+            "level": 100,
+            "name": "KathrynJaneway",
+            "name_history": [
+                "KathrynJaneway"
+            ],
+            "registered": "Aug 24, 2022, 4:05:04 AM",
+            "role_id": 51591147253489,
             "server_region": "north-america"
         },
         "51591147308463": {
@@ -15912,7 +15971,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 987,
-    "last_updated": "Mar 11, 2026, 6:55:45 PM",
+    "accounts_total": 989,
+    "last_updated": "Mar 11, 2026, 6:56:45 PM",
     "server_region": "north-america"
 }
