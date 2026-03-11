@@ -981,12 +981,21 @@
             "server_region": "korea"
         },
         "42945816079372656": {
+            "crew_history": [
+                "환탑라이브"
+            ],
             "crew_id": 747334308606,
             "crew_name": "환탑라이브",
-            "equipping_title": "1_8_0_33",
+            "equipping_title": "1_8_0_36",
             "gender": 0,
-            "hp": 2597486.5,
-            "last_seen": "Nov 19, 2025, 10:08:16 PM",
+            "hp": 2890192.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54278.73046875,
+                "y": -88079.078125,
+                "z": 21710.939453125
+            },
+            "last_seen": "Mar 11, 2026, 8:15:59 PM",
             "level": 100,
             "name": "라이네​",
             "name_history": [
@@ -2965,12 +2974,21 @@
             "server_region": "korea"
         },
         "42945833259376867": {
+            "crew_history": [
+                "달의 제국"
+            ],
             "crew_id": 12894900994,
             "crew_name": "달의 제국",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 0,
-            "hp": 1967479.375,
-            "last_seen": "Nov 20, 2025, 05:32:49 PM",
+            "hp": 1834288.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55118.4296875,
+                "y": -87060.671875,
+                "z": 21717.48046875
+            },
+            "last_seen": "Mar 11, 2026, 8:15:59 PM",
             "level": 100,
             "name": "세리뮤",
             "name_history": [
@@ -3052,6 +3070,6 @@
         }
     },
     "accounts_total": 187,
-    "last_updated": "Mar 11, 2026, 8:14:59 PM",
+    "last_updated": "Mar 11, 2026, 8:15:59 PM",
     "server_region": "korea"
 }
