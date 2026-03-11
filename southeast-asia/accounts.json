@@ -3361,12 +3361,21 @@
             "server_region": "southeast-asia"
         },
         "68732361737525": {
+            "crew_history": [
+                "VN-Archon"
+            ],
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2559178.0,
-            "last_seen": "Jan 27, 2026, 12:30:04 AM",
+            "hp": 3666579.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323798.21875,
+                "y": 200939.453125,
+                "z": -28356.5703125
+            },
+            "last_seen": "Mar 11, 2026, 2:42:36 PM",
             "level": 100,
             "name": "Mít_Na",
             "name_history": [
@@ -32702,6 +32711,6 @@
         }
     },
     "accounts_total": 2122,
-    "last_updated": "Mar 11, 2026, 2:38:36 PM",
+    "last_updated": "Mar 11, 2026, 2:42:36 PM",
     "server_region": "southeast-asia"
 }
