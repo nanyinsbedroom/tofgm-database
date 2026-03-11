@@ -6637,12 +6637,21 @@
             "server_region": "asia-pacific"
         },
         "47279000099417": {
+            "crew_history": [
+                "ミスティルテイン"
+            ],
             "crew_id": 962072685316,
             "crew_name": "ミスティルテイン",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_77",
             "gender": 1,
-            "hp": 2475462.75,
-            "last_seen": "Nov 09, 2025, 06:16:22 PM",
+            "hp": 2617479.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91122.15625,
+                "y": 76689.5,
+                "z": -7089.669921875
+            },
+            "last_seen": "Mar 11, 2026, 8:31:55 PM",
             "level": 100,
             "name": "みぴまる",
             "name_history": [
@@ -31976,6 +31985,29 @@
             "role_id": 47343427999861,
             "server_region": "asia-pacific"
         },
+        "47343428000083": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1008.31298828125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93389.4609375,
+                "y": 83770.890625,
+                "z": -7033.23974609375
+            },
+            "last_seen": "Mar 11, 2026, 8:31:55 PM",
+            "level": 3,
+            "name": "mxa",
+            "name_history": [
+                "mxa"
+            ],
+            "registered": "Mar 11, 2026, 8:05:45 PM",
+            "role_id": 47343428000083,
+            "server_region": "asia-pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -34026,14 +34058,14 @@
             "crew_name": "残響楽団",
             "equipping_title": "Tencent_Sever_29",
             "gender": 1,
-            "hp": 6340851.5,
+            "hp": 3216997.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 91883.1015625,
-                "y": -203373.4375,
-                "z": -3607.12939453125
+                "map": "QRSL_P",
+                "x": -90832.1171875,
+                "y": 75966.40625,
+                "z": -7117.7998046875
             },
-            "last_seen": "Feb 16, 2026, 9:45:35 PM",
+            "last_seen": "Mar 11, 2026, 8:31:55 PM",
             "level": 100,
             "name": "♠SIRI♠",
             "name_history": [
@@ -38745,7 +38777,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2651,
-    "last_updated": "Mar 11, 2026, 8:29:55 PM",
+    "accounts_total": 2652,
+    "last_updated": "Mar 11, 2026, 8:31:55 PM",
     "server_region": "asia-pacific"
 }
