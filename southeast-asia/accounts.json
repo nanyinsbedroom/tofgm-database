@@ -4892,11 +4892,26 @@
             "server_region": "southeast-asia"
         },
         "68736656766034": {
+            "crew_history": [
+                "SOVEREIGN"
+            ],
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
+            "equipping_title": "1_8_0_37",
             "gender": 0,
-            "last_seen": "Sep 13, 2025, 07:26:43 PM",
+            "hp": 2079417.125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -33074.9375,
+                "y": 40315.80859375,
+                "z": 13997.029296875
+            },
+            "last_seen": "Mar 11, 2026, 12:17:58 PM",
+            "level": 100,
             "name": "Pahlawan Robot",
+            "name_history": [
+                "Pahlawan Robot"
+            ],
             "registered": "Oct 12, 2022, 11:18:49 AM",
             "role_id": 68736656766034,
             "server_region": "southeast-asia"
@@ -25711,17 +25726,17 @@
             "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "None",
+            "equipping_title": "1_7_1_1",
             "gender": 0,
-            "hp": 168273.96875,
+            "hp": 470724.3125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -96202.0390625,
-                "y": 74988.1875,
-                "z": -5152.0400390625
+                "map": "Vera_city",
+                "x": -36288.77734375,
+                "y": 42985.859375,
+                "z": 13018.66015625
             },
-            "last_seen": "Feb 22, 2026, 6:03:10 AM",
-            "level": 44,
+            "last_seen": "Mar 11, 2026, 12:17:58 PM",
+            "level": 60,
             "name": "cornsus",
             "name_history": [
                 "cornsus"
@@ -32319,6 +32334,6 @@
         }
     },
     "accounts_total": 2109,
-    "last_updated": "Mar 11, 2026, 12:16:58 PM",
+    "last_updated": "Mar 11, 2026, 12:17:58 PM",
     "server_region": "southeast-asia"
 }
