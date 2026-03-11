@@ -7883,12 +7883,21 @@
             "server_region": "southeast-asia"
         },
         "68749541558240": {
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
             "equipping_title": "PK Dragos x1的导师,0",
             "gender": 0,
-            "hp": 1926567.25,
-            "last_seen": "Nov 10, 2025, 06:35:21 PM",
+            "hp": 1772313.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28326.458984375
+            },
+            "last_seen": "Mar 11, 2026, 8:41:56 PM",
             "level": 100,
             "name": "Sand's",
             "name_history": [
@@ -33092,6 +33101,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:38:56 PM",
+    "last_updated": "Mar 11, 2026, 8:41:56 PM",
     "server_region": "southeast-asia"
 }
