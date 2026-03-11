@@ -174,12 +174,21 @@
             "server_region": "southeast-asia"
         },
         "68723771709129": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "1_8_0_36",
             "gender": 0,
-            "hp": 2839828.0,
-            "last_seen": "Feb 01, 2026, 02:06:14 AM",
+            "hp": 3799249.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325633.84375,
+                "y": 204863.234375,
+                "z": -28348.240234375
+            },
+            "last_seen": "Mar 11, 2026, 3:34:39 PM",
             "level": 100,
             "name": "Ranie",
             "name_history": [
@@ -31657,14 +31666,26 @@
             "server_region": "southeast-asia"
         },
         "68805376113382": {
+            "crew_history": [
+                "SOVEREIGN"
+            ],
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1940203.5,
-            "last_seen": "Oct 15, 2025, 07:49:47 PM",
+            "hp": 3057009.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324526.0,
+                "y": 202344.203125,
+                "z": -28326.458984375
+            },
+            "last_seen": "Mar 11, 2026, 3:34:39 PM",
             "level": 100,
             "name": "Xolvaquc",
+            "name_history": [
+                "Xolvaquc"
+            ],
             "registered": "Aug 12, 2022, 5:42:10 AM",
             "role_id": 68805376113382,
             "server_region": "southeast-asia"
@@ -32800,6 +32821,6 @@
         }
     },
     "accounts_total": 2123,
-    "last_updated": "Mar 11, 2026, 3:33:38 PM",
+    "last_updated": "Mar 11, 2026, 3:34:39 PM",
     "server_region": "southeast-asia"
 }
