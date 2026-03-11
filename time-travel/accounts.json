@@ -10661,14 +10661,14 @@
             "crew_name": "樱花荘",
             "equipping_title": "涛天巨浪大汤圆的启迪人,1",
             "gender": 1,
-            "hp": 1762001.25,
+            "hp": 1766936.5,
             "last_known_position": {
                 "map": "city",
-                "x": 769.3999633789063,
-                "y": -28117.798828125,
-                "z": 96720.4609375
+                "x": 2199.599853515625,
+                "y": -28413.599609375,
+                "z": 96719.1953125
             },
-            "last_seen": "2026年3月2日 下午6:45:16",
+            "last_seen": "2026年3月11日 下午5:49:27",
             "level": 85,
             "name": "　阿巴阿巴　",
             "name_history": [
@@ -14003,6 +14003,31 @@
             "role_id": 63578401818882,
             "server_region": "time-travel"
         },
+        "63578401819372": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "1_9_0_5",
+            "gender": 1,
+            "hp": 1627670.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1036.22998046875,
+                "y": -28277.330078125,
+                "z": 97881.125
+            },
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 85,
+            "name": "智力型",
+            "name_history": [
+                "智力型"
+            ],
+            "registered": "2025年2月18日 下午12:26:37",
+            "role_id": 63578401819372,
+            "server_region": "time-travel"
+        },
         "63578401822544": {
             "crew_history": [],
             "crew_id": 0,
@@ -14728,6 +14753,54 @@
             ],
             "registered": "2025年6月18日 上午12:46:03",
             "role_id": 63578401897742,
+            "server_region": "time-travel"
+        },
+        "63578401897882": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 30712.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1038.0699462890625,
+                "y": -23876.298828125,
+                "z": 97884.515625
+            },
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 19,
+            "name": "绵野",
+            "name_history": [
+                "绵野"
+            ],
+            "registered": "2025年6月18日 下午12:43:20",
+            "role_id": 63578401897882,
+            "server_region": "time-travel"
+        },
+        "63578401901654": {
+            "crew_history": [
+                "小怪兽"
+            ],
+            "crew_id": 824633735634,
+            "crew_name": "小怪兽",
+            "equipping_title": "2_2_0_32",
+            "gender": 1,
+            "hp": 1636860.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1265.0599365234375,
+                "y": -28328.939453125,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 85,
+            "name": "宋邓芝",
+            "name_history": [
+                "宋邓芝"
+            ],
+            "registered": "2025年6月23日 下午6:26:26",
+            "role_id": 63578401901654,
             "server_region": "time-travel"
         },
         "63578401903634": {
@@ -16924,14 +16997,14 @@
             "crew_name": "小怪兽",
             "equipping_title": "是狐狐！的导师,0",
             "gender": 1,
-            "hp": 1405577.75,
+            "hp": 1371688.5,
             "last_known_position": {
                 "map": "city",
-                "x": 2087.280029296875,
-                "y": -27448.869140625,
-                "z": 97879.6171875
+                "x": 978.3299560546875,
+                "y": -28730.75,
+                "z": 96744.375
             },
-            "last_seen": "2026年3月6日 下午10:07:49",
+            "last_seen": "2026年3月11日 下午5:49:27",
             "level": 85,
             "name": "东方寒月",
             "name_history": [
@@ -17739,6 +17812,31 @@
             "role_id": 63578401972116,
             "server_region": "time-travel"
         },
+        "63578401972384": {
+            "crew_history": [
+                "灵婵月宫"
+            ],
+            "crew_id": 4780298615251,
+            "crew_name": "灵婵月宫",
+            "equipping_title": "暴力型的后继者,1",
+            "gender": 1,
+            "hp": 1023916.9375,
+            "last_known_position": {
+                "map": "city",
+                "x": 277.7799987792969,
+                "y": -28414.87890625,
+                "z": 97882.6171875
+            },
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 82,
+            "name": "银色勇士",
+            "name_history": [
+                "银色勇士"
+            ],
+            "registered": "2024年9月17日 下午1:31:14",
+            "role_id": 63578401972384,
+            "server_region": "time-travel"
+        },
         "63578401972635": {
             "crew_history": [
                 "星奈海"
@@ -18079,13 +18177,22 @@
             "server_region": "time-travel"
         },
         "63578401974360": {
+            "crew_history": [
+                "心焰"
+            ],
             "crew_id": 4552665348563,
             "crew_name": "心焰",
-            "equipping_title": "达摩祖师的导师,0",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 998707.875,
-            "last_seen": "2026年02月01日 上午 12:45:29",
-            "level": 79,
+            "hp": 1231101.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1264.739990234375,
+                "y": -28279.298828125,
+                "z": 97879.6171875
+            },
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 84,
             "name": "南北绿斗",
             "name_history": [
                 "南北绿斗"
@@ -18100,16 +18207,16 @@
             ],
             "crew_id": 150323870162,
             "crew_name": "星奈海",
-            "equipping_title": "2_8_0_3",
+            "equipping_title": "1_2023",
             "gender": 1,
             "hp": 1550275.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -53805.6796875,
-                "y": -87912.6796875,
-                "z": 21710.8203125
+                "map": "city",
+                "x": 1970.199951171875,
+                "y": -26106.490234375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月10日 下午12:29:11",
+            "last_seen": "2026年3月11日 下午5:49:27",
             "level": 85,
             "name": "呜咪呜咪呜",
             "name_history": [
@@ -19103,15 +19210,15 @@
             "crew_name": "EVA",
             "equipping_title": "3_2024",
             "gender": 1,
-            "hp": 1072223.75,
+            "hp": 1188147.375,
             "last_known_position": {
                 "map": "city",
-                "x": 857.6300048828125,
-                "y": -27726.240234375,
-                "z": 96706.9453125
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年2月14日 下午8:34:56",
-            "level": 82,
+            "last_seen": "2026年3月11日 下午5:49:27",
+            "level": 85,
             "name": "灰流丽.",
             "name_history": [
                 "灰流丽."
@@ -25055,7 +25162,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1227,
-    "last_updated": "2026年3月11日 下午5:48:27",
+    "accounts_total": 1231,
+    "last_updated": "2026年3月11日 下午5:49:27",
     "server_region": "time-travel"
 }
