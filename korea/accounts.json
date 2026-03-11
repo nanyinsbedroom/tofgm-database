@@ -1145,12 +1145,21 @@
             "server_region": "korea"
         },
         "42945816079388822": {
+            "crew_history": [
+                "눈보라"
+            ],
             "crew_id": 1314269991678,
             "crew_name": "눈보라",
             "equipping_title": "2_2_0_6",
             "gender": 1,
-            "hp": 2138484.75,
-            "last_seen": "Nov 17, 2025, 05:02:30 PM",
+            "hp": 2262756.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55050.9375,
+                "y": -87114.9375,
+                "z": 21710.96875
+            },
+            "last_seen": "Mar 11, 2026, 8:16:59 PM",
             "level": 100,
             "name": "노무현",
             "name_history": [
@@ -3070,6 +3079,6 @@
         }
     },
     "accounts_total": 187,
-    "last_updated": "Mar 11, 2026, 8:15:59 PM",
+    "last_updated": "Mar 11, 2026, 8:16:59 PM",
     "server_region": "korea"
 }
