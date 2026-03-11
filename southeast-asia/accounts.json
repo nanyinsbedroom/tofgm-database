@@ -8328,14 +8328,14 @@
             "crew_name": "FridayKnight",
             "equipping_title": "1_8_0_37",
             "gender": 1,
-            "hp": 3229245.75,
+            "hp": 3229244.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324587.90625,
-                "y": 203487.375,
-                "z": -28339.138671875
+                "x": -324179.6875,
+                "y": 203407.75,
+                "z": -28347.779296875
             },
-            "last_seen": "Mar 11, 2026, 8:10:54 PM",
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "CHlSA",
             "name_history": [
@@ -8851,11 +8851,11 @@
             "hp": 3495871.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325826.59375,
-                "y": 205104.171875,
-                "z": -28337.0
+                "x": -325835.0,
+                "y": 205095.671875,
+                "z": -28337.62890625
             },
-            "last_seen": "Mar 11, 2026, 8:10:54 PM",
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "Caltsio",
             "name_history": [
@@ -10267,11 +10267,11 @@
             "hp": 3507228.0,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324723.65625,
-                "y": 202554.59375,
-                "z": -28320.66015625
+                "x": -324369.84375,
+                "y": 201969.296875,
+                "z": -28320.458984375
             },
-            "last_seen": "Mar 10, 2026, 9:44:10 PM",
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "GespenstMkI",
             "name_history": [
@@ -13857,11 +13857,11 @@
             "hp": 2453212.0,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324751.28125,
-                "y": 204291.234375,
-                "z": -28347.779296875
+                "x": -324475.53125,
+                "y": 204263.171875,
+                "z": -28327.30859375
             },
-            "last_seen": "Mar 11, 2026, 8:22:55 PM",
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "xAix",
             "name_history": [
@@ -31306,7 +31306,7 @@
                 "y": 204926.75,
                 "z": -28306.71875
             },
-            "last_seen": "Mar 11, 2026, 8:20:55 PM",
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -32885,12 +32885,21 @@
             "server_region": "southeast-asia"
         },
         "68818261079326": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2384010.0,
-            "last_seen": "Nov 08, 2025, 07:20:23 PM",
+            "hp": 3403863.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325883.625,
+                "y": 205051.140625,
+                "z": -28353.7890625
+            },
+            "last_seen": "Mar 11, 2026, 8:27:56 PM",
             "level": 100,
             "name": "Velouria",
             "name_history": [
@@ -33068,6 +33077,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:25:55 PM",
+    "last_updated": "Mar 11, 2026, 8:27:56 PM",
     "server_region": "southeast-asia"
 }
