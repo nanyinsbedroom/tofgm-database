@@ -1574,14 +1574,26 @@
             "server_region": "southeast-asia"
         },
         "68728066682942": {
-            "crew_id": 313532628610,
-            "crew_name": "Rex Incognito",
+            "crew_history": [
+                "Soft Doll"
+            ],
+            "crew_id": 201863478931,
+            "crew_name": "Soft Doll",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2532633.75,
-            "last_seen": "Oct 18, 2025, 10:34:12 PM",
+            "hp": 3003687.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323866.15625,
+                "y": 203156.234375,
+                "z": -28347.779296875
+            },
+            "last_seen": "Mar 11, 2026, 9:51:26 PM",
             "level": 100,
             "name": "SnowBear",
+            "name_history": [
+                "SnowBear"
+            ],
             "registered": "Aug 11, 2022, 1:05:45 PM",
             "role_id": 68728066682942,
             "server_region": "southeast-asia"
@@ -15779,12 +15791,21 @@
             "server_region": "southeast-asia"
         },
         "68775311635808": {
+            "crew_history": [
+                "Soft Doll"
+            ],
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
             "equipping_title": "2_2_0_2",
             "gender": 0,
-            "hp": 2343985.75,
-            "last_seen": "Dec 21, 2025, 11:18:34 PM",
+            "hp": 2467196.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324315.0,
+                "y": 203041.171875,
+                "z": -28322.94921875
+            },
+            "last_seen": "Mar 11, 2026, 9:51:26 PM",
             "level": 100,
             "name": "Eikons",
             "name_history": [
@@ -16378,14 +16399,14 @@
             "crew_name": "La Vie en Rose",
             "equipping_title": "2_10_1_1",
             "gender": 0,
-            "hp": 2591886.0,
+            "hp": 3591886.25,
             "last_known_position": {
-                "map": "Team8P_15_D_II",
-                "x": -60949.94921875,
-                "y": -111670.8828125,
-                "z": -11772.6533203125
+                "map": "JIUYU_P",
+                "x": -324499.1875,
+                "y": 203355.75,
+                "z": -28318.8203125
             },
-            "last_seen": "Mar 6, 2026, 8:43:22 PM",
+            "last_seen": "Mar 11, 2026, 9:51:26 PM",
             "level": 100,
             "name": "Invisica",
             "name_history": [
@@ -27256,12 +27277,21 @@
             "server_region": "southeast-asia"
         },
         "68779606323370": {
+            "crew_history": [
+                "-ENTROPY-"
+            ],
             "crew_id": 1340029812353,
             "crew_name": "-ENTROPY-",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2249218.5,
-            "last_seen": [],
+            "hp": 3169603.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324623.875,
+                "y": 203837.234375,
+                "z": -28347.779296875
+            },
+            "last_seen": "Mar 11, 2026, 9:51:26 PM",
             "level": 100,
             "name": "アリーシャ",
             "name_history": [
@@ -33195,6 +33225,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:50:26 PM",
+    "last_updated": "Mar 11, 2026, 9:51:26 PM",
     "server_region": "southeast-asia"
 }
