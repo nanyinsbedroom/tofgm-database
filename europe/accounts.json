@@ -12873,12 +12873,21 @@
             "server_region": "europe"
         },
         "55963424614131": {
+            "crew_history": [
+                "New Era"
+            ],
             "crew_id": 133143999181,
             "crew_name": "New Era",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 1829401.625,
-            "last_seen": "Nov 01, 2025, 10:05:37 PM",
+            "hp": 2039935.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -63841.5078125,
+                "y": 106133.1171875,
+                "z": -12021.0693359375
+            },
+            "last_seen": "Mar 11, 2026, 11:20:12 PM",
             "level": 100,
             "name": "Zhestbbb$",
             "name_history": [
@@ -18286,17 +18295,17 @@
             ],
             "crew_id": 141733933781,
             "crew_name": "blessed moon",
-            "equipping_title": "1_3_1_5",
+            "equipping_title": "1_6_2_2",
             "gender": 0,
-            "hp": 691135.0,
+            "hp": 750070.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -89295.6953125,
-                "y": 84347.9140625,
-                "z": -3240.085205078125
+                "x": -64654.29296875,
+                "y": 60469.3125,
+                "z": -9868.271484375
             },
-            "last_seen": "Mar 5, 2026, 7:50:51 PM",
-            "level": 67,
+            "last_seen": "Mar 11, 2026, 11:20:12 PM",
+            "level": 73,
             "name": "dante2332",
             "name_history": [
                 "dante2332"
@@ -22263,6 +22272,29 @@
             "role_id": 55963424775691,
             "server_region": "europe"
         },
+        "55963424776189": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 104695.109375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -62550.84765625,
+                "y": 104363.9453125,
+                "z": -11567.609375
+            },
+            "last_seen": "Mar 11, 2026, 11:20:12 PM",
+            "level": 34,
+            "name": "NASROU",
+            "name_history": [
+                "NASROU"
+            ],
+            "registered": "Mar 11, 2026, 2:35:54 AM",
+            "role_id": 55963424776189,
+            "server_region": "europe"
+        },
         "55963424776533": {
             "crew_history": [],
             "crew_id": 0,
@@ -23118,7 +23150,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1483,
-    "last_updated": "Mar 11, 2026, 11:19:11 PM",
+    "accounts_total": 1484,
+    "last_updated": "Mar 11, 2026, 11:20:12 PM",
     "server_region": "europe"
 }
