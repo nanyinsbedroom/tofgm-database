@@ -28145,12 +28145,21 @@
             "server_region": "southeast-asia"
         },
         "68783901280391": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
             "equipping_title": "2_2_0_72",
             "gender": 1,
-            "hp": 2544561.5,
-            "last_seen": "Feb 8, 2026, 7:40:02 PM",
+            "hp": 3534561.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325629.90625,
+                "y": 204859.328125,
+                "z": -28333.169921875
+            },
+            "last_seen": "Mar 11, 2026, 9:24:24 PM",
             "level": 100,
             "name": "Juwita.",
             "name_history": [
@@ -30662,12 +30671,21 @@
             "server_region": "southeast-asia"
         },
         "68796786237234": {
-            "crew_id": 3723736661641,
-            "crew_name": "Aspen",
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
             "equipping_title": "1_6_2_3",
             "gender": 1,
-            "hp": 2057433.0,
-            "last_seen": "Dec 19, 2025, 01:21:46 AM",
+            "hp": 3383505.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -334201.21875,
+                "y": 214730.8125,
+                "z": -24505.6171875
+            },
+            "last_seen": "Mar 11, 2026, 9:24:24 PM",
             "level": 100,
             "name": "Ice Scream",
             "name_history": [
@@ -33128,6 +33146,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:20:24 PM",
+    "last_updated": "Mar 11, 2026, 9:24:24 PM",
     "server_region": "southeast-asia"
 }
