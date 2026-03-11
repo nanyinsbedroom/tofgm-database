@@ -3383,14 +3383,14 @@
             "crew_name": "ももぐみ",
             "equipping_title": "2_10_1_3",
             "gender": 1,
-            "hp": 2762135.75,
+            "hp": 2765793.5,
             "last_known_position": {
                 "map": "QRSL_P",
                 "x": -55470.55859375,
                 "y": -88833.4375,
                 "z": 21725.69921875
             },
-            "last_seen": "Mar 11, 2026, 8:25:55 PM",
+            "last_seen": "Mar 11, 2026, 8:42:32 PM",
             "level": 100,
             "name": "ちむたま",
             "name_history": [
@@ -6225,7 +6225,7 @@
                 "y": -87663.859375,
                 "z": 21710.958984375
             },
-            "last_seen": "Mar 11, 2026, 8:25:55 PM",
+            "last_seen": "Mar 11, 2026, 8:42:32 PM",
             "level": 100,
             "name": "リュフィ",
             "name_history": [
@@ -7433,11 +7433,11 @@
             "hp": 2346446.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55420.2890625,
-                "y": -88319.015625,
-                "z": 21710.9296875
+                "x": -55420.296875,
+                "y": -88319.0,
+                "z": 21710.87890625
             },
-            "last_seen": "Mar 11, 2026, 8:25:55 PM",
+            "last_seen": "Mar 11, 2026, 8:42:32 PM",
             "level": 100,
             "name": "ﾛｷﾌｪﾝﾘﾙ",
             "name_history": [
@@ -12172,11 +12172,26 @@
             "server_region": "asia-pacific"
         },
         "47313359754802": {
+            "crew_history": [
+                "桜カフェ"
+            ],
             "crew_id": 326417525509,
             "crew_name": "桜カフェ",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": "Sep 13, 2025, 04:24:42 PM",
+            "hp": 2271762.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54928.4375,
+                "y": -88327.03125,
+                "z": 21717.5390625
+            },
+            "last_seen": "Mar 11, 2026, 8:42:32 PM",
+            "level": 100,
             "name": "sorain#d",
+            "name_history": [
+                "sorain#d"
+            ],
             "registered": "Aug 11, 2022, 3:38:15 PM",
             "role_id": 47313359754802,
             "server_region": "asia-pacific"
@@ -34571,11 +34586,11 @@
             "hp": 3041618.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54555.7578125,
-                "y": -88126.6796875,
-                "z": 21711.048828125
+                "x": -53829.83984375,
+                "y": -87906.765625,
+                "z": 21710.830078125
             },
-            "last_seen": "Mar 11, 2026, 8:28:55 PM",
+            "last_seen": "Mar 11, 2026, 8:42:32 PM",
             "level": 100,
             "name": "めるてぃー",
             "name_history": [
@@ -38938,6 +38953,6 @@
         }
     },
     "accounts_total": 2657,
-    "last_updated": "Mar 11, 2026, 8:40:07 PM",
+    "last_updated": "Mar 11, 2026, 8:42:32 PM",
     "server_region": "asia-pacific"
 }
