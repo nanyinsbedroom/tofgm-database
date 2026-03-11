@@ -16457,12 +16457,21 @@
             "server_region": "asia-pacific"
         },
         "47343425379210": {
+            "crew_history": [
+                "MoonmaidenS"
+            ],
             "crew_id": 5544802790137,
             "crew_name": "MoonmaidenS",
             "equipping_title": "2_5_0_6",
             "gender": 1,
-            "hp": 2449298.0,
-            "last_seen": "Nov 10, 2025, 11:03:12 PM",
+            "hp": 2684569.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 11, 2026, 4:23:38 PM",
             "level": 100,
             "name": "Ekadorf",
             "name_history": [
@@ -38068,6 +38077,6 @@
         }
     },
     "accounts_total": 2631,
-    "last_updated": "Mar 11, 2026, 4:21:38 PM",
+    "last_updated": "Mar 11, 2026, 4:23:38 PM",
     "server_region": "asia-pacific"
 }
