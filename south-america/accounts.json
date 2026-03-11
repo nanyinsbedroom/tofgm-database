@@ -2325,12 +2325,21 @@
             "server_region": "south-america"
         },
         "64467459128737": {
+            "crew_history": [
+                "InterStellar"
+            ],
             "crew_id": 103079230106,
             "crew_name": "InterStellar",
-            "equipping_title": "2_2_0_30",
+            "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 2676919.25,
-            "last_seen": "Nov 16, 2025, 11:39:24 AM",
+            "hp": 3852626.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -322722.71875,
+                "y": 202426.96875,
+                "z": -28306.5390625
+            },
+            "last_seen": "Mar 11, 2026, 7:01:46 PM",
             "level": 100,
             "name": "S.T.A.L.K.E.R",
             "name_history": [
@@ -6055,6 +6064,6 @@
         }
     },
     "accounts_total": 377,
-    "last_updated": "Mar 10, 2026, 6:29:01 PM",
+    "last_updated": "Mar 11, 2026, 7:01:46 PM",
     "server_region": "south-america"
 }
