@@ -22164,14 +22164,26 @@
             "server_region": "southeast-asia"
         },
         "68775311753414": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 893957.0,
-            "last_seen": "Oct 25, 2025, 04:39:23 PM",
-            "level": 85,
+            "hp": 1965635.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325328.3125,
+                "y": 201505.3125,
+                "z": -28325.939453125
+            },
+            "last_seen": "Mar 11, 2026, 3:59:33 PM",
+            "level": 100,
             "name": "SoeY1n",
+            "name_history": [
+                "SoeY1n"
+            ],
             "registered": "Oct 2, 2025, 2:04:01 PM",
             "role_id": 68775311753414,
             "server_region": "southeast-asia"
@@ -32876,6 +32888,6 @@
         }
     },
     "accounts_total": 2124,
-    "last_updated": "Mar 11, 2026, 3:58:33 PM",
+    "last_updated": "Mar 11, 2026, 3:59:33 PM",
     "server_region": "southeast-asia"
 }
