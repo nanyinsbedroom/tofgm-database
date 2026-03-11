@@ -2412,12 +2412,21 @@
             "server_region": "asia-pacific"
         },
         "47257525197352": {
+            "crew_history": [
+                "CyberAngel"
+            ],
             "crew_id": 545460857595,
             "crew_name": "CyberAngel",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_45",
             "gender": 1,
-            "hp": 3183200.5,
-            "last_seen": "Nov 18, 2025, 11:33:10 AM",
+            "hp": 3220027.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91553.46875,
+                "y": 77411.0859375,
+                "z": -7032.1396484375
+            },
+            "last_seen": "Mar 11, 2026, 8:35:30 PM",
             "level": 100,
             "name": "Giina",
             "name_history": [
@@ -32031,6 +32040,29 @@
             "role_id": 47343428000083,
             "server_region": "asia-pacific"
         },
+        "47343428000089": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2140.55322265625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56575.875,
+                "y": 82742.859375,
+                "z": -11471.5908203125
+            },
+            "last_seen": "Mar 11, 2026, 8:37:07 PM",
+            "level": 6,
+            "name": "Wolf fang",
+            "name_history": [
+                "Wolf fang"
+            ],
+            "registered": "Mar 11, 2026, 8:19:16 PM",
+            "role_id": 47343428000089,
+            "server_region": "asia-pacific"
+        },
         "47347719475029": {
             "crew_id": 90194324217,
             "crew_name": "Saints",
@@ -38800,7 +38832,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2653,
-    "last_updated": "Mar 11, 2026, 8:34:29 PM",
+    "accounts_total": 2654,
+    "last_updated": "Mar 11, 2026, 8:37:07 PM",
     "server_region": "asia-pacific"
 }
