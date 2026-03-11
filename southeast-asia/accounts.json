@@ -17841,12 +17841,21 @@
             "server_region": "southeast-asia"
         },
         "68775311726678": {
+            "crew_history": [
+                "La Vie en Rose"
+            ],
             "crew_id": 4041564241545,
             "crew_name": "La Vie en Rose",
             "equipping_title": "2_2_0_23",
             "gender": 0,
-            "hp": 2362960.75,
-            "last_seen": "Nov 11, 2025, 08:06:22 PM",
+            "hp": 3614255.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323631.1875,
+                "y": 203084.421875,
+                "z": -28340.779296875
+            },
+            "last_seen": "Mar 11, 2026, 9:50:26 PM",
             "level": 100,
             "name": "ScarletWanderer",
             "name_history": [
@@ -25837,13 +25846,22 @@
             "server_region": "southeast-asia"
         },
         "68775311760103": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
             "equipping_title": "Lisette的学徒,0",
             "gender": 0,
-            "hp": 1081172.75,
-            "last_seen": "Feb 02, 2026, 04:13:10 AM",
-            "level": 96,
+            "hp": 1961263.125,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325770.875,
+                "y": 203892.953125,
+                "z": -28328.240234375
+            },
+            "last_seen": "Mar 11, 2026, 9:50:26 PM",
+            "level": 100,
             "name": "Leonidas",
             "name_history": [
                 "Leonidas"
@@ -31852,14 +31870,14 @@
             "crew_name": "Sakura✿Clan",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 3272255.0,
+            "hp": 3273604.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324369.84375,
-                "y": 201969.296875,
-                "z": -28333.958984375
+                "x": -325616.375,
+                "y": 204852.09375,
+                "z": -28341.728515625
             },
-            "last_seen": "Mar 10, 2026, 10:53:18 PM",
+            "last_seen": "Mar 11, 2026, 9:50:26 PM",
             "level": 100,
             "name": "Faya❀",
             "name_history": [
@@ -33177,6 +33195,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:39:25 PM",
+    "last_updated": "Mar 11, 2026, 9:50:26 PM",
     "server_region": "southeast-asia"
 }
