@@ -6135,14 +6135,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "2_2_0_24",
             "gender": 1,
-            "hp": 3118236.25,
+            "hp": 3606781.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -320028.6875,
-                "y": 207548.375,
-                "z": -28097.8203125
+                "x": -328351.96875,
+                "y": 199630.25,
+                "z": -28042.16015625
             },
-            "last_seen": "Mar 11, 2026, 4:07:34 PM",
+            "last_seen": "Mar 11, 2026, 9:55:26 PM",
             "level": 100,
             "name": "Mio Tchzyuki",
             "name_history": [
@@ -16321,6 +16321,31 @@
             "name": "บูดู",
             "registered": "May 6, 2024, 12:31:16 AM",
             "role_id": 68775311666077,
+            "server_region": "southeast-asia"
+        },
+        "68775311666661": {
+            "crew_history": [
+                "Celestial"
+            ],
+            "crew_id": 592705502852,
+            "crew_name": "Celestial",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 2524130.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326322.5,
+                "y": 203876.953125,
+                "z": -28333.240234375
+            },
+            "last_seen": "Mar 11, 2026, 9:55:26 PM",
+            "level": 100,
+            "name": ".MO.",
+            "name_history": [
+                ".MO."
+            ],
+            "registered": "May 7, 2024, 8:13:45 PM",
+            "role_id": 68775311666661,
             "server_region": "southeast-asia"
         },
         "68775311669040": {
@@ -33224,7 +33249,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:51:26 PM",
+    "accounts_total": 2127,
+    "last_updated": "Mar 11, 2026, 9:55:26 PM",
     "server_region": "southeast-asia"
 }
