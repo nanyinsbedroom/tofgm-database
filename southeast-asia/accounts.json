@@ -1103,12 +1103,21 @@
             "server_region": "southeast-asia"
         },
         "68723771836974": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 2587579.0,
-            "last_seen": "Dec 27, 2025, 11:21:50 PM",
+            "hp": 3732440.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325212.0,
+                "y": 203846.671875,
+                "z": -28333.80859375
+            },
+            "last_seen": "Mar 11, 2026, 8:25:55 PM",
             "level": 100,
             "name": "Kandine",
             "name_history": [
@@ -33059,6 +33068,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 8:24:55 PM",
+    "last_updated": "Mar 11, 2026, 8:25:55 PM",
     "server_region": "southeast-asia"
 }
