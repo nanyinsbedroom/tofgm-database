@@ -34223,12 +34223,21 @@
             "server_region": "asia-pacific"
         },
         "47373489372031": {
+            "crew_history": [
+                "団欒の笑う門"
+            ],
             "crew_id": 2491081042710,
             "crew_name": "団欒の笑う門",
-            "equipping_title": "めるてぃー's Apprentice,0",
+            "equipping_title": "めるてぃー的学徒,0",
             "gender": 1,
-            "hp": 5979443.0,
-            "last_seen": "Feb 11, 2026, 8:56:27 PM",
+            "hp": 2733131.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54556.71875,
+                "y": -88573.015625,
+                "z": 21795.96875
+            },
+            "last_seen": "Mar 11, 2026, 8:24:54 PM",
             "level": 100,
             "name": "ryuusu#a",
             "name_history": [
@@ -38374,6 +38383,6 @@
         }
     },
     "accounts_total": 2642,
-    "last_updated": "Mar 11, 2026, 4:30:38 PM",
+    "last_updated": "Mar 11, 2026, 8:24:54 PM",
     "server_region": "asia-pacific"
 }
