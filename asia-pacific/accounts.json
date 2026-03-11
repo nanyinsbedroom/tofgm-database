@@ -14334,12 +14334,21 @@
             "server_region": "asia-pacific"
         },
         "47330539608614": {
+            "crew_history": [
+                "Family"
+            ],
             "crew_id": 6347961674499,
             "crew_name": "Family",
             "equipping_title": "Title_KoreaAnniversary23",
             "gender": 1,
-            "hp": 2169997.5,
-            "last_seen": "Nov 14, 2025, 02:03:34 PM",
+            "hp": 2059389.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54252.98046875,
+                "y": -88390.890625,
+                "z": 21724.333984375
+            },
+            "last_seen": "Mar 11, 2026, 8:29:55 PM",
             "level": 100,
             "name": "タピット",
             "name_history": [
@@ -15326,12 +15335,21 @@
             "server_region": "asia-pacific"
         },
         "47334834669231": {
+            "crew_history": [
+                "Atlantis"
+            ],
             "crew_id": 416611838733,
             "crew_name": "Atlantis",
             "equipping_title": "1_1_30_1",
             "gender": 0,
-            "hp": 6095051.0,
-            "last_seen": "Feb 11, 2026, 8:52:27 PM",
+            "hp": 2531799.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54749.73046875,
+                "y": -87036.0859375,
+                "z": 21717.46875
+            },
+            "last_seen": "Mar 11, 2026, 8:29:55 PM",
             "level": 100,
             "name": "papadon0316#a",
             "name_history": [
@@ -38728,6 +38746,6 @@
         }
     },
     "accounts_total": 2651,
-    "last_updated": "Mar 11, 2026, 8:28:55 PM",
+    "last_updated": "Mar 11, 2026, 8:29:55 PM",
     "server_region": "asia-pacific"
 }
