@@ -2386,11 +2386,26 @@
             "server_region": "southeast-asia"
         },
         "68732361641802": {
+            "crew_history": [
+                "VN-Archon"
+            ],
             "crew_id": 790273998467,
             "crew_name": "VN-Archon",
+            "equipping_title": "None",
             "gender": 0,
-            "last_seen": "Sep 21, 2025, 10:26:02 PM",
+            "hp": 3309341.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325621.34375,
+                "y": 204783.890625,
+                "z": -28341.740234375
+            },
+            "last_seen": "Mar 11, 2026, 3:33:38 PM",
+            "level": 100,
             "name": "Ran_Choi",
+            "name_history": [
+                "Ran_Choi"
+            ],
             "registered": "Aug 11, 2022, 8:02:57 AM",
             "role_id": 68732361641802,
             "server_region": "southeast-asia"
@@ -32785,6 +32800,6 @@
         }
     },
     "accounts_total": 2123,
-    "last_updated": "Mar 11, 2026, 3:32:38 PM",
+    "last_updated": "Mar 11, 2026, 3:33:38 PM",
     "server_region": "southeast-asia"
 }
