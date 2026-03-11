@@ -990,12 +990,21 @@
             "server_region": "southeast-asia"
         },
         "68723771811436": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
             "equipping_title": "1_1_7_2",
             "gender": 0,
-            "hp": 2257515.25,
-            "last_seen": "Nov 06, 2025, 07:03:46 PM",
+            "hp": 3581969.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -328037.28125,
+                "y": 200786.03125,
+                "z": -28349.5703125
+            },
+            "last_seen": "Mar 11, 2026, 9:18:23 PM",
             "level": 100,
             "name": "jOPPAI.",
             "name_history": [
@@ -31188,12 +31197,21 @@
             "server_region": "southeast-asia"
         },
         "68801081131966": {
+            "crew_history": [
+                "Soft Doll"
+            ],
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
-            "equipping_title": "2_2_0_48",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 2628296.25,
-            "last_seen": "Jan 20, 2026, 04:52:13 AM",
+            "hp": 3616005.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325578.6875,
+                "y": 204819.703125,
+                "z": -28341.740234375
+            },
+            "last_seen": "Mar 11, 2026, 9:18:23 PM",
             "level": 100,
             "name": "AmberWanderer",
             "name_history": [
@@ -33110,6 +33128,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:14:23 PM",
+    "last_updated": "Mar 11, 2026, 9:18:23 PM",
     "server_region": "southeast-asia"
 }
