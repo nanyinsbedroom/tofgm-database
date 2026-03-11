@@ -13706,11 +13706,24 @@
             "server_region": "southeast-asia"
         },
         "68775311319511": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
+            "equipping_title": "Title_iwshare_os_24",
             "gender": 1,
-            "last_seen": "Aug 06, 2025, 08:57:13 PM",
+            "hp": 2942047.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323407.875,
+                "y": 198511.953125,
+                "z": -28483.80859375
+            },
+            "last_seen": "Mar 11, 2026, 9:26:24 PM",
+            "level": 100,
             "name": "リディア",
+            "name_history": [
+                "リディア"
+            ],
             "registered": "Aug 11, 2022, 10:20:30 AM",
             "role_id": 68775311319511,
             "server_region": "southeast-asia"
@@ -14977,14 +14990,14 @@
             "crew_name": "Lunar Exclaire",
             "equipping_title": "2_2_0_39",
             "gender": 0,
-            "hp": 2208013.75,
+            "hp": 3208362.5,
             "last_known_position": {
-                "map": "FinalTest_D",
-                "x": -1.4299999475479126,
-                "y": 1399.199951171875,
-                "z": 985.8599853515625
+                "map": "JIUYU_P",
+                "x": -325990.15625,
+                "y": 205179.078125,
+                "z": -28294.689453125
             },
-            "last_seen": "Feb 25, 2026, 7:35:28 PM",
+            "last_seen": "Mar 11, 2026, 9:26:24 PM",
             "level": 100,
             "name": "Valkyon",
             "name_history": [
@@ -33146,6 +33159,6 @@
         }
     },
     "accounts_total": 2126,
-    "last_updated": "Mar 11, 2026, 9:24:24 PM",
+    "last_updated": "Mar 11, 2026, 9:26:24 PM",
     "server_region": "southeast-asia"
 }
