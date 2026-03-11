@@ -194,14 +194,14 @@
             "crew_name": "异世相遇",
             "equipping_title": "2_2_0_82",
             "gender": 1,
-            "hp": 1748819.5,
+            "hp": 1785603.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21724.548828125
+                "x": -56255.30859375,
+                "y": -88734.609375,
+                "z": 22042.80078125
             },
-            "last_seen": "2026年3月6日 下午8:24:17",
+            "last_seen": "2026年3月11日 下午5:50:27",
             "level": 85,
             "name": "三生知世",
             "name_history": [
@@ -7859,6 +7859,31 @@
             "role_id": 63574106211124,
             "server_region": "time-travel"
         },
+        "63574106212628": {
+            "crew_history": [
+                "樱花荘"
+            ],
+            "crew_id": 98784262610,
+            "crew_name": "樱花荘",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1653218.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55308.69921875,
+                "y": -87076.5,
+                "z": 21710.98046875
+            },
+            "last_seen": "2026年3月11日 下午5:50:27",
+            "level": 85,
+            "name": "毒奶粉",
+            "name_history": [
+                "毒奶粉"
+            ],
+            "registered": "2024年1月24日 下午10:16:44",
+            "role_id": 63574106212628,
+            "server_region": "time-travel"
+        },
         "63574106216836": {
             "crew_history": [],
             "crew_id": 0,
@@ -8524,14 +8549,14 @@
             "crew_name": "七宫",
             "equipping_title": "2_2_0_40",
             "gender": 1,
-            "hp": 1548928.0,
+            "hp": 1789925.75,
             "last_known_position": {
-                "map": "city",
-                "x": 2193.199951171875,
-                "y": -27102.798828125,
-                "z": 97866.1171875
+                "map": "QRSL_P",
+                "x": -54560.3203125,
+                "y": -89017.28125,
+                "z": 22656.240234375
             },
-            "last_seen": "2026年3月9日 下午11:03:48",
+            "last_seen": "2026年3月11日 下午5:50:27",
             "level": 85,
             "name": "米狐",
             "name_history": [
@@ -19151,6 +19176,31 @@
             "role_id": 63578401983077,
             "server_region": "time-travel"
         },
+        "63578401983203": {
+            "crew_history": [
+                "星下樱园"
+            ],
+            "crew_id": 5673651812819,
+            "crew_name": "星下樱园",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 228644.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50541.48828125,
+                "y": -87656.2578125,
+                "z": 21863.630859375
+            },
+            "last_seen": "2026年3月11日 下午5:50:27",
+            "level": 76,
+            "name": "S叶洛",
+            "name_history": [
+                "S叶洛"
+            ],
+            "registered": "2025年11月24日 下午7:15:26",
+            "role_id": 63578401983203,
+            "server_region": "time-travel"
+        },
         "63578401983231": {
             "crew_history": [
                 "异世相遇",
@@ -25162,7 +25212,7 @@
             "server_region": "time-travel"
         }
     },
-    "accounts_total": 1231,
-    "last_updated": "2026年3月11日 下午5:49:27",
+    "accounts_total": 1233,
+    "last_updated": "2026年3月11日 下午5:50:27",
     "server_region": "time-travel"
 }
