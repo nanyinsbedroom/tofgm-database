@@ -6044,12 +6044,21 @@
             "server_region": "southeast-asia"
         },
         "68740951626204": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 1787591.75,
-            "last_seen": "Nov 04, 2025, 11:04:29 PM",
+            "hp": 1759697.875,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -70573.4375,
+                "y": -25583.439453125,
+                "z": 11539.51953125
+            },
+            "last_seen": "Mar 11, 2026, 12:15:58 PM",
             "level": 100,
             "name": "F. As",
             "name_history": [
@@ -6268,14 +6277,14 @@
             "crew_name": "Eroge",
             "equipping_title": "Overseas2_12",
             "gender": 1,
-            "hp": 6198417.5,
+            "hp": 2485885.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 91537.953125,
-                "y": -187071.40625,
-                "z": -7623.59765625
+                "map": "Vera_city",
+                "x": -70616.609375,
+                "y": -28816.759765625,
+                "z": 11532.51953125
             },
-            "last_seen": "Feb 26, 2026, 8:48:43 PM",
+            "last_seen": "Mar 11, 2026, 12:15:58 PM",
             "level": 100,
             "name": "Ayin",
             "name_history": [
@@ -25454,15 +25463,15 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 5959672.0,
+            "hp": 1445668.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 97255.375,
-                "y": -190328.875,
-                "z": -7926.66455078125
+                "map": "Vera_city",
+                "x": -73796.0390625,
+                "y": -31994.138671875,
+                "z": 15736.080078125
             },
-            "last_seen": "Mar 9, 2026, 9:09:15 PM",
-            "level": 95,
+            "last_seen": "Mar 11, 2026, 12:15:58 PM",
+            "level": 97,
             "name": "ไอ้ต้าวหมาบี้",
             "name_history": [
                 "ไอ้ต้าวหมาบี้"
@@ -30486,12 +30495,21 @@
             "server_region": "southeast-asia"
         },
         "68801081134764": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "Title_tencentshare_os_12",
             "gender": 1,
-            "hp": 2762094.25,
-            "last_seen": "Jan 20, 2026, 05:34:47 AM",
+            "hp": 2691801.25,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71015.828125,
+                "y": -28528.689453125,
+                "z": 11425.2197265625
+            },
+            "last_seen": "Mar 11, 2026, 12:15:58 PM",
             "level": 100,
             "name": "❀Yuukarin❀",
             "name_history": [
@@ -32292,6 +32310,6 @@
         }
     },
     "accounts_total": 2109,
-    "last_updated": "Mar 11, 2026, 12:14:58 PM",
+    "last_updated": "Mar 11, 2026, 12:15:58 PM",
     "server_region": "southeast-asia"
 }
