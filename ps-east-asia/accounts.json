@@ -2833,6 +2833,31 @@
             "role_id": 8602823789012851,
             "server_region": "ps-east-asia"
         },
+        "8602823789013099": {
+            "crew_history": [
+                "初心者の場所"
+            ],
+            "crew_id": 3680788975674,
+            "crew_name": "初心者の場所",
+            "equipping_title": "1_6_2_1",
+            "gender": 1,
+            "hp": 1202919.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56086.23828125,
+                "y": -86716.734375,
+                "z": 21717.44921875
+            },
+            "last_seen": "Mar 12, 2026, 6:32:51 PM",
+            "level": 100,
+            "name": "mikasa-A",
+            "name_history": [
+                "mikasa-A"
+            ],
+            "registered": "Dec 25, 2025, 3:28:38 PM",
+            "role_id": 8602823789013099,
+            "server_region": "ps-east-asia"
+        },
         "8602823789013230": {
             "crew_id": 0,
             "crew_name": "",
@@ -4759,7 +4784,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 238,
-    "last_updated": "Mar 12, 2026, 6:29:51 PM",
+    "accounts_total": 239,
+    "last_updated": "Mar 12, 2026, 6:32:51 PM",
     "server_region": "ps-east-asia"
 }
