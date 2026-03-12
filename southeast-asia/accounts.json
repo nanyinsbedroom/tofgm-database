@@ -16047,12 +16047,21 @@
             "server_region": "southeast-asia"
         },
         "68775311647612": {
+            "crew_history": [
+                "Moonheart"
+            ],
             "crew_id": 2555505557133,
             "crew_name": "Moonheart",
             "equipping_title": "3_2024",
             "gender": 0,
-            "hp": 2193349.0,
-            "last_seen": "Dec 27, 2025, 11:23:50 PM",
+            "hp": 3344306.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325485.375,
+                "y": 204788.390625,
+                "z": -28341.740234375
+            },
+            "last_seen": "Mar 12, 2026, 3:54:08 PM",
             "level": 100,
             "name": "Hansamhida",
             "name_history": [
@@ -27566,12 +27575,21 @@
             "server_region": "southeast-asia"
         },
         "68779606353758": {
+            "crew_history": [
+                "Aspen"
+            ],
             "crew_id": 3723736661641,
             "crew_name": "Aspen",
             "equipping_title": "1_1_26_1",
             "gender": 1,
-            "hp": 2084532.625,
-            "last_seen": "Nov 05, 2025, 11:34:52 PM",
+            "hp": 3301897.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325381.875,
+                "y": 204561.3125,
+                "z": -28338.708984375
+            },
+            "last_seen": "Mar 12, 2026, 3:54:08 PM",
             "level": 100,
             "name": "オクタ-taheZz",
             "name_history": [
@@ -33421,6 +33439,6 @@
         }
     },
     "accounts_total": 2130,
-    "last_updated": "Mar 12, 2026, 1:33:45 PM",
+    "last_updated": "Mar 12, 2026, 3:54:08 PM",
     "server_region": "southeast-asia"
 }
