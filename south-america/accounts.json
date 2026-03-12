@@ -1170,6 +1170,31 @@
             "role_id": 64437394394995,
             "server_region": "south-america"
         },
+        "64437394397384": {
+            "crew_history": [
+                "TENGU"
+            ],
+            "crew_id": 3676492020378,
+            "crew_name": "TENGU",
+            "equipping_title": "2_8_0_6",
+            "gender": 1,
+            "hp": 3688418.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325125.21875,
+                "y": 204611.671875,
+                "z": -28313.369140625
+            },
+            "last_seen": "Mar 11, 2026, 10:50:26 PM",
+            "level": 100,
+            "name": "Bar557Sk",
+            "name_history": [
+                "Bar557Sk"
+            ],
+            "registered": "Aug 16, 2022, 12:39:54 PM",
+            "role_id": 64437394397384,
+            "server_region": "south-america"
+        },
         "64437394411015": {
             "crew_id": 777389095578,
             "crew_name": "YoRHa",
@@ -2481,15 +2506,25 @@
             "server_region": "south-america"
         },
         "64463164169546": {
+            "crew_history": [
+                "POwer RangerS"
+            ],
             "crew_id": 6433861024424,
             "crew_name": "POwer RangerS",
             "equipping_title": "3_2022",
-            "gender": 0,
-            "hp": 1825234.25,
-            "last_seen": "Nov 03, 2025, 03:09:48 AM",
+            "gender": 1,
+            "hp": 2831071.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324378.9375,
+                "y": 202858.953125,
+                "z": -28363.0703125
+            },
+            "last_seen": "Mar 11, 2026, 10:50:26 PM",
             "level": 100,
-            "name": "Zacron",
+            "name": "Zacron e Ayve",
             "name_history": [
+                "Zacron e Ayve",
                 "Zacron"
             ],
             "registered": "Aug 11, 2022, 10:04:20 AM",
@@ -2912,12 +2947,21 @@
             "server_region": "south-america"
         },
         "64471754091634": {
+            "crew_history": [
+                "Las Amazonas"
+            ],
             "crew_id": 6253472397992,
             "crew_name": "Las Amazonas",
-            "equipping_title": "Title_tencentshare_os_15",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2606726.75,
-            "last_seen": "Nov 01, 2025, 08:32:05 PM",
+            "hp": 3605985.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324940.15625,
+                "y": 202972.890625,
+                "z": -28356.5703125
+            },
+            "last_seen": "Mar 11, 2026, 10:50:26 PM",
             "level": 100,
             "name": "shogunharry",
             "name_history": [
@@ -6865,7 +6909,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 406,
-    "last_updated": "Mar 11, 2026, 10:38:25 PM",
+    "accounts_total": 407,
+    "last_updated": "Mar 11, 2026, 10:50:26 PM",
     "server_region": "south-america"
 }
