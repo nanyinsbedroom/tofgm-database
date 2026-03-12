@@ -5099,12 +5099,21 @@
             "server_region": "north-america"
         },
         "51591147193115": {
+            "crew_history": [
+                "Star☆Crusaders"
+            ],
             "crew_id": 47244652263,
-            "crew_name": "Crusaders",
-            "equipping_title": "2_2_0_18",
+            "crew_name": "Star☆Crusaders",
+            "equipping_title": "2_1_0_2",
             "gender": 0,
-            "hp": 2151163.0,
-            "last_seen": "Nov 14, 2025, 01:05:10 AM",
+            "hp": 2282359.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54588.8984375,
+                "y": -86930.1484375,
+                "z": 21725.958984375
+            },
+            "last_seen": "Mar 11, 2026, 8:04:50 PM",
             "level": 100,
             "name": "John6522",
             "name_history": [
@@ -16175,6 +16184,6 @@
         }
     },
     "accounts_total": 994,
-    "last_updated": "Mar 11, 2026, 8:03:50 PM",
+    "last_updated": "Mar 11, 2026, 8:04:50 PM",
     "server_region": "north-america"
 }
