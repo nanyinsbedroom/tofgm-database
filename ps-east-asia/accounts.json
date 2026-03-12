@@ -711,11 +711,11 @@
             "hp": 1942576.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54905.58984375,
-                "y": -87578.8359375,
-                "z": 21730.94921875
+                "x": -54719.09765625,
+                "y": -87476.28125,
+                "z": 21730.91015625
             },
-            "last_seen": "Mar 12, 2026, 6:26:50 PM",
+            "last_seen": "Mar 12, 2026, 10:58:09 AM",
             "level": 100,
             "name": "天狼星",
             "name_history": [
@@ -3015,6 +3015,31 @@
             "role_id": 8602823789013727,
             "server_region": "ps-east-asia"
         },
+        "8602823789013734": {
+            "crew_history": [
+                "初心者の場所"
+            ],
+            "crew_id": 3680788975674,
+            "crew_name": "初心者の場所",
+            "equipping_title": "クレミィ的学徒,0",
+            "gender": 1,
+            "hp": 439330.78125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 12, 2026, 10:58:09 AM",
+            "level": 42,
+            "name": "水宮スイスイ",
+            "name_history": [
+                "水宮スイスイ"
+            ],
+            "registered": "Mar 9, 2026, 9:00:17 PM",
+            "role_id": 8602823789013734,
+            "server_region": "ps-east-asia"
+        },
         "8602828083822723": {
             "crew_history": [],
             "crew_id": 0,
@@ -3941,6 +3966,29 @@
             "role_id": 8602828083868830,
             "server_region": "ps-east-asia"
         },
+        "8602828083872266": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1371672.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53344.8984375,
+                "y": -92342.6015625,
+                "z": 21710.939453125
+            },
+            "last_seen": "Mar 12, 2026, 10:58:09 AM",
+            "level": 100,
+            "name": "saya#a",
+            "name_history": [
+                "saya#a"
+            ],
+            "registered": "Aug 15, 2023, 11:29:03 PM",
+            "role_id": 8602828083872266,
+            "server_region": "ps-east-asia"
+        },
         "8602828083876364": {
             "crew_history": [
                 "踊る明星"
@@ -4809,7 +4857,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 240,
-    "last_updated": "Mar 12, 2026, 7:08:54 PM",
+    "accounts_total": 242,
+    "last_updated": "Mar 12, 2026, 10:58:09 AM",
     "server_region": "ps-east-asia"
 }
