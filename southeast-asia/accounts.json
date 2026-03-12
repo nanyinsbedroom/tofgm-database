@@ -3823,12 +3823,21 @@
             "server_region": "southeast-asia"
         },
         "68732361752296": {
+            "crew_history": [
+                "CASTLE"
+            ],
             "crew_id": 206158446212,
             "crew_name": "CASTLE",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_77",
             "gender": 1,
-            "hp": 2382162.25,
-            "last_seen": "Dec 08, 2025, 03:25:06 AM",
+            "hp": 3257081.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324528.53125,
+                "y": 203496.171875,
+                "z": -28297.978515625
+            },
+            "last_seen": "Mar 12, 2026, 10:50:12 PM",
             "level": 100,
             "name": "_IRISs_",
             "name_history": [
@@ -26299,15 +26308,15 @@
             "crew_name": "Luminous",
             "equipping_title": "1_6_2_1",
             "gender": 0,
-            "hp": 461951.71875,
+            "hp": 1236563.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -31752.029296875,
-                "y": 83297.421875,
-                "z": -14794.189453125
+                "map": "JIUYU_P",
+                "x": -325926.5,
+                "y": 205076.421875,
+                "z": -27646.009765625
             },
-            "last_seen": "Feb 14, 2026, 4:41:08 PM",
-            "level": 98,
+            "last_seen": "Mar 12, 2026, 10:50:12 PM",
+            "level": 100,
             "name": "Landon",
             "name_history": [
                 "Landon"
@@ -28754,12 +28763,21 @@
             "server_region": "southeast-asia"
         },
         "68783901277742": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "Tencent_Sever_125",
             "gender": 1,
-            "hp": 2487992.0,
-            "last_seen": "Feb 8, 2026, 11:01:38 PM",
+            "hp": 3533867.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325600.8125,
+                "y": 204967.109375,
+                "z": -28256.099609375
+            },
+            "last_seen": "Mar 12, 2026, 10:50:12 PM",
             "level": 100,
             "name": "Raetsel",
             "name_history": [
@@ -30886,14 +30904,14 @@
             "crew_name": "WeWillWin",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 1922624.625,
+            "hp": 2929632.25,
             "last_known_position": {
-                "map": "Kailo_P",
-                "x": -16667.0,
-                "y": 189891.0,
-                "z": -17751.7890625
+                "map": "JIUYU_P",
+                "x": -325341.6875,
+                "y": 204427.8125,
+                "z": -28328.798828125
             },
-            "last_seen": "Feb 18, 2026, 4:31:34 PM",
+            "last_seen": "Mar 12, 2026, 10:50:12 PM",
             "level": 100,
             "name": "Yar ven",
             "name_history": [
@@ -33946,6 +33964,6 @@
         }
     },
     "accounts_total": 2143,
-    "last_updated": "Mar 12, 2026, 10:48:12 PM",
+    "last_updated": "Mar 12, 2026, 10:50:12 PM",
     "server_region": "southeast-asia"
 }
