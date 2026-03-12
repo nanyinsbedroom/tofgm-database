@@ -31592,12 +31592,21 @@
             "server_region": "southeast-asia"
         },
         "68801081157216": {
+            "crew_history": [
+                "Soft Doll"
+            ],
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
             "equipping_title": "2_1_0_2",
             "gender": 0,
-            "hp": 1863971.5,
-            "last_seen": "Jan 03, 2026, 07:04:45 AM",
+            "hp": 2924555.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324712.4375,
+                "y": 203674.328125,
+                "z": -28343.279296875
+            },
+            "last_seen": "Mar 12, 2026, 12:33:52 PM",
             "level": 100,
             "name": "Ampes",
             "name_history": [
@@ -33353,6 +33362,6 @@
         }
     },
     "accounts_total": 2129,
-    "last_updated": "Mar 12, 2026, 12:30:52 PM",
+    "last_updated": "Mar 12, 2026, 12:33:52 PM",
     "server_region": "southeast-asia"
 }
