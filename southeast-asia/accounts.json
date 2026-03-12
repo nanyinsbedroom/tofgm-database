@@ -362,12 +362,21 @@
             "server_region": "southeast-asia"
         },
         "68723771724699": {
+            "crew_history": [
+                "Omnis PH"
+            ],
             "crew_id": 536870928001,
             "crew_name": "Omnis PH",
             "equipping_title": "1_1_27_1",
             "gender": 0,
-            "hp": 5960460.0,
-            "last_seen": "Jan 02, 2026, 05:09:27 AM",
+            "hp": 6047682.5,
+            "last_known_position": {
+                "map": "Kailo_P_003",
+                "x": 146340.0,
+                "y": -175497.0,
+                "z": 54.349998474121094
+            },
+            "last_seen": "Mar 12, 2026, 9:45:09 PM",
             "level": 100,
             "name": "Aile Hato",
             "name_history": [
@@ -33564,6 +33573,6 @@
         }
     },
     "accounts_total": 2133,
-    "last_updated": "Mar 12, 2026, 8:44:04 PM",
+    "last_updated": "Mar 12, 2026, 9:45:09 PM",
     "server_region": "southeast-asia"
 }
