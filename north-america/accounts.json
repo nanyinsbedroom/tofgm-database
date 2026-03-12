@@ -5043,6 +5043,31 @@
             "role_id": 51591147173272,
             "server_region": "north-america"
         },
+        "51591147176581": {
+            "crew_history": [
+                "Harmony"
+            ],
+            "crew_id": 631360204520,
+            "crew_name": "Harmony",
+            "equipping_title": "1_8_0_37",
+            "gender": 1,
+            "hp": 2488688.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55551.09765625,
+                "y": -86711.6953125,
+                "z": 21738.55859375
+            },
+            "last_seen": "Mar 11, 2026, 8:09:51 PM",
+            "level": 100,
+            "name": "Naomi★Minette",
+            "name_history": [
+                "Naomi★Minette"
+            ],
+            "registered": "Aug 11, 2022, 12:23:35 AM",
+            "role_id": 51591147176581,
+            "server_region": "north-america"
+        },
         "51591147177317": {
             "crew_id": 1722281897708,
             "crew_name": "The Cat Café",
@@ -8171,11 +8196,11 @@
             "hp": 1734808.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21724.548828125
+                "x": -55001.69921875,
+                "y": -87200.0546875,
+                "z": 21724.458984375
             },
-            "last_seen": "Mar 10, 2026, 12:25:14 PM",
+            "last_seen": "Mar 11, 2026, 8:09:51 PM",
             "level": 100,
             "name": "DerKaiser",
             "name_history": [
@@ -10993,12 +11018,21 @@
             "server_region": "north-america"
         },
         "51629802339922": {
+            "crew_history": [
+                "F2PAnonymous"
+            ],
             "crew_id": 55834586853,
             "crew_name": "F2PAnonymous",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 1316449.0,
-            "last_seen": "Jan 24, 2026, 08:08:02 PM",
+            "hp": 1398001.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54023.6875,
+                "y": -87689.515625,
+                "z": 21726.369140625
+            },
+            "last_seen": "Mar 11, 2026, 8:09:51 PM",
             "level": 100,
             "name": "hmtu",
             "name_history": [
@@ -13421,6 +13455,29 @@
             "role_id": 51629802378564,
             "server_region": "north-america"
         },
+        "51629802378745": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 74804.8671875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55641.8203125,
+                "y": -89231.0234375,
+                "z": 21735.228515625
+            },
+            "last_seen": "Mar 11, 2026, 8:09:51 PM",
+            "level": 41,
+            "name": "しゃしゃも",
+            "name_history": [
+                "しゃしゃも"
+            ],
+            "registered": "Feb 18, 2026, 5:59:42 PM",
+            "role_id": 51629802378745,
+            "server_region": "north-america"
+        },
         "51629802378760": {
             "crew_history": [],
             "crew_id": 0,
@@ -15066,6 +15123,29 @@
             "role_id": 51629802387652,
             "server_region": "north-america"
         },
+        "51629802387898": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 14970.302734375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54362.7578125,
+                "y": -88026.9765625,
+                "z": 21731.109375
+            },
+            "last_seen": "Mar 11, 2026, 8:09:51 PM",
+            "level": 15,
+            "name": "ARIES_X",
+            "name_history": [
+                "ARIES_X"
+            ],
+            "registered": "Mar 11, 2026, 5:25:59 AM",
+            "role_id": 51629802387898,
+            "server_region": "north-america"
+        },
         "51634096836669": {
             "crew_history": [
                 "Grand Order"
@@ -16208,7 +16288,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 995,
-    "last_updated": "Mar 11, 2026, 8:05:50 PM",
+    "accounts_total": 998,
+    "last_updated": "Mar 11, 2026, 8:09:51 PM",
     "server_region": "north-america"
 }
