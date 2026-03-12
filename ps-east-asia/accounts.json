@@ -313,6 +313,54 @@
             "role_id": 8602823788887685,
             "server_region": "ps-east-asia"
         },
+        "8602823788893712": {
+            "crew_history": [
+                "キラのおもちゃ箱"
+            ],
+            "crew_id": 2366528983097,
+            "crew_name": "キラのおもちゃ箱",
+            "equipping_title": "2_2_0_38",
+            "gender": 1,
+            "hp": 2763753.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54977.82421875,
+                "y": -86752.40625,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 12, 2026, 12:16:48 PM",
+            "level": 100,
+            "name": "マミヤ",
+            "name_history": [
+                "マミヤ"
+            ],
+            "registered": "Aug 28, 2023, 7:20:11 AM",
+            "role_id": 8602823788893712,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788895816": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1029231.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54186.2890625,
+                "y": -87869.3515625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 12, 2026, 12:16:48 PM",
+            "level": 100,
+            "name": "ユウユ",
+            "name_history": [
+                "ユウユ"
+            ],
+            "registered": "Sep 1, 2023, 6:59:15 PM",
+            "role_id": 8602823788895816,
+            "server_region": "ps-east-asia"
+        },
         "8602823788903121": {
             "crew_history": [
                 "ゴールドコア教"
@@ -875,6 +923,29 @@
             ],
             "registered": "May 16, 2025, 7:41:12 AM",
             "role_id": 8602823788982103,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788990006": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 895417.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55620.12890625,
+                "y": -88874.71875,
+                "z": 21725.0
+            },
+            "last_seen": "Mar 12, 2026, 12:16:48 PM",
+            "level": 100,
+            "name": "Orphelia",
+            "name_history": [
+                "Orphelia"
+            ],
+            "registered": "Jul 13, 2025, 1:24:28 AM",
+            "role_id": 8602823788990006,
             "server_region": "ps-east-asia"
         },
         "8602823788990057": {
@@ -2858,7 +2929,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 162,
-    "last_updated": "Mar 12, 2026, 12:14:48 PM",
+    "accounts_total": 165,
+    "last_updated": "Mar 12, 2026, 12:16:48 PM",
     "server_region": "ps-east-asia"
 }
