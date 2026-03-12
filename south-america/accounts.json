@@ -3385,12 +3385,21 @@
             "server_region": "south-america"
         },
         "64480344049594": {
+            "crew_history": [
+                "InterStellar"
+            ],
             "crew_id": 103079230106,
             "crew_name": "InterStellar",
             "equipping_title": "1_7_1_3",
             "gender": 0,
-            "hp": 2571318.75,
-            "last_seen": "Nov 02, 2025, 04:55:04 AM",
+            "hp": 3418176.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323293.9375,
+                "y": 202793.390625,
+                "z": -28343.279296875
+            },
+            "last_seen": "Mar 11, 2026, 10:51:26 PM",
             "level": 100,
             "name": "Reo098",
             "name_history": [
@@ -3446,6 +3455,31 @@
             ],
             "registered": "Nov 1, 2022, 4:28:02 AM",
             "role_id": 64480344088651,
+            "server_region": "south-america"
+        },
+        "64484638982168": {
+            "crew_history": [
+                "Aceldama"
+            ],
+            "crew_id": 356482300581,
+            "crew_name": "Aceldama",
+            "equipping_title": "Lune♥的启迪人,1",
+            "gender": 0,
+            "hp": 3473128.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324287.34375,
+                "y": 202727.234375,
+                "z": -28352.0703125
+            },
+            "last_seen": "Mar 11, 2026, 10:51:26 PM",
+            "level": 100,
+            "name": "JotsBel",
+            "name_history": [
+                "JotsBel"
+            ],
+            "registered": "Aug 10, 2022, 7:33:22 PM",
+            "role_id": 64484638982168,
             "server_region": "south-america"
         },
         "64484638984249": {
@@ -6909,7 +6943,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 407,
-    "last_updated": "Mar 11, 2026, 10:50:26 PM",
+    "accounts_total": 408,
+    "last_updated": "Mar 11, 2026, 10:51:26 PM",
     "server_region": "south-america"
 }
