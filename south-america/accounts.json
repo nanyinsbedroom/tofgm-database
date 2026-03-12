@@ -1453,14 +1453,14 @@
             "crew_name": "Stray",
             "equipping_title": "2_2_0_29",
             "gender": 0,
-            "hp": 3856272.75,
+            "hp": 2856272.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325836.1875,
-                "y": 201377.171875,
-                "z": -28339.259765625
+                "map": "QRSL_P",
+                "x": -54223.2890625,
+                "y": -88126.40625,
+                "z": 21717.548828125
             },
-            "last_seen": "Mar 10, 2026, 6:23:01 PM",
+            "last_seen": "Mar 11, 2026, 10:07:23 PM",
             "level": 100,
             "name": "Elantra",
             "name_history": [
@@ -3479,6 +3479,31 @@
             ],
             "registered": "Apr 7, 2023, 8:17:51 PM",
             "role_id": 64488934058238,
+            "server_region": "south-america"
+        },
+        "64493228923088": {
+            "crew_history": [
+                "Ragnarok"
+            ],
+            "crew_id": 352187333280,
+            "crew_name": "Ragnarok",
+            "equipping_title": "Overseas2_10",
+            "gender": 1,
+            "hp": 1684268.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53943.578125,
+                "y": -87784.28125,
+                "z": 21710.96875
+            },
+            "last_seen": "Mar 11, 2026, 10:07:23 PM",
+            "level": 100,
+            "name": "arzWarrior",
+            "name_history": [
+                "arzWarrior"
+            ],
+            "registered": "Aug 10, 2022, 9:58:30 PM",
+            "role_id": 64493228923088,
             "server_region": "south-america"
         },
         "64493228952970": {
@@ -6524,7 +6549,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 393,
-    "last_updated": "Mar 11, 2026, 10:06:23 PM",
+    "accounts_total": 394,
+    "last_updated": "Mar 11, 2026, 10:07:23 PM",
     "server_region": "south-america"
 }
