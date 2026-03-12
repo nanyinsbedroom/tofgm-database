@@ -497,12 +497,21 @@
             "server_region": "south-america"
         },
         "64433099405611": {
-            "crew_id": 3676492020378,
-            "crew_name": "TENGU",
+            "crew_history": [
+                "Cumunidad 3CM"
+            ],
+            "crew_id": 3964254829210,
+            "crew_name": "Cumunidad 3CM",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 2476495.0,
-            "last_seen": "Nov 20, 2025, 05:32:08 AM",
+            "hp": 2605950.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54119.91015625,
+                "y": -88067.21875,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 11, 2026, 10:15:24 PM",
             "level": 100,
             "name": "BlackNamekz",
             "name_history": [
@@ -3763,6 +3772,31 @@
             "role_id": 64493229100086,
             "server_region": "south-america"
         },
+        "64493229102162": {
+            "crew_history": [
+                "InterStellar"
+            ],
+            "crew_id": 103079230106,
+            "crew_name": "InterStellar",
+            "equipping_title": "Title_tencentshare_os_17",
+            "gender": 0,
+            "hp": 1879497.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 11, 2026, 10:15:24 PM",
+            "level": 100,
+            "name": "Yilne",
+            "name_history": [
+                "Yilne"
+            ],
+            "registered": "Sep 1, 2023, 8:01:13 PM",
+            "role_id": 64493229102162,
+            "server_region": "south-america"
+        },
         "64493229107521": {
             "crew_id": 511101123236,
             "crew_name": "Lotus Blossoms",
@@ -6599,7 +6633,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 396,
-    "last_updated": "Mar 11, 2026, 10:10:23 PM",
+    "accounts_total": 397,
+    "last_updated": "Mar 11, 2026, 10:15:24 PM",
     "server_region": "south-america"
 }
