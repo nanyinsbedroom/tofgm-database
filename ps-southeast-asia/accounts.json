@@ -713,12 +713,21 @@
             "server_region": "southeast_asia"
         },
         "8607118756227477": {
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
             "crew_id": 536872916001,
             "crew_name": "◥◣猛獸喵喵屋◢◤",
-            "equipping_title": "惢惢　的启迪人,1",
+            "equipping_title": "惢惢的后继者,1",
             "gender": 1,
-            "hp": 2484666.25,
-            "last_seen": "Nov 18, 2025, 10:33:55 AM",
+            "hp": 2568627.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55482.27734375,
+                "y": -88572.171875,
+                "z": 21724.46875
+            },
+            "last_seen": "Mar 12, 2026, 12:14:51 PM",
             "level": 100,
             "name": "酒魔",
             "name_history": [
@@ -1792,6 +1801,6 @@
         }
     },
     "accounts_total": 114,
-    "last_updated": "Mar 12, 2026, 12:11:51 PM",
+    "last_updated": "Mar 12, 2026, 12:14:51 PM",
     "server_region": "ps-southeast-asia"
 }
