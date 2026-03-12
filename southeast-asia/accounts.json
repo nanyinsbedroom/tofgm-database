@@ -7522,12 +7522,21 @@
             "server_region": "southeast-asia"
         },
         "68749541521474": {
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
             "equipping_title": "Title_iwshare_os_24",
             "gender": 1,
-            "hp": 1809309.0,
-            "last_seen": "Nov 07, 2025, 06:52:02 PM",
+            "hp": 2824630.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325364.96875,
+                "y": 199997.484375,
+                "z": -28335.798828125
+            },
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "ⓔⓛ",
             "name_history": [
@@ -7766,14 +7775,14 @@
             "crew_name": "REBIRTH",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 5972304.0,
+            "hp": 3033675.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 107452.578125,
-                "y": -183098.609375,
-                "z": -4633.1171875
+                "map": "JIUYU_P",
+                "x": -325453.0625,
+                "y": 200737.046875,
+                "z": -28343.529296875
             },
-            "last_seen": "Mar 5, 2026, 10:57:30 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "KianaxSirin",
             "name_history": [
@@ -13504,11 +13513,11 @@
             "hp": 3688862.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -320723.15625,
-                "y": 202377.390625,
-                "z": -27483.330078125
+                "x": -324273.5625,
+                "y": 201773.609375,
+                "z": -28333.958984375
             },
-            "last_seen": "Mar 11, 2026, 3:49:33 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "BoloDhewo",
             "name_history": [
@@ -13619,14 +13628,14 @@
             "crew_name": "OnlyFนN",
             "equipping_title": "1_1_21_1",
             "gender": 0,
-            "hp": 4251196.0,
+            "hp": 4221604.0,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -323556.40625,
-                "y": 202325.578125,
-                "z": -28322.849609375
+                "x": -325234.21875,
+                "y": 200140.671875,
+                "z": -28339.0390625
             },
-            "last_seen": "Mar 11, 2026, 8:10:54 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "pla ulti",
             "name_history": [
@@ -15049,14 +15058,14 @@
             "crew_name": "Lunar Exclaire",
             "equipping_title": "2_2_0_39",
             "gender": 0,
-            "hp": 3208362.5,
+            "hp": 3223640.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325990.15625,
-                "y": 205179.078125,
-                "z": -28294.689453125
+                "x": -325874.78125,
+                "y": 205056.15625,
+                "z": -28321.509765625
             },
-            "last_seen": "Mar 11, 2026, 9:26:24 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Valkyon",
             "name_history": [
@@ -16092,12 +16101,21 @@
             "server_region": "southeast-asia"
         },
         "68775311650376": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 6286749.0,
-            "last_seen": "Feb 9, 2026, 7:09:56 PM",
+            "hp": 3140407.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325436.5,
+                "y": 200054.4375,
+                "z": -28345.029296875
+            },
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Ajong",
             "name_history": [
@@ -26668,6 +26686,29 @@
             "role_id": 68775311761817,
             "server_region": "southeast-asia"
         },
+        "68775311761881": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_2_1",
+            "gender": 1,
+            "hp": 2078306.625,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326335.375,
+                "y": 199386.390625,
+                "z": -28356.55859375
+            },
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
+            "level": 94,
+            "name": "mounobi",
+            "name_history": [
+                "mounobi"
+            ],
+            "registered": "Feb 23, 2026, 1:19:46 PM",
+            "role_id": 68775311761881,
+            "server_region": "southeast-asia"
+        },
         "68775311761925": {
             "crew_history": [
                 "Oncilla"
@@ -27375,11 +27416,11 @@
             "hp": 3477497.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324913.21875,
-                "y": 204575.203125,
-                "z": -28323.990234375
+                "x": -325541.59375,
+                "y": 199844.640625,
+                "z": -28345.51953125
             },
-            "last_seen": "Mar 11, 2026, 8:10:54 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Nethergale",
             "name_history": [
@@ -29020,14 +29061,14 @@
             "crew_name": "REBIRTH",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2041289.0,
+            "hp": 2006876.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324359.21875,
-                "y": 203611.9375,
-                "z": -28305.931640625
+                "x": -325334.9375,
+                "y": 200574.40625,
+                "z": -28336.546875
             },
-            "last_seen": "Mar 10, 2026, 9:54:24 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Kamatarie",
             "name_history": [
@@ -29968,14 +30009,14 @@
             "crew_name": "Waifu",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 5933253.0,
+            "hp": 2962178.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101838.7265625,
-                "y": -183481.46875,
-                "z": -7856.26318359375
+                "map": "JIUYU_P",
+                "x": -325458.6875,
+                "y": 199947.53125,
+                "z": -28343.625
             },
-            "last_seen": "Mar 4, 2026, 9:09:31 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Throne@6017",
             "name_history": [
@@ -30639,14 +30680,14 @@
             "crew_name": "Fairy Tail",
             "equipping_title": "1_7_1_3",
             "gender": 0,
-            "hp": 2405323.75,
+            "hp": 3447569.75,
             "last_known_position": {
-                "map": "OriginWar_D",
-                "x": 1600.0,
-                "y": -100.0,
-                "z": -21.889999389648438
+                "map": "JIUYU_P",
+                "x": -323765.71875,
+                "y": 203492.0,
+                "z": -28313.81640625
             },
-            "last_seen": "Mar 11, 2026, 8:15:55 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "Viddie A.",
             "name_history": [
@@ -31583,14 +31624,14 @@
             "crew_name": "Phantasia ",
             "equipping_title": "Title_tencentshare_os_12",
             "gender": 1,
-            "hp": 2691801.25,
+            "hp": 3691801.25,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": -71015.828125,
-                "y": -28528.689453125,
-                "z": 11425.2197265625
+                "map": "JIUYU_P",
+                "x": -325755.21875,
+                "y": 200801.046875,
+                "z": -28336.029296875
             },
-            "last_seen": "Mar 11, 2026, 12:15:58 PM",
+            "last_seen": "Mar 12, 2026, 7:47:17 PM",
             "level": 100,
             "name": "❀Yuukarin❀",
             "name_history": [
@@ -33453,7 +33494,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2130,
-    "last_updated": "Mar 12, 2026, 7:46:17 PM",
+    "accounts_total": 2131,
+    "last_updated": "Mar 12, 2026, 7:47:17 PM",
     "server_region": "southeast-asia"
 }
