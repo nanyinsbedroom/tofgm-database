@@ -13533,6 +13533,31 @@
             "role_id": 68771016419353,
             "server_region": "southeast-asia"
         },
+        "68771016419361": {
+            "crew_history": [
+                "Guardian"
+            ],
+            "crew_id": 184683609733,
+            "crew_name": "Guardian",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1838706.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55595.1875,
+                "y": -88399.25,
+                "z": 21711.009765625
+            },
+            "last_seen": "Mar 12, 2026, 10:12:10 PM",
+            "level": 100,
+            "name": "NoxEternus",
+            "name_history": [
+                "NoxEternus"
+            ],
+            "registered": "Aug 14, 2022, 2:28:08 PM",
+            "role_id": 68771016419361,
+            "server_region": "southeast-asia"
+        },
         "68771016421090": {
             "crew_id": 468151451274,
             "crew_name": "Oncilla",
@@ -25966,6 +25991,31 @@
             "role_id": 68775311758872,
             "server_region": "southeast-asia"
         },
+        "68775311758906": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
+            "crew_id": 201863478913,
+            "crew_name": "Solo Play PH",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 756429.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53242.5,
+                "y": -87845.3984375,
+                "z": 21732.048828125
+            },
+            "last_seen": "Mar 12, 2026, 10:12:10 PM",
+            "level": 98,
+            "name": "Justine",
+            "name_history": [
+                "Justine"
+            ],
+            "registered": "Dec 2, 2025, 10:14:44 PM",
+            "role_id": 68775311758906,
+            "server_region": "southeast-asia"
+        },
         "68775311759206": {
             "crew_history": [
                 "Lunar Exclaire"
@@ -30174,14 +30224,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2236212.0,
+            "hp": 2163231.5,
             "last_known_position": {
-                "map": "city",
-                "x": 924.5,
-                "y": -23785.798828125,
-                "z": 98625.65625
+                "map": "QRSL_P",
+                "x": -55521.69921875,
+                "y": -88523.0,
+                "z": 21731.099609375
             },
-            "last_seen": "Mar 9, 2026, 7:54:17 PM",
+            "last_seen": "Mar 12, 2026, 10:12:10 PM",
             "level": 100,
             "name": "ชื่อม่อนคับอ้วน",
             "name_history": [
@@ -30272,14 +30322,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 2444479.75,
+            "hp": 2446944.5,
             "last_known_position": {
-                "map": "city",
-                "x": -332.4700012207031,
-                "y": -16650.919921875,
-                "z": 96362.0390625
+                "map": "QRSL_P",
+                "x": -55521.69921875,
+                "y": -88523.0,
+                "z": 21710.91015625
             },
-            "last_seen": "Mar 9, 2026, 8:19:27 PM",
+            "last_seen": "Mar 12, 2026, 10:12:10 PM",
             "level": 100,
             "name": "Anelia",
             "name_history": [
@@ -32356,12 +32406,19 @@
             "server_region": "southeast-asia"
         },
         "68805376089686": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1410603.5,
-            "last_seen": "Nov 07, 2025, 06:32:59 PM",
+            "hp": 1464604.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53855.48828125,
+                "y": -87886.6796875,
+                "z": 21721.87890625
+            },
+            "last_seen": "Mar 12, 2026, 10:12:10 PM",
             "level": 100,
             "name": "ラスタ1394$",
             "name_history": [
@@ -33736,7 +33793,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2137,
-    "last_updated": "Mar 12, 2026, 10:11:10 PM",
+    "accounts_total": 2139,
+    "last_updated": "Mar 12, 2026, 10:12:10 PM",
     "server_region": "southeast-asia"
 }
