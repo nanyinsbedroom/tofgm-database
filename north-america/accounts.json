@@ -1415,12 +1415,21 @@
             "server_region": "north-america"
         },
         "51552492543021": {
+            "crew_history": [
+                "SH✪✪OOTING ST☆R"
+            ],
             "crew_id": 7524782714613,
             "crew_name": "SH✪✪OOTING ST☆R",
             "equipping_title": "EimiKurai的学徒,0",
             "gender": 1,
-            "hp": 2346230.5,
-            "last_seen": "Nov 09, 2025, 02:35:22 AM",
+            "hp": 3629964.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325606.0625,
+                "y": 204891.53125,
+                "z": -28341.740234375
+            },
+            "last_seen": "Mar 11, 2026, 9:04:54 PM",
             "level": 100,
             "name": "Coffee250",
             "name_history": [
@@ -6020,12 +6029,21 @@
             "server_region": "north-america"
         },
         "51599737139243": {
+            "crew_history": [
+                "Grand Order"
+            ],
             "crew_id": 1056561966818,
             "crew_name": "Grand Order",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 0,
-            "hp": 2801207.5,
-            "last_seen": "Nov 22, 2025, 02:34:36 AM",
+            "hp": 3753982.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324433.15625,
+                "y": 204591.71875,
+                "z": -28346.0
+            },
+            "last_seen": "Mar 11, 2026, 9:04:54 PM",
             "level": 100,
             "name": "GaoGaiGar",
             "name_history": [
@@ -8003,6 +8021,31 @@
             ],
             "registered": "Aug 20, 2022, 3:53:18 PM",
             "role_id": 51625506987315,
+            "server_region": "north-america"
+        },
+        "51625506992296": {
+            "crew_history": [
+                "SH✪✪OOTING ST☆R"
+            ],
+            "crew_id": 7524782714613,
+            "crew_name": "SH✪✪OOTING ST☆R",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2924779.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323525.6875,
+                "y": 203369.921875,
+                "z": -28333.939453125
+            },
+            "last_seen": "Mar 11, 2026, 9:04:54 PM",
+            "level": 100,
+            "name": "Deiver. ",
+            "name_history": [
+                "Deiver. "
+            ],
+            "registered": "Aug 27, 2022, 8:31:55 PM",
+            "role_id": 51625506992296,
             "server_region": "north-america"
         },
         "51625507002439": {
@@ -16872,7 +16915,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 1020,
-    "last_updated": "Mar 11, 2026, 9:03:53 PM",
+    "accounts_total": 1021,
+    "last_updated": "Mar 11, 2026, 9:04:54 PM",
     "server_region": "north-america"
 }
