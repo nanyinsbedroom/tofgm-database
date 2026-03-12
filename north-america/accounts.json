@@ -7333,11 +7333,26 @@
             "server_region": "north-america"
         },
         "51625506901318": {
+            "crew_history": [
+                "Sovereign"
+            ],
             "crew_id": 4294979298,
             "crew_name": "Sovereign",
+            "equipping_title": "2_2_0_65",
             "gender": 1,
-            "last_seen": "Sep 13, 2025, 12:12:55 AM",
+            "hp": 4253317.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325624.34375,
+                "y": 204801.4375,
+                "z": -28334.740234375
+            },
+            "last_seen": "Mar 11, 2026, 8:02:50 PM",
+            "level": 100,
             "name": "eRazerズ",
+            "name_history": [
+                "eRazerズ"
+            ],
             "registered": "Aug 10, 2022, 10:29:05 PM",
             "role_id": 51625506901318,
             "server_region": "north-america"
@@ -7566,14 +7581,14 @@
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "2_2_0_63",
             "gender": 0,
-            "hp": 3715892.5,
+            "hp": 3163036.25,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325797.375,
-                "y": 205148.671875,
-                "z": -28326.939453125
+                "x": -326930.3125,
+                "y": 205130.28125,
+                "z": -28043.46875
             },
-            "last_seen": "Mar 11, 2026, 6:53:45 PM",
+            "last_seen": "Mar 11, 2026, 8:02:50 PM",
             "level": 100,
             "name": "Nitefox",
             "name_history": [
@@ -16117,6 +16132,6 @@
         }
     },
     "accounts_total": 993,
-    "last_updated": "Mar 11, 2026, 8:01:50 PM",
+    "last_updated": "Mar 11, 2026, 8:02:50 PM",
     "server_region": "north-america"
 }
