@@ -28743,12 +28743,21 @@
             "server_region": "southeast-asia"
         },
         "68783901337292": {
+            "crew_history": [
+                "Fairy Tail"
+            ],
             "crew_id": 365072236176,
             "crew_name": "Fairy Tail",
             "equipping_title": "2_8_0_3",
             "gender": 1,
-            "hp": 2292826.5,
-            "last_seen": "Nov 07, 2025, 07:29:07 PM",
+            "hp": 3525357.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324520.5,
+                "y": 204582.171875,
+                "z": -28344.5390625
+            },
+            "last_seen": "Mar 12, 2026, 1:11:44 PM",
             "level": 100,
             "name": "Camomile",
             "name_history": [
@@ -32435,14 +32444,14 @@
             "crew_name": "Origin",
             "equipping_title": "1_6_0_1",
             "gender": 1,
-            "hp": 3117076.75,
+            "hp": 3117076.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325349.4375,
-                "y": 204854.078125,
-                "z": -28348.240234375
+                "x": -324238.40625,
+                "y": 202188.140625,
+                "z": -28363.0703125
             },
-            "last_seen": "Mar 12, 2026, 12:38:47 PM",
+            "last_seen": "Mar 12, 2026, 1:11:44 PM",
             "level": 100,
             "name": "tortol ♥",
             "name_history": [
@@ -33377,6 +33386,6 @@
         }
     },
     "accounts_total": 2129,
-    "last_updated": "Mar 12, 2026, 1:02:43 PM",
+    "last_updated": "Mar 12, 2026, 1:11:44 PM",
     "server_region": "southeast-asia"
 }
