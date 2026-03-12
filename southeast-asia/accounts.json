@@ -7106,19 +7106,29 @@
             "server_region": "southeast-asia"
         },
         "68745246577138": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1824080.75,
-            "last_seen": "Nov 10, 2025, 08:12:05 PM",
+            "hp": 1949176.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53640.5390625,
+                "y": -88118.7890625,
+                "z": 21725.939453125
+            },
+            "last_seen": "Mar 12, 2026, 12:23:52 PM",
             "level": 100,
             "name": "Freddy_Fornix",
             "name_history": [
                 "Freddy_Fornix"
             ],
             "registered": "Aug 12, 2022, 1:53:56 PM",
-            "role_id": 68745246577138
+            "role_id": 68745246577138,
+            "server_region": "southeast-asia"
         },
         "68745246580672": {
             "crew_id": 0,
@@ -16673,12 +16683,21 @@
             "server_region": "southeast-asia"
         },
         "68775311691213": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
             "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 2046975.5,
-            "last_seen": "Feb 7, 2026, 6:47:32 PM",
+            "hp": 2319982.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52649.328125,
+                "y": -84757.21875,
+                "z": 21938.98046875
+            },
+            "last_seen": "Mar 12, 2026, 12:23:52 PM",
             "level": 100,
             "name": "Dhenok",
             "name_history": [
@@ -33275,6 +33294,6 @@
         }
     },
     "accounts_total": 2128,
-    "last_updated": "Mar 12, 2026, 12:22:52 PM",
+    "last_updated": "Mar 12, 2026, 12:23:52 PM",
     "server_region": "southeast-asia"
 }
