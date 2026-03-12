@@ -663,6 +663,31 @@
             "role_id": 8602823788880662,
             "server_region": "ps-east-asia"
         },
+        "8602823788882943": {
+            "crew_history": [
+                "独りぼっち。"
+            ],
+            "crew_id": 94491283514,
+            "crew_name": "独りぼっち。",
+            "equipping_title": "2_12_1_1",
+            "gender": 1,
+            "hp": 2839341.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55326.16015625,
+                "y": -88530.0390625,
+                "z": 21709.81640625
+            },
+            "last_seen": "Mar 12, 2026, 8:24:10 PM",
+            "level": 100,
+            "name": "リルム",
+            "name_history": [
+                "リルム"
+            ],
+            "registered": "Aug 16, 2023, 12:02:21 PM",
+            "role_id": 8602823788882943,
+            "server_region": "ps-east-asia"
+        },
         "8602823788885373": {
             "crew_history": [],
             "crew_id": 0,
@@ -1656,6 +1681,31 @@
             ],
             "registered": "Jul 27, 2024, 11:29:46 PM",
             "role_id": 8602823788964539,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788964566": {
+            "crew_history": [
+                "初心者の場所"
+            ],
+            "crew_id": 3680788975674,
+            "crew_name": "初心者の場所",
+            "equipping_title": "2_2_0_18",
+            "gender": 1,
+            "hp": 2594515.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54386.5,
+                "y": -88060.375,
+                "z": 21710.96875
+            },
+            "last_seen": "Mar 12, 2026, 8:24:10 PM",
+            "level": 100,
+            "name": "ルルカの呪い茶漬け",
+            "name_history": [
+                "ルルカの呪い茶漬け"
+            ],
+            "registered": "Jul 28, 2024, 8:48:31 PM",
+            "role_id": 8602823788964566,
             "server_region": "ps-east-asia"
         },
         "8602823788966004": {
@@ -4779,12 +4829,21 @@
             "server_region": "ps-east-asia"
         },
         "8602828083846439": {
+            "crew_history": [
+                "のんじょい"
+            ],
             "crew_id": 936304873530,
             "crew_name": "のんじょい",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1461867.0,
-            "last_seen": "Nov 17, 2025, 04:31:49 PM",
+            "hp": 1485957.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54185.890625,
+                "y": -92322.7578125,
+                "z": 21732.26953125
+            },
+            "last_seen": "Mar 12, 2026, 8:24:10 PM",
             "level": 100,
             "name": "獅子心王",
             "name_history": [
@@ -6243,7 +6302,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 298,
-    "last_updated": "Mar 12, 2026, 8:23:10 PM",
+    "accounts_total": 300,
+    "last_updated": "Mar 12, 2026, 8:24:10 PM",
     "server_region": "ps-east-asia"
 }
