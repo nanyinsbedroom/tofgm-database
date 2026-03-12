@@ -1,12 +1,21 @@
 {
     "accounts": {
         "51543902519794": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 803158896357,
             "crew_name": "Solstice",
             "equipping_title": "2_5_0_6",
             "gender": 0,
-            "hp": 2079406.25,
-            "last_seen": "Nov 01, 2025, 07:31:56 PM",
+            "hp": 2171285.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.484375,
+                "z": 21825.9296875
+            },
+            "last_seen": "Mar 11, 2026, 8:03:50 PM",
             "level": 100,
             "name": "Hurpy",
             "name_history": [
@@ -1720,14 +1729,14 @@
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "3_2022",
             "gender": 0,
-            "hp": 2567597.5,
+            "hp": 2567596.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55098.19140625,
-                "y": -87697.6875,
-                "z": 22023.7109375
+                "x": -55053.15234375,
+                "y": -87701.640625,
+                "z": 21724.94921875
             },
-            "last_seen": "Mar 10, 2026, 12:02:13 PM",
+            "last_seen": "Mar 11, 2026, 8:03:50 PM",
             "level": 100,
             "name": "Enjuno",
             "name_history": [
@@ -6550,12 +6559,21 @@
             "server_region": "north-america"
         },
         "51612622033208": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 296352755429,
             "crew_name": "Origin",
-            "equipping_title": "3_2022",
+            "equipping_title": "2_5_0_5",
             "gender": 0,
-            "hp": 2702028.25,
-            "last_seen": "Nov 16, 2025, 11:29:23 AM",
+            "hp": 2901213.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53743.9296875,
+                "y": -88097.4609375,
+                "z": 21724.458984375
+            },
+            "last_seen": "Mar 11, 2026, 8:03:50 PM",
             "level": 100,
             "name": "✿Requiem✿",
             "name_history": [
@@ -13229,6 +13247,31 @@
             "role_id": 51629802377294,
             "server_region": "north-america"
         },
+        "51629802377338": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 1022202228456,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 916587.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55668.55859375,
+                "y": -88544.9375,
+                "z": 21721.87890625
+            },
+            "last_seen": "Mar 11, 2026, 8:03:50 PM",
+            "level": 81,
+            "name": "Bean.",
+            "name_history": [
+                "Bean."
+            ],
+            "registered": "Feb 15, 2026, 3:47:56 PM",
+            "role_id": 51629802377338,
+            "server_region": "north-america"
+        },
         "51629802377956": {
             "crew_history": [],
             "crew_id": 0,
@@ -16131,7 +16174,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 993,
-    "last_updated": "Mar 11, 2026, 8:02:50 PM",
+    "accounts_total": 994,
+    "last_updated": "Mar 11, 2026, 8:03:50 PM",
     "server_region": "north-america"
 }
