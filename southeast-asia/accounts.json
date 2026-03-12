@@ -6174,12 +6174,21 @@
             "server_region": "southeast-asia"
         },
         "68740951599301": {
+            "crew_history": [
+                "Phantasia "
+            ],
             "crew_id": 34359754369,
             "crew_name": "Phantasia ",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 6148984.5,
-            "last_seen": "Jan 02, 2026, 05:09:27 AM",
+            "hp": 3157600.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324523.5,
+                "y": 203898.390625,
+                "z": -28347.779296875
+            },
+            "last_seen": "Mar 12, 2026, 10:25:11 PM",
             "level": 100,
             "name": "ChaosTheVoid",
             "name_history": [
@@ -18786,6 +18795,31 @@
             "name": "raymech",
             "registered": "Apr 17, 2025, 2:51:40 AM",
             "role_id": 68775311731981,
+            "server_region": "southeast-asia"
+        },
+        "68775311732059": {
+            "crew_history": [
+                "ALLSTAR"
+            ],
+            "crew_id": 154618838659,
+            "crew_name": "ALLSTAR",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2503073.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325740.5,
+                "y": 204862.59375,
+                "z": -28340.240234375
+            },
+            "last_seen": "Mar 12, 2026, 10:25:11 PM",
+            "level": 100,
+            "name": "Dra",
+            "name_history": [
+                "Dra"
+            ],
+            "registered": "Apr 18, 2025, 1:45:46 AM",
+            "role_id": 68775311732059,
             "server_region": "southeast-asia"
         },
         "68775311732099": {
@@ -33843,7 +33877,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2140,
-    "last_updated": "Mar 12, 2026, 10:24:11 PM",
+    "accounts_total": 2141,
+    "last_updated": "Mar 12, 2026, 10:25:11 PM",
     "server_region": "southeast-asia"
 }
