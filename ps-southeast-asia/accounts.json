@@ -396,17 +396,29 @@
             "server_region": "southeast_asia"
         },
         "8607118756171406": {
+            "crew_history": [
+                "异环"
+            ],
             "crew_id": 807455855649,
             "crew_name": "异环",
-            "equipping_title": "1_8_1_1",
+            "equipping_title": "貝絲的后继者,1",
             "gender": 1,
-            "hp": 2587916.75,
-            "last_seen": "Oct 30, 2025, 06:09:28 PM",
+            "hp": 2518449.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53816.05859375,
+                "y": -87884.8359375,
+                "z": 21722.87890625
+            },
+            "last_seen": "Mar 12, 2026, 4:09:09 PM",
             "level": 100,
             "name": "soulm",
+            "name_history": [
+                "soulm"
+            ],
             "registered": "Aug 12, 2023, 4:59:10 PM",
             "role_id": 8607118756171406,
-            "server_region": "southeast_asia"
+            "server_region": "ps-southeast-asia"
         },
         "8607118756172777": {
             "crew_history": [
@@ -1874,6 +1886,6 @@
         }
     },
     "accounts_total": 117,
-    "last_updated": "Mar 12, 2026, 4:04:08 PM",
+    "last_updated": "Mar 12, 2026, 4:09:09 PM",
     "server_region": "ps-southeast-asia"
 }
