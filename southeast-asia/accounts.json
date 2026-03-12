@@ -30091,11 +30091,26 @@
             "server_region": "southeast-asia"
         },
         "68792491225204": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "CASTLE"
+            ],
+            "crew_id": 206158446212,
+            "crew_name": "CASTLE",
+            "equipping_title": "3_2022",
             "gender": 1,
-            "last_seen": "Sep 30, 2025, 06:37:25 PM",
+            "hp": 3462663.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324148.40625,
+                "y": 201693.59375,
+                "z": -28215.19921875
+            },
+            "last_seen": "Mar 12, 2026, 7:46:17 PM",
+            "level": 100,
             "name": "โลกลืมฉัน",
+            "name_history": [
+                "โลกลืมฉัน"
+            ],
             "registered": "Aug 13, 2022, 4:55:39 PM",
             "role_id": 68792491225204,
             "server_region": "southeast-asia"
@@ -33439,6 +33454,6 @@
         }
     },
     "accounts_total": 2130,
-    "last_updated": "Mar 12, 2026, 3:55:08 PM",
+    "last_updated": "Mar 12, 2026, 7:46:17 PM",
     "server_region": "southeast-asia"
 }
