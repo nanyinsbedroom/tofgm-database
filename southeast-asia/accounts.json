@@ -3026,12 +3026,21 @@
             "server_region": "southeast-asia"
         },
         "68732361665806": {
+            "crew_history": [
+                "Luminous"
+            ],
             "crew_id": 1662152359567,
             "crew_name": "Luminous",
-            "equipping_title": "Title_HalfAnniversary_os_2",
+            "equipping_title": "2_2_0_53",
             "gender": 1,
-            "hp": 2224010.0,
-            "last_seen": "Nov 04, 2025, 01:21:58 AM",
+            "hp": 3385195.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324864.84375,
+                "y": 204001.703125,
+                "z": -28347.779296875
+            },
+            "last_seen": "Mar 12, 2026, 10:24:11 PM",
             "level": 100,
             "name": "Hukgirl",
             "name_history": [
@@ -33835,6 +33844,6 @@
         }
     },
     "accounts_total": 2140,
-    "last_updated": "Mar 12, 2026, 10:23:11 PM",
+    "last_updated": "Mar 12, 2026, 10:24:11 PM",
     "server_region": "southeast-asia"
 }
