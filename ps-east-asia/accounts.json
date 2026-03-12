@@ -5565,12 +5565,21 @@
             "server_region": "ps-east-asia"
         },
         "8602828083866605": {
+            "crew_history": [
+                "初心者の場所"
+            ],
             "crew_id": 3680788975674,
             "crew_name": "初心者の場所",
-            "equipping_title": "1_10_0_2",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2897786.0,
-            "last_seen": "Nov 18, 2025, 06:05:01 PM",
+            "hp": 2774297.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55215.16015625,
+                "y": -86872.1015625,
+                "z": 21710.958984375
+            },
+            "last_seen": "Mar 12, 2026, 10:05:12 PM",
             "level": 100,
             "name": "ウンデカン",
             "name_history": [
@@ -5886,6 +5895,29 @@
             ],
             "registered": "Sep 4, 2023, 9:24:07 PM",
             "role_id": 8602828083889153,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083889622": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1275466.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 12, 2026, 10:05:12 PM",
+            "level": 100,
+            "name": "パメラ",
+            "name_history": [
+                "パメラ"
+            ],
+            "registered": "Sep 5, 2023, 11:44:58 PM",
+            "role_id": 8602828083889622,
             "server_region": "ps-east-asia"
         },
         "8602828083891453": {
@@ -6763,7 +6795,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 319,
-    "last_updated": "Mar 12, 2026, 10:04:12 PM",
+    "accounts_total": 320,
+    "last_updated": "Mar 12, 2026, 10:05:12 PM",
     "server_region": "ps-east-asia"
 }
