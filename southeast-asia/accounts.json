@@ -25833,13 +25833,22 @@
             "server_region": "southeast-asia"
         },
         "68775311757499": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
             "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 860116.5,
-            "last_seen": "Dec 28, 2025, 11:15:10 PM",
-            "level": 99,
+            "hp": 2088037.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324753.28125,
+                "y": 200980.703125,
+                "z": -28337.029296875
+            },
+            "last_seen": "Mar 12, 2026, 10:34:11 PM",
+            "level": 100,
             "name": "Shiina",
             "name_history": [
                 "Shiina"
@@ -33937,6 +33946,6 @@
         }
     },
     "accounts_total": 2143,
-    "last_updated": "Mar 12, 2026, 10:30:11 PM",
+    "last_updated": "Mar 12, 2026, 10:34:11 PM",
     "server_region": "southeast-asia"
 }
