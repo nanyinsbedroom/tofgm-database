@@ -3613,12 +3613,21 @@
             "server_region": "north-america"
         },
         "51573967380914": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 1022202228456,
             "crew_name": "Nyne Lives",
-            "equipping_title": "2_2_0_21",
+            "equipping_title": "2_2_0_29",
             "gender": 1,
-            "hp": 2006637.25,
-            "last_seen": "Nov 24, 2025, 07:07:07 PM",
+            "hp": 3043289.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325064.9375,
+                "y": 204402.390625,
+                "z": -28316.0
+            },
+            "last_seen": "Mar 11, 2026, 9:05:54 PM",
             "level": 100,
             "name": "Little Candy",
             "name_history": [
@@ -4926,12 +4935,21 @@
             "server_region": "north-america"
         },
         "51586852199212": {
+            "crew_history": [
+                "Void Knights"
+            ],
             "crew_id": 6034429062889,
             "crew_name": "Void Knights",
-            "equipping_title": "1_3_1_5",
+            "equipping_title": "1_6_3_1",
             "gender": 1,
-            "hp": 2087311.5,
-            "last_seen": "Nov 02, 2025, 01:01:35 AM",
+            "hp": 3175058.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324072.84375,
+                "y": 199733.453125,
+                "z": -28329.3203125
+            },
+            "last_seen": "Mar 11, 2026, 9:05:54 PM",
             "level": 100,
             "name": "Miriam#i",
             "name_history": [
@@ -7167,6 +7185,31 @@
             "role_id": 51616916982730,
             "server_region": "north-america"
         },
+        "51616916988175": {
+            "crew_history": [
+                "Myst Academy"
+            ],
+            "crew_id": 5914169978601,
+            "crew_name": "Myst Academy",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2530996.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324783.59375,
+                "y": 201624.46875,
+                "z": -28320.0703125
+            },
+            "last_seen": "Mar 11, 2026, 9:05:54 PM",
+            "level": 100,
+            "name": "YuujiYami ",
+            "name_history": [
+                "YuujiYami "
+            ],
+            "registered": "Aug 11, 2022, 8:49:00 AM",
+            "role_id": 51616916988175,
+            "server_region": "north-america"
+        },
         "51616916993668": {
             "crew_id": 3929895087858,
             "crew_name": "Hikikomori",
@@ -8299,6 +8342,31 @@
             ],
             "registered": "Aug 15, 2022, 11:01:23 AM",
             "role_id": 51629801948930,
+            "server_region": "north-america"
+        },
+        "51629801950698": {
+            "crew_history": [
+                "Eva06"
+            ],
+            "crew_id": 13477607386869,
+            "crew_name": "Eva06",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 1285549.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326591.65625,
+                "y": 199346.46875,
+                "z": -28352.0703125
+            },
+            "last_seen": "Mar 11, 2026, 9:05:54 PM",
+            "level": 100,
+            "name": "LIA98",
+            "name_history": [
+                "LIA98"
+            ],
+            "registered": "Aug 15, 2022, 6:22:56 PM",
+            "role_id": 51629801950698,
             "server_region": "north-america"
         },
         "51629801951320": {
@@ -16915,7 +16983,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 1021,
-    "last_updated": "Mar 11, 2026, 9:04:54 PM",
+    "accounts_total": 1023,
+    "last_updated": "Mar 11, 2026, 9:05:54 PM",
     "server_region": "north-america"
 }
