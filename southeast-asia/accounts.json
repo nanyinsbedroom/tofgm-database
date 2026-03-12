@@ -3036,14 +3036,26 @@
             "server_region": "southeast-asia"
         },
         "68732361674176": {
+            "crew_history": [
+                "Tea Party"
+            ],
             "crew_id": 386547072645,
             "crew_name": "Tea Party",
-            "equipping_title": "3_2022",
+            "equipping_title": "2_2_0_45",
             "gender": 1,
-            "hp": 1910768.5,
-            "last_seen": "Oct 28, 2025, 06:25:40 PM",
+            "hp": 2870220.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -326108.125,
+                "y": 204310.53125,
+                "z": -28334.33984375
+            },
+            "last_seen": "Mar 12, 2026, 1:33:45 PM",
             "level": 100,
             "name": "Shizu_Raiku",
+            "name_history": [
+                "Shizu_Raiku"
+            ],
             "registered": "Aug 12, 2022, 1:27:07 AM",
             "role_id": 68732361674176,
             "server_region": "southeast-asia"
@@ -33409,6 +33421,6 @@
         }
     },
     "accounts_total": 2130,
-    "last_updated": "Mar 12, 2026, 1:30:45 PM",
+    "last_updated": "Mar 12, 2026, 1:33:45 PM",
     "server_region": "southeast-asia"
 }
