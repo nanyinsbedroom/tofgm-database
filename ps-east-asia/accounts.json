@@ -934,19 +934,20 @@
             ],
             "crew_id": 3831112831033,
             "crew_name": "踊る明星",
-            "equipping_title": "ユパ's Enlightener,1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 2799533.25,
+            "hp": 2962205.25,
             "last_known_position": {
-                "map": "city",
-                "x": -1237.219970703125,
-                "y": -25783.6796875,
-                "z": 96706.9453125
+                "map": "QRSL_P",
+                "x": -55458.9375,
+                "y": -88560.65625,
+                "z": 21710.919921875
             },
-            "last_seen": "Feb 14, 2026, 7:25:33 PM",
+            "last_seen": "Mar 12, 2026, 8:04:09 PM",
             "level": 100,
-            "name": "篝　",
+            "name": "クレア　",
             "name_history": [
+                "クレア　",
                 "篝　"
             ],
             "registered": "Oct 24, 2023, 10:03:48 PM",
@@ -2031,6 +2032,31 @@
             ],
             "registered": "Aug 8, 2025, 4:56:20 PM",
             "role_id": 8602823788994440,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788994832": {
+            "crew_history": [
+                "初心者の場所"
+            ],
+            "crew_id": 3680788975674,
+            "crew_name": "初心者の場所",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2062967.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55263.76953125,
+                "y": -88570.21875,
+                "z": 21717.388671875
+            },
+            "last_seen": "Mar 12, 2026, 8:04:09 PM",
+            "level": 100,
+            "name": "月乃羽",
+            "name_history": [
+                "月乃羽"
+            ],
+            "registered": "Aug 10, 2025, 1:01:27 PM",
+            "role_id": 8602823788994832,
             "server_region": "ps-east-asia"
         },
         "8602823788995898": {
@@ -3928,12 +3954,21 @@
             "server_region": "ps-east-asia"
         },
         "8602828083841189": {
+            "crew_history": [
+                "ちはやふる"
+            ],
             "crew_id": 511103111226,
             "crew_name": "ちはやふる",
             "equipping_title": "1_8_0_12",
             "gender": 0,
-            "hp": 2768560.75,
-            "last_seen": "Nov 18, 2025, 06:03:01 PM",
+            "hp": 3132255.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54842.87890625,
+                "y": -86849.1953125,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 12, 2026, 8:04:09 PM",
             "level": 100,
             "name": "夕凪(PS版)",
             "name_history": [
@@ -4148,6 +4183,29 @@
             ],
             "registered": "Aug 11, 2023, 5:20:00 AM",
             "role_id": 8602828083854753,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083856152": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_3_1",
+            "gender": 1,
+            "hp": 1845850.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54618.35546875,
+                "y": -88188.8359375,
+                "z": 21725.01953125
+            },
+            "last_seen": "Mar 12, 2026, 8:04:09 PM",
+            "level": 100,
+            "name": "霧風",
+            "name_history": [
+                "霧風"
+            ],
+            "registered": "Aug 11, 2023, 2:36:17 PM",
+            "role_id": 8602828083856152,
             "server_region": "ps-east-asia"
         },
         "8602828083857528": {
@@ -5328,7 +5386,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 261,
-    "last_updated": "Mar 12, 2026, 8:03:09 PM",
+    "accounts_total": 263,
+    "last_updated": "Mar 12, 2026, 8:04:09 PM",
     "server_region": "ps-east-asia"
 }
