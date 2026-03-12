@@ -180,11 +180,11 @@
             "hp": 2591249.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55531.00390625,
-                "y": -88795.375,
-                "z": 21725.0
+                "x": -54520.48828125,
+                "y": -88044.6796875,
+                "z": 21724.94921875
             },
-            "last_seen": "Mar 12, 2026, 12:02:27 PM",
+            "last_seen": "Mar 12, 2026, 12:05:48 PM",
             "level": 100,
             "name": "玲奈",
             "name_history": [
@@ -729,6 +729,31 @@
             ],
             "registered": "Apr 26, 2025, 1:13:28 AM",
             "role_id": 8602823788980766,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788981286": {
+            "crew_history": [
+                "クラブセブン"
+            ],
+            "crew_id": 25771806777,
+            "crew_name": "クラブセブン",
+            "equipping_title": "HuntingRank_1;imitation_32;2",
+            "gender": 0,
+            "hp": 2110625.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55426.23046875,
+                "y": -88521.5546875,
+                "z": 21705.87890625
+            },
+            "last_seen": "Mar 12, 2026, 12:05:48 PM",
+            "level": 100,
+            "name": "アーメス＝ルシカ",
+            "name_history": [
+                "アーメス＝ルシカ"
+            ],
+            "registered": "May 4, 2025, 7:16:05 PM",
+            "role_id": 8602823788981286,
             "server_region": "ps-east-asia"
         },
         "8602823788982103": {
@@ -2049,6 +2074,31 @@
             "role_id": 8602828083864775,
             "server_region": "ps-east-asia"
         },
+        "8602828083865361": {
+            "crew_history": [
+                "エビカニ"
+            ],
+            "crew_id": 12886904890,
+            "crew_name": "エビカニ",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1831310.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54892.3671875,
+                "y": -86907.1796875,
+                "z": 21710.98046875
+            },
+            "last_seen": "Mar 12, 2026, 12:05:48 PM",
+            "level": 100,
+            "name": "紫暮れん",
+            "name_history": [
+                "紫暮れん"
+            ],
+            "registered": "Aug 14, 2023, 12:14:28 AM",
+            "role_id": 8602828083865361,
+            "server_region": "ps-east-asia"
+        },
         "8602828083866605": {
             "crew_id": 3680788975674,
             "crew_name": "初心者の場所",
@@ -2273,6 +2323,29 @@
             ],
             "registered": "Dec 5, 2023, 7:35:15 PM",
             "role_id": 8602828083907034,
+            "server_region": "ps-east-asia"
+        },
+        "8602832378790878": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 1661600.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54132.47265625,
+                "y": -87610.5234375,
+                "z": 21731.544921875
+            },
+            "last_seen": "Mar 12, 2026, 12:05:48 PM",
+            "level": 100,
+            "name": "ヨオリ",
+            "name_history": [
+                "ヨオリ"
+            ],
+            "registered": "Mar 13, 2024, 12:53:31 PM",
+            "role_id": 8602832378790878,
             "server_region": "ps-east-asia"
         },
         "8602832378804616": {
@@ -2516,7 +2589,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 148,
-    "last_updated": "Mar 12, 2026, 12:04:48 PM",
+    "accounts_total": 151,
+    "last_updated": "Mar 12, 2026, 12:05:48 PM",
     "server_region": "ps-east-asia"
 }
