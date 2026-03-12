@@ -1633,12 +1633,21 @@
             "server_region": "southeast-asia"
         },
         "68728066687966": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
-            "equipping_title": "3_2022",
+            "equipping_title": "2_2_0_52",
             "gender": 1,
-            "hp": 6067793.5,
-            "last_seen": "Jan 02, 2026, 05:45:29 AM",
+            "hp": 2279878.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56551.91015625,
+                "y": -86792.1875,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 12, 2026, 10:13:10 PM",
             "level": 100,
             "name": "Scarecrow.",
             "name_history": [
@@ -28273,14 +28282,14 @@
             "crew_name": "Origin",
             "equipping_title": "Title_tencentshare_os_14",
             "gender": 1,
-            "hp": 2526409.0,
+            "hp": 2532138.5,
             "last_known_position": {
-                "map": "FinalTest_D",
-                "x": 541.8399658203125,
-                "y": 2591.889892578125,
-                "z": 973.3599853515625
+                "map": "QRSL_P",
+                "x": -55712.296875,
+                "y": -88822.03125,
+                "z": 21835.248046875
             },
-            "last_seen": "Feb 19, 2026, 8:13:11 PM",
+            "last_seen": "Mar 12, 2026, 10:13:10 PM",
             "level": 100,
             "name": "2E",
             "name_history": [
@@ -33794,6 +33803,6 @@
         }
     },
     "accounts_total": 2139,
-    "last_updated": "Mar 12, 2026, 10:12:10 PM",
+    "last_updated": "Mar 12, 2026, 10:13:10 PM",
     "server_region": "southeast-asia"
 }
