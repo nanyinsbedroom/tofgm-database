@@ -1336,14 +1336,14 @@
             "crew_name": "Solo Play PH",
             "equipping_title": "Title_tencentshare_os_13",
             "gender": 1,
-            "hp": 1827142.5,
+            "hp": 1890469.625,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -39466.5703125,
-                "y": 89774.6484375,
-                "z": -13465.3193359375
+                "map": "FinalTest_D",
+                "x": 776.3499755859375,
+                "y": 258.32000732421875,
+                "z": 956.6099853515625
             },
-            "last_seen": "Feb 14, 2026, 4:41:08 PM",
+            "last_seen": "Mar 12, 2026, 12:39:47 PM",
             "level": 100,
             "name": "Bibble",
             "name_history": [
@@ -7115,12 +7115,12 @@
             "gender": 0,
             "hp": 1949176.25,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -53640.5390625,
-                "y": -88118.7890625,
-                "z": 21725.939453125
+                "map": "FinalTest_D",
+                "x": 47.55385208129883,
+                "y": 120.95066833496094,
+                "z": 959.8599853515625
             },
-            "last_seen": "Mar 12, 2026, 12:23:52 PM",
+            "last_seen": "Mar 12, 2026, 12:39:47 PM",
             "level": 100,
             "name": "Freddy_Fornix",
             "name_history": [
@@ -9392,16 +9392,16 @@
             ],
             "crew_id": 253403086473,
             "crew_name": "Vocar Ed Regnum",
-            "equipping_title": "raver's Enlightener,1",
+            "equipping_title": "raver的启迪人,1",
             "gender": 1,
-            "hp": 2975148.25,
+            "hp": 2802480.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -13732.7451171875,
-                "y": 5157.888671875,
-                "z": 25628.080078125
+                "map": "FinalTest_D",
+                "x": -36.45000076293945,
+                "y": 179.6999969482422,
+                "z": 954.699951171875
             },
-            "last_seen": "Feb 16, 2026, 8:04:20 PM",
+            "last_seen": "Mar 12, 2026, 12:39:47 PM",
             "level": 100,
             "name": "ACEMONTE",
             "name_history": [
@@ -10652,14 +10652,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "1_8_0_36",
             "gender": 1,
-            "hp": 3363218.5,
+            "hp": 3057471.25,
             "last_known_position": {
-                "map": "Team8P_08_D_II",
-                "x": 309879.0,
-                "y": 113775.1484375,
-                "z": 42834.33984375
+                "map": "FinalTest_D",
+                "x": 720.0,
+                "y": 3402.669921875,
+                "z": 982.2999877929688
             },
-            "last_seen": "Mar 11, 2026, 12:20:58 PM",
+            "last_seen": "Mar 12, 2026, 12:39:47 PM",
             "level": 100,
             "name": "AnemoneEldraine",
             "name_history": [
@@ -13635,11 +13635,26 @@
             "server_region": "southeast-asia"
         },
         "68771016465666": {
+            "crew_history": [
+                "Lunar Exclaire"
+            ],
             "crew_id": 1421634190994,
             "crew_name": "Lunar Exclaire",
+            "equipping_title": "2_8_0_12",
             "gender": 0,
-            "last_seen": "Aug 14, 2025, 07:38:43 PM",
+            "hp": 2406064.75,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 487.7537536621094,
+                "y": 486.4920654296875,
+                "z": 949.7899780273438
+            },
+            "last_seen": "Mar 12, 2026, 12:39:47 PM",
+            "level": 100,
             "name": "C o o p y",
+            "name_history": [
+                "C o o p y"
+            ],
             "registered": "Dec 26, 2022, 3:57:22 PM",
             "role_id": 68771016465666,
             "server_region": "southeast-asia"
@@ -33362,6 +33377,6 @@
         }
     },
     "accounts_total": 2129,
-    "last_updated": "Mar 12, 2026, 12:38:47 PM",
+    "last_updated": "Mar 12, 2026, 12:39:47 PM",
     "server_region": "southeast-asia"
 }
