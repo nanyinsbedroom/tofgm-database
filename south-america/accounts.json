@@ -799,12 +799,21 @@
             "server_region": "south-america"
         },
         "64433099486358": {
+            "crew_history": [
+                "MoonRiders"
+            ],
             "crew_id": 257698052762,
             "crew_name": "MoonRiders",
-            "equipping_title": "Ron de Astora的学徒,0",
+            "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 2178898.25,
-            "last_seen": "Nov 16, 2025, 12:01:22 PM",
+            "hp": 2247791.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54754.8984375,
+                "y": -88052.8984375,
+                "z": 21717.5390625
+            },
+            "last_seen": "Mar 11, 2026, 10:01:23 PM",
             "level": 100,
             "name": "Zhao_",
             "name_history": [
@@ -2789,6 +2798,31 @@
             "role_id": 64471754119009,
             "server_region": "south-america"
         },
+        "64471754130579": {
+            "crew_history": [
+                "InterStellar"
+            ],
+            "crew_id": 103079230106,
+            "crew_name": "InterStellar",
+            "equipping_title": "1_7_1_3",
+            "gender": 0,
+            "hp": 2011429.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54189.71875,
+                "y": -88141.375,
+                "z": 21730.939453125
+            },
+            "last_seen": "Mar 11, 2026, 10:01:23 PM",
+            "level": 100,
+            "name": "Azir.@",
+            "name_history": [
+                "Azir.@"
+            ],
+            "registered": "Aug 15, 2022, 6:41:17 PM",
+            "role_id": 64471754130579,
+            "server_region": "south-america"
+        },
         "64471754136766": {
             "crew_history": [
                 "Mirage"
@@ -3045,6 +3079,31 @@
             "name": "Silver",
             "registered": "Aug 10, 2022, 8:31:07 PM",
             "role_id": 64480344022677,
+            "server_region": "south-america"
+        },
+        "64480344044592": {
+            "crew_history": [
+                "Cumunidad 3CM"
+            ],
+            "crew_id": 3964254829210,
+            "crew_name": "Cumunidad 3CM",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 2289533.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55083.078125,
+                "y": -88287.40625,
+                "z": 21717.458984375
+            },
+            "last_seen": "Mar 11, 2026, 10:01:23 PM",
+            "level": 100,
+            "name": "↓Falcon↓",
+            "name_history": [
+                "↓Falcon↓"
+            ],
+            "registered": "Aug 11, 2022, 9:39:34 PM",
+            "role_id": 64480344044592,
             "server_region": "south-america"
         },
         "64480344045143": {
@@ -4285,6 +4344,29 @@
             ],
             "registered": "Mar 25, 2025, 3:05:47 PM",
             "role_id": 64493229252555,
+            "server_region": "south-america"
+        },
+        "64493229254422": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 847224.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21825.9296875
+            },
+            "last_seen": "Mar 11, 2026, 10:01:23 PM",
+            "level": 73,
+            "name": "ma0ma0",
+            "name_history": [
+                "ma0ma0"
+            ],
+            "registered": "Apr 9, 2025, 6:42:05 PM",
+            "role_id": 64493229254422,
             "server_region": "south-america"
         },
         "64493229255082": {
@@ -6333,7 +6415,7 @@
             "server_region": "south-america"
         }
     },
-    "accounts_total": 386,
-    "last_updated": "Mar 11, 2026, 9:57:23 PM",
+    "accounts_total": 389,
+    "last_updated": "Mar 11, 2026, 10:01:23 PM",
     "server_region": "south-america"
 }
