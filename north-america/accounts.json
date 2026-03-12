@@ -468,12 +468,21 @@
             "server_region": "north-america"
         },
         "51548197525022": {
+            "crew_history": [
+                "Luna"
+            ],
             "crew_id": 5488968216290,
             "crew_name": "Luna",
-            "equipping_title": "1_1_27_1",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2268485.25,
-            "last_seen": "Nov 02, 2025, 05:09:34 AM",
+            "hp": 2284610.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54495.62890625,
+                "y": -87487.28125,
+                "z": 21738.5
+            },
+            "last_seen": "Mar 11, 2026, 8:27:52 PM",
             "level": 100,
             "name": "Orihimechan",
             "name_history": [
@@ -16521,6 +16530,6 @@
         }
     },
     "accounts_total": 1007,
-    "last_updated": "Mar 11, 2026, 8:22:51 PM",
+    "last_updated": "Mar 11, 2026, 8:27:52 PM",
     "server_region": "north-america"
 }
