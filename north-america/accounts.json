@@ -2490,12 +2490,21 @@
             "server_region": "north-america"
         },
         "51561082527802": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 803158896357,
             "crew_name": "Solstice",
             "equipping_title": "2_2_0_15",
             "gender": 1,
-            "hp": 1779900.75,
-            "last_seen": "Nov 02, 2025, 05:09:34 AM",
+            "hp": 2803314.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325560.375,
+                "y": 205087.8125,
+                "z": -28246.91015625
+            },
+            "last_seen": "Mar 11, 2026, 8:01:50 PM",
             "level": 100,
             "name": " Livin",
             "name_history": [
@@ -3425,12 +3434,21 @@
             "server_region": "north-america"
         },
         "51573967386707": {
+            "crew_history": [
+                "Reinx"
+            ],
             "crew_id": 506806152936,
             "crew_name": "Reinx",
             "equipping_title": "1_4_4_7",
             "gender": 1,
-            "hp": 2520257.5,
-            "last_seen": "Nov 16, 2025, 11:29:23 AM",
+            "hp": 3732803.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325597.8125,
+                "y": 204899.8125,
+                "z": -28348.240234375
+            },
+            "last_seen": "Mar 11, 2026, 8:01:50 PM",
             "level": 100,
             "name": "Reinx2",
             "name_history": [
@@ -4903,14 +4921,14 @@
             "crew_name": "Void Knights",
             "equipping_title": "Title_iwshare_os_8",
             "gender": 1,
-            "hp": 6481931.5,
+            "hp": 3230965.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324927.625,
-                "y": 202102.3125,
-                "z": -28339.841796875
+                "x": -324587.65625,
+                "y": 201699.140625,
+                "z": -28302.7890625
             },
-            "last_seen": "Mar 11, 2026, 6:52:45 PM",
+            "last_seen": "Mar 11, 2026, 8:01:50 PM",
             "level": 100,
             "name": "xlMORRIGANlx",
             "name_history": [
@@ -8165,14 +8183,14 @@
             "crew_name": "SH✪✪OOTING ST☆R",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2857932.25,
+            "hp": 2841522.0,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -326135.1875,
-                "y": 201047.046875,
-                "z": -28331.75
+                "x": -323977.1875,
+                "y": 202164.640625,
+                "z": -28356.5703125
             },
-            "last_seen": "Mar 11, 2026, 6:55:45 PM",
+            "last_seen": "Mar 11, 2026, 8:01:50 PM",
             "level": 100,
             "name": "CeIia",
             "name_history": [
@@ -16099,6 +16117,6 @@
         }
     },
     "accounts_total": 993,
-    "last_updated": "Mar 11, 2026, 8:00:50 PM",
+    "last_updated": "Mar 11, 2026, 8:01:50 PM",
     "server_region": "north-america"
 }
