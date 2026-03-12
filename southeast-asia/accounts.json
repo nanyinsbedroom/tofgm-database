@@ -27509,12 +27509,21 @@
             "server_region": "southeast-asia"
         },
         "68779606290692": {
+            "crew_history": [
+                "Waifu"
+            ],
             "crew_id": 2314987388549,
             "crew_name": "Waifu",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 1483436.25,
-            "last_seen": "Nov 17, 2025, 05:46:34 PM",
+            "hp": 1450320.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324567.8125,
+                "y": 204568.96875,
+                "z": -28346.369140625
+            },
+            "last_seen": "Mar 12, 2026, 10:54:12 PM",
             "level": 100,
             "name": "uww",
             "name_history": [
@@ -33964,6 +33973,6 @@
         }
     },
     "accounts_total": 2143,
-    "last_updated": "Mar 12, 2026, 10:52:12 PM",
+    "last_updated": "Mar 12, 2026, 10:54:12 PM",
     "server_region": "southeast-asia"
 }
