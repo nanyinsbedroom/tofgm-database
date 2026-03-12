@@ -3933,16 +3933,16 @@
             ],
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
-            "equipping_title": "2_2_0_89",
+            "equipping_title": "1_6_4_21",
             "gender": 1,
-            "hp": 6120237.0,
+            "hp": 3343610.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 104567.4609375,
-                "y": -185009.0625,
-                "z": -6741.5751953125
+                "map": "JIUYU_P",
+                "x": -324861.53125,
+                "y": 204661.9375,
+                "z": -28320.0390625
             },
-            "last_seen": "Mar 1, 2026, 10:41:15 PM",
+            "last_seen": "Mar 12, 2026, 10:07:10 PM",
             "level": 100,
             "name": "Murnilia",
             "name_history": [
@@ -27292,12 +27292,21 @@
             "server_region": "southeast-asia"
         },
         "68779606297181": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "1_6_4_29",
+            "equipping_title": "Tencent_Sever_124",
             "gender": 0,
-            "hp": 2652475.0,
-            "last_seen": "Nov 22, 2025, 12:35:08 PM",
+            "hp": 4010990.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.8125,
+                "y": 201969.296875,
+                "z": -28329.458984375
+            },
+            "last_seen": "Mar 12, 2026, 10:07:10 PM",
             "level": 100,
             "name": "AGENT CANNED",
             "name_history": [
@@ -31598,14 +31607,14 @@
             "crew_name": "Soft Doll",
             "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 3616005.75,
+            "hp": 3625605.75,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325578.6875,
-                "y": 204819.703125,
-                "z": -28341.740234375
+                "x": -324113.9375,
+                "y": 203563.390625,
+                "z": -28347.779296875
             },
-            "last_seen": "Mar 11, 2026, 9:18:23 PM",
+            "last_seen": "Mar 12, 2026, 10:07:10 PM",
             "level": 100,
             "name": "AmberWanderer",
             "name_history": [
@@ -33573,6 +33582,6 @@
         }
     },
     "accounts_total": 2133,
-    "last_updated": "Mar 12, 2026, 9:58:09 PM",
+    "last_updated": "Mar 12, 2026, 10:07:10 PM",
     "server_region": "southeast-asia"
 }
