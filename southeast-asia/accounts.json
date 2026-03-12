@@ -8163,12 +8163,21 @@
             "server_region": "southeast-asia"
         },
         "68749541575326": {
+            "crew_history": [
+                "Eclipse Kitchen"
+            ],
             "crew_id": 3414499016329,
             "crew_name": "Eclipse Kitchen",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1655431.375,
-            "last_seen": "Nov 04, 2025, 11:09:52 PM",
+            "hp": 1629089.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55094.59765625,
+                "y": -88164.7578125,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 12, 2026, 10:16:10 PM",
             "level": 100,
             "name": "Chef Uika",
             "name_history": [
@@ -33826,6 +33835,6 @@
         }
     },
     "accounts_total": 2140,
-    "last_updated": "Mar 12, 2026, 10:14:10 PM",
+    "last_updated": "Mar 12, 2026, 10:16:10 PM",
     "server_region": "southeast-asia"
 }
