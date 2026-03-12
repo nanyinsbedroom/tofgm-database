@@ -236,12 +236,21 @@
             "server_region": "ps-east-asia"
         },
         "8602823788868947": {
+            "crew_history": [
+                "音ライン"
+            ],
             "crew_id": 4101695770681,
             "crew_name": "音ライン",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1981028.75,
-            "last_seen": "Jan 27, 2026, 12:35:26 AM",
+            "hp": 1999506.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53830.66796875,
+                "y": -87936.8203125,
+                "z": 21724.3203125
+            },
+            "last_seen": "Mar 12, 2026, 6:00:49 PM",
             "level": 100,
             "name": "彼方",
             "name_history": [
@@ -2463,6 +2472,31 @@
             "role_id": 8602823789013318,
             "server_region": "ps-east-asia"
         },
+        "8602823789013550": {
+            "crew_history": [
+                "★STERNENHIMMEL★"
+            ],
+            "crew_id": 5029408706617,
+            "crew_name": "★STERNENHIMMEL★",
+            "equipping_title": "2_2_0_68",
+            "gender": 1,
+            "hp": 1234028.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55743.95703125,
+                "y": -88264.2578125,
+                "z": 21723.359375
+            },
+            "last_seen": "Mar 12, 2026, 6:00:49 PM",
+            "level": 97,
+            "name": "Liliel",
+            "name_history": [
+                "Liliel"
+            ],
+            "registered": "Feb 13, 2026, 11:53:36 AM",
+            "role_id": 8602823789013550,
+            "server_region": "ps-east-asia"
+        },
         "8602828083822723": {
             "crew_history": [],
             "crew_id": 0,
@@ -3888,7 +3922,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 204,
-    "last_updated": "Mar 12, 2026, 5:58:49 PM",
+    "accounts_total": 205,
+    "last_updated": "Mar 12, 2026, 6:00:49 PM",
     "server_region": "ps-east-asia"
 }
