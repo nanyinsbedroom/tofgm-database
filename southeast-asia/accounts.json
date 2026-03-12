@@ -2004,12 +2004,21 @@
             "server_region": "southeast-asia"
         },
         "68728066720517": {
+            "crew_history": [
+                "Soft Doll"
+            ],
             "crew_id": 201863478931,
             "crew_name": "Soft Doll",
             "equipping_title": "pmeimei的学徒,0",
             "gender": 1,
-            "hp": 6124889.5,
-            "last_seen": "Jan 03, 2026, 03:47:07 AM",
+            "hp": 3382392.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -322937.21875,
+                "y": 203761.921875,
+                "z": -28386.12890625
+            },
+            "last_seen": "Mar 12, 2026, 10:30:11 PM",
             "level": 100,
             "name": "x.Miuvee.x",
             "name_history": [
@@ -31232,6 +31241,31 @@
             "role_id": 68796786204586,
             "server_region": "southeast-asia"
         },
+        "68796786204588": {
+            "crew_history": [
+                "Origin"
+            ],
+            "crew_id": 532575960705,
+            "crew_name": "Origin",
+            "equipping_title": "3_2022",
+            "gender": 0,
+            "hp": 2860251.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325404.15625,
+                "y": 204316.5,
+                "z": -28310.5703125
+            },
+            "last_seen": "Mar 12, 2026, 10:30:11 PM",
+            "level": 100,
+            "name": "GameKun",
+            "name_history": [
+                "GameKun"
+            ],
+            "registered": "Aug 12, 2022, 11:31:04 PM",
+            "role_id": 68796786204588,
+            "server_region": "southeast-asia"
+        },
         "68796786204625": {
             "crew_history": [
                 "Origin"
@@ -33902,7 +33936,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2142,
-    "last_updated": "Mar 12, 2026, 10:29:11 PM",
+    "accounts_total": 2143,
+    "last_updated": "Mar 12, 2026, 10:30:11 PM",
     "server_region": "southeast-asia"
 }
