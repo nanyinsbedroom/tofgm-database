@@ -281,12 +281,21 @@
             "server_region": "ps-southeast-asia"
         },
         "8607118756160421": {
+            "crew_history": [
+                "ONLINE"
+            ],
             "crew_id": 382254093345,
             "crew_name": "ONLINE",
-            "equipping_title": "Title_tencentshare_os_21",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2266819.0,
-            "last_seen": "Nov 22, 2025, 06:03:49 PM",
+            "hp": 2301307.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55542.33984375,
+                "y": -88789.71875,
+                "z": 21717.46875
+            },
+            "last_seen": "Mar 12, 2026, 8:08:06 PM",
             "level": 100,
             "name": "彩月",
             "name_history": [
@@ -852,7 +861,7 @@
                 "y": -88061.5078125,
                 "z": 21723.94921875
             },
-            "last_seen": "Mar 12, 2026, 8:07:05 PM",
+            "last_seen": "Mar 12, 2026, 8:08:06 PM",
             "level": 100,
             "name": "萌QQ",
             "name_history": [
@@ -985,14 +994,29 @@
             "server_region": "southeast_asia"
         },
         "8607118756238836": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_38",
             "gender": 1,
-            "last_seen": "Sep 28, 2025, 05:36:09 PM",
+            "hp": 1897029.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53788.80859375,
+                "y": -88100.5859375,
+                "z": 21724.990234375
+            },
+            "last_seen": "Mar 12, 2026, 8:08:06 PM",
+            "level": 100,
             "name": "天宮　小百合",
+            "name_history": [
+                "天宮　小百合"
+            ],
             "registered": "Apr 1, 2024, 6:28:45 AM",
             "role_id": 8607118756238836,
-            "server_region": "southeast_asia"
+            "server_region": "ps-southeast-asia"
         },
         "8607118756242974": {
             "crew_id": 575527621665,
@@ -2011,6 +2035,6 @@
         }
     },
     "accounts_total": 122,
-    "last_updated": "Mar 12, 2026, 8:07:05 PM",
+    "last_updated": "Mar 12, 2026, 8:08:06 PM",
     "server_region": "ps-southeast-asia"
 }
