@@ -8612,14 +8612,14 @@
             "crew_name": "Tea Party",
             "equipping_title": "Title_HalfAnniversary_os_2",
             "gender": 1,
-            "hp": 2513076.0,
+            "hp": 2521411.25,
             "last_known_position": {
-                "map": "Kailo_P",
-                "x": -33335.73046875,
-                "y": -166168.15625,
-                "z": -54956.84765625
+                "map": "QRSL_P",
+                "x": -54785.828125,
+                "y": -87604.7265625,
+                "z": 21724.58984375
             },
-            "last_seen": "Mar 2, 2026, 11:19:42 PM",
+            "last_seen": "Mar 12, 2026, 10:08:10 PM",
             "level": 100,
             "name": "Gyapi",
             "name_history": [
@@ -16965,12 +16965,21 @@
             "server_region": "southeast-asia"
         },
         "68775311703154": {
+            "crew_history": [
+                "Court Of Cats"
+            ],
             "crew_id": 554050797189,
             "crew_name": "Court Of Cats",
-            "equipping_title": "3_2024",
+            "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 398125.8125,
-            "last_seen": "Nov 20, 2025, 07:05:19 PM",
+            "hp": 384626.03125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 12, 2026, 10:08:10 PM",
             "level": 100,
             "name": "Lacrymu",
             "name_history": [
@@ -17575,11 +17584,11 @@
             "hp": 1324878.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55580.30859375,
-                "y": -88480.9765625,
-                "z": 21710.939453125
+                "x": -56166.27734375,
+                "y": -88201.796875,
+                "z": 21696.2890625
             },
-            "last_seen": "Mar 10, 2026, 10:07:25 PM",
+            "last_seen": "Mar 12, 2026, 10:08:10 PM",
             "level": 100,
             "name": "neko_chan",
             "name_history": [
@@ -33582,6 +33591,6 @@
         }
     },
     "accounts_total": 2133,
-    "last_updated": "Mar 12, 2026, 10:07:10 PM",
+    "last_updated": "Mar 12, 2026, 10:08:10 PM",
     "server_region": "southeast-asia"
 }
