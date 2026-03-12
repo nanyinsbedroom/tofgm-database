@@ -16292,12 +16292,12 @@
             "gender": 1,
             "hp": 1560392.125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55790.23828125,
-                "y": -88955.359375,
-                "z": 21724.8203125
+                "map": "Vera_city",
+                "x": -33128.609375,
+                "y": 40274.34765625,
+                "z": 13991.029296875
             },
-            "last_seen": "Mar 11, 2026, 2:22:35 PM",
+            "last_seen": "Mar 12, 2026, 12:25:52 PM",
             "level": 100,
             "name": "四能佳百D",
             "name_history": [
@@ -32420,12 +32420,21 @@
             "server_region": "southeast-asia"
         },
         "68805376163318": {
+            "crew_history": [
+                "Blanc Et Noir"
+            ],
             "crew_id": 8589950601,
             "crew_name": "Blanc Et Noir",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2263671.25,
-            "last_seen": "Nov 04, 2025, 05:33:07 PM",
+            "hp": 2312466.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -33709.19921875,
+                "y": 39576.390625,
+                "z": 13997.0498046875
+            },
+            "last_seen": "Mar 12, 2026, 12:25:52 PM",
             "level": 100,
             "name": "コト",
             "name_history": [
@@ -33319,6 +33328,6 @@
         }
     },
     "accounts_total": 2129,
-    "last_updated": "Mar 12, 2026, 12:24:52 PM",
+    "last_updated": "Mar 12, 2026, 12:25:52 PM",
     "server_region": "southeast-asia"
 }
