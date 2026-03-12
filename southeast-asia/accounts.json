@@ -4838,14 +4838,14 @@
             "crew_name": "CASTLE",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2773383.5,
+            "hp": 2913692.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54170.51953125,
-                "y": -88096.328125,
-                "z": 21711.048828125
+                "x": -55564.2578125,
+                "y": -88486.0859375,
+                "z": 21710.87890625
             },
-            "last_seen": "Mar 10, 2026, 10:11:25 PM",
+            "last_seen": "Mar 12, 2026, 10:14:10 PM",
             "level": 100,
             "name": "Mirianne",
             "name_history": [
@@ -14329,14 +14329,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "2_10_1_2",
             "gender": 0,
-            "hp": 2536881.25,
+            "hp": 2673810.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53824.52734375,
-                "y": -87864.8359375,
-                "z": 21711.048828125
+                "x": -55632.859375,
+                "y": -88537.3359375,
+                "z": 21710.849609375
             },
-            "last_seen": "Mar 10, 2026, 10:11:25 PM",
+            "last_seen": "Mar 12, 2026, 10:14:10 PM",
             "level": 100,
             "name": "Deeppy",
             "name_history": [
@@ -26903,6 +26903,29 @@
             "role_id": 68775311761639,
             "server_region": "southeast-asia"
         },
+        "68775311761794": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 0,
+            "hp": 724075.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55373.0390625,
+                "y": -88523.5390625,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 12, 2026, 10:14:10 PM",
+            "level": 78,
+            "name": "not_reyXrey",
+            "name_history": [
+                "not_reyXrey"
+            ],
+            "registered": "Feb 20, 2026, 9:25:41 PM",
+            "role_id": 68775311761794,
+            "server_region": "southeast-asia"
+        },
         "68775311761817": {
             "crew_history": [],
             "crew_id": 0,
@@ -33802,7 +33825,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2139,
-    "last_updated": "Mar 12, 2026, 10:13:10 PM",
+    "accounts_total": 2140,
+    "last_updated": "Mar 12, 2026, 10:14:10 PM",
     "server_region": "southeast-asia"
 }
