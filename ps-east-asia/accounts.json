@@ -1722,13 +1722,22 @@
             "server_region": "ps-east-asia"
         },
         "8602823789000311": {
-            "crew_id": 73016447033,
-            "crew_name": "アムネシア",
-            "equipping_title": "None",
+            "crew_history": [
+                "kindness☆ "
+            ],
+            "crew_id": 4939214393401,
+            "crew_name": "kindness☆ ",
+            "equipping_title": "2_2_0_48",
             "gender": 0,
-            "hp": 708884.8125,
-            "last_seen": "Nov 18, 2025, 04:17:09 PM",
-            "level": 96,
+            "hp": 681820.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55408.2890625,
+                "y": -88532.1875,
+                "z": 21730.888671875
+            },
+            "last_seen": "Mar 12, 2026, 6:10:49 PM",
+            "level": 98,
             "name": "ホムンクルス",
             "name_history": [
                 "ホムンクルス"
@@ -2656,6 +2665,31 @@
             ],
             "registered": "Jan 11, 2026, 1:46:37 PM",
             "role_id": 8602823789013318,
+            "server_region": "ps-east-asia"
+        },
+        "8602823789013543": {
+            "crew_history": [
+                "☆希望の光☆"
+            ],
+            "crew_id": 3788163158074,
+            "crew_name": "☆希望の光☆",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 983310.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54915.375,
+                "y": -87101.84375,
+                "z": 21725.029296875
+            },
+            "last_seen": "Mar 12, 2026, 6:10:49 PM",
+            "level": 95,
+            "name": "LAST-4EVA",
+            "name_history": [
+                "LAST-4EVA"
+            ],
+            "registered": "Feb 12, 2026, 10:43:12 AM",
+            "role_id": 8602823789013543,
             "server_region": "ps-east-asia"
         },
         "8602823789013550": {
@@ -3634,6 +3668,31 @@
             "role_id": 8602828083882098,
             "server_region": "ps-east-asia"
         },
+        "8602828083883132": {
+            "crew_history": [
+                "異世界の旅人"
+            ],
+            "crew_id": 64426512442,
+            "crew_name": "異世界の旅人",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1217927.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54643.1796875,
+                "y": -86834.6875,
+                "z": 21724.87890625
+            },
+            "last_seen": "Mar 12, 2026, 6:10:49 PM",
+            "level": 100,
+            "name": "ラムダ#a",
+            "name_history": [
+                "ラムダ#a"
+            ],
+            "registered": "Aug 26, 2023, 10:36:05 AM",
+            "role_id": 8602828083883132,
+            "server_region": "ps-east-asia"
+        },
         "8602828083884413": {
             "crew_history": [
                 "K^^T"
@@ -3910,6 +3969,31 @@
             ],
             "registered": "Nov 7, 2023, 8:44:33 PM",
             "role_id": 8602828083903862,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083904711": {
+            "crew_history": [
+                "独りぼっち。"
+            ],
+            "crew_id": 94491283514,
+            "crew_name": "独りぼっち。",
+            "equipping_title": "1_1_6_1",
+            "gender": 1,
+            "hp": 2964147.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54618.80078125,
+                "y": -88105.3671875,
+                "z": 21720.990234375
+            },
+            "last_seen": "Mar 12, 2026, 6:10:49 PM",
+            "level": 100,
+            "name": "死亡語",
+            "name_history": [
+                "死亡語"
+            ],
+            "registered": "Nov 15, 2023, 12:20:29 AM",
+            "role_id": 8602828083904711,
             "server_region": "ps-east-asia"
         },
         "8602828083904900": {
@@ -4354,7 +4438,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 222,
-    "last_updated": "Mar 12, 2026, 6:09:49 PM",
+    "accounts_total": 225,
+    "last_updated": "Mar 12, 2026, 6:10:49 PM",
     "server_region": "ps-east-asia"
 }
