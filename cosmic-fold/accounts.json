@@ -56420,6 +56420,31 @@
             "role_id": 63582695947380,
             "server_region": "cosmic-fold"
         },
+        "63582695947873": {
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 70004.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71577.96875,
+                "y": 69131.890625,
+                "z": -9801.919921875
+            },
+            "last_seen": "2026年3月12日 下午11:53:53",
+            "level": 17,
+            "name": "平A当大招",
+            "name_history": [
+                "平A当大招"
+            ],
+            "registered": "2025年10月30日 下午7:23:26",
+            "role_id": 63582695947873,
+            "server_region": "cosmic-fold"
+        },
         "63582695947999": {
             "crew_id": 2856153266644,
             "crew_name": "少女祈祷中",
@@ -85157,9 +85182,55 @@
             "registered": "2026年3月10日 上午5:08:21",
             "role_id": 63582696017616,
             "server_region": "cosmic-fold"
+        },
+        "63582696018174": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 32771.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91217.390625,
+                "y": 81475.0546875,
+                "z": -7181.28759765625
+            },
+            "last_seen": "2026年3月12日 下午11:53:53",
+            "level": 9,
+            "name": "泰菲",
+            "name_history": [
+                "泰菲"
+            ],
+            "registered": "2026年3月11日 下午9:27:25",
+            "role_id": 63582696018174,
+            "server_region": "cosmic-fold"
+        },
+        "63582696018502": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -95637.6171875,
+                "y": 83014.0078125,
+                "z": -7182.33056640625
+            },
+            "last_seen": "2026年3月12日 下午11:53:53",
+            "level": 1,
+            "name": "知坤知坤",
+            "name_history": [
+                "知坤知坤"
+            ],
+            "registered": "2026年3月12日 下午11:47:20",
+            "role_id": 63582696018502,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5555,
-    "last_updated": "2026年3月10日 上午5:17:03",
+    "accounts_total": 5558,
+    "last_updated": "2026年3月12日 下午11:53:53",
     "server_region": "cosmic-fold"
 }

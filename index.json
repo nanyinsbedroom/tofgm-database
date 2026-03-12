@@ -1,5 +1,5 @@
 {
-    "last_updated": "Mar 12, 2026, 10:58:12 PM",
+    "last_updated": "2026年3月12日 下午11:53:53",
     "regions": {
         "ark-calculus": {
             "display_name": "方舟演算",
@@ -264,10 +264,20 @@
         "cosmic-fold": {
             "display_name": "宇宙折跃",
             "gender": {
-                "female": 4741,
+                "female": 4744,
                 "male": 814
             },
-            "last_updated": "2026年3月10日 上午5:17:03",
+            "last_updated": "2026年3月12日 下午11:53:53",
+            "mmo_season_reset": {
+                "season-1": {
+                    "end": "Mar 19, 2026",
+                    "start": "Sep 25, 2025"
+                },
+                "season-2": {
+                    "end": "Sep 19, 2026",
+                    "start": "Mar 19, 2026"
+                }
+            },
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -388,7 +398,7 @@
                 "weather_station_name": "Beijing",
                 "zip_code": "100006"
             },
-            "total_accounts": 5555,
+            "total_accounts": 5558,
             "total_crews": 202
         },
         "europe": {
@@ -1828,6 +1838,16 @@
                 "male": 219
             },
             "last_updated": "2026年3月11日 下午6:40:39",
+            "mmo_season_reset": {
+                "season-1": {
+                    "end": "Mar 19, 2026",
+                    "start": "Sep 25, 2025"
+                },
+                "season-2": {
+                    "end": "Sep 19, 2026",
+                    "start": "Mar 19, 2026"
+                }
+            },
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2088,6 +2108,16 @@
                 "male": 659
             },
             "last_updated": "Mar 11, 2026, 6:48:14 PM",
+            "mmo_season_reset": {
+                "season-1": {
+                    "end": "Apr 13, 2026",
+                    "start": "Nov 24, 2025"
+                },
+                "season-2": {
+                    "end": "Oct 13, 2026",
+                    "start": "Apr 13, 2026"
+                }
+            },
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2218,6 +2248,16 @@
                 "male": 1426
             },
             "last_updated": "Mar 10, 2026, 3:20:56 AM",
+            "mmo_season_reset": {
+                "season-1": {
+                    "end": "Apr 13, 2026",
+                    "start": "Nov 24, 2025"
+                },
+                "season-2": {
+                    "end": "Oct 13, 2026",
+                    "start": "Apr 13, 2026"
+                }
+            },
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2348,6 +2388,16 @@
                 "male": 464
             },
             "last_updated": "Mar 9, 2026, 7:41:15 PM",
+            "mmo_season_reset": {
+                "season-1": {
+                    "end": "Apr 13, 2026",
+                    "start": "Nov 24, 2025"
+                },
+                "season-2": {
+                    "end": "Oct 13, 2026",
+                    "start": "Apr 13, 2026"
+                }
+            },
             "server_information": {
                 "address_type": "Unicast",
                 "ads_category": "IAB19-11",
@@ -2472,10 +2522,10 @@
             "total_crews": 73
         }
     },
-    "total_accounts": 29654,
+    "total_accounts": 29657,
     "total_crews": 2291,
     "total_genders": {
-        "female": 21925,
+        "female": 21928,
         "male": 7729
     }
 }
