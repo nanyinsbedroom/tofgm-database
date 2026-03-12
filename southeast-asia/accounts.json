@@ -2066,14 +2066,26 @@
             "server_region": "southeast-asia"
         },
         "68728066733362": {
+            "crew_history": [
+                "FridayKnight"
+            ],
             "crew_id": 562640731778,
             "crew_name": "FridayKnight",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_37",
             "gender": 0,
-            "hp": 2876084.25,
-            "last_seen": "Oct 25, 2025, 06:31:50 PM",
+            "hp": 2538688.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55473.140625,
+                "y": -88597.2578125,
+                "z": 21721.900390625
+            },
+            "last_seen": "Mar 12, 2026, 10:10:10 PM",
             "level": 100,
             "name": "BLACKJACT",
+            "name_history": [
+                "BLACKJACT"
+            ],
             "registered": "Aug 16, 2022, 11:58:54 PM",
             "role_id": 68728066733362,
             "server_region": "southeast-asia"
@@ -33725,6 +33737,6 @@
         }
     },
     "accounts_total": 2137,
-    "last_updated": "Mar 12, 2026, 10:09:10 PM",
+    "last_updated": "Mar 12, 2026, 10:10:10 PM",
     "server_region": "southeast-asia"
 }
