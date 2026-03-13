@@ -752,11 +752,11 @@
             "hp": 2098016.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55764.9375,
-                "y": -88699.65625,
-                "z": 21710.869140625
+                "x": -55580.33984375,
+                "y": -88753.015625,
+                "z": 21711.0
             },
-            "last_seen": "Mar 12, 2026, 6:18:50 PM",
+            "last_seen": "Mar 13, 2026, 6:28:42 PM",
             "level": 100,
             "name": "Sou",
             "name_history": [
@@ -2914,6 +2914,29 @@
             ],
             "registered": "Jan 9, 2025, 2:47:16 AM",
             "role_id": 8602823788973986,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788974093": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1034978.6875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55509.7734375,
+                "y": -88524.953125,
+                "z": 21724.83984375
+            },
+            "last_seen": "Mar 13, 2026, 6:28:42 PM",
+            "level": 100,
+            "name": "sumatora",
+            "name_history": [
+                "sumatora"
+            ],
+            "registered": "Jan 10, 2025, 9:29:01 PM",
+            "role_id": 8602823788974093,
             "server_region": "ps-east-asia"
         },
         "8602823788974832": {
@@ -8223,7 +8246,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 377,
-    "last_updated": "Mar 13, 2026, 6:25:41 PM",
+    "accounts_total": 378,
+    "last_updated": "Mar 13, 2026, 6:28:42 PM",
     "server_region": "ps-east-asia"
 }
