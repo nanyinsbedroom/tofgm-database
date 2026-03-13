@@ -1413,11 +1413,11 @@
             "hp": 1656487.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54262.6796875,
-                "y": -87827.8515625,
-                "z": 21724.4296875
+                "x": -55032.3203125,
+                "y": -87222.5,
+                "z": 21724.548828125
             },
-            "last_seen": "Mar 12, 2026, 10:01:12 PM",
+            "last_seen": "Mar 13, 2026, 10:11:27 PM",
             "level": 100,
             "name": "［汎用型アンドロイド「α」",
             "name_history": [
@@ -2895,11 +2895,11 @@
             "hp": 2421318.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54191.6484375,
-                "y": -87605.7578125,
-                "z": 21844.958984375
+                "x": -55161.3984375,
+                "y": -86878.5703125,
+                "z": 21705.958984375
             },
-            "last_seen": "Mar 12, 2026, 10:03:12 PM",
+            "last_seen": "Mar 13, 2026, 10:11:27 PM",
             "level": 100,
             "name": "みちゅ",
             "name_history": [
@@ -2932,6 +2932,31 @@
             ],
             "registered": "Aug 30, 2024, 8:25:00 PM",
             "role_id": 8602823788965345,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788965682": {
+            "crew_history": [
+                "桜花"
+            ],
+            "crew_id": 167505727545,
+            "crew_name": "桜花",
+            "equipping_title": "2_8_0_12",
+            "gender": 1,
+            "hp": 1997320.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55343.109375,
+                "y": -88510.515625,
+                "z": 21717.349609375
+            },
+            "last_seen": "Mar 13, 2026, 10:11:27 PM",
+            "level": 100,
+            "name": "蘭子.PS4 ",
+            "name_history": [
+                "蘭子.PS4 "
+            ],
+            "registered": "Sep 23, 2024, 1:56:52 PM",
+            "role_id": 8602823788965682,
             "server_region": "ps-east-asia"
         },
         "8602823788965850": {
@@ -5791,6 +5816,31 @@
             ],
             "registered": "Aug 8, 2023, 12:35:58 PM",
             "role_id": 8602828083824998,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083825394": {
+            "crew_history": [
+                "CATS愛"
+            ],
+            "crew_id": 4110285705273,
+            "crew_name": "CATS愛",
+            "equipping_title": "1_1_5_1",
+            "gender": 1,
+            "hp": 2148680.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54969.390625,
+                "y": -86750.25,
+                "z": 21716.87890625
+            },
+            "last_seen": "Mar 13, 2026, 10:11:27 PM",
+            "level": 100,
+            "name": "リュバ",
+            "name_history": [
+                "リュバ"
+            ],
+            "registered": "Aug 8, 2023, 1:11:34 PM",
+            "role_id": 8602828083825394,
             "server_region": "ps-east-asia"
         },
         "8602828083825585": {
@@ -9208,7 +9258,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 417,
-    "last_updated": "Mar 13, 2026, 10:09:27 PM",
+    "accounts_total": 419,
+    "last_updated": "Mar 13, 2026, 10:11:27 PM",
     "server_region": "ps-east-asia"
 }
