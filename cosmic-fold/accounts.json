@@ -1274,16 +1274,16 @@
             ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "2_2_0_94",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 1714326.375,
+            "hp": 1751072.375,
             "last_known_position": {
                 "map": "city",
-                "x": 3266.559814453125,
-                "y": -22952.12890625,
-                "z": 97320.234375
+                "x": -1616.5,
+                "y": -23621.798828125,
+                "z": 97138.796875
             },
-            "last_seen": "2026年2月28日 下午9:41:43",
+            "last_seen": "2026年3月13日 下午9:17:35",
             "level": 85,
             "name": "阿导",
             "name_history": [
@@ -53346,6 +53346,29 @@
             "role_id": 63582695935529,
             "server_region": "cosmic-fold"
         },
+        "63582695935530": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 447797.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1752.7999267578125,
+                "y": -27902.19921875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月13日 下午9:17:35",
+            "level": 85,
+            "name": "模拟宇宙33",
+            "name_history": [
+                "模拟宇宙33"
+            ],
+            "registered": "2025年10月19日 下午2:49:15",
+            "role_id": 63582695935530,
+            "server_region": "cosmic-fold"
+        },
         "63582695935626": {
             "crew_id": 0,
             "crew_name": "",
@@ -85975,7 +85998,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5588,
-    "last_updated": "2026年3月13日 下午9:16:35",
+    "accounts_total": 5589,
+    "last_updated": "2026年3月13日 下午9:17:35",
     "server_region": "cosmic-fold"
 }
