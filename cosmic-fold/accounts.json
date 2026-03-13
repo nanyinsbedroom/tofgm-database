@@ -47771,15 +47771,15 @@
             "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 99811.0,
+            "hp": 118934.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -76533.6796875,
-                "y": 81251.0546875,
-                "z": -8548.7802734375
+                "x": -90548.0,
+                "y": 82588.7109375,
+                "z": -7057.0400390625
             },
-            "last_seen": "2026年2月16日 上午12:06:14",
-            "level": 31,
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 41,
             "name": "主人001",
             "name_history": [
                 "主人001"
@@ -85560,6 +85560,29 @@
             "role_id": 63582696016647,
             "server_region": "cosmic-fold"
         },
+        "63582696017197": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19270.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.5625,
+                "y": 75609.8203125,
+                "z": -7043.23486328125
+            },
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 7,
+            "name": "鸭腿盖饭",
+            "name_history": [
+                "鸭腿盖饭"
+            ],
+            "registered": "2026年3月8日 下午8:24:39",
+            "role_id": 63582696017197,
+            "server_region": "cosmic-fold"
+        },
         "63582696017234": {
             "crew_history": [
                 "恶魔"
@@ -85976,6 +85999,29 @@
             "role_id": 63582696018746,
             "server_region": "cosmic-fold"
         },
+        "63582696018767": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 43801.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91089.9140625,
+                "y": 85566.03125,
+                "z": -6496.982421875
+            },
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 11,
+            "name": "苏清婉小公主",
+            "name_history": [
+                "苏清婉小公主"
+            ],
+            "registered": "2026年3月13日 下午7:52:36",
+            "role_id": 63582696018767,
+            "server_region": "cosmic-fold"
+        },
         "63582696018771": {
             "crew_history": [],
             "crew_id": 0,
@@ -86113,9 +86159,78 @@
             "registered": "2026年3月13日 下午8:59:25",
             "role_id": 63582696018811,
             "server_region": "cosmic-fold"
+        },
+        "63582696018818": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91077.796875,
+                "y": 87761.4375,
+                "z": -5837.4228515625
+            },
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 2,
+            "name": "惊声尖笑家",
+            "name_history": [
+                "惊声尖笑家"
+            ],
+            "registered": "2026年3月13日 下午9:12:46",
+            "role_id": 63582696018818,
+            "server_region": "cosmic-fold"
+        },
+        "63582696018823": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99513.15625,
+                "y": 80378.171875,
+                "z": -4997.759765625
+            },
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 1,
+            "name": "随鱼",
+            "name_history": [
+                "随鱼"
+            ],
+            "registered": "2026年3月13日 下午9:16:39",
+            "role_id": 63582696018823,
+            "server_region": "cosmic-fold"
+        },
+        "63582696018831": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4993.27001953125
+            },
+            "last_seen": "2026年3月13日 下午9:24:35",
+            "level": 1,
+            "name": "一饭",
+            "name_history": [
+                "一饭"
+            ],
+            "registered": "2026年3月13日 下午9:22:38",
+            "role_id": 63582696018831,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5594,
-    "last_updated": "2026年3月13日 下午9:23:35",
+    "accounts_total": 5599,
+    "last_updated": "2026年3月13日 下午9:24:35",
     "server_region": "cosmic-fold"
 }
