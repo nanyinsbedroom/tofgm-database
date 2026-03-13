@@ -2596,12 +2596,21 @@
             "server_region": "southeast-asia"
         },
         "68732361642592": {
+            "crew_history": [
+                "Origin"
+            ],
             "crew_id": 532575960705,
             "crew_name": "Origin",
-            "equipping_title": "1_1_1_1",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 2086645.25,
-            "last_seen": "Nov 06, 2025, 05:38:49 PM",
+            "hp": 3083909.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325149.125,
+                "y": 204766.859375,
+                "z": -28348.240234375
+            },
+            "last_seen": "Mar 13, 2026, 2:20:38 PM",
             "level": 100,
             "name": "rynezt",
             "name_history": [
@@ -29288,11 +29297,11 @@
             "hp": 3525357.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -324520.5,
-                "y": 204582.171875,
-                "z": -28344.5390625
+                "x": -325473.34375,
+                "y": 205315.46875,
+                "z": -28286.5703125
             },
-            "last_seen": "Mar 12, 2026, 1:11:44 PM",
+            "last_seen": "Mar 13, 2026, 2:20:38 PM",
             "level": 100,
             "name": "Camomile",
             "name_history": [
@@ -32196,11 +32205,11 @@
             "hp": 2724336.5,
             "last_known_position": {
                 "map": "JIUYU_P",
-                "x": -325240.375,
-                "y": 205217.65625,
-                "z": -28324.7890625
+                "x": -325707.0625,
+                "y": 204926.875,
+                "z": -27558.859375
             },
-            "last_seen": "Mar 12, 2026, 3:55:08 PM",
+            "last_seen": "Mar 13, 2026, 2:20:38 PM",
             "level": 100,
             "name": "taranta147",
             "name_history": [
@@ -34054,6 +34063,6 @@
         }
     },
     "accounts_total": 2145,
-    "last_updated": "Mar 13, 2026, 2:18:37 PM",
+    "last_updated": "Mar 13, 2026, 2:20:38 PM",
     "server_region": "southeast-asia"
 }
