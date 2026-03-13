@@ -729,11 +729,11 @@
             "hp": 2364281.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55578.01953125,
-                "y": -88452.1953125,
-                "z": 21726.0
+                "x": -55178.21875,
+                "y": -87286.4765625,
+                "z": 21725.87890625
             },
-            "last_seen": "Mar 12, 2026, 10:11:12 PM",
+            "last_seen": "Mar 13, 2026, 10:03:27 PM",
             "level": 100,
             "name": "kantonme",
             "name_history": [
@@ -1706,14 +1706,14 @@
             "crew_name": "Lord",
             "equipping_title": "1_8_0_33",
             "gender": 0,
-            "hp": 1942576.625,
+            "hp": 1962304.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54719.09765625,
-                "y": -87476.28125,
-                "z": 21730.91015625
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21731.048828125
             },
-            "last_seen": "Mar 12, 2026, 10:58:09 AM",
+            "last_seen": "Mar 13, 2026, 10:03:27 PM",
             "level": 100,
             "name": "天狼星",
             "name_history": [
@@ -6409,6 +6409,29 @@
             "role_id": 8602828083840082,
             "server_region": "ps-east-asia"
         },
+        "8602828083841097": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2083035.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54224.96875,
+                "y": -88090.0546875,
+                "z": 21717.5703125
+            },
+            "last_seen": "Mar 13, 2026, 10:03:27 PM",
+            "level": 100,
+            "name": "ミーシア",
+            "name_history": [
+                "ミーシア"
+            ],
+            "registered": "Aug 9, 2023, 8:09:03 AM",
+            "role_id": 8602828083841097,
+            "server_region": "ps-east-asia"
+        },
         "8602828083841189": {
             "crew_history": [
                 "ちはやふる"
@@ -8941,7 +8964,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 406,
-    "last_updated": "Mar 13, 2026, 10:02:27 PM",
+    "accounts_total": 407,
+    "last_updated": "Mar 13, 2026, 10:03:27 PM",
     "server_region": "ps-east-asia"
 }
