@@ -103,14 +103,26 @@
             "server_region": "southeast-asia"
         },
         "68723771706013": {
+            "crew_history": [
+                "Solo Play PH"
+            ],
             "crew_id": 201863478913,
             "crew_name": "Solo Play PH",
-            "equipping_title": "3_2022",
+            "equipping_title": "2_2_0_39",
             "gender": 1,
-            "hp": 2323837.5,
-            "last_seen": "Oct 27, 2025, 05:03:28 AM",
+            "hp": 3194612.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -325459.625,
+                "y": 205060.828125,
+                "z": -28331.048828125
+            },
+            "last_seen": "Mar 13, 2026, 10:36:55 PM",
             "level": 100,
             "name": "Rhapsody 福",
+            "name_history": [
+                "Rhapsody 福"
+            ],
             "registered": "Aug 11, 2022, 7:58:43 AM",
             "role_id": 68723771706013,
             "server_region": "southeast-asia"
@@ -13459,14 +13471,14 @@
             "crew_name": "Oncilla",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 6338451.5,
+            "hp": 3838889.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 96448.0703125,
-                "y": -192799.875,
-                "z": -7546.81884765625
+                "map": "JIUYU_P",
+                "x": -325344.1875,
+                "y": 204909.15625,
+                "z": -28334.240234375
             },
-            "last_seen": "Mar 4, 2026, 9:10:31 PM",
+            "last_seen": "Mar 13, 2026, 10:36:55 PM",
             "level": 100,
             "name": "Bello Piggy",
             "name_history": [
@@ -34063,6 +34075,6 @@
         }
     },
     "accounts_total": 2145,
-    "last_updated": "Mar 13, 2026, 2:20:38 PM",
+    "last_updated": "Mar 13, 2026, 10:36:55 PM",
     "server_region": "southeast-asia"
 }
