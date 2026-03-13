@@ -85488,6 +85488,29 @@
             "role_id": 63582696018502,
             "server_region": "cosmic-fold"
         },
+        "63582696018642": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37764.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91909.6640625,
+                "y": 75609.828125,
+                "z": -7046.2275390625
+            },
+            "last_seen": "2026年3月13日 下午8:59:35",
+            "level": 7,
+            "name": "辰心",
+            "name_history": [
+                "辰心"
+            ],
+            "registered": "2026年3月13日 下午3:47:35",
+            "role_id": 63582696018642,
+            "server_region": "cosmic-fold"
+        },
         "63582696018807": {
             "crew_history": [],
             "crew_id": 0,
@@ -85517,15 +85540,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 8064.0,
+            "hp": 8928.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -99621.796875,
-                "y": 80533.2109375,
-                "z": -4993.27001953125
+                "x": -91371.796875,
+                "y": 86609.1015625,
+                "z": -6656.849609375
             },
-            "last_seen": "2026年3月13日 下午8:53:58",
-            "level": 1,
+            "last_seen": "2026年3月13日 下午8:59:35",
+            "level": 2,
             "name": "还早还早",
             "name_history": [
                 "还早还早"
@@ -85533,9 +85556,32 @@
             "registered": "2026年3月13日 下午8:51:36",
             "role_id": 63582696018809,
             "server_region": "cosmic-fold"
+        },
+        "63582696018810": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.796875,
+                "y": 80533.2109375,
+                "z": -4993.27001953125
+            },
+            "last_seen": "2026年3月13日 下午8:59:35",
+            "level": 1,
+            "name": "逆光521",
+            "name_history": [
+                "逆光521"
+            ],
+            "registered": "2026年3月13日 下午8:52:03",
+            "role_id": 63582696018810,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5571,
-    "last_updated": "2026年3月13日 下午8:53:58",
+    "accounts_total": 5573,
+    "last_updated": "2026年3月13日 下午8:59:35",
     "server_region": "cosmic-fold"
 }
