@@ -1486,11 +1486,11 @@
             "hp": 1526216.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21825.9296875
+                "x": -54757.4609375,
+                "y": -88115.46875,
+                "z": 21725.048828125
             },
-            "last_seen": "Mar 12, 2026, 8:15:09 PM",
+            "last_seen": "Mar 13, 2026, 8:07:20 PM",
             "level": 100,
             "name": "文雪飞",
             "name_history": [
@@ -6213,6 +6213,31 @@
             "role_id": 8602828083841189,
             "server_region": "ps-east-asia"
         },
+        "8602828083841405": {
+            "crew_history": [
+                "＼ねもけ／"
+            ],
+            "crew_id": 4539782434873,
+            "crew_name": "＼ねもけ／",
+            "equipping_title": "2_2_0_63",
+            "gender": 1,
+            "hp": 2925926.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21724.548828125
+            },
+            "last_seen": "Mar 13, 2026, 8:07:20 PM",
+            "level": 100,
+            "name": "ルア・レッドウッド",
+            "name_history": [
+                "ルア・レッドウッド"
+            ],
+            "registered": "Aug 9, 2023, 9:07:35 AM",
+            "role_id": 8602828083841405,
+            "server_region": "ps-east-asia"
+        },
         "8602828083842930": {
             "crew_history": [
                 "アムネシア"
@@ -6573,6 +6598,29 @@
             ],
             "registered": "Aug 10, 2023, 12:00:47 PM",
             "role_id": 8602828083850865,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083852051": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1635706.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55343.69921875,
+                "y": -88498.265625,
+                "z": 21730.849609375
+            },
+            "last_seen": "Mar 13, 2026, 8:07:20 PM",
+            "level": 100,
+            "name": "ラインハルト#a",
+            "name_history": [
+                "ラインハルト#a"
+            ],
+            "registered": "Aug 10, 2023, 5:49:21 PM",
+            "role_id": 8602828083852051,
             "server_region": "ps-east-asia"
         },
         "8602828083852642": {
@@ -8515,14 +8563,14 @@
             "crew_name": "踊る明星",
             "equipping_title": "2_2_0_30",
             "gender": 0,
-            "hp": 2015625.125,
+            "hp": 2023125.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53811.0078125,
-                "y": -88119.0703125,
-                "z": 21725.048828125
+                "x": -55213.41015625,
+                "y": -88647.265625,
+                "z": 21740.87890625
             },
-            "last_seen": "Mar 12, 2026, 8:01:09 PM",
+            "last_seen": "Mar 13, 2026, 8:07:20 PM",
             "level": 100,
             "name": "ジオクロム",
             "name_history": [
@@ -8574,7 +8622,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 391,
-    "last_updated": "Mar 13, 2026, 8:06:20 PM",
+    "accounts_total": 393,
+    "last_updated": "Mar 13, 2026, 8:07:20 PM",
     "server_region": "ps-east-asia"
 }
