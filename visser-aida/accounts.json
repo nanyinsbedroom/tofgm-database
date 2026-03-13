@@ -1883,11 +1883,26 @@
             "server_region": "visser-aida"
         },
         "60567630153349": {
-            "crew_id": 270582953855,
-            "crew_name": "不氪金联盟",
+            "crew_history": [
+                "世界樹之葉"
+            ],
+            "crew_id": 68719490851,
+            "crew_name": "世界樹之葉",
+            "equipping_title": "2_2_0_68",
             "gender": 1,
-            "last_seen": "2025年09月17日 下午 12:29:09",
+            "hp": 1987867.625,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 930.1455078125,
+                "y": 338.4102783203125,
+                "z": 951.2792358398438
+            },
+            "last_seen": "2026年3月13日 下午9:39:47",
+            "level": 100,
             "name": "SHUNYING",
+            "name_history": [
+                "SHUNYING"
+            ],
             "registered": "2024年6月12日 下午8:04:59",
             "role_id": 60567630153349,
             "server_region": "visser-aida"
@@ -4856,7 +4871,7 @@
                 "y": -16785.69921875,
                 "z": 96384.0390625
             },
-            "last_seen": "2026年3月13日 下午9:31:35",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "",
             "name_history": [
@@ -8254,14 +8269,14 @@
             "crew_name": "喵喵屋",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2382740.75,
+            "hp": 2383680.75,
             "last_known_position": {
-                "map": "city",
-                "x": 744.9599609375,
-                "y": -16587.91015625,
-                "z": 96343.78125
+                "map": "FinalTest_D",
+                "x": 1217.219970703125,
+                "y": -680.4500122070313,
+                "z": 944.7899780273438
             },
-            "last_seen": "2026年3月8日 下午10:31:18",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "筱喵喵",
             "name_history": [
@@ -11987,6 +12002,31 @@
             "role_id": 60649233188238,
             "server_region": "visser-aida"
         },
+        "60649233192753": {
+            "crew_history": [
+                "奶茶屋"
+            ],
+            "crew_id": 214748378911,
+            "crew_name": "奶茶屋",
+            "equipping_title": "木瓜星灵格诺诺的学徒,0",
+            "gender": 1,
+            "hp": 1351434.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -626.010009765625,
+                "y": -16231.8994140625,
+                "z": 96343.78125
+            },
+            "last_seen": "2026年3月13日 下午9:39:47",
+            "level": 100,
+            "name": "Tarepanda",
+            "name_history": [
+                "Tarepanda"
+            ],
+            "registered": "2021年12月16日 上午8:46:00",
+            "role_id": 60649233192753,
+            "server_region": "visser-aida"
+        },
         "60649233197610": {
             "crew_history": [
                 "星语星愿"
@@ -12643,14 +12683,14 @@
             "crew_name": "幻塔阁",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1472789.875,
+            "hp": 1476430.5,
             "last_known_position": {
                 "map": "city",
-                "x": 201.6699981689453,
-                "y": -16610.2890625,
-                "z": 96375.3359375
+                "x": -54.14509582519531,
+                "y": -16224.505859375,
+                "z": 96391.078125
             },
-            "last_seen": "2026年3月13日 下午9:31:35",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "烧姬",
             "name_history": [
@@ -13953,14 +13993,14 @@
             "crew_name": "天空之城",
             "equipping_title": "1_8_0_24",
             "gender": 1,
-            "hp": 2839970.5,
+            "hp": 2753189.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -57405.359375,
-                "y": -79439.8046875,
-                "z": 22502.58984375
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96362.03125
             },
-            "last_seen": "2026年3月4日 下午8:02:19",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "娇气的小奶包",
             "name_history": [
@@ -14602,7 +14642,7 @@
                 "y": -16251.01953125,
                 "z": 96343.78125
             },
-            "last_seen": "2026年3月13日 下午9:31:35",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "本间心铃",
             "name_history": [
@@ -15441,14 +15481,14 @@
             "crew_name": "天空之城",
             "equipping_title": "4_2022",
             "gender": 0,
-            "hp": 2874988.25,
+            "hp": 1739471.25,
             "last_known_position": {
-                "map": "FB_Team06_D_Balance",
-                "x": -5985.97119140625,
-                "y": 1929.6759033203125,
-                "z": 3263.409912109375
+                "map": "FinalTest_D",
+                "x": 725.1525268554688,
+                "y": -423.78106689453125,
+                "z": 958.2899780273438
             },
-            "last_seen": "2026年3月13日 下午9:27:35",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "Sussy",
             "name_history": [
@@ -17275,14 +17315,14 @@
             "crew_name": "天空之城",
             "equipping_title": "2_2_0_43",
             "gender": 0,
-            "hp": 3154932.0,
+            "hp": 2597743.75,
             "last_known_position": {
-                "map": "FB_Team06_D_Balance",
-                "x": -6298.81396484375,
-                "y": 1990.2952880859375,
-                "z": 3255.510009765625
+                "map": "FinalTest_D",
+                "x": 830.2799682617188,
+                "y": 114.93000030517578,
+                "z": 950.1099853515625
             },
-            "last_seen": "2026年3月13日 下午9:27:35",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "gateoo",
             "name_history": [
@@ -18778,6 +18818,31 @@
             ],
             "registered": "2021年12月16日 上午9:54:55",
             "role_id": 61426622280860,
+            "server_region": "visser-aida"
+        },
+        "61426622292260": {
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 12884916190,
+            "crew_name": "命运石之门",
+            "equipping_title": "4_2021",
+            "gender": 1,
+            "hp": 1899369.875,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 1268.5811767578125,
+                "y": -937.2870483398438,
+                "z": 955.1898803710938
+            },
+            "last_seen": "2026年3月13日 下午9:39:47",
+            "level": 100,
+            "name": "小奥拉",
+            "name_history": [
+                "小奥拉"
+            ],
+            "registered": "2021年12月16日 下午7:22:16",
+            "role_id": 61426622292260,
             "server_region": "visser-aida"
         },
         "61426622297490": {
@@ -20305,6 +20370,31 @@
             "role_id": 61465276991431,
             "server_region": "visser-aida"
         },
+        "61465276991636": {
+            "crew_history": [
+                "芬璃尔应援会"
+            ],
+            "crew_id": 717259552733,
+            "crew_name": "芬璃尔应援会",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 2133641.75,
+            "last_known_position": {
+                "map": "FinalTest_D",
+                "x": 8.790000915527344,
+                "y": -209.27999877929688,
+                "z": 944.7899780273438
+            },
+            "last_seen": "2026年3月13日 下午9:39:47",
+            "level": 100,
+            "name": "吾花月若梦",
+            "name_history": [
+                "吾花月若梦"
+            ],
+            "registered": "2021年12月16日 上午11:36:49",
+            "role_id": 61465276991636,
+            "server_region": "visser-aida"
+        },
         "61469571943877": {
             "crew_history": [
                 "渊芜"
@@ -21110,14 +21200,14 @@
             "crew_name": "喵喵屋",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 2626426.25,
+            "hp": 2531576.75,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -61143.98828125,
-                "y": -80694.625,
-                "z": 21856.853515625
+                "map": "FinalTest_D",
+                "x": 584.969970703125,
+                "y": 2826.199951171875,
+                "z": 975.7999877929688
             },
-            "last_seen": "2026年2月21日 下午10:04:26",
+            "last_seen": "2026年3月13日 下午9:39:47",
             "level": 100,
             "name": "__～傀儡",
             "name_history": [
@@ -24379,7 +24469,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1363,
-    "last_updated": "2026年3月13日 下午9:38:47",
+    "accounts_total": 1366,
+    "last_updated": "2026年3月13日 下午9:39:47",
     "server_region": "visser-aida"
 }
