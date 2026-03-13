@@ -14702,18 +14702,18 @@
             "crew_history": [
                 "天空之城"
             ],
-            "crew_id": 833223669626,
-            "crew_name": "天空之城",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 1919413.0,
+            "hp": 5000000.0,
             "last_known_position": {
-                "map": "FinalTest_D",
-                "x": 478.3999938964844,
-                "y": -493.0699768066406,
-                "z": 958.3399658203125
+                "map": "AutoChess",
+                "x": 104750.0,
+                "y": -182950.0,
+                "z": -2438.260009765625
             },
-            "last_seen": "2026年3月13日 上午12:03:00",
+            "last_seen": "2026年3月13日 下午9:59:48",
             "level": 100,
             "name": "Nanashiなな",
             "name_history": [
@@ -23679,6 +23679,29 @@
             "role_id": 62715114288567,
             "server_region": "visser-aida"
         },
+        "62715114438047": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "2_10_0_4",
+            "gender": 1,
+            "hp": 5000000.0,
+            "last_known_position": {
+                "map": "AutoChess",
+                "x": 105016.1875,
+                "y": -183279.3125,
+                "z": -2432.260009765625
+            },
+            "last_seen": "2026年3月13日 下午9:59:48",
+            "level": 100,
+            "name": "光明之祈",
+            "name_history": [
+                "光明之祈"
+            ],
+            "registered": "2025年5月13日 上午6:32:11",
+            "role_id": 62715114438047,
+            "server_region": "visser-aida"
+        },
         "62715114439329": {
             "crew_history": [
                 "完美的一天"
@@ -23731,6 +23754,29 @@
             "name": "陈城啰",
             "registered": "2025年7月23日 下午12:23:17",
             "role_id": 62715114502104,
+            "server_region": "visser-aida"
+        },
+        "62715114579477": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 5000000.0,
+            "last_known_position": {
+                "map": "AutoChess",
+                "x": 104553.4453125,
+                "y": -183000.953125,
+                "z": -2438.260009765625
+            },
+            "last_seen": "2026年3月13日 下午9:59:48",
+            "level": 100,
+            "name": "王凯般",
+            "name_history": [
+                "王凯般"
+            ],
+            "registered": "2025年12月29日 下午4:27:00",
+            "role_id": 62715114579477,
             "server_region": "visser-aida"
         },
         "62715114596458": {
@@ -24593,7 +24639,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1371,
-    "last_updated": "2026年3月13日 下午9:57:48",
+    "accounts_total": 1373,
+    "last_updated": "2026年3月13日 下午9:59:48",
     "server_region": "visser-aida"
 }
