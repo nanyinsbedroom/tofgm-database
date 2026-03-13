@@ -123,6 +123,31 @@
             "role_id": 8602823788855792,
             "server_region": "ps-east-asia"
         },
+        "8602823788856196": {
+            "crew_history": [
+                "Lord"
+            ],
+            "crew_id": 4296970297,
+            "crew_name": "Lord",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 2900626.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54188.640625,
+                "y": -87843.7265625,
+                "z": 21748.328125
+            },
+            "last_seen": "Mar 13, 2026, 4:03:31 PM",
+            "level": 100,
+            "name": "瑞葉",
+            "name_history": [
+                "瑞葉"
+            ],
+            "registered": "Aug 6, 2023, 10:18:25 AM",
+            "role_id": 8602823788856196,
+            "server_region": "ps-east-asia"
+        },
         "8602823788856332": {
             "crew_history": [],
             "crew_id": 0,
@@ -1238,6 +1263,29 @@
             ],
             "registered": "Aug 30, 2023, 1:10:51 AM",
             "role_id": 8602823788894673,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788895368": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 621349.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21719.048828125
+            },
+            "last_seen": "Mar 13, 2026, 4:03:31 PM",
+            "level": 100,
+            "name": "ながゆ",
+            "name_history": [
+                "ながゆ"
+            ],
+            "registered": "Aug 31, 2023, 4:53:01 PM",
+            "role_id": 8602823788895368,
             "server_region": "ps-east-asia"
         },
         "8602823788895816": {
@@ -6543,11 +6591,11 @@
             "hp": 2152031.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -56166.69921875,
-                "y": -88890.96875,
-                "z": 21733.359375
+                "x": -55322.046875,
+                "y": -88502.78125,
+                "z": 21717.37890625
             },
-            "last_seen": "Mar 12, 2026, 4:07:01 PM",
+            "last_seen": "Mar 13, 2026, 4:03:31 PM",
             "level": 100,
             "name": "ミース0607",
             "name_history": [
@@ -7594,7 +7642,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 352,
-    "last_updated": "Mar 13, 2026, 4:02:31 PM",
+    "accounts_total": 354,
+    "last_updated": "Mar 13, 2026, 4:03:31 PM",
     "server_region": "ps-east-asia"
 }
