@@ -2272,14 +2272,14 @@
             "crew_name": "☆希望の光☆",
             "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 1968931.25,
+            "hp": 1911587.875,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -56494.796875,
-                "y": -87570.7265625,
-                "z": 21734.326171875
+                "x": -55048.59765625,
+                "y": -87118.0703125,
+                "z": 21724.669921875
             },
-            "last_seen": "Mar 12, 2026, 10:06:12 PM",
+            "last_seen": "Mar 13, 2026, 8:24:14 PM",
             "level": 100,
             "name": "幸姫",
             "name_history": [
@@ -6213,6 +6213,31 @@
             "role_id": 8602828083841189,
             "server_region": "ps-east-asia"
         },
+        "8602828083841267": {
+            "crew_history": [
+                "ゴールドコア教"
+            ],
+            "crew_id": 1232657616953,
+            "crew_name": "ゴールドコア教",
+            "equipping_title": "2_8_0_12",
+            "gender": 0,
+            "hp": 2189477.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55555.41796875,
+                "y": -88394.4765625,
+                "z": 21730.958984375
+            },
+            "last_seen": "Mar 13, 2026, 8:24:14 PM",
+            "level": 100,
+            "name": "鬼斬丸",
+            "name_history": [
+                "鬼斬丸"
+            ],
+            "registered": "Aug 9, 2023, 8:42:30 AM",
+            "role_id": 8602828083841267,
+            "server_region": "ps-east-asia"
+        },
         "8602828083841405": {
             "crew_history": [
                 "＼ねもけ／"
@@ -7122,11 +7147,11 @@
             "hp": 2774297.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55215.16015625,
-                "y": -86872.1015625,
-                "z": 21710.958984375
+                "x": -54986.73046875,
+                "y": -86804.0,
+                "z": 21710.98046875
             },
-            "last_seen": "Mar 12, 2026, 10:05:12 PM",
+            "last_seen": "Mar 13, 2026, 8:24:14 PM",
             "level": 100,
             "name": "ウンデカン",
             "name_history": [
@@ -8647,7 +8672,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 394,
-    "last_updated": "Mar 13, 2026, 8:23:14 PM",
+    "accounts_total": 395,
+    "last_updated": "Mar 13, 2026, 8:24:14 PM",
     "server_region": "ps-east-asia"
 }
