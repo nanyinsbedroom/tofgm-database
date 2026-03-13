@@ -5343,12 +5343,21 @@
             "server_region": "southeast-asia"
         },
         "68736656779327": {
+            "crew_history": [
+                "HiwKhao♥"
+            ],
             "crew_id": 2156073598602,
             "crew_name": "HiwKhao♥",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 1677316.875,
-            "last_seen": [],
+            "hp": 1779228.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71215.2734375,
+                "y": -29125.541015625,
+                "z": 11314.8017578125
+            },
+            "last_seen": "Mar 13, 2026, 2:16:37 PM",
             "level": 100,
             "name": "ปลาร้าบอง",
             "name_history": [
@@ -19664,11 +19673,26 @@
             "server_region": "southeast-asia"
         },
         "68775311741807": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Fairy Tail"
+            ],
+            "crew_id": 365072236176,
+            "crew_name": "Fairy Tail",
+            "equipping_title": "2_2_0_86",
             "gender": 1,
-            "last_seen": "Sep 18, 2025, 07:10:02 PM",
+            "hp": 1113679.125,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -33461.30078125,
+                "y": 41566.05078125,
+                "z": 13998.3193359375
+            },
+            "last_seen": "Mar 13, 2026, 2:16:37 PM",
+            "level": 100,
             "name": "Maishia",
+            "name_history": [
+                "Maishia"
+            ],
             "registered": "Jul 3, 2025, 8:34:40 AM",
             "role_id": 68775311741807,
             "server_region": "southeast-asia"
@@ -27576,12 +27600,12 @@
             "gender": 1,
             "hp": 2614102.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -55717.859375,
-                "y": -87027.71875,
-                "z": 21710.888671875
+                "map": "Vera_city",
+                "x": -34930.9296875,
+                "y": 40717.30859375,
+                "z": 13977.3193359375
             },
-            "last_seen": "Mar 12, 2026, 10:09:10 PM",
+            "last_seen": "Mar 13, 2026, 2:16:37 PM",
             "level": 100,
             "name": "Cinnamon Roll​",
             "name_history": [
@@ -33678,6 +33702,31 @@
             "role_id": 68809671079746,
             "server_region": "southeast-asia"
         },
+        "68809671082858": {
+            "crew_history": [
+                "Vocar Ed Regnum"
+            ],
+            "crew_id": 253403086473,
+            "crew_name": "Vocar Ed Regnum",
+            "equipping_title": "2_2_0_39",
+            "gender": 1,
+            "hp": 2141611.0,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -34587.609375,
+                "y": 41370.62890625,
+                "z": 13989.3193359375
+            },
+            "last_seen": "Mar 13, 2026, 2:16:37 PM",
+            "level": 100,
+            "name": "DISC0",
+            "name_history": [
+                "DISC0"
+            ],
+            "registered": "Nov 12, 2022, 3:32:01 PM",
+            "role_id": 68809671082858,
+            "server_region": "southeast-asia"
+        },
         "68813966183735": {
             "crew_id": 38654721665,
             "crew_name": "SOVEREIGN",
@@ -34004,7 +34053,7 @@
             "server_region": "southeast-asia"
         }
     },
-    "accounts_total": 2144,
-    "last_updated": "Mar 13, 2026, 2:14:37 PM",
+    "accounts_total": 2145,
+    "last_updated": "Mar 13, 2026, 2:16:37 PM",
     "server_region": "southeast-asia"
 }
