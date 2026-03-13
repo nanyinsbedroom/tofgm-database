@@ -1780,13 +1780,22 @@
             "server_region": "ps-southeast-asia"
         },
         "8607118756296835": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "◥◣猛獸喵喵屋◢◤"
+            ],
+            "crew_id": 536872916001,
+            "crew_name": "◥◣猛獸喵喵屋◢◤",
+            "equipping_title": "2_2_0_92",
             "gender": 0,
-            "hp": 458555.625,
-            "last_seen": "Nov 18, 2025, 11:16:48 AM",
-            "level": 46,
+            "hp": 1283888.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55001.5078125,
+                "y": -86783.75,
+                "z": 21721.990234375
+            },
+            "last_seen": "Mar 13, 2026, 2:07:37 PM",
+            "level": 100,
             "name": "凱伊",
             "name_history": [
                 "凱伊"
@@ -2085,6 +2094,6 @@
         }
     },
     "accounts_total": 124,
-    "last_updated": "Mar 12, 2026, 8:18:06 PM",
+    "last_updated": "Mar 13, 2026, 2:07:37 PM",
     "server_region": "ps-southeast-asia"
 }
