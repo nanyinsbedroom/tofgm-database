@@ -701,14 +701,14 @@
             "crew_name": "ちはやふる",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2470458.0,
+            "hp": 2492680.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55007.4296875,
-                "y": -87184.390625,
-                "z": 21721.98046875
+                "x": -53779.8984375,
+                "y": -87884.8984375,
+                "z": 21724.369140625
             },
-            "last_seen": "Mar 12, 2026, 6:22:50 PM",
+            "last_seen": "Mar 13, 2026, 8:23:14 PM",
             "level": 100,
             "name": "Christine·V",
             "name_history": [
@@ -843,11 +843,11 @@
             "hp": 2555534.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53672.796875,
-                "y": -88197.8984375,
-                "z": 21724.96875
+                "x": -52436.1875,
+                "y": -87714.921875,
+                "z": 21794.169921875
             },
-            "last_seen": "Mar 13, 2026, 8:02:20 PM",
+            "last_seen": "Mar 13, 2026, 8:23:14 PM",
             "level": 100,
             "name": "すては",
             "name_history": [
@@ -5362,11 +5362,11 @@
             "hp": 3066639.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53835.23046875,
-                "y": -88108.03125,
-                "z": 21711.0390625
+                "x": -54889.0,
+                "y": -88393.3125,
+                "z": 21861.416015625
             },
-            "last_seen": "Mar 12, 2026, 8:02:09 PM",
+            "last_seen": "Mar 13, 2026, 8:23:14 PM",
             "level": 100,
             "name": "弥勒",
             "name_history": [
@@ -6997,6 +6997,31 @@
             "role_id": 8602828083862645,
             "server_region": "ps-east-asia"
         },
+        "8602828083862829": {
+            "crew_history": [
+                "踊る明星"
+            ],
+            "crew_id": 3831112831033,
+            "crew_name": "踊る明星",
+            "equipping_title": "クレア　的后继者,1",
+            "gender": 1,
+            "hp": 2079671.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55167.95703125,
+                "y": -87072.6015625,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 13, 2026, 8:23:14 PM",
+            "level": 100,
+            "name": "アルマージュ",
+            "name_history": [
+                "アルマージュ"
+            ],
+            "registered": "Aug 13, 2023, 7:40:36 AM",
+            "role_id": 8602828083862829,
+            "server_region": "ps-east-asia"
+        },
         "8602828083863245": {
             "crew_history": [
                 "異世界の旅人"
@@ -8622,7 +8647,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 393,
-    "last_updated": "Mar 13, 2026, 8:22:14 PM",
+    "accounts_total": 394,
+    "last_updated": "Mar 13, 2026, 8:23:14 PM",
     "server_region": "ps-east-asia"
 }
