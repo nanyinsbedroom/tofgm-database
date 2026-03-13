@@ -7710,12 +7710,21 @@
             "server_region": "ps-east-asia"
         },
         "8602832378819752": {
+            "crew_history": [
+                "初心者の場所"
+            ],
             "crew_id": 3680788975674,
             "crew_name": "初心者の場所",
             "equipping_title": "唐揚げマヨ仙人♪的导师,0",
             "gender": 1,
-            "hp": 2384306.75,
-            "last_seen": "Nov 18, 2025, 06:05:01 PM",
+            "hp": 2633414.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54756.95703125,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 13, 2026, 4:23:32 PM",
             "level": 100,
             "name": "ムンンパステル",
             "name_history": [
@@ -7889,6 +7898,6 @@
         }
     },
     "accounts_total": 364,
-    "last_updated": "Mar 13, 2026, 4:20:32 PM",
+    "last_updated": "Mar 13, 2026, 4:23:32 PM",
     "server_region": "ps-east-asia"
 }
