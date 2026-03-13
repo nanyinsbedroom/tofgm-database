@@ -17529,14 +17529,14 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1642301.75,
+            "hp": 1650894.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1290.699951171875,
-                "y": -28317.859375,
-                "z": 97877.1171875
+                "x": 1158.1500244140625,
+                "y": -25207.5,
+                "z": 96721.9609375
             },
-            "last_seen": "2026年3月7日 下午9:11:05",
+            "last_seen": "2026年3月13日 下午9:22:35",
             "level": 85,
             "name": "和风随你意",
             "name_history": [
@@ -48973,15 +48973,15 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 0.0,
+            "hp": 1544760.625,
             "last_known_position": {
                 "map": "city",
-                "x": 2188.0,
-                "y": -27056.19921875,
+                "x": 1281.2999267578125,
+                "y": -28315.3984375,
                 "z": 97872.6171875
             },
-            "last_seen": "2026年2月21日 上午12:56:17",
-            "level": 84,
+            "last_seen": "2026年3月13日 下午9:22:35",
+            "level": 85,
             "name": "暮色云霄",
             "name_history": [
                 "暮色云霄"
@@ -64731,17 +64731,17 @@
             ],
             "crew_id": 128849033684,
             "crew_name": "月歌行",
-            "equipping_title": "1_9_0_2",
+            "equipping_title": "WorldBossDamage_3;boss_hum_067_World;29",
             "gender": 1,
-            "hp": 1230506.25,
+            "hp": 1432467.75,
             "last_known_position": {
                 "map": "city",
-                "x": -1806.5,
-                "y": -24488.900390625,
-                "z": 97878.8359375
+                "x": 17.0,
+                "y": -28520.69921875,
+                "z": 97879.1171875
             },
-            "last_seen": "2026年2月20日 上午2:03:27",
-            "level": 84,
+            "last_seen": "2026年3月13日 下午9:22:35",
+            "level": 85,
             "name": "默默ovo",
             "name_history": [
                 "默默ovo"
@@ -85746,6 +85746,29 @@
             "role_id": 63582696018291,
             "server_region": "cosmic-fold"
         },
+        "63582696018409": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 46538.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -15.269999504089355,
+                "y": -22050.650390625,
+                "z": 96750.8515625
+            },
+            "last_seen": "2026年3月13日 下午9:22:35",
+            "level": 10,
+            "name": "千叶晚风",
+            "name_history": [
+                "千叶晚风"
+            ],
+            "registered": "2026年3月12日 下午7:25:04",
+            "role_id": 63582696018409,
+            "server_region": "cosmic-fold"
+        },
         "63582696018436": {
             "crew_history": [],
             "crew_id": 0,
@@ -86046,7 +86069,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5591,
-    "last_updated": "2026年3月13日 下午9:20:35",
+    "accounts_total": 5592,
+    "last_updated": "2026年3月13日 下午9:22:35",
     "server_region": "cosmic-fold"
 }
