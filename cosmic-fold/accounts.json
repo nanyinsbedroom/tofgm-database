@@ -12984,14 +12984,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1500269.125,
+            "hp": 1503955.5,
             "last_known_position": {
                 "map": "city",
-                "x": 933.3099975585938,
-                "y": -28709.619140625,
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
                 "z": 97869.1171875
             },
-            "last_seen": "2026年3月7日 下午8:50:04",
+            "last_seen": "2026年3月13日 下午9:16:35",
             "level": 85,
             "name": "阿妮娅",
             "name_history": [
@@ -25131,14 +25131,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1579537.125,
+            "hp": 1642144.375,
             "last_known_position": {
                 "map": "city",
-                "x": 912.3699951171875,
-                "y": -25648.978515625,
-                "z": 96720.4609375
+                "x": 1301.699951171875,
+                "y": -28110.19921875,
+                "z": 97879.6171875
             },
-            "last_seen": "2026年2月27日 下午11:16:53",
+            "last_seen": "2026年3月13日 下午9:16:35",
             "level": 85,
             "name": "蛋挞",
             "name_history": [
@@ -46501,15 +46501,15 @@
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 198755.203125,
+            "hp": 939389.75,
             "last_known_position": {
                 "map": "city",
-                "x": -1751.2999267578125,
-                "y": -28694.69921875,
-                "z": 97878.6953125
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97878.875
             },
-            "last_seen": "2026年2月21日 上午2:09:20",
-            "level": 82,
+            "last_seen": "2026年3月13日 下午9:16:35",
+            "level": 84,
             "name": "塔塔风味奶",
             "name_history": [
                 "塔塔风味奶"
@@ -80184,6 +80184,29 @@
             "role_id": 63582696011246,
             "server_region": "cosmic-fold"
         },
+        "63582696011247": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 33908.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 37.189998626708984,
+                "y": -22005.0,
+                "z": 96745.859375
+            },
+            "last_seen": "2026年3月13日 下午9:16:35",
+            "level": 11,
+            "name": "换套",
+            "name_history": [
+                "换套"
+            ],
+            "registered": "2026年2月27日 下午12:01:15",
+            "role_id": 63582696011247,
+            "server_region": "cosmic-fold"
+        },
         "63582696011258": {
             "crew_history": [],
             "crew_id": 0,
@@ -85842,15 +85865,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 21424.0,
+            "hp": 31112.0,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -93303.015625,
-                "y": 85595.4375,
-                "z": -7028.24072265625
+                "map": "city",
+                "x": -72.0,
+                "y": -22119.888671875,
+                "z": 96748.859375
             },
-            "last_seen": "2026年3月13日 下午9:04:35",
-            "level": 8,
+            "last_seen": "2026年3月13日 下午9:16:35",
+            "level": 11,
             "name": "OVEO",
             "name_history": [
                 "OVEO"
@@ -85952,7 +85975,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5587,
-    "last_updated": "2026年3月13日 下午9:15:35",
+    "accounts_total": 5588,
+    "last_updated": "2026年3月13日 下午9:16:35",
     "server_region": "cosmic-fold"
 }
