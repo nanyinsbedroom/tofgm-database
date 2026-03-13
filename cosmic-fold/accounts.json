@@ -45770,17 +45770,17 @@
             ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "2_7_0_19",
+            "equipping_title": "2_7_0_20",
             "gender": 1,
-            "hp": 1437372.875,
+            "hp": 1637642.875,
             "last_known_position": {
                 "map": "city",
-                "x": -4789.0400390625,
-                "y": -25608.5390625,
-                "z": 97297.40625
+                "x": -2275.27001953125,
+                "y": -29597.33984375,
+                "z": 96817.90625
             },
-            "last_seen": "2026年2月21日 上午12:21:15",
-            "level": 84,
+            "last_seen": "2026年3月13日 下午9:18:35",
+            "level": 85,
             "name": "甘織",
             "name_history": [
                 "甘織"
@@ -49737,15 +49737,15 @@
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 587396.9375,
+            "hp": 899883.9375,
             "last_known_position": {
                 "map": "city",
-                "x": -1762.89990234375,
-                "y": -28679.0,
-                "z": 97868.6953125
+                "x": -1547.5999755859375,
+                "y": -28671.19921875,
+                "z": 97868.875
             },
-            "last_seen": "2026年3月7日 上午1:25:49",
-            "level": 82,
+            "last_seen": "2026年3月13日 下午9:18:35",
+            "level": 84,
             "name": "双层吉士堡",
             "name_history": [
                 "双层吉士堡",
@@ -51430,14 +51430,14 @@
             "crew_name": "命运石之门",
             "equipping_title": "2_7_0_16",
             "gender": 1,
-            "hp": 1611786.625,
+            "hp": 1620925.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1554.25,
-                "y": -27956.69921875,
+                "x": 1812.949951171875,
+                "y": -27600.779296875,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年3月7日 下午8:51:04",
+            "last_seen": "2026年3月13日 下午9:18:35",
             "level": 85,
             "name": "ToDesk",
             "name_history": [
@@ -65433,6 +65433,31 @@
             "role_id": 63582695985183,
             "server_region": "cosmic-fold"
         },
+        "63582695985338": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "4_2026",
+            "gender": 1,
+            "hp": 166369.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1783.699951171875,
+                "y": -28693.298828125,
+                "z": 97872.1796875
+            },
+            "last_seen": "2026年3月13日 下午9:18:35",
+            "level": 66,
+            "name": "鲤一",
+            "name_history": [
+                "鲤一"
+            ],
+            "registered": "2026年1月9日 上午11:16:02",
+            "role_id": 63582695985338,
+            "server_region": "cosmic-fold"
+        },
         "63582695985345": {
             "crew_history": [
                 "NOVA学院"
@@ -73281,6 +73306,29 @@
             ],
             "registered": "2026年2月6日 上午4:14:52",
             "role_id": 63582696003535,
+            "server_region": "cosmic-fold"
+        },
+        "63582696003568": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "狂桑的学徒,0",
+            "gender": 1,
+            "hp": 206443.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 1888.3499755859375,
+                "y": -27833.958984375,
+                "z": 97861.1171875
+            },
+            "last_seen": "2026年3月13日 下午9:18:35",
+            "level": 61,
+            "name": "凌待",
+            "name_history": [
+                "凌待"
+            ],
+            "registered": "2026年2月6日 上午8:31:38",
+            "role_id": 63582696003568,
             "server_region": "cosmic-fold"
         },
         "63582696003583": {
@@ -85998,7 +86046,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5589,
-    "last_updated": "2026年3月13日 下午9:17:35",
+    "accounts_total": 5591,
+    "last_updated": "2026年3月13日 下午9:18:35",
     "server_region": "cosmic-fold"
 }
