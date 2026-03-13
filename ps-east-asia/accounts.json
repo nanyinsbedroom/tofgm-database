@@ -1276,16 +1276,16 @@
             ],
             "crew_id": 2366528983097,
             "crew_name": "キラのおもちゃ箱",
-            "equipping_title": "2_2_0_38",
+            "equipping_title": "2_2_0_37",
             "gender": 1,
-            "hp": 2763753.5,
+            "hp": 2760556.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54977.82421875,
-                "y": -86752.40625,
-                "z": 21717.490234375
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
             },
-            "last_seen": "Mar 12, 2026, 12:16:48 PM",
+            "last_seen": "Mar 13, 2026, 6:17:41 PM",
             "level": 100,
             "name": "マミヤ",
             "name_history": [
@@ -1293,6 +1293,31 @@
             ],
             "registered": "Aug 28, 2023, 7:20:11 AM",
             "role_id": 8602823788893712,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788893717": {
+            "crew_history": [
+                "キラのおもちゃ箱"
+            ],
+            "crew_id": 2366528983097,
+            "crew_name": "キラのおもちゃ箱",
+            "equipping_title": "HuntingRank_1;imitation_5;1",
+            "gender": 0,
+            "hp": 2911405.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53805.84765625,
+                "y": -88052.8515625,
+                "z": 21721.94921875
+            },
+            "last_seen": "Mar 13, 2026, 6:17:41 PM",
+            "level": 100,
+            "name": "ﾚｲ",
+            "name_history": [
+                "ﾚｲ"
+            ],
+            "registered": "Aug 28, 2023, 7:57:46 AM",
+            "role_id": 8602823788893717,
             "server_region": "ps-east-asia"
         },
         "8602823788894194": {
@@ -8123,7 +8148,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 373,
-    "last_updated": "Mar 13, 2026, 6:16:41 PM",
+    "accounts_total": 374,
+    "last_updated": "Mar 13, 2026, 6:17:41 PM",
     "server_region": "ps-east-asia"
 }
