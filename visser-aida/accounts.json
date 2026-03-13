@@ -12497,12 +12497,21 @@
             "server_region": "visser-aida"
         },
         "60657823131768": {
+            "crew_history": [
+                "绯月"
+            ],
             "crew_id": 47244654378,
             "crew_name": "绯月",
-            "equipping_title": "3_2021",
+            "equipping_title": "4_2021",
             "gender": 0,
-            "hp": 31815096.0,
-            "last_seen": "2025年12月25日 上午 4:20:59",
+            "hp": 1366521.125,
+            "last_known_position": {
+                "map": "city",
+                "x": 75.2699966430664,
+                "y": -16468.21875,
+                "z": 96376.03125
+            },
+            "last_seen": "2026年3月13日 下午9:29:35",
             "level": 100,
             "name": "法尔法",
             "name_history": [
@@ -24362,6 +24371,6 @@
         }
     },
     "accounts_total": 1363,
-    "last_updated": "2026年3月13日 下午9:27:35",
+    "last_updated": "2026年3月13日 下午9:29:35",
     "server_region": "visser-aida"
 }
