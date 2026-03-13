@@ -440,12 +440,21 @@
             "server_region": "visser-aida"
         },
         "60567628812811": {
+            "crew_history": [
+                "猫猫乐园"
+            ],
             "crew_id": 34359752575,
             "crew_name": "猫猫乐园",
             "equipping_title": "4_2021",
             "gender": 1,
-            "hp": 1876979.25,
-            "last_seen": "2026年01月23日 上午 2:34:14",
+            "hp": 1899712.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.549999237060547,
+                "y": -16482.919921875,
+                "z": 96370.03125
+            },
+            "last_seen": "2026年3月13日 下午7:35:36",
             "level": 100,
             "name": "佑天寺喵梦",
             "name_history": [
@@ -453,6 +462,31 @@
             ],
             "registered": "2021年12月16日 上午8:01:56",
             "role_id": 60567628812811,
+            "server_region": "visser-aida"
+        },
+        "60567628812915": {
+            "crew_history": [
+                "漂移猫车驾校"
+            ],
+            "crew_id": 2044404447000,
+            "crew_name": "漂移猫车驾校",
+            "equipping_title": "2_2_0_39",
+            "gender": 1,
+            "hp": 2413342.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -0.21107184886932373,
+                "y": -20650.439453125,
+                "z": 97799.1015625
+            },
+            "last_seen": "2026年3月13日 下午7:35:36",
+            "level": 100,
+            "name": "索菲蒂亚",
+            "name_history": [
+                "索菲蒂亚"
+            ],
+            "registered": "2021年12月16日 上午8:02:09",
+            "role_id": 60567628812915,
             "server_region": "visser-aida"
         },
         "60567628813181": {
@@ -24118,7 +24152,7 @@
             "server_region": "visser-aida"
         }
     },
-    "accounts_total": 1354,
-    "last_updated": "2026年3月13日 上午12:53:03",
+    "accounts_total": 1355,
+    "last_updated": "2026年3月13日 下午7:35:36",
     "server_region": "visser-aida"
 }
