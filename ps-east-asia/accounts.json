@@ -727,11 +727,11 @@
             "hp": 2632435.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55138.66796875,
-                "y": -91100.828125,
-                "z": 22094.9765625
+                "x": -54692.6640625,
+                "y": -88014.1328125,
+                "z": 21724.548828125
             },
-            "last_seen": "Mar 12, 2026, 7:59:08 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": " kuro",
             "name_history": [
@@ -815,14 +815,14 @@
             "crew_name": "Lord",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2579770.75,
+            "hp": 2555534.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55538.796875,
-                "y": -88761.5390625,
-                "z": 21725.0
+                "x": -53672.796875,
+                "y": -88197.8984375,
+                "z": 21724.96875
             },
-            "last_seen": "Mar 13, 2026, 6:23:41 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "すては",
             "name_history": [
@@ -883,12 +883,21 @@
             "server_region": "ps-east-asia"
         },
         "8602823788873277": {
+            "crew_history": [
+                "アムネシア"
+            ],
             "crew_id": 73016447033,
             "crew_name": "アムネシア",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 1971320.0,
-            "last_seen": "Nov 18, 2025, 06:02:01 PM",
+            "hp": 2086938.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54093.9296875,
+                "y": -88012.4375,
+                "z": 21726.310546875
+            },
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "アーケル",
             "name_history": [
@@ -1639,11 +1648,11 @@
             "hp": 1912186.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54164.65625,
-                "y": -87752.421875,
-                "z": 21717.33984375
+                "x": -53911.09765625,
+                "y": -87752.53125,
+                "z": 21717.548828125
             },
-            "last_seen": "Mar 12, 2026, 12:18:48 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "ペコリーヌ",
             "name_history": [
@@ -2009,11 +2018,11 @@
             "hp": 2918020.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55095.828125,
-                "y": -87305.421875,
-                "z": 21710.900390625
+                "x": -53972.77734375,
+                "y": -88190.015625,
+                "z": 21711.0
             },
-            "last_seen": "Mar 12, 2026, 10:06:12 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "한단_DAN",
             "name_history": [
@@ -2394,11 +2403,11 @@
             "hp": 861333.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54938.515625,
-                "y": -86701.5703125,
-                "z": 21722.0
+                "x": -53485.34765625,
+                "y": -87738.796875,
+                "z": 21736.69921875
             },
-            "last_seen": "Mar 12, 2026, 8:14:09 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "No. 621",
             "name_history": [
@@ -2529,6 +2538,29 @@
             ],
             "registered": "Aug 24, 2024, 5:28:12 PM",
             "role_id": 8602823788965230,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788965850": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 844307.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -50346.30859375,
+                "y": -90949.6171875,
+                "z": 21859.859375
+            },
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
+            "level": 100,
+            "name": "☆ステラ☆",
+            "name_history": [
+                "☆ステラ☆"
+            ],
+            "registered": "Oct 7, 2024, 10:05:51 PM",
+            "role_id": 8602823788965850,
             "server_region": "ps-east-asia"
         },
         "8602823788966004": {
@@ -2866,6 +2898,31 @@
             ],
             "registered": "Dec 29, 2024, 10:28:33 PM",
             "role_id": 8602823788973154,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788973766": {
+            "crew_history": [
+                "初心者の場所"
+            ],
+            "crew_id": 3680788975674,
+            "crew_name": "初心者の場所",
+            "equipping_title": "ウンデカン的学徒,0",
+            "gender": 0,
+            "hp": 2290324.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -56169.75,
+                "y": -88577.234375,
+                "z": 21858.900390625
+            },
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
+            "level": 100,
+            "name": "wahaha",
+            "name_history": [
+                "wahaha"
+            ],
+            "registered": "Jan 5, 2025, 1:17:24 PM",
+            "role_id": 8602823788973766,
             "server_region": "ps-east-asia"
         },
         "8602823788973839": {
@@ -3230,6 +3287,31 @@
             ],
             "registered": "Apr 26, 2025, 1:13:28 AM",
             "role_id": 8602823788980766,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788981094": {
+            "crew_history": [
+                "冒険者協会"
+            ],
+            "crew_id": 244815138873,
+            "crew_name": "冒険者協会",
+            "equipping_title": "1_6_4_41",
+            "gender": 1,
+            "hp": 1275477.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53979.98828125,
+                "y": -88276.25,
+                "z": 21727.109375
+            },
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
+            "level": 100,
+            "name": "Secretエイメスはぁと♪♪",
+            "name_history": [
+                "Secretエイメスはぁと♪♪"
+            ],
+            "registered": "May 1, 2025, 3:12:10 PM",
+            "role_id": 8602823788981094,
             "server_region": "ps-east-asia"
         },
         "8602823788981286": {
@@ -6404,11 +6486,11 @@
             "hp": 1818464.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54185.8984375,
-                "y": -92322.8984375,
-                "z": 21732.2421875
+                "x": -54312.46875,
+                "y": -92318.1015625,
+                "z": 21728.4296875
             },
-            "last_seen": "Mar 12, 2026, 12:27:49 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "床ソムリエ",
             "name_history": [
@@ -6427,11 +6509,11 @@
             "hp": 1845850.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54618.35546875,
-                "y": -88188.8359375,
-                "z": 21725.01953125
+                "x": -55355.16796875,
+                "y": -88401.0,
+                "z": 21724.888671875
             },
-            "last_seen": "Mar 12, 2026, 8:04:09 PM",
+            "last_seen": "Mar 13, 2026, 8:02:20 PM",
             "level": 100,
             "name": "霧風",
             "name_history": [
@@ -8246,7 +8328,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 378,
-    "last_updated": "Mar 13, 2026, 6:38:42 PM",
+    "accounts_total": 381,
+    "last_updated": "Mar 13, 2026, 8:02:20 PM",
     "server_region": "ps-east-asia"
 }
