@@ -2042,14 +2042,14 @@
             "crew_name": "ちはやふる",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2469124.25,
+            "hp": 2339081.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55057.4375,
-                "y": -87265.0625,
-                "z": 21717.548828125
+                "x": -55997.609375,
+                "y": -86145.546875,
+                "z": 21834.69921875
             },
-            "last_seen": "Mar 13, 2026, 8:05:20 PM",
+            "last_seen": "Mar 13, 2026, 8:26:14 PM",
             "level": 100,
             "name": "シルビアS15",
             "name_history": [
@@ -2663,6 +2663,31 @@
             ],
             "registered": "Aug 24, 2024, 5:28:12 PM",
             "role_id": 8602823788965230,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788965345": {
+            "crew_history": [
+                "幻のストレイにゃんズ"
+            ],
+            "crew_id": 1202592845882,
+            "crew_name": "幻のストレイにゃんズ",
+            "equipping_title": "2_10_3_1",
+            "gender": 1,
+            "hp": 2090511.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55687.12890625,
+                "y": -88534.0703125,
+                "z": 21717.388671875
+            },
+            "last_seen": "Mar 13, 2026, 8:26:14 PM",
+            "level": 100,
+            "name": "テフヌト",
+            "name_history": [
+                "テフヌト"
+            ],
+            "registered": "Aug 30, 2024, 8:25:00 PM",
+            "role_id": 8602823788965345,
             "server_region": "ps-east-asia"
         },
         "8602823788965850": {
@@ -8697,7 +8722,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 396,
-    "last_updated": "Mar 13, 2026, 8:25:14 PM",
+    "accounts_total": 397,
+    "last_updated": "Mar 13, 2026, 8:26:14 PM",
     "server_region": "ps-east-asia"
 }
