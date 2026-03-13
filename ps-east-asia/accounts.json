@@ -2286,14 +2286,14 @@
             "crew_name": "キラのおもちゃ箱",
             "equipping_title": "2_2_0_38",
             "gender": 1,
-            "hp": 1893122.625,
+            "hp": 1916027.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55179.27734375,
-                "y": -86531.546875,
-                "z": 21747.41015625
+                "x": -54212.09765625,
+                "y": -92248.6953125,
+                "z": 21727.599609375
             },
-            "last_seen": "Mar 12, 2026, 6:26:50 PM",
+            "last_seen": "Mar 13, 2026, 6:05:41 PM",
             "level": 100,
             "name": "KIRA MAM",
             "name_history": [
@@ -6532,6 +6532,29 @@
             "role_id": 8602828083865361,
             "server_region": "ps-east-asia"
         },
+        "8602828083866485": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_0_1",
+            "gender": 0,
+            "hp": 1641159.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55710.5703125,
+                "y": -88131.0390625,
+                "z": 21734.05859375
+            },
+            "last_seen": "Mar 13, 2026, 6:05:41 PM",
+            "level": 100,
+            "name": "F.Fritz",
+            "name_history": [
+                "F.Fritz"
+            ],
+            "registered": "Aug 14, 2023, 1:02:30 PM",
+            "role_id": 8602828083866485,
+            "server_region": "ps-east-asia"
+        },
         "8602828083866605": {
             "crew_history": [
                 "初心者の場所"
@@ -6774,6 +6797,31 @@
             ],
             "registered": "Aug 26, 2023, 10:36:05 AM",
             "role_id": 8602828083883132,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083883938": {
+            "crew_history": [
+                "ちはやふる"
+            ],
+            "crew_id": 511103111226,
+            "crew_name": "ちはやふる",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 1361017.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55356.94921875,
+                "y": -87294.4609375,
+                "z": 21725.5390625
+            },
+            "last_seen": "Mar 13, 2026, 6:05:41 PM",
+            "level": 100,
+            "name": "ろんちび",
+            "name_history": [
+                "ろんちび"
+            ],
+            "registered": "Aug 27, 2023, 5:53:59 AM",
+            "role_id": 8602828083883938,
             "server_region": "ps-east-asia"
         },
         "8602828083884413": {
@@ -7897,7 +7945,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 364,
-    "last_updated": "Mar 13, 2026, 4:23:32 PM",
+    "accounts_total": 366,
+    "last_updated": "Mar 13, 2026, 6:05:41 PM",
     "server_region": "ps-east-asia"
 }
