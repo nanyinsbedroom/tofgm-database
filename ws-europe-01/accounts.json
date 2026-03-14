@@ -1523,15 +1523,15 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1140358.375,
+            "hp": 1246315.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1899.72998046875,
-                "y": -22931.0,
-                "z": 96737.8359375
+                "x": 461.5999755859375,
+                "y": -22113.048828125,
+                "z": 96737.859375
             },
-            "last_seen": "Mar 5, 2026, 7:06:48 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:58:38 PM",
+            "level": 78,
             "name": "Fistashka",
             "name_history": [
                 "Fistashka"
@@ -2040,13 +2040,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480137": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 590593.25,
-            "last_seen": [],
-            "level": 71,
+            "hp": 771776.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97879.6171875
+            },
+            "last_seen": "Mar 14, 2026, 6:58:38 PM",
+            "level": 75,
             "name": "イセル",
             "name_history": [
                 "イセル"
@@ -7573,13 +7582,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708483701": {
+            "crew_history": [
+                "Bad Company"
+            ],
             "crew_id": 408030781223,
             "crew_name": "Bad Company",
-            "equipping_title": "Хилер's Apprentice,0",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 541088.625,
-            "last_seen": "Feb 7, 2026, 8:01:02 PM",
-            "level": 70,
+            "hp": 623554.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1950.39990234375,
+                "y": -24324.298828125,
+                "z": 97876.6015625
+            },
+            "last_seen": "Mar 14, 2026, 6:58:38 PM",
+            "level": 72,
             "name": "Хилep",
             "name_history": [
                 "Хилep"
@@ -15974,17 +15992,17 @@
             ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "1_6_2_2",
+            "equipping_title": "2_4_0_5",
             "gender": 0,
-            "hp": 1084413.125,
+            "hp": 1118240.5,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -42308.19921875,
-                "y": 84575.828125,
-                "z": -14195.44921875
+                "map": "city",
+                "x": 2938.31982421875,
+                "y": -25494.099609375,
+                "z": 96719.1953125
             },
-            "last_seen": "Mar 5, 2026, 6:57:48 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:58:38 PM",
+            "level": 78,
             "name": "Mere",
             "name_history": [
                 "Mere"
@@ -24591,6 +24609,6 @@
         }
     },
     "accounts_total": 1310,
-    "last_updated": "Mar 14, 2026, 6:56:38 PM",
+    "last_updated": "Mar 14, 2026, 6:58:38 PM",
     "server_region": "ws-europe-01"
 }
