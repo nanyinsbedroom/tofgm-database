@@ -14905,17 +14905,17 @@
             ],
             "crew_id": 502520061734,
             "crew_name": "Mishi-Raymi",
-            "equipping_title": "Micali's Enlightener,1",
+            "equipping_title": "Micali的启迪人,1",
             "gender": 1,
-            "hp": 1161066.25,
+            "hp": 1217316.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91271.6015625,
-                "y": 76246.3046875,
-                "z": -7085.1298828125
+                "x": -89591.96875,
+                "y": 75219.390625,
+                "z": -6833.31982421875
             },
-            "last_seen": "Mar 3, 2026, 9:00:42 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 2:56:59 PM",
+            "level": 78,
             "name": "panquecito",
             "name_history": [
                 "panquecito"
@@ -34781,6 +34781,31 @@
             "role_id": 38174107413585176,
             "server_region": "ws-america-01"
         },
+        "38174107413585243": {
+            "crew_history": [
+                "SHOOTING ST☆R"
+            ],
+            "crew_id": 897657052966,
+            "crew_name": "SHOOTING ST☆R",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 172258.40625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -93934.7578125,
+                "y": 84144.4296875,
+                "z": -7027.4541015625
+            },
+            "last_seen": "Mar 14, 2026, 2:56:59 PM",
+            "level": 62,
+            "name": "Xhzuyan",
+            "name_history": [
+                "Xhzuyan"
+            ],
+            "registered": "Mar 7, 2026, 1:08:42 AM",
+            "role_id": 38174107413585243,
+            "server_region": "ws-america-01"
+        },
         "38174107413585245": {
             "crew_history": [],
             "crew_id": 0,
@@ -34874,9 +34899,32 @@
             "registered": "Mar 10, 2026, 8:05:15 PM",
             "role_id": 38174107413585772,
             "server_region": "ws-america-01"
+        },
+        "38174107413586239": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 16247.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91816.5234375,
+                "y": 77134.40625,
+                "z": -7091.52734375
+            },
+            "last_seen": "Mar 14, 2026, 2:56:59 PM",
+            "level": 4,
+            "name": "Mini Mini",
+            "name_history": [
+                "Mini Mini"
+            ],
+            "registered": "Mar 14, 2026, 2:39:28 PM",
+            "role_id": 38174107413586239,
+            "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1851,
-    "last_updated": "Mar 14, 2026, 2:55:59 PM",
+    "accounts_total": 1853,
+    "last_updated": "Mar 14, 2026, 2:56:59 PM",
     "server_region": "ws-america-01"
 }
