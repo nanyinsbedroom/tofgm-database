@@ -1325,6 +1325,29 @@
             "role_id": 8598528822032466,
             "server_region": "ps-europe"
         },
+        "8598528822033322": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 464713.21875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54786.59765625,
+                "y": -87036.1953125,
+                "z": 21724.46875
+            },
+            "last_seen": "Mar 14, 2026, 6:12:18 PM",
+            "level": 88,
+            "name": "Karlla",
+            "name_history": [
+                "Karlla"
+            ],
+            "registered": "Aug 20, 2025, 5:34:20 AM",
+            "role_id": 8598528822033322,
+            "server_region": "ps-europe"
+        },
         "8598528822043781": {
             "crew_history": [],
             "crew_id": 0,
@@ -5954,6 +5977,31 @@
             "role_id": 8598537411510270,
             "server_region": "ps-europe"
         },
+        "8598537411518419": {
+            "crew_history": [
+                "Slayer"
+            ],
+            "crew_id": 68721478740,
+            "crew_name": "Slayer",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1738035.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55256.48828125,
+                "y": -87096.9453125,
+                "z": 21717.37890625
+            },
+            "last_seen": "Mar 14, 2026, 6:12:18 PM",
+            "level": 100,
+            "name": "Furinafontaine",
+            "name_history": [
+                "Furinafontaine"
+            ],
+            "registered": "Aug 10, 2023, 5:00:19 PM",
+            "role_id": 8598537411518419,
+            "server_region": "ps-europe"
+        },
         "8598537411519892": {
             "crew_id": 6476812684369,
             "crew_name": "Light of Hope",
@@ -6946,7 +6994,7 @@
             "server_region": "ps-europe"
         }
     },
-    "accounts_total": 417,
-    "last_updated": "Mar 14, 2026, 6:10:18 PM",
+    "accounts_total": 419,
+    "last_updated": "Mar 14, 2026, 6:12:18 PM",
     "server_region": "ps-europe"
 }
