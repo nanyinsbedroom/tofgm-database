@@ -589,6 +589,31 @@
             "role_id": 42945811784529735,
             "server_region": "korea"
         },
+        "42945811784530322": {
+            "crew_history": [
+                "츄르"
+            ],
+            "crew_id": 1937040249597,
+            "crew_name": "츄르",
+            "equipping_title": "1_6_3_1",
+            "gender": 0,
+            "hp": 1962408.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54368.078125,
+                "y": -87387.1796875,
+                "z": 21788.71875
+            },
+            "last_seen": "Mar 14, 2026, 5:04:03 AM",
+            "level": 100,
+            "name": "블 랙오공",
+            "name_history": [
+                "블 랙오공"
+            ],
+            "registered": "Feb 21, 2024, 7:52:54 PM",
+            "role_id": 42945811784530322,
+            "server_region": "korea"
+        },
         "42945811784531961": {
             "crew_id": 0,
             "crew_name": "",
@@ -918,15 +943,15 @@
             "crew_name": "츄르",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1018338.75,
+            "hp": 1053819.75,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53770.2578125,
-                "y": -87678.65625,
-                "z": 21726.458984375
+                "x": -55021.890625,
+                "y": -86807.4765625,
+                "z": 21710.888671875
             },
-            "last_seen": "Mar 11, 2026, 2:23:11 PM",
-            "level": 80,
+            "last_seen": "Mar 14, 2026, 5:04:03 AM",
+            "level": 85,
             "name": "윈_터",
             "name_history": [
                 "윈_터"
@@ -1154,6 +1179,31 @@
             ],
             "registered": "Aug 11, 2022, 3:21:05 PM",
             "role_id": 42945816079385573,
+            "server_region": "korea"
+        },
+        "42945816079385589": {
+            "crew_history": [
+                "쿵야"
+            ],
+            "crew_id": 17189868286,
+            "crew_name": "쿵야",
+            "equipping_title": "3_2022",
+            "gender": 1,
+            "hp": 2755783.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53551.5,
+                "y": -87765.796875,
+                "z": 21724.150390625
+            },
+            "last_seen": "Mar 14, 2026, 5:04:03 AM",
+            "level": 100,
+            "name": "특사스",
+            "name_history": [
+                "특사스"
+            ],
+            "registered": "Aug 11, 2022, 3:22:10 PM",
+            "role_id": 42945816079385589,
             "server_region": "korea"
         },
         "42945816079388822": {
@@ -3149,7 +3199,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 189,
-    "last_updated": "Mar 11, 2026, 8:21:59 PM",
+    "accounts_total": 191,
+    "last_updated": "Mar 14, 2026, 5:04:03 AM",
     "server_region": "korea"
 }
