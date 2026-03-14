@@ -10334,12 +10334,21 @@
             "server_region": "ps-east-asia"
         },
         "8602832378814475": {
+            "crew_history": [
+                "喫茶ゆったり"
+            ],
             "crew_id": 25771806779,
             "crew_name": "喫茶ゆったり",
             "equipping_title": "1_1_3_1",
             "gender": 1,
-            "hp": 2130897.75,
-            "last_seen": "Nov 18, 2025, 06:02:01 PM",
+            "hp": 2271736.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55185.52734375,
+                "y": -86878.9453125,
+                "z": 21716.869140625
+            },
+            "last_seen": "Mar 14, 2026, 8:18:26 PM",
             "level": 100,
             "name": "味伊島李音",
             "name_history": [
@@ -10787,6 +10796,6 @@
         }
     },
     "accounts_total": 479,
-    "last_updated": "Mar 14, 2026, 8:17:26 PM",
+    "last_updated": "Mar 14, 2026, 8:18:26 PM",
     "server_region": "ps-east-asia"
 }
