@@ -9728,13 +9728,20 @@
             "server_region": "ws-europe-01"
         },
         "38174111708485801": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
-            "equipping_title": "1_7_1_1",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 238133.8125,
-            "last_seen": "Feb 8, 2026, 9:46:51 PM",
-            "level": 71,
+            "hp": 502812.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55075.12890625,
+                "y": -87064.0703125,
+                "z": 21717.48046875
+            },
+            "last_seen": "Mar 14, 2026, 8:30:01 PM",
+            "level": 76,
             "name": "☆PowPow☆",
             "name_history": [
                 "☆PowPow☆"
@@ -24860,6 +24867,6 @@
         }
     },
     "accounts_total": 1318,
-    "last_updated": "Mar 14, 2026, 8:28:01 PM",
+    "last_updated": "Mar 14, 2026, 8:30:01 PM",
     "server_region": "ws-europe-01"
 }
