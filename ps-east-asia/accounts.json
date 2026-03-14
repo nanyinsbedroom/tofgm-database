@@ -1213,14 +1213,14 @@
             "crew_name": "アムネシア",
             "equipping_title": "1_6_3_1",
             "gender": 0,
-            "hp": 2550929.0,
+            "hp": 2680897.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.453125,
-                "y": -88115.4765625,
-                "z": 21722.037109375
+                "x": -54860.45703125,
+                "y": -87265.46875,
+                "z": 21721.888671875
             },
-            "last_seen": "Mar 13, 2026, 10:20:28 PM",
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "kuroman",
             "name_history": [
@@ -2388,14 +2388,14 @@
             "crew_name": "ちはやふる",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2339081.0,
+            "hp": 2469124.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55997.609375,
-                "y": -86145.546875,
-                "z": 21834.69921875
+                "x": -56128.8671875,
+                "y": -87361.625,
+                "z": 21733.548828125
             },
-            "last_seen": "Mar 13, 2026, 8:26:14 PM",
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "シルビアS15",
             "name_history": [
@@ -4382,11 +4382,11 @@
             "hp": 1030072.4375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55805.8203125,
-                "y": -88736.0859375,
-                "z": 21723.8203125
+                "x": -55195.75,
+                "y": -87074.6171875,
+                "z": 21723.94921875
             },
-            "last_seen": "Mar 13, 2026, 6:06:41 PM",
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "はくめん",
             "name_history": [
@@ -5895,6 +5895,31 @@
             "role_id": 8602828083822753,
             "server_region": "ps-east-asia"
         },
+        "8602828083822945": {
+            "crew_history": [
+                "独りぼっち。"
+            ],
+            "crew_id": 94491283514,
+            "crew_name": "独りぼっち。",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1676056.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55985.5078125,
+                "y": -85029.296875,
+                "z": 21839.80859375
+            },
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
+            "level": 100,
+            "name": "みずいけめし",
+            "name_history": [
+                "みずいけめし"
+            ],
+            "registered": "Aug 8, 2023, 9:18:19 AM",
+            "role_id": 8602828083822945,
+            "server_region": "ps-east-asia"
+        },
         "8602828083822994": {
             "crew_history": [
                 "Lord"
@@ -6936,14 +6961,14 @@
             "crew_name": "ちはやふる",
             "equipping_title": "1_8_0_12",
             "gender": 0,
-            "hp": 2931557.0,
+            "hp": 3144632.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54997.6171875,
-                "y": -86777.3359375,
-                "z": 21717.490234375
+                "x": -54272.27734375,
+                "y": -88228.875,
+                "z": 21729.419921875
             },
-            "last_seen": "Mar 13, 2026, 8:03:20 PM",
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "夕凪(PS版)",
             "name_history": [
@@ -7593,11 +7618,11 @@
             "hp": 750382.0625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55198.1875,
-                "y": -87203.90625,
-                "z": 21725.939453125
+                "x": -53557.66796875,
+                "y": -87726.2578125,
+                "z": 21746.400390625
             },
-            "last_seen": "Mar 13, 2026, 4:12:31 PM",
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "リダイナ",
             "name_history": [
@@ -7735,6 +7760,31 @@
             ],
             "registered": "Aug 12, 2023, 7:46:18 PM",
             "role_id": 8602828083861283,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083861798": {
+            "crew_history": [
+                "＼ねもけ／"
+            ],
+            "crew_id": 4539782434873,
+            "crew_name": "＼ねもけ／",
+            "equipping_title": "JiJi GT的后继者,1",
+            "gender": 1,
+            "hp": 2570282.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54398.3984375,
+                "y": -86723.9375,
+                "z": 21717.37890625
+            },
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
+            "level": 100,
+            "name": "ボックス03",
+            "name_history": [
+                "ボックス03"
+            ],
+            "registered": "Aug 12, 2023, 10:10:36 PM",
+            "role_id": 8602828083861798,
             "server_region": "ps-east-asia"
         },
         "8602828083862036": {
@@ -8773,12 +8823,19 @@
             "server_region": "ps-east-asia"
         },
         "8602828083903640": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2342871.5,
-            "last_seen": "Nov 17, 2025, 04:11:48 PM",
+            "hp": 2030532.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54934.94921875,
+                "y": -87720.46875,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "Putti(^^)",
             "name_history": [
@@ -9736,12 +9793,21 @@
             "server_region": "ps-east-asia"
         },
         "8602832378829154": {
+            "crew_history": [
+                "喫茶ゆったり"
+            ],
             "crew_id": 25771806779,
             "crew_name": "喫茶ゆったり",
-            "equipping_title": "Title_tencentshare_os_21",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1644546.375,
-            "last_seen": "Nov 18, 2025, 06:02:01 PM",
+            "hp": 2243240.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55319.1875,
+                "y": -86968.1171875,
+                "z": 21865.41015625
+            },
+            "last_seen": "Mar 14, 2026, 12:08:45 PM",
             "level": 100,
             "name": "ms1",
             "name_history": [
@@ -9777,7 +9843,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 440,
-    "last_updated": "Mar 14, 2026, 10:07:46 AM",
+    "accounts_total": 442,
+    "last_updated": "Mar 14, 2026, 12:08:45 PM",
     "server_region": "ps-east-asia"
 }
