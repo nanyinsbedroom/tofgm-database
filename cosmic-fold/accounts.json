@@ -3395,14 +3395,26 @@
             "server_region": "cosmic-fold"
         },
         "63582695851380": {
-            "crew_id": 261993019860,
-            "crew_name": "幻想乡",
-            "equipping_title": "WorldBossDamage_4;晦暝·饕餮;89",
+            "crew_history": [
+                "星辰"
+            ],
+            "crew_id": 8589949396,
+            "crew_name": "星辰",
+            "equipping_title": "2_2_0_58",
             "gender": 1,
-            "hp": 522986.03125,
-            "last_seen": "2025年10月17日 下午 5:19:31",
-            "level": 60,
+            "hp": 1253341.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 849.0299682617188,
+                "y": -28236.6796875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月14日 下午8:48:13",
+            "level": 83,
             "name": "唐伯虎曰秋香",
+            "name_history": [
+                "唐伯虎曰秋香"
+            ],
             "registered": "2025年9月25日 下午6:15:57",
             "role_id": 63582695851380,
             "server_region": "cosmic-fold"
@@ -85770,6 +85782,31 @@
             "role_id": 63582696015757,
             "server_region": "cosmic-fold"
         },
+        "63582696015773": {
+            "crew_history": [
+                "梦言阁"
+            ],
+            "crew_id": 3496103393748,
+            "crew_name": "梦言阁",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 134415.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1741.72998046875,
+                "y": -27156.1796875,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月14日 下午8:48:13",
+            "level": 49,
+            "name": "梨冻",
+            "name_history": [
+                "梨冻"
+            ],
+            "registered": "2026年3月6日 下午10:47:13",
+            "role_id": 63582696015773,
+            "server_region": "cosmic-fold"
+        },
         "63582696015787": {
             "crew_history": [],
             "crew_id": 0,
@@ -87046,7 +87083,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5631,
-    "last_updated": "2026年3月14日 下午8:47:13",
+    "accounts_total": 5632,
+    "last_updated": "2026年3月14日 下午8:48:13",
     "server_region": "cosmic-fold"
 }
