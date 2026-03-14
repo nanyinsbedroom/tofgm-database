@@ -2520,13 +2520,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480268": {
+            "crew_history": [
+                "Апертура Науки"
+            ],
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 584241.0,
-            "last_seen": [],
-            "level": 71,
+            "hp": 780453.0625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1155.5,
+                "y": -28309.69921875,
+                "z": 97879.6171875
+            },
+            "last_seen": "Mar 14, 2026, 7:00:38 PM",
+            "level": 75,
             "name": "Исэль",
             "name_history": [
                 "Исэль"
@@ -15979,6 +15988,31 @@
             "role_id": 38174111708506476,
             "server_region": "ws-europe-01"
         },
+        "38174111708506691": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
+            "crew_id": 103088103207,
+            "crew_name": "Waifus Grace",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 252172.609375,
+            "last_known_position": {
+                "map": "city",
+                "x": -65.6199951171875,
+                "y": -22009.19921875,
+                "z": 96744.359375
+            },
+            "last_seen": "Mar 14, 2026, 7:00:38 PM",
+            "level": 77,
+            "name": "svinotof",
+            "name_history": [
+                "svinotof"
+            ],
+            "registered": "Dec 7, 2025, 11:52:33 AM",
+            "role_id": 38174111708506691,
+            "server_region": "ws-europe-01"
+        },
         "38174111708506903": {
             "crew_history": [
                 "Asylum"
@@ -24658,7 +24692,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1312,
-    "last_updated": "Mar 14, 2026, 6:59:38 PM",
+    "accounts_total": 1313,
+    "last_updated": "Mar 14, 2026, 7:00:38 PM",
     "server_region": "ws-europe-01"
 }
