@@ -3943,11 +3943,11 @@
             "hp": 1863775.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53795.51953125,
-                "y": -87877.0078125,
-                "z": 21724.830078125
+                "x": -54656.77734375,
+                "y": -87745.6953125,
+                "z": 21724.91015625
             },
-            "last_seen": "Mar 10, 2026, 12:18:14 PM",
+            "last_seen": "Mar 14, 2026, 2:23:24 PM",
             "level": 100,
             "name": "King-Premier",
             "name_history": [
@@ -6379,12 +6379,21 @@
             "server_region": "north-america"
         },
         "51604032077139": {
+            "crew_history": [
+                "Love"
+            ],
             "crew_id": 867583405806,
             "crew_name": "Love",
             "equipping_title": "Tencent_Sever_49",
             "gender": 0,
-            "hp": 1912199.75,
-            "last_seen": "Nov 07, 2025, 11:03:03 AM",
+            "hp": 1989116.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55901.1796875,
+                "y": -88749.1875,
+                "z": 21730.859375
+            },
+            "last_seen": "Mar 14, 2026, 2:23:24 PM",
             "level": 100,
             "name": "Necrofantasia",
             "name_history": [
@@ -17298,6 +17307,6 @@
         }
     },
     "accounts_total": 1034,
-    "last_updated": "Mar 14, 2026, 2:20:24 PM",
+    "last_updated": "Mar 14, 2026, 2:23:24 PM",
     "server_region": "north-america"
 }
