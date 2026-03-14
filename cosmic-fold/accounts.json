@@ -84810,6 +84810,29 @@
             "role_id": 63582696015184,
             "server_region": "cosmic-fold"
         },
+        "63582696015250": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 114601.8046875,
+            "last_known_position": {
+                "map": "city",
+                "x": 364.6999816894531,
+                "y": -29365.298828125,
+                "z": 97900.3984375
+            },
+            "last_seen": "2026年3月14日 下午8:43:13",
+            "level": 39,
+            "name": "无限「星辰」",
+            "name_history": [
+                "无限「星辰」"
+            ],
+            "registered": "2026年3月5日 下午2:29:11",
+            "role_id": 63582696015250,
+            "server_region": "cosmic-fold"
+        },
         "63582696015276": {
             "crew_history": [],
             "crew_id": 0,
@@ -86312,20 +86335,22 @@
             "server_region": "cosmic-fold"
         },
         "63582696018519": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 106588.6015625,
+            "hp": 125791.203125,
             "last_known_position": {
                 "map": "city",
-                "x": 56.69999694824219,
-                "y": -16496.298828125,
-                "z": 96362.0390625
+                "x": 1357.0,
+                "y": -28250.0,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月13日 下午9:23:35",
-            "level": 36,
+            "last_seen": "2026年3月14日 下午8:43:13",
+            "level": 45,
             "name": "丶南栀丶",
             "name_history": [
                 "丶南栀丶"
@@ -86937,7 +86962,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5627,
-    "last_updated": "2026年3月14日 下午8:42:13",
+    "accounts_total": 5628,
+    "last_updated": "2026年3月14日 下午8:43:13",
     "server_region": "cosmic-fold"
 }
