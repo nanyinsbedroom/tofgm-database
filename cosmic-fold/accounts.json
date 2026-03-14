@@ -3815,14 +3815,14 @@
             "crew_name": "NOVA学院",
             "equipping_title": "2_10_1_11_1_1",
             "gender": 1,
-            "hp": 1320630.75,
+            "hp": 1351479.75,
             "last_known_position": {
                 "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97866.1171875
+                "x": -1961.8599853515625,
+                "y": -24333.94921875,
+                "z": 97865.6171875
             },
-            "last_seen": "2026年3月7日 下午9:11:05",
+            "last_seen": "2026年3月14日 下午8:37:13",
             "level": 85,
             "name": "Violet",
             "name_history": [
@@ -19708,17 +19708,17 @@
             ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
-            "equipping_title": "2_10_1_11_1_1",
+            "equipping_title": "2_7_0_17",
             "gender": 1,
-            "hp": 1380006.625,
+            "hp": 1512506.125,
             "last_known_position": {
                 "map": "city",
-                "x": 981.5599975585938,
-                "y": -24002.150390625,
-                "z": 97872.4765625
+                "x": 763.989990234375,
+                "y": -28338.119140625,
+                "z": 96719.6015625
             },
-            "last_seen": "2026年2月28日 下午8:32:28",
-            "level": 83,
+            "last_seen": "2026年3月14日 下午8:37:13",
+            "level": 85,
             "name": "辰隐",
             "name_history": [
                 "辰隐"
@@ -41423,20 +41423,21 @@
         },
         "63582695904259": {
             "crew_history": [
+                "少女终末旅行",
                 "魔女之旅"
             ],
-            "crew_id": 30064785876,
-            "crew_name": "魔女之旅",
-            "equipping_title": "2_2_0_86",
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "2_2_0_63",
             "gender": 0,
-            "hp": 1596087.125,
+            "hp": 1614257.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1521.77001953125,
-                "y": -27399.1484375,
+                "x": 526.1499633789063,
+                "y": -28198.888671875,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年3月7日 下午8:53:04",
+            "last_seen": "2026年3月14日 下午8:37:13",
             "level": 85,
             "name": "momon",
             "name_history": [
@@ -62078,6 +62079,31 @@
             ],
             "registered": "2025年11月27日 下午1:43:30",
             "role_id": 63582695967234,
+            "server_region": "cosmic-fold"
+        },
+        "63582695967434": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 131102.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -1767.89990234375,
+                "y": -28688.298828125,
+                "z": 97878.6953125
+            },
+            "last_seen": "2026年3月14日 下午8:37:13",
+            "level": 68,
+            "name": "乐子18",
+            "name_history": [
+                "乐子18"
+            ],
+            "registered": "2025年11月27日 下午8:34:45",
+            "role_id": 63582695967434,
             "server_region": "cosmic-fold"
         },
         "63582695967450": {
@@ -86693,7 +86719,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5618,
-    "last_updated": "2026年3月14日 下午8:36:13",
+    "accounts_total": 5619,
+    "last_updated": "2026年3月14日 下午8:37:13",
     "server_region": "cosmic-fold"
 }
