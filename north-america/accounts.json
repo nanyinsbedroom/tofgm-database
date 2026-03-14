@@ -5493,12 +5493,21 @@
             "server_region": "north-america"
         },
         "51591147186916": {
+            "crew_history": [
+                "Void Knights"
+            ],
             "crew_id": 6034429062889,
             "crew_name": "Void Knights",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 1671491.0,
-            "last_seen": "Nov 02, 2025, 01:01:35 AM",
+            "hp": 1816510.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55453.71875,
+                "y": -88531.2265625,
+                "z": 21717.37890625
+            },
+            "last_seen": "Mar 14, 2026, 4:21:08 PM",
             "level": 100,
             "name": "Miu-201",
             "name_history": [
@@ -17490,6 +17499,6 @@
         }
     },
     "accounts_total": 1041,
-    "last_updated": "Mar 14, 2026, 4:20:08 PM",
+    "last_updated": "Mar 14, 2026, 4:21:08 PM",
     "server_region": "north-america"
 }
