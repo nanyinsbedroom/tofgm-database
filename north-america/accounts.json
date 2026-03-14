@@ -1915,12 +1915,21 @@
             "server_region": "north-america"
         },
         "51561082391089": {
+            "crew_history": [
+                "Solstice"
+            ],
             "crew_id": 803158896357,
             "crew_name": "Solstice",
             "equipping_title": "2_10_1_2",
             "gender": 1,
-            "hp": 2330514.0,
-            "last_seen": "Nov 02, 2025, 05:11:34 AM",
+            "hp": 2347350.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53964.625,
+                "y": -87872.3046875,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 14, 2026, 4:29:09 PM",
             "level": 100,
             "name": "Ambie",
             "name_history": [
@@ -17508,6 +17517,6 @@
         }
     },
     "accounts_total": 1041,
-    "last_updated": "Mar 14, 2026, 4:27:09 PM",
+    "last_updated": "Mar 14, 2026, 4:29:09 PM",
     "server_region": "north-america"
 }
