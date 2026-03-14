@@ -3120,14 +3120,14 @@
             "crew_name": "赦免天使",
             "equipping_title": "4_2022",
             "gender": 1,
-            "hp": 2845714.0,
+            "hp": 1813062.625,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -324157.625,
-                "y": 201805.71875,
-                "z": -28348.0703125
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21726.048828125
             },
-            "last_seen": "2026年2月18日 下午10:55:36",
+            "last_seen": "2026年3月14日 下午6:14:03",
             "level": 100,
             "name": "暮云深",
             "name_history": [
@@ -16902,6 +16902,31 @@
             "role_id": 62715114595943,
             "server_region": "reshaping-the-future"
         },
+        "62715114595957": {
+            "crew_history": [
+                "九域"
+            ],
+            "crew_id": 4294981904,
+            "crew_name": "九域",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 732572.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55725.4296875,
+                "y": -88571.15625,
+                "z": 21724.9296875
+            },
+            "last_seen": "2026年3月14日 下午6:14:03",
+            "level": 80,
+            "name": "予事化风",
+            "name_history": [
+                "予事化风"
+            ],
+            "registered": "2026年3月4日 上午3:49:39",
+            "role_id": 62715114595957,
+            "server_region": "reshaping-the-future"
+        },
         "62715114596020": {
             "crew_history": [],
             "crew_id": 0,
@@ -17024,14 +17049,26 @@
             "server_region": "reshaping-the-future"
         },
         "62719407433226": {
+            "crew_history": [
+                "微雨问海棠"
+            ],
             "crew_id": 15865609206026,
             "crew_name": "微雨问海棠",
-            "equipping_title": "None",
+            "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1857465.0,
-            "last_seen": "2025年10月26日 下午 4:05:17",
+            "hp": 2420390.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55368.12890625,
+                "y": -88547.015625,
+                "z": 21706.0390625
+            },
+            "last_seen": "2026年3月14日 下午6:14:03",
             "level": 100,
             "name": "库洛艾",
+            "name_history": [
+                "库洛艾"
+            ],
             "registered": "2022年4月30日 下午1:57:08",
             "role_id": 62719407433226,
             "server_region": "reshaping-the-future"
@@ -28216,7 +28253,7 @@
             "server_region": "reshaping-the-future"
         }
     },
-    "accounts_total": 1239,
-    "last_updated": "2026年3月14日 下午6:12:03",
+    "accounts_total": 1240,
+    "last_updated": "2026年3月14日 下午6:14:03",
     "server_region": "reshaping-the-future"
 }
