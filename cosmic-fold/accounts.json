@@ -58003,13 +58003,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695956928": {
+            "crew_history": [
+                "魔女之旅"
+            ],
             "crew_id": 30064785876,
             "crew_name": "魔女之旅",
-            "equipping_title": "None",
+            "equipping_title": "4_2025",
             "gender": 0,
-            "hp": 720156.5,
-            "last_seen": "2025年12月29日 上午 6:39:21",
-            "level": 75,
+            "hp": 1144774.25,
+            "last_known_position": {
+                "map": "city",
+                "x": 1323.5,
+                "y": -28235.69921875,
+                "z": 97877.1171875
+            },
+            "last_seen": "2026年3月14日 下午9:04:14",
+            "level": 84,
             "name": "又要起名字",
             "name_history": [
                 "又要起名字"
@@ -87414,6 +87423,6 @@
         }
     },
     "accounts_total": 5643,
-    "last_updated": "2026年3月14日 下午9:03:14",
+    "last_updated": "2026年3月14日 下午9:04:14",
     "server_region": "cosmic-fold"
 }
