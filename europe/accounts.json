@@ -2201,12 +2201,21 @@
             "server_region": "europe"
         },
         "55856049713918": {
+            "crew_history": [
+                "Harmony"
+            ],
             "crew_id": 725849486034,
             "crew_name": "Harmony",
             "equipping_title": "2_10_0_5",
             "gender": 1,
-            "hp": 2224605.25,
-            "last_seen": [],
+            "hp": 2371246.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 14, 2026, 6:20:25 PM",
             "level": 100,
             "name": "Shana Leonhart ",
             "name_history": [
@@ -4328,11 +4337,26 @@
             "server_region": "europe"
         },
         "55864639828921": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "Moonshine"
+            ],
+            "crew_id": 5854040437455,
+            "crew_name": "Moonshine",
+            "equipping_title": "Psygnosis的学徒,0",
             "gender": 1,
-            "last_seen": "Sep 19, 2025, 02:08:38 AM",
+            "hp": 3362524.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54198.12109375,
+                "y": -88119.59375,
+                "z": 21710.984375
+            },
+            "last_seen": "Mar 14, 2026, 6:20:25 PM",
+            "level": 100,
             "name": "Ahlany",
+            "name_history": [
+                "Ahlany"
+            ],
             "registered": "Jun 3, 2023, 10:01:00 AM",
             "role_id": 55864639828921,
             "server_region": "europe"
@@ -10230,7 +10254,7 @@
                 "y": -87853.28125,
                 "z": 21775.21875
             },
-            "last_seen": "Mar 14, 2026, 6:18:18 PM",
+            "last_seen": "Mar 14, 2026, 6:20:25 PM",
             "level": 100,
             "name": "Enfer",
             "name_history": [
@@ -13159,16 +13183,16 @@
             ],
             "crew_id": 760209224397,
             "crew_name": "Ukraine",
-            "equipping_title": "2_8_0_6",
+            "equipping_title": "Kippo的学徒,0",
             "gender": 1,
-            "hp": 6254693.5,
+            "hp": 2428716.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 110324.0546875,
-                "y": -178017.28125,
-                "z": -5189.205078125
+                "map": "QRSL_P",
+                "x": -54843.8984375,
+                "y": -87549.6953125,
+                "z": 21718.94921875
             },
-            "last_seen": "Feb 20, 2026, 9:46:59 PM",
+            "last_seen": "Mar 14, 2026, 6:20:25 PM",
             "level": 100,
             "name": "Oranta",
             "name_history": [
@@ -17363,7 +17387,7 @@
                 "y": -86967.015625,
                 "z": 21710.958984375
             },
-            "last_seen": "Mar 14, 2026, 6:18:18 PM",
+            "last_seen": "Mar 14, 2026, 6:20:25 PM",
             "level": 100,
             "name": "MobidiK",
             "name_history": [
@@ -23543,6 +23567,6 @@
         }
     },
     "accounts_total": 1496,
-    "last_updated": "Mar 14, 2026, 6:18:18 PM",
+    "last_updated": "Mar 14, 2026, 6:20:25 PM",
     "server_region": "europe"
 }
