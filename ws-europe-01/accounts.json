@@ -1213,16 +1213,16 @@
             ],
             "crew_id": 932016791335,
             "crew_name": "Апертура Науки",
-            "equipping_title": "None",
+            "equipping_title": "1_6_4_31",
             "gender": 1,
             "hp": 971380.75,
             "last_known_position": {
                 "map": "city",
-                "x": -623.3309326171875,
-                "y": -28319.763671875,
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
                 "z": 97871.1171875
             },
-            "last_seen": "Mar 5, 2026, 7:01:48 PM",
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
             "level": 77,
             "name": "ゆうきイセル",
             "name_history": [
@@ -5088,15 +5088,15 @@
             "crew_name": "Asylum",
             "equipping_title": "1_3_2_1",
             "gender": 0,
-            "hp": 1196320.625,
+            "hp": 1255791.75,
             "last_known_position": {
                 "map": "city",
-                "x": 993.8899536132813,
-                "y": -27882.08984375,
-                "z": 97908.734375
+                "x": 1291.8900146484375,
+                "y": -28324.048828125,
+                "z": 97879.4453125
             },
-            "last_seen": "Mar 9, 2026, 7:32:47 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 78,
             "name": "كتكات",
             "name_history": [
                 "كتكات"
@@ -6700,17 +6700,17 @@
             ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "2_10_1_8",
+            "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1127513.0,
+            "hp": 1254892.5,
             "last_known_position": {
                 "map": "city",
-                "x": 2837.099853515625,
-                "y": -27381.3984375,
-                "z": 96725.6953125
+                "x": -2667.699951171875,
+                "y": -26487.19921875,
+                "z": 98644.375
             },
-            "last_seen": "Feb 20, 2026, 9:34:50 PM",
-            "level": 76,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 78,
             "name": "LULVA",
             "name_history": [
                 "LULVA"
@@ -9333,6 +9333,31 @@
             "role_id": 38174111708485440,
             "server_region": "ws-europe-01"
         },
+        "38174111708485475": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 171807579943,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1201490.75,
+            "last_known_position": {
+                "map": "city",
+                "x": 1979.0999755859375,
+                "y": -27055.8984375,
+                "z": 97866.1171875
+            },
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 78,
+            "name": "Mr Marley f",
+            "name_history": [
+                "Mr Marley f"
+            ],
+            "registered": "Nov 25, 2025, 5:46:06 PM",
+            "role_id": 38174111708485475,
+            "server_region": "ws-europe-01"
+        },
         "38174111708485481": {
             "crew_id": 0,
             "crew_name": "",
@@ -9604,21 +9629,22 @@
         },
         "38174111708485859": {
             "crew_history": [
+                "Asylum",
                 "Wonderland"
             ],
-            "crew_id": 4303855399,
-            "crew_name": "Wonderland",
-            "equipping_title": "1_4_6_6",
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "2_2_0_32",
             "gender": 0,
-            "hp": 1172651.75,
+            "hp": 1227400.25,
             "last_known_position": {
                 "map": "city",
-                "x": 708.4400024414063,
-                "y": -28006.91015625,
-                "z": 97910.96875
+                "x": 1519.75,
+                "y": -27194.0703125,
+                "z": 97911.1484375
             },
-            "last_seen": "Feb 27, 2026, 11:45:55 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 78,
             "name": "Danieru",
             "name_history": [
                 "Danieru"
@@ -17427,6 +17453,29 @@
             "role_id": 38174111708514904,
             "server_region": "ws-europe-01"
         },
+        "38174111708514906": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 52993.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 855.1900024414063,
+                "y": -28368.76953125,
+                "z": 97866.1171875
+            },
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 11,
+            "name": "PLPsoyUNyuma",
+            "name_history": [
+                "PLPsoyUNyuma"
+            ],
+            "registered": "Dec 22, 2025, 12:40:55 AM",
+            "role_id": 38174111708514906,
+            "server_region": "ws-europe-01"
+        },
         "38174111708514981": {
             "crew_id": 0,
             "crew_name": "",
@@ -17635,17 +17684,17 @@
             ],
             "crew_id": 25778691879,
             "crew_name": "Asylum",
-            "equipping_title": "CallaLily's Successor,1",
+            "equipping_title": "CallaLily的后继者,1",
             "gender": 1,
-            "hp": 933536.0,
+            "hp": 1080656.75,
             "last_known_position": {
                 "map": "city",
-                "x": -1676.6400146484375,
-                "y": -28637.888671875,
-                "z": 97865.8671875
+                "x": 2193.239990234375,
+                "y": -27102.830078125,
+                "z": 97866.1171875
             },
-            "last_seen": "Feb 16, 2026, 9:27:16 PM",
-            "level": 74,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 77,
             "name": "Jelyboon",
             "name_history": [
                 "Jelyboon"
@@ -18688,17 +18737,17 @@
             ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "Teskux's Apprentice,0",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1092761.125,
+            "hp": 1177983.0,
             "last_known_position": {
                 "map": "city",
-                "x": 183.70999145507813,
-                "y": -28298.099609375,
-                "z": 97879.6171875
+                "x": 1310.97998046875,
+                "y": -26359.3984375,
+                "z": 96720.4453125
             },
-            "last_seen": "Feb 24, 2026, 10:59:15 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 78,
             "name": "BiBi",
             "name_history": [
                 "BiBi"
@@ -20949,15 +20998,15 @@
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 92909.0,
+            "hp": 137492.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
+                "x": 1322.0,
+                "y": -28388.69921875,
                 "z": 97885.6171875
             },
-            "last_seen": "Feb 16, 2026, 10:04:02 PM",
-            "level": 46,
+            "last_seen": "Mar 14, 2026, 6:47:38 PM",
+            "level": 64,
             "name": "Открытие",
             "name_history": [
                 "Открытие"
@@ -24426,7 +24475,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1304,
-    "last_updated": "Mar 14, 2026, 6:44:37 PM",
+    "accounts_total": 1306,
+    "last_updated": "Mar 14, 2026, 6:47:38 PM",
     "server_region": "ws-europe-01"
 }
