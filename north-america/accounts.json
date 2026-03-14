@@ -4315,12 +4315,21 @@
             "server_region": "north-america"
         },
         "51578262332214": {
+            "crew_history": [
+                "Hashira"
+            ],
             "crew_id": 21474848492,
             "crew_name": "Hashira",
             "equipping_title": "1_2022",
             "gender": 1,
-            "hp": 1572773.75,
-            "last_seen": "Nov 02, 2025, 01:01:35 AM",
+            "hp": 1611808.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54430.46875,
+                "y": -87978.796875,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 14, 2026, 4:27:09 PM",
             "level": 100,
             "name": "Emyrin",
             "name_history": [
@@ -17499,6 +17508,6 @@
         }
     },
     "accounts_total": 1041,
-    "last_updated": "Mar 14, 2026, 4:21:08 PM",
+    "last_updated": "Mar 14, 2026, 4:27:09 PM",
     "server_region": "north-america"
 }
