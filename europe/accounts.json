@@ -4740,14 +4740,26 @@
             "server_region": "europe"
         },
         "55868934625448": {
+            "crew_history": [
+                "Whalesong"
+            ],
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_63",
             "gender": 1,
-            "hp": 2309373.5,
-            "last_seen": "Oct 28, 2025, 05:07:06 AM",
+            "hp": 2640925.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55008.3671875,
+                "y": -87755.640625,
+                "z": 21698.048828125
+            },
+            "last_seen": "Mar 14, 2026, 6:34:25 PM",
             "level": 100,
             "name": "ZanKraken",
+            "name_history": [
+                "ZanKraken"
+            ],
             "registered": "Aug 12, 2022, 12:16:05 AM",
             "role_id": 55868934625448,
             "server_region": "europe"
@@ -20620,6 +20632,29 @@
             "role_id": 55963424764227,
             "server_region": "europe"
         },
+        "55963424764316": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_3_1_5",
+            "gender": 1,
+            "hp": 620772.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -45822.3984375,
+                "y": -88846.046875,
+                "z": 22033.51953125
+            },
+            "last_seen": "Mar 14, 2026, 6:34:25 PM",
+            "level": 60,
+            "name": "M.RPG.MOBA",
+            "name_history": [
+                "M.RPG.MOBA"
+            ],
+            "registered": "Feb 12, 2026, 12:12:33 AM",
+            "role_id": 55963424764316,
+            "server_region": "europe"
+        },
         "55963424764670": {
             "crew_history": [],
             "crew_id": 0,
@@ -23766,7 +23801,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1502,
-    "last_updated": "Mar 15, 2026, 12:33:26 AM",
+    "accounts_total": 1503,
+    "last_updated": "Mar 14, 2026, 6:34:25 PM",
     "server_region": "europe"
 }
