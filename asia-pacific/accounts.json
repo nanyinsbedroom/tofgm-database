@@ -4147,12 +4147,21 @@
             "server_region": "asia-pacific"
         },
         "47261820265582": {
+            "crew_history": [
+                "桜カフェ"
+            ],
             "crew_id": 326417525509,
             "crew_name": "桜カフェ",
-            "equipping_title": "2_10_3_1",
+            "equipping_title": "2_2_0_92",
             "gender": 1,
-            "hp": 2355876.5,
-            "last_seen": "Nov 15, 2025, 06:31:47 PM",
+            "hp": 2521177.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55190.76953125,
+                "y": -87055.015625,
+                "z": 21717.46875
+            },
+            "last_seen": "Mar 14, 2026, 2:26:05 PM",
             "level": 100,
             "name": "航海者わんわん",
             "name_history": [
@@ -16769,12 +16778,21 @@
             "server_region": "asia-pacific"
         },
         "47343424584773": {
+            "crew_history": [
+                "Family"
+            ],
             "crew_id": 6347961674499,
             "crew_name": "Family",
-            "equipping_title": "1_6_1_1",
+            "equipping_title": "2_2_0_77",
             "gender": 0,
-            "hp": 2375650.0,
-            "last_seen": "Nov 03, 2025, 07:36:04 PM",
+            "hp": 2660094.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54962.05859375,
+                "y": -86728.6796875,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 14, 2026, 2:26:05 PM",
             "level": 100,
             "name": "鬼ころちゃん",
             "name_history": [
@@ -20970,12 +20988,21 @@
             "server_region": "asia-pacific"
         },
         "47343427646230": {
+            "crew_history": [
+                "心地よく秘密めいたところ"
+            ],
             "crew_id": 18846316505871,
             "crew_name": "心地よく秘密めいたところ",
             "equipping_title": "1_8_0_37",
             "gender": 1,
-            "hp": 6288449.0,
-            "last_seen": "Feb 10, 2026, 10:19:50 PM",
+            "hp": 2771886.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55365.05859375,
+                "y": -87613.234375,
+                "z": 21729.41015625
+            },
+            "last_seen": "Mar 14, 2026, 2:26:05 PM",
             "level": 100,
             "name": "しっぽ猫",
             "name_history": [
@@ -39717,6 +39744,6 @@
         }
     },
     "accounts_total": 2679,
-    "last_updated": "Mar 14, 2026, 2:25:05 PM",
+    "last_updated": "Mar 14, 2026, 2:26:05 PM",
     "server_region": "asia-pacific"
 }
