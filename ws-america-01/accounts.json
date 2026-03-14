@@ -17993,17 +17993,17 @@
             ],
             "crew_id": 8598822694,
             "crew_name": "Solstice",
-            "equipping_title": "2_2_0_40",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1163161.75,
+            "hp": 1731782.875,
             "last_known_position": {
-                "map": "city",
-                "x": 293.2799987792969,
-                "y": -24607.859375,
-                "z": 97876.1171875
+                "map": "JIUYU_P",
+                "x": -325443.46875,
+                "y": 202164.65625,
+                "z": -28352.029296875
             },
-            "last_seen": "Mar 7, 2026, 1:49:02 AM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 2:50:59 PM",
+            "level": 78,
             "name": "Cinder",
             "name_history": [
                 "Cinder"
@@ -21820,21 +21820,22 @@
         },
         "38174107413549700": {
             "crew_history": [
+                "Solstice",
                 "Minor Threat"
             ],
-            "crew_id": 369376075558,
-            "crew_name": "Minor Threat",
-            "equipping_title": "1_7_1_1",
+            "crew_id": 8598822694,
+            "crew_name": "Solstice",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 2600000.0,
+            "hp": 1988208.0,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 101708.734375,
-                "y": -174987.78125,
-                "z": -5140.4580078125
+                "map": "JIUYU_P",
+                "x": -324053.625,
+                "y": 203839.5625,
+                "z": -28314.0
             },
-            "last_seen": "Mar 3, 2026, 8:37:41 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 2:50:59 PM",
+            "level": 78,
             "name": "SHIVA007",
             "name_history": [
                 "SHIVA007"
@@ -27978,17 +27979,17 @@
             ],
             "crew_id": 502520061734,
             "crew_name": "Mishi-Raymi",
-            "equipping_title": "2_10_1_12",
+            "equipping_title": "None",
             "gender": 0,
-            "hp": 1048327.3125,
+            "hp": 1154929.0,
             "last_known_position": {
-                "map": "city",
-                "x": 1569.5299072265625,
-                "y": -27879.138671875,
-                "z": 97886.1171875
+                "map": "JIUYU_P",
+                "x": -325757.625,
+                "y": 201166.03125,
+                "z": -28325.75
             },
-            "last_seen": "Feb 28, 2026, 7:30:40 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 2:50:59 PM",
+            "level": 78,
             "name": " Chulangel",
             "name_history": [
                 " Chulangel"
@@ -34851,6 +34852,6 @@
         }
     },
     "accounts_total": 1850,
-    "last_updated": "Mar 11, 2026, 6:48:14 PM",
+    "last_updated": "Mar 14, 2026, 2:50:59 PM",
     "server_region": "ws-america-01"
 }
