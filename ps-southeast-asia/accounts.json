@@ -1288,14 +1288,14 @@
             "crew_name": "★★彩色小屋★★",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 983247.125,
+            "hp": 1063635.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54110.3984375,
-                "y": -92180.796875,
-                "z": 21739.119140625
+                "x": -54132.5,
+                "y": -92175.0,
+                "z": 21739.21875
             },
-            "last_seen": "Mar 12, 2026, 4:24:09 PM",
+            "last_seen": "Mar 14, 2026, 12:06:49 PM",
             "level": 93,
             "name": "完美授權者",
             "name_history": [
@@ -1316,11 +1316,11 @@
             "hp": 1093402.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54110.3984375,
-                "y": -92180.796875,
-                "z": 21739.119140625
+                "x": -54132.5,
+                "y": -92175.0,
+                "z": 21739.21875
             },
-            "last_seen": "Mar 12, 2026, 4:26:10 PM",
+            "last_seen": "Mar 14, 2026, 12:06:49 PM",
             "level": 91,
             "name": "完美執行者",
             "name_history": [
@@ -2091,9 +2091,55 @@
             "registered": "Jan 24, 2026, 5:27:16 AM",
             "role_id": 8607118756299130,
             "server_region": "ps-southeast-asia"
+        },
+        "8607118756299356": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 70221.765625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -52735.59765625,
+                "y": -89014.796875,
+                "z": 21732.05859375
+            },
+            "last_seen": "Mar 14, 2026, 12:06:49 PM",
+            "level": 22,
+            "name": "Isoooon",
+            "name_history": [
+                "Isoooon"
+            ],
+            "registered": "Mar 13, 2026, 7:28:28 PM",
+            "role_id": 8607118756299356,
+            "server_region": "ps-southeast-asia"
+        },
+        "8607118756299359": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 0,
+            "hp": 134977.453125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54236.91796875,
+                "y": -87678.3359375,
+                "z": 21740.94921875
+            },
+            "last_seen": "Mar 14, 2026, 12:06:49 PM",
+            "level": 31,
+            "name": "Hoangch1k",
+            "name_history": [
+                "Hoangch1k"
+            ],
+            "registered": "Mar 14, 2026, 3:33:07 AM",
+            "role_id": 8607118756299359,
+            "server_region": "ps-southeast-asia"
         }
     },
-    "accounts_total": 124,
-    "last_updated": "Mar 13, 2026, 2:07:37 PM",
+    "accounts_total": 126,
+    "last_updated": "Mar 14, 2026, 12:06:49 PM",
     "server_region": "ps-southeast-asia"
 }
