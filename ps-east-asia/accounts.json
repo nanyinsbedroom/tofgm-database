@@ -204,14 +204,14 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 2553821.5,
+            "hp": 2686199.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53994.83984375,
-                "y": -85338.7890625,
-                "z": 21725.990234375
+                "x": -54162.16796875,
+                "y": -87831.28125,
+                "z": 21725.958984375
             },
-            "last_seen": "Mar 13, 2026, 10:34:29 PM",
+            "last_seen": "Mar 14, 2026, 8:27:27 PM",
             "level": 100,
             "name": "ネム　",
             "name_history": [
@@ -4358,14 +4358,14 @@
             "crew_name": "初心者の場所",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1748247.5,
+            "hp": 1749447.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54927.83984375,
-                "y": -87284.4765625,
-                "z": 21724.98046875
+                "x": -55269.328125,
+                "y": -88461.1171875,
+                "z": 21725.05859375
             },
-            "last_seen": "Mar 13, 2026, 6:06:41 PM",
+            "last_seen": "Mar 14, 2026, 8:27:27 PM",
             "level": 100,
             "name": "くおんーー",
             "name_history": [
@@ -4590,6 +4590,31 @@
             ],
             "registered": "Aug 10, 2025, 1:01:27 PM",
             "role_id": 8602823788994832,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788995251": {
+            "crew_history": [
+                "スノーホワイト"
+            ],
+            "crew_id": 3998616555577,
+            "crew_name": "スノーホワイト",
+            "equipping_title": "2_2_0_37",
+            "gender": 1,
+            "hp": 781812.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55545.01953125,
+                "y": -88526.6796875,
+                "z": 21717.48046875
+            },
+            "last_seen": "Mar 14, 2026, 8:27:27 PM",
+            "level": 100,
+            "name": "molca",
+            "name_history": [
+                "molca"
+            ],
+            "registered": "Aug 12, 2025, 3:55:58 PM",
+            "role_id": 8602823788995251,
             "server_region": "ps-east-asia"
         },
         "8602823788995898": {
@@ -6906,11 +6931,11 @@
             "hp": 2492785.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54670.6171875,
-                "y": -86936.296875,
-                "z": 21866.509765625
+                "x": -54113.6875,
+                "y": -87961.0546875,
+                "z": 21724.548828125
             },
-            "last_seen": "Mar 13, 2026, 6:06:41 PM",
+            "last_seen": "Mar 14, 2026, 8:27:27 PM",
             "level": 100,
             "name": "SIBO",
             "name_history": [
@@ -8033,6 +8058,31 @@
             ],
             "registered": "Aug 10, 2023, 5:49:21 PM",
             "role_id": 8602828083852051,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083852613": {
+            "crew_history": [
+                "蒲公英騎士団"
+            ],
+            "crew_id": 150325858361,
+            "crew_name": "蒲公英騎士団",
+            "equipping_title": "1_4_8_6",
+            "gender": 1,
+            "hp": 1696796.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55783.18359375,
+                "y": -88573.7109375,
+                "z": 21711.009765625
+            },
+            "last_seen": "Mar 14, 2026, 8:27:27 PM",
+            "level": 100,
+            "name": "ほっさん。",
+            "name_history": [
+                "ほっさん。"
+            ],
+            "registered": "Aug 10, 2023, 8:15:10 PM",
+            "role_id": 8602828083852613,
             "server_region": "ps-east-asia"
         },
         "8602828083852642": {
@@ -10818,7 +10868,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 480,
-    "last_updated": "Mar 14, 2026, 8:26:27 PM",
+    "accounts_total": 482,
+    "last_updated": "Mar 14, 2026, 8:27:27 PM",
     "server_region": "ps-east-asia"
 }
