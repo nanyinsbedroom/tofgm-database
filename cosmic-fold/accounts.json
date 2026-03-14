@@ -3690,13 +3690,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695851513": {
-            "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 1415055.5,
-            "last_seen": "2026年2月10日 下午11:05:14",
-            "level": 82,
+            "hp": 1655299.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -45.369998931884766,
+                "y": -29973.318359375,
+                "z": 96715.6953125
+            },
+            "last_seen": "2026年3月14日 下午9:01:14",
+            "level": 85,
             "name": "余生",
             "name_history": [
                 "余生"
@@ -27186,16 +27195,16 @@
             ],
             "crew_id": 107374197204,
             "crew_name": "幻塔",
-            "equipping_title": "WorldBossDamage_1;Boss_hum_006_world;2",
+            "equipping_title": "WorldBossDamage_1;Boss_hum_017_world;2",
             "gender": 1,
-            "hp": 1632460.75,
+            "hp": 1661060.125,
             "last_known_position": {
                 "map": "city",
-                "x": 1123.760009765625,
-                "y": -26924.37890625,
-                "z": 96714.9609375
+                "x": 1126.469970703125,
+                "y": -28618.0703125,
+                "z": 97874.1171875
             },
-            "last_seen": "2026年3月7日 下午9:04:04",
+            "last_seen": "2026年3月14日 下午9:01:14",
             "level": 85,
             "name": "莫妮卡",
             "name_history": [
@@ -86874,6 +86883,29 @@
             "role_id": 63582696018773,
             "server_region": "cosmic-fold"
         },
+        "63582696018780": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 23736.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 174.8199920654297,
+                "y": -21125.208984375,
+                "z": 96740.859375
+            },
+            "last_seen": "2026年3月14日 下午9:01:14",
+            "level": 15,
+            "name": "罪。",
+            "name_history": [
+                "罪。"
+            ],
+            "registered": "2026年3月13日 下午8:10:47",
+            "role_id": 63582696018780,
+            "server_region": "cosmic-fold"
+        },
         "63582696018807": {
             "crew_history": [],
             "crew_id": 0,
@@ -87081,6 +87113,29 @@
             ],
             "registered": "2026年3月14日 上午10:28:59",
             "role_id": 63582696019133,
+            "server_region": "cosmic-fold"
+        },
+        "63582696019169": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 74383.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 2483.599853515625,
+                "y": -27598.599609375,
+                "z": 97965.8359375
+            },
+            "last_seen": "2026年3月14日 下午9:01:14",
+            "level": 23,
+            "name": "嘉明武藏",
+            "name_history": [
+                "嘉明武藏"
+            ],
+            "registered": "2026年3月14日 上午11:11:40",
+            "role_id": 63582696019169,
             "server_region": "cosmic-fold"
         },
         "63582696019567": {
@@ -87291,7 +87346,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5639,
-    "last_updated": "2026年3月14日 下午8:57:14",
+    "accounts_total": 5641,
+    "last_updated": "2026年3月14日 下午9:01:14",
     "server_region": "cosmic-fold"
 }
