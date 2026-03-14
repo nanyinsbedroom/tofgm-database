@@ -2881,16 +2881,16 @@
             ],
             "crew_id": 133144000980,
             "crew_name": "芬璃尔应援会",
-            "equipping_title": "2_2_0_88",
+            "equipping_title": "1_9_0_3",
             "gender": 1,
-            "hp": 1679928.0,
+            "hp": 1447117.875,
             "last_known_position": {
                 "map": "city",
-                "x": -1512.6199951171875,
-                "y": -24660.8203125,
-                "z": 97866.1171875
+                "x": 1937.699951171875,
+                "y": -27478.8984375,
+                "z": 96730.875
             },
-            "last_seen": "2026年3月13日 下午9:15:35",
+            "last_seen": "2026年3月14日 下午8:49:14",
             "level": 85,
             "name": "洛神丶赋",
             "name_history": [
@@ -17924,17 +17924,18 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "可爱的女孩子的导师,0",
             "gender": 1,
-            "hp": 1621497.125,
+            "hp": 1660743.0,
             "last_known_position": {
                 "map": "city",
-                "x": 2311.169921875,
-                "y": -29283.548828125,
-                "z": 96717.15625
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97879.6171875
             },
-            "last_seen": "2026年3月6日 下午11:03:57",
+            "last_seen": "2026年3月14日 下午8:49:14",
             "level": 85,
-            "name": "雪貍",
+            "name": "给你道晚安",
             "name_history": [
+                "给你道晚安",
                 "雪貍",
                 "千千結",
                 "云曦雪",
@@ -47301,6 +47302,29 @@
             "name": "墨洒白袍染",
             "registered": "2025年10月10日 下午4:46:22",
             "role_id": 63582695922257,
+            "server_region": "cosmic-fold"
+        },
+        "63582695922274": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 57721.6015625,
+            "last_known_position": {
+                "map": "city",
+                "x": 2950.599853515625,
+                "y": -30208.298828125,
+                "z": 96912.375
+            },
+            "last_seen": "2026年3月14日 下午8:49:14",
+            "level": 23,
+            "name": "明儿卸载",
+            "name_history": [
+                "明儿卸载"
+            ],
+            "registered": "2025年10月10日 下午5:02:46",
+            "role_id": 63582695922274,
             "server_region": "cosmic-fold"
         },
         "63582695922277": {
@@ -87083,7 +87107,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5632,
-    "last_updated": "2026年3月14日 下午8:48:13",
+    "accounts_total": 5633,
+    "last_updated": "2026年3月14日 下午8:49:14",
     "server_region": "cosmic-fold"
 }
