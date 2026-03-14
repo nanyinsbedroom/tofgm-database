@@ -517,11 +517,11 @@
             "hp": 2268056.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55229.84765625,
-                "y": -87113.5078125,
-                "z": 21717.048828125
+                "x": -54757.453125,
+                "y": -88115.4765625,
+                "z": 21717.046875
             },
-            "last_seen": "Mar 13, 2026, 6:06:41 PM",
+            "last_seen": "Mar 14, 2026, 6:14:51 PM",
             "level": 100,
             "name": "Asahi",
             "name_history": [
@@ -2141,14 +2141,14 @@
             "crew_name": "",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 1674804.125,
+            "hp": 1683839.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -56443.62890625,
-                "y": -87077.2265625,
-                "z": 21724.94921875
+                "x": -55840.76953125,
+                "y": -88321.9765625,
+                "z": 21734.98046875
             },
-            "last_seen": "Mar 14, 2026, 4:19:20 PM",
+            "last_seen": "Mar 14, 2026, 6:14:51 PM",
             "level": 100,
             "name": "　リオン　",
             "name_history": [
@@ -4655,6 +4655,31 @@
             ],
             "registered": "Aug 30, 2025, 10:02:59 AM",
             "role_id": 8602823788998099,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788998677": {
+            "crew_history": [
+                "アムネシア"
+            ],
+            "crew_id": 73016447033,
+            "crew_name": "アムネシア",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1132852.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55345.26953125,
+                "y": -87934.875,
+                "z": 21744.099609375
+            },
+            "last_seen": "Mar 14, 2026, 6:14:51 PM",
+            "level": 100,
+            "name": "-Kaiser-",
+            "name_history": [
+                "-Kaiser-"
+            ],
+            "registered": "Sep 2, 2025, 7:38:26 PM",
+            "role_id": 8602823788998677,
             "server_region": "ps-east-asia"
         },
         "8602823788998684": {
@@ -9010,14 +9035,14 @@
             "crew_name": "踊る明星",
             "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 2871666.5,
+            "hp": 2827222.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55262.7578125,
-                "y": -86792.265625,
-                "z": 21710.98046875
+                "x": -54822.23046875,
+                "y": -87025.515625,
+                "z": 21710.94921875
             },
-            "last_seen": "Mar 13, 2026, 10:19:28 PM",
+            "last_seen": "Mar 14, 2026, 6:14:51 PM",
             "level": 100,
             "name": "イノセントリリィ",
             "name_history": [
@@ -10408,7 +10433,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 464,
-    "last_updated": "Mar 14, 2026, 6:10:51 PM",
+    "accounts_total": 465,
+    "last_updated": "Mar 14, 2026, 6:14:51 PM",
     "server_region": "ps-east-asia"
 }
