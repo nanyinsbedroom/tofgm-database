@@ -1829,14 +1829,14 @@
             "crew_name": "ちはやふる",
             "equipping_title": "2_3_0_2",
             "gender": 1,
-            "hp": 2845327.25,
+            "hp": 2854927.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55028.01953125,
-                "y": -87159.796875,
-                "z": 21717.37890625
+                "x": -53781.98828125,
+                "y": -88161.9375,
+                "z": 21717.5
             },
-            "last_seen": "Mar 13, 2026, 10:02:27 PM",
+            "last_seen": "Mar 14, 2026, 6:03:50 PM",
             "level": 100,
             "name": "リテム",
             "name_history": [
@@ -3426,6 +3426,31 @@
             ],
             "registered": "Nov 25, 2024, 6:34:23 AM",
             "role_id": 8602823788969841,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788970585": {
+            "crew_history": [
+                "ゴールドコア教"
+            ],
+            "crew_id": 1232657616953,
+            "crew_name": "ゴールドコア教",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1102171.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54933.16796875,
+                "y": -86778.5859375,
+                "z": 21726.119140625
+            },
+            "last_seen": "Mar 14, 2026, 6:03:50 PM",
+            "level": 100,
+            "name": "sloooooth",
+            "name_history": [
+                "sloooooth"
+            ],
+            "registered": "Dec 2, 2024, 8:33:04 PM",
+            "role_id": 8602823788970585,
             "server_region": "ps-east-asia"
         },
         "8602823788970997": {
@@ -10310,7 +10335,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 460,
-    "last_updated": "Mar 14, 2026, 6:02:50 PM",
+    "accounts_total": 461,
+    "last_updated": "Mar 14, 2026, 6:03:50 PM",
     "server_region": "ps-east-asia"
 }
