@@ -3593,13 +3593,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708480938": {
-            "crew_id": 38663593767,
-            "crew_name": "Dystopia",
+            "crew_history": [
+                "ColdHeart"
+            ],
+            "crew_id": 98793135911,
+            "crew_name": "ColdHeart",
             "equipping_title": "1_1_11_1",
             "gender": 0,
-            "hp": 553557.0,
-            "last_seen": "Dec 21, 2025, 01:21:07 AM",
-            "level": 62,
+            "hp": 1110828.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53441.25,
+                "y": -92308.578125,
+                "z": 21723.94921875
+            },
+            "last_seen": "Mar 14, 2026, 8:24:01 PM",
+            "level": 78,
             "name": "Angelhits",
             "name_history": [
                 "Angelhits"
@@ -24803,6 +24812,6 @@
         }
     },
     "accounts_total": 1316,
-    "last_updated": "Mar 14, 2026, 8:22:00 PM",
+    "last_updated": "Mar 14, 2026, 8:24:01 PM",
     "server_region": "ws-europe-01"
 }
