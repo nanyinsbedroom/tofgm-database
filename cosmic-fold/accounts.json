@@ -53875,15 +53875,15 @@
             "crew_name": "樱花庄",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 120196.0,
+            "hp": 901304.5625,
             "last_known_position": {
                 "map": "city",
                 "x": -1547.5999755859375,
                 "y": -28671.19921875,
                 "z": 97876.875
             },
-            "last_seen": "2026年2月21日 上午2:16:20",
-            "level": 82,
+            "last_seen": "2026年3月14日 下午8:45:13",
+            "level": 84,
             "name": "苹果幻塔",
             "name_history": [
                 "苹果幻塔"
@@ -58487,19 +58487,78 @@
             "server_region": "cosmic-fold"
         },
         "63582695958464": {
-            "crew_id": 395137006036,
-            "crew_name": "塔学之家",
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
             "equipping_title": "韩立；的学徒,0",
             "gender": 1,
-            "hp": 191946.796875,
-            "last_seen": "2025年11月25日 上午 7:50:55",
-            "level": 62,
+            "hp": 336295.75,
+            "last_known_position": {
+                "map": "city",
+                "x": -1781.5,
+                "y": -28651.0,
+                "z": 97868.71875
+            },
+            "last_seen": "2026年3月14日 下午8:45:13",
+            "level": 72,
             "name": "乌米1",
             "name_history": [
                 "乌米1"
             ],
             "registered": "2025年11月13日 下午11:57:47",
             "role_id": 63582695958464,
+            "server_region": "cosmic-fold"
+        },
+        "63582695958468": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "韩立5的学徒,0",
+            "gender": 0,
+            "hp": 214545.8125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1754.7999267578125,
+                "y": -28653.599609375,
+                "z": 97880.734375
+            },
+            "last_seen": "2026年3月14日 下午8:45:13",
+            "level": 59,
+            "name": "乌米2",
+            "name_history": [
+                "乌米2"
+            ],
+            "registered": "2025年11月14日 上午12:03:02",
+            "role_id": 63582695958468,
+            "server_region": "cosmic-fold"
+        },
+        "63582695958470": {
+            "crew_history": [
+                "王婆婆小屋"
+            ],
+            "crew_id": 3079491566036,
+            "crew_name": "王婆婆小屋",
+            "equipping_title": "乌米4的导师,0",
+            "gender": 1,
+            "hp": 191448.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1770.199951171875,
+                "y": -28652.5,
+                "z": 97885.234375
+            },
+            "last_seen": "2026年3月14日 下午8:45:13",
+            "level": 60,
+            "name": "乌米3",
+            "name_history": [
+                "乌米3"
+            ],
+            "registered": "2025年11月14日 上午12:07:38",
+            "role_id": 63582695958470,
             "server_region": "cosmic-fold"
         },
         "63582695958509": {
@@ -76237,15 +76296,15 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 172267.75,
+            "hp": 337356.15625,
             "last_known_position": {
                 "map": "city",
-                "x": 1248.5,
-                "y": -28296.8984375,
+                "x": 1357.0,
+                "y": -28250.0,
                 "z": 97878.1171875
             },
-            "last_seen": "2026年3月7日 下午9:10:05",
-            "level": 69,
+            "last_seen": "2026年3月14日 下午8:45:13",
+            "level": 83,
             "name": "冉则",
             "name_history": [
                 "冉则",
@@ -86987,7 +87046,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5629,
-    "last_updated": "2026年3月14日 下午8:44:13",
+    "accounts_total": 5631,
+    "last_updated": "2026年3月14日 下午8:45:13",
     "server_region": "cosmic-fold"
 }
