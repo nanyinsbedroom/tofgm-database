@@ -3946,13 +3946,20 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481259": {
-            "crew_id": 51548495655,
-            "crew_name": "Kuragami",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "Kurxoo的学徒,0",
             "gender": 1,
-            "hp": 446610.03125,
-            "last_seen": "Dec 23, 2025, 05:06:02 AM",
-            "level": 63,
+            "hp": 497776.71875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71763.1953125,
+                "y": 48557.27734375,
+                "z": -12303.349609375
+            },
+            "last_seen": "Mar 14, 2026, 6:39:37 PM",
+            "level": 68,
             "name": "Sherylle",
             "name_history": [
                 "Sherylle"
@@ -20214,6 +20221,31 @@
             "role_id": 38174111708524640,
             "server_region": "ws-europe-01"
         },
+        "38174111708524652": {
+            "crew_history": [
+                "Star Guardians"
+            ],
+            "crew_id": 266296860455,
+            "crew_name": "Star Guardians",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 220307.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -69484.0078125,
+                "y": 49007.359375,
+                "z": -12680.359375
+            },
+            "last_seen": "Mar 14, 2026, 6:39:37 PM",
+            "level": 77,
+            "name": "vasd7",
+            "name_history": [
+                "vasd7"
+            ],
+            "registered": "Feb 5, 2026, 11:56:52 PM",
+            "role_id": 38174111708524652,
+            "server_region": "ws-europe-01"
+        },
         "38174111708524655": {
             "crew_id": 188987449127,
             "crew_name": "EuzeroFR",
@@ -24016,9 +24048,78 @@
             "registered": "Mar 9, 2026, 6:36:53 PM",
             "role_id": 38174111708527618,
             "server_region": "ws-europe-01"
+        },
+        "38174111708527991": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 44861.42578125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -78079.9609375,
+                "y": 47766.98828125,
+                "z": -11890.0
+            },
+            "last_seen": "Mar 14, 2026, 6:39:37 PM",
+            "level": 46,
+            "name": "Lukas42042",
+            "name_history": [
+                "Lukas42042"
+            ],
+            "registered": "Mar 13, 2026, 8:49:46 PM",
+            "role_id": 38174111708527991,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708528075": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.8359375,
+                "y": 80533.2265625,
+                "z": -4997.77001953125
+            },
+            "last_seen": "Mar 14, 2026, 6:39:37 PM",
+            "level": 1,
+            "name": " Lux",
+            "name_history": [
+                " Lux"
+            ],
+            "registered": "Mar 14, 2026, 6:31:20 PM",
+            "role_id": 38174111708528075,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708528076": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -99621.8359375,
+                "y": 80533.2265625,
+                "z": -4997.77001953125
+            },
+            "last_seen": "Mar 14, 2026, 6:39:37 PM",
+            "level": 1,
+            "name": "Sylvanthis",
+            "name_history": [
+                "Sylvanthis"
+            ],
+            "registered": "Mar 14, 2026, 6:32:42 PM",
+            "role_id": 38174111708528076,
+            "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1289,
-    "last_updated": "Mar 14, 2026, 6:38:37 PM",
+    "accounts_total": 1293,
+    "last_updated": "Mar 14, 2026, 6:39:37 PM",
     "server_region": "ws-europe-01"
 }
