@@ -5627,14 +5627,14 @@
             "crew_name": "幻塔",
             "equipping_title": "2_2_0_30",
             "gender": 1,
-            "hp": 1686385.75,
+            "hp": 1691454.625,
             "last_known_position": {
                 "map": "city",
-                "x": -38.61000061035156,
-                "y": -28464.6484375,
-                "z": 97866.1171875
+                "x": 2725.300048828125,
+                "y": -23295.298828125,
+                "z": 96738.375
             },
-            "last_seen": "2026年3月7日 下午9:15:05",
+            "last_seen": "2026年3月14日 下午9:22:15",
             "level": 85,
             "name": "星星偶有怯场",
             "name_history": [
@@ -7058,13 +7058,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695853293": {
-            "crew_id": 4294982100,
-            "crew_name": "紫微星垣",
-            "equipping_title": "2_2_0_40",
+            "crew_history": [
+                "命运石之门"
+            ],
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1320489.875,
-            "last_seen": "2026年01月26日 上午 4:14:51",
-            "level": 80,
+            "hp": 1677850.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 85,
             "name": "慢悠悠的子熙",
             "name_history": [
                 "慢悠悠的子熙"
@@ -21629,14 +21638,14 @@
             "crew_name": "NOVA学院",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1643942.375,
+            "hp": 1685464.375,
             "last_known_position": {
                 "map": "city",
-                "x": 297.8999938964844,
-                "y": -21771.19921875,
-                "z": 96737.859375
+                "x": 1584.5599365234375,
+                "y": -28247.33984375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月7日 下午9:19:05",
+            "last_seen": "2026年3月14日 下午9:22:15",
             "level": 85,
             "name": "九条命",
             "name_history": [
@@ -28178,15 +28187,25 @@
             "server_region": "cosmic-fold"
         },
         "63582695869381": {
-            "crew_id": 38654720468,
-            "crew_name": "萌团",
-            "equipping_title": "None",
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "1_1_23_1",
             "gender": 1,
-            "hp": 883395.9375,
-            "last_seen": "2025年11月22日 下午 7:08:55",
-            "level": 72,
-            "name": "素衣浮沉叹",
+            "hp": 1182421.5,
+            "last_known_position": {
+                "map": "city",
+                "x": 1091.9100341796875,
+                "y": -28335.439453125,
+                "z": 97879.1171875
+            },
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 81,
+            "name": "柳清梦",
             "name_history": [
+                "柳清梦",
                 "素衣浮沉叹"
             ],
             "registered": "2025年9月26日 下午2:47:50",
@@ -55492,15 +55511,15 @@
             "crew_name": "银河",
             "equipping_title": "1_7_1_1",
             "gender": 1,
-            "hp": 913536.0625,
+            "hp": 929247.125,
             "last_known_position": {
                 "map": "city",
-                "x": -1790.5399169921875,
-                "y": -28668.869140625,
-                "z": 97880.8671875
+                "x": 1356.9599609375,
+                "y": -28250.0390625,
+                "z": 97881.1171875
             },
-            "last_seen": "2026年3月2日 下午12:55:23",
-            "level": 80,
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 83,
             "name": "安绵",
             "name_history": [
                 "安绵"
@@ -69092,20 +69111,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695995901": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "1_7_1_1",
+            "crew_history": [
+                "天使社"
+            ],
+            "crew_id": 193273543124,
+            "crew_name": "天使社",
+            "equipping_title": "2_2_0_48",
             "gender": 1,
-            "hp": 154879.0,
+            "hp": 311418.8125,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -88673.6328125,
-                "y": 77055.9765625,
-                "z": -7999.7900390625
+                "map": "city",
+                "x": -101.69999694824219,
+                "y": -23100.400390625,
+                "z": 96720.1953125
             },
-            "last_seen": "2026年3月4日 下午11:59:41",
-            "level": 60,
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 72,
             "name": "悟道者",
             "name_history": [
                 "悟道者"
@@ -80328,6 +80349,29 @@
             "role_id": 63582696009918,
             "server_region": "cosmic-fold"
         },
+        "63582696009994": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 63080.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -560.5700073242188,
+                "y": -27385.109375,
+                "z": 96706.9609375
+            },
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 48,
+            "name": "0玄武",
+            "name_history": [
+                "0玄武"
+            ],
+            "registered": "2026年2月25日 下午7:43:49",
+            "role_id": 63582696009994,
+            "server_region": "cosmic-fold"
+        },
         "63582696010176": {
             "crew_history": [],
             "crew_id": 0,
@@ -86517,6 +86561,31 @@
             "role_id": 63582696017616,
             "server_region": "cosmic-fold"
         },
+        "63582696018048": {
+            "crew_history": [
+                "塔学之家"
+            ],
+            "crew_id": 395137006036,
+            "crew_name": "塔学之家",
+            "equipping_title": "大白龙庚辰的学徒,0",
+            "gender": 0,
+            "hp": 387109.21875,
+            "last_known_position": {
+                "map": "city",
+                "x": 19.299999237060547,
+                "y": -23745.900390625,
+                "z": 96716.796875
+            },
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 83,
+            "name": "表爷夜",
+            "name_history": [
+                "表爷夜"
+            ],
+            "registered": "2026年3月11日 下午3:12:02",
+            "role_id": 63582696018048,
+            "server_region": "cosmic-fold"
+        },
         "63582696018091": {
             "crew_history": [],
             "crew_id": 0,
@@ -87190,6 +87259,29 @@
             "role_id": 63582696018946,
             "server_region": "cosmic-fold"
         },
+        "63582696018969": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 37997.0,
+            "last_known_position": {
+                "map": "city",
+                "x": 3042.139892578125,
+                "y": -28319.01953125,
+                "z": 97994.1328125
+            },
+            "last_seen": "2026年3月14日 下午9:22:15",
+            "level": 12,
+            "name": "莫弈一",
+            "name_history": [
+                "莫弈一"
+            ],
+            "registered": "2026年3月14日 上午1:08:08",
+            "role_id": 63582696018969,
+            "server_region": "cosmic-fold"
+        },
         "63582696019133": {
             "crew_history": [
                 "NOVA学院"
@@ -87446,7 +87538,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5644,
-    "last_updated": "2026年3月14日 下午9:21:15",
+    "accounts_total": 5647,
+    "last_updated": "2026年3月14日 下午9:22:15",
     "server_region": "cosmic-fold"
 }
