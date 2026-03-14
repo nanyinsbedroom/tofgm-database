@@ -493,12 +493,21 @@
             "server_region": "europe"
         },
         "55843164783185": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "2_2_0_18",
+            "equipping_title": "2_2_0_44",
             "gender": 0,
-            "hp": 2724478.0,
-            "last_seen": "Nov 22, 2025, 02:10:34 AM",
+            "hp": 2841626.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55209.44921875,
+                "y": -87068.90625,
+                "z": 21721.869140625
+            },
+            "last_seen": "Mar 14, 2026, 6:22:25 PM",
             "level": 100,
             "name": "Kirito​​",
             "name_history": [
@@ -1277,6 +1286,31 @@
             ],
             "registered": "Aug 20, 2022, 6:50:25 PM",
             "role_id": 55847459822403,
+            "server_region": "europe"
+        },
+        "55847459844657": {
+            "crew_history": [
+                "Rebirth"
+            ],
+            "crew_id": 1653562421982,
+            "crew_name": "Rebirth",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 2525888.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54565.6171875,
+                "y": -88128.5859375,
+                "z": 21730.990234375
+            },
+            "last_seen": "Mar 14, 2026, 6:22:25 PM",
+            "level": 100,
+            "name": "Dmitry",
+            "name_history": [
+                "Dmitry"
+            ],
+            "registered": "Sep 26, 2022, 12:42:49 PM",
+            "role_id": 55847459844657,
             "server_region": "europe"
         },
         "55847459938571": {
@@ -23575,7 +23609,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1496,
-    "last_updated": "Mar 14, 2026, 6:21:25 PM",
+    "accounts_total": 1497,
+    "last_updated": "Mar 14, 2026, 6:22:25 PM",
     "server_region": "europe"
 }
