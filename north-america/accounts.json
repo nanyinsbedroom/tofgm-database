@@ -11152,13 +11152,22 @@
             "server_region": "north-america"
         },
         "51629802332498": {
+            "crew_history": [
+                "Echo Vision"
+            ],
             "crew_id": 4294979317,
             "crew_name": "Echo Vision",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 978163.0,
-            "last_seen": "Nov 07, 2025, 11:04:03 AM",
-            "level": 94,
+            "hp": 1287085.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54038.05859375,
+                "y": -92136.03125,
+                "z": 21737.599609375
+            },
+            "last_seen": "Mar 14, 2026, 2:18:24 PM",
+            "level": 100,
             "name": "Chisatki",
             "name_history": [
                 "Chisatki"
@@ -14045,6 +14054,29 @@
             ],
             "registered": "Feb 15, 2026, 3:47:56 PM",
             "role_id": 51629802377338,
+            "server_region": "north-america"
+        },
+        "51629802377371": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_6_2_2",
+            "gender": 0,
+            "hp": 451663.59375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21715.048828125
+            },
+            "last_seen": "Mar 14, 2026, 2:18:24 PM",
+            "level": 59,
+            "name": "CrownlyFans",
+            "name_history": [
+                "CrownlyFans"
+            ],
+            "registered": "Feb 15, 2026, 4:51:55 PM",
+            "role_id": 51629802377371,
             "server_region": "north-america"
         },
         "51629802377956": {
@@ -17250,7 +17282,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 1033,
-    "last_updated": "Mar 14, 2026, 2:17:24 PM",
+    "accounts_total": 1034,
+    "last_updated": "Mar 14, 2026, 2:18:24 PM",
     "server_region": "north-america"
 }
