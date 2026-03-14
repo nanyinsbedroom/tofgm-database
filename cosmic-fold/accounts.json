@@ -58336,13 +58336,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695958102": {
+            "crew_history": [
+                "十月天宫"
+            ],
             "crew_id": 154618837460,
             "crew_name": "十月天宫",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 939526.875,
-            "last_seen": "",
-            "level": 79,
+            "hp": 894432.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 952.7999877929688,
+                "y": -23803.0,
+                "z": 96712.1953125
+            },
+            "last_seen": "2026年3月14日 下午8:50:14",
+            "level": 82,
             "name": "通天晓",
             "name_history": [
                 "通天晓"
@@ -87108,6 +87117,6 @@
         }
     },
     "accounts_total": 5633,
-    "last_updated": "2026年3月14日 下午8:49:14",
+    "last_updated": "2026年3月14日 下午8:50:14",
     "server_region": "cosmic-fold"
 }
