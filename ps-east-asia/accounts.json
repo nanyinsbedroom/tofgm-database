@@ -5160,13 +5160,22 @@
             "server_region": "ps-east-asia"
         },
         "8602823789008447": {
+            "crew_history": [
+                "初心者の場所"
+            ],
             "crew_id": 3680788975674,
             "crew_name": "初心者の場所",
-            "equipping_title": "1_1_11_1",
+            "equipping_title": "1_1_15_1",
             "gender": 0,
-            "hp": 1262698.625,
-            "last_seen": "Nov 18, 2025, 05:59:01 PM",
-            "level": 97,
+            "hp": 1913672.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54244.91796875,
+                "y": -87582.78125,
+                "z": 21730.599609375
+            },
+            "last_seen": "Mar 14, 2026, 8:16:26 PM",
+            "level": 100,
             "name": "よっしーPSN",
             "name_history": [
                 "よっしーPSN"
@@ -7012,6 +7021,31 @@
             ],
             "registered": "Aug 8, 2023, 9:28:09 PM",
             "role_id": 8602828083833862,
+            "server_region": "ps-east-asia"
+        },
+        "8602828083833904": {
+            "crew_history": [
+                "ゴールドコア教"
+            ],
+            "crew_id": 1232657616953,
+            "crew_name": "ゴールドコア教",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 2041435.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54215.73828125,
+                "y": -92240.546875,
+                "z": 21725.619140625
+            },
+            "last_seen": "Mar 14, 2026, 8:16:26 PM",
+            "level": 100,
+            "name": "らき",
+            "name_history": [
+                "らき"
+            ],
+            "registered": "Aug 8, 2023, 9:29:57 PM",
+            "role_id": 8602828083833904,
             "server_region": "ps-east-asia"
         },
         "8602828083834086": {
@@ -10727,7 +10761,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 477,
-    "last_updated": "Mar 14, 2026, 8:15:26 PM",
+    "accounts_total": 478,
+    "last_updated": "Mar 14, 2026, 8:16:26 PM",
     "server_region": "ps-east-asia"
 }
