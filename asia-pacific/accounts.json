@@ -9999,12 +9999,21 @@
             "server_region": "asia-pacific"
         },
         "47300474835708": {
-            "crew_id": 1138166344451,
-            "crew_name": "FATO",
-            "equipping_title": "2_10_1_5",
+            "crew_history": [
+                "桜カフェ"
+            ],
+            "crew_id": 326417525509,
+            "crew_name": "桜カフェ",
+            "equipping_title": "2_2_0_60",
             "gender": 1,
-            "hp": 2778015.75,
-            "last_seen": "Nov 05, 2025, 06:23:34 PM",
+            "hp": 3020056.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54218.73828125,
+                "y": -88198.6015625,
+                "z": 21825.76953125
+            },
+            "last_seen": "Mar 14, 2026, 2:18:04 PM",
             "level": 100,
             "name": "ナイン",
             "name_history": [
@@ -31980,6 +31989,29 @@
             "role_id": 47343427982264,
             "server_region": "asia-pacific"
         },
+        "47343427982917": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1050890.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53722.66015625,
+                "y": -87888.375,
+                "z": 21717.359375
+            },
+            "last_seen": "Mar 14, 2026, 2:18:04 PM",
+            "level": 100,
+            "name": "符卯薇",
+            "name_history": [
+                "符卯薇"
+            ],
+            "registered": "Feb 3, 2026, 10:36:39 AM",
+            "role_id": 47343427982917,
+            "server_region": "asia-pacific"
+        },
         "47343427983417": {
             "crew_history": [
                 "Morning Star"
@@ -32751,6 +32783,31 @@
             "name": "瀬戸奈",
             "registered": "Aug 13, 2022, 7:44:13 PM",
             "role_id": 47347719524799,
+            "server_region": "asia-pacific"
+        },
+        "47347719527064": {
+            "crew_history": [
+                "行き当たりばったり"
+            ],
+            "crew_id": 64424520464,
+            "crew_name": "行き当たりばったり",
+            "equipping_title": "2_2_0_1",
+            "gender": 0,
+            "hp": 2134311.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54745.19921875,
+                "y": -87063.3359375,
+                "z": 21710.87890625
+            },
+            "last_seen": "Mar 14, 2026, 2:18:04 PM",
+            "level": 100,
+            "name": "Licia$",
+            "name_history": [
+                "Licia$"
+            ],
+            "registered": "Aug 13, 2022, 8:56:32 PM",
+            "role_id": 47347719527064,
             "server_region": "asia-pacific"
         },
         "47347719534231": {
@@ -39435,7 +39492,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2671,
-    "last_updated": "Mar 14, 2026, 2:17:04 PM",
+    "accounts_total": 2673,
+    "last_updated": "Mar 14, 2026, 2:18:04 PM",
     "server_region": "asia-pacific"
 }
