@@ -277,12 +277,21 @@
             "server_region": "korea"
         },
         "42945811784443226": {
+            "crew_history": [
+                "환탑라이브"
+            ],
             "crew_id": 747334308606,
             "crew_name": "환탑라이브",
-            "equipping_title": "2_12_1_1",
+            "equipping_title": "2_2_0_44",
             "gender": 1,
-            "hp": 3077936.0,
-            "last_seen": "Nov 12, 2025, 10:02:43 PM",
+            "hp": 2898783.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58336.828125,
+                "y": -93047.2578125,
+                "z": 22542.7890625
+            },
+            "last_seen": "Mar 14, 2026, 2:05:04 PM",
             "level": 100,
             "name": "EvilRys",
             "name_history": [
@@ -484,6 +493,29 @@
             "name": "Njop",
             "registered": "Jan 12, 2023, 3:14:30 PM",
             "role_id": 42945811784492651,
+            "server_region": "korea"
+        },
+        "42945811784495268": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_8_1_1",
+            "gender": 1,
+            "hp": 0.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58378.0,
+                "y": -93134.0,
+                "z": 22543.0
+            },
+            "last_seen": "Mar 14, 2026, 2:05:04 PM",
+            "level": 100,
+            "name": "tof.1",
+            "name_history": [
+                "tof.1"
+            ],
+            "registered": "Jan 29, 2023, 3:11:07 PM",
+            "role_id": 42945811784495268,
             "server_region": "korea"
         },
         "42945811784501998": {
@@ -2474,14 +2506,14 @@
             "crew_name": "자유길드",
             "equipping_title": "Overseas2_7",
             "gender": 0,
-            "hp": 2997851.25,
+            "hp": 2992194.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -63220.328125,
-                "y": 105943.3671875,
-                "z": -12017.3701171875
+                "x": -55284.2578125,
+                "y": -87068.2109375,
+                "z": 21710.888671875
             },
-            "last_seen": "Feb 14, 2026, 6:50:28 PM",
+            "last_seen": "Mar 14, 2026, 2:05:04 PM",
             "level": 100,
             "name": "또하나",
             "name_history": [
@@ -2811,14 +2843,26 @@
             "server_region": "korea"
         },
         "42945833259253864": {
+            "crew_history": [
+                "민초단"
+            ],
             "crew_id": 751629275902,
             "crew_name": "민초단",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 2187089.75,
-            "last_seen": "Nov 01, 2025, 04:01:36 PM",
+            "hp": 2262532.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 14, 2026, 2:05:04 PM",
             "level": 100,
             "name": "연꽃보다",
+            "name_history": [
+                "연꽃보다"
+            ],
             "registered": "Aug 13, 2022, 12:38:42 AM",
             "role_id": 42945833259253864,
             "server_region": "korea"
@@ -3199,7 +3243,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 191,
-    "last_updated": "Mar 14, 2026, 5:04:03 AM",
+    "accounts_total": 192,
+    "last_updated": "Mar 14, 2026, 2:05:04 PM",
     "server_region": "korea"
 }
