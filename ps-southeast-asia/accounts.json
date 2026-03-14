@@ -264,12 +264,21 @@
             "server_region": "southeast_asia"
         },
         "8607118756159901": {
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
             "crew_id": 8591938593,
             "crew_name": "★★彩色小屋★★",
             "equipping_title": "2_2_0_23",
             "gender": 0,
-            "hp": 1764472.125,
-            "last_seen": "Nov 18, 2025, 11:16:48 AM",
+            "hp": 1744705.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55213.46875,
+                "y": -87088.6171875,
+                "z": 21723.87890625
+            },
+            "last_seen": "Mar 14, 2026, 4:15:24 PM",
             "level": 100,
             "name": "　　　　　",
             "name_history": [
@@ -2205,6 +2214,6 @@
         }
     },
     "accounts_total": 128,
-    "last_updated": "Mar 14, 2026, 4:14:24 PM",
+    "last_updated": "Mar 14, 2026, 4:15:24 PM",
     "server_region": "ps-southeast-asia"
 }
