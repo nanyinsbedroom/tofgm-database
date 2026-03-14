@@ -2621,14 +2621,26 @@
             "server_region": "reshaping-the-future"
         },
         "62715112475039": {
+            "crew_history": [
+                "喵雪冰城"
+            ],
             "crew_id": 236223215882,
             "crew_name": "喵雪冰城",
             "equipping_title": "3_2022",
             "gender": 1,
-            "hp": 1770373.375,
-            "last_seen": "2025年10月26日 下午 4:05:17",
+            "hp": 1562803.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54809.84765625,
+                "y": -87043.4453125,
+                "z": 21710.94921875
+            },
+            "last_seen": "2026年3月14日 下午6:16:03",
             "level": 100,
             "name": "媶璃",
+            "name_history": [
+                "媶璃"
+            ],
             "registered": "2022年4月25日 下午5:28:09",
             "role_id": 62715112475039,
             "server_region": "reshaping-the-future"
@@ -23233,11 +23245,11 @@
             "hp": 2144820.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54223.80859375,
-                "y": -87833.7890625,
-                "z": 21717.490234375
+                "x": -55157.796875,
+                "y": -86844.7265625,
+                "z": 21717.44921875
             },
-            "last_seen": "2026年3月7日 下午4:03:24",
+            "last_seen": "2026年3月14日 下午6:16:03",
             "level": 100,
             "name": "碧双眼幻潮舟",
             "name_history": [
@@ -28288,6 +28300,6 @@
         }
     },
     "accounts_total": 1241,
-    "last_updated": "2026年3月14日 下午6:15:03",
+    "last_updated": "2026年3月14日 下午6:16:03",
     "server_region": "reshaping-the-future"
 }
