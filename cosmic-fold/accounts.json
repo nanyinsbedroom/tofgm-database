@@ -1708,14 +1708,14 @@
             "crew_name": "芬璃尔应援会",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1446082.75,
+            "hp": 1429723.25,
             "last_known_position": {
-                "map": "FB_Team08_D_V",
-                "x": -29399.798828125,
-                "y": 5949.52001953125,
-                "z": -710.3999633789063
+                "map": "city",
+                "x": 1446.22998046875,
+                "y": -27453.529296875,
+                "z": 97892.3359375
             },
-            "last_seen": "2026年3月13日 下午9:11:34",
+            "last_seen": "2026年3月14日 下午8:41:13",
             "level": 85,
             "name": "Sussy",
             "name_history": [
@@ -27322,14 +27322,14 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2809381.0,
+            "hp": 1678396.125,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 103426.6953125,
-                "y": -172239.203125,
-                "z": -4646.47509765625
+                "map": "city",
+                "x": 1970.0399169921875,
+                "y": -27506.83984375,
+                "z": 96730.875
             },
-            "last_seen": "2026年2月28日 下午9:02:29",
+            "last_seen": "2026年3月14日 下午8:41:13",
             "level": 85,
             "name": "琳妮特",
             "name_history": [
@@ -61252,6 +61252,31 @@
             "role_id": 63582695965169,
             "server_region": "cosmic-fold"
         },
+        "63582695965222": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "4_2025",
+            "gender": 1,
+            "hp": 1455431.625,
+            "last_known_position": {
+                "map": "city",
+                "x": 1312.5,
+                "y": -28342.099609375,
+                "z": 97869.1171875
+            },
+            "last_seen": "2026年3月14日 下午8:41:13",
+            "level": 85,
+            "name": "好香奶味",
+            "name_history": [
+                "好香奶味"
+            ],
+            "registered": "2025年11月23日 下午4:00:42",
+            "role_id": 63582695965222,
+            "server_region": "cosmic-fold"
+        },
         "63582695965273": {
             "crew_history": [
                 "IG"
@@ -86839,7 +86864,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5623,
-    "last_updated": "2026年3月14日 下午8:40:13",
+    "accounts_total": 5624,
+    "last_updated": "2026年3月14日 下午8:41:13",
     "server_region": "cosmic-fold"
 }
