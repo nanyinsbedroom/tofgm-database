@@ -7393,16 +7393,16 @@
             ],
             "crew_id": 5012226847451,
             "crew_name": "Sleepless Roses",
-            "equipping_title": "Allynna's Apprentice,0",
+            "equipping_title": "Allynna的学徒,0",
             "gender": 1,
-            "hp": 2384141.5,
+            "hp": 2865041.0,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": 48234.45703125,
-                "y": -9429.76953125,
-                "z": 13261.33984375
+                "map": "QRSL_P",
+                "x": -54735.27734375,
+                "y": -87025.3203125,
+                "z": 21717.46875
             },
-            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "last_seen": "Mar 14, 2026, 6:24:25 PM",
             "level": 100,
             "name": "Erufu",
             "name_history": [
@@ -10167,12 +10167,21 @@
             "server_region": "europe"
         },
         "55946244032949": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "None",
+            "equipping_title": "  Xero  的启迪人,1",
             "gender": 1,
-            "hp": 2579168.5,
-            "last_seen": "Nov 02, 2025, 02:11:17 AM",
+            "hp": 2661808.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55121.02734375,
+                "y": -86985.1171875,
+                "z": 21710.98046875
+            },
+            "last_seen": "Mar 14, 2026, 6:24:25 PM",
             "level": 100,
             "name": "Irerza",
             "name_history": [
@@ -23642,6 +23651,6 @@
         }
     },
     "accounts_total": 1498,
-    "last_updated": "Mar 14, 2026, 6:23:25 PM",
+    "last_updated": "Mar 14, 2026, 6:24:25 PM",
     "server_region": "europe"
 }
