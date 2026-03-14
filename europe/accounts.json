@@ -5656,12 +5656,21 @@
             "server_region": "europe"
         },
         "55877524534685": {
+            "crew_history": [
+                "Whalesong"
+            ],
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 2722841.25,
-            "last_seen": "Nov 16, 2025, 11:33:52 PM",
+            "hp": 2823919.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54242.22265625,
+                "y": -87970.0859375,
+                "z": 21808.296875
+            },
+            "last_seen": "Mar 14, 2026, 6:23:25 PM",
             "level": 100,
             "name": "Dadul",
             "name_history": [
@@ -22822,6 +22831,29 @@
             "role_id": 55963424776536,
             "server_region": "europe"
         },
+        "55963424777611": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 28363.412109375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54289.5703125,
+                "y": -88065.2265625,
+                "z": 21711.0703125
+            },
+            "last_seen": "Mar 14, 2026, 6:23:25 PM",
+            "level": 20,
+            "name": "探索者",
+            "name_history": [
+                "探索者"
+            ],
+            "registered": "Mar 14, 2026, 2:36:58 AM",
+            "role_id": 55963424777611,
+            "server_region": "europe"
+        },
         "55967718837209": {
             "crew_id": 34359751370,
             "crew_name": "Whalesong",
@@ -23609,7 +23641,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1497,
-    "last_updated": "Mar 14, 2026, 6:22:25 PM",
+    "accounts_total": 1498,
+    "last_updated": "Mar 14, 2026, 6:23:25 PM",
     "server_region": "europe"
 }
