@@ -6681,12 +6681,12 @@
             "gender": 1,
             "hp": 1200309.375,
             "last_known_position": {
-                "map": "QRSL_P",
-                "x": -92459.5390625,
-                "y": 76307.96875,
-                "z": -7050.6298828125
+                "map": "Vera_city",
+                "x": -72032.859375,
+                "y": -25978.849609375,
+                "z": 11424.7197265625
             },
-            "last_seen": "2026年3月14日 下午10:04:17",
+            "last_seen": "2026年3月14日 下午10:13:38",
             "level": 100,
             "name": "7567",
             "name_history": [
@@ -10104,12 +10104,21 @@
             "server_region": "visser-aida"
         },
         "60606283546893": {
+            "crew_history": [
+                "九域"
+            ],
             "crew_id": 150323869473,
             "crew_name": "九域",
-            "equipping_title": "HuntingRank_1;imitation_65;1",
+            "equipping_title": "HuntingRank_1;imitation_65;2",
             "gender": 1,
-            "hp": 2353779.75,
-            "last_seen": "2026年2月9日 下午8:32:00",
+            "hp": 2359372.75,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71066.46875,
+                "y": -27011.1484375,
+                "z": 11417.7197265625
+            },
+            "last_seen": "2026年3月14日 下午10:13:38",
             "level": 100,
             "name": "银影崔希丝",
             "name_history": [
@@ -10918,12 +10927,21 @@
             "server_region": "visser-aida"
         },
         "60619168446938": {
+            "crew_history": [
+                "混到奖励就赢"
+            ],
             "crew_id": 2040109479713,
             "crew_name": "混到奖励就赢",
             "equipping_title": "1_6_1_8",
             "gender": 0,
-            "hp": 2486055.0,
-            "last_seen": "2026年2月9日 下午8:36:59",
+            "hp": 2544672.5,
+            "last_known_position": {
+                "map": "Vera_city",
+                "x": -71574.9453125,
+                "y": -27767.21875,
+                "z": 11424.7197265625
+            },
+            "last_seen": "2026年3月14日 下午10:13:38",
             "level": 100,
             "name": "OGANA",
             "name_history": [
@@ -25278,6 +25296,6 @@
         }
     },
     "accounts_total": 1397,
-    "last_updated": "2026年3月14日 下午10:12:38",
+    "last_updated": "2026年3月14日 下午10:13:38",
     "server_region": "visser-aida"
 }
