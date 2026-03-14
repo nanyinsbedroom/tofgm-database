@@ -34928,11 +34928,26 @@
             "server_region": "asia-pacific"
         },
         "47369194347815": {
+            "crew_history": [
+                "Various Colors葬"
+            ],
             "crew_id": 1859720850197,
             "crew_name": "Various Colors葬",
+            "equipping_title": "Tencent_Sever_29",
             "gender": 1,
-            "last_seen": "Sep 06, 2025, 07:45:58 PM",
+            "hp": 2074258.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55149.3671875,
+                "y": -87022.5546875,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 14, 2026, 2:27:05 PM",
+            "level": 100,
             "name": "ミゼ.",
+            "name_history": [
+                "ミゼ."
+            ],
             "registered": "Aug 15, 2022, 9:53:59 AM",
             "role_id": 47369194347815,
             "server_region": "asia-pacific"
@@ -36297,16 +36312,16 @@
             ],
             "crew_id": 6176162982659,
             "crew_name": "月が綺麗ですね。",
-            "equipping_title": "2_2_0_57",
+            "equipping_title": "None",
             "gender": 1,
-            "hp": 6279462.5,
+            "hp": 3114744.25,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 84211.9296875,
-                "y": -180132.953125,
-                "z": -3718.629150390625
+                "map": "QRSL_P",
+                "x": -54178.65234375,
+                "y": -87861.390625,
+                "z": 21710.939453125
             },
-            "last_seen": "Feb 15, 2026, 8:12:38 PM",
+            "last_seen": "Mar 14, 2026, 2:27:05 PM",
             "level": 100,
             "name": "カース",
             "name_history": [
@@ -39744,6 +39759,6 @@
         }
     },
     "accounts_total": 2679,
-    "last_updated": "Mar 14, 2026, 2:26:05 PM",
+    "last_updated": "Mar 14, 2026, 2:27:05 PM",
     "server_region": "asia-pacific"
 }
