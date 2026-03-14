@@ -3279,12 +3279,21 @@
             "server_region": "asia-pacific"
         },
         "47261820131857": {
+            "crew_history": [
+                "Neko ⅽCafe"
+            ],
             "crew_id": 94489291516,
             "crew_name": "Neko ⅽCafe",
             "equipping_title": "Tencent_Sever_4",
             "gender": 1,
-            "hp": 2575049.25,
-            "last_seen": "Nov 19, 2025, 06:17:01 PM",
+            "hp": 2675070.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53792.01953125,
+                "y": -87925.0703125,
+                "z": 21710.888671875
+            },
+            "last_seen": "Mar 14, 2026, 2:30:05 PM",
             "level": 100,
             "name": "クルミ",
             "name_history": [
@@ -26138,6 +26147,31 @@
             "role_id": 47343427937997,
             "server_region": "asia-pacific"
         },
+        "47343427938031": {
+            "crew_history": [
+                "盞"
+            ],
+            "crew_id": 4952097303311,
+            "crew_name": "盞",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 848459.0625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54160.4375,
+                "y": -88095.265625,
+                "z": 21721.048828125
+            },
+            "last_seen": "Mar 14, 2026, 2:30:05 PM",
+            "level": 100,
+            "name": "184",
+            "name_history": [
+                "184"
+            ],
+            "registered": "Oct 5, 2025, 3:12:39 AM",
+            "role_id": 47343427938031,
+            "server_region": "asia-pacific"
+        },
         "47343427938065": {
             "crew_id": 0,
             "crew_name": "",
@@ -39867,7 +39901,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2683,
-    "last_updated": "Mar 14, 2026, 2:29:05 PM",
+    "accounts_total": 2684,
+    "last_updated": "Mar 14, 2026, 2:30:05 PM",
     "server_region": "asia-pacific"
 }
