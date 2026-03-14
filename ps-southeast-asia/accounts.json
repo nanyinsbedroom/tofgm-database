@@ -135,14 +135,29 @@
             "server_region": "ps-southeast-asia"
         },
         "8607118756156695": {
-            "crew_id": 0,
-            "crew_name": "",
+            "crew_history": [
+                "★★彩色小屋★★"
+            ],
+            "crew_id": 8591938593,
+            "crew_name": "★★彩色小屋★★",
+            "equipping_title": "2_2_0_28",
             "gender": 1,
-            "last_seen": "Sep 28, 2025, 08:10:00 PM",
+            "hp": 2783401.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55568.77734375,
+                "y": -88243.90625,
+                "z": 21723.98046875
+            },
+            "last_seen": "Mar 14, 2026, 12:16:50 PM",
+            "level": 100,
             "name": "Lanny",
+            "name_history": [
+                "Lanny"
+            ],
             "registered": "Aug 8, 2023, 11:29:07 PM",
             "role_id": 8607118756156695,
-            "server_region": "southeast_asia"
+            "server_region": "ps-southeast-asia"
         },
         "8607118756157620": {
             "crew_id": 536872916001,
@@ -2140,6 +2155,6 @@
         }
     },
     "accounts_total": 126,
-    "last_updated": "Mar 14, 2026, 12:07:50 PM",
+    "last_updated": "Mar 14, 2026, 12:16:50 PM",
     "server_region": "ps-southeast-asia"
 }
