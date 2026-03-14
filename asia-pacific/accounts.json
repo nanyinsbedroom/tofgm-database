@@ -4385,7 +4385,7 @@
                 "y": -91915.28125,
                 "z": 22008.37890625
             },
-            "last_seen": "Mar 14, 2026, 2:11:04 PM",
+            "last_seen": "Mar 14, 2026, 4:13:36 PM",
             "level": 100,
             "name": " nein ",
             "name_history": [
@@ -12906,12 +12906,21 @@
             "server_region": "asia-pacific"
         },
         "47313359826015": {
+            "crew_history": [
+                "幻のリリカル団"
+            ],
             "crew_id": 5338644359931,
             "crew_name": "幻のリリカル団",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2035322.5,
-            "last_seen": "Nov 03, 2025, 07:38:04 PM",
+            "hp": 2653636.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54649.91015625,
+                "y": -87359.3515625,
+                "z": 21710.94921875
+            },
+            "last_seen": "Mar 14, 2026, 4:13:36 PM",
             "level": 100,
             "name": "ルセラ",
             "name_history": [
@@ -16928,14 +16937,14 @@
             "crew_name": "ミスティルテイン",
             "equipping_title": "2_2_0_18",
             "gender": 1,
-            "hp": 1759766.0,
+            "hp": 2079005.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55782.6484375,
-                "y": -88700.6796875,
+                "x": -55782.59765625,
+                "y": -88700.6953125,
                 "z": 21717.388671875
             },
-            "last_seen": "Mar 14, 2026, 2:11:04 PM",
+            "last_seen": "Mar 14, 2026, 4:13:36 PM",
             "level": 100,
             "name": "ｾｰﾗｰﾈﾌﾟﾁｭｰﾝ",
             "name_history": [
@@ -17073,11 +17082,11 @@
             "hp": 1554477.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54834.3203125,
-                "y": -87055.578125,
-                "z": 21724.48046875
+                "x": -55374.4375,
+                "y": -87129.765625,
+                "z": 21718.96875
             },
-            "last_seen": "Mar 14, 2026, 2:11:04 PM",
+            "last_seen": "Mar 14, 2026, 4:13:36 PM",
             "level": 100,
             "name": "ｾｰﾗｰプルート",
             "name_history": [
@@ -21013,14 +21022,14 @@
             "crew_name": "女神の祝福",
             "equipping_title": "Title_tencentshare_os_20",
             "gender": 0,
-            "hp": 1690048.5,
+            "hp": 1726414.75,
             "last_known_position": {
-                "map": "city",
-                "x": -1018.6900024414063,
-                "y": -17109.310546875,
-                "z": 96362.78125
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21730.048828125
             },
-            "last_seen": "Mar 7, 2026, 12:22:35 AM",
+            "last_seen": "Mar 14, 2026, 4:13:36 PM",
             "level": 100,
             "name": "アキナ･ｱｽﾗｰﾀﾞ･ｴﾘｯｸ",
             "name_history": [
@@ -39902,6 +39911,6 @@
         }
     },
     "accounts_total": 2684,
-    "last_updated": "Mar 14, 2026, 2:30:05 PM",
+    "last_updated": "Mar 14, 2026, 4:13:36 PM",
     "server_region": "asia-pacific"
 }
