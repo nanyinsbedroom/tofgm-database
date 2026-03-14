@@ -12340,6 +12340,31 @@
             "role_id": 38174111708490142,
             "server_region": "ws-europe-01"
         },
+        "38174111708490214": {
+            "crew_history": [
+                "Wonderland"
+            ],
+            "crew_id": 4303855399,
+            "crew_name": "Wonderland",
+            "equipping_title": "2_2_0_92",
+            "gender": 1,
+            "hp": 1245912.875,
+            "last_known_position": {
+                "map": "city",
+                "x": -2663.699951171875,
+                "y": -27741.8984375,
+                "z": 97691.265625
+            },
+            "last_seen": "Mar 14, 2026, 6:49:38 PM",
+            "level": 78,
+            "name": "Darra",
+            "name_history": [
+                "Darra"
+            ],
+            "registered": "Nov 26, 2025, 12:05:09 PM",
+            "role_id": 38174111708490214,
+            "server_region": "ws-europe-01"
+        },
         "38174111708490286": {
             "crew_id": 365081108263,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
@@ -19864,19 +19889,20 @@
             ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "Idria's Mentor,0",
+            "equipping_title": "2_2_0_94",
             "gender": 1,
-            "hp": 1104602.875,
+            "hp": 1204459.75,
             "last_known_position": {
                 "map": "city",
-                "x": -1837.39990234375,
-                "y": -24255.798828125,
-                "z": 97879.1171875
+                "x": 513.0999755859375,
+                "y": -28612.3984375,
+                "z": 96744.375
             },
-            "last_seen": "Mar 5, 2026, 7:05:48 PM",
-            "level": 77,
-            "name": "Queenpatrycja",
+            "last_seen": "Mar 14, 2026, 6:49:38 PM",
+            "level": 78,
+            "name": "Queen Patrycja",
             "name_history": [
+                "Queen Patrycja",
                 "Queenpatrycja"
             ],
             "registered": "Jan 30, 2026, 5:11:11 AM",
@@ -20811,15 +20837,15 @@
             "crew_name": "Апертура Науки",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 101514.0,
+            "hp": 153192.0,
             "last_known_position": {
                 "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
+                "x": 1194.0999755859375,
+                "y": -28309.099609375,
                 "z": 97886.1171875
             },
-            "last_seen": "Feb 16, 2026, 9:24:15 PM",
-            "level": 47,
+            "last_seen": "Mar 14, 2026, 6:49:38 PM",
+            "level": 65,
             "name": "Будущее",
             "name_history": [
                 "Будущее"
@@ -24475,7 +24501,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1306,
-    "last_updated": "Mar 14, 2026, 6:47:38 PM",
+    "accounts_total": 1307,
+    "last_updated": "Mar 14, 2026, 6:49:38 PM",
     "server_region": "ws-europe-01"
 }
