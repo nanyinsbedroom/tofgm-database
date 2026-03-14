@@ -6732,11 +6732,26 @@
             "server_region": "asia-pacific"
         },
         "47279000070916": {
+            "crew_history": [
+                "魔女の隠れ家"
+            ],
             "crew_id": 167503735552,
             "crew_name": "魔女の隠れ家",
+            "equipping_title": "1_1_1_1",
             "gender": 1,
-            "last_seen": "Oct 12, 2025, 07:59:40 PM",
+            "hp": 2330554.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 14, 2026, 2:25:05 PM",
+            "level": 100,
             "name": "ゴキ男ボキト",
+            "name_history": [
+                "ゴキ男ボキト"
+            ],
             "registered": "Aug 16, 2022, 12:25:41 AM",
             "role_id": 47279000070916,
             "server_region": "asia-pacific"
@@ -12885,16 +12900,16 @@
             ],
             "crew_id": 124554062588,
             "crew_name": "ふぇありー",
-            "equipping_title": "1_4_3_2",
+            "equipping_title": "1_4_3_3",
             "gender": 1,
-            "hp": 6340851.5,
+            "hp": 3107846.5,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 100125.6953125,
-                "y": -180926.9375,
-                "z": -7476.9541015625
+                "map": "QRSL_P",
+                "x": -53807.6484375,
+                "y": -87976.0390625,
+                "z": 21710.87890625
             },
-            "last_seen": "Feb 16, 2026, 9:47:36 PM",
+            "last_seen": "Mar 14, 2026, 2:25:05 PM",
             "level": 100,
             "name": " あおい",
             "name_history": [
@@ -16638,14 +16653,26 @@
             "server_region": "asia-pacific"
         },
         "47343424566698": {
+            "crew_history": [
+                "クロスギルド"
+            ],
             "crew_id": 4294978319,
             "crew_name": "クロスギルド",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2186965.0,
-            "last_seen": "Oct 13, 2025, 07:02:16 PM",
+            "hp": 2309321.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55536.41796875,
+                "y": -88791.4765625,
+                "z": 21717.490234375
+            },
+            "last_seen": "Mar 14, 2026, 2:25:05 PM",
             "level": 100,
             "name": "モヒート",
+            "name_history": [
+                "モヒート"
+            ],
             "registered": "Aug 13, 2022, 12:33:14 AM",
             "role_id": 47343424566698,
             "server_region": "asia-pacific"
@@ -39690,6 +39717,6 @@
         }
     },
     "accounts_total": 2679,
-    "last_updated": "Mar 14, 2026, 2:24:05 PM",
+    "last_updated": "Mar 14, 2026, 2:25:05 PM",
     "server_region": "asia-pacific"
 }
