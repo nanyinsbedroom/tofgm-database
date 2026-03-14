@@ -2549,12 +2549,21 @@
             "server_region": "europe"
         },
         "55856049744989": {
+            "crew_history": [
+                "New Era"
+            ],
             "crew_id": 133143999181,
             "crew_name": "New Era",
-            "equipping_title": "STASSYX666's Apprentice,0",
+            "equipping_title": "STASSYX666的学徒,0",
             "gender": 0,
-            "hp": 3218736.5,
-            "last_seen": "Feb 13, 2026, 8:46:19 PM",
+            "hp": 2954086.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55650.796875,
+                "y": -88847.7578125,
+                "z": 21711.0
+            },
+            "last_seen": "Mar 14, 2026, 6:21:25 PM",
             "level": 100,
             "name": "Shikizzar",
             "name_history": [
@@ -3420,11 +3429,11 @@
             "hp": 1793376.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -57636.12890625,
-                "y": -78130.453125,
-                "z": 22527.33984375
+                "x": -59091.8203125,
+                "y": -95088.3984375,
+                "z": 22327.900390625
             },
-            "last_seen": "Mar 14, 2026, 6:18:18 PM",
+            "last_seen": "Mar 14, 2026, 6:21:25 PM",
             "level": 100,
             "name": "Meng Zang",
             "name_history": [
@@ -5707,7 +5716,7 @@
                 "y": -87805.4375,
                 "z": 21710.888671875
             },
-            "last_seen": "Mar 14, 2026, 6:18:18 PM",
+            "last_seen": "Mar 14, 2026, 6:21:25 PM",
             "level": 100,
             "name": "Neolix",
             "name_history": [
@@ -12980,14 +12989,14 @@
             "crew_name": "Ukraine",
             "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 6257000.0,
+            "hp": 2536918.75,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 111416.9921875,
-                "y": -178527.46875,
-                "z": -5187.51220703125
+                "map": "QRSL_P",
+                "x": -54910.5,
+                "y": -87608.3984375,
+                "z": 21721.94921875
             },
-            "last_seen": "Feb 20, 2026, 9:46:59 PM",
+            "last_seen": "Mar 14, 2026, 6:21:25 PM",
             "level": 100,
             "name": "Kippo",
             "name_history": [
@@ -23567,6 +23576,6 @@
         }
     },
     "accounts_total": 1496,
-    "last_updated": "Mar 14, 2026, 6:20:25 PM",
+    "last_updated": "Mar 14, 2026, 6:21:25 PM",
     "server_region": "europe"
 }
