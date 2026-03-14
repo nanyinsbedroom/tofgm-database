@@ -6865,14 +6865,14 @@
             "crew_name": "",
             "equipping_title": "1_1_10_3",
             "gender": 1,
-            "hp": 1817330.375,
+            "hp": 1833079.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21706.048828125
+                "x": -54740.046875,
+                "y": -87077.796875,
+                "z": 21705.87890625
             },
-            "last_seen": "Mar 12, 2026, 8:02:09 PM",
+            "last_seen": "Mar 14, 2026, 12:13:45 PM",
             "level": 100,
             "name": "じゅんこ",
             "name_history": [
@@ -8734,14 +8734,14 @@
             "crew_name": "ゴールドコア教",
             "equipping_title": "2_2_0_86",
             "gender": 1,
-            "hp": 2270774.75,
+            "hp": 2250586.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53473.046875,
-                "y": -85113.40625,
-                "z": 21741.23046875
+                "x": -52830.515625,
+                "y": -88584.734375,
+                "z": 21726.958984375
             },
-            "last_seen": "Mar 12, 2026, 12:24:49 PM",
+            "last_seen": "Mar 14, 2026, 12:13:45 PM",
             "level": 100,
             "name": "クルシェ",
             "name_history": [
@@ -9602,6 +9602,31 @@
             "role_id": 8602832378815337,
             "server_region": "ps-east-asia"
         },
+        "8602832378816073": {
+            "crew_history": [
+                "ちはやふる"
+            ],
+            "crew_id": 511103111226,
+            "crew_name": "ちはやふる",
+            "equipping_title": "3_2024",
+            "gender": 1,
+            "hp": 1974450.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54843.4375,
+                "y": -86869.90625,
+                "z": 21710.990234375
+            },
+            "last_seen": "Mar 14, 2026, 12:13:45 PM",
+            "level": 100,
+            "name": "モモピー",
+            "name_history": [
+                "モモピー"
+            ],
+            "registered": "Jun 6, 2024, 3:42:34 PM",
+            "role_id": 8602832378816073,
+            "server_region": "ps-east-asia"
+        },
         "8602832378816277": {
             "crew_history": [],
             "crew_id": 0,
@@ -9927,7 +9952,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 445,
-    "last_updated": "Mar 14, 2026, 12:12:45 PM",
+    "accounts_total": 446,
+    "last_updated": "Mar 14, 2026, 12:13:45 PM",
     "server_region": "ps-east-asia"
 }
