@@ -1140,15 +1140,25 @@
             "server_region": "ws-america-01"
         },
         "38174107413512491": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
             "crew_id": 55843462950,
-            "crew_name": "Dreamlight",
-            "equipping_title": "None",
+            "crew_name": "Nyne Lives",
+            "equipping_title": "tokadecat的导师,0",
             "gender": 1,
-            "hp": 83732.0,
-            "last_seen": "Nov 25, 2025, 09:04:12 PM",
-            "level": 22,
-            "name": "tokadepiika",
+            "hp": 567627.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73160.359375,
+                "y": 48335.66796875,
+                "z": -12306.4501953125
+            },
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 75,
+            "name": "tokadePika",
             "name_history": [
+                "tokadePika",
                 "tokadepiika"
             ],
             "registered": "Nov 25, 2025, 3:02:59 AM",
@@ -5151,19 +5161,22 @@
             "server_region": "ws-america-01"
         },
         "38174107413514469": {
+            "crew_history": [
+                "Supernova"
+            ],
             "crew_id": 240527056678,
             "crew_name": "Supernova",
-            "equipping_title": "None",
+            "equipping_title": "2_8_0_3",
             "gender": 0,
-            "hp": 1013281.25,
+            "hp": 1133877.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -60223.5,
-                "y": 106739.09375,
-                "z": -12894.6494140625
+                "x": -73217.9453125,
+                "y": 47988.48828125,
+                "z": -12268.5498046875
             },
-            "last_seen": "Feb 13, 2026, 6:22:34 PM",
-            "level": 75,
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 77,
             "name": "Andy",
             "name_history": [
                 "Andy"
@@ -11214,15 +11227,15 @@
             "crew_name": "Kitten Café",
             "equipping_title": "1_9_0_1",
             "gender": 0,
-            "hp": 1096856.0,
+            "hp": 1176830.125,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -34247.6796875,
-                "y": 79355.0546875,
-                "z": -14190.6494140625
+                "x": -74593.359375,
+                "y": 65747.3046875,
+                "z": -9235.849609375
             },
-            "last_seen": "Mar 7, 2026, 1:45:01 AM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 78,
             "name": "Lorde Sensei",
             "name_history": [
                 "Lorde Sensei"
@@ -17383,6 +17396,31 @@
             "role_id": 38174107413528603,
             "server_region": "ws-america-01"
         },
+        "38174107413528623": {
+            "crew_history": [
+                "Mishi-Raymi"
+            ],
+            "crew_id": 502520061734,
+            "crew_name": "Mishi-Raymi",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 106818.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91932.9140625,
+                "y": 75617.2734375,
+                "z": -7045.2978515625
+            },
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 42,
+            "name": "juanxZero",
+            "name_history": [
+                "juanxZero"
+            ],
+            "registered": "Nov 25, 2025, 7:59:29 PM",
+            "role_id": 38174107413528623,
+            "server_region": "ws-america-01"
+        },
         "38174107413528644": {
             "crew_id": 0,
             "crew_name": "",
@@ -23139,6 +23177,31 @@
             "role_id": 38174107413559277,
             "server_region": "ws-america-01"
         },
+        "38174107413559368": {
+            "crew_history": [
+                "Minor Threat"
+            ],
+            "crew_id": 369376075558,
+            "crew_name": "Minor Threat",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1089920.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -71237.359375,
+                "y": 50776.91015625,
+                "z": -12291.2900390625
+            },
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 78,
+            "name": "Lorraine Vivie",
+            "name_history": [
+                "Lorraine Vivie"
+            ],
+            "registered": "Dec 8, 2025, 12:43:54 AM",
+            "role_id": 38174107413559368,
+            "server_region": "ws-america-01"
+        },
         "38174107413559532": {
             "crew_id": 0,
             "crew_name": "",
@@ -23157,21 +23220,22 @@
         },
         "38174107413559534": {
             "crew_history": [
+                "YoRHa",
                 "ThinkPlus"
             ],
-            "crew_id": 3032255799078,
-            "crew_name": "ThinkPlus",
-            "equipping_title": "1_7_1_1",
+            "crew_id": 34368626470,
+            "crew_name": "YoRHa",
+            "equipping_title": "1_6_2_2",
             "gender": 1,
-            "hp": 183839.609375,
+            "hp": 256016.203125,
             "last_known_position": {
-                "map": "city",
-                "x": 1171.179931640625,
-                "y": -28295.369140625,
-                "z": 97866.1171875
+                "map": "QRSL_P",
+                "x": -73162.5859375,
+                "y": 48320.69921875,
+                "z": -12306.0
             },
-            "last_seen": "Mar 9, 2026, 4:55:55 PM",
-            "level": 56,
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 74,
             "name": "MINNIYE",
             "name_history": [
                 "MINNIYE"
@@ -26565,6 +26629,29 @@
             ],
             "registered": "Jan 6, 2026, 11:17:56 PM",
             "role_id": 38174107413576225,
+            "server_region": "ws-america-01"
+        },
+        "38174107413576274": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 13521.859375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91700.0859375,
+                "y": 82435.0703125,
+                "z": -7057.1796875
+            },
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 9,
+            "name": "Angela1702",
+            "name_history": [
+                "Angela1702"
+            ],
+            "registered": "Jan 7, 2026, 4:39:53 AM",
+            "role_id": 38174107413576274,
             "server_region": "ws-america-01"
         },
         "38174107413576453": {
@@ -34620,6 +34707,31 @@
             "role_id": 38174107413584996,
             "server_region": "ws-america-01"
         },
+        "38174107413585001": {
+            "crew_history": [
+                "Nyne Lives"
+            ],
+            "crew_id": 55843462950,
+            "crew_name": "Nyne Lives",
+            "equipping_title": "tokadePika的学徒,0",
+            "gender": 1,
+            "hp": 335113.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -73107.46875,
+                "y": 48389.6171875,
+                "z": -12307.66015625
+            },
+            "last_seen": "Mar 14, 2026, 2:57:59 PM",
+            "level": 78,
+            "name": "tokadecat",
+            "name_history": [
+                "tokadecat"
+            ],
+            "registered": "Mar 5, 2026, 4:22:35 AM",
+            "role_id": 38174107413585001,
+            "server_region": "ws-america-01"
+        },
         "38174107413585039": {
             "crew_history": [],
             "crew_id": 0,
@@ -34924,7 +35036,7 @@
             "server_region": "ws-america-01"
         }
     },
-    "accounts_total": 1853,
-    "last_updated": "Mar 14, 2026, 2:56:59 PM",
+    "accounts_total": 1857,
+    "last_updated": "Mar 14, 2026, 2:57:59 PM",
     "server_region": "ws-america-01"
 }
