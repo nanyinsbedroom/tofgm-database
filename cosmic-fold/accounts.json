@@ -4682,21 +4682,22 @@
         },
         "63582695851947": {
             "crew_history": [
+                "命运石之门",
                 "幻塔"
             ],
-            "crew_id": 107374197204,
-            "crew_name": "幻塔",
-            "equipping_title": "2_2_0_88",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "星星偶有怯场的学徒,0",
             "gender": 1,
-            "hp": 1307573.25,
+            "hp": 1399565.625,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91553.5,
-                "y": 77411.1015625,
-                "z": -7032.1396484375
+                "x": -91493.28125,
+                "y": 77115.4609375,
+                "z": -7074.4599609375
             },
-            "last_seen": "2026年3月3日 下午11:15:49",
-            "level": 84,
+            "last_seen": "2026年3月14日 下午8:32:13",
+            "level": 85,
             "name": "小伶伶",
             "name_history": [
                 "小伶伶"
@@ -86373,6 +86374,31 @@
             "role_id": 63582696018831,
             "server_region": "cosmic-fold"
         },
+        "63582696019133": {
+            "crew_history": [
+                "NOVA学院"
+            ],
+            "crew_id": 146028902868,
+            "crew_name": "NOVA学院",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 64460.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -91137.5390625,
+                "y": 74849.03125,
+                "z": -7120.58984375
+            },
+            "last_seen": "2026年3月14日 下午8:32:13",
+            "level": 15,
+            "name": "寒二世",
+            "name_history": [
+                "寒二世"
+            ],
+            "registered": "2026年3月14日 上午10:28:59",
+            "role_id": 63582696019133,
+            "server_region": "cosmic-fold"
+        },
         "63582696019567": {
             "crew_history": [],
             "crew_id": 0,
@@ -86419,6 +86445,29 @@
             "role_id": 63582696019640,
             "server_region": "cosmic-fold"
         },
+        "63582696019641": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 28094.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -98718.0,
+                "y": 80385.0,
+                "z": -5229.259765625
+            },
+            "last_seen": "2026年3月14日 下午8:32:13",
+            "level": 9,
+            "name": "依旧不过尔尔",
+            "name_history": [
+                "依旧不过尔尔"
+            ],
+            "registered": "2026年3月14日 下午7:34:05",
+            "role_id": 63582696019641,
+            "server_region": "cosmic-fold"
+        },
         "63582696019656": {
             "crew_history": [],
             "crew_id": 0,
@@ -86440,6 +86489,29 @@
             ],
             "registered": "2026年3月14日 下午7:48:59",
             "role_id": 63582696019656,
+            "server_region": "cosmic-fold"
+        },
+        "63582696019680": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8928.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -95243.375,
+                "y": 81712.8515625,
+                "z": -7595.89990234375
+            },
+            "last_seen": "2026年3月14日 下午8:32:13",
+            "level": 2,
+            "name": "我的小乖乖",
+            "name_history": [
+                "我的小乖乖"
+            ],
+            "registered": "2026年3月14日 下午8:18:19",
+            "role_id": 63582696019680,
             "server_region": "cosmic-fold"
         },
         "63582696019686": {
@@ -86466,7 +86538,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5609,
-    "last_updated": "2026年3月14日 下午8:31:12",
+    "accounts_total": 5612,
+    "last_updated": "2026年3月14日 下午8:32:13",
     "server_region": "cosmic-fold"
 }
