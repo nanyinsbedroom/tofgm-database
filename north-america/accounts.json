@@ -16088,12 +16088,21 @@
             "server_region": "north-america"
         },
         "51642686767130": {
+            "crew_history": [
+                "Star☆Crusaders"
+            ],
             "crew_id": 47244652263,
-            "crew_name": "Crusaders",
+            "crew_name": "Star☆Crusaders",
             "equipping_title": "DragonflyX​​的导师,0",
             "gender": 0,
-            "hp": 717265.125,
-            "last_seen": "Nov 19, 2025, 03:58:06 AM",
+            "hp": 929773.375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54729.46875,
+                "y": -87066.546875,
+                "z": 21716.048828125
+            },
+            "last_seen": "Mar 14, 2026, 2:10:23 PM",
             "level": 100,
             "name": "Not Snowy",
             "name_history": [
@@ -16453,15 +16462,25 @@
             "server_region": "north-america"
         },
         "51672751568445": {
+            "crew_history": [
+                "Michi Pizzería"
+            ],
             "crew_id": 6158983114473,
             "crew_name": "Michi Pizzería",
-            "equipping_title": "Laquoix的导师,0",
+            "equipping_title": "Iɳϝιɳιƚყ的学徒,0",
             "gender": 1,
-            "hp": 1857093.0,
-            "last_seen": "Nov 05, 2025, 11:41:30 AM",
+            "hp": 2037210.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 14, 2026, 2:10:23 PM",
             "level": 100,
-            "name": "Ӄʊʀʊʍɨ☆Rαʂιҽʅ",
+            "name": "Ӄʊʀʊʍɨ☆Rαʂιҽʅ♪",
             "name_history": [
+                "Ӄʊʀʊʍɨ☆Rαʂιҽʅ♪",
                 "Ӄʊʀʊʍɨ☆Rαʂιҽʅ"
             ],
             "registered": "Apr 15, 2025, 5:30:18 PM",
@@ -17207,6 +17226,6 @@
         }
     },
     "accounts_total": 1032,
-    "last_updated": "Mar 14, 2026, 2:09:23 PM",
+    "last_updated": "Mar 14, 2026, 2:10:23 PM",
     "server_region": "north-america"
 }
