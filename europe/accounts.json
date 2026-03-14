@@ -732,14 +732,14 @@
             "crew_name": "Moonlight",
             "equipping_title": "1_5_1_1",
             "gender": 0,
-            "hp": 1885329.5,
+            "hp": 1889282.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -91909.65625,
-                "y": 75609.828125,
-                "z": -7047.7900390625
+                "x": -55224.4375,
+                "y": -87057.1953125,
+                "z": 21725.990234375
             },
-            "last_seen": "Feb 15, 2026, 8:29:12 PM",
+            "last_seen": "Mar 14, 2026, 6:29:25 PM",
             "level": 100,
             "name": "Chaoscauser",
             "name_history": [
@@ -8132,6 +8132,31 @@
             "name": "Collector80",
             "registered": "Aug 11, 2022, 9:31:45 AM",
             "role_id": 55911884276667,
+            "server_region": "europe"
+        },
+        "55911884278051": {
+            "crew_history": [
+                "New Era"
+            ],
+            "crew_id": 133143999181,
+            "crew_name": "New Era",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1493662.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55844.69921875,
+                "y": -88477.875,
+                "z": 21723.990234375
+            },
+            "last_seen": "Mar 14, 2026, 6:29:25 PM",
+            "level": 100,
+            "name": "KrappaK",
+            "name_history": [
+                "KrappaK"
+            ],
+            "registered": "Aug 11, 2022, 9:38:00 AM",
+            "role_id": 55911884278051,
             "server_region": "europe"
         },
         "55911884278714": {
@@ -23693,7 +23718,7 @@
             "server_region": "europe"
         }
     },
-    "accounts_total": 1499,
-    "last_updated": "Mar 14, 2026, 6:28:25 PM",
+    "accounts_total": 1500,
+    "last_updated": "Mar 14, 2026, 6:29:25 PM",
     "server_region": "europe"
 }
