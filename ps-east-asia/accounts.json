@@ -6464,6 +6464,29 @@
             "role_id": 8602828083825394,
             "server_region": "ps-east-asia"
         },
+        "8602828083825542": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 1550180.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54754.5234375,
+                "y": -83913.796875,
+                "z": 21813.52734375
+            },
+            "last_seen": "Mar 14, 2026, 8:15:26 PM",
+            "level": 100,
+            "name": "ツェール",
+            "name_history": [
+                "ツェール"
+            ],
+            "registered": "Aug 8, 2023, 1:23:12 PM",
+            "role_id": 8602828083825542,
+            "server_region": "ps-east-asia"
+        },
         "8602828083825585": {
             "crew_id": 0,
             "crew_name": "",
@@ -9331,14 +9354,14 @@
             "crew_name": "初心者の場所",
             "equipping_title": "1_2023",
             "gender": 1,
-            "hp": 2318939.75,
+            "hp": 2159077.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21706.048828125
+                "x": -53991.1875,
+                "y": -88212.875,
+                "z": 21705.919921875
             },
-            "last_seen": "Mar 13, 2026, 8:25:14 PM",
+            "last_seen": "Mar 14, 2026, 8:15:26 PM",
             "level": 100,
             "name": "B-BOM",
             "name_history": [
@@ -10314,14 +10337,14 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2142161.5,
+            "hp": 2204081.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -55584.16015625,
-                "y": -88787.890625,
-                "z": 21725.048828125
+                "x": -53850.1875,
+                "y": -87544.9609375,
+                "z": 21730.08984375
             },
-            "last_seen": "Mar 13, 2026, 10:04:27 PM",
+            "last_seen": "Mar 14, 2026, 8:15:26 PM",
             "level": 100,
             "name": "セーレス",
             "name_history": [
@@ -10704,7 +10727,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 476,
-    "last_updated": "Mar 14, 2026, 8:14:26 PM",
+    "accounts_total": 477,
+    "last_updated": "Mar 14, 2026, 8:15:26 PM",
     "server_region": "ps-east-asia"
 }
