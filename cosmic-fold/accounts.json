@@ -20560,15 +20560,15 @@
             "crew_name": "NOVA学院",
             "equipping_title": "2_8_0_2",
             "gender": 1,
-            "hp": 1270833.0,
+            "hp": 1415107.875,
             "last_known_position": {
-                "map": "city",
-                "x": 1356.9599609375,
-                "y": -28250.0390625,
-                "z": 97879.6171875
+                "map": "QRSL_P",
+                "x": -61715.30859375,
+                "y": 106612.234375,
+                "z": -12978.599609375
             },
-            "last_seen": "2026年2月14日 下午9:49:56",
-            "level": 82,
+            "last_seen": "2026年3月14日 下午9:39:16",
+            "level": 85,
             "name": "寒世",
             "name_history": [
                 "寒世"
@@ -87918,6 +87918,29 @@
             "role_id": 63582696019724,
             "server_region": "cosmic-fold"
         },
+        "63582696019727": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 34489.4375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -43404.859375,
+                "y": 92120.015625,
+                "z": -13703.5595703125
+            },
+            "last_seen": "2026年3月14日 下午9:39:16",
+            "level": 7,
+            "name": "墨色心",
+            "name_history": [
+                "墨色心"
+            ],
+            "registered": "2026年3月14日 下午9:07:00",
+            "role_id": 63582696019727,
+            "server_region": "cosmic-fold"
+        },
         "63582696019730": {
             "crew_history": [],
             "crew_id": 0,
@@ -87986,9 +88009,32 @@
             "registered": "2026年3月14日 下午9:22:25",
             "role_id": 63582696019742,
             "server_region": "cosmic-fold"
+        },
+        "63582696019756": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 8064.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -96444.34375,
+                "y": 82164.7109375,
+                "z": -6357.9970703125
+            },
+            "last_seen": "2026年3月14日 下午9:39:16",
+            "level": 1,
+            "name": "妮莎",
+            "name_history": [
+                "妮莎"
+            ],
+            "registered": "2026年3月14日 下午9:37:00",
+            "role_id": 63582696019756,
+            "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5666,
-    "last_updated": "2026年3月14日 下午9:38:16",
+    "accounts_total": 5668,
+    "last_updated": "2026年3月14日 下午9:39:16",
     "server_region": "cosmic-fold"
 }
