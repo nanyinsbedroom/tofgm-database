@@ -2384,14 +2384,14 @@
             "crew_name": "CyberAngel",
             "equipping_title": "1_2022",
             "gender": 0,
-            "hp": 1790859.0,
+            "hp": 1793861.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54006.58984375,
-                "y": -88272.78125,
-                "z": 21738.0390625
+                "x": -55245.55859375,
+                "y": -87254.7578125,
+                "z": 21807.708984375
             },
-            "last_seen": "Mar 11, 2026, 8:27:55 PM",
+            "last_seen": "Mar 14, 2026, 2:14:04 PM",
             "level": 100,
             "name": "※Delacroix※",
             "name_history": [
@@ -2494,11 +2494,26 @@
             "server_region": "asia-pacific"
         },
         "47257525209764": {
+            "crew_history": [
+                "Chronos"
+            ],
             "crew_id": 4114578680571,
             "crew_name": "Chronos",
+            "equipping_title": "1_3_1_4",
             "gender": 1,
-            "last_seen": "Oct 12, 2025, 08:03:27 PM",
+            "hp": 2781591.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54087.0703125,
+                "y": -87660.0859375,
+                "z": 21726.650390625
+            },
+            "last_seen": "Mar 14, 2026, 2:14:04 PM",
+            "level": 100,
             "name": "Ars",
+            "name_history": [
+                "Ars"
+            ],
             "registered": "Aug 12, 2022, 5:59:05 AM",
             "role_id": 47257525209764,
             "server_region": "asia-pacific"
@@ -18131,12 +18146,12 @@
             "gender": 1,
             "hp": 1857168.875,
             "last_known_position": {
-                "map": "city",
-                "x": -86.02999877929688,
-                "y": -17304.009765625,
-                "z": 96343.6875
+                "map": "QRSL_P",
+                "x": -54173.70703125,
+                "y": -87903.40625,
+                "z": 21711.048828125
             },
-            "last_seen": "Mar 11, 2026, 8:40:07 PM",
+            "last_seen": "Mar 14, 2026, 2:14:04 PM",
             "level": 100,
             "name": "Puck3",
             "name_history": [
@@ -39396,6 +39411,6 @@
         }
     },
     "accounts_total": 2670,
-    "last_updated": "Mar 14, 2026, 2:13:04 PM",
+    "last_updated": "Mar 14, 2026, 2:14:04 PM",
     "server_region": "asia-pacific"
 }
