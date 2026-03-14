@@ -1008,12 +1008,12 @@
             "gender": 1,
             "hp": 1152866.375,
             "last_known_position": {
-                "map": "city",
-                "x": 1735.699951171875,
-                "y": -27525.298828125,
-                "z": 97872.6171875
+                "map": "QRSL_P",
+                "x": -54388.77734375,
+                "y": -86991.9375,
+                "z": 21717.458984375
             },
-            "last_seen": "Mar 14, 2026, 6:42:37 PM",
+            "last_seen": "Mar 14, 2026, 8:21:00 PM",
             "level": 78,
             "name": "Накима",
             "name_history": [
@@ -3436,15 +3436,15 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_40",
             "gender": 0,
-            "hp": 1083568.75,
+            "hp": 1262323.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1272.3399658203125,
-                "y": -28300.5390625,
-                "z": 97881.1171875
+                "map": "QRSL_P",
+                "x": -54545.25,
+                "y": -88148.875,
+                "z": 21717.548828125
             },
-            "last_seen": "Feb 15, 2026, 10:00:16 PM",
-            "level": 75,
+            "last_seen": "Mar 14, 2026, 8:21:00 PM",
+            "level": 78,
             "name": "Ferura",
             "name_history": [
                 "Ferura"
@@ -3628,6 +3628,31 @@
             ],
             "registered": "Nov 25, 2025, 10:07:51 AM",
             "role_id": 38174111708480956,
+            "server_region": "ws-europe-01"
+        },
+        "38174111708480957": {
+            "crew_history": [
+                "Bad Company"
+            ],
+            "crew_id": 408030781223,
+            "crew_name": "Bad Company",
+            "equipping_title": "2_8_0_4",
+            "gender": 0,
+            "hp": 1236879.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53867.91796875,
+                "y": -87909.2109375,
+                "z": 21730.888671875
+            },
+            "last_seen": "Mar 14, 2026, 8:21:00 PM",
+            "level": 78,
+            "name": "Indifference",
+            "name_history": [
+                "Indifference"
+            ],
+            "registered": "Nov 25, 2025, 10:07:55 AM",
+            "role_id": 38174111708480957,
             "server_region": "ws-europe-01"
         },
         "38174111708480975": {
@@ -5919,13 +5944,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708482253": {
+            "crew_history": [
+                "Waifus Grace"
+            ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "1_1_22_1",
+            "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 990749.8125,
-            "last_seen": "Feb 8, 2026, 8:15:54 PM",
-            "level": 74,
+            "hp": 1232650.875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54118.33984375,
+                "y": -87896.359375,
+                "z": 21710.990234375
+            },
+            "last_seen": "Mar 14, 2026, 8:21:00 PM",
+            "level": 78,
             "name": "Chwwiu",
             "name_history": [
                 "Chwwiu"
@@ -24526,6 +24560,29 @@
             "role_id": 38174111708527683,
             "server_region": "ws-europe-01"
         },
+        "38174111708527818": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 80568.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 14, 2026, 8:21:00 PM",
+            "level": 24,
+            "name": "КавайнаяЛоля",
+            "name_history": [
+                "КавайнаяЛоля"
+            ],
+            "registered": "Mar 11, 2026, 11:24:46 PM",
+            "role_id": 38174111708527818,
+            "server_region": "ws-europe-01"
+        },
         "38174111708527955": {
             "crew_history": [],
             "crew_id": 0,
@@ -24736,7 +24793,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1314,
-    "last_updated": "Mar 14, 2026, 8:20:00 PM",
+    "accounts_total": 1316,
+    "last_updated": "Mar 14, 2026, 8:21:00 PM",
     "server_region": "ws-europe-01"
 }
