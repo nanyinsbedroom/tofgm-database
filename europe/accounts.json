@@ -1445,12 +1445,21 @@
             "server_region": "europe"
         },
         "55851754728805": {
+            "crew_history": [
+                "Rebirth"
+            ],
             "crew_id": 1653562421982,
             "crew_name": "Rebirth",
-            "equipping_title": "1_8_0_35",
+            "equipping_title": "Fedwells的导师,0",
             "gender": 1,
-            "hp": 2197480.0,
-            "last_seen": "Nov 23, 2025, 03:02:37 AM",
+            "hp": 2234203.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55208.5703125,
+                "y": -87994.4453125,
+                "z": 21723.736328125
+            },
+            "last_seen": "Mar 14, 2026, 6:25:25 PM",
             "level": 100,
             "name": "Captain Chu",
             "name_history": [
@@ -12508,14 +12517,14 @@
             "crew_name": "Sleepless Roses",
             "equipping_title": "Title_tencentshare_os_10",
             "gender": 1,
-            "hp": 1257729.5,
+            "hp": 1270796.0,
             "last_known_position": {
-                "map": "Vera_city",
-                "x": 48341.16796875,
-                "y": -9403.33984375,
-                "z": 13254.6796875
+                "map": "QRSL_P",
+                "x": -55215.23828125,
+                "y": -88458.2890625,
+                "z": 21710.98046875
             },
-            "last_seen": "Feb 28, 2026, 12:26:49 AM",
+            "last_seen": "Mar 14, 2026, 6:25:25 PM",
             "level": 100,
             "name": "★Erufu★",
             "name_history": [
@@ -23651,6 +23660,6 @@
         }
     },
     "accounts_total": 1498,
-    "last_updated": "Mar 14, 2026, 6:24:25 PM",
+    "last_updated": "Mar 14, 2026, 6:25:25 PM",
     "server_region": "europe"
 }
