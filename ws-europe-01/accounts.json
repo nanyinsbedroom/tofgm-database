@@ -4713,13 +4713,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708481616": {
-            "crew_id": 622779146023,
-            "crew_name": "النخبة",
-            "equipping_title": "2_9_0_1",
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "2_7_0_15",
             "gender": 0,
-            "hp": 984772.3125,
-            "last_seen": "Feb 8, 2026, 9:50:00 PM",
-            "level": 74,
+            "hp": 1166828.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55657.30859375,
+                "y": -88885.0390625,
+                "z": 21722.048828125
+            },
+            "last_seen": "Mar 14, 2026, 8:22:00 PM",
+            "level": 78,
             "name": "Omar",
             "name_history": [
                 "Omar"
@@ -8336,17 +8345,17 @@
             ],
             "crew_id": 103088103207,
             "crew_name": "Waifus Grace",
-            "equipping_title": "ColdMike's Mentor,0",
+            "equipping_title": "ColdMike的导师,0",
             "gender": 0,
-            "hp": 879967.4375,
+            "hp": 1060272.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -38817.9140625,
-                "y": 76084.390625,
-                "z": -14558.7646484375
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21949.953125
             },
-            "last_seen": "Feb 16, 2026, 10:01:02 PM",
-            "level": 75,
+            "last_seen": "Mar 14, 2026, 8:22:00 PM",
+            "level": 77,
             "name": "British_chainik",
             "name_history": [
                 "British_chainik"
@@ -12020,15 +12029,15 @@
             "crew_name": "Waifus Grace",
             "equipping_title": "2_2_0_44",
             "gender": 0,
-            "hp": 961604.25,
+            "hp": 1110659.5,
             "last_known_position": {
-                "map": "city",
-                "x": -126.69999694824219,
-                "y": -28193.109375,
-                "z": 97911.140625
+                "map": "QRSL_P",
+                "x": -53925.6796875,
+                "y": -87888.5703125,
+                "z": 21711.931640625
             },
-            "last_seen": "Feb 16, 2026, 9:24:15 PM",
-            "level": 75,
+            "last_seen": "Mar 14, 2026, 8:22:00 PM",
+            "level": 78,
             "name": "Yuppe",
             "name_history": [
                 "Yuppe"
@@ -24794,6 +24803,6 @@
         }
     },
     "accounts_total": 1316,
-    "last_updated": "Mar 14, 2026, 8:21:00 PM",
+    "last_updated": "Mar 14, 2026, 8:22:00 PM",
     "server_region": "ws-europe-01"
 }
