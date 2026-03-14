@@ -18302,20 +18302,22 @@
             "server_region": "ws-europe-01"
         },
         "38174111708520921": {
-            "crew_history": [],
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "كتكات's Apprentice,0",
+            "crew_history": [
+                "Asylum"
+            ],
+            "crew_id": 25778691879,
+            "crew_name": "Asylum",
+            "equipping_title": "كتكات的学徒,0",
             "gender": 0,
-            "hp": 752370.0625,
+            "hp": 994616.375,
             "last_known_position": {
                 "map": "city",
-                "x": 1218.5,
-                "y": -28483.19921875,
-                "z": 97879.6171875
+                "x": -1917.7698974609375,
+                "y": -24338.599609375,
+                "z": 97879.3359375
             },
-            "last_seen": "Feb 14, 2026, 11:09:29 AM",
-            "level": 73,
+            "last_seen": "Mar 14, 2026, 6:53:38 PM",
+            "level": 78,
             "name": "Reeses",
             "name_history": [
                 "Reeses"
@@ -24454,6 +24456,29 @@
             "role_id": 38174111708528029,
             "server_region": "ws-europe-01"
         },
+        "38174111708528033": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 19369.603515625,
+            "last_known_position": {
+                "map": "city",
+                "x": -5933.0400390625,
+                "y": -29985.419921875,
+                "z": 96329.5390625
+            },
+            "last_seen": "Mar 14, 2026, 6:53:38 PM",
+            "level": 15,
+            "name": "sofixss_",
+            "name_history": [
+                "sofixss_"
+            ],
+            "registered": "Mar 14, 2026, 9:33:50 AM",
+            "role_id": 38174111708528033,
+            "server_region": "ws-europe-01"
+        },
         "38174111708528045": {
             "crew_history": [],
             "crew_id": 0,
@@ -24524,7 +24549,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1308,
-    "last_updated": "Mar 14, 2026, 6:52:38 PM",
+    "accounts_total": 1309,
+    "last_updated": "Mar 14, 2026, 6:53:38 PM",
     "server_region": "ws-europe-01"
 }
