@@ -2292,11 +2292,11 @@
             "hp": 1912186.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -53911.09765625,
-                "y": -87752.53125,
-                "z": 21717.548828125
+                "x": -57640.0,
+                "y": -78480.0,
+                "z": 22527.779296875
             },
-            "last_seen": "Mar 13, 2026, 8:02:20 PM",
+            "last_seen": "Mar 14, 2026, 8:25:27 PM",
             "level": 100,
             "name": "ペコリーヌ",
             "name_history": [
@@ -2601,6 +2601,29 @@
             ],
             "registered": "Jan 8, 2024, 2:48:20 PM",
             "role_id": 8602823788947003,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788947610": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1553210.625,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53871.359375,
+                "y": -88133.9453125,
+                "z": 21710.98046875
+            },
+            "last_seen": "Mar 14, 2026, 8:25:27 PM",
+            "level": 100,
+            "name": "九十九村正",
+            "name_history": [
+                "九十九村正"
+            ],
+            "registered": "Jan 11, 2024, 10:03:59 PM",
+            "role_id": 8602823788947610,
             "server_region": "ps-east-asia"
         },
         "8602823788947674": {
@@ -10795,7 +10818,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 479,
-    "last_updated": "Mar 14, 2026, 8:22:26 PM",
+    "accounts_total": 480,
+    "last_updated": "Mar 14, 2026, 8:25:27 PM",
     "server_region": "ps-east-asia"
 }
