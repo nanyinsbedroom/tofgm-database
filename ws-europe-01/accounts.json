@@ -10329,15 +10329,15 @@
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
             "equipping_title": "None",
             "gender": 0,
-            "hp": 1111627.25,
+            "hp": 1231239.0,
             "last_known_position": {
-                "map": "city",
-                "x": -525.5599975585938,
-                "y": -29297.3984375,
-                "z": 98619.15625
+                "map": "QRSL_P",
+                "x": -54994.2578125,
+                "y": -87150.15625,
+                "z": 21724.46875
             },
-            "last_seen": "Feb 21, 2026, 11:48:59 PM",
-            "level": 76,
+            "last_seen": "Mar 14, 2026, 6:41:37 PM",
+            "level": 78,
             "name": "Shadowmeko",
             "name_history": [
                 "Shadowmeko"
@@ -14510,17 +14510,17 @@
             ],
             "crew_id": 4303855399,
             "crew_name": "Wonderland",
-            "equipping_title": "2_10_1_9",
+            "equipping_title": "2_8_0_6",
             "gender": 1,
-            "hp": 2600000.0,
+            "hp": 1144429.625,
             "last_known_position": {
-                "map": "Kailo_P_003",
-                "x": 106603.2265625,
-                "y": -184823.125,
-                "z": -5386.10009765625
+                "map": "QRSL_P",
+                "x": -55243.796875,
+                "y": -86843.0,
+                "z": 21724.490234375
             },
-            "last_seen": "Feb 20, 2026, 9:23:49 PM",
-            "level": 76,
+            "last_seen": "Mar 14, 2026, 6:41:37 PM",
+            "level": 78,
             "name": "toni324",
             "name_history": [
                 "toni324"
@@ -15644,6 +15644,29 @@
             "role_id": 38174111708505591,
             "server_region": "ws-europe-01"
         },
+        "38174111708505698": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 0,
+            "hp": 331709.8125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21724.048828125
+            },
+            "last_seen": "Mar 14, 2026, 6:41:37 PM",
+            "level": 76,
+            "name": "Sasamy Eis",
+            "name_history": [
+                "Sasamy Eis"
+            ],
+            "registered": "Dec 6, 2025, 10:11:44 AM",
+            "role_id": 38174111708505698,
+            "server_region": "ws-europe-01"
+        },
         "38174111708505723": {
             "crew_id": 0,
             "crew_name": "",
@@ -15690,17 +15713,17 @@
             ],
             "crew_id": 365081108263,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
-            "equipping_title": "HanaHoshi's Mentor,0",
+            "equipping_title": "1_9_0_2",
             "gender": 1,
-            "hp": 1040260.9375,
+            "hp": 1096199.75,
             "last_known_position": {
-                "map": "city",
-                "x": 1357.0,
-                "y": -28250.0,
-                "z": 97872.6171875
+                "map": "QRSL_P",
+                "x": -54823.23828125,
+                "y": -87277.484375,
+                "z": 21717.46875
             },
-            "last_seen": "Mar 5, 2026, 7:06:48 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:41:37 PM",
+            "level": 78,
             "name": "Rayaka",
             "name_history": [
                 "Rayaka"
@@ -17217,17 +17240,17 @@
             ],
             "crew_id": 365081108263,
             "crew_name": "🅶🅾🅳🆁🅾🅻🅻",
-            "equipping_title": "Janny's Successor,1",
+            "equipping_title": "Janny的后继者,1",
             "gender": 1,
-            "hp": 1110625.75,
+            "hp": 1167128.25,
             "last_known_position": {
-                "map": "city",
-                "x": 1807.0599365234375,
-                "y": -28018.119140625,
-                "z": 97879.6171875
+                "map": "QRSL_P",
+                "x": -54909.55859375,
+                "y": -87091.1953125,
+                "z": 21710.98046875
             },
-            "last_seen": "Mar 5, 2026, 7:01:48 PM",
-            "level": 77,
+            "last_seen": "Mar 14, 2026, 6:41:37 PM",
+            "level": 78,
             "name": "Hibana",
             "name_history": [
                 "Hibana"
@@ -24286,7 +24309,7 @@
             "server_region": "ws-europe-01"
         }
     },
-    "accounts_total": 1300,
-    "last_updated": "Mar 14, 2026, 6:40:37 PM",
+    "accounts_total": 1301,
+    "last_updated": "Mar 14, 2026, 6:41:37 PM",
     "server_region": "ws-europe-01"
 }
