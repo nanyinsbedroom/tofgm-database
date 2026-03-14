@@ -34464,12 +34464,21 @@
             "server_region": "asia-pacific"
         },
         "47364899397077": {
+            "crew_history": [
+                "Green Tea"
+            ],
             "crew_id": 25769814788,
             "crew_name": "Green Tea",
             "equipping_title": "Liychii的后继者,1",
             "gender": 1,
-            "hp": 1734269.5,
-            "last_seen": "Jan 22, 2026, 02:50:25 AM",
+            "hp": 1742154.125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55521.578125,
+                "y": -88454.5859375,
+                "z": 21731.048828125
+            },
+            "last_seen": "Mar 14, 2026, 2:21:04 PM",
             "level": 100,
             "name": "SILVERRAIN",
             "name_history": [
@@ -39609,6 +39618,6 @@
         }
     },
     "accounts_total": 2677,
-    "last_updated": "Mar 14, 2026, 2:20:04 PM",
+    "last_updated": "Mar 14, 2026, 2:21:04 PM",
     "server_region": "asia-pacific"
 }
