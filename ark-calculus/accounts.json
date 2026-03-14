@@ -12365,12 +12365,21 @@
             "server_region": "ark-calculus"
         },
         "62710817780667": {
+            "crew_history": [
+                "月光之城"
+            ],
             "crew_id": 545460861193,
             "crew_name": "月光之城",
-            "equipping_title": "2_10_0_5",
+            "equipping_title": "2_10_0_4",
             "gender": 1,
-            "hp": 2030168.125,
-            "last_seen": "2025年11月23日 下午 11:42:46",
+            "hp": 1996929.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -53936.66796875,
+                "y": -88118.140625,
+                "z": 21711.048828125
+            },
+            "last_seen": "2026年3月14日 下午2:21:08",
             "level": 100,
             "name": "永恒冰霜行者",
             "name_history": [
@@ -23431,16 +23440,16 @@
             ],
             "crew_id": 137438967992,
             "crew_name": "黎明",
-            "equipping_title": "-时雨-的学徒,0",
+            "equipping_title": "1_8_0_41",
             "gender": 1,
-            "hp": 2276691.5,
+            "hp": 2388451.5,
             "last_known_position": {
-                "map": "city",
-                "x": -41.38999938964844,
-                "y": -18211.400390625,
-                "z": 96329.53125
+                "map": "QRSL_P",
+                "x": -55303.6171875,
+                "y": -88555.859375,
+                "z": 21710.849609375
             },
-            "last_seen": "2026年3月9日 下午6:14:55",
+            "last_seen": "2026年3月14日 下午2:21:08",
             "level": 100,
             "name": "环环环环环",
             "name_history": [
@@ -27754,6 +27763,6 @@
         }
     },
     "accounts_total": 1262,
-    "last_updated": "2026年3月14日 下午2:20:08",
+    "last_updated": "2026年3月14日 下午2:21:08",
     "server_region": "ark-calculus"
 }
