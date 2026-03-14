@@ -34,12 +34,21 @@
             "server_region": "europe"
         },
         "55838869824547": {
+            "crew_history": [
+                "New Hope"
+            ],
             "crew_id": 4814658351820,
             "crew_name": "New Hope",
             "equipping_title": "1_6_1_2",
             "gender": 1,
-            "hp": 2393894.5,
-            "last_seen": "Feb 5, 2026, 7:46:31 PM",
+            "hp": 2408847.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.3984375,
+                "y": -88115.5,
+                "z": 21711.048828125
+            },
+            "last_seen": "Mar 14, 2026, 6:28:25 PM",
             "level": 100,
             "name": "プリスティン",
             "name_history": [
@@ -23685,6 +23694,6 @@
         }
     },
     "accounts_total": 1499,
-    "last_updated": "Mar 14, 2026, 6:27:25 PM",
+    "last_updated": "Mar 14, 2026, 6:28:25 PM",
     "server_region": "europe"
 }
