@@ -18595,12 +18595,21 @@
             "server_region": "asia-pacific"
         },
         "47343426701697": {
+            "crew_history": [
+                "NOAH"
+            ],
             "crew_id": 889058241281,
             "crew_name": "NOAH",
-            "equipping_title": "Tyasia's Mentor,0",
+            "equipping_title": "Tyasia的导师,0",
             "gender": 0,
-            "hp": 1508703.375,
-            "last_seen": "Feb 6, 2026, 3:33:30 AM",
+            "hp": 1364318.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21725.0390625
+            },
+            "last_seen": "Mar 14, 2026, 2:29:05 PM",
             "level": 100,
             "name": "Tj Leo",
             "name_history": [
@@ -21524,6 +21533,31 @@
             ],
             "registered": "Nov 4, 2024, 4:10:01 PM",
             "role_id": 47343427738767,
+            "server_region": "asia-pacific"
+        },
+        "47343427750885": {
+            "crew_history": [
+                "Green Tea"
+            ],
+            "crew_id": 25769814788,
+            "crew_name": "Green Tea",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 470061.3125,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55616.91796875,
+                "y": -88382.1015625,
+                "z": 21724.5
+            },
+            "last_seen": "Mar 14, 2026, 2:29:05 PM",
+            "level": 100,
+            "name": "シャクリー",
+            "name_history": [
+                "シャクリー"
+            ],
+            "registered": "Nov 13, 2024, 11:14:56 PM",
+            "role_id": 47343427750885,
             "server_region": "asia-pacific"
         },
         "47343427751975": {
@@ -39833,7 +39867,7 @@
             "server_region": "asia-pacific"
         }
     },
-    "accounts_total": 2682,
-    "last_updated": "Mar 14, 2026, 2:28:05 PM",
+    "accounts_total": 2683,
+    "last_updated": "Mar 14, 2026, 2:29:05 PM",
     "server_region": "asia-pacific"
 }
