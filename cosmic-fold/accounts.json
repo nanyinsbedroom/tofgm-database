@@ -7199,18 +7199,18 @@
             "crew_history": [
                 "幻塔"
             ],
-            "crew_id": 107374197204,
-            "crew_name": "幻塔",
+            "crew_id": 0,
+            "crew_name": "",
             "equipping_title": "2_7_0_19",
             "gender": 0,
-            "hp": 1623143.5,
+            "hp": 1674091.0,
             "last_known_position": {
                 "map": "city",
-                "x": -3583.669921875,
-                "y": -22655.359375,
-                "z": 97268.8984375
+                "x": 2042.4599609375,
+                "y": -22185.5390625,
+                "z": 97301.71875
             },
-            "last_seen": "2026年3月6日 下午9:20:47",
+            "last_seen": "2026年3月14日 下午8:56:14",
             "level": 85,
             "name": "摸鱼猫猫头",
             "name_history": [
@@ -15571,13 +15571,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695858798": {
+            "crew_history": [
+                "命运石之门"
+            ],
             "crew_id": 98784262612,
             "crew_name": "命运石之门",
             "equipping_title": "2_2_0_32",
             "gender": 1,
-            "hp": 919769.6875,
-            "last_seen": "2026年2月9日 下午7:39:34",
-            "level": 82,
+            "hp": 1651863.875,
+            "last_known_position": {
+                "map": "city",
+                "x": 1029.8699951171875,
+                "y": -24446.05859375,
+                "z": 96730.875
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 85,
             "name": "梦破、宸晓",
             "name_history": [
                 "梦破、宸晓"
@@ -25488,15 +25497,15 @@
             "crew_name": "命运石之门",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1246106.25,
+            "hp": 1423359.5,
             "last_known_position": {
                 "map": "city",
-                "x": -1723.413330078125,
-                "y": -28737.015625,
-                "z": 97864.4453125
+                "x": 1190.4000244140625,
+                "y": -28116.8984375,
+                "z": 97866.1171875
             },
-            "last_seen": "2026年3月4日 下午11:27:39",
-            "level": 83,
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 84,
             "name": "无语",
             "name_history": [
                 "无语"
@@ -45182,21 +45191,22 @@
         },
         "63582695916475": {
             "crew_history": [
+                "命运石之门",
                 "幻塔"
             ],
-            "crew_id": 107374197204,
-            "crew_name": "幻塔",
-            "equipping_title": "2_7_0_18",
+            "crew_id": 98784262612,
+            "crew_name": "命运石之门",
+            "equipping_title": "2_2_0_81",
             "gender": 1,
-            "hp": 1504720.0,
+            "hp": 1398075.625,
             "last_known_position": {
                 "map": "city",
-                "x": 1231.909912109375,
-                "y": -28357.71875,
-                "z": 97866.1171875
+                "x": 2415.39990234375,
+                "y": -29904.599609375,
+                "z": 96738.375
             },
-            "last_seen": "2026年2月24日 上午2:48:34",
-            "level": 84,
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 85,
             "name": "哈气猫猫",
             "name_history": [
                 "哈气猫猫",
@@ -48277,17 +48287,18 @@
             "crew_name": "少女终末旅行",
             "equipping_title": "2_2_0_84",
             "gender": 1,
-            "hp": 1177388.5,
+            "hp": 1282682.25,
             "last_known_position": {
                 "map": "city",
-                "x": 1738.8699951171875,
-                "y": -27040.259765625,
+                "x": 398.69873046875,
+                "y": -24484.916015625,
                 "z": 97866.1171875
             },
-            "last_seen": "2026年2月20日 下午11:53:13",
-            "level": 83,
-            "name": "芳草天",
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 85,
+            "name": "山秋色",
             "name_history": [
+                "山秋色",
                 "芳草天",
                 "细雨纷飞五月天"
             ],
@@ -54701,6 +54712,31 @@
             "role_id": 63582695940289,
             "server_region": "cosmic-fold"
         },
+        "63582695940331": {
+            "crew_history": [
+                "陌上人如玉"
+            ],
+            "crew_id": 2439541438932,
+            "crew_name": "陌上人如玉",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 176033.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1222.0499267578125,
+                "y": -28391.638671875,
+                "z": 97866.1171875
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 71,
+            "name": "vnu",
+            "name_history": [
+                "vnu"
+            ],
+            "registered": "2025年10月23日 下午9:47:18",
+            "role_id": 63582695940331,
+            "server_region": "cosmic-fold"
+        },
         "63582695940359": {
             "crew_history": [
                 "月歌行"
@@ -60617,13 +60653,22 @@
             "server_region": "cosmic-fold"
         },
         "63582695964029": {
-            "crew_id": 0,
-            "crew_name": "",
-            "equipping_title": "None",
+            "crew_history": [
+                "少女终末旅行"
+            ],
+            "crew_id": 38654720468,
+            "crew_name": "少女终末旅行",
+            "equipping_title": "1_1_30_1",
             "gender": 1,
-            "hp": 90195.0,
-            "last_seen": "2025年11月24日 上午 7:23:30",
-            "level": 53,
+            "hp": 1458443.5,
+            "last_known_position": {
+                "map": "city",
+                "x": -606.0,
+                "y": -24918.19921875,
+                "z": 97911.15625
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 85,
             "name": "柒柒的下午茶",
             "name_history": [
                 "柒柒的下午茶"
@@ -67129,6 +67174,29 @@
             ],
             "registered": "2026年1月18日 下午1:46:33",
             "role_id": 63582695991288,
+            "server_region": "cosmic-fold"
+        },
+        "63582695991513": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 153232.59375,
+            "last_known_position": {
+                "map": "city",
+                "x": -22.5,
+                "y": -16482.900390625,
+                "z": 96375.0390625
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 57,
+            "name": "六百",
+            "name_history": [
+                "六百"
+            ],
+            "registered": "2026年1月18日 下午5:39:39",
+            "role_id": 63582695991513,
             "server_region": "cosmic-fold"
         },
         "63582695991528": {
@@ -77217,23 +77285,25 @@
         },
         "63582696008317": {
             "crew_history": [
+                "",
                 "少女终末旅行"
             ],
-            "crew_id": 38654720468,
-            "crew_name": "少女终末旅行",
+            "crew_id": 3655017183700,
+            "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 189574.0,
+            "hp": 482707.0,
             "last_known_position": {
-                "map": "norn_city",
-                "x": -35816.1875,
-                "y": 5304.4326171875,
-                "z": -13810.896484375
+                "map": "city",
+                "x": 1299.4000244140625,
+                "y": -27750.0,
+                "z": 97872.1171875
             },
-            "last_seen": "2026年2月20日 下午11:29:12",
-            "level": 76,
-            "name": "额度不够辣",
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 84,
+            "name": "不破小公主",
             "name_history": [
+                "不破小公主",
                 "额度不够辣"
             ],
             "registered": "2026年2月19日 下午12:32:37",
@@ -80437,6 +80507,31 @@
             ],
             "registered": "2026年2月26日 下午4:47:12",
             "role_id": 63582696010684,
+            "server_region": "cosmic-fold"
+        },
+        "63582696010743": {
+            "crew_history": [
+                "无"
+            ],
+            "crew_id": 3551937968596,
+            "crew_name": "无",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 127841.203125,
+            "last_known_position": {
+                "map": "city",
+                "x": 1.93033766746521,
+                "y": -17245.998046875,
+                "z": 96354.796875
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 59,
+            "name": "寒水石",
+            "name_history": [
+                "寒水石"
+            ],
+            "registered": "2026年2月26日 下午5:44:42",
+            "role_id": 63582696010743,
             "server_region": "cosmic-fold"
         },
         "63582696010766": {
@@ -86139,6 +86234,29 @@
             "role_id": 63582696016647,
             "server_region": "cosmic-fold"
         },
+        "63582696016824": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 96694.125,
+            "last_known_position": {
+                "map": "city",
+                "x": -1638.0,
+                "y": -27962.119140625,
+                "z": 96749.859375
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 30,
+            "name": "清风送清雪",
+            "name_history": [
+                "清风送清雪"
+            ],
+            "registered": "2026年3月8日 上午11:04:02",
+            "role_id": 63582696016824,
+            "server_region": "cosmic-fold"
+        },
         "63582696017197": {
             "crew_history": [],
             "crew_id": 0,
@@ -86954,6 +87072,29 @@
             "role_id": 63582696019567,
             "server_region": "cosmic-fold"
         },
+        "63582696019592": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 1,
+            "hp": 46181.0,
+            "last_known_position": {
+                "map": "city",
+                "x": -245.18142700195313,
+                "y": -25559.65234375,
+                "z": 96739.140625
+            },
+            "last_seen": "2026年3月14日 下午8:56:14",
+            "level": 15,
+            "name": "凌渊仙师",
+            "name_history": [
+                "凌渊仙师"
+            ],
+            "registered": "2026年3月14日 下午6:50:46",
+            "role_id": 63582696019592,
+            "server_region": "cosmic-fold"
+        },
         "63582696019640": {
             "crew_history": [],
             "crew_id": 0,
@@ -87116,7 +87257,7 @@
             "server_region": "cosmic-fold"
         }
     },
-    "accounts_total": 5633,
-    "last_updated": "2026年3月14日 下午8:52:14",
+    "accounts_total": 5638,
+    "last_updated": "2026年3月14日 下午8:56:14",
     "server_region": "cosmic-fold"
 }
