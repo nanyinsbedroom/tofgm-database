@@ -1063,14 +1063,14 @@
             "crew_name": "Lord",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2450773.5,
+            "hp": 2555534.25,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -52869.98828125,
-                "y": -87280.296875,
-                "z": 21855.689453125
+                "x": -55204.95703125,
+                "y": -86844.515625,
+                "z": 21724.888671875
             },
-            "last_seen": "Mar 13, 2026, 10:06:27 PM",
+            "last_seen": "Mar 14, 2026, 6:26:52 PM",
             "level": 100,
             "name": "すては",
             "name_history": [
@@ -1228,6 +1228,29 @@
             ],
             "registered": "Aug 13, 2023, 3:38:55 PM",
             "role_id": 8602823788876663,
+            "server_region": "ps-east-asia"
+        },
+        "8602823788877664": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "None",
+            "gender": 0,
+            "hp": 1953594.5,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54305.546875,
+                "y": -87592.1015625,
+                "z": 21738.96875
+            },
+            "last_seen": "Mar 14, 2026, 6:26:52 PM",
+            "level": 100,
+            "name": "ムラクモ",
+            "name_history": [
+                "ムラクモ"
+            ],
+            "registered": "Aug 13, 2023, 10:22:12 PM",
+            "role_id": 8602823788877664,
             "server_region": "ps-east-asia"
         },
         "8602823788877867": {
@@ -10531,7 +10554,7 @@
             "server_region": "ps-east-asia"
         }
     },
-    "accounts_total": 469,
-    "last_updated": "Mar 14, 2026, 6:25:51 PM",
+    "accounts_total": 470,
+    "last_updated": "Mar 14, 2026, 6:26:52 PM",
     "server_region": "ps-east-asia"
 }
