@@ -352,12 +352,21 @@
             "server_region": "korea"
         },
         "42945811784454959": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "Title_tencentshare_os_21",
             "gender": 1,
-            "hp": 2343403.5,
-            "last_seen": "Nov 11, 2025, 05:33:10 PM",
+            "hp": 2726611.75,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54757.44921875,
+                "y": -88115.4765625,
+                "z": 21717.548828125
+            },
+            "last_seen": "Mar 14, 2026, 4:10:24 PM",
             "level": 100,
             "name": "PianoSoul",
             "name_history": [
@@ -545,12 +554,21 @@
             "server_region": "korea"
         },
         "42945811784506097": {
+            "crew_history": [
+                "츄르"
+            ],
             "crew_id": 1937040249597,
             "crew_name": "츄르",
             "equipping_title": "2_10_3_1",
             "gender": 1,
-            "hp": 3018438.5,
-            "last_seen": "Feb 10, 2026, 10:41:02 PM",
+            "hp": 2442327.0,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -55820.6484375,
+                "y": -88519.7578125,
+                "z": 21725.939453125
+            },
+            "last_seen": "Mar 14, 2026, 4:10:24 PM",
             "level": 100,
             "name": "StarDusts",
             "name_history": [
@@ -965,6 +983,29 @@
             ],
             "registered": "Jan 14, 2026, 7:13:45 AM",
             "role_id": 42945811784597238,
+            "server_region": "korea"
+        },
+        "42945811784597245": {
+            "crew_history": [],
+            "crew_id": 0,
+            "crew_name": "",
+            "equipping_title": "1_1_1_1",
+            "gender": 1,
+            "hp": 982143.9375,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -54900.84765625,
+                "y": -87540.625,
+                "z": 21724.869140625
+            },
+            "last_seen": "Mar 14, 2026, 4:10:24 PM",
+            "level": 98,
+            "name": "제발안아줘요",
+            "name_history": [
+                "제발안아줘요"
+            ],
+            "registered": "Jan 17, 2026, 2:49:09 AM",
+            "role_id": 42945811784597245,
             "server_region": "korea"
         },
         "42945811784597381": {
@@ -3266,7 +3307,7 @@
             "server_region": "korea"
         }
     },
-    "accounts_total": 193,
-    "last_updated": "Mar 14, 2026, 4:09:24 PM",
+    "accounts_total": 194,
+    "last_updated": "Mar 14, 2026, 4:10:24 PM",
     "server_region": "korea"
 }
