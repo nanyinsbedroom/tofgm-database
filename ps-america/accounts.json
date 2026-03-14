@@ -381,12 +381,21 @@
             "server_region": "ps-america"
         },
         "8594233854338713": {
+            "crew_history": [
+                "Empathy"
+            ],
             "crew_id": 4780300601455,
             "crew_name": "Empathy",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 1960533.75,
-            "last_seen": "Nov 05, 2025, 11:52:31 AM",
+            "hp": 3221693.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324622.6875,
+                "y": 203946.203125,
+                "z": -28340.279296875
+            },
+            "last_seen": "Mar 13, 2026, 10:58:06 PM",
             "level": 100,
             "name": "Moirablackflame",
             "name_history": [
@@ -394,7 +403,7 @@
             ],
             "registered": "Sep 21, 2024, 7:18:58 PM",
             "role_id": 8594233854338713,
-            "server_region": "north_america"
+            "server_region": "ps-america"
         },
         "8594233854475722": {
             "crew_id": 4445293152361,
@@ -4808,6 +4817,31 @@
             "role_id": 8594242444231133,
             "server_region": "north_america"
         },
+        "8594242444245193": {
+            "crew_history": [
+                "Rédux"
+            ],
+            "crew_id": 4296968304,
+            "crew_name": "Rédux",
+            "equipping_title": "2_2_0_61",
+            "gender": 1,
+            "hp": 2662976.75,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324403.09375,
+                "y": 203213.03125,
+                "z": -28327.359375
+            },
+            "last_seen": "Mar 13, 2026, 10:58:06 PM",
+            "level": 100,
+            "name": "_Dalila_",
+            "name_history": [
+                "_Dalila_"
+            ],
+            "registered": "Aug 13, 2023, 9:59:26 PM",
+            "role_id": 8594242444245193,
+            "server_region": "ps-america"
+        },
         "8594242444245974": {
             "crew_id": 5467495368809,
             "crew_name": "Unity",
@@ -5922,6 +5956,31 @@
             "role_id": 8594259624171871,
             "server_region": "ps-america"
         },
+        "8594259624234746": {
+            "crew_history": [
+                "Aurora "
+            ],
+            "crew_id": 7640748820585,
+            "crew_name": "Aurora ",
+            "equipping_title": "1_8_0_36",
+            "gender": 0,
+            "hp": 3337875.5,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324110.3125,
+                "y": 203369.390625,
+                "z": -28334.279296875
+            },
+            "last_seen": "Mar 13, 2026, 10:58:06 PM",
+            "level": 100,
+            "name": "Amør",
+            "name_history": [
+                "Amør"
+            ],
+            "registered": "Aug 17, 2023, 7:19:06 PM",
+            "role_id": 8594259624234746,
+            "server_region": "ps-america"
+        },
         "8594259624235326": {
             "crew_id": 5467495368809,
             "crew_name": "Unity",
@@ -6629,6 +6688,31 @@
             "role_id": 8594272509017062,
             "server_region": "ps-america"
         },
+        "8594272509019698": {
+            "crew_history": [
+                "Knight of Ni"
+            ],
+            "crew_id": 2409478654067,
+            "crew_name": "Knight of Ni",
+            "equipping_title": "1_6_3_1",
+            "gender": 1,
+            "hp": 2896722.0,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -324369.8125,
+                "y": 201969.296875,
+                "z": -28326.458984375
+            },
+            "last_seen": "Mar 13, 2026, 10:58:06 PM",
+            "level": 100,
+            "name": "Hæthër",
+            "name_history": [
+                "Hæthër"
+            ],
+            "registered": "Dec 31, 2023, 9:40:39 PM",
+            "role_id": 8594272509019698,
+            "server_region": "ps-america"
+        },
         "8594272509028363": {
             "crew_id": 4296968304,
             "crew_name": "Rédux",
@@ -7250,6 +7334,31 @@
             "role_id": 8594276804124861,
             "server_region": "ps-america"
         },
+        "8594276804127424": {
+            "crew_history": [
+                "GODz"
+            ],
+            "crew_id": 98786248814,
+            "crew_name": "GODz",
+            "equipping_title": "1_4_1_4",
+            "gender": 1,
+            "hp": 3776614.25,
+            "last_known_position": {
+                "map": "JIUYU_P",
+                "x": -323723.9375,
+                "y": 204122.0,
+                "z": -28349.599609375
+            },
+            "last_seen": "Mar 13, 2026, 10:58:06 PM",
+            "level": 100,
+            "name": "Perlita10",
+            "name_history": [
+                "Perlita10"
+            ],
+            "registered": "Sep 15, 2024, 6:20:11 PM",
+            "role_id": 8594276804127424,
+            "server_region": "ps-america"
+        },
         "8594276804137937": {
             "crew_id": 34361739375,
             "crew_name": "Straw Hats",
@@ -7283,7 +7392,7 @@
             "server_region": "ps-america"
         }
     },
-    "accounts_total": 434,
-    "last_updated": "Mar 11, 2026, 6:37:58 PM",
+    "accounts_total": 438,
+    "last_updated": "Mar 13, 2026, 10:58:06 PM",
     "server_region": "ps-america"
 }
