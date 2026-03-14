@@ -2077,14 +2077,14 @@
             "crew_name": "♥︎ Coalition ♡",
             "equipping_title": "2_2_0_28",
             "gender": 0,
-            "hp": 3653020.75,
+            "hp": 2654220.75,
             "last_known_position": {
-                "map": "JIUYU_P",
-                "x": -325661.9375,
-                "y": 201695.578125,
-                "z": -28345.798828125
+                "map": "QRSL_P",
+                "x": -55140.21875,
+                "y": -87609.40625,
+                "z": 21710.888671875
             },
-            "last_seen": "Mar 11, 2026, 6:52:45 PM",
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
             "level": 100,
             "name": "leveler",
             "name_history": [
@@ -5186,11 +5186,11 @@
             "hp": 1917190.375,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.3984375,
-                "y": -88115.5,
-                "z": 21717.548828125
+                "x": -55361.48046875,
+                "y": -86793.421875,
+                "z": 21717.490234375
             },
-            "last_seen": "Mar 14, 2026, 2:20:24 PM",
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
             "level": 100,
             "name": "Asuna69#a$",
             "name_history": [
@@ -5608,14 +5608,14 @@
             "crew_name": "Nyne Lives",
             "equipping_title": "1_6_2_1",
             "gender": 1,
-            "hp": 1951663.5,
+            "hp": 1944893.5,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21825.9296875
+                "x": -54675.41796875,
+                "y": -87377.421875,
+                "z": 21710.98046875
             },
-            "last_seen": "Mar 11, 2026, 8:16:51 PM",
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
             "level": 100,
             "name": "frostysplash",
             "name_history": [
@@ -7798,14 +7798,24 @@
             "server_region": "north-america"
         },
         "51621212030829": {
+            "crew_history": [],
             "crew_id": 0,
             "crew_name": "",
             "equipping_title": "1_8_1_1",
             "gender": 0,
-            "hp": 1466861.625,
-            "last_seen": "Oct 30, 2025, 12:08:58 AM",
+            "hp": 1449147.25,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -58986.12890625,
+                "y": -85558.4765625,
+                "z": 26162.609375
+            },
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
             "level": 100,
             "name": "Zegrus",
+            "name_history": [
+                "Zegrus"
+            ],
             "registered": "Sep 25, 2022, 2:24:23 PM",
             "role_id": 51621212030829,
             "server_region": "north-america"
@@ -13050,6 +13060,31 @@
             "role_id": 51629802361048,
             "server_region": "north-america"
         },
+        "51629802361174": {
+            "crew_history": [
+                "Degenerates"
+            ],
+            "crew_id": 197568507636,
+            "crew_name": "Degenerates",
+            "equipping_title": "1_7_1_1",
+            "gender": 1,
+            "hp": 804804.1875,
+            "last_known_position": {
+                "map": "QRSL_P",
+                "x": -46249.01171875,
+                "y": 436.3671875,
+                "z": -15133.3212890625
+            },
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
+            "level": 74,
+            "name": "Merychan28",
+            "name_history": [
+                "Merychan28"
+            ],
+            "registered": "Jan 13, 2026, 4:20:15 PM",
+            "role_id": 51629802361174,
+            "server_region": "north-america"
+        },
         "51629802361453": {
             "crew_history": [
                 "Luna"
@@ -16038,15 +16073,15 @@
             "crew_name": "",
             "equipping_title": "None",
             "gender": 1,
-            "hp": 2751.111572265625,
+            "hp": 306047.0,
             "last_known_position": {
                 "map": "QRSL_P",
-                "x": -54757.44921875,
-                "y": -88115.4765625,
-                "z": 21825.9296875
+                "x": -58453.07421875,
+                "y": -93386.5859375,
+                "z": 22535.177734375
             },
-            "last_seen": "Mar 10, 2026, 3:33:24 PM",
-            "level": 6,
+            "last_seen": "Mar 14, 2026, 4:19:08 PM",
+            "level": 41,
             "name": "Smyliii",
             "name_history": [
                 "Smyliii"
@@ -17429,7 +17464,7 @@
             "server_region": "north-america"
         }
     },
-    "accounts_total": 1039,
-    "last_updated": "Mar 14, 2026, 2:30:24 PM",
+    "accounts_total": 1040,
+    "last_updated": "Mar 14, 2026, 4:19:08 PM",
     "server_region": "north-america"
 }
